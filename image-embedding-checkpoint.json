@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 33,
+  "checkpoint": 34,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -111,7 +111,11 @@
     "elijah-craig-18-year-old-single-barrel-bourbon-2023.html",
     "elijah-craig-18-year-single-barrel.html",
     "elijah-craig-21-year-94-2026.html",
-    "elijah-craig-21-year.html"
+    "elijah-craig-21-year.html",
+    "elijah-craig-23-year.html",
+    "elijah-craig-barrel-proof-batch-a120.html",
+    "elijah-craig-barrel-proof-batch-a121.html",
+    "elijah-craig-barrel-proof-batch-a122.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -267,23 +271,27 @@
     "elijah-craig-18-year-old-single-barrel-bourbon-2023.html",
     "elijah-craig-18-year-single-barrel.html",
     "elijah-craig-21-year-94-2026.html",
-    "elijah-craig-21-year.html"
+    "elijah-craig-21-year.html",
+    "elijah-craig-23-year.html",
+    "elijah-craig-barrel-proof-batch-a120.html",
+    "elijah-craig-barrel-proof-batch-a121.html",
+    "elijah-craig-barrel-proof-batch-a122.html"
   ],
   "validation": {
-    "decoded_images": 106,
+    "decoded_images": 110,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 671,
-  "updated_at": "2026-10-10T15:56:55.413Z",
+  "remaining_articles": 667,
+  "updated_at": "2026-10-10T15:56:58.281Z",
   "last_checkpoint_articles": [
-    "elijah-craig-18-year-old-single-barrel-bourbon-2023.html",
-    "elijah-craig-18-year-single-barrel.html",
-    "elijah-craig-21-year-94-2026.html",
-    "elijah-craig-21-year.html"
+    "elijah-craig-23-year.html",
+    "elijah-craig-barrel-proof-batch-a120.html",
+    "elijah-craig-barrel-proof-batch-a121.html",
+    "elijah-craig-barrel-proof-batch-a122.html"
   ],
-  "last_parent_commit": "c80578f3cb7dadfd0907ca92c107eafd741d6ada"
+  "last_parent_commit": "edeb229d13f43292aa74280bed3c127ac9a25c38"
 }
