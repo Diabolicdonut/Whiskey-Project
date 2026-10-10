@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 22,
+  "checkpoint": 23,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -72,7 +72,12 @@
     "bookers-bourbon-2024-01-springfield-batch.html",
     "bookers-bourbon-2025-01-barrys-batch.html",
     "bookers-bourbon-2025-02-by-the-pond-batch.html",
-    "bookers-bourbon-2025-03-jerrys-batch.html"
+    "bookers-bourbon-2025-03-jerrys-batch.html",
+    "bookers-bourbon-2025-04-phantom-pipes-batch.html",
+    "bookers-bourbon-batch-2024-04-jimmys-batch.html",
+    "bookers-bourbon-batch-2026-01-big-easy-batch.html",
+    "bookers-bourbon-batch-2026-02-milkshake-batch.html",
+    "bookers-bourbon-boston-batch-batch-2020-02.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -159,24 +164,29 @@
     "bookers-bourbon-2024-01-springfield-batch.html",
     "bookers-bourbon-2025-01-barrys-batch.html",
     "bookers-bourbon-2025-02-by-the-pond-batch.html",
-    "bookers-bourbon-2025-03-jerrys-batch.html"
+    "bookers-bourbon-2025-03-jerrys-batch.html",
+    "bookers-bourbon-2025-04-phantom-pipes-batch.html",
+    "bookers-bourbon-batch-2024-04-jimmys-batch.html",
+    "bookers-bourbon-batch-2026-01-big-easy-batch.html",
+    "bookers-bourbon-batch-2026-02-milkshake-batch.html",
+    "bookers-bourbon-boston-batch-batch-2020-02.html"
   ],
   "validation": {
-    "decoded_images": 67,
+    "decoded_images": 72,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 740,
-  "updated_at": "2026-10-10T15:55:23.912Z",
+  "remaining_articles": 735,
+  "updated_at": "2026-10-10T15:55:27.503Z",
   "last_checkpoint_articles": [
-    "bookers-batch-no-2022-02-the-lumberyard-batch.html",
-    "bookers-bourbon-2024-01-springfield-batch.html",
-    "bookers-bourbon-2025-01-barrys-batch.html",
-    "bookers-bourbon-2025-02-by-the-pond-batch.html",
-    "bookers-bourbon-2025-03-jerrys-batch.html"
+    "bookers-bourbon-2025-04-phantom-pipes-batch.html",
+    "bookers-bourbon-batch-2024-04-jimmys-batch.html",
+    "bookers-bourbon-batch-2026-01-big-easy-batch.html",
+    "bookers-bourbon-batch-2026-02-milkshake-batch.html",
+    "bookers-bourbon-boston-batch-batch-2020-02.html"
   ],
-  "last_parent_commit": "e1598f3cd3ee1612abadb5a5fb3918b3a1b8c1db"
+  "last_parent_commit": "8532511cd812106a7954c133f328bc2e98d5112f"
 }
