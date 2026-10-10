@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 18,
+  "checkpoint": 19,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -58,7 +58,9 @@
     "basil-haydens-bourbon.html",
     "basil-haydens-caribbean-reserve-rye.html",
     "basil-haydens-rye-10-year.html",
-    "basil-haydens-toast.html"
+    "basil-haydens-toast.html",
+    "belle-meade-calvados-cask-reviewed-2024.html",
+    "belle-meade-honey-cask-finish-bourbon-2021.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -118,23 +120,23 @@
     "basil-haydens-bourbon.html",
     "basil-haydens-caribbean-reserve-rye.html",
     "basil-haydens-rye-10-year.html",
-    "basil-haydens-toast.html"
+    "basil-haydens-toast.html",
+    "belle-meade-calvados-cask-reviewed-2024.html",
+    "belle-meade-honey-cask-finish-bourbon-2021.html"
   ],
   "validation": {
-    "decoded_images": 53,
+    "decoded_images": 55,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 767,
-  "updated_at": "2026-10-10T15:55:02.657Z",
+  "remaining_articles": 765,
+  "updated_at": "2026-10-10T15:55:05.846Z",
   "last_checkpoint_articles": [
-    "basil-haydens-bourbon.html",
-    "basil-haydens-caribbean-reserve-rye.html",
-    "basil-haydens-rye-10-year.html",
-    "basil-haydens-toast.html"
+    "belle-meade-calvados-cask-reviewed-2024.html",
+    "belle-meade-honey-cask-finish-bourbon-2021.html"
   ],
-  "last_parent_commit": "b6accdbe8d7f65552d6a046a5b395d4f0755c54f"
+  "last_parent_commit": "88bd60b0c63121cbb5b4931f82cdec421fc58a23"
 }
