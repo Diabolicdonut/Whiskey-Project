@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 30,
+  "checkpoint": 31,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -101,7 +101,9 @@
     "castle-key-small-batch-bourbon.html",
     "chattanooga-whiskey-111-cask.html",
     "chattanooga-whiskey-91.html",
-    "courage-conviction-batch-dr-george-g-moore.html"
+    "courage-conviction-batch-dr-george-g-moore.html",
+    "eh-taylor-amaranth-2019.html",
+    "eh-taylor-cured-oak-2015.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -233,29 +235,39 @@
     "eagle-rare-12.html",
     "eagle-rare-17-2025.html",
     "eagle-rare-25.html",
-    "eagle-rare-30-2026.html"
+    "eagle-rare-30-2026.html",
+    "eagle-rare-double-eagle-very-rare.html",
+    "eh-taylor-18-year-marriage-2020.html",
+    "eh-taylor-amaranth-2019.html",
+    "eh-taylor-barrel-proof-rye-2024.html",
+    "eh-taylor-barrel-proof.html",
+    "eh-taylor-bottled-in-bond-2025.html",
+    "eh-taylor-cured-oak-2015.html",
+    "eh-taylor-cured-oak-2026.html",
+    "eh-taylor-distillers-council-2025.html",
+    "eh-taylor-four-grain-2017.html"
   ],
   "validation": {
-    "decoded_images": 96,
+    "decoded_images": 98,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 695,
-  "updated_at": "2026-10-10T15:56:36.771Z",
+  "remaining_articles": 685,
+  "updated_at": "2026-10-10T15:56:43.137Z",
   "last_checkpoint_articles": [
-    "chattanooga-whiskey-91.html",
-    "cleveland-black-reserve-early-2013-2014.html",
-    "courage-conviction-batch-dr-george-g-moore.html",
-    "daniel-weller-emmer-wheat-2023.html",
-    "daniel-weller-spelt-wheat-2026.html",
-    "eagle-rare-10.html",
-    "eagle-rare-12.html",
-    "eagle-rare-17-2025.html",
-    "eagle-rare-25.html",
-    "eagle-rare-30-2026.html"
+    "eagle-rare-double-eagle-very-rare.html",
+    "eh-taylor-18-year-marriage-2020.html",
+    "eh-taylor-amaranth-2019.html",
+    "eh-taylor-barrel-proof-rye-2024.html",
+    "eh-taylor-barrel-proof.html",
+    "eh-taylor-bottled-in-bond-2025.html",
+    "eh-taylor-cured-oak-2015.html",
+    "eh-taylor-cured-oak-2026.html",
+    "eh-taylor-distillers-council-2025.html",
+    "eh-taylor-four-grain-2017.html"
   ],
-  "last_parent_commit": "097ffab7505b4fa782d906fbfb01a755a5aec03c"
+  "last_parent_commit": "810951d5b9d4313f06f092e8b0698b8a12bd4aba"
 }
