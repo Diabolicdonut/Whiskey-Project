@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 6,
+  "checkpoint": 7,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -15,7 +15,12 @@
     "1792-single-barrel-bourbon-2023-release.html",
     "1792-small-batch.html",
     "1792-sweet-wheat-2023-release.html",
-    "balcones-1-texas-single-malt-whiskey.html"
+    "balcones-1-texas-single-malt-whiskey.html",
+    "balcones-lineage.html",
+    "bardstown-bourbon-company-bottled-in-bond-bourbon-2026.html",
+    "bardstown-origin-series-bourbon.html",
+    "barrell-foundation-bourbon.html",
+    "barrell-seagrass.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -58,28 +63,38 @@
     "bakers-high-rye-bourbon-2025.html",
     "bakers-high-rye-bourbon.html",
     "bakers-single-barrel-exclusive-selection-2021.html",
-    "balcones-1-texas-single-malt-whiskey.html"
+    "balcones-1-texas-single-malt-whiskey.html",
+    "balcones-lineage.html",
+    "bardstown-bourbon-company-bottled-in-bond-bourbon-2026.html",
+    "bardstown-origin-series-bourbon.html",
+    "barrell-foundation-bourbon.html",
+    "barrell-seagrass.html",
+    "basil-hayden-aged-10-years-bourbon.html",
+    "basil-hayden-bourbon.html",
+    "basil-hayden-cognac-cask-reserve-bourbon.html",
+    "basil-hayden-dark-rye.html",
+    "basil-hayden-golden-rye.html"
   ],
   "validation": {
-    "decoded_images": 10,
+    "decoded_images": 15,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true
   },
-  "remaining_articles": 784,
-  "updated_at": "2026-10-10T15:51:12.792Z",
+  "remaining_articles": 774,
+  "updated_at": "2026-10-10T15:51:18.549Z",
   "last_checkpoint_articles": [
-    "bakers-13-year-old-limited-edition-single-barrel-bourbon-2026.html",
-    "bakers-13-year-old-single-barrel-bourbon-2023-release.html",
-    "bakers-13-year-old-single-barrel.html",
-    "bakers-bourbon-13-year-old-limited-edition-single-barrel-2024.html",
-    "bakers-bourbon-7-year-single-barrel.html",
-    "bakers-bourbon-7-year.html",
-    "bakers-high-rye-bourbon-2025.html",
-    "bakers-high-rye-bourbon.html",
-    "bakers-single-barrel-exclusive-selection-2021.html",
-    "balcones-1-texas-single-malt-whiskey.html"
+    "balcones-lineage.html",
+    "bardstown-bourbon-company-bottled-in-bond-bourbon-2026.html",
+    "bardstown-origin-series-bourbon.html",
+    "barrell-foundation-bourbon.html",
+    "barrell-seagrass.html",
+    "basil-hayden-aged-10-years-bourbon.html",
+    "basil-hayden-bourbon.html",
+    "basil-hayden-cognac-cask-reserve-bourbon.html",
+    "basil-hayden-dark-rye.html",
+    "basil-hayden-golden-rye.html"
   ],
-  "last_parent_commit": "cbddc94dedce4b9ac7d0506ae469a7a9759aec4a"
+  "last_parent_commit": "2d9be89fe7fe759546ccf513600af8974128f89a"
 }
