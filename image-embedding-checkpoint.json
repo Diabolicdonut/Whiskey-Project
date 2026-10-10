@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 32,
+  "checkpoint": 33,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -107,7 +107,11 @@
     "eh-taylor-old-fashioned-sour-mash-2011.html",
     "eh-taylor-tornado-surviving-2011.html",
     "elijah-craig-12-year.html",
-    "elijah-craig-15-year-single-barrel-bourbon.html"
+    "elijah-craig-15-year-single-barrel-bourbon.html",
+    "elijah-craig-18-year-old-single-barrel-bourbon-2023.html",
+    "elijah-craig-18-year-single-barrel.html",
+    "elijah-craig-21-year-94-2026.html",
+    "elijah-craig-21-year.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -259,29 +263,27 @@
     "eh-taylor-tornado-surviving-2011.html",
     "eh-taylor-warehouse-c-2021.html",
     "elijah-craig-12-year.html",
-    "elijah-craig-15-year-single-barrel-bourbon.html"
+    "elijah-craig-15-year-single-barrel-bourbon.html",
+    "elijah-craig-18-year-old-single-barrel-bourbon-2023.html",
+    "elijah-craig-18-year-single-barrel.html",
+    "elijah-craig-21-year-94-2026.html",
+    "elijah-craig-21-year.html"
   ],
   "validation": {
-    "decoded_images": 102,
+    "decoded_images": 106,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 675,
-  "updated_at": "2026-10-10T15:56:49.346Z",
+  "remaining_articles": 671,
+  "updated_at": "2026-10-10T15:56:55.413Z",
   "last_checkpoint_articles": [
-    "eh-taylor-four-grain-2026.html",
-    "eh-taylor-old-fashioned-sour-mash-2011.html",
-    "eh-taylor-seasoned-wood-2016.html",
-    "eh-taylor-single-barrel.html",
-    "eh-taylor-small-batch.html",
-    "eh-taylor-straight-rye.html",
-    "eh-taylor-tornado-surviving-2011.html",
-    "eh-taylor-warehouse-c-2021.html",
-    "elijah-craig-12-year.html",
-    "elijah-craig-15-year-single-barrel-bourbon.html"
+    "elijah-craig-18-year-old-single-barrel-bourbon-2023.html",
+    "elijah-craig-18-year-single-barrel.html",
+    "elijah-craig-21-year-94-2026.html",
+    "elijah-craig-21-year.html"
   ],
-  "last_parent_commit": "c5c652ef0fcbce3d8368f76fba4139fea0184bec"
+  "last_parent_commit": "c80578f3cb7dadfd0907ca92c107eafd741d6ada"
 }
