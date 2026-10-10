@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 37,
+  "checkpoint": 38,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -126,7 +126,8 @@
     "elijah-craig-barrel-proof-batch-c922.html",
     "elijah-craig-barrel-proof-batch-c923.html",
     "elijah-craig-barrel-proof-bourbon-batch-a123.html",
-    "elijah-craig-barrel-proof-bourbon-batch-a125.html"
+    "elijah-craig-barrel-proof-bourbon-batch-a125.html",
+    "elijah-craig-barrel-proof-bourbon-batch-b524.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -297,23 +298,21 @@
     "elijah-craig-barrel-proof-batch-c922.html",
     "elijah-craig-barrel-proof-batch-c923.html",
     "elijah-craig-barrel-proof-bourbon-batch-a123.html",
-    "elijah-craig-barrel-proof-bourbon-batch-a125.html"
+    "elijah-craig-barrel-proof-bourbon-batch-a125.html",
+    "elijah-craig-barrel-proof-bourbon-batch-b524.html"
   ],
   "validation": {
-    "decoded_images": 121,
+    "decoded_images": 122,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 656,
-  "updated_at": "2026-10-10T15:57:11.045Z",
+  "remaining_articles": 655,
+  "updated_at": "2026-10-10T15:57:14.166Z",
   "last_checkpoint_articles": [
-    "elijah-craig-barrel-proof-batch-c922.html",
-    "elijah-craig-barrel-proof-batch-c923.html",
-    "elijah-craig-barrel-proof-bourbon-batch-a123.html",
-    "elijah-craig-barrel-proof-bourbon-batch-a125.html"
+    "elijah-craig-barrel-proof-bourbon-batch-b524.html"
   ],
-  "last_parent_commit": "86bbc01ff49e0d69b5e6477e3b1cdcdeef2ebea7"
+  "last_parent_commit": "6135e05d139cb247b08b012bd174014f347f724f"
 }
