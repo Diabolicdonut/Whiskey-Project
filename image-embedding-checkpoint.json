@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 36,
+  "checkpoint": 37,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -122,7 +122,11 @@
     "elijah-craig-barrel-proof-batch-b522.html",
     "elijah-craig-barrel-proof-batch-b523.html",
     "elijah-craig-barrel-proof-batch-c920.html",
-    "elijah-craig-barrel-proof-batch-c921.html"
+    "elijah-craig-barrel-proof-batch-c921.html",
+    "elijah-craig-barrel-proof-batch-c922.html",
+    "elijah-craig-barrel-proof-batch-c923.html",
+    "elijah-craig-barrel-proof-bourbon-batch-a123.html",
+    "elijah-craig-barrel-proof-bourbon-batch-a125.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -289,24 +293,27 @@
     "elijah-craig-barrel-proof-batch-b522.html",
     "elijah-craig-barrel-proof-batch-b523.html",
     "elijah-craig-barrel-proof-batch-c920.html",
-    "elijah-craig-barrel-proof-batch-c921.html"
+    "elijah-craig-barrel-proof-batch-c921.html",
+    "elijah-craig-barrel-proof-batch-c922.html",
+    "elijah-craig-barrel-proof-batch-c923.html",
+    "elijah-craig-barrel-proof-bourbon-batch-a123.html",
+    "elijah-craig-barrel-proof-bourbon-batch-a125.html"
   ],
   "validation": {
-    "decoded_images": 117,
+    "decoded_images": 121,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 660,
-  "updated_at": "2026-10-10T15:57:07.589Z",
+  "remaining_articles": 656,
+  "updated_at": "2026-10-10T15:57:11.045Z",
   "last_checkpoint_articles": [
-    "elijah-craig-barrel-proof-batch-b521.html",
-    "elijah-craig-barrel-proof-batch-b522.html",
-    "elijah-craig-barrel-proof-batch-b523.html",
-    "elijah-craig-barrel-proof-batch-c920.html",
-    "elijah-craig-barrel-proof-batch-c921.html"
+    "elijah-craig-barrel-proof-batch-c922.html",
+    "elijah-craig-barrel-proof-batch-c923.html",
+    "elijah-craig-barrel-proof-bourbon-batch-a123.html",
+    "elijah-craig-barrel-proof-bourbon-batch-a125.html"
   ],
-  "last_parent_commit": "0b7d964382166baeab2f5b62a8764f9c6e6539f9"
+  "last_parent_commit": "86bbc01ff49e0d69b5e6477e3b1cdcdeef2ebea7"
 }
