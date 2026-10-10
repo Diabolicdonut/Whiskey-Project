@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 4,
+  "checkpoint": 5,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -37,7 +37,17 @@
     "angels-envy-bourbon-port-finish.html",
     "angels-envy-cask-strength-10-2025-c14.html",
     "angels-envy-cask-strength-bourbon-2026-catalogue.html",
-    "angels-envy-cask-strength-rye-2023-catalogue.html"
+    "angels-envy-cask-strength-rye-2023-catalogue.html",
+    "angels-envy-finished-rye-2015.html",
+    "angels-envy-finished-rye.html",
+    "angels-envy-ice-cider-2022-reviewed.html",
+    "angels-envy-madeira-2021-reviewed.html",
+    "angels-envy-mizunara-2020.html",
+    "angels-envy-oloroso-2019-reviewed.html",
+    "angels-envy-peated-cask-rye-2025.html",
+    "angels-envy-tawny-port-2020-reviewed.html",
+    "angels-envy-triple-oak.html",
+    "bakers-13-year-old-limited-edition-single-barrel-2025.html"
   ],
   "validation": {
     "decoded_images": 9,
@@ -46,19 +56,19 @@
     "image_pixels_preserved": true,
     "index_unchanged": true
   },
-  "remaining_articles": 804,
-  "updated_at": "2026-10-10T15:51:02.368Z",
+  "remaining_articles": 794,
+  "updated_at": "2026-10-10T15:51:07.143Z",
   "last_checkpoint_articles": [
-    "ancient-age.html",
-    "ancient-ancient-age-10-star.html",
-    "angels-envy-10-year-cask-strength-rye-2026.html",
-    "angels-envy-2024-cask-strength-bourbon.html",
-    "angels-envy-anejo-rye-2025-reviewed.html",
-    "angels-envy-bottled-in-bond-cask-strength-bourbon.html",
-    "angels-envy-bourbon-port-finish.html",
-    "angels-envy-cask-strength-10-2025-c14.html",
-    "angels-envy-cask-strength-bourbon-2026-catalogue.html",
-    "angels-envy-cask-strength-rye-2023-catalogue.html"
+    "angels-envy-finished-rye-2015.html",
+    "angels-envy-finished-rye.html",
+    "angels-envy-ice-cider-2022-reviewed.html",
+    "angels-envy-madeira-2021-reviewed.html",
+    "angels-envy-mizunara-2020.html",
+    "angels-envy-oloroso-2019-reviewed.html",
+    "angels-envy-peated-cask-rye-2025.html",
+    "angels-envy-tawny-port-2020-reviewed.html",
+    "angels-envy-triple-oak.html",
+    "bakers-13-year-old-limited-edition-single-barrel-2025.html"
   ],
-  "last_parent_commit": "73bd192c43ad8deb0d46aac76780004b40dfd355"
+  "last_parent_commit": "7fa4ababa16f026746618c1ce96d233e51a67417"
 }
