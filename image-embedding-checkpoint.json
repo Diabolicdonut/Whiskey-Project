@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 23,
+  "checkpoint": 24,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -77,7 +77,11 @@
     "bookers-bourbon-batch-2024-04-jimmys-batch.html",
     "bookers-bourbon-batch-2026-01-big-easy-batch.html",
     "bookers-bourbon-batch-2026-02-milkshake-batch.html",
-    "bookers-bourbon-boston-batch-batch-2020-02.html"
+    "bookers-bourbon-boston-batch-batch-2020-02.html",
+    "bookers-bourbon-pigskin-batch-2020-03.html",
+    "bookers-bourbon.html",
+    "bookers-the-reserves-2025.html",
+    "bookers-the-reserves-2026.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -169,24 +173,29 @@
     "bookers-bourbon-batch-2024-04-jimmys-batch.html",
     "bookers-bourbon-batch-2026-01-big-easy-batch.html",
     "bookers-bourbon-batch-2026-02-milkshake-batch.html",
-    "bookers-bourbon-boston-batch-batch-2020-02.html"
+    "bookers-bourbon-boston-batch-batch-2020-02.html",
+    "bookers-bourbon-pigskin-batch-2020-03.html",
+    "bookers-bourbon.html",
+    "bookers-rye-2016.html",
+    "bookers-the-reserves-2025.html",
+    "bookers-the-reserves-2026.html"
   ],
   "validation": {
-    "decoded_images": 72,
+    "decoded_images": 76,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 735,
-  "updated_at": "2026-10-10T15:55:27.503Z",
+  "remaining_articles": 730,
+  "updated_at": "2026-10-10T15:55:34.348Z",
   "last_checkpoint_articles": [
-    "bookers-bourbon-2025-04-phantom-pipes-batch.html",
-    "bookers-bourbon-batch-2024-04-jimmys-batch.html",
-    "bookers-bourbon-batch-2026-01-big-easy-batch.html",
-    "bookers-bourbon-batch-2026-02-milkshake-batch.html",
-    "bookers-bourbon-boston-batch-batch-2020-02.html"
+    "bookers-bourbon-pigskin-batch-2020-03.html",
+    "bookers-bourbon.html",
+    "bookers-rye-2016.html",
+    "bookers-the-reserves-2025.html",
+    "bookers-the-reserves-2026.html"
   ],
-  "last_parent_commit": "8532511cd812106a7954c133f328bc2e98d5112f"
+  "last_parent_commit": "386dd588370335f966116d415f2b2aa893443756"
 }
