@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 17,
+  "checkpoint": 18,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -54,7 +54,11 @@
     "basil-hayden-golden-rye.html",
     "basil-hayden-malted-rye.html",
     "basil-hayden-subtle-smoke.html",
-    "basil-haydens-10-year-bourbon.html"
+    "basil-haydens-10-year-bourbon.html",
+    "basil-haydens-bourbon.html",
+    "basil-haydens-caribbean-reserve-rye.html",
+    "basil-haydens-rye-10-year.html",
+    "basil-haydens-toast.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -110,23 +114,27 @@
     "basil-hayden-golden-rye.html",
     "basil-hayden-malted-rye.html",
     "basil-hayden-subtle-smoke.html",
-    "basil-haydens-10-year-bourbon.html"
+    "basil-haydens-10-year-bourbon.html",
+    "basil-haydens-bourbon.html",
+    "basil-haydens-caribbean-reserve-rye.html",
+    "basil-haydens-rye-10-year.html",
+    "basil-haydens-toast.html"
   ],
   "validation": {
-    "decoded_images": 49,
+    "decoded_images": 53,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 771,
-  "updated_at": "2026-10-10T15:54:59.589Z",
+  "remaining_articles": 767,
+  "updated_at": "2026-10-10T15:55:02.657Z",
   "last_checkpoint_articles": [
-    "basil-hayden-golden-rye.html",
-    "basil-hayden-malted-rye.html",
-    "basil-hayden-subtle-smoke.html",
-    "basil-haydens-10-year-bourbon.html"
+    "basil-haydens-bourbon.html",
+    "basil-haydens-caribbean-reserve-rye.html",
+    "basil-haydens-rye-10-year.html",
+    "basil-haydens-toast.html"
   ],
-  "last_parent_commit": "cf5b7e96095b3d806b2ad3dcb06211328263ffa2"
+  "last_parent_commit": "b6accdbe8d7f65552d6a046a5b395d4f0755c54f"
 }
