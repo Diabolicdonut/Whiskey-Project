@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 11,
+  "checkpoint": 12,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -33,7 +33,11 @@
     "angels-envy-ice-cider-2022-reviewed.html",
     "angels-envy-madeira-2021-reviewed.html",
     "angels-envy-mizunara-2020.html",
-    "angels-envy-oloroso-2019-reviewed.html"
+    "angels-envy-oloroso-2019-reviewed.html",
+    "angels-envy-peated-cask-rye-2025.html",
+    "angels-envy-tawny-port-2020-reviewed.html",
+    "angels-envy-triple-oak.html",
+    "bakers-13-year-old-limited-edition-single-barrel-2025.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -68,22 +72,27 @@
     "angels-envy-ice-cider-2022-reviewed.html",
     "angels-envy-madeira-2021-reviewed.html",
     "angels-envy-mizunara-2020.html",
-    "angels-envy-oloroso-2019-reviewed.html"
+    "angels-envy-oloroso-2019-reviewed.html",
+    "angels-envy-peated-cask-rye-2025.html",
+    "angels-envy-tawny-port-2020-reviewed.html",
+    "angels-envy-triple-oak.html",
+    "bakers-13-year-old-limited-edition-single-barrel-2025.html"
   ],
   "validation": {
-    "decoded_images": 28,
+    "decoded_images": 32,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 792,
-  "updated_at": "2026-10-10T15:54:37.374Z",
+  "remaining_articles": 788,
+  "updated_at": "2026-10-10T15:54:40.656Z",
   "last_checkpoint_articles": [
-    "angels-envy-madeira-2021-reviewed.html",
-    "angels-envy-mizunara-2020.html",
-    "angels-envy-oloroso-2019-reviewed.html"
+    "angels-envy-peated-cask-rye-2025.html",
+    "angels-envy-tawny-port-2020-reviewed.html",
+    "angels-envy-triple-oak.html",
+    "bakers-13-year-old-limited-edition-single-barrel-2025.html"
   ],
-  "last_parent_commit": "be03bda235340ebe105a3d6cc5467719e1f73469"
+  "last_parent_commit": "da5a1ef67bde044cf6f64aa96224f00355d8fff4"
 }
