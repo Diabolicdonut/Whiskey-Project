@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 58,
+  "checkpoint": 59,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -209,7 +209,11 @@
     "high-west-bourye-2025-reviewed.html",
     "high-west-campfire-2023.html",
     "high-west-campfire.html",
-    "high-west-cask-strength-bourbon-batch-23b17.html"
+    "high-west-cask-strength-bourbon-batch-23b17.html",
+    "high-west-double-rye-campfire-finish.html",
+    "high-west-double-rye-manhattan-finish.html",
+    "high-west-double-rye.html",
+    "high-west-high-country-american-single-malt-2022-release.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -481,45 +485,38 @@
     "high-west-campfire-2023.html",
     "high-west-campfire.html",
     "high-west-cask-strength-bourbon-2026-catalogue.html",
-    "high-west-cask-strength-bourbon-batch-23b17.html"
+    "high-west-cask-strength-bourbon-batch-23b17.html",
+    "high-west-double-rye-campfire-finish.html",
+    "high-west-double-rye-current.html",
+    "high-west-double-rye-manhattan-finish.html",
+    "high-west-double-rye.html",
+    "high-west-high-country-american-single-malt-2022-release.html"
   ],
   "validation": {
-    "decoded_images": 206,
+    "decoded_images": 210,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 555,
-  "updated_at": "2026-10-11T01:36:25.060Z",
+  "remaining_articles": 550,
+  "updated_at": "2026-10-11T01:36:32.861Z",
   "last_checkpoint_articles": [
-    "high-west-bourye-2025-reviewed.html",
-    "high-west-campfire-2023.html",
-    "high-west-campfire.html",
-    "high-west-cask-strength-bourbon-2026-catalogue.html",
-    "high-west-cask-strength-bourbon-batch-23b17.html"
+    "high-west-double-rye-campfire-finish.html",
+    "high-west-double-rye-current.html",
+    "high-west-double-rye-manhattan-finish.html",
+    "high-west-double-rye.html",
+    "high-west-high-country-american-single-malt-2022-release.html"
   ],
-  "last_parent_commit": "2c977be67364b9e87d0c4cf2fb1a2cdc76854e21",
+  "last_parent_commit": "187f547c0b1561f74eda6c12909cd1c48d489a33",
   "last_checkpoint_results": [
     {
-      "article": "high-west-bourye-2025-reviewed.html",
-      "source_url": "https://www.drinkhacker.com/2025/04/08/review-high-west-bourye-2025/",
+      "article": "high-west-double-rye-campfire-finish.html",
+      "source_url": "https://breakingbourbon.com/review/high-west-double-rye-campfire-finish",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-bourye-2025-reviewed.webp",
-      "source_sha256": "47d7be5aa4e4469eb1d5c98d56db25190b663440a100e658ec31f63cba4713cb",
-      "width": 525,
-      "height": 540,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "high-west-campfire-2023.html",
-      "source_url": "https://breakingbourbon.com/review/high-west-campfire-2023",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-campfire-2023.webp",
-      "source_sha256": "19ed2f3eab5d4fc99920e4429333605b700cc6ccf037aa005d56075afe5f9099",
+      "verified_source": "assets/bottles/high-west-double-rye-campfire-finish.webp",
+      "source_sha256": "8c3e07e9dd702296a4c16a867a948ba0d8a72bfc888fc216d4280c6e651f3829",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -527,11 +524,31 @@
       "existing_content_preserved": true
     },
     {
-      "article": "high-west-campfire.html",
-      "source_url": "https://breakingbourbon.com/review/high-west-campfire",
+      "article": "high-west-double-rye-current.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "high-west-double-rye-manhattan-finish.html",
+      "source_url": "https://breakingbourbon.com/review/high-west-double-rye-manhattan-finish",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-campfire.webp",
-      "source_sha256": "ce57cf22fa11a81da3171102e925511aa70f403df4e0321072bc2411511708a3",
+      "verified_source": "assets/bottles/high-west-double-rye-manhattan-finish.webp",
+      "source_sha256": "5cacfd8d351a15f714f644aef447a30cf8b5a8bcb141778c08329429b598eeaf",
+      "width": 800,
+      "height": 533,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "high-west-double-rye.html",
+      "source_url": "https://breakingbourbon.com/review/high-west-double-rye",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/high-west-double-rye.webp",
+      "source_sha256": "b143f7b41bf143a1189c3c610866355b93e5c6b32269e4d62ea1a8edc27d060b",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -539,18 +556,11 @@
       "existing_content_preserved": true
     },
     {
-      "article": "high-west-cask-strength-bourbon-2026-catalogue.html",
-      "decision": "inspected_no_exact_verified_image",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "high-west-cask-strength-bourbon-batch-23b17.html",
-      "source_url": "https://breakingbourbon.com/review/high-west-cask-strength-bourbon-batch-23b17",
+      "article": "high-west-high-country-american-single-malt-2022-release.html",
+      "source_url": "https://breakingbourbon.com/review/high-west-high-country-american-single-malt-2022-release",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-cask-strength-bourbon-batch-23b17.webp",
-      "source_sha256": "1f43bd65b806bdbe91faee9c832f167e3c7f37793ac18745f4589b448e2400c7",
+      "verified_source": "assets/bottles/high-west-high-country-american-single-malt-2022-release.webp",
+      "source_sha256": "e5aa66dee0cab40de557ca40fe10ac9aef6a2e882057ae7ca59cf2ef05fe4a97",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -568,7 +578,8 @@
     "four-roses-small-batch.html",
     "frey-ranch-straight-bourbon.html",
     "george-t-stagg-2017.html",
-    "george-t-stagg-2025.html"
+    "george-t-stagg-2025.html",
+    "high-west-double-rye-current.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
