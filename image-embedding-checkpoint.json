@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 43,
+  "checkpoint": 44,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -148,7 +148,9 @@
     "evan-williams-black-label-bourbon.html",
     "evan-williams-master-blend.html",
     "evan-williams-single-barrel-2011-vintage.html",
-    "evan-williams-single-barrel-2016-vintage.html"
+    "evan-williams-single-barrel-2016-vintage.html",
+    "ezra-b-12-year-single-barrel.html",
+    "ezra-brooks-99-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -345,76 +347,76 @@
     "evan-williams-master-blend.html",
     "evan-williams-single-barrel-2011-vintage.html",
     "evan-williams-single-barrel-2016-vintage.html",
-    "experimental-collection.html"
+    "experimental-collection.html",
+    "experimental-low-entry-wheated-2026.html",
+    "experimental-organic-six-grain-2023.html",
+    "ezra-b-12-year-single-barrel.html",
+    "ezra-brooks-90-catalogue.html",
+    "ezra-brooks-99-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 143,
+    "decoded_images": 145,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 630,
-  "updated_at": "2026-10-11T01:34:30.418Z",
+  "remaining_articles": 625,
+  "updated_at": "2026-10-11T01:34:36.101Z",
   "last_checkpoint_articles": [
-    "evan-williams-bottled-in-bond.html",
-    "evan-williams-master-blend.html",
-    "evan-williams-single-barrel-2011-vintage.html",
-    "evan-williams-single-barrel-2016-vintage.html",
-    "experimental-collection.html"
+    "experimental-low-entry-wheated-2026.html",
+    "experimental-organic-six-grain-2023.html",
+    "ezra-b-12-year-single-barrel.html",
+    "ezra-brooks-90-catalogue.html",
+    "ezra-brooks-99-bourbon.html"
   ],
-  "last_parent_commit": "8b3156f4c9e9bec19c63cc9064a423bb6df8a7d8",
+  "last_parent_commit": "55397de82ecbcc3d6309ea0514fdae92b05d01c2",
   "last_checkpoint_results": [
     {
-      "article": "evan-williams-bottled-in-bond.html",
+      "article": "experimental-low-entry-wheated-2026.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": true,
-      "decoded_images": 3,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "evan-williams-master-blend.html",
-      "source_url": "https://breakingbourbon.com/review/evan-williams-master-blend",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/evan-williams-master-blend.webp",
-      "source_sha256": "1a8ce55382b3f0ce0ee424d9e3677850a8101c7bf370c4c4f9597e0b691562ac",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "evan-williams-single-barrel-2011-vintage.html",
-      "source_url": "https://breakingbourbon.com/review/evan-williams-single-barrel-2011-vintage",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/evan-williams-single-barrel-2011-vintage.webp",
-      "source_sha256": "2da266eb2f3169a4846c9482ab9d59a8779733330d1a205d8d2887868a0c8138",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "evan-williams-single-barrel-2016-vintage.html",
-      "source_url": "https://breakingbourbon.com/review/evan-williams-single-barrel-2016-vintage",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/evan-williams-single-barrel-2016-vintage.webp",
-      "source_sha256": "dd8b5486f95b438171568b1db3105361da142f3b0ccbbda0c94d324f511eb030",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "experimental-collection.html",
+      "article": "experimental-organic-six-grain-2023.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "ezra-b-12-year-single-barrel.html",
+      "source_url": "https://breakingbourbon.com/review/ezra-b-12-year-single-barrel",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/ezra-b-12-year-single-barrel.webp",
+      "source_sha256": "7586ca52305e13774f11c52c6ec0574cafa0d0b20d6500df547b4e2f7e8e04ba",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "ezra-brooks-90-catalogue.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "ezra-brooks-99-bourbon.html",
+      "source_url": "https://breakingbourbon.com/review/ezra-brooks-99-bourbon",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/ezra-brooks-99-bourbon.webp",
+      "source_sha256": "64f667766b4ac4e45c8ed4844dd274e902ebed47083055aa9cb37d0f0b6ed7d6",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -423,6 +425,11 @@
     "elijah-craig-small-batch.html",
     "elmer-t-lee.html",
     "evan-williams-bottled-in-bond.html",
-    "experimental-collection.html"
+    "experimental-collection.html",
+    "experimental-low-entry-wheated-2026.html",
+    "experimental-organic-six-grain-2023.html"
+  ],
+  "no_verified_image_articles": [
+    "ezra-brooks-90-catalogue.html"
   ]
 }
