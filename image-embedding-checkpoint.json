@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 49,
+  "checkpoint": 50,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -171,7 +171,11 @@
     "four-roses-single-barrel-2026-oesf.html",
     "four-roses-single-barrel-2026-oesq.html",
     "four-roses-single-barrel.html",
-    "four-roses-small-batch-select-bourbon.html"
+    "four-roses-small-batch-select-bourbon.html",
+    "four-roses-super-premium.html",
+    "garrison-brothers-bottled-in-bond-bourbon.html",
+    "garrison-brothers-small-batch-texas-bourbon-2021-batch.html",
+    "george-dickel-15-year-single-barrel.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -398,57 +402,38 @@
     "four-roses-single-barrel-2026-oesq.html",
     "four-roses-single-barrel.html",
     "four-roses-small-batch-select-bourbon.html",
-    "four-roses-small-batch.html"
+    "four-roses-small-batch.html",
+    "four-roses-super-premium.html",
+    "frey-ranch-straight-bourbon.html",
+    "garrison-brothers-bottled-in-bond-bourbon.html",
+    "garrison-brothers-small-batch-texas-bourbon-2021-batch.html",
+    "george-dickel-15-year-single-barrel.html"
   ],
   "validation": {
-    "decoded_images": 166,
+    "decoded_images": 170,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 600,
-  "updated_at": "2026-10-11T01:35:06.274Z",
+  "remaining_articles": 595,
+  "updated_at": "2026-10-11T01:35:36.586Z",
   "last_checkpoint_articles": [
-    "four-roses-single-barrel-2026-oesf.html",
-    "four-roses-single-barrel-2026-oesq.html",
-    "four-roses-single-barrel.html",
-    "four-roses-small-batch-select-bourbon.html",
-    "four-roses-small-batch.html"
+    "four-roses-super-premium.html",
+    "frey-ranch-straight-bourbon.html",
+    "garrison-brothers-bottled-in-bond-bourbon.html",
+    "garrison-brothers-small-batch-texas-bourbon-2021-batch.html",
+    "george-dickel-15-year-single-barrel.html"
   ],
-  "last_parent_commit": "3ce9b242a206b2838da151d4100d6604daa18cb3",
+  "last_parent_commit": "6df826b3db92ed6b6403cca7c2c6416979daaff8",
   "last_checkpoint_results": [
     {
-      "article": "four-roses-single-barrel-2026-oesf.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-single-barrel-2026-oesf",
+      "article": "four-roses-super-premium.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-super-premium",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-single-barrel-2026-oesf.webp",
-      "source_sha256": "e27e55b6475ce942683efd53f5ed9a06a7807427c9e2ea73cd48ef1e729f5941",
-      "width": 1000,
-      "height": 648,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "four-roses-single-barrel-2026-oesq.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-single-barrel-2026-oesq",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-single-barrel-2026-oesq.webp",
-      "source_sha256": "bcaaff26969ed0308e2fb51dd31b7c90547dbd89962c0ad728afc92e62a2679b",
-      "width": 1000,
-      "height": 648,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "four-roses-single-barrel.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-single-barrel",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-single-barrel.webp",
-      "source_sha256": "8326b1705b502b6bc132f6867dc35678735ad6ba2bcdb652c42afc6cf5faab33",
+      "verified_source": "assets/bottles/four-roses-super-premium.webp",
+      "source_sha256": "206f8353830ada1aecf6c1368561ac89fcb467cc845cd5cdce590fe187154344",
       "width": 800,
       "height": 533,
       "decoded_images": 1,
@@ -456,11 +441,18 @@
       "existing_content_preserved": true
     },
     {
-      "article": "four-roses-small-batch-select-bourbon.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-small-batch-select-bourbon",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-small-batch-select-bourbon.webp",
-      "source_sha256": "c1aaaaafd0810601ed1553f1b4bb375ed81e53ca314e36c9420b8ca77dc7a14a",
+      "article": "frey-ranch-straight-bourbon.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "garrison-brothers-bottled-in-bond-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/garrison-brothers-bottled-in-bond-bourbon.webp",
+      "source_sha256": "3ea6606fe1b3605656c70f61203386ad8044d92e1f7837850bc45be6758740bc",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -468,10 +460,25 @@
       "existing_content_preserved": true
     },
     {
-      "article": "four-roses-small-batch.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 3,
+      "article": "garrison-brothers-small-batch-texas-bourbon-2021-batch.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/garrison-brothers-small-batch-texas-bourbon-2021-batch.webp",
+      "source_sha256": "97418c1ac6e69f710bcf30b18d1c3526fa6043424ed11cb60d451b31896b5556",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "george-dickel-15-year-single-barrel.html",
+      "source_url": "https://breakingbourbon.com/review/george-dickel-15-year-single-barrel",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/george-dickel-15-year-single-barrel.webp",
+      "source_sha256": "549cbdd8b5961f7b47fb0835f54a7f017d1aed800b52b817b23f004d59169ea1",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -483,7 +490,8 @@
     "experimental-collection.html",
     "experimental-low-entry-wheated-2026.html",
     "experimental-organic-six-grain-2023.html",
-    "four-roses-small-batch.html"
+    "four-roses-small-batch.html",
+    "frey-ranch-straight-bourbon.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
