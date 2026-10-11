@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 61,
+  "checkpoint": 62,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -221,7 +221,9 @@
     "high-west-rendezvous-rye.html",
     "high-west-rocky-mountain-rye-16-year.html",
     "high-west-rocky-mountain-rye-21-year.html",
-    "high-west-son-of-bourye.html"
+    "high-west-son-of-bourye.html",
+    "high-west-x-casa-noble-the-noble-share-batch-24k15.html",
+    "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -508,7 +510,12 @@
     "high-west-rendezvous-rye.html",
     "high-west-rocky-mountain-rye-16-year.html",
     "high-west-rocky-mountain-rye-21-year.html",
-    "high-west-son-of-bourye.html"
+    "high-west-son-of-bourye.html",
+    "high-west-x-casa-noble-the-noble-share-batch-24k15.html",
+    "hudson-baby-bourbon-historical.html",
+    "hudson-do-the-rye-thing.html",
+    "hudson-maple-cask-rye-2014-batch-1-bottle-2338.html",
+    "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html"
   ],
   "validation": {
     "decoded_images": 218,
@@ -516,25 +523,27 @@
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
-    "add_missing_verified_photos": true
+    "add_missing_verified_photos": true,
+    "checkpoint_decoded_images": 8,
+    "verified_embedded_articles": 218
   },
-  "remaining_articles": 540,
-  "updated_at": "2026-10-11T01:36:44.499Z",
+  "remaining_articles": 535,
+  "updated_at": "2026-10-11T01:37:01.422Z",
   "last_checkpoint_articles": [
-    "high-west-rendezvous-rye-2021-release.html",
-    "high-west-rendezvous-rye.html",
-    "high-west-rocky-mountain-rye-16-year.html",
-    "high-west-rocky-mountain-rye-21-year.html",
-    "high-west-son-of-bourye.html"
+    "high-west-x-casa-noble-the-noble-share-batch-24k15.html",
+    "hudson-baby-bourbon-historical.html",
+    "hudson-do-the-rye-thing.html",
+    "hudson-maple-cask-rye-2014-batch-1-bottle-2338.html",
+    "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html"
   ],
-  "last_parent_commit": "4361db93c0e4ea3b6ed573dbb2f69b43a456e1e8",
+  "last_parent_commit": "4e56e4606e22053d524c6bab705389b0b8fe1b83",
   "last_checkpoint_results": [
     {
-      "article": "high-west-rendezvous-rye-2021-release.html",
-      "source_url": "https://breakingbourbon.com/review/high-west-rendezvous-rye-2021-release",
+      "article": "high-west-x-casa-noble-the-noble-share-batch-24k15.html",
+      "source_url": "https://breakingbourbon.com/review/high-west-x-casa-noble-the-noble-share-batch-24k15",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-rendezvous-rye-2021-release.webp",
-      "source_sha256": "15555e3fe816315a30ad71550de3ea00390bdd5ee7e02f5dd530de2aeaa5b2b4",
+      "verified_source": "assets/bottles/high-west-x-casa-noble-the-noble-share-batch-24k15.webp",
+      "source_sha256": "65783a30239c0869fe43245b1d79400b577f7cbc09f6ba706cb3a8021ecd61d9",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -542,47 +551,35 @@
       "existing_content_preserved": true
     },
     {
-      "article": "high-west-rendezvous-rye.html",
-      "source_url": "https://breakingbourbon.com/review/high-west-rendezvous-rye",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-rendezvous-rye.webp",
-      "source_sha256": "3b38aea5acc7de9b9f9c0a449f2f19eefed245bbf30a331d6cedb314a9099ec8",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
+      "article": "hudson-baby-bourbon-historical.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "high-west-rocky-mountain-rye-16-year.html",
-      "source_url": "https://breakingbourbon.com/review/high-west-rocky-mountain-rye-16-year",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-rocky-mountain-rye-16-year.webp",
-      "source_sha256": "494262d31c1b864840bf8454e6bd7f8ff4e2ab254341cff342faf9e62c7b6614",
-      "width": 800,
-      "height": 533,
-      "decoded_images": 1,
+      "article": "hudson-do-the-rye-thing.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "high-west-rocky-mountain-rye-21-year.html",
-      "source_url": "https://breakingbourbon.com/review/high-west-rocky-mountain-rye-21-year",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-rocky-mountain-rye-21-year.webp",
-      "source_sha256": "6c8d60a87fc31183700bf7e83a403e897d01535b3475d0d9dfb1b5f97e4c58ec",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
+      "article": "hudson-maple-cask-rye-2014-batch-1-bottle-2338.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": false,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "high-west-son-of-bourye.html",
-      "source_url": "https://breakingbourbon.com/review/high-west-son-of-bourye",
+      "article": "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html",
+      "source_url": "https://breakingbourbon.com/review/jack-daniels-10-year-old-tennessee-whiskey-batch-02",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-son-of-bourye.webp",
-      "source_sha256": "21f4332a088404570605f34bc8fd452d27e74da0889af0e643e8b8a837864a75",
+      "verified_source": "assets/bottles/jack-daniels-10-year-old-tennessee-whiskey-batch-02.webp",
+      "source_sha256": "a861efa00b5cd9161fa09ae829cf95e6a6b31979fe03c54b0b8d4c98a4098a11",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -601,7 +598,10 @@
     "frey-ranch-straight-bourbon.html",
     "george-t-stagg-2017.html",
     "george-t-stagg-2025.html",
-    "high-west-double-rye-current.html"
+    "high-west-double-rye-current.html",
+    "hudson-baby-bourbon-historical.html",
+    "hudson-do-the-rye-thing.html",
+    "hudson-maple-cask-rye-2014-batch-1-bottle-2338.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
