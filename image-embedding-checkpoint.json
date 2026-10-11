@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 46,
+  "checkpoint": 47,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -158,7 +158,11 @@
     "four-roses-2018-limited-edition-small-batch-130th-anniversary-edition.html",
     "four-roses-2019-limited-edition-small-batch.html",
     "four-roses-2022-limited-edition-small-batch.html",
-    "four-roses-2024-limited-edition-small-batch.html"
+    "four-roses-2024-limited-edition-small-batch.html",
+    "four-roses-2025-limited-edition-small-batch.html",
+    "four-roses-bourbon.html",
+    "four-roses-experimental-series-001-mizunara-finish.html",
+    "four-roses-limited-edition-2026.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -370,57 +374,38 @@
     "four-roses-2018-limited-edition-small-batch-130th-anniversary-edition.html",
     "four-roses-2019-limited-edition-small-batch.html",
     "four-roses-2022-limited-edition-small-batch.html",
-    "four-roses-2024-limited-edition-small-batch.html"
+    "four-roses-2024-limited-edition-small-batch.html",
+    "four-roses-2025-limited-edition-small-batch.html",
+    "four-roses-anthology-chapter-one-origin.html",
+    "four-roses-bourbon.html",
+    "four-roses-experimental-series-001-mizunara-finish.html",
+    "four-roses-limited-edition-2026.html"
   ],
   "validation": {
-    "decoded_images": 153,
+    "decoded_images": 157,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 615,
-  "updated_at": "2026-10-11T01:34:48.096Z",
+  "remaining_articles": 610,
+  "updated_at": "2026-10-11T01:34:53.612Z",
   "last_checkpoint_articles": [
-    "four-roses-2016-limited-edition-small-batch.html",
-    "four-roses-2018-limited-edition-small-batch-130th-anniversary-edition.html",
-    "four-roses-2019-limited-edition-small-batch.html",
-    "four-roses-2022-limited-edition-small-batch.html",
-    "four-roses-2024-limited-edition-small-batch.html"
+    "four-roses-2025-limited-edition-small-batch.html",
+    "four-roses-anthology-chapter-one-origin.html",
+    "four-roses-bourbon.html",
+    "four-roses-experimental-series-001-mizunara-finish.html",
+    "four-roses-limited-edition-2026.html"
   ],
-  "last_parent_commit": "3932608fa4680aa2686dcd9ebd7fe07cdaa280fd",
+  "last_parent_commit": "2851c20dd3d9ed9ce040c136d5fdab155b4c3ff4",
   "last_checkpoint_results": [
     {
-      "article": "four-roses-2016-limited-edition-small-batch.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-2016-limited-edition-small-batch",
+      "article": "four-roses-2025-limited-edition-small-batch.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-2025-limited-edition-small-batch",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-2016-limited-edition-small-batch.webp",
-      "source_sha256": "5de2bc948c57f06201e5099aa1c089f0a38b5f694e8c7d26391d68663e61d37d",
-      "width": 533,
-      "height": 800,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "four-roses-2018-limited-edition-small-batch-130th-anniversary-edition.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-2018-limited-edition-small-batch-130th-anniversary-edition",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-2018-limited-edition-small-batch-130th-anniversary-edition.webp",
-      "source_sha256": "3663a17dc5acb29897fda6bdc4e9e81405848db9a9ac7bc1b232583ce0f2e067",
-      "width": 650,
-      "height": 433,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "four-roses-2019-limited-edition-small-batch.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-2019-limited-edition-small-batch",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-2019-limited-edition-small-batch.webp",
-      "source_sha256": "d56a549e8836a470560c1b834e7679de9157ce51d0f7ed2698c523d4eab47ca2",
+      "verified_source": "assets/bottles/four-roses-2025-limited-edition-small-batch.webp",
+      "source_sha256": "ebbdc0f01f581e5968d0622837a9cbdd0c341227823ed37b95f027086c749519",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -428,11 +413,18 @@
       "existing_content_preserved": true
     },
     {
-      "article": "four-roses-2022-limited-edition-small-batch.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-2022-limited-edition-small-batch",
+      "article": "four-roses-anthology-chapter-one-origin.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "four-roses-bourbon.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-bourbon",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-2022-limited-edition-small-batch.webp",
-      "source_sha256": "d75a0e0e5110007b101ca8a7ad940e4c208927034829722b4e5dc2b77ad1732b",
+      "verified_source": "assets/bottles/four-roses-bourbon.webp",
+      "source_sha256": "3c34a68e3b7216e2f156fe31db49cd81c30faee2575694d085c5af436d9d71ae",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -440,13 +432,25 @@
       "existing_content_preserved": true
     },
     {
-      "article": "four-roses-2024-limited-edition-small-batch.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-2024-limited-edition-small-batch",
+      "article": "four-roses-experimental-series-001-mizunara-finish.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-experimental-series-001-mizunara-finish",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-2024-limited-edition-small-batch.webp",
-      "source_sha256": "cca1c378d221676428d5ffca6b3ac63198381e40eaeef06f09289caa9321442a",
+      "verified_source": "assets/bottles/four-roses-experimental-series-001-mizunara-finish.webp",
+      "source_sha256": "c940a4584eb307070f154b324ca4737c128a2425126a6b679a1968179403d0d7",
       "width": 1000,
       "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "four-roses-limited-edition-2026.html",
+      "source_url": "https://bevinfogroup.com/2026/09/01/review-four-roses-2026-limited-edition-small-batch-bourbon/",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/four-roses-limited-edition-2026.webp",
+      "source_sha256": "f7297996d0abbf8a84ae90f2f42f71754362fff76794dddb2cdb27561ee84b06",
+      "width": 900,
+      "height": 1200,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -463,6 +467,7 @@
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
     "ezra-brooks-cask-finished-series-catalogue.html",
-    "ezra-brooks-distillers-collection-programme.html"
+    "ezra-brooks-distillers-collection-programme.html",
+    "four-roses-anthology-chapter-one-origin.html"
   ]
 }
