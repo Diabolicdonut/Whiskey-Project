@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 53,
+  "checkpoint": 54,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -185,7 +185,12 @@
     "george-dickel-bourbon.html",
     "george-dickel-rye-whiskey.html",
     "george-dickel-superior-no-12-whiskey.html",
-    "george-dickel-x-leopold-bros-collaboration-blend-rye.html"
+    "george-dickel-x-leopold-bros-collaboration-blend-rye.html",
+    "gray-skies-breakfast-bourbon-historical.html",
+    "green-river-full-proof-bourbon.html",
+    "green-river-straight-bourbon-2025.html",
+    "hardins-creek-colonel-james-b-beam.html",
+    "hardins-creek-jacobs-well.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -432,40 +437,48 @@
     "george-dickel-superior-no-12-whiskey.html",
     "george-dickel-x-leopold-bros-collaboration-blend-rye.html",
     "george-t-stagg-2017.html",
-    "george-t-stagg-2025.html"
+    "george-t-stagg-2025.html",
+    "gray-skies-breakfast-bourbon-historical.html",
+    "green-river-full-proof-bourbon.html",
+    "green-river-straight-bourbon-2025.html",
+    "hardins-creek-colonel-james-b-beam.html",
+    "hardins-creek-jacobs-well.html"
   ],
   "validation": {
-    "decoded_images": 180,
+    "decoded_images": 187,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 580,
-  "updated_at": "2026-10-11T01:35:55.531Z",
+  "remaining_articles": 575,
+  "updated_at": "2026-10-11T01:36:01.134Z",
   "last_checkpoint_articles": [
-    "george-dickel-single-barrel-9-year-programme.html",
-    "george-dickel-superior-no-12-whiskey.html",
-    "george-dickel-x-leopold-bros-collaboration-blend-rye.html",
-    "george-t-stagg-2017.html",
-    "george-t-stagg-2025.html"
+    "gray-skies-breakfast-bourbon-historical.html",
+    "green-river-full-proof-bourbon.html",
+    "green-river-straight-bourbon-2025.html",
+    "hardins-creek-colonel-james-b-beam.html",
+    "hardins-creek-jacobs-well.html"
   ],
-  "last_parent_commit": "4d9cdaedf0c6c838275cd92e7411f8a4a8e8e8f8",
+  "last_parent_commit": "1e185eb9c15a4bc7befce06330d4e67aba995a68",
   "last_checkpoint_results": [
     {
-      "article": "george-dickel-single-barrel-9-year-programme.html",
-      "decision": "inspected_no_exact_verified_image",
-      "decoded_images": 0,
+      "article": "gray-skies-breakfast-bourbon-historical.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/gray-skies-breakfast-bourbon-historical.webp",
+      "source_sha256": "5e6492976cc3f4e05393f496a3f4d345ec5eaea6d36125a7b73878f7dda2fd72",
+      "width": 1200,
+      "height": 661,
+      "decoded_images": 3,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "george-dickel-superior-no-12-whiskey.html",
-      "source_url": "https://breakingbourbon.com/review/george-dickel-superior-no-12-whiskey",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-superior-no-12-whiskey.webp",
-      "source_sha256": "8f66e97e7c1685dc2d867108434e4c0f0f9db79032a5466b24630f58b230c68c",
+      "article": "green-river-full-proof-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/green-river-full-proof-bourbon.webp",
+      "source_sha256": "c55b8a02f406d5c100861f3e5a3a0750b4bab097ab20b842907be9ad0082d20b",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -473,11 +486,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "george-dickel-x-leopold-bros-collaboration-blend-rye.html",
-      "source_url": "https://breakingbourbon.com/review/george-dickel-x-leopold-bros-collaboration-blend-rye",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-x-leopold-bros-collaboration-blend-rye.webp",
-      "source_sha256": "c6985bed12d916bd31852b6675ef9a3269254f49f1aec9914015045e9fef4f4c",
+      "article": "green-river-straight-bourbon-2025.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/green-river-straight-bourbon-2025.webp",
+      "source_sha256": "e904a102de6b70d999c3bc3b4d09f53ee223cae74047745fc47244b8d71b56bc",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -485,18 +497,26 @@
       "existing_content_preserved": true
     },
     {
-      "article": "george-t-stagg-2017.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
+      "article": "hardins-creek-colonel-james-b-beam.html",
+      "source_url": "https://breakingbourbon.com/review/hardins-creek-colonel-james-b-beam",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/hardins-creek-colonel-james-b-beam.webp",
+      "source_sha256": "3d1a3723e72aac5e164c34899c23a30fac83176e638e1a97af23165d23f46cb8",
+      "width": 1200,
+      "height": 800,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "george-t-stagg-2025.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
+      "article": "hardins-creek-jacobs-well.html",
+      "source_url": "https://breakingbourbon.com/review/hardins-creek-jacobs-well",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/hardins-creek-jacobs-well.webp",
+      "source_sha256": "1dd31d5ccee0acb245f7a8d6515b0d9b4d97de499f9f9822fa8ed349a26667bb",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
