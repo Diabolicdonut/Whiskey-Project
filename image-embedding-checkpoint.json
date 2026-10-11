@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 41,
+  "checkpoint": 42,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -140,7 +140,12 @@
     "elijah-craig-rye.html",
     "elijah-craig-toasted-barrel-finish-straight-bourbon.html",
     "elijah-craig-toasted-rye.html",
-    "evan-williams-12-year-101-proof.html"
+    "evan-williams-12-year-101-proof.html",
+    "evan-williams-12-year-old-2026.html",
+    "evan-williams-1783-small-batch-bourbon.html",
+    "evan-williams-23-years-old.html",
+    "evan-williams-america-250-11776.html",
+    "evan-williams-black-label-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -327,40 +332,38 @@
     "elijah-craig-toasted-barrel-finish-straight-bourbon.html",
     "elijah-craig-toasted-rye.html",
     "elmer-t-lee.html",
-    "evan-williams-12-year-101-proof.html"
+    "evan-williams-12-year-101-proof.html",
+    "evan-williams-12-year-old-2026.html",
+    "evan-williams-1783-small-batch-bourbon.html",
+    "evan-williams-23-years-old.html",
+    "evan-williams-america-250-11776.html",
+    "evan-williams-black-label-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 135,
+    "decoded_images": 140,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 640,
-  "updated_at": "2026-10-11T01:33:03.474Z",
+  "remaining_articles": 635,
+  "updated_at": "2026-10-11T01:34:24.537Z",
   "last_checkpoint_articles": [
-    "elijah-craig-small-batch.html",
-    "elijah-craig-toasted-barrel-finish-straight-bourbon.html",
-    "elijah-craig-toasted-rye.html",
-    "elmer-t-lee.html",
-    "evan-williams-12-year-101-proof.html"
+    "evan-williams-12-year-old-2026.html",
+    "evan-williams-1783-small-batch-bourbon.html",
+    "evan-williams-23-years-old.html",
+    "evan-williams-america-250-11776.html",
+    "evan-williams-black-label-bourbon.html"
   ],
-  "last_parent_commit": "c5077c3bc02782a0a638829ef18f7753dceaa937",
+  "last_parent_commit": "70788661bb5e48844ecddc17dfe89ca236fdfbd5",
   "last_checkpoint_results": [
     {
-      "article": "elijah-craig-small-batch.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 3,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "elijah-craig-toasted-barrel-finish-straight-bourbon.html",
+      "article": "evan-williams-12-year-old-2026.html",
+      "source_url": "https://breakingbourbon.com/review/evan-williams-12-year-old-2026",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/elijah-craig-toasted-barrel-finish-straight-bourbon.webp",
-      "source_sha256": "e001b51e5af02a14803f8c26efde5532d2d24f1413ae6dcdf417e8d1c06fe05f",
+      "verified_source": "assets/bottles/evan-williams-12-year-old-2026.webp",
+      "source_sha256": "52c6bac4c883001de93f9b8f534571a1bc836fd92f42f6b280f56124601001b1",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -368,10 +371,11 @@
       "existing_content_preserved": true
     },
     {
-      "article": "elijah-craig-toasted-rye.html",
+      "article": "evan-williams-1783-small-batch-bourbon.html",
+      "source_url": "https://breakingbourbon.com/review/evan-williams-1783-small-batch-bourbon",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/elijah-craig-toasted-rye.webp",
-      "source_sha256": "ed3a56f61a1318c3ee39889d5913315bfad4332097aece3073da758b9c2148a2",
+      "verified_source": "assets/bottles/evan-williams-1783-small-batch-bourbon.webp",
+      "source_sha256": "16e091bf532987a84d3a817dc6b945a63a4a1969f48c006025bc93e44ff9f905",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -379,18 +383,35 @@
       "existing_content_preserved": true
     },
     {
-      "article": "elmer-t-lee.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
+      "article": "evan-williams-23-years-old.html",
+      "source_url": "https://breakingbourbon.com/review/evan-williams-23-years-old",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/evan-williams-23-years-old.webp",
+      "source_sha256": "557435efa781573d19954216173ee00666019d4ecc0b8dd1fa672dfc9b1c8c12",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "evan-williams-12-year-101-proof.html",
+      "article": "evan-williams-america-250-11776.html",
+      "source_url": "https://www.woodgrainandwhiskey.com/2026/07/review-255-america-250-edition-evan.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/evan-williams-12-year-101-proof.webp",
-      "source_sha256": "f239a91d2295a54d0450151aefd738de9bd12775f15531e46c0704d8bbdbeb16",
+      "verified_source": "assets/bottles/evan-williams-america-250-11776.webp",
+      "source_sha256": "3d7fe028bacd2d729babbe36a5ead27c1b44037c28fcee0334f21b07cf71e148",
+      "width": 1200,
+      "height": 630,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "evan-williams-black-label-bourbon.html",
+      "source_url": "https://breakingbourbon.com/review/evan-williams-black-label-bourbon",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/evan-williams-black-label-bourbon.webp",
+      "source_sha256": "851f9543bdadfc7091770d23f6c712217306322fecd14cf38d67c1d009b221e7",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
