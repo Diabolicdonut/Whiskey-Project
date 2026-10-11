@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 72,
+  "checkpoint": 73,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -270,7 +270,10 @@
     "jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.html",
     "jeffersons-ocean-aged-at-sea-voyage-2.html",
     "jeffersons-ocean-aged-at-sea-voyage-3.html",
-    "jeffersons-ocean-aged-at-sea-voyage-4.html"
+    "jeffersons-ocean-aged-at-sea-voyage-4.html",
+    "jeffersons-reserve-902.html",
+    "jeffersons-reserve-cask-strength-2025.html",
+    "jeffersons-tropics-aged-in-humidity.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -612,80 +615,77 @@
     "jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.html",
     "jeffersons-ocean-aged-at-sea-voyage-2.html",
     "jeffersons-ocean-aged-at-sea-voyage-3.html",
-    "jeffersons-ocean-aged-at-sea-voyage-4.html"
+    "jeffersons-ocean-aged-at-sea-voyage-4.html",
+    "jeffersons-ocean-voyage-28.html",
+    "jeffersons-reserve-902.html",
+    "jeffersons-reserve-cask-strength-2025.html",
+    "jeffersons-special-finishes-catalogue.html",
+    "jeffersons-tropics-aged-in-humidity.html"
   ],
   "validation": {
-    "decoded_images": 265,
+    "decoded_images": 268,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 265
+    "checkpoint_decoded_images": 3,
+    "verified_embedded_articles": 268
   },
-  "remaining_articles": 485,
-  "updated_at": "2026-10-11T01:38:02.069Z",
+  "remaining_articles": 480,
+  "updated_at": "2026-10-11T01:38:07.971Z",
   "last_checkpoint_articles": [
-    "jeffersons-ocean-aged-at-sea-rye-voyage-26.html",
-    "jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.html",
-    "jeffersons-ocean-aged-at-sea-voyage-2.html",
-    "jeffersons-ocean-aged-at-sea-voyage-3.html",
-    "jeffersons-ocean-aged-at-sea-voyage-4.html"
+    "jeffersons-ocean-voyage-28.html",
+    "jeffersons-reserve-902.html",
+    "jeffersons-reserve-cask-strength-2025.html",
+    "jeffersons-special-finishes-catalogue.html",
+    "jeffersons-tropics-aged-in-humidity.html"
   ],
-  "last_parent_commit": "126a7d050eb2be1b18a52ca6418e4e4a948ae1f6",
+  "last_parent_commit": "0c147fa135e7887a1c59af85a8df6a211f94bf64",
   "last_checkpoint_results": [
     {
-      "article": "jeffersons-ocean-aged-at-sea-rye-voyage-26.html",
+      "article": "jeffersons-ocean-voyage-28.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jeffersons-reserve-902.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-rye-voyage-26.webp",
-      "source_sha256": "e5ceba492eac8c10b307b5abb105ea3468ad822c8db29d980b8ae56bf0aa9fd9",
-      "width": 1000,
-      "height": 667,
+      "verified_source": "assets/bottles/jeffersons-reserve-902.webp",
+      "source_sha256": "05cffac5b90658aa40ff3fab57c202a7e1ce4f6984709cd8d0808382007ec174",
+      "width": 1200,
+      "height": 630,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.html",
+      "article": "jeffersons-reserve-cask-strength-2025.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.webp",
-      "source_sha256": "8a0a76d898b1e7b107b695f8388425d4e0fb2a95603c3c4bbd15829122a261ad",
-      "width": 650,
-      "height": 434,
+      "verified_source": "assets/bottles/jeffersons-reserve-cask-strength-2025.webp",
+      "source_sha256": "3cd72a14b15662ff69ce2240a17ef471b9a7fba540875ab5b3a06aa300dcebe7",
+      "width": 1200,
+      "height": 800,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "jeffersons-ocean-aged-at-sea-voyage-2.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-voyage-2.webp",
-      "source_sha256": "ecfa80eb5b04fa456b16ce382d4f20caffe8487a0579b3a151ee96aaa4772ceb",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
+      "article": "jeffersons-special-finishes-catalogue.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "jeffersons-ocean-aged-at-sea-voyage-3.html",
+      "article": "jeffersons-tropics-aged-in-humidity.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-voyage-3.webp",
-      "source_sha256": "3d08b540055d1e8fea0b4f731c668a117a53c9b62463602fc92efdfc2f01b120",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jeffersons-ocean-aged-at-sea-voyage-4.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-voyage-4.webp",
-      "source_sha256": "fff0145c66da14dca932dd6c1ab6938abb6d2e6816b85f5d9e998b834aa56eb4",
-      "width": 800,
-      "height": 450,
+      "verified_source": "assets/bottles/jeffersons-tropics-aged-in-humidity.webp",
+      "source_sha256": "78719f780551387de8579e96a0460f7ffd08d892e83f1cdd96dc59fb7bf75544",
+      "width": 1086,
+      "height": 724,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -720,6 +720,8 @@
     "high-west-midwinter-act-14-2026-catalogue.html",
     "high-west-rendezvous-2025-catalogue.html",
     "jack-daniels-no27-gold-80.html",
-    "jack-daniels-single-barrel-barrel-proof-rye.html"
+    "jack-daniels-single-barrel-barrel-proof-rye.html",
+    "jeffersons-ocean-voyage-28.html",
+    "jeffersons-special-finishes-catalogue.html"
   ]
 }
