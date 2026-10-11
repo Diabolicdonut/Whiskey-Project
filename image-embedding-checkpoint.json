@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 75,
+  "checkpoint": 76,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -275,7 +275,12 @@
     "jeffersons-reserve-cask-strength-2025.html",
     "jeffersons-tropics-aged-in-humidity.html",
     "jeffersons-very-small-batch.html",
-    "jim-beam-black-7-year-bourbon.html"
+    "jim-beam-black-7-year-bourbon.html",
+    "jim-beam-black-xa-extra-aged.html",
+    "jim-beam-devils-cut-90.html",
+    "jim-beam-double-oak-bourbon.html",
+    "jim-beam-lineage-batch-2.html",
+    "jim-beam-old-tub-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -632,66 +637,83 @@
     "jeptha-creed-red-white-blue.html",
     "jeptha-creed-single-barrel-reserve.html",
     "jeptha-creed-solera.html",
-    "jim-beam-black-7-year-bourbon.html"
+    "jim-beam-black-7-year-bourbon.html",
+    "jim-beam-black-xa-extra-aged.html",
+    "jim-beam-devils-cut-90.html",
+    "jim-beam-double-oak-bourbon.html",
+    "jim-beam-lineage-batch-2.html",
+    "jim-beam-old-tub-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 270,
+    "decoded_images": 275,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 9,
-    "verified_embedded_articles": 270
+    "checkpoint_decoded_images": 5,
+    "verified_embedded_articles": 275
   },
-  "remaining_articles": 470,
-  "updated_at": "2026-10-11T01:38:20.975Z",
+  "remaining_articles": 465,
+  "updated_at": "2026-10-11T01:38:26.581Z",
   "last_checkpoint_articles": [
-    "jeptha-creed-four-grain.html",
-    "jeptha-creed-red-white-blue.html",
-    "jeptha-creed-single-barrel-reserve.html",
-    "jeptha-creed-solera.html",
-    "jim-beam-black-7-year-bourbon.html"
+    "jim-beam-black-xa-extra-aged.html",
+    "jim-beam-devils-cut-90.html",
+    "jim-beam-double-oak-bourbon.html",
+    "jim-beam-lineage-batch-2.html",
+    "jim-beam-old-tub-bourbon.html"
   ],
-  "last_parent_commit": "b278ce673e2056b16d7450f7c17b740841fee77f",
+  "last_parent_commit": "2cfaf876a6edb0ca59cdd40c63e1ec3325cfceb3",
   "last_checkpoint_results": [
     {
-      "article": "jeptha-creed-four-grain.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jeptha-creed-red-white-blue.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jeptha-creed-single-barrel-reserve.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jeptha-creed-solera.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jim-beam-black-7-year-bourbon.html",
+      "article": "jim-beam-black-xa-extra-aged.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jim-beam-black-7-year-bourbon.webp",
-      "source_sha256": "0894a179f4b0785d1a28ecd9d70b2428f05eadd3f34e37d0af308c9af6e19b94",
+      "verified_source": "assets/bottles/jim-beam-black-xa-extra-aged.webp",
+      "source_sha256": "f0d336c5410e863a6fb116c340c374068b0000885835a9518806c8161b2d6c18",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jim-beam-devils-cut-90.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/jim-beam-devils-cut-90.webp",
+      "source_sha256": "6613e76277a8eda4340f6027b981ea7c7dc558c6362b5d3bce8ae48a79ddd9c3",
+      "width": 1200,
+      "height": 900,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jim-beam-double-oak-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/jim-beam-double-oak-bourbon.webp",
+      "source_sha256": "10a126de3628094a78f9e6f85f4937ead389a2c297e40e9240534e07cf7393ae",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jim-beam-lineage-batch-2.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/jim-beam-lineage-batch-2.webp",
+      "source_sha256": "419675fbe3d229f74f7350b52d2c30d6702043db7c2585449b9ef247838880f0",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jim-beam-old-tub-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/jim-beam-old-tub-bourbon.webp",
+      "source_sha256": "1e3d55a204e3ee0f56bcbb980f3942b748cdb6b8ac178ba4c6c6c93102e2049e",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
