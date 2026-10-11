@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 55,
+  "checkpoint": 56,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -195,7 +195,12 @@
     "hardins-creek-kentucky-series-clermont.html",
     "hardins-creek-kentucky-series-frankfort.html",
     "hardins-creek-warehouse-series-warehouse-g-the-owl.html",
-    "hardins-creek-warehouse-series-warehouse-r-the-mushroom.html"
+    "hardins-creek-warehouse-series-warehouse-r-the-mushroom.html",
+    "hardins-creek-warehouse-series-warehouse-w-the-beaver.html",
+    "heaven-hill-7-year-bottled-in-bond.html",
+    "henry-mckenna-10-year-single-barrel-bottled-in-bond-bourbon.html",
+    "henry-mckenna-straight-bourbon.html",
+    "high-west-14-year-old-light-whiskey.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -452,33 +457,38 @@
     "hardins-creek-kentucky-series-clermont.html",
     "hardins-creek-kentucky-series-frankfort.html",
     "hardins-creek-warehouse-series-warehouse-g-the-owl.html",
-    "hardins-creek-warehouse-series-warehouse-r-the-mushroom.html"
+    "hardins-creek-warehouse-series-warehouse-r-the-mushroom.html",
+    "hardins-creek-warehouse-series-warehouse-w-the-beaver.html",
+    "heaven-hill-7-year-bottled-in-bond.html",
+    "henry-mckenna-10-year-single-barrel-bottled-in-bond-bourbon.html",
+    "henry-mckenna-straight-bourbon.html",
+    "high-west-14-year-old-light-whiskey.html"
   ],
   "validation": {
-    "decoded_images": 192,
+    "decoded_images": 197,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 570,
-  "updated_at": "2026-10-11T01:36:07.278Z",
+  "remaining_articles": 565,
+  "updated_at": "2026-10-11T01:36:13.243Z",
   "last_checkpoint_articles": [
-    "hardins-creek-kentucky-series-boston.html",
-    "hardins-creek-kentucky-series-clermont.html",
-    "hardins-creek-kentucky-series-frankfort.html",
-    "hardins-creek-warehouse-series-warehouse-g-the-owl.html",
-    "hardins-creek-warehouse-series-warehouse-r-the-mushroom.html"
+    "hardins-creek-warehouse-series-warehouse-w-the-beaver.html",
+    "heaven-hill-7-year-bottled-in-bond.html",
+    "henry-mckenna-10-year-single-barrel-bottled-in-bond-bourbon.html",
+    "henry-mckenna-straight-bourbon.html",
+    "high-west-14-year-old-light-whiskey.html"
   ],
-  "last_parent_commit": "cf34c7f7785c4dcc7e5295fd4c64bc31eb58b636",
+  "last_parent_commit": "8ffaa77586149a63d06b0f26412563d40572d4a2",
   "last_checkpoint_results": [
     {
-      "article": "hardins-creek-kentucky-series-boston.html",
-      "source_url": "https://breakingbourbon.com/review/hardins-creek-kentucky-series-boston",
+      "article": "hardins-creek-warehouse-series-warehouse-w-the-beaver.html",
+      "source_url": "https://breakingbourbon.com/review/hardins-creek-warehouse-series-warehouse-w-the-beaver",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/hardins-creek-kentucky-series-boston.webp",
-      "source_sha256": "1874162d2c06d2716793376a3ed4514db83ff6dd7dff270aec7c59717a16db47",
+      "verified_source": "assets/bottles/hardins-creek-warehouse-series-warehouse-w-the-beaver.webp",
+      "source_sha256": "48cbadfaaac2a073fe0d2103fbd57c001f6238ad2ceac34a4f170f070634d71c",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -486,11 +496,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "hardins-creek-kentucky-series-clermont.html",
-      "source_url": "https://breakingbourbon.com/review/hardins-creek-kentucky-series-clermont",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/hardins-creek-kentucky-series-clermont.webp",
-      "source_sha256": "12296f5e4ea5c3a3377b691b78f3e584c0f3292910fafdc12410f700fd536d3c",
+      "article": "heaven-hill-7-year-bottled-in-bond.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/heaven-hill-7-year-bottled-in-bond.webp",
+      "source_sha256": "7e7e0ef20378d6b0182678a606f2958b7695d28816c9c6953ba41e9b7f686a69",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -498,11 +507,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "hardins-creek-kentucky-series-frankfort.html",
-      "source_url": "https://breakingbourbon.com/review/hardins-creek-kentucky-series-frankfort",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/hardins-creek-kentucky-series-frankfort.webp",
-      "source_sha256": "81996b2d05f63d3120b65bf473df45c8ac63aa139cea2c481e182f3c2b91788c",
+      "article": "henry-mckenna-10-year-single-barrel-bottled-in-bond-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/henry-mckenna-10-year-single-barrel-bottled-in-bond-bourbon.webp",
+      "source_sha256": "acd5c760e7967ae0a111fdc7137a59532abd5f3cbbc125ecd16fa8d1c5d52459",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -510,11 +518,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "hardins-creek-warehouse-series-warehouse-g-the-owl.html",
-      "source_url": "https://breakingbourbon.com/review/hardins-creek-warehouse-series-warehouse-g-the-owl",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/hardins-creek-warehouse-series-warehouse-g-the-owl.webp",
-      "source_sha256": "95514b6808330a3251aa255b60118efa6189aa97753ae97dadd4d1def7dedf16",
+      "article": "henry-mckenna-straight-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/henry-mckenna-straight-bourbon.webp",
+      "source_sha256": "4a195d684c97aac55769faa11bb0cd70177ed68a819383e697d48ca425bfc952",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -522,11 +529,11 @@
       "existing_content_preserved": true
     },
     {
-      "article": "hardins-creek-warehouse-series-warehouse-r-the-mushroom.html",
-      "source_url": "https://breakingbourbon.com/review/hardins-creek-warehouse-series-warehouse-r-the-mushroom",
+      "article": "high-west-14-year-old-light-whiskey.html",
+      "source_url": "https://breakingbourbon.com/review/high-west-14-year-old-light-whiskey",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/hardins-creek-warehouse-series-warehouse-r-the-mushroom.webp",
-      "source_sha256": "d6539b85b6a6cb7d88c03ef3afa81b2b0ffe25dabf130cb2abab5a6e4ce2556b",
+      "verified_source": "assets/bottles/high-west-14-year-old-light-whiskey.webp",
+      "source_sha256": "17c642050277d49d33663d980f72f6427034bffc677b10b0379af8a9d5c90fa0",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
