@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 44,
+  "checkpoint": 45,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -150,7 +150,10 @@
     "evan-williams-single-barrel-2011-vintage.html",
     "evan-williams-single-barrel-2016-vintage.html",
     "ezra-b-12-year-single-barrel.html",
-    "ezra-brooks-99-bourbon.html"
+    "ezra-brooks-99-bourbon.html",
+    "ezra-brooks-99-rye.html",
+    "four-roses-135th-anniversary-limited-edition-small-batch-2023.html",
+    "four-roses-2013-limited-edition-small-batch.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -352,49 +355,64 @@
     "experimental-organic-six-grain-2023.html",
     "ezra-b-12-year-single-barrel.html",
     "ezra-brooks-90-catalogue.html",
-    "ezra-brooks-99-bourbon.html"
+    "ezra-brooks-99-bourbon.html",
+    "ezra-brooks-99-rye.html",
+    "ezra-brooks-cask-finished-series-catalogue.html",
+    "ezra-brooks-distillers-collection-programme.html",
+    "four-roses-135th-anniversary-limited-edition-small-batch-2023.html",
+    "four-roses-2013-limited-edition-small-batch.html"
   ],
   "validation": {
-    "decoded_images": 145,
+    "decoded_images": 148,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 625,
-  "updated_at": "2026-10-11T01:34:36.101Z",
+  "remaining_articles": 620,
+  "updated_at": "2026-10-11T01:34:41.949Z",
   "last_checkpoint_articles": [
-    "experimental-low-entry-wheated-2026.html",
-    "experimental-organic-six-grain-2023.html",
-    "ezra-b-12-year-single-barrel.html",
-    "ezra-brooks-90-catalogue.html",
-    "ezra-brooks-99-bourbon.html"
+    "ezra-brooks-99-rye.html",
+    "ezra-brooks-cask-finished-series-catalogue.html",
+    "ezra-brooks-distillers-collection-programme.html",
+    "four-roses-135th-anniversary-limited-edition-small-batch-2023.html",
+    "four-roses-2013-limited-edition-small-batch.html"
   ],
-  "last_parent_commit": "55397de82ecbcc3d6309ea0514fdae92b05d01c2",
+  "last_parent_commit": "4e1460f3ccf76cc422b52b581f7e579ea7c6f20e",
   "last_checkpoint_results": [
     {
-      "article": "experimental-low-entry-wheated-2026.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "experimental-organic-six-grain-2023.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "ezra-b-12-year-single-barrel.html",
-      "source_url": "https://breakingbourbon.com/review/ezra-b-12-year-single-barrel",
+      "article": "ezra-brooks-99-rye.html",
+      "source_url": "https://bourbonobsessed.com/ezra-brooks-99-rye-review/",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/ezra-b-12-year-single-barrel.webp",
-      "source_sha256": "7586ca52305e13774f11c52c6ec0574cafa0d0b20d6500df547b4e2f7e8e04ba",
+      "verified_source": "assets/bottles/ezra-brooks-99-rye.webp",
+      "source_sha256": "0d65d3d05fd7f352d916824cb6e6c085240611f7b38abe33a518c89aab8b1811",
+      "width": 1200,
+      "height": 604,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "ezra-brooks-cask-finished-series-catalogue.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "ezra-brooks-distillers-collection-programme.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "four-roses-135th-anniversary-limited-edition-small-batch-2023.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-135th-anniversary-limited-edition-small-batch-2023",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/four-roses-135th-anniversary-limited-edition-small-batch-2023.webp",
+      "source_sha256": "55e4dd4eae8ad876aba43d158b5982c6d7b4d61c5aef7bd1f6de79a59b6fea7a",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -402,18 +420,11 @@
       "existing_content_preserved": true
     },
     {
-      "article": "ezra-brooks-90-catalogue.html",
-      "decision": "inspected_no_exact_verified_image",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "ezra-brooks-99-bourbon.html",
-      "source_url": "https://breakingbourbon.com/review/ezra-brooks-99-bourbon",
+      "article": "four-roses-2013-limited-edition-small-batch.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-2013-limited-edition-small-batch",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/ezra-brooks-99-bourbon.webp",
-      "source_sha256": "64f667766b4ac4e45c8ed4844dd274e902ebed47083055aa9cb37d0f0b6ed7d6",
+      "verified_source": "assets/bottles/four-roses-2013-limited-edition-small-batch.webp",
+      "source_sha256": "a38064fb376ba3383768e6e1849ea3461265ce0313288423f684efd1009bc05e",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -430,6 +441,8 @@
     "experimental-organic-six-grain-2023.html"
   ],
   "no_verified_image_articles": [
-    "ezra-brooks-90-catalogue.html"
+    "ezra-brooks-90-catalogue.html",
+    "ezra-brooks-cask-finished-series-catalogue.html",
+    "ezra-brooks-distillers-collection-programme.html"
   ]
 }
