@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 52,
+  "checkpoint": 53,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -183,7 +183,9 @@
     "george-dickel-bottled-in-bond-whisky-2020-release.html",
     "george-dickel-bottled-in-bond-whisky.html",
     "george-dickel-bourbon.html",
-    "george-dickel-rye-whiskey.html"
+    "george-dickel-rye-whiskey.html",
+    "george-dickel-superior-no-12-whiskey.html",
+    "george-dickel-x-leopold-bros-collaboration-blend-rye.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -425,79 +427,76 @@
     "george-dickel-bottled-in-bond-whisky.html",
     "george-dickel-bourbon.html",
     "george-dickel-no-8-reviewed.html",
-    "george-dickel-rye-whiskey.html"
+    "george-dickel-rye-whiskey.html",
+    "george-dickel-single-barrel-9-year-programme.html",
+    "george-dickel-superior-no-12-whiskey.html",
+    "george-dickel-x-leopold-bros-collaboration-blend-rye.html",
+    "george-t-stagg-2017.html",
+    "george-t-stagg-2025.html"
   ],
   "validation": {
-    "decoded_images": 178,
+    "decoded_images": 180,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 585,
-  "updated_at": "2026-10-11T01:35:49.431Z",
+  "remaining_articles": 580,
+  "updated_at": "2026-10-11T01:35:55.531Z",
   "last_checkpoint_articles": [
-    "george-dickel-bottled-in-bond-whisky-2020-release.html",
-    "george-dickel-bottled-in-bond-whisky.html",
-    "george-dickel-bourbon.html",
-    "george-dickel-no-8-reviewed.html",
-    "george-dickel-rye-whiskey.html"
+    "george-dickel-single-barrel-9-year-programme.html",
+    "george-dickel-superior-no-12-whiskey.html",
+    "george-dickel-x-leopold-bros-collaboration-blend-rye.html",
+    "george-t-stagg-2017.html",
+    "george-t-stagg-2025.html"
   ],
-  "last_parent_commit": "c235b5dbc7dba2451ee008cab7109ce2546837d8",
+  "last_parent_commit": "4d9cdaedf0c6c838275cd92e7411f8a4a8e8e8f8",
   "last_checkpoint_results": [
     {
-      "article": "george-dickel-bottled-in-bond-whisky-2020-release.html",
-      "source_url": "https://breakingbourbon.com/review/george-dickel-bottled-in-bond-whisky-2020-release",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-bottled-in-bond-whisky-2020-release.webp",
-      "source_sha256": "d95e0b60d9fee9d559c16867df49e7c2f121e8a934cdae607931ca7a2552be68",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "george-dickel-bottled-in-bond-whisky.html",
-      "source_url": "https://breakingbourbon.com/review/george-dickel-bottled-in-bond-whisky",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-bottled-in-bond-whisky.webp",
-      "source_sha256": "f796a4f55cc2d905ee61b2d9bc3058fcb1a3258c2dd506779b9a4ceaff9b5948",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "george-dickel-bourbon.html",
-      "source_url": "https://breakingbourbon.com/review/george-dickel-bourbon",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-bourbon.webp",
-      "source_sha256": "5b61b09ad68efe8cc54f2635594a0c44c2107f4817cddd03ed4df48de74c8460",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "george-dickel-no-8-reviewed.html",
+      "article": "george-dickel-single-barrel-9-year-programme.html",
       "decision": "inspected_no_exact_verified_image",
       "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "george-dickel-rye-whiskey.html",
-      "source_url": "https://breakingbourbon.com/review/george-dickel-rye-whiskey",
+      "article": "george-dickel-superior-no-12-whiskey.html",
+      "source_url": "https://breakingbourbon.com/review/george-dickel-superior-no-12-whiskey",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-rye-whiskey.webp",
-      "source_sha256": "2de42acebdc2d0f5dde397250c0495459a1c1746dccd5b4e1dec3458e00379b2",
+      "verified_source": "assets/bottles/george-dickel-superior-no-12-whiskey.webp",
+      "source_sha256": "8f66e97e7c1685dc2d867108434e4c0f0f9db79032a5466b24630f58b230c68c",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "george-dickel-x-leopold-bros-collaboration-blend-rye.html",
+      "source_url": "https://breakingbourbon.com/review/george-dickel-x-leopold-bros-collaboration-blend-rye",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/george-dickel-x-leopold-bros-collaboration-blend-rye.webp",
+      "source_sha256": "c6985bed12d916bd31852b6675ef9a3269254f49f1aec9914015045e9fef4f4c",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "george-t-stagg-2017.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "george-t-stagg-2025.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -510,7 +509,9 @@
     "experimental-low-entry-wheated-2026.html",
     "experimental-organic-six-grain-2023.html",
     "four-roses-small-batch.html",
-    "frey-ranch-straight-bourbon.html"
+    "frey-ranch-straight-bourbon.html",
+    "george-t-stagg-2017.html",
+    "george-t-stagg-2025.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
@@ -518,6 +519,7 @@
     "ezra-brooks-distillers-collection-programme.html",
     "four-roses-anthology-chapter-one-origin.html",
     "george-dickel-barrel-select-reviewed.html",
-    "george-dickel-no-8-reviewed.html"
+    "george-dickel-no-8-reviewed.html",
+    "george-dickel-single-barrel-9-year-programme.html"
   ]
 }
