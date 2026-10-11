@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 62,
+  "checkpoint": 63,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -223,7 +223,12 @@
     "high-west-rocky-mountain-rye-21-year.html",
     "high-west-son-of-bourye.html",
     "high-west-x-casa-noble-the-noble-share-batch-24k15.html",
-    "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html"
+    "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html",
+    "jack-daniels-10-year-tennessee-whiskey-2021.html",
+    "jack-daniels-10-year-tennessee-whiskey-batch-3.html",
+    "jack-daniels-10-year-tennessee-whiskey-batch-4.html",
+    "jack-daniels-10-year-tennessee-whiskey-batch-5.html",
+    "jack-daniels-12-year-old-tennessee-whiskey.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -515,35 +520,40 @@
     "hudson-baby-bourbon-historical.html",
     "hudson-do-the-rye-thing.html",
     "hudson-maple-cask-rye-2014-batch-1-bottle-2338.html",
-    "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html"
+    "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html",
+    "jack-daniels-10-year-tennessee-whiskey-2021.html",
+    "jack-daniels-10-year-tennessee-whiskey-batch-3.html",
+    "jack-daniels-10-year-tennessee-whiskey-batch-4.html",
+    "jack-daniels-10-year-tennessee-whiskey-batch-5.html",
+    "jack-daniels-12-year-old-tennessee-whiskey.html"
   ],
   "validation": {
-    "decoded_images": 218,
+    "decoded_images": 223,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 8,
-    "verified_embedded_articles": 218
+    "checkpoint_decoded_images": 5,
+    "verified_embedded_articles": 223
   },
-  "remaining_articles": 535,
-  "updated_at": "2026-10-11T01:37:01.422Z",
+  "remaining_articles": 530,
+  "updated_at": "2026-10-11T01:37:08.107Z",
   "last_checkpoint_articles": [
-    "high-west-x-casa-noble-the-noble-share-batch-24k15.html",
-    "hudson-baby-bourbon-historical.html",
-    "hudson-do-the-rye-thing.html",
-    "hudson-maple-cask-rye-2014-batch-1-bottle-2338.html",
-    "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html"
+    "jack-daniels-10-year-tennessee-whiskey-2021.html",
+    "jack-daniels-10-year-tennessee-whiskey-batch-3.html",
+    "jack-daniels-10-year-tennessee-whiskey-batch-4.html",
+    "jack-daniels-10-year-tennessee-whiskey-batch-5.html",
+    "jack-daniels-12-year-old-tennessee-whiskey.html"
   ],
-  "last_parent_commit": "4e56e4606e22053d524c6bab705389b0b8fe1b83",
+  "last_parent_commit": "6db887812c21d2d3a19f818a7e1f6521066ddfa8",
   "last_checkpoint_results": [
     {
-      "article": "high-west-x-casa-noble-the-noble-share-batch-24k15.html",
-      "source_url": "https://breakingbourbon.com/review/high-west-x-casa-noble-the-noble-share-batch-24k15",
+      "article": "jack-daniels-10-year-tennessee-whiskey-2021.html",
+      "source_url": "https://breakingbourbon.com/review/jack-daniels-10-year-tennessee-whiskey-2021",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/high-west-x-casa-noble-the-noble-share-batch-24k15.webp",
-      "source_sha256": "65783a30239c0869fe43245b1d79400b577f7cbc09f6ba706cb3a8021ecd61d9",
+      "verified_source": "assets/bottles/jack-daniels-10-year-tennessee-whiskey-2021.webp",
+      "source_sha256": "7e181ff5f7d12693d8a7a6028d10506e34a966169bb0ec6ca5b357fe4e31eccd",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -551,35 +561,47 @@
       "existing_content_preserved": true
     },
     {
-      "article": "hudson-baby-bourbon-historical.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "hudson-do-the-rye-thing.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "hudson-maple-cask-rye-2014-batch-1-bottle-2338.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jack-daniels-10-year-old-tennessee-whiskey-batch-02.html",
-      "source_url": "https://breakingbourbon.com/review/jack-daniels-10-year-old-tennessee-whiskey-batch-02",
+      "article": "jack-daniels-10-year-tennessee-whiskey-batch-3.html",
+      "source_url": "https://breakingbourbon.com/review/jack-daniels-10-year-tennessee-whiskey-batch-3",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/jack-daniels-10-year-old-tennessee-whiskey-batch-02.webp",
-      "source_sha256": "a861efa00b5cd9161fa09ae829cf95e6a6b31979fe03c54b0b8d4c98a4098a11",
+      "verified_source": "assets/bottles/jack-daniels-10-year-tennessee-whiskey-batch-3.webp",
+      "source_sha256": "5bd63be164f68aee4a41a7653d17b3b4677ab1fe69b540dbbc171bbf3c64f673",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jack-daniels-10-year-tennessee-whiskey-batch-4.html",
+      "source_url": "https://breakingbourbon.com/review/jack-daniels-10-year-tennessee-whiskey-batch-4",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/jack-daniels-10-year-tennessee-whiskey-batch-4.webp",
+      "source_sha256": "1510b8a74165f692b674b0c1425e97586aa08a5af1f77a2606107e4c4f332c0a",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jack-daniels-10-year-tennessee-whiskey-batch-5.html",
+      "source_url": "https://breakingbourbon.com/review/jack-daniels-10-year-tennessee-whiskey-batch-5",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/jack-daniels-10-year-tennessee-whiskey-batch-5.webp",
+      "source_sha256": "eb8b8f5b62010e68023a64068a067f07164103562cc4ceae78e5f3cc42f1d9af",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jack-daniels-12-year-old-tennessee-whiskey.html",
+      "source_url": "https://breakingbourbon.com/review/jack-daniels-12-year-old-tennessee-whiskey",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/jack-daniels-12-year-old-tennessee-whiskey.webp",
+      "source_sha256": "8a42bf84853c2534bdfe288f864ec4b4e4e470fdddaec3a0f280f886f862941a",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
