@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 42,
+  "checkpoint": 43,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -145,7 +145,10 @@
     "evan-williams-1783-small-batch-bourbon.html",
     "evan-williams-23-years-old.html",
     "evan-williams-america-250-11776.html",
-    "evan-williams-black-label-bourbon.html"
+    "evan-williams-black-label-bourbon.html",
+    "evan-williams-master-blend.html",
+    "evan-williams-single-barrel-2011-vintage.html",
+    "evan-williams-single-barrel-2016-vintage.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -337,33 +340,46 @@
     "evan-williams-1783-small-batch-bourbon.html",
     "evan-williams-23-years-old.html",
     "evan-williams-america-250-11776.html",
-    "evan-williams-black-label-bourbon.html"
+    "evan-williams-black-label-bourbon.html",
+    "evan-williams-bottled-in-bond.html",
+    "evan-williams-master-blend.html",
+    "evan-williams-single-barrel-2011-vintage.html",
+    "evan-williams-single-barrel-2016-vintage.html",
+    "experimental-collection.html"
   ],
   "validation": {
-    "decoded_images": 140,
+    "decoded_images": 143,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 635,
-  "updated_at": "2026-10-11T01:34:24.537Z",
+  "remaining_articles": 630,
+  "updated_at": "2026-10-11T01:34:30.418Z",
   "last_checkpoint_articles": [
-    "evan-williams-12-year-old-2026.html",
-    "evan-williams-1783-small-batch-bourbon.html",
-    "evan-williams-23-years-old.html",
-    "evan-williams-america-250-11776.html",
-    "evan-williams-black-label-bourbon.html"
+    "evan-williams-bottled-in-bond.html",
+    "evan-williams-master-blend.html",
+    "evan-williams-single-barrel-2011-vintage.html",
+    "evan-williams-single-barrel-2016-vintage.html",
+    "experimental-collection.html"
   ],
-  "last_parent_commit": "70788661bb5e48844ecddc17dfe89ca236fdfbd5",
+  "last_parent_commit": "8b3156f4c9e9bec19c63cc9064a423bb6df8a7d8",
   "last_checkpoint_results": [
     {
-      "article": "evan-williams-12-year-old-2026.html",
-      "source_url": "https://breakingbourbon.com/review/evan-williams-12-year-old-2026",
+      "article": "evan-williams-bottled-in-bond.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 3,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "evan-williams-master-blend.html",
+      "source_url": "https://breakingbourbon.com/review/evan-williams-master-blend",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/evan-williams-12-year-old-2026.webp",
-      "source_sha256": "52c6bac4c883001de93f9b8f534571a1bc836fd92f42f6b280f56124601001b1",
+      "verified_source": "assets/bottles/evan-williams-master-blend.webp",
+      "source_sha256": "1a8ce55382b3f0ce0ee424d9e3677850a8101c7bf370c4c4f9597e0b691562ac",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -371,11 +387,11 @@
       "existing_content_preserved": true
     },
     {
-      "article": "evan-williams-1783-small-batch-bourbon.html",
-      "source_url": "https://breakingbourbon.com/review/evan-williams-1783-small-batch-bourbon",
+      "article": "evan-williams-single-barrel-2011-vintage.html",
+      "source_url": "https://breakingbourbon.com/review/evan-williams-single-barrel-2011-vintage",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/evan-williams-1783-small-batch-bourbon.webp",
-      "source_sha256": "16e091bf532987a84d3a817dc6b945a63a4a1969f48c006025bc93e44ff9f905",
+      "verified_source": "assets/bottles/evan-williams-single-barrel-2011-vintage.webp",
+      "source_sha256": "2da266eb2f3169a4846c9482ab9d59a8779733330d1a205d8d2887868a0c8138",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -383,11 +399,11 @@
       "existing_content_preserved": true
     },
     {
-      "article": "evan-williams-23-years-old.html",
-      "source_url": "https://breakingbourbon.com/review/evan-williams-23-years-old",
+      "article": "evan-williams-single-barrel-2016-vintage.html",
+      "source_url": "https://breakingbourbon.com/review/evan-williams-single-barrel-2016-vintage",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/evan-williams-23-years-old.webp",
-      "source_sha256": "557435efa781573d19954216173ee00666019d4ecc0b8dd1fa672dfc9b1c8c12",
+      "verified_source": "assets/bottles/evan-williams-single-barrel-2016-vintage.webp",
+      "source_sha256": "dd8b5486f95b438171568b1db3105361da142f3b0ccbbda0c94d324f511eb030",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -395,32 +411,18 @@
       "existing_content_preserved": true
     },
     {
-      "article": "evan-williams-america-250-11776.html",
-      "source_url": "https://www.woodgrainandwhiskey.com/2026/07/review-255-america-250-edition-evan.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/evan-williams-america-250-11776.webp",
-      "source_sha256": "3d7fe028bacd2d729babbe36a5ead27c1b44037c28fcee0334f21b07cf71e148",
-      "width": 1200,
-      "height": 630,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "evan-williams-black-label-bourbon.html",
-      "source_url": "https://breakingbourbon.com/review/evan-williams-black-label-bourbon",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/evan-williams-black-label-bourbon.webp",
-      "source_sha256": "851f9543bdadfc7091770d23f6c712217306322fecd14cf38d67c1d009b221e7",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
+      "article": "experimental-collection.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": false,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
   ],
   "preexisting_self_contained_articles": [
     "elijah-craig-small-batch.html",
-    "elmer-t-lee.html"
+    "elmer-t-lee.html",
+    "evan-williams-bottled-in-bond.html",
+    "experimental-collection.html"
   ]
 }
