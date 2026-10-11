@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 71,
+  "checkpoint": 72,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -265,7 +265,12 @@
     "jack-daniels-triple-mash-blended-straight-whiskey.html",
     "jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.html",
     "jack-daniels-twice-barreled-special-release-heritage-barrel-rye.html",
-    "jeffersons-founders-reserve-20-year-old-bourbon.html"
+    "jeffersons-founders-reserve-20-year-old-bourbon.html",
+    "jeffersons-ocean-aged-at-sea-rye-voyage-26.html",
+    "jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.html",
+    "jeffersons-ocean-aged-at-sea-voyage-2.html",
+    "jeffersons-ocean-aged-at-sea-voyage-3.html",
+    "jeffersons-ocean-aged-at-sea-voyage-4.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -602,34 +607,39 @@
     "jack-daniels-triple-mash-blended-straight-whiskey.html",
     "jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.html",
     "jack-daniels-twice-barreled-special-release-heritage-barrel-rye.html",
-    "jeffersons-founders-reserve-20-year-old-bourbon.html"
+    "jeffersons-founders-reserve-20-year-old-bourbon.html",
+    "jeffersons-ocean-aged-at-sea-rye-voyage-26.html",
+    "jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.html",
+    "jeffersons-ocean-aged-at-sea-voyage-2.html",
+    "jeffersons-ocean-aged-at-sea-voyage-3.html",
+    "jeffersons-ocean-aged-at-sea-voyage-4.html"
   ],
   "validation": {
-    "decoded_images": 260,
+    "decoded_images": 265,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
     "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 260
+    "verified_embedded_articles": 265
   },
-  "remaining_articles": 490,
-  "updated_at": "2026-10-11T01:37:56.280Z",
+  "remaining_articles": 485,
+  "updated_at": "2026-10-11T01:38:02.069Z",
   "last_checkpoint_articles": [
-    "jack-daniels-tennessee-whiskey.html",
-    "jack-daniels-triple-mash-blended-straight-whiskey.html",
-    "jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.html",
-    "jack-daniels-twice-barreled-special-release-heritage-barrel-rye.html",
-    "jeffersons-founders-reserve-20-year-old-bourbon.html"
+    "jeffersons-ocean-aged-at-sea-rye-voyage-26.html",
+    "jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.html",
+    "jeffersons-ocean-aged-at-sea-voyage-2.html",
+    "jeffersons-ocean-aged-at-sea-voyage-3.html",
+    "jeffersons-ocean-aged-at-sea-voyage-4.html"
   ],
-  "last_parent_commit": "e41ad56d7a08e3176b8348c3828790915ab5ca31",
+  "last_parent_commit": "126a7d050eb2be1b18a52ca6418e4e4a948ae1f6",
   "last_checkpoint_results": [
     {
-      "article": "jack-daniels-tennessee-whiskey.html",
+      "article": "jeffersons-ocean-aged-at-sea-rye-voyage-26.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jack-daniels-tennessee-whiskey.webp",
-      "source_sha256": "c432a07cc034e827fed9b24edd786887278afc9ef87eb5f5969ef629be81cb23",
+      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-rye-voyage-26.webp",
+      "source_sha256": "e5ceba492eac8c10b307b5abb105ea3468ad822c8db29d980b8ae56bf0aa9fd9",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -637,10 +647,21 @@
       "existing_content_preserved": true
     },
     {
-      "article": "jack-daniels-triple-mash-blended-straight-whiskey.html",
+      "article": "jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jack-daniels-triple-mash-blended-straight-whiskey.webp",
-      "source_sha256": "562beda1fe6b3ec1d7ad91042c55feafcf5db28141c3b02f9385ab7b61ecc778",
+      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-voyage-15-special-wheated-mash-bill.webp",
+      "source_sha256": "8a0a76d898b1e7b107b695f8388425d4e0fb2a95603c3c4bbd15829122a261ad",
+      "width": 650,
+      "height": 434,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jeffersons-ocean-aged-at-sea-voyage-2.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-voyage-2.webp",
+      "source_sha256": "ecfa80eb5b04fa456b16ce382d4f20caffe8487a0579b3a151ee96aaa4772ceb",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -648,10 +669,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.html",
+      "article": "jeffersons-ocean-aged-at-sea-voyage-3.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.webp",
-      "source_sha256": "6bd4779d747846444375187ecb41a10fa3de4482881dcaa16494de55e15533fd",
+      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-voyage-3.webp",
+      "source_sha256": "3d08b540055d1e8fea0b4f731c668a117a53c9b62463602fc92efdfc2f01b120",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -659,23 +680,12 @@
       "existing_content_preserved": true
     },
     {
-      "article": "jack-daniels-twice-barreled-special-release-heritage-barrel-rye.html",
+      "article": "jeffersons-ocean-aged-at-sea-voyage-4.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jack-daniels-twice-barreled-special-release-heritage-barrel-rye.webp",
-      "source_sha256": "553755bc76a4ef6c394f7a0f86b6214c3689604283fb1fbeb2daffdc94229cd2",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jeffersons-founders-reserve-20-year-old-bourbon.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jeffersons-founders-reserve-20-year-old-bourbon.webp",
-      "source_sha256": "0c3a6e6dc5f78c0254a004d9099d6355ecd8fffac59ecb54cb836b2f61864e3d",
-      "width": 1000,
-      "height": 667,
+      "verified_source": "assets/bottles/jeffersons-ocean-aged-at-sea-voyage-4.webp",
+      "source_sha256": "fff0145c66da14dca932dd6c1ab6938abb6d2e6816b85f5d9e998b834aa56eb4",
+      "width": 800,
+      "height": 450,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
