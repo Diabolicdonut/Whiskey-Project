@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 51,
+  "checkpoint": 52,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -179,7 +179,11 @@
     "george-dickel-17-year-92-reviewed-2023.html",
     "george-dickel-18-year-bourbon-reviewed-2024.html",
     "george-dickel-bottled-in-bond-2021-release.html",
-    "george-dickel-bottled-in-bond-2022.html"
+    "george-dickel-bottled-in-bond-2022.html",
+    "george-dickel-bottled-in-bond-whisky-2020-release.html",
+    "george-dickel-bottled-in-bond-whisky.html",
+    "george-dickel-bourbon.html",
+    "george-dickel-rye-whiskey.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -416,64 +420,38 @@
     "george-dickel-18-year-bourbon-reviewed-2024.html",
     "george-dickel-barrel-select-reviewed.html",
     "george-dickel-bottled-in-bond-2021-release.html",
-    "george-dickel-bottled-in-bond-2022.html"
+    "george-dickel-bottled-in-bond-2022.html",
+    "george-dickel-bottled-in-bond-whisky-2020-release.html",
+    "george-dickel-bottled-in-bond-whisky.html",
+    "george-dickel-bourbon.html",
+    "george-dickel-no-8-reviewed.html",
+    "george-dickel-rye-whiskey.html"
   ],
   "validation": {
-    "decoded_images": 174,
+    "decoded_images": 178,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 590,
-  "updated_at": "2026-10-11T01:35:43.587Z",
+  "remaining_articles": 585,
+  "updated_at": "2026-10-11T01:35:49.431Z",
   "last_checkpoint_articles": [
-    "george-dickel-17-year-92-reviewed-2023.html",
-    "george-dickel-18-year-bourbon-reviewed-2024.html",
-    "george-dickel-barrel-select-reviewed.html",
-    "george-dickel-bottled-in-bond-2021-release.html",
-    "george-dickel-bottled-in-bond-2022.html"
+    "george-dickel-bottled-in-bond-whisky-2020-release.html",
+    "george-dickel-bottled-in-bond-whisky.html",
+    "george-dickel-bourbon.html",
+    "george-dickel-no-8-reviewed.html",
+    "george-dickel-rye-whiskey.html"
   ],
-  "last_parent_commit": "a2afc819b51d09e35cde453501b18ae2bf3d0f59",
+  "last_parent_commit": "c235b5dbc7dba2451ee008cab7109ce2546837d8",
   "last_checkpoint_results": [
     {
-      "article": "george-dickel-17-year-92-reviewed-2023.html",
-      "source_url": "https://thewhiskeywash.com/american-whiskey/whiskey-review-george-dickel-17-year-old-reserve/",
+      "article": "george-dickel-bottled-in-bond-whisky-2020-release.html",
+      "source_url": "https://breakingbourbon.com/review/george-dickel-bottled-in-bond-whisky-2020-release",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-17-year-92-reviewed-2023.webp",
-      "source_sha256": "b8f48207f6eedd107a852d28a63845f62885e84a30b8586295b133a84c600ace",
-      "width": 700,
-      "height": 525,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "george-dickel-18-year-bourbon-reviewed-2024.html",
-      "source_url": "https://vinepair.com/review/george-dickel-18-year-old-bourbon-whiskey/",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-18-year-bourbon-reviewed-2024.webp",
-      "source_sha256": "12f1f54928c17d80319ad34699d0d2db2d827fd70ad2ef7324f88a0d621fa251",
-      "width": 1200,
-      "height": 627,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "george-dickel-barrel-select-reviewed.html",
-      "decision": "inspected_no_exact_verified_image",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "george-dickel-bottled-in-bond-2021-release.html",
-      "source_url": "https://breakingbourbon.com/review/george-dickel-bottled-in-bond-2021-release",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-bottled-in-bond-2021-release.webp",
-      "source_sha256": "f4424eb0288f8704efcdd91815e51e5b0f5247e832648a2c544bd22b8287e334",
+      "verified_source": "assets/bottles/george-dickel-bottled-in-bond-whisky-2020-release.webp",
+      "source_sha256": "d95e0b60d9fee9d559c16867df49e7c2f121e8a934cdae607931ca7a2552be68",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -481,13 +459,44 @@
       "existing_content_preserved": true
     },
     {
-      "article": "george-dickel-bottled-in-bond-2022.html",
-      "source_url": "https://thebourbonculture.com/whiskey-reviews/george-dickel-bottled-in-bond-tennessee-whiskey-2022-release-review/",
+      "article": "george-dickel-bottled-in-bond-whisky.html",
+      "source_url": "https://breakingbourbon.com/review/george-dickel-bottled-in-bond-whisky",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/george-dickel-bottled-in-bond-2022.webp",
-      "source_sha256": "1f285e0f5ba8ff4c79b83b0d29aa0dec37948619d125515453c794cf483b8812",
-      "width": 1200,
-      "height": 901,
+      "verified_source": "assets/bottles/george-dickel-bottled-in-bond-whisky.webp",
+      "source_sha256": "f796a4f55cc2d905ee61b2d9bc3058fcb1a3258c2dd506779b9a4ceaff9b5948",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "george-dickel-bourbon.html",
+      "source_url": "https://breakingbourbon.com/review/george-dickel-bourbon",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/george-dickel-bourbon.webp",
+      "source_sha256": "5b61b09ad68efe8cc54f2635594a0c44c2107f4817cddd03ed4df48de74c8460",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "george-dickel-no-8-reviewed.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "george-dickel-rye-whiskey.html",
+      "source_url": "https://breakingbourbon.com/review/george-dickel-rye-whiskey",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/george-dickel-rye-whiskey.webp",
+      "source_sha256": "2de42acebdc2d0f5dde397250c0495459a1c1746dccd5b4e1dec3458e00379b2",
+      "width": 1000,
+      "height": 667,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -508,6 +517,7 @@
     "ezra-brooks-cask-finished-series-catalogue.html",
     "ezra-brooks-distillers-collection-programme.html",
     "four-roses-anthology-chapter-one-origin.html",
-    "george-dickel-barrel-select-reviewed.html"
+    "george-dickel-barrel-select-reviewed.html",
+    "george-dickel-no-8-reviewed.html"
   ]
 }
