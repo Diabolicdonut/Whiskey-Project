@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 47,
+  "checkpoint": 48,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -162,7 +162,12 @@
     "four-roses-2025-limited-edition-small-batch.html",
     "four-roses-bourbon.html",
     "four-roses-experimental-series-001-mizunara-finish.html",
-    "four-roses-limited-edition-2026.html"
+    "four-roses-limited-edition-2026.html",
+    "four-roses-single-barrel-2025-obsf.html",
+    "four-roses-single-barrel-2025-obsv.html",
+    "four-roses-single-barrel-2025-oesk.html",
+    "four-roses-single-barrel-2025-oeso.html",
+    "four-roses-single-barrel-2026-obsk.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -379,33 +384,38 @@
     "four-roses-anthology-chapter-one-origin.html",
     "four-roses-bourbon.html",
     "four-roses-experimental-series-001-mizunara-finish.html",
-    "four-roses-limited-edition-2026.html"
+    "four-roses-limited-edition-2026.html",
+    "four-roses-single-barrel-2025-obsf.html",
+    "four-roses-single-barrel-2025-obsv.html",
+    "four-roses-single-barrel-2025-oesk.html",
+    "four-roses-single-barrel-2025-oeso.html",
+    "four-roses-single-barrel-2026-obsk.html"
   ],
   "validation": {
-    "decoded_images": 157,
+    "decoded_images": 162,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 610,
-  "updated_at": "2026-10-11T01:34:53.612Z",
+  "remaining_articles": 605,
+  "updated_at": "2026-10-11T01:34:59.900Z",
   "last_checkpoint_articles": [
-    "four-roses-2025-limited-edition-small-batch.html",
-    "four-roses-anthology-chapter-one-origin.html",
-    "four-roses-bourbon.html",
-    "four-roses-experimental-series-001-mizunara-finish.html",
-    "four-roses-limited-edition-2026.html"
+    "four-roses-single-barrel-2025-obsf.html",
+    "four-roses-single-barrel-2025-obsv.html",
+    "four-roses-single-barrel-2025-oesk.html",
+    "four-roses-single-barrel-2025-oeso.html",
+    "four-roses-single-barrel-2026-obsk.html"
   ],
-  "last_parent_commit": "2851c20dd3d9ed9ce040c136d5fdab155b4c3ff4",
+  "last_parent_commit": "aca64646c817b0c83991f17390c842efd3361a1d",
   "last_checkpoint_results": [
     {
-      "article": "four-roses-2025-limited-edition-small-batch.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-2025-limited-edition-small-batch",
+      "article": "four-roses-single-barrel-2025-obsf.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-single-barrel-2025-obsf",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-2025-limited-edition-small-batch.webp",
-      "source_sha256": "ebbdc0f01f581e5968d0622837a9cbdd0c341227823ed37b95f027086c749519",
+      "verified_source": "assets/bottles/four-roses-single-barrel-2025-obsf.webp",
+      "source_sha256": "50e40b0701ed040a765a39a661e358b9ce6cd9ee012f03a89b860696c64418a0",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -413,18 +423,11 @@
       "existing_content_preserved": true
     },
     {
-      "article": "four-roses-anthology-chapter-one-origin.html",
-      "decision": "inspected_no_exact_verified_image",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "four-roses-bourbon.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-bourbon",
+      "article": "four-roses-single-barrel-2025-obsv.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-single-barrel-2025-obsv",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-bourbon.webp",
-      "source_sha256": "3c34a68e3b7216e2f156fe31db49cd81c30faee2575694d085c5af436d9d71ae",
+      "verified_source": "assets/bottles/four-roses-single-barrel-2025-obsv.webp",
+      "source_sha256": "2b9c65e1b94182073182f688801b301407eb397f934c84876e3a00bfff20ea19",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -432,11 +435,11 @@
       "existing_content_preserved": true
     },
     {
-      "article": "four-roses-experimental-series-001-mizunara-finish.html",
-      "source_url": "https://breakingbourbon.com/review/four-roses-experimental-series-001-mizunara-finish",
+      "article": "four-roses-single-barrel-2025-oesk.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-single-barrel-2025-oesk",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-experimental-series-001-mizunara-finish.webp",
-      "source_sha256": "c940a4584eb307070f154b324ca4737c128a2425126a6b679a1968179403d0d7",
+      "verified_source": "assets/bottles/four-roses-single-barrel-2025-oesk.webp",
+      "source_sha256": "b6920ef0866978cda7ec8f0569d025ff140a64dc49139d8b78c0269b060ab896",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -444,13 +447,25 @@
       "existing_content_preserved": true
     },
     {
-      "article": "four-roses-limited-edition-2026.html",
-      "source_url": "https://bevinfogroup.com/2026/09/01/review-four-roses-2026-limited-edition-small-batch-bourbon/",
+      "article": "four-roses-single-barrel-2025-oeso.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-single-barrel-2025-oeso",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/four-roses-limited-edition-2026.webp",
-      "source_sha256": "f7297996d0abbf8a84ae90f2f42f71754362fff76794dddb2cdb27561ee84b06",
-      "width": 900,
-      "height": 1200,
+      "verified_source": "assets/bottles/four-roses-single-barrel-2025-oeso.webp",
+      "source_sha256": "89a8b8377da5eeec42a5443719beea417f81186402c543405d9840292eeea435",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "four-roses-single-barrel-2026-obsk.html",
+      "source_url": "https://breakingbourbon.com/review/four-roses-single-barrel-2026-obsk",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/four-roses-single-barrel-2026-obsk.webp",
+      "source_sha256": "edecb61ef572f1f5294e59960a7f908326164e1f345c0e3b0d9736a85308d9fa",
+      "width": 1000,
+      "height": 648,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
