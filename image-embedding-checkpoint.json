@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 67,
+  "checkpoint": 68,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -247,7 +247,10 @@
     "jack-daniels-distillery-series-selection-15-sweet-mash-tennessee-straight-whiskey.html",
     "jack-daniels-distillery-series-selection-16-tennessee-rye-whiskey-finished-in-table-syrup-barrels.html",
     "jack-daniels-distillery-series-selection-9-toasted-barrel-finished-rye.html",
-    "jack-daniels-gentleman-jack-tennessee-whiskey.html"
+    "jack-daniels-gentleman-jack-tennessee-whiskey.html",
+    "jack-daniels-sinatra-select-90.html",
+    "jack-daniels-single-barrel-barrel-proof-rye-136-6.html",
+    "jack-daniels-single-barrel-barrel-proof.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -564,84 +567,78 @@
     "jack-daniels-distillery-series-selection-15-sweet-mash-tennessee-straight-whiskey.html",
     "jack-daniels-distillery-series-selection-16-tennessee-rye-whiskey-finished-in-table-syrup-barrels.html",
     "jack-daniels-distillery-series-selection-9-toasted-barrel-finished-rye.html",
-    "jack-daniels-gentleman-jack-tennessee-whiskey.html"
+    "jack-daniels-gentleman-jack-tennessee-whiskey.html",
+    "jack-daniels-no27-gold-80.html",
+    "jack-daniels-sinatra-select-90.html",
+    "jack-daniels-single-barrel-barrel-proof-rye-136-6.html",
+    "jack-daniels-single-barrel-barrel-proof-rye.html",
+    "jack-daniels-single-barrel-barrel-proof.html"
   ],
   "validation": {
-    "decoded_images": 242,
+    "decoded_images": 245,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 242
+    "checkpoint_decoded_images": 3,
+    "verified_embedded_articles": 245
   },
-  "remaining_articles": 510,
-  "updated_at": "2026-10-11T01:37:32.361Z",
+  "remaining_articles": 505,
+  "updated_at": "2026-10-11T01:37:38.536Z",
   "last_checkpoint_articles": [
-    "jack-daniels-distillery-series-selection-14-high-toast-maple-finish-rye.html",
-    "jack-daniels-distillery-series-selection-15-sweet-mash-tennessee-straight-whiskey.html",
-    "jack-daniels-distillery-series-selection-16-tennessee-rye-whiskey-finished-in-table-syrup-barrels.html",
-    "jack-daniels-distillery-series-selection-9-toasted-barrel-finished-rye.html",
-    "jack-daniels-gentleman-jack-tennessee-whiskey.html"
+    "jack-daniels-no27-gold-80.html",
+    "jack-daniels-sinatra-select-90.html",
+    "jack-daniels-single-barrel-barrel-proof-rye-136-6.html",
+    "jack-daniels-single-barrel-barrel-proof-rye.html",
+    "jack-daniels-single-barrel-barrel-proof.html"
   ],
-  "last_parent_commit": "d58f5cd6af67cd748ba028b2a4164ba4b7325aab",
+  "last_parent_commit": "bb342740c0c7bf1ca2b4403db439c50bff993f79",
   "last_checkpoint_results": [
     {
-      "article": "jack-daniels-distillery-series-selection-14-high-toast-maple-finish-rye.html",
-      "source_url": "https://breakingbourbon.com/review/jack-daniels-distillery-series-selection-14-high-toast-maple-finish-rye",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/jack-daniels-distillery-series-selection-14-high-toast-maple-finish-rye.webp",
-      "source_sha256": "a9c21677e3daadabdd96cd66b52a299e9b6964c1e31a119bd7fb4073359ea0bd",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
+      "article": "jack-daniels-no27-gold-80.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "jack-daniels-distillery-series-selection-15-sweet-mash-tennessee-straight-whiskey.html",
-      "source_url": "https://breakingbourbon.com/review/jack-daniels-distillery-series-selection-15-sweet-mash-tennessee-straight-whiskey",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/jack-daniels-distillery-series-selection-15-sweet-mash-tennessee-straight-whiskey.webp",
-      "source_sha256": "9e996f7129a797ceae6b7b2e6245fcd7f8e2475991f0d83a93d8be57dd460b20",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jack-daniels-distillery-series-selection-16-tennessee-rye-whiskey-finished-in-table-syrup-barrels.html",
-      "source_url": "https://breakingbourbon.com/review/jack-daniels-distillery-series-selection-16-tennessee-rye-whiskey-finished-in-table-syrup-barrels",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/jack-daniels-distillery-series-selection-16-tennessee-rye-whiskey-finished-in-table-syrup-barrels.webp",
-      "source_sha256": "3e143d5d46ef192c153c4e83530969f71bb7083b2fd9a3774c063a7082591388",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jack-daniels-distillery-series-selection-9-toasted-barrel-finished-rye.html",
-      "source_url": "https://breakingbourbon.com/review/jack-daniels-distillery-series-selection-9-toasted-barrel-finished-rye",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/jack-daniels-distillery-series-selection-9-toasted-barrel-finished-rye.webp",
-      "source_sha256": "8956d49cda749898844165891be7ecca5a0fe63ca7212e084e821a706e6b7152",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jack-daniels-gentleman-jack-tennessee-whiskey.html",
+      "article": "jack-daniels-sinatra-select-90.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jack-daniels-gentleman-jack-tennessee-whiskey.webp",
-      "source_sha256": "e9b5d4335eab16e254f90c275876261a40f026f05447db34128a465783cfefe2",
+      "verified_source": "assets/bottles/jack-daniels-sinatra-select-90.webp",
+      "source_sha256": "0d4a1a62e456ced846cb25278508251445b5806d3cc72544d01193403730dcf3",
+      "width": 800,
+      "height": 1200,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jack-daniels-single-barrel-barrel-proof-rye-136-6.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/jack-daniels-single-barrel-barrel-proof-rye-136-6.webp",
+      "source_sha256": "2a4f5e3a9dc7fb6f2539a6b3c23b13e429cfa18483ae88dac0ae3fa2e11babe3",
       "width": 1000,
       "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jack-daniels-single-barrel-barrel-proof-rye.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "jack-daniels-single-barrel-barrel-proof.html",
+      "source_url": "https://breakingbourbon.com/review/jack-daniels-single-barrel-barrel-proof",
+      "decision": "embedded_verified_exact_slug_photo",
+      "verified_source": "assets/bottles/jack-daniels-single-barrel-barrel-proof.webp",
+      "source_sha256": "6ff393e382ee271471858c6340d9580f0e5dec0ea526bb2f22476a376336adc2",
+      "width": 800,
+      "height": 533,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -674,6 +671,8 @@
     "george-dickel-single-barrel-9-year-programme.html",
     "high-west-cask-strength-bourbon-2026-catalogue.html",
     "high-west-midwinter-act-14-2026-catalogue.html",
-    "high-west-rendezvous-2025-catalogue.html"
+    "high-west-rendezvous-2025-catalogue.html",
+    "jack-daniels-no27-gold-80.html",
+    "jack-daniels-single-barrel-barrel-proof-rye.html"
   ]
 }
