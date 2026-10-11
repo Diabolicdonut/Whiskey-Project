@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 70,
+  "checkpoint": 71,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -260,7 +260,12 @@
     "jack-daniels-single-barrel-special-release-tanyard-hill-rye.html",
     "jack-daniels-small-batch-special-release-coy-hill-high-proof.html",
     "jack-daniels-special-release-small-batch-rye-2026.html",
-    "jack-daniels-tennessee-rye.html"
+    "jack-daniels-tennessee-rye.html",
+    "jack-daniels-tennessee-whiskey.html",
+    "jack-daniels-triple-mash-blended-straight-whiskey.html",
+    "jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.html",
+    "jack-daniels-twice-barreled-special-release-heritage-barrel-rye.html",
+    "jeffersons-founders-reserve-20-year-old-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -592,34 +597,39 @@
     "jack-daniels-single-barrel-special-release-tanyard-hill-rye.html",
     "jack-daniels-small-batch-special-release-coy-hill-high-proof.html",
     "jack-daniels-special-release-small-batch-rye-2026.html",
-    "jack-daniels-tennessee-rye.html"
+    "jack-daniels-tennessee-rye.html",
+    "jack-daniels-tennessee-whiskey.html",
+    "jack-daniels-triple-mash-blended-straight-whiskey.html",
+    "jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.html",
+    "jack-daniels-twice-barreled-special-release-heritage-barrel-rye.html",
+    "jeffersons-founders-reserve-20-year-old-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 255,
+    "decoded_images": 260,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
     "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 255
+    "verified_embedded_articles": 260
   },
-  "remaining_articles": 495,
-  "updated_at": "2026-10-11T01:37:50.544Z",
+  "remaining_articles": 490,
+  "updated_at": "2026-10-11T01:37:56.280Z",
   "last_checkpoint_articles": [
-    "jack-daniels-single-barrel-special-release-barrel-proof-rye.html",
-    "jack-daniels-single-barrel-special-release-tanyard-hill-rye.html",
-    "jack-daniels-small-batch-special-release-coy-hill-high-proof.html",
-    "jack-daniels-special-release-small-batch-rye-2026.html",
-    "jack-daniels-tennessee-rye.html"
+    "jack-daniels-tennessee-whiskey.html",
+    "jack-daniels-triple-mash-blended-straight-whiskey.html",
+    "jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.html",
+    "jack-daniels-twice-barreled-special-release-heritage-barrel-rye.html",
+    "jeffersons-founders-reserve-20-year-old-bourbon.html"
   ],
-  "last_parent_commit": "47dfc7cb1306f7384746ef7ee857b54e8988312f",
+  "last_parent_commit": "e41ad56d7a08e3176b8348c3828790915ab5ca31",
   "last_checkpoint_results": [
     {
-      "article": "jack-daniels-single-barrel-special-release-barrel-proof-rye.html",
+      "article": "jack-daniels-tennessee-whiskey.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jack-daniels-single-barrel-special-release-barrel-proof-rye.webp",
-      "source_sha256": "05d2d34f61fe7cd434415ee6abd27f220e5aa32b30822d1b196fbc8ecff976ba",
+      "verified_source": "assets/bottles/jack-daniels-tennessee-whiskey.webp",
+      "source_sha256": "c432a07cc034e827fed9b24edd786887278afc9ef87eb5f5969ef629be81cb23",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -627,10 +637,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "jack-daniels-single-barrel-special-release-tanyard-hill-rye.html",
+      "article": "jack-daniels-triple-mash-blended-straight-whiskey.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jack-daniels-single-barrel-special-release-tanyard-hill-rye.webp",
-      "source_sha256": "90fb6dc0528b28362ef50283da05ac331c7c3d0b6105c239fa0e5e9c624d500b",
+      "verified_source": "assets/bottles/jack-daniels-triple-mash-blended-straight-whiskey.webp",
+      "source_sha256": "562beda1fe6b3ec1d7ad91042c55feafcf5db28141c3b02f9385ab7b61ecc778",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -638,10 +648,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "jack-daniels-small-batch-special-release-coy-hill-high-proof.html",
+      "article": "jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jack-daniels-small-batch-special-release-coy-hill-high-proof.webp",
-      "source_sha256": "5055b078de96150856e0f1b2c219486f0f17ac3d31613e37a5f2140289239e79",
+      "verified_source": "assets/bottles/jack-daniels-twice-barreled-special-release-american-single-malt-finished-in-oloroso-sherry-casks.webp",
+      "source_sha256": "6bd4779d747846444375187ecb41a10fa3de4482881dcaa16494de55e15533fd",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -649,22 +659,21 @@
       "existing_content_preserved": true
     },
     {
-      "article": "jack-daniels-special-release-small-batch-rye-2026.html",
+      "article": "jack-daniels-twice-barreled-special-release-heritage-barrel-rye.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jack-daniels-special-release-small-batch-rye-2026.webp",
-      "source_sha256": "4641bb35cbbc8e726424ff726d14597607125ef5c62cc920b8fea8e0facaab1c",
-      "width": 570,
-      "height": 570,
+      "verified_source": "assets/bottles/jack-daniels-twice-barreled-special-release-heritage-barrel-rye.webp",
+      "source_sha256": "553755bc76a4ef6c394f7a0f86b6214c3689604283fb1fbeb2daffdc94229cd2",
+      "width": 1000,
+      "height": 667,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "jack-daniels-tennessee-rye.html",
-      "source_url": "https://breakingbourbon.com/review/jack-daniels-tennessee-rye",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/jack-daniels-tennessee-rye.webp",
-      "source_sha256": "0f5af27fce3b0c55cff7bdfbf4123ff261fa97091d7ec89037870123a36fc401",
+      "article": "jeffersons-founders-reserve-20-year-old-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/jeffersons-founders-reserve-20-year-old-bourbon.webp",
+      "source_sha256": "0c3a6e6dc5f78c0254a004d9099d6355ecd8fffac59ecb54cb836b2f61864e3d",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
