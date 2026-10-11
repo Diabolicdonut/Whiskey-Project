@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 40,
+  "checkpoint": 41,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -137,7 +137,10 @@
     "elijah-craig-barrel-proof.html",
     "elijah-craig-beer-barrel-finish-2020-release.html",
     "elijah-craig-european-oak-2023-ryder-cup-limited-edition.html",
-    "elijah-craig-rye.html"
+    "elijah-craig-rye.html",
+    "elijah-craig-toasted-barrel-finish-straight-bourbon.html",
+    "elijah-craig-toasted-rye.html",
+    "evan-williams-12-year-101-proof.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -319,32 +322,45 @@
     "elijah-craig-barrel-proof.html",
     "elijah-craig-beer-barrel-finish-2020-release.html",
     "elijah-craig-european-oak-2023-ryder-cup-limited-edition.html",
-    "elijah-craig-rye.html"
+    "elijah-craig-rye.html",
+    "elijah-craig-small-batch.html",
+    "elijah-craig-toasted-barrel-finish-straight-bourbon.html",
+    "elijah-craig-toasted-rye.html",
+    "elmer-t-lee.html",
+    "evan-williams-12-year-101-proof.html"
   ],
   "validation": {
-    "decoded_images": 132,
+    "decoded_images": 135,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true
   },
-  "remaining_articles": 645,
-  "updated_at": "2026-10-11T01:31:18.598Z",
+  "remaining_articles": 640,
+  "updated_at": "2026-10-11T01:33:03.474Z",
   "last_checkpoint_articles": [
-    "elijah-craig-barrel-proof-rye-batch-b526.html",
-    "elijah-craig-barrel-proof.html",
-    "elijah-craig-beer-barrel-finish-2020-release.html",
-    "elijah-craig-european-oak-2023-ryder-cup-limited-edition.html",
-    "elijah-craig-rye.html"
+    "elijah-craig-small-batch.html",
+    "elijah-craig-toasted-barrel-finish-straight-bourbon.html",
+    "elijah-craig-toasted-rye.html",
+    "elmer-t-lee.html",
+    "evan-williams-12-year-101-proof.html"
   ],
-  "last_parent_commit": "4b36428ac3e5ecf156db97912a7178e4759d587c",
+  "last_parent_commit": "c5077c3bc02782a0a638829ef18f7753dceaa937",
   "last_checkpoint_results": [
     {
-      "article": "elijah-craig-barrel-proof-rye-batch-b526.html",
+      "article": "elijah-craig-small-batch.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 3,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "elijah-craig-toasted-barrel-finish-straight-bourbon.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/elijah-craig-barrel-proof-rye-batch-b526.webp",
-      "source_sha256": "a529d120e4c44b73adfdfa1638a2f8b320b7311cb2773827dbd051797476a1f5",
+      "verified_source": "assets/bottles/elijah-craig-toasted-barrel-finish-straight-bourbon.webp",
+      "source_sha256": "e001b51e5af02a14803f8c26efde5532d2d24f1413ae6dcdf417e8d1c06fe05f",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -352,10 +368,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "elijah-craig-barrel-proof.html",
+      "article": "elijah-craig-toasted-rye.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/elijah-craig-barrel-proof.webp",
-      "source_sha256": "ee9d8a51deee81ac4ce26745ccb7f9204cb6885881cbd80316a12932a9e884d8",
+      "verified_source": "assets/bottles/elijah-craig-toasted-rye.webp",
+      "source_sha256": "ed3a56f61a1318c3ee39889d5913315bfad4332097aece3073da758b9c2148a2",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -363,37 +379,27 @@
       "existing_content_preserved": true
     },
     {
-      "article": "elijah-craig-beer-barrel-finish-2020-release.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/elijah-craig-beer-barrel-finish-2020-release.webp",
-      "source_sha256": "c817187516d946eaa47782f130b91cf2e9a1d683ae73a70c40166825905d1a0a",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
+      "article": "elmer-t-lee.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "elijah-craig-european-oak-2023-ryder-cup-limited-edition.html",
+      "article": "evan-williams-12-year-101-proof.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/elijah-craig-european-oak-2023-ryder-cup-limited-edition.webp",
-      "source_sha256": "bdfd2f1cb72f419fd79c769772b9bee567bf985ae5c9f7ccdc399a64a0938700",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "elijah-craig-rye.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/elijah-craig-rye.webp",
-      "source_sha256": "2c7e0b9bcd75aac89b4cba956a46dae5ed2cf9b6f9e859a50e88883880430390",
+      "verified_source": "assets/bottles/evan-williams-12-year-101-proof.webp",
+      "source_sha256": "f239a91d2295a54d0450151aefd738de9bd12775f15531e46c0704d8bbdbeb16",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
+  ],
+  "preexisting_self_contained_articles": [
+    "elijah-craig-small-batch.html",
+    "elmer-t-lee.html"
   ]
 }
