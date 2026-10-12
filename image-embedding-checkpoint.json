@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 121,
+  "checkpoint": 122,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -1020,7 +1020,12 @@
     "prichards-rye-86-catalogue.html",
     "prichards-single-malt-reviewed-2014.html",
     "prichards-tennessee-reviewed-2012.html",
-    "prohibition-andersons-belle-2025.html"
+    "prohibition-andersons-belle-2025.html",
+    "prohibition-cove-spring-2026.html",
+    "prohibition-golden-wedding-2023.html",
+    "prohibition-henry-watterson-2026.html",
+    "prohibition-john-g-carlisle-2026.html",
+    "prohibition-kentucky-river-2026.html"
   ],
   "validation": {
     "decoded_images": 428,
@@ -1029,65 +1034,65 @@
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 4,
+    "checkpoint_decoded_images": 8,
     "verified_embedded_articles": 428
   },
-  "remaining_articles": 240,
-  "updated_at": "2026-10-12T11:56:58.568Z",
+  "remaining_articles": 235,
+  "updated_at": "2026-10-12T11:57:30.270Z",
   "last_checkpoint_articles": [
-    "prichards-lincoln-county-lightning-reviewed-2013.html",
-    "prichards-rye-86-catalogue.html",
-    "prichards-single-malt-reviewed-2014.html",
-    "prichards-tennessee-reviewed-2012.html",
-    "prohibition-andersons-belle-2025.html"
+    "prohibition-cove-spring-2026.html",
+    "prohibition-golden-wedding-2023.html",
+    "prohibition-henry-watterson-2026.html",
+    "prohibition-john-g-carlisle-2026.html",
+    "prohibition-kentucky-river-2026.html"
   ],
-  "last_parent_commit": "19ac24739d59e751570f00874d5df1c2e3550c8e",
+  "last_parent_commit": "e5d5a7239fc16c6490b8e5420724fcf1e9577335",
   "last_checkpoint_results": [
     {
-      "article": "prichards-lincoln-county-lightning-reviewed-2013.html",
-      "decoded_images": 1,
+      "article": "prohibition-cove-spring-2026.html",
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/prichards-lincoln-county-lightning-reviewed-2013.webp",
-      "source_sha256": "7561e63e5daf7f1b04dca7c32343a80007e1b8eb1ce6e1fb06793dd72aea5799",
-      "width": 1200,
-      "height": 1200
+      "decision": "verified_preexisting_self_contained_photo",
+      "width": 464,
+      "height": 317,
+      "source_sha256": "c3250e0378ef779a09c11f0cea3bc4019b8885ae50431998eb06f813b4649f71"
     },
     {
-      "article": "prichards-rye-86-catalogue.html",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "Article does not identify an already-verified exact bottle image."
-    },
-    {
-      "article": "prichards-single-malt-reviewed-2014.html",
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/prichards-single-malt-reviewed-2014.webp",
-      "source_sha256": "56fb62935055c9ee137de2589b285623f303461edb75260499744c6d8684a2f7",
-      "width": 97,
-      "height": 200
-    },
-    {
-      "article": "prichards-tennessee-reviewed-2012.html",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "Article does not identify an already-verified exact bottle image."
-    },
-    {
-      "article": "prohibition-andersons-belle-2025.html",
+      "article": "prohibition-golden-wedding-2023.html",
       "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "inspected_no_exact_verified_image",
       "reason": "No already-verified expression-matched image is identified by article metadata."
+    },
+    {
+      "article": "prohibition-henry-watterson-2026.html",
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "No already-verified expression-matched image is identified by article metadata."
+    },
+    {
+      "article": "prohibition-john-g-carlisle-2026.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "verified_preexisting_self_contained_photo",
+      "width": 464,
+      "height": 317,
+      "source_sha256": "c3250e0378ef779a09c11f0cea3bc4019b8885ae50431998eb06f813b4649f71"
+    },
+    {
+      "article": "prohibition-kentucky-river-2026.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "verified_preexisting_self_contained_photo",
+      "width": 464,
+      "height": 317,
+      "source_sha256": "c3250e0378ef779a09c11f0cea3bc4019b8885ae50431998eb06f813b4649f71"
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1168,7 +1173,10 @@
     "old-charter-mongolian-oak.html",
     "old-forester-100-bourbon.html",
     "old-forester-100-rye.html",
-    "old-grand-dad-114.html"
+    "old-grand-dad-114.html",
+    "prohibition-cove-spring-2026.html",
+    "prohibition-john-g-carlisle-2026.html",
+    "prohibition-kentucky-river-2026.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
@@ -1201,6 +1209,8 @@
     "pikesville-supreme-80-proof-3-year.html",
     "prichards-rye-86-catalogue.html",
     "prichards-tennessee-reviewed-2012.html",
-    "prohibition-andersons-belle-2025.html"
+    "prohibition-andersons-belle-2025.html",
+    "prohibition-golden-wedding-2023.html",
+    "prohibition-henry-watterson-2026.html"
   ]
 }
