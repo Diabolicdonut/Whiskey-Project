@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 106,
+  "checkpoint": 107,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -370,7 +370,10 @@
     "old-elk-straight-wheat-whiskey-6-year-100-proof.html",
     "old-ezra-7-year-101-proof.html",
     "old-ezra-7-year-barrel-strength.html",
-    "old-ezra-7-year-rye-114-reviewed.html"
+    "old-ezra-7-year-rye-114-reviewed.html",
+    "old-forester-117-series-1910-extra-old-batch-002.html",
+    "old-forester-117-series-bottled-in-bond-batch-001.html",
+    "old-forester-117-series-extra-extra-old.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -882,56 +885,55 @@
     "old-elk-straight-wheat-whiskey-6-year-100-proof.html",
     "old-ezra-7-year-101-proof.html",
     "old-ezra-7-year-barrel-strength.html",
-    "old-ezra-7-year-rye-114-reviewed.html"
+    "old-ezra-7-year-rye-114-reviewed.html",
+    "old-forester-100-bourbon.html",
+    "old-forester-100-rye.html",
+    "old-forester-117-series-1910-extra-old-batch-002.html",
+    "old-forester-117-series-bottled-in-bond-batch-001.html",
+    "old-forester-117-series-extra-extra-old.html"
   ],
   "validation": {
-    "decoded_images": 365,
+    "decoded_images": 368,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 365
+    "checkpoint_decoded_images": 9,
+    "verified_embedded_articles": 368
   },
-  "remaining_articles": 315,
-  "updated_at": "2026-10-12T00:14:00.362Z",
+  "remaining_articles": 310,
+  "updated_at": "2026-10-12T00:14:09.332Z",
   "last_checkpoint_articles": [
-    "old-elk-blended-straight-bourbon.html",
-    "old-elk-straight-wheat-whiskey-6-year-100-proof.html",
-    "old-ezra-7-year-101-proof.html",
-    "old-ezra-7-year-barrel-strength.html",
-    "old-ezra-7-year-rye-114-reviewed.html"
+    "old-forester-100-bourbon.html",
+    "old-forester-100-rye.html",
+    "old-forester-117-series-1910-extra-old-batch-002.html",
+    "old-forester-117-series-bottled-in-bond-batch-001.html",
+    "old-forester-117-series-extra-extra-old.html"
   ],
-  "last_parent_commit": "9b560bf2323aaaa4d8fb2358956aab87d0739e77",
+  "last_parent_commit": "6794cff74d235f7ac119cfade2ec25d12ad44b04",
   "last_checkpoint_results": [
     {
-      "article": "old-elk-blended-straight-bourbon.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-elk-blended-straight-bourbon.webp",
-      "source_sha256": "16cbc18c52f4e4ddb7cde5564e2314bc1c8d3e8b65281f03d39c4c3131216bc5",
-      "width": 1200,
-      "height": 800,
-      "decoded_images": 1,
+      "article": "old-forester-100-bourbon.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 3,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "old-elk-straight-wheat-whiskey-6-year-100-proof.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-elk-straight-wheat-whiskey-6-year-100-proof.webp",
-      "source_sha256": "869780379219485992780ffb334cc3a9b3bf08f83a65a7d879efb5b60525e101",
-      "width": 410,
-      "height": 512,
-      "decoded_images": 1,
+      "article": "old-forester-100-rye.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 3,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "old-ezra-7-year-101-proof.html",
+      "article": "old-forester-117-series-1910-extra-old-batch-002.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-ezra-7-year-101-proof.webp",
-      "source_sha256": "3f76352f72788f84928fc9dcaf3a0d12508af036f93e4a2a54295eefa80d8510",
+      "verified_source": "assets/bottles/old-forester-117-series-1910-extra-old-batch-002.webp",
+      "source_sha256": "84fa214b00e5f432bd0363674010ac4668f2d4b856668dfd0096fe11f8396937",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -939,10 +941,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-ezra-7-year-barrel-strength.html",
+      "article": "old-forester-117-series-bottled-in-bond-batch-001.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-ezra-7-year-barrel-strength.webp",
-      "source_sha256": "49fafc84120c7de9f48ca3fe26bc87ecbaacd5e3bc4bbf35b6c3649f14b46f42",
+      "verified_source": "assets/bottles/old-forester-117-series-bottled-in-bond-batch-001.webp",
+      "source_sha256": "bd7010733144044c08c906612ddc4eb808ee3cca70149a5038bfc63977c9458c",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -950,12 +952,12 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-ezra-7-year-rye-114-reviewed.html",
+      "article": "old-forester-117-series-extra-extra-old.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-ezra-7-year-rye-114-reviewed.webp",
-      "source_sha256": "f4a7141da820ab09c5a28595ecb759eff2c5e921cbfd42e8284ab0285c2f93a5",
-      "width": 1200,
-      "height": 628,
+      "verified_source": "assets/bottles/old-forester-117-series-extra-extra-old.webp",
+      "source_sha256": "51b4bb274103acf1f04cb59f944f3d1e26a81b40c33c8d4ba7eb1f26b93ed54a",
+      "width": 1000,
+      "height": 667,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -1036,7 +1038,9 @@
     "old-charter-canadian-oak.html",
     "old-charter-chinkapin-oak.html",
     "old-charter-finest-oak.html",
-    "old-charter-mongolian-oak.html"
+    "old-charter-mongolian-oak.html",
+    "old-forester-100-bourbon.html",
+    "old-forester-100-rye.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
