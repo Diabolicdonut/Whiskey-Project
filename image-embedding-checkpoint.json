@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 104,
+  "checkpoint": 105,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -364,7 +364,8 @@
     "new-riff-kentucky-straight-bourbon.html",
     "new-riff-kentucky-straight-rye.html",
     "new-riff-sour-mash-single-malt-2025.html",
-    "noahs-mill-batch-22-23.html"
+    "noahs-mill-batch-22-23.html",
+    "old-charter-french-oak.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -866,64 +867,36 @@
     "new-riff-sour-mash-single-malt-2025.html",
     "noahs-mill-batch-22-23.html",
     "ofc-vintages.html",
-    "old-charter-8.html"
+    "old-charter-8.html",
+    "old-charter-canadian-oak.html",
+    "old-charter-chinkapin-oak.html",
+    "old-charter-finest-oak.html",
+    "old-charter-french-oak.html",
+    "old-charter-mongolian-oak.html"
   ],
   "validation": {
-    "decoded_images": 359,
+    "decoded_images": 360,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 7,
-    "verified_embedded_articles": 359
+    "checkpoint_decoded_images": 9,
+    "verified_embedded_articles": 360
   },
-  "remaining_articles": 325,
-  "updated_at": "2026-10-12T00:13:43.227Z",
+  "remaining_articles": 320,
+  "updated_at": "2026-10-12T00:13:51.955Z",
   "last_checkpoint_articles": [
-    "new-riff-kentucky-straight-rye.html",
-    "new-riff-sour-mash-single-malt-2025.html",
-    "noahs-mill-batch-22-23.html",
-    "ofc-vintages.html",
-    "old-charter-8.html"
+    "old-charter-canadian-oak.html",
+    "old-charter-chinkapin-oak.html",
+    "old-charter-finest-oak.html",
+    "old-charter-french-oak.html",
+    "old-charter-mongolian-oak.html"
   ],
-  "last_parent_commit": "e97ee14814ff29e503bef052fbe5ea4744efa0a5",
+  "last_parent_commit": "2b6b0e1afb2813fc47377215bdaa54b9c27c5cfa",
   "last_checkpoint_results": [
     {
-      "article": "new-riff-kentucky-straight-rye.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/new-riff-kentucky-straight-rye.webp",
-      "source_sha256": "3733cd4642acaba8d497b1d0a8162fd59dc29f4b955c9b1de363593bdfe48d40",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "new-riff-sour-mash-single-malt-2025.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/new-riff-sour-mash-single-malt-2025.webp",
-      "source_sha256": "7b7f5229687a73d8b5e6739cd3925d9fd38b78f01b799e2ceb5690a4ab6f9fbe",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "noahs-mill-batch-22-23.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/noahs-mill-batch-22-23.webp",
-      "source_sha256": "8b101be4510d81e63d2d9b100f81aec92e1eed5b4b624deaba2d30512eef2e0d",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "ofc-vintages.html",
+      "article": "old-charter-canadian-oak.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
@@ -931,7 +904,34 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-charter-8.html",
+      "article": "old-charter-chinkapin-oak.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": false,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-charter-finest-oak.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": false,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-charter-french-oak.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-charter-french-oak.webp",
+      "source_sha256": "95e81c0a28dfbf4e636d73310079c3e592a04541b0a1da608496c2fe5949f3c5",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-charter-mongolian-oak.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
@@ -1010,7 +1010,11 @@
     "michters-20-year-bourbon-2024.html",
     "michters-barrel-strength-rye-2024.html",
     "ofc-vintages.html",
-    "old-charter-8.html"
+    "old-charter-8.html",
+    "old-charter-canadian-oak.html",
+    "old-charter-chinkapin-oak.html",
+    "old-charter-finest-oak.html",
+    "old-charter-mongolian-oak.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
