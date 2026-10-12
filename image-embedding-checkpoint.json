@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 111,
+  "checkpoint": 112,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -393,7 +393,12 @@
     "old-forester-2016-birthday-bourbon.html",
     "old-forester-2017-birthday-bourbon.html",
     "old-forester-2018-birthday-bourbon.html",
-    "old-forester-2019-birthday-bourbon.html"
+    "old-forester-2019-birthday-bourbon.html",
+    "old-forester-2020-birthday-bourbon.html",
+    "old-forester-2021-birthday-bourbon.html",
+    "old-forester-2023-birthday-bourbon.html",
+    "old-forester-2024-birthday-bourbon.html",
+    "old-forester-2025-birthday-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -930,34 +935,39 @@
     "old-forester-2016-birthday-bourbon.html",
     "old-forester-2017-birthday-bourbon.html",
     "old-forester-2018-birthday-bourbon.html",
-    "old-forester-2019-birthday-bourbon.html"
+    "old-forester-2019-birthday-bourbon.html",
+    "old-forester-2020-birthday-bourbon.html",
+    "old-forester-2021-birthday-bourbon.html",
+    "old-forester-2023-birthday-bourbon.html",
+    "old-forester-2024-birthday-bourbon.html",
+    "old-forester-2025-birthday-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 388,
+    "decoded_images": 393,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
     "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 388
+    "verified_embedded_articles": 393
   },
-  "remaining_articles": 290,
-  "updated_at": "2026-10-12T00:14:45.913Z",
+  "remaining_articles": 285,
+  "updated_at": "2026-10-12T00:14:56.050Z",
   "last_checkpoint_articles": [
-    "old-forester-2015-birthday-bourbon.html",
-    "old-forester-2016-birthday-bourbon.html",
-    "old-forester-2017-birthday-bourbon.html",
-    "old-forester-2018-birthday-bourbon.html",
-    "old-forester-2019-birthday-bourbon.html"
+    "old-forester-2020-birthday-bourbon.html",
+    "old-forester-2021-birthday-bourbon.html",
+    "old-forester-2023-birthday-bourbon.html",
+    "old-forester-2024-birthday-bourbon.html",
+    "old-forester-2025-birthday-bourbon.html"
   ],
-  "last_parent_commit": "2ee8ab5a8898afdee33ac87afedfff1826ad53ef",
+  "last_parent_commit": "11295c75b2a8804242bbb8cce5b433a84b93b4f2",
   "last_checkpoint_results": [
     {
-      "article": "old-forester-2015-birthday-bourbon.html",
+      "article": "old-forester-2020-birthday-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2015-birthday-bourbon.webp",
-      "source_sha256": "4c9a8ee8ccdca4db1e64a717151b69a2c0a3ae7fc7a78cd19920aac43e847f49",
+      "verified_source": "assets/bottles/old-forester-2020-birthday-bourbon.webp",
+      "source_sha256": "57d4299f49015ad31cd008830e8c3bfc536d94559ebe9aefcdd0bb105810f80b",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -965,21 +975,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-2016-birthday-bourbon.html",
+      "article": "old-forester-2021-birthday-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2016-birthday-bourbon.webp",
-      "source_sha256": "640ef70fd49672eacbc4567265ad2312e4efe3d5d47644a3c2d18837786cb15f",
-      "width": 650,
-      "height": 435,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "old-forester-2017-birthday-bourbon.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2017-birthday-bourbon.webp",
-      "source_sha256": "3b9134aa8dc0d9847ee317d801c634399648eeb911bd0fe6d6a81ec8ef461385",
+      "verified_source": "assets/bottles/old-forester-2021-birthday-bourbon.webp",
+      "source_sha256": "b758e6e4cac6ba4553531f8269a4f98b8b59a5db28d439321fa8392114f91491",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -987,21 +986,32 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-2018-birthday-bourbon.html",
+      "article": "old-forester-2023-birthday-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2018-birthday-bourbon.webp",
-      "source_sha256": "3c02c5fd0efa0d0c61742451e8d7260361bf3da647300009fa3ad78f7b3a224d",
-      "width": 650,
-      "height": 433,
+      "verified_source": "assets/bottles/old-forester-2023-birthday-bourbon.webp",
+      "source_sha256": "4dcfc35a3e7edecbcbf0418aba5cc3abba9663e60c94aaa178535550ca538e75",
+      "width": 1000,
+      "height": 667,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-2019-birthday-bourbon.html",
+      "article": "old-forester-2024-birthday-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2019-birthday-bourbon.webp",
-      "source_sha256": "f345f460a849a171c0ffe27a805eb6805fefa3804cff936ea86dba4eb2ee4ca6",
+      "verified_source": "assets/bottles/old-forester-2024-birthday-bourbon.webp",
+      "source_sha256": "cf3e32eca003500cab2902f8902704a28577cf8bba8615149e98c99cae777698",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-forester-2025-birthday-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-forester-2025-birthday-bourbon.webp",
+      "source_sha256": "7e83b4f197c5b7d5e6bbca637df4b026c63bf864928dbb9a00196a6243402158",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
