@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 132,
+  "checkpoint": 133,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -461,7 +461,11 @@
     "russells-reserve-single-barrel-rye.html",
     "russells-reserve-single-rockhouse-camp-nelson-e.html",
     "sagamore-10-year-rye.html",
-    "sagamore-bottled-in-bond-5-year-reviewed-2023.html"
+    "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
+    "sagamore-cask-strength-7-year-batch-1a.html",
+    "sagamore-high-rye-bourbon-2026.html",
+    "sagamore-high-rye-bourbon.html",
+    "sagamore-manhattan-finish-2020.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1103,80 +1107,85 @@
     "russells-reserve-single-rockhouse-camp-nelson-e.html",
     "sagamore-10-year-rye.html",
     "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
-    "sagamore-calvados-finish-2020.html"
+    "sagamore-calvados-finish-2020.html",
+    "sagamore-cask-strength-7-year-batch-1a.html",
+    "sagamore-cognac-finish-2026-catalogue.html",
+    "sagamore-high-rye-bourbon-2026.html",
+    "sagamore-high-rye-bourbon.html",
+    "sagamore-manhattan-finish-2020.html"
   ],
   "validation": {
-    "decoded_images": 456,
+    "decoded_images": 460,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
     "checkpoint_decoded_images": 4,
-    "verified_embedded_articles": 456
+    "verified_embedded_articles": 460
   },
-  "remaining_articles": 185,
-  "updated_at": "2026-10-12T12:00:08.520Z",
+  "remaining_articles": 180,
+  "updated_at": "2026-10-12T12:00:19.672Z",
   "last_checkpoint_articles": [
-    "russells-reserve-single-barrel-rye.html",
-    "russells-reserve-single-rockhouse-camp-nelson-e.html",
-    "sagamore-10-year-rye.html",
-    "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
-    "sagamore-calvados-finish-2020.html"
+    "sagamore-cask-strength-7-year-batch-1a.html",
+    "sagamore-cognac-finish-2026-catalogue.html",
+    "sagamore-high-rye-bourbon-2026.html",
+    "sagamore-high-rye-bourbon.html",
+    "sagamore-manhattan-finish-2020.html"
   ],
-  "last_parent_commit": "f172c0a21005c19c846c6002aa9cb36eb202798b",
+  "last_parent_commit": "f9e247871fc747a0b8627e473448a06a3be0d351",
   "last_checkpoint_results": [
     {
-      "article": "russells-reserve-single-barrel-rye.html",
+      "article": "sagamore-cask-strength-7-year-batch-1a.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/russells-reserve-single-barrel-rye.webp",
-      "source_sha256": "23589c8913c106eab6b9a99fc1bb8c26b9a2584899957c00f8986ed4c4b53348",
-      "width": 1000,
-      "height": 667
-    },
-    {
-      "article": "russells-reserve-single-rockhouse-camp-nelson-e.html",
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/russells-reserve-single-rockhouse-camp-nelson-e.webp",
-      "source_sha256": "83dbe26a0c99b5d25cd1c68fc198fa9945828d2f699ae35b5cff59958d11e282",
-      "width": 1000,
-      "height": 667
-    },
-    {
-      "article": "sagamore-10-year-rye.html",
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/sagamore-10-year-rye.webp",
-      "source_sha256": "b16e7ed493f97cf4e7fe6553a04bcca9791628c5009fac017298626c6bbffaa7",
-      "width": 1000,
-      "height": 667
-    },
-    {
-      "article": "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/sagamore-bottled-in-bond-5-year-reviewed-2023.webp",
-      "source_sha256": "a18017434b9521781fc83cfbb94349ca551e014cd19367ccfa9f2130e0da4b34",
+      "verified_source": "assets/bottles/sagamore-cask-strength-7-year-batch-1a.webp",
+      "source_sha256": "cd6a62cc0a16a4748891a8ab2e85556e554aed9977dd2f598a48b60907a9892c",
       "width": 1200,
-      "height": 900
+      "height": 600
     },
     {
-      "article": "sagamore-calvados-finish-2020.html",
+      "article": "sagamore-cognac-finish-2026-catalogue.html",
       "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "inspected_no_exact_verified_image",
       "reason": "Article does not identify an already-verified exact bottle image."
+    },
+    {
+      "article": "sagamore-high-rye-bourbon-2026.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/sagamore-high-rye-bourbon-2026.webp",
+      "source_sha256": "8ebb9d324e10c3a34696d09ea91c133db91898e3086bf2ab2885b008e9a7fe81",
+      "width": 1000,
+      "height": 667
+    },
+    {
+      "article": "sagamore-high-rye-bourbon.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/sagamore-high-rye-bourbon.webp",
+      "source_sha256": "61300a52888b2ead3da0fa1021e934ea1866e6c76452e11c5a0240f22e321c47",
+      "width": 1000,
+      "height": 667
+    },
+    {
+      "article": "sagamore-manhattan-finish-2020.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/sagamore-manhattan-finish-2020.webp",
+      "source_sha256": "db725e5517335c25112637beb53b896432d8aaa1fc92a9c7cf1a9c9ea4d360f9",
+      "width": 1080,
+      "height": 1080
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1317,7 +1326,8 @@
     "rittenhouse-80-proof-reviewed-2010.html",
     "rittenhouse-very-rare-21-reviewed-2007.html",
     "rittenhouse-very-rare-23-barrel8-bottle95.html",
-    "sagamore-calvados-finish-2020.html"
+    "sagamore-calvados-finish-2020.html",
+    "sagamore-cognac-finish-2026-catalogue.html"
   ],
   "classification_corrections": [
     {
