@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 88,
+  "checkpoint": 89,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -302,7 +302,10 @@
     "knob-creek-single-barrel-bourbon.html",
     "knob-creek-small-batch-12-year-bourbon.html",
     "knob-creek-smoked-maple-reviewed-2013.html",
-    "knob-creek-twice-barreled-rye.html"
+    "knob-creek-twice-barreled-rye.html",
+    "laws-four-grain-straight-bourbon-95-proof-reviewed-2018.html",
+    "laws-whiskey-house-san-luis-valley-straight-rye.html",
+    "little-book-chapter-10-all-the-wiser.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -724,72 +727,78 @@
     "knob-creek-single-barrel-cask-strength-rye-programme.html",
     "knob-creek-small-batch-12-year-bourbon.html",
     "knob-creek-smoked-maple-reviewed-2013.html",
-    "knob-creek-twice-barreled-rye.html"
+    "knob-creek-twice-barreled-rye.html",
+    "larceny-barrel-proof-batch-b523.html",
+    "larceny-small-batch.html",
+    "laws-four-grain-straight-bourbon-95-proof-reviewed-2018.html",
+    "laws-whiskey-house-san-luis-valley-straight-rye.html",
+    "little-book-chapter-10-all-the-wiser.html"
   ],
   "validation": {
-    "decoded_images": 297,
+    "decoded_images": 300,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 3,
-    "verified_embedded_articles": 297
+    "checkpoint_decoded_images": 5,
+    "verified_embedded_articles": 300
   },
-  "remaining_articles": 405,
-  "updated_at": "2026-10-12T00:09:10.974Z",
+  "remaining_articles": 400,
+  "updated_at": "2026-10-12T00:09:40.550Z",
   "last_checkpoint_articles": [
-    "knob-creek-single-barrel-cask-strength-bourbon-programme.html",
-    "knob-creek-single-barrel-cask-strength-rye-programme.html",
-    "knob-creek-small-batch-12-year-bourbon.html",
-    "knob-creek-smoked-maple-reviewed-2013.html",
-    "knob-creek-twice-barreled-rye.html"
+    "larceny-barrel-proof-batch-b523.html",
+    "larceny-small-batch.html",
+    "laws-four-grain-straight-bourbon-95-proof-reviewed-2018.html",
+    "laws-whiskey-house-san-luis-valley-straight-rye.html",
+    "little-book-chapter-10-all-the-wiser.html"
   ],
-  "last_parent_commit": "70ee29f2235d3665f0677d48b6d18a67b06c0e11",
+  "last_parent_commit": "747a114a4cdaf7c0a79d4eb29fb725cefbf560fa",
   "last_checkpoint_results": [
     {
-      "article": "knob-creek-single-barrel-cask-strength-bourbon-programme.html",
+      "article": "larceny-barrel-proof-batch-b523.html",
       "decision": "inspected_no_exact_verified_image",
       "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "knob-creek-single-barrel-cask-strength-rye-programme.html",
-      "decision": "inspected_no_exact_verified_image",
-      "decoded_images": 0,
+      "article": "larceny-small-batch.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "knob-creek-small-batch-12-year-bourbon.html",
+      "article": "laws-four-grain-straight-bourbon-95-proof-reviewed-2018.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/knob-creek-small-batch-12-year-bourbon.webp",
-      "source_sha256": "cb1f3b44e08808cb67c6d2b43b34916cad654529f8ca47babc4c787edb826bec",
+      "verified_source": "assets/bottles/laws-four-grain-straight-bourbon-95-proof-reviewed-2018.webp",
+      "source_sha256": "8f3802292a25dec775fc1a7e777378da7acd71fdc4538f107d063efe39c62d7a",
+      "width": 1400,
+      "height": 876,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "laws-whiskey-house-san-luis-valley-straight-rye.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/laws-whiskey-house-san-luis-valley-straight-rye.webp",
+      "source_sha256": "164c62655363c78f82386af2c70887adf60d775f8238bc30dfe3c32747d2ca88",
+      "width": 1320,
+      "height": 762,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "little-book-chapter-10-all-the-wiser.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/little-book-chapter-10-all-the-wiser.webp",
+      "source_sha256": "4d5ba8b50053b6ed19bfb33ce948f7bfd3d7d466d34489baf26703ca3932be05",
       "width": 1000,
       "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "knob-creek-smoked-maple-reviewed-2013.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/knob-creek-smoked-maple-reviewed-2013.webp",
-      "source_sha256": "772be9b754c3e3df92d1ecce45552be609a27c613dbe379abb2eefaf2b8da8cf",
-      "width": 793,
-      "height": 1200,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "knob-creek-twice-barreled-rye.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/knob-creek-twice-barreled-rye.webp",
-      "source_sha256": "bdfcd8a9eb313b6f56d2e68a52aa01feaaf7d624e2d7d2b601770ef0dc02aadf",
-      "width": 650,
-      "height": 433,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -853,7 +862,8 @@
     "kings-family-wheated-bourbon.html",
     "kings-family-white-corn.html",
     "knob-creek-7-year-rye.html",
-    "knob-creek-9-year-bourbon.html"
+    "knob-creek-9-year-bourbon.html",
+    "larceny-small-batch.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
@@ -872,6 +882,7 @@
     "jeffersons-special-finishes-catalogue.html",
     "knob-creek-7-year-single-barrel-reserve-rye-catalogue.html",
     "knob-creek-single-barrel-cask-strength-bourbon-programme.html",
-    "knob-creek-single-barrel-cask-strength-rye-programme.html"
+    "knob-creek-single-barrel-cask-strength-rye-programme.html",
+    "larceny-barrel-proof-batch-b523.html"
   ]
 }
