@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 96,
+  "checkpoint": 97,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -332,7 +332,11 @@
     "makers-mark-wfs-heart-2024.html",
     "makers-mark-wfs-keepers-2025.html",
     "makers-mark-wfs-rc6-2019.html",
-    "makers-mark-wfs-se4-pr5-2020.html"
+    "makers-mark-wfs-se4-pr5-2020.html",
+    "makers-mark-wfs-stewards-2026.html",
+    "mccarthy-s-3-year-old-oregon-single-malt.html",
+    "mellow-corn-whiskey.html",
+    "michters-10-year-bourbon-2023-23a0044.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -794,34 +798,39 @@
     "makers-mark-wfs-heart-2024.html",
     "makers-mark-wfs-keepers-2025.html",
     "makers-mark-wfs-rc6-2019.html",
-    "makers-mark-wfs-se4-pr5-2020.html"
+    "makers-mark-wfs-se4-pr5-2020.html",
+    "makers-mark-wfs-stewards-2026.html",
+    "makers-mark.html",
+    "mccarthy-s-3-year-old-oregon-single-malt.html",
+    "mellow-corn-whiskey.html",
+    "michters-10-year-bourbon-2023-23a0044.html"
   ],
   "validation": {
-    "decoded_images": 327,
+    "decoded_images": 331,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 9,
-    "verified_embedded_articles": 327
+    "checkpoint_decoded_images": 8,
+    "verified_embedded_articles": 331
   },
-  "remaining_articles": 365,
-  "updated_at": "2026-10-12T00:12:32.975Z",
+  "remaining_articles": 360,
+  "updated_at": "2026-10-12T00:12:41.682Z",
   "last_checkpoint_articles": [
-    "makers-mark-wfs-fae-02-2021.html",
-    "makers-mark-wfs-heart-2024.html",
-    "makers-mark-wfs-keepers-2025.html",
-    "makers-mark-wfs-rc6-2019.html",
-    "makers-mark-wfs-se4-pr5-2020.html"
+    "makers-mark-wfs-stewards-2026.html",
+    "makers-mark.html",
+    "mccarthy-s-3-year-old-oregon-single-malt.html",
+    "mellow-corn-whiskey.html",
+    "michters-10-year-bourbon-2023-23a0044.html"
   ],
-  "last_parent_commit": "af3ec6a53cab37479defccaf110cf12b12090ccd",
+  "last_parent_commit": "067f1bed2d319052711b5112df220c582224c099",
   "last_checkpoint_results": [
     {
-      "article": "makers-mark-wfs-fae-02-2021.html",
+      "article": "makers-mark-wfs-stewards-2026.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/makers-mark-wfs-fae-02-2021.webp",
-      "source_sha256": "241b7960cebf1891a8afd2edc40dbc316a26aaa1717ff9707f1674be9502e978",
+      "verified_source": "assets/bottles/makers-mark-wfs-stewards-2026.webp",
+      "source_sha256": "552c586db09958a3ada38ccfef65ca1537b064500e4656de85d2995365a29836",
       "width": 1000,
       "height": 667,
       "decoded_images": 2,
@@ -829,46 +838,43 @@
       "existing_content_preserved": true
     },
     {
-      "article": "makers-mark-wfs-heart-2024.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/makers-mark-wfs-heart-2024.webp",
-      "source_sha256": "65e5544edf0471d00f836a85da4e89785d7f6d95d881965668268cbbf95365fb",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 2,
+      "article": "makers-mark.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 3,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "makers-mark-wfs-keepers-2025.html",
+      "article": "mccarthy-s-3-year-old-oregon-single-malt.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/makers-mark-wfs-keepers-2025.webp",
-      "source_sha256": "d4cf6bd6363dfaa03b12e005d5b70933ec3f8f7f06de8dc1d18ff0385c6d170a",
-      "width": 640,
-      "height": 640,
+      "verified_source": "assets/bottles/mccarthy-s-3-year-old-oregon-single-malt.webp",
+      "source_sha256": "b306a809e1837e6333b3d5f78703d532c958a50b01e2f5889d35094eb3a86c14",
+      "width": 1000,
+      "height": 667,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "makers-mark-wfs-rc6-2019.html",
+      "article": "mellow-corn-whiskey.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/makers-mark-wfs-rc6-2019.webp",
-      "source_sha256": "5edc6651b7fde7403c3b59e7b09cc9e8a2d8ba7c17b053079ed640e6efc52b9f",
+      "verified_source": "assets/bottles/mellow-corn-whiskey.webp",
+      "source_sha256": "8dd60928c7391744b5aac85895a2bd11a2c4c0d1812898176c66da14d063e660",
       "width": 1000,
       "height": 667,
-      "decoded_images": 2,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "makers-mark-wfs-se4-pr5-2020.html",
+      "article": "michters-10-year-bourbon-2023-23a0044.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/makers-mark-wfs-se4-pr5-2020.webp",
-      "source_sha256": "5a9469aa8608d3c1e665ca462be5311f5070383fccc3b23123a4ab5ec7a4065a",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 2,
+      "verified_source": "assets/bottles/michters-10-year-bourbon-2023-23a0044.webp",
+      "source_sha256": "c08e50c93caf571c01c887257ebc6d2895906c7973811202ea02bd0e7d7af46a",
+      "width": 1200,
+      "height": 900,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -939,7 +945,8 @@
     "makers-mark-kelsey-plum-yam-jam.html",
     "makers-mark-private-selection.html",
     "makers-mark-state-series-pennsylvania.html",
-    "makers-mark-state-series-texas.html"
+    "makers-mark-state-series-texas.html",
+    "makers-mark.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
