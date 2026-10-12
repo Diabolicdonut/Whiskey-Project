@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 79,
+  "checkpoint": 80,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -665,7 +665,12 @@
     "kings-family-amburana-rye.html",
     "kings-family-american-blended.html",
     "kings-family-apple.html",
-    "kings-family-blackberry.html"
+    "kings-family-blackberry.html",
+    "kings-family-bourbon-10.html",
+    "kings-family-bourbon-107.html",
+    "kings-family-bourbon-87.html",
+    "kings-family-cherry-brandy-ryeconic.html",
+    "kings-family-chocolate.html"
   ],
   "validation": {
     "decoded_images": 283,
@@ -674,33 +679,22 @@
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 9,
+    "checkpoint_decoded_images": 10,
     "verified_embedded_articles": 283
   },
-  "remaining_articles": 450,
-  "updated_at": "2026-10-12T00:07:07.662Z",
+  "remaining_articles": 445,
+  "updated_at": "2026-10-12T00:07:32.764Z",
   "last_checkpoint_articles": [
-    "kentucky-vintage-bourbon.html",
-    "kings-family-amburana-rye.html",
-    "kings-family-american-blended.html",
-    "kings-family-apple.html",
-    "kings-family-blackberry.html"
+    "kings-family-bourbon-10.html",
+    "kings-family-bourbon-107.html",
+    "kings-family-bourbon-87.html",
+    "kings-family-cherry-brandy-ryeconic.html",
+    "kings-family-chocolate.html"
   ],
-  "last_parent_commit": "6b4223105fc4b53b839c36071602227f5b6d5dfc",
+  "last_parent_commit": "775584641c5bb39deae69c2165112fc454f196b2",
   "last_checkpoint_results": [
     {
-      "article": "kentucky-vintage-bourbon.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/kentucky-vintage-bourbon.webp",
-      "source_sha256": "424ac2a511cf17e9a3bebc44126636f0e54af49c8d1ab7ffa92e61eef60df21a",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "kings-family-amburana-rye.html",
+      "article": "kings-family-bourbon-10.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
@@ -708,15 +702,7 @@
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-american-blended.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "kings-family-apple.html",
+      "article": "kings-family-bourbon-107.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": true,
       "decoded_images": 2,
@@ -724,9 +710,25 @@
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-blackberry.html",
+      "article": "kings-family-bourbon-87.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "kings-family-cherry-brandy-ryeconic.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": false,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "kings-family-chocolate.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
       "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -762,7 +764,12 @@
     "kings-family-amburana-rye.html",
     "kings-family-american-blended.html",
     "kings-family-apple.html",
-    "kings-family-blackberry.html"
+    "kings-family-blackberry.html",
+    "kings-family-bourbon-10.html",
+    "kings-family-bourbon-107.html",
+    "kings-family-bourbon-87.html",
+    "kings-family-cherry-brandy-ryeconic.html",
+    "kings-family-chocolate.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
