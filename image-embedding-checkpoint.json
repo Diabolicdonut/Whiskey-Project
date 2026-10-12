@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 126,
+  "checkpoint": 127,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -440,7 +440,10 @@
     "redemption-10-year-rye-2017-1162.html",
     "redemption-18-year-bourbon-reviewed-2025.html",
     "redemption-9-year-bourbon-2021.html",
-    "redemption-bourbon.html"
+    "redemption-bourbon.html",
+    "redemption-high-rye-10-year-2017-1148.html",
+    "redemption-high-rye-92-reviewed-2020.html",
+    "redemption-rye-rum-cask-finish-batch-1.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1052,31 +1055,36 @@
     "redemption-9-year-bourbon-2021.html",
     "redemption-ancients-18-year-rye-2017.html",
     "redemption-bonded-single-barrel-programme.html",
-    "redemption-bourbon.html"
+    "redemption-bourbon.html",
+    "redemption-cognac-finish-99-reviewed-2022.html",
+    "redemption-high-rye-10-year-2017-1148.html",
+    "redemption-high-rye-92-reviewed-2020.html",
+    "redemption-rye-rum-cask-finish-batch-1.html",
+    "redemption-rye.html"
   ],
   "validation": {
-    "decoded_images": 435,
+    "decoded_images": 438,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
     "checkpoint_decoded_images": 4,
-    "verified_embedded_articles": 435
+    "verified_embedded_articles": 438
   },
-  "remaining_articles": 215,
-  "updated_at": "2026-10-12T11:59:04.472Z",
+  "remaining_articles": 210,
+  "updated_at": "2026-10-12T11:59:13.169Z",
   "last_checkpoint_articles": [
-    "redemption-36-year-bourbon-bottle-13.html",
-    "redemption-9-year-bourbon-2021.html",
-    "redemption-ancients-18-year-rye-2017.html",
-    "redemption-bonded-single-barrel-programme.html",
-    "redemption-bourbon.html"
+    "redemption-cognac-finish-99-reviewed-2022.html",
+    "redemption-high-rye-10-year-2017-1148.html",
+    "redemption-high-rye-92-reviewed-2020.html",
+    "redemption-rye-rum-cask-finish-batch-1.html",
+    "redemption-rye.html"
   ],
-  "last_parent_commit": "3e243b2fd2b5b6c53bc430ee3f3451868d1a467b",
+  "last_parent_commit": "360b17f99e664dfb4392dc564c0a296e44969cce",
   "last_checkpoint_results": [
     {
-      "article": "redemption-36-year-bourbon-bottle-13.html",
+      "article": "redemption-cognac-finish-99-reviewed-2022.html",
       "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true,
@@ -1084,42 +1092,47 @@
       "reason": "Article does not identify an already-verified exact bottle image."
     },
     {
-      "article": "redemption-9-year-bourbon-2021.html",
+      "article": "redemption-high-rye-10-year-2017-1148.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/redemption-9-year-bourbon-2021.webp",
-      "source_sha256": "d3cae6cc49030d6bd9abd08833ad74edb2ef952cab2be4fe2f309b417f5f5d8b",
+      "verified_source": "assets/bottles/redemption-high-rye-10-year-2017-1148.webp",
+      "source_sha256": "a93611d933f9f6b0ec356d592bd5968d75e422ab5634b4059069563cda2c7f76",
+      "width": 1000,
+      "height": 748
+    },
+    {
+      "article": "redemption-high-rye-92-reviewed-2020.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/redemption-high-rye-92-reviewed-2020.webp",
+      "source_sha256": "3aa8a73e5011f2a6f331fbb9f1f83f1351069f217c77e05b4fa6451fadd437eb",
       "width": 1200,
-      "height": 900
+      "height": 512
     },
     {
-      "article": "redemption-ancients-18-year-rye-2017.html",
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "No already-verified expression-matched image is identified by article metadata."
-    },
-    {
-      "article": "redemption-bonded-single-barrel-programme.html",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "Article does not identify an already-verified exact bottle image."
-    },
-    {
-      "article": "redemption-bourbon.html",
+      "article": "redemption-rye-rum-cask-finish-batch-1.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/redemption-bourbon.webp",
-      "source_sha256": "8ef097f4cbdd38a14118c7d3b41c3813d5781b032329bf297a552338da457f75",
+      "verified_source": "assets/bottles/redemption-rye-rum-cask-finish-batch-1.webp",
+      "source_sha256": "04661163378dd7584fdbf4b3134400f20026dee35f65eaf5a4301d024f4fc3ec",
       "width": 1000,
       "height": 667
+    },
+    {
+      "article": "redemption-rye.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "verified_preexisting_self_contained_photo",
+      "width": 1400,
+      "height": 934,
+      "source_sha256": "552dc5cef49180beaed96e18d554a32460f2ae6fa91358dd9014ae5c0aa9c9ae"
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1214,7 +1227,8 @@
     "prohibition-walnut-hill-2023.html",
     "prohibition-walter-b-duffy-2026.html",
     "old-grand-dad-bottled-in-bond.html",
-    "old-overholt-bottled-in-bond.html"
+    "old-overholt-bottled-in-bond.html",
+    "redemption-rye.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
@@ -1251,7 +1265,8 @@
     "redemption-10-year-rye-1162-reviewed-2022.html",
     "redemption-36-year-bourbon-bottle-13.html",
     "redemption-ancients-18-year-rye-2017.html",
-    "redemption-bonded-single-barrel-programme.html"
+    "redemption-bonded-single-barrel-programme.html",
+    "redemption-cognac-finish-99-reviewed-2022.html"
   ],
   "classification_corrections": [
     {
