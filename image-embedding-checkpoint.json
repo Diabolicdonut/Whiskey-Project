@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 105,
+  "checkpoint": 106,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -365,7 +365,12 @@
     "new-riff-kentucky-straight-rye.html",
     "new-riff-sour-mash-single-malt-2025.html",
     "noahs-mill-batch-22-23.html",
-    "old-charter-french-oak.html"
+    "old-charter-french-oak.html",
+    "old-elk-blended-straight-bourbon.html",
+    "old-elk-straight-wheat-whiskey-6-year-100-proof.html",
+    "old-ezra-7-year-101-proof.html",
+    "old-ezra-7-year-barrel-strength.html",
+    "old-ezra-7-year-rye-114-reviewed.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -872,58 +877,61 @@
     "old-charter-chinkapin-oak.html",
     "old-charter-finest-oak.html",
     "old-charter-french-oak.html",
-    "old-charter-mongolian-oak.html"
+    "old-charter-mongolian-oak.html",
+    "old-elk-blended-straight-bourbon.html",
+    "old-elk-straight-wheat-whiskey-6-year-100-proof.html",
+    "old-ezra-7-year-101-proof.html",
+    "old-ezra-7-year-barrel-strength.html",
+    "old-ezra-7-year-rye-114-reviewed.html"
   ],
   "validation": {
-    "decoded_images": 360,
+    "decoded_images": 365,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 9,
-    "verified_embedded_articles": 360
+    "checkpoint_decoded_images": 5,
+    "verified_embedded_articles": 365
   },
-  "remaining_articles": 320,
-  "updated_at": "2026-10-12T00:13:51.955Z",
+  "remaining_articles": 315,
+  "updated_at": "2026-10-12T00:14:00.362Z",
   "last_checkpoint_articles": [
-    "old-charter-canadian-oak.html",
-    "old-charter-chinkapin-oak.html",
-    "old-charter-finest-oak.html",
-    "old-charter-french-oak.html",
-    "old-charter-mongolian-oak.html"
+    "old-elk-blended-straight-bourbon.html",
+    "old-elk-straight-wheat-whiskey-6-year-100-proof.html",
+    "old-ezra-7-year-101-proof.html",
+    "old-ezra-7-year-barrel-strength.html",
+    "old-ezra-7-year-rye-114-reviewed.html"
   ],
-  "last_parent_commit": "2b6b0e1afb2813fc47377215bdaa54b9c27c5cfa",
+  "last_parent_commit": "9b560bf2323aaaa4d8fb2358956aab87d0739e77",
   "last_checkpoint_results": [
     {
-      "article": "old-charter-canadian-oak.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "old-charter-chinkapin-oak.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "old-charter-finest-oak.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "old-charter-french-oak.html",
+      "article": "old-elk-blended-straight-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-charter-french-oak.webp",
-      "source_sha256": "95e81c0a28dfbf4e636d73310079c3e592a04541b0a1da608496c2fe5949f3c5",
+      "verified_source": "assets/bottles/old-elk-blended-straight-bourbon.webp",
+      "source_sha256": "16cbc18c52f4e4ddb7cde5564e2314bc1c8d3e8b65281f03d39c4c3131216bc5",
+      "width": 1200,
+      "height": 800,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-elk-straight-wheat-whiskey-6-year-100-proof.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-elk-straight-wheat-whiskey-6-year-100-proof.webp",
+      "source_sha256": "869780379219485992780ffb334cc3a9b3bf08f83a65a7d879efb5b60525e101",
+      "width": 410,
+      "height": 512,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-ezra-7-year-101-proof.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-ezra-7-year-101-proof.webp",
+      "source_sha256": "3f76352f72788f84928fc9dcaf3a0d12508af036f93e4a2a54295eefa80d8510",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -931,10 +939,24 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-charter-mongolian-oak.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
+      "article": "old-ezra-7-year-barrel-strength.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-ezra-7-year-barrel-strength.webp",
+      "source_sha256": "49fafc84120c7de9f48ca3fe26bc87ecbaacd5e3bc4bbf35b6c3649f14b46f42",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-ezra-7-year-rye-114-reviewed.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-ezra-7-year-rye-114-reviewed.webp",
+      "source_sha256": "f4a7141da820ab09c5a28595ecb759eff2c5e921cbfd42e8284ab0285c2f93a5",
+      "width": 1200,
+      "height": 628,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
