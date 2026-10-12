@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 108,
+  "checkpoint": 109,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -378,7 +378,12 @@
     "old-forester-117-series-scotch-cask-finish.html",
     "old-forester-117-series-warehouse-i.html",
     "old-forester-150th-anniversary-bourbon.html",
-    "old-forester-1870-original-batch-bourbon.html"
+    "old-forester-1870-original-batch-bourbon.html",
+    "old-forester-1897-bottle-in-bond-bourbon.html",
+    "old-forester-1910-old-fine-whisky.html",
+    "old-forester-1920-prohibition-style-bourbon.html",
+    "old-forester-1924-10-year-old-2025.html",
+    "old-forester-1924-10-year-old-2026.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -900,34 +905,61 @@
     "old-forester-117-series-scotch-cask-finish.html",
     "old-forester-117-series-warehouse-i.html",
     "old-forester-150th-anniversary-bourbon.html",
-    "old-forester-1870-original-batch-bourbon.html"
+    "old-forester-1870-original-batch-bourbon.html",
+    "old-forester-1897-bottle-in-bond-bourbon.html",
+    "old-forester-1910-old-fine-whisky.html",
+    "old-forester-1920-prohibition-style-bourbon.html",
+    "old-forester-1924-10-year-old-2025.html",
+    "old-forester-1924-10-year-old-2026.html"
   ],
   "validation": {
-    "decoded_images": 373,
+    "decoded_images": 378,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
     "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 373
+    "verified_embedded_articles": 378
   },
-  "remaining_articles": 305,
-  "updated_at": "2026-10-12T00:14:17.957Z",
+  "remaining_articles": 300,
+  "updated_at": "2026-10-12T00:14:26.986Z",
   "last_checkpoint_articles": [
-    "old-forester-117-series-rum-finish.html",
-    "old-forester-117-series-scotch-cask-finish.html",
-    "old-forester-117-series-warehouse-i.html",
-    "old-forester-150th-anniversary-bourbon.html",
-    "old-forester-1870-original-batch-bourbon.html"
+    "old-forester-1897-bottle-in-bond-bourbon.html",
+    "old-forester-1910-old-fine-whisky.html",
+    "old-forester-1920-prohibition-style-bourbon.html",
+    "old-forester-1924-10-year-old-2025.html",
+    "old-forester-1924-10-year-old-2026.html"
   ],
-  "last_parent_commit": "32fabc27e59626c510485e092615545186eabab9",
+  "last_parent_commit": "e39fe685bac82c587bf40f1b2a4912a5fda5ceaa",
   "last_checkpoint_results": [
     {
-      "article": "old-forester-117-series-rum-finish.html",
+      "article": "old-forester-1897-bottle-in-bond-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-117-series-rum-finish.webp",
-      "source_sha256": "36db160762f8013166a86a4cca81ee246991e315718cf2bf8d4b6efe8b4bfe8a",
+      "verified_source": "assets/bottles/old-forester-1897-bottle-in-bond-bourbon.webp",
+      "source_sha256": "80e09b959fa0936c190942600b7fdff96d9d4395d5117015c519212b4c1ad108",
+      "width": 800,
+      "height": 533,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-forester-1910-old-fine-whisky.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-forester-1910-old-fine-whisky.webp",
+      "source_sha256": "da75f8b5aeee4a8d3406a88b325bfccff03297cd1b05751be559e9ab0275d3ec",
+      "width": 650,
+      "height": 433,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-forester-1920-prohibition-style-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-forester-1920-prohibition-style-bourbon.webp",
+      "source_sha256": "cbfcc1ea53fa04cf9bab1abae3ef9895b076412e28912ebc136eee1fef0f63cb",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -935,10 +967,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-117-series-scotch-cask-finish.html",
+      "article": "old-forester-1924-10-year-old-2025.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-117-series-scotch-cask-finish.webp",
-      "source_sha256": "f41181545ec29a3492247a43e0a2b3fc930c414fa6a3fd5b98bf858b469b0a69",
+      "verified_source": "assets/bottles/old-forester-1924-10-year-old-2025.webp",
+      "source_sha256": "f49210eb9c4eb06d9160500a9e87e685c0f6e43cc4ff61f4289fc45cecd68925",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -946,32 +978,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-117-series-warehouse-i.html",
+      "article": "old-forester-1924-10-year-old-2026.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-117-series-warehouse-i.webp",
-      "source_sha256": "d3924df5f42be72293801f2ded953db0d234aa0d65e7eac5998d6558b4e69bb2",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "old-forester-150th-anniversary-bourbon.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-150th-anniversary-bourbon.webp",
-      "source_sha256": "00224d6af02163494bb83f72dce99ee02b250b8acec3b359e542dff5b6f041be",
-      "width": 1000,
-      "height": 668,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "old-forester-1870-original-batch-bourbon.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-1870-original-batch-bourbon.webp",
-      "source_sha256": "f4a7f17af0453c594f94764d0f1cf1785b63d4398c0d92e78b93f7c6993214e3",
+      "verified_source": "assets/bottles/old-forester-1924-10-year-old-2026.webp",
+      "source_sha256": "cd0ba5803c22e625ef15c386bff8fa4216db3b4a974f3734d7f5878983bf5907",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
