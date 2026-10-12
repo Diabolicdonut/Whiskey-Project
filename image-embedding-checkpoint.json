@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 122,
+  "checkpoint": 123,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -1025,7 +1025,12 @@
     "prohibition-golden-wedding-2023.html",
     "prohibition-henry-watterson-2026.html",
     "prohibition-john-g-carlisle-2026.html",
-    "prohibition-kentucky-river-2026.html"
+    "prohibition-kentucky-river-2026.html",
+    "prohibition-mirror-brook-2025.html",
+    "prohibition-old-fashioned-mountain-corn-2025.html",
+    "prohibition-old-stagg-2023.html",
+    "prohibition-silver-wedding-2025.html",
+    "prohibition-spiritus-frumenti-2023.html"
   ],
   "validation": {
     "decoded_images": 428,
@@ -1034,65 +1039,69 @@
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 8,
+    "checkpoint_decoded_images": 5,
     "verified_embedded_articles": 428
   },
-  "remaining_articles": 235,
-  "updated_at": "2026-10-12T11:57:30.270Z",
+  "remaining_articles": 230,
+  "updated_at": "2026-10-12T11:57:37.310Z",
   "last_checkpoint_articles": [
-    "prohibition-cove-spring-2026.html",
-    "prohibition-golden-wedding-2023.html",
-    "prohibition-henry-watterson-2026.html",
-    "prohibition-john-g-carlisle-2026.html",
-    "prohibition-kentucky-river-2026.html"
+    "prohibition-mirror-brook-2025.html",
+    "prohibition-old-fashioned-mountain-corn-2025.html",
+    "prohibition-old-stagg-2023.html",
+    "prohibition-silver-wedding-2025.html",
+    "prohibition-spiritus-frumenti-2023.html"
   ],
-  "last_parent_commit": "e5d5a7239fc16c6490b8e5420724fcf1e9577335",
+  "last_parent_commit": "1d90806d57c2d164aa17f4dccef281bfd859d9d1",
   "last_checkpoint_results": [
     {
-      "article": "prohibition-cove-spring-2026.html",
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "verified_preexisting_self_contained_photo",
-      "width": 464,
-      "height": 317,
-      "source_sha256": "c3250e0378ef779a09c11f0cea3bc4019b8885ae50431998eb06f813b4649f71"
-    },
-    {
-      "article": "prohibition-golden-wedding-2023.html",
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "No already-verified expression-matched image is identified by article metadata."
-    },
-    {
-      "article": "prohibition-henry-watterson-2026.html",
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "No already-verified expression-matched image is identified by article metadata."
-    },
-    {
-      "article": "prohibition-john-g-carlisle-2026.html",
+      "article": "prohibition-mirror-brook-2025.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "verified_preexisting_self_contained_photo",
-      "width": 464,
-      "height": 317,
-      "source_sha256": "c3250e0378ef779a09c11f0cea3bc4019b8885ae50431998eb06f813b4649f71"
+      "width": 247,
+      "height": 640,
+      "source_sha256": "e65ecb438f4dea2ea5392b53014293a15d8e26adeb873d74a1ca54a81100bd4a"
     },
     {
-      "article": "prohibition-kentucky-river-2026.html",
+      "article": "prohibition-old-fashioned-mountain-corn-2025.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "verified_preexisting_self_contained_photo",
-      "width": 464,
-      "height": 317,
-      "source_sha256": "c3250e0378ef779a09c11f0cea3bc4019b8885ae50431998eb06f813b4649f71"
+      "width": 247,
+      "height": 640,
+      "source_sha256": "7f5b0c74d91ad1f99f42d5c81f11823b734397d032cb3ead1511d4a5a33efe48"
+    },
+    {
+      "article": "prohibition-old-stagg-2023.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "verified_preexisting_self_contained_photo",
+      "width": 350,
+      "height": 502,
+      "source_sha256": "0b5b4a2615c3a1c209e5fa43dae4d2def7271aadaf6d9866f6e93fb9ffb126fb"
+    },
+    {
+      "article": "prohibition-silver-wedding-2025.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "verified_preexisting_self_contained_photo",
+      "width": 257,
+      "height": 640,
+      "source_sha256": "623252537cf366bc2fd12fc57505f5641de8064c2fda00b2a887d75eb24139af"
+    },
+    {
+      "article": "prohibition-spiritus-frumenti-2023.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "verified_preexisting_self_contained_photo",
+      "width": 350,
+      "height": 500,
+      "source_sha256": "f93491a1d6ab561db87fcbc3c50d1d201827fb139445c7dc00ac2f93332286bc"
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1176,7 +1185,12 @@
     "old-grand-dad-114.html",
     "prohibition-cove-spring-2026.html",
     "prohibition-john-g-carlisle-2026.html",
-    "prohibition-kentucky-river-2026.html"
+    "prohibition-kentucky-river-2026.html",
+    "prohibition-mirror-brook-2025.html",
+    "prohibition-old-fashioned-mountain-corn-2025.html",
+    "prohibition-old-stagg-2023.html",
+    "prohibition-silver-wedding-2025.html",
+    "prohibition-spiritus-frumenti-2023.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
