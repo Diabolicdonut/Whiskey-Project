@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 107,
+  "checkpoint": 108,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -373,7 +373,12 @@
     "old-ezra-7-year-rye-114-reviewed.html",
     "old-forester-117-series-1910-extra-old-batch-002.html",
     "old-forester-117-series-bottled-in-bond-batch-001.html",
-    "old-forester-117-series-extra-extra-old.html"
+    "old-forester-117-series-extra-extra-old.html",
+    "old-forester-117-series-rum-finish.html",
+    "old-forester-117-series-scotch-cask-finish.html",
+    "old-forester-117-series-warehouse-i.html",
+    "old-forester-150th-anniversary-bourbon.html",
+    "old-forester-1870-original-batch-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -890,50 +895,39 @@
     "old-forester-100-rye.html",
     "old-forester-117-series-1910-extra-old-batch-002.html",
     "old-forester-117-series-bottled-in-bond-batch-001.html",
-    "old-forester-117-series-extra-extra-old.html"
+    "old-forester-117-series-extra-extra-old.html",
+    "old-forester-117-series-rum-finish.html",
+    "old-forester-117-series-scotch-cask-finish.html",
+    "old-forester-117-series-warehouse-i.html",
+    "old-forester-150th-anniversary-bourbon.html",
+    "old-forester-1870-original-batch-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 368,
+    "decoded_images": 373,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 9,
-    "verified_embedded_articles": 368
+    "checkpoint_decoded_images": 5,
+    "verified_embedded_articles": 373
   },
-  "remaining_articles": 310,
-  "updated_at": "2026-10-12T00:14:09.332Z",
+  "remaining_articles": 305,
+  "updated_at": "2026-10-12T00:14:17.957Z",
   "last_checkpoint_articles": [
-    "old-forester-100-bourbon.html",
-    "old-forester-100-rye.html",
-    "old-forester-117-series-1910-extra-old-batch-002.html",
-    "old-forester-117-series-bottled-in-bond-batch-001.html",
-    "old-forester-117-series-extra-extra-old.html"
+    "old-forester-117-series-rum-finish.html",
+    "old-forester-117-series-scotch-cask-finish.html",
+    "old-forester-117-series-warehouse-i.html",
+    "old-forester-150th-anniversary-bourbon.html",
+    "old-forester-1870-original-batch-bourbon.html"
   ],
-  "last_parent_commit": "6794cff74d235f7ac119cfade2ec25d12ad44b04",
+  "last_parent_commit": "32fabc27e59626c510485e092615545186eabab9",
   "last_checkpoint_results": [
     {
-      "article": "old-forester-100-bourbon.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 3,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "old-forester-100-rye.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 3,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "old-forester-117-series-1910-extra-old-batch-002.html",
+      "article": "old-forester-117-series-rum-finish.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-117-series-1910-extra-old-batch-002.webp",
-      "source_sha256": "84fa214b00e5f432bd0363674010ac4668f2d4b856668dfd0096fe11f8396937",
+      "verified_source": "assets/bottles/old-forester-117-series-rum-finish.webp",
+      "source_sha256": "36db160762f8013166a86a4cca81ee246991e315718cf2bf8d4b6efe8b4bfe8a",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -941,10 +935,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-117-series-bottled-in-bond-batch-001.html",
+      "article": "old-forester-117-series-scotch-cask-finish.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-117-series-bottled-in-bond-batch-001.webp",
-      "source_sha256": "bd7010733144044c08c906612ddc4eb808ee3cca70149a5038bfc63977c9458c",
+      "verified_source": "assets/bottles/old-forester-117-series-scotch-cask-finish.webp",
+      "source_sha256": "f41181545ec29a3492247a43e0a2b3fc930c414fa6a3fd5b98bf858b469b0a69",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -952,10 +946,32 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-117-series-extra-extra-old.html",
+      "article": "old-forester-117-series-warehouse-i.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-117-series-extra-extra-old.webp",
-      "source_sha256": "51b4bb274103acf1f04cb59f944f3d1e26a81b40c33c8d4ba7eb1f26b93ed54a",
+      "verified_source": "assets/bottles/old-forester-117-series-warehouse-i.webp",
+      "source_sha256": "d3924df5f42be72293801f2ded953db0d234aa0d65e7eac5998d6558b4e69bb2",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-forester-150th-anniversary-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-forester-150th-anniversary-bourbon.webp",
+      "source_sha256": "00224d6af02163494bb83f72dce99ee02b250b8acec3b359e542dff5b6f041be",
+      "width": 1000,
+      "height": 668,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "old-forester-1870-original-batch-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-forester-1870-original-batch-bourbon.webp",
+      "source_sha256": "f4a7f17af0453c594f94764d0f1cf1785b63d4398c0d92e78b93f7c6993214e3",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
