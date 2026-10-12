@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 86,
+  "checkpoint": 87,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -294,7 +294,12 @@
     "knob-creek-15-year-2020-limited-edition.html",
     "knob-creek-18-year-2022-limited-edition.html",
     "knob-creek-21-year-old-bourbon-2025.html",
-    "knob-creek-25th-anniversary-bourbon.html"
+    "knob-creek-25th-anniversary-bourbon.html",
+    "knob-creek-blenders-edition-01-bourbon.html",
+    "knob-creek-bourbon-x-rye.html",
+    "knob-creek-cask-strength-rye-2018-limited-edition.html",
+    "knob-creek-quarter-oak-bourbon.html",
+    "knob-creek-single-barrel-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -706,34 +711,39 @@
     "knob-creek-25th-anniversary-bourbon.html",
     "knob-creek-7-year-rye.html",
     "knob-creek-7-year-single-barrel-reserve-rye-catalogue.html",
-    "knob-creek-9-year-bourbon.html"
+    "knob-creek-9-year-bourbon.html",
+    "knob-creek-blenders-edition-01-bourbon.html",
+    "knob-creek-bourbon-x-rye.html",
+    "knob-creek-cask-strength-rye-2018-limited-edition.html",
+    "knob-creek-quarter-oak-bourbon.html",
+    "knob-creek-single-barrel-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 289,
+    "decoded_images": 294,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 8,
-    "verified_embedded_articles": 289
+    "checkpoint_decoded_images": 5,
+    "verified_embedded_articles": 294
   },
-  "remaining_articles": 415,
-  "updated_at": "2026-10-12T00:08:55.612Z",
+  "remaining_articles": 410,
+  "updated_at": "2026-10-12T00:09:03.343Z",
   "last_checkpoint_articles": [
-    "knob-creek-21-year-old-bourbon-2025.html",
-    "knob-creek-25th-anniversary-bourbon.html",
-    "knob-creek-7-year-rye.html",
-    "knob-creek-7-year-single-barrel-reserve-rye-catalogue.html",
-    "knob-creek-9-year-bourbon.html"
+    "knob-creek-blenders-edition-01-bourbon.html",
+    "knob-creek-bourbon-x-rye.html",
+    "knob-creek-cask-strength-rye-2018-limited-edition.html",
+    "knob-creek-quarter-oak-bourbon.html",
+    "knob-creek-single-barrel-bourbon.html"
   ],
-  "last_parent_commit": "30eba8919dee8f2db383a25d407bcf959ab7b131",
+  "last_parent_commit": "0fdbb6f93a9969b1ec755ca6165b7fa85ba9b806",
   "last_checkpoint_results": [
     {
-      "article": "knob-creek-21-year-old-bourbon-2025.html",
+      "article": "knob-creek-blenders-edition-01-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/knob-creek-21-year-old-bourbon-2025.webp",
-      "source_sha256": "9069543df46fcaa019de266f363748243d4a6dc9e8f4479f186d8f194a69fe94",
+      "verified_source": "assets/bottles/knob-creek-blenders-edition-01-bourbon.webp",
+      "source_sha256": "6f0a9e709e327510222a84ac95d709085c0b0684a3309a6d264b2f418f08d487",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -741,10 +751,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "knob-creek-25th-anniversary-bourbon.html",
+      "article": "knob-creek-bourbon-x-rye.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/knob-creek-25th-anniversary-bourbon.webp",
-      "source_sha256": "769eff18e8c293770b9d1178ed9b71c6188feaab6e07090da8b9a8a6ee2e807f",
+      "verified_source": "assets/bottles/knob-creek-bourbon-x-rye.webp",
+      "source_sha256": "bdc78e0acfb349be7100d5d936f8b805b3585b4e9441dfdcd0ea48b866b7e75f",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -752,25 +762,35 @@
       "existing_content_preserved": true
     },
     {
-      "article": "knob-creek-7-year-rye.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 3,
+      "article": "knob-creek-cask-strength-rye-2018-limited-edition.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/knob-creek-cask-strength-rye-2018-limited-edition.webp",
+      "source_sha256": "46c664d20356ef5abceccfce3937f66f2acb10df4f398da367b19004a7ce16c8",
+      "width": 650,
+      "height": 433,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "knob-creek-7-year-single-barrel-reserve-rye-catalogue.html",
-      "decision": "inspected_no_exact_verified_image",
-      "decoded_images": 0,
+      "article": "knob-creek-quarter-oak-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/knob-creek-quarter-oak-bourbon.webp",
+      "source_sha256": "0a362e58bfe85cd3ea93d8784b0264cf54ddd12efe095cd6db84d5ca6bf7c843",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "knob-creek-9-year-bourbon.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 3,
+      "article": "knob-creek-single-barrel-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/knob-creek-single-barrel-bourbon.webp",
+      "source_sha256": "d07b3ffd15043fdb63fc7c475ffbda822ded22507fc46c77b1cbf232e59f3519",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
