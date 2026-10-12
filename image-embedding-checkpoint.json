@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 128,
+  "checkpoint": 129,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -447,7 +447,9 @@
     "redemption-sur-lee-straight-rye-2024.html",
     "redemption-sur-lee-straight-rye.html",
     "redwood-empire-emerald-giant-rye.html",
-    "redwood-empire-grizzly-beast-batch-3.html"
+    "redwood-empire-grizzly-beast-batch-3.html",
+    "redwood-empire-pipe-dream-bourbon.html",
+    "rittenhouse-10-year-america-250-2026.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1069,53 +1071,58 @@
     "redemption-sur-lee-straight-rye.html",
     "redemption-wheated-reviewed-2017.html",
     "redwood-empire-emerald-giant-rye.html",
-    "redwood-empire-grizzly-beast-batch-3.html"
+    "redwood-empire-grizzly-beast-batch-3.html",
+    "redwood-empire-pipe-dream-bourbon.html",
+    "rittenhouse-10-year-america-250-2026.html",
+    "rittenhouse-80-proof-reviewed-2010.html",
+    "rittenhouse-rye-bottled-in-bond.html",
+    "rittenhouse-very-rare-21-reviewed-2007.html"
   ],
   "validation": {
-    "decoded_images": 442,
+    "decoded_images": 444,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 4,
-    "verified_embedded_articles": 442
+    "checkpoint_decoded_images": 3,
+    "verified_embedded_articles": 444
   },
-  "remaining_articles": 205,
-  "updated_at": "2026-10-12T11:59:23.504Z",
+  "remaining_articles": 200,
+  "updated_at": "2026-10-12T11:59:32.660Z",
   "last_checkpoint_articles": [
-    "redemption-sur-lee-straight-rye-2024.html",
-    "redemption-sur-lee-straight-rye.html",
-    "redemption-wheated-reviewed-2017.html",
-    "redwood-empire-emerald-giant-rye.html",
-    "redwood-empire-grizzly-beast-batch-3.html"
+    "redwood-empire-pipe-dream-bourbon.html",
+    "rittenhouse-10-year-america-250-2026.html",
+    "rittenhouse-80-proof-reviewed-2010.html",
+    "rittenhouse-rye-bottled-in-bond.html",
+    "rittenhouse-very-rare-21-reviewed-2007.html"
   ],
-  "last_parent_commit": "79dea2e6d597fd85b7bd7c962b1b0412c2fadc71",
+  "last_parent_commit": "a34b7ac65dc2a124f0779e60ea52ddf9ba22ba8b",
   "last_checkpoint_results": [
     {
-      "article": "redemption-sur-lee-straight-rye-2024.html",
+      "article": "redwood-empire-pipe-dream-bourbon.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/redemption-sur-lee-straight-rye-2024.webp",
-      "source_sha256": "f809efb339782417c5b3812ee6a689097da1b961391fe89d4b78a49699cd910c",
+      "verified_source": "assets/bottles/redwood-empire-pipe-dream-bourbon.webp",
+      "source_sha256": "b70e3957ad6efa258c8cf9beecab34c60566c966ab0233d90d132fc3c8d40560",
       "width": 1000,
       "height": 667
     },
     {
-      "article": "redemption-sur-lee-straight-rye.html",
+      "article": "rittenhouse-10-year-america-250-2026.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/redemption-sur-lee-straight-rye.webp",
-      "source_sha256": "f75b774340ff12c4775c4f0c64c8ea77daa2fdac664b8c785b3074c5d0354c95",
-      "width": 1000,
-      "height": 667
+      "verified_source": "assets/bottles/rittenhouse-10-year-america-250-2026.webp",
+      "source_sha256": "8f06d027617f3d204214106c93e8406cf25235e9fc3139def7502a03070079ca",
+      "width": 1200,
+      "height": 673
     },
     {
-      "article": "redemption-wheated-reviewed-2017.html",
+      "article": "rittenhouse-80-proof-reviewed-2010.html",
       "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true,
@@ -1123,26 +1130,22 @@
       "reason": "Article does not identify an already-verified exact bottle image."
     },
     {
-      "article": "redwood-empire-emerald-giant-rye.html",
+      "article": "rittenhouse-rye-bottled-in-bond.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/redwood-empire-emerald-giant-rye.webp",
-      "source_sha256": "cf59e546091d54a68037a27bd64e4f1c3be2ba36ad1bc16a10c4f0dd3372b4aa",
-      "width": 1000,
-      "height": 667
+      "decision": "verified_preexisting_self_contained_photo",
+      "width": 744,
+      "height": 402,
+      "source_sha256": "fcef69d5383f72fca626ea51ffca0bc8693d0e2e7762734faec32b2107ca325a"
     },
     {
-      "article": "redwood-empire-grizzly-beast-batch-3.html",
-      "decoded_images": 1,
+      "article": "rittenhouse-very-rare-21-reviewed-2007.html",
+      "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/redwood-empire-grizzly-beast-batch-3.webp",
-      "source_sha256": "bccdd56ce68ea469b669f17127b75086be302a2aa4ce4bb55b553768639ec2c9",
-      "width": 1400,
-      "height": 1400
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image."
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1238,7 +1241,8 @@
     "prohibition-walter-b-duffy-2026.html",
     "old-grand-dad-bottled-in-bond.html",
     "old-overholt-bottled-in-bond.html",
-    "redemption-rye.html"
+    "redemption-rye.html",
+    "rittenhouse-rye-bottled-in-bond.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
@@ -1277,7 +1281,9 @@
     "redemption-ancients-18-year-rye-2017.html",
     "redemption-bonded-single-barrel-programme.html",
     "redemption-cognac-finish-99-reviewed-2022.html",
-    "redemption-wheated-reviewed-2017.html"
+    "redemption-wheated-reviewed-2017.html",
+    "rittenhouse-80-proof-reviewed-2010.html",
+    "rittenhouse-very-rare-21-reviewed-2007.html"
   ],
   "classification_corrections": [
     {
