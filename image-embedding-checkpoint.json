@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 77,
+  "checkpoint": 78,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -284,7 +284,10 @@
     "jim-beam-pre-prohibition-rye-90.html",
     "jim-beam-repeal-batch-86.html",
     "jim-beam-single-barrel-108-reviewed-2021.html",
-    "jim-beam-sunshine-blend.html"
+    "jim-beam-sunshine-blend.html",
+    "jim-beam-winter-reserve-bourbon.html",
+    "john-j-bowman-single-barrel.html",
+    "johnny-drum-private-stock-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -651,67 +654,39 @@
     "jim-beam-repeal-batch-86.html",
     "jim-beam-single-barrel-108-reviewed-2021.html",
     "jim-beam-sunshine-blend.html",
-    "jim-beam-white-label-bourbon.html"
+    "jim-beam-white-label-bourbon.html",
+    "jim-beam-winter-reserve-bourbon.html",
+    "john-j-bowman-single-barrel.html",
+    "johnny-drum-private-stock-bourbon.html",
+    "joseph-magnus-triple-cask-bourbon.html",
+    "kentucky-owl-rye-batch-1-2017.html"
   ],
   "validation": {
-    "decoded_images": 279,
+    "decoded_images": 282,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 6,
-    "verified_embedded_articles": 279
+    "checkpoint_decoded_images": 7,
+    "verified_embedded_articles": 282
   },
-  "remaining_articles": 460,
-  "updated_at": "2026-10-12T00:03:48.384Z",
+  "remaining_articles": 455,
+  "updated_at": "2026-10-12T00:05:22.391Z",
   "last_checkpoint_articles": [
-    "jim-beam-pre-prohibition-rye-90.html",
-    "jim-beam-repeal-batch-86.html",
-    "jim-beam-single-barrel-108-reviewed-2021.html",
-    "jim-beam-sunshine-blend.html",
-    "jim-beam-white-label-bourbon.html"
+    "jim-beam-winter-reserve-bourbon.html",
+    "john-j-bowman-single-barrel.html",
+    "johnny-drum-private-stock-bourbon.html",
+    "joseph-magnus-triple-cask-bourbon.html",
+    "kentucky-owl-rye-batch-1-2017.html"
   ],
-  "last_parent_commit": "02e1b691ebdb8b3363067b1a0d3fd5220cfbd590",
+  "last_parent_commit": "5c58b38ca8a8e9dd268de45691488c875daa999c",
   "last_checkpoint_results": [
     {
-      "article": "jim-beam-pre-prohibition-rye-90.html",
+      "article": "jim-beam-winter-reserve-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jim-beam-pre-prohibition-rye-90.webp",
-      "source_sha256": "1ba45775ddd810d3e7f7aa2d9ab8fc233d385f8c5b3f473eb2babdac6851398e",
-      "width": 745,
-      "height": 483,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jim-beam-repeal-batch-86.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jim-beam-repeal-batch-86.webp",
-      "source_sha256": "60dd77ff13ec6ed799f90aa7eb406279d84a9c614b7772362ac5fabaf44b8b16",
-      "width": 1200,
-      "height": 675,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jim-beam-single-barrel-108-reviewed-2021.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jim-beam-single-barrel-108-reviewed-2021.webp",
-      "source_sha256": "ba10fdf4247d089d68eac7415d96c0c7975ead50714bc3b4a4d92cc56764ffcd",
-      "width": 400,
-      "height": 534,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "jim-beam-sunshine-blend.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/jim-beam-sunshine-blend.webp",
-      "source_sha256": "9d45cadc02c335d56e160049f0cacc91481cdbdb07e982d506dcc38786c37f8b",
+      "verified_source": "assets/bottles/jim-beam-winter-reserve-bourbon.webp",
+      "source_sha256": "739bdc2b5e57a90577566cc221476f0f7809f2192f85bd6fff364d95524e59fc",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -719,7 +694,37 @@
       "existing_content_preserved": true
     },
     {
-      "article": "jim-beam-white-label-bourbon.html",
+      "article": "john-j-bowman-single-barrel.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/john-j-bowman-single-barrel.webp",
+      "source_sha256": "cb60a4ee4bbc4f0969f1ab9f2af17a1129d81d0c04df1acd1a7cf22226f24157",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "johnny-drum-private-stock-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/johnny-drum-private-stock-bourbon.webp",
+      "source_sha256": "a0c7c93a68b175c99f13c9f0c3690e52ce0b171bc12ae416f3efeed72c56b889",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "joseph-magnus-triple-cask-bourbon.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "kentucky-owl-rye-batch-1-2017.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": true,
       "decoded_images": 2,
@@ -751,7 +756,9 @@
     "jeptha-creed-red-white-blue.html",
     "jeptha-creed-single-barrel-reserve.html",
     "jeptha-creed-solera.html",
-    "jim-beam-white-label-bourbon.html"
+    "jim-beam-white-label-bourbon.html",
+    "joseph-magnus-triple-cask-bourbon.html",
+    "kentucky-owl-rye-batch-1-2017.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
