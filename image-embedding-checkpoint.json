@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 117,
+  "checkpoint": 118,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -419,7 +419,11 @@
     "old-grand-dad-114-single-barrel-7-year-bourbon.html",
     "old-grand-dad-16-year-bourbon.html",
     "old-grand-dad-7-year-bottled-in-bond-bourbon-distilled-fall-2018.html",
-    "old-grand-dad-7-year-bottled-in-bond-bourbon.html"
+    "old-grand-dad-7-year-bottled-in-bond-bourbon.html",
+    "old-overholt-11-year-rye-2020.html",
+    "old-overholt-114-proof-rye-2020-release.html",
+    "old-overholt-86-proof-4-year.html",
+    "old-overholt-cask-strength-10-year-rye.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -986,77 +990,85 @@
     "old-grand-dad-7-year-bottled-in-bond-bourbon-distilled-fall-2018.html",
     "old-grand-dad-7-year-bottled-in-bond-bourbon.html",
     "old-grand-dad-7-year-single-barrel-114-programme.html",
-    "old-grand-dad-bottled-in-bond.html"
+    "old-grand-dad-bottled-in-bond.html",
+    "old-overholt-11-year-rye-2020.html",
+    "old-overholt-114-proof-rye-2020-release.html",
+    "old-overholt-86-proof-4-year.html",
+    "old-overholt-bottled-in-bond.html",
+    "old-overholt-cask-strength-10-year-rye.html"
   ],
   "validation": {
-    "decoded_images": 414,
+    "decoded_images": 418,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 6,
-    "verified_embedded_articles": 414
+    "checkpoint_decoded_images": 7,
+    "verified_embedded_articles": 418
   },
-  "remaining_articles": 260,
-  "updated_at": "2026-10-12T11:56:15.780Z",
+  "remaining_articles": 255,
+  "updated_at": "2026-10-12T11:56:22.458Z",
   "last_checkpoint_articles": [
-    "old-grand-dad-16-year-bourbon.html",
-    "old-grand-dad-7-year-bottled-in-bond-bourbon-distilled-fall-2018.html",
-    "old-grand-dad-7-year-bottled-in-bond-bourbon.html",
-    "old-grand-dad-7-year-single-barrel-114-programme.html",
-    "old-grand-dad-bottled-in-bond.html"
+    "old-overholt-11-year-rye-2020.html",
+    "old-overholt-114-proof-rye-2020-release.html",
+    "old-overholt-86-proof-4-year.html",
+    "old-overholt-bottled-in-bond.html",
+    "old-overholt-cask-strength-10-year-rye.html"
   ],
-  "last_parent_commit": "3661ad20db4b812f59f45c2b5c4fdeba3c978e09",
+  "last_parent_commit": "c22d9ba3d6069cadeb02072b79e7ac0b44464a22",
   "last_checkpoint_results": [
     {
-      "article": "old-grand-dad-16-year-bourbon.html",
+      "article": "old-overholt-11-year-rye-2020.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-grand-dad-16-year-bourbon.webp",
-      "source_sha256": "7b78e288feb0cd74654740396ca4455d748b1f81b5324cce93b08593ece94e44",
+      "verified_source": "assets/bottles/old-overholt-11-year-rye-2020.webp",
+      "source_sha256": "23ddb29319450aba2deca48ba2b3bf4f0879ffe8bcf4a9aaabe1691ba69a125c",
       "width": 1000,
       "height": 667
     },
     {
-      "article": "old-grand-dad-7-year-bottled-in-bond-bourbon-distilled-fall-2018.html",
+      "article": "old-overholt-114-proof-rye-2020-release.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-grand-dad-7-year-bottled-in-bond-bourbon-distilled-fall-2018.webp",
-      "source_sha256": "b0365849cb9518894330faa88a5837d5178fb75555350b23fdff7253751018fb",
+      "verified_source": "assets/bottles/old-overholt-114-proof-rye-2020-release.webp",
+      "source_sha256": "7b37fa661898e6fe2f2463d47bf0254b359fd4215e016c1d3281225b71a8fdd3",
       "width": 1000,
       "height": 667
     },
     {
-      "article": "old-grand-dad-7-year-bottled-in-bond-bourbon.html",
+      "article": "old-overholt-86-proof-4-year.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-grand-dad-7-year-bottled-in-bond-bourbon.webp",
-      "source_sha256": "24bde6b49ce2f821d866979388c54b343ff86c6104a21d58d6ca1981901d0de7",
-      "width": 1000,
-      "height": 667
+      "verified_source": "assets/bottles/old-overholt-86-proof-4-year.webp",
+      "source_sha256": "0c27f21188dea6638b97dab169e744afdf97760bd9267811889b24c6dc97b59a",
+      "width": 600,
+      "height": 600
     },
     {
-      "article": "old-grand-dad-7-year-single-barrel-114-programme.html",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "Article does not identify an already-verified exact bottle image."
-    },
-    {
-      "article": "old-grand-dad-bottled-in-bond.html",
+      "article": "old-overholt-bottled-in-bond.html",
       "decoded_images": 3,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "inspected_no_exact_verified_image",
       "reason": "No already-verified expression-matched image is identified by article metadata."
+    },
+    {
+      "article": "old-overholt-cask-strength-10-year-rye.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/old-overholt-cask-strength-10-year-rye.webp",
+      "source_sha256": "e48902a1c9563867d09e0a6e498821df09a48d30b90262008dbeb2fde0eaae87",
+      "width": 1000,
+      "height": 667
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1164,6 +1176,7 @@
     "nelson-brothers-sherry-community-reviewed.html",
     "old-forester-single-barrel-rye-programme.html",
     "old-grand-dad-7-year-single-barrel-114-programme.html",
-    "old-grand-dad-bottled-in-bond.html"
+    "old-grand-dad-bottled-in-bond.html",
+    "old-overholt-bottled-in-bond.html"
   ]
 }
