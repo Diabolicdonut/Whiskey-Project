@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 98,
+  "checkpoint": 99,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -338,7 +338,12 @@
     "mellow-corn-whiskey.html",
     "michters-10-year-bourbon-2023-23a0044.html",
     "michters-10-year-straight-rye-2023.html",
-    "michters-25-year-bourbon-2023.html"
+    "michters-25-year-bourbon-2023.html",
+    "michters-barrel-strength-sour-mash-2026-1112.html",
+    "michters-celebration-sour-mash-2022.html",
+    "michters-fort-nelson-bourbon-2024.html",
+    "michters-toasted-finish-bourbon.html",
+    "michters-toasted-rye-2026-1088.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -810,53 +815,50 @@
     "michters-20-year-bourbon-2024.html",
     "michters-25-year-bourbon-2023.html",
     "michters-25-year-rye-historical-reviewed-2025.html",
-    "michters-barrel-strength-rye-2024.html"
+    "michters-barrel-strength-rye-2024.html",
+    "michters-barrel-strength-sour-mash-2026-1112.html",
+    "michters-celebration-sour-mash-2022.html",
+    "michters-fort-nelson-bourbon-2024.html",
+    "michters-toasted-finish-bourbon.html",
+    "michters-toasted-rye-2026-1088.html"
   ],
   "validation": {
-    "decoded_images": 333,
+    "decoded_images": 338,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 6,
-    "verified_embedded_articles": 333
+    "checkpoint_decoded_images": 5,
+    "verified_embedded_articles": 338
   },
-  "remaining_articles": 355,
-  "updated_at": "2026-10-12T00:12:49.806Z",
+  "remaining_articles": 350,
+  "updated_at": "2026-10-12T00:12:57.882Z",
   "last_checkpoint_articles": [
-    "michters-10-year-straight-rye-2023.html",
-    "michters-20-year-bourbon-2024.html",
-    "michters-25-year-bourbon-2023.html",
-    "michters-25-year-rye-historical-reviewed-2025.html",
-    "michters-barrel-strength-rye-2024.html"
+    "michters-barrel-strength-sour-mash-2026-1112.html",
+    "michters-celebration-sour-mash-2022.html",
+    "michters-fort-nelson-bourbon-2024.html",
+    "michters-toasted-finish-bourbon.html",
+    "michters-toasted-rye-2026-1088.html"
   ],
-  "last_parent_commit": "fda2d0605764a151be8893543e12c59200fc334e",
+  "last_parent_commit": "3a18b1cd88fbb04ab85543b8e0a6ed2179f967bc",
   "last_checkpoint_results": [
     {
-      "article": "michters-10-year-straight-rye-2023.html",
+      "article": "michters-barrel-strength-sour-mash-2026-1112.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/michters-10-year-straight-rye-2023.webp",
-      "source_sha256": "56e3c893cbb5e26885590af5794b78870668aa18de0f0fedcb6b194a98dc38e7",
-      "width": 1000,
-      "height": 667,
+      "verified_source": "assets/bottles/michters-barrel-strength-sour-mash-2026-1112.webp",
+      "source_sha256": "dd052f7486caecf34253cbb11ea332519ef832357509b77c0e94fe54c86be017",
+      "width": 525,
+      "height": 597,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "michters-20-year-bourbon-2024.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "michters-25-year-bourbon-2023.html",
+      "article": "michters-celebration-sour-mash-2022.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/michters-25-year-bourbon-2023.webp",
-      "source_sha256": "41c97195197bb0d1d3fd5f496297062f285a314089dc6bc5174af7ae76ea7fba",
+      "verified_source": "assets/bottles/michters-celebration-sour-mash-2022.webp",
+      "source_sha256": "f50e9096eacce39d72eebe8f7b145efe17a67b8461627c1fc436e057dc4c303a",
       "width": 1200,
       "height": 675,
       "decoded_images": 1,
@@ -864,17 +866,35 @@
       "existing_content_preserved": true
     },
     {
-      "article": "michters-25-year-rye-historical-reviewed-2025.html",
-      "decision": "inspected_no_exact_verified_image",
-      "decoded_images": 0,
+      "article": "michters-fort-nelson-bourbon-2024.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/michters-fort-nelson-bourbon-2024.webp",
+      "source_sha256": "6be510bbd6b13063c918ff9296b77d68bbcfb077303614ff938324110c968e99",
+      "width": 1200,
+      "height": 675,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "michters-barrel-strength-rye-2024.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
+      "article": "michters-toasted-finish-bourbon.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/michters-toasted-finish-bourbon.webp",
+      "source_sha256": "d3bd1447f20fe8a51166ebb1f623080e9ded6022138836426d6f89170773ae6c",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "michters-toasted-rye-2026-1088.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/michters-toasted-rye-2026-1088.webp",
+      "source_sha256": "86ce37a415df7886fcbe4e81a0f50e2e5c97dc2748c2fe1fe946c30690f9b4f4",
+      "width": 825,
+      "height": 1100,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
