@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 112,
+  "checkpoint": 113,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -398,7 +398,12 @@
     "old-forester-2021-birthday-bourbon.html",
     "old-forester-2023-birthday-bourbon.html",
     "old-forester-2024-birthday-bourbon.html",
-    "old-forester-2025-birthday-bourbon.html"
+    "old-forester-2025-birthday-bourbon.html",
+    "old-forester-2026-birthday-bourbon.html",
+    "old-forester-classic-86-proof-bourbon.html",
+    "old-forester-presidents-choice-bourbon-2025.html",
+    "old-forester-presidents-choice-bourbon-2026.html",
+    "old-forester-presidents-choice-rye-2025.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -940,34 +945,39 @@
     "old-forester-2021-birthday-bourbon.html",
     "old-forester-2023-birthday-bourbon.html",
     "old-forester-2024-birthday-bourbon.html",
-    "old-forester-2025-birthday-bourbon.html"
+    "old-forester-2025-birthday-bourbon.html",
+    "old-forester-2026-birthday-bourbon.html",
+    "old-forester-classic-86-proof-bourbon.html",
+    "old-forester-presidents-choice-bourbon-2025.html",
+    "old-forester-presidents-choice-bourbon-2026.html",
+    "old-forester-presidents-choice-rye-2025.html"
   ],
   "validation": {
-    "decoded_images": 393,
+    "decoded_images": 398,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
     "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 393
+    "verified_embedded_articles": 398
   },
-  "remaining_articles": 285,
-  "updated_at": "2026-10-12T00:14:56.050Z",
+  "remaining_articles": 280,
+  "updated_at": "2026-10-12T00:15:05.150Z",
   "last_checkpoint_articles": [
-    "old-forester-2020-birthday-bourbon.html",
-    "old-forester-2021-birthday-bourbon.html",
-    "old-forester-2023-birthday-bourbon.html",
-    "old-forester-2024-birthday-bourbon.html",
-    "old-forester-2025-birthday-bourbon.html"
+    "old-forester-2026-birthday-bourbon.html",
+    "old-forester-classic-86-proof-bourbon.html",
+    "old-forester-presidents-choice-bourbon-2025.html",
+    "old-forester-presidents-choice-bourbon-2026.html",
+    "old-forester-presidents-choice-rye-2025.html"
   ],
-  "last_parent_commit": "11295c75b2a8804242bbb8cce5b433a84b93b4f2",
+  "last_parent_commit": "e48aa5a586cdb9b1b1584266084e2150051de3f3",
   "last_checkpoint_results": [
     {
-      "article": "old-forester-2020-birthday-bourbon.html",
+      "article": "old-forester-2026-birthday-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2020-birthday-bourbon.webp",
-      "source_sha256": "57d4299f49015ad31cd008830e8c3bfc536d94559ebe9aefcdd0bb105810f80b",
+      "verified_source": "assets/bottles/old-forester-2026-birthday-bourbon.webp",
+      "source_sha256": "debc863eb67d5e3a1bfaffa23a656d63bed5658552588bf255ee68bb3a0643e8",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -975,10 +985,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-2021-birthday-bourbon.html",
+      "article": "old-forester-classic-86-proof-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2021-birthday-bourbon.webp",
-      "source_sha256": "b758e6e4cac6ba4553531f8269a4f98b8b59a5db28d439321fa8392114f91491",
+      "verified_source": "assets/bottles/old-forester-classic-86-proof-bourbon.webp",
+      "source_sha256": "0141c2998dcdd1743d6f0101541374c09d38dbf00b1e725c99c112751ccde122",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -986,10 +996,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-2023-birthday-bourbon.html",
+      "article": "old-forester-presidents-choice-bourbon-2025.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2023-birthday-bourbon.webp",
-      "source_sha256": "4dcfc35a3e7edecbcbf0418aba5cc3abba9663e60c94aaa178535550ca538e75",
+      "verified_source": "assets/bottles/old-forester-presidents-choice-bourbon-2025.webp",
+      "source_sha256": "9a8ec86a104edaac2872b1b47dc75180b812b6672b56232c249544b93f09145d",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -997,10 +1007,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-2024-birthday-bourbon.html",
+      "article": "old-forester-presidents-choice-bourbon-2026.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2024-birthday-bourbon.webp",
-      "source_sha256": "cf3e32eca003500cab2902f8902704a28577cf8bba8615149e98c99cae777698",
+      "verified_source": "assets/bottles/old-forester-presidents-choice-bourbon-2026.webp",
+      "source_sha256": "dbd98507768e6e122e90459ce204e1a4d3d267345bff674ed7aa971a55b848c7",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -1008,10 +1018,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "old-forester-2025-birthday-bourbon.html",
+      "article": "old-forester-presidents-choice-rye-2025.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/old-forester-2025-birthday-bourbon.webp",
-      "source_sha256": "7e83b4f197c5b7d5e6bbca637df4b026c63bf864928dbb9a00196a6243402158",
+      "verified_source": "assets/bottles/old-forester-presidents-choice-rye-2025.webp",
+      "source_sha256": "b75ff2236d8353e1b6991f31dd552da43e4172e7445b18d5591c02569d31a8db",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
