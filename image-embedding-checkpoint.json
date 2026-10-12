@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 84,
+  "checkpoint": 85,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -288,7 +288,11 @@
     "jim-beam-winter-reserve-bourbon.html",
     "john-j-bowman-single-barrel.html",
     "johnny-drum-private-stock-bourbon.html",
-    "kentucky-vintage-bourbon.html"
+    "kentucky-vintage-bourbon.html",
+    "knob-creek-10-year-rye.html",
+    "knob-creek-12-year-cask-strength-2026-reviewed.html",
+    "knob-creek-15-year-2020-limited-edition.html",
+    "knob-creek-18-year-2022-limited-edition.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -690,31 +694,36 @@
     "kings-family-tennessee-standard.html",
     "kings-family-toasted-agave-bourbon.html",
     "kings-family-toasted-ryeconic.html",
-    "kings-family-wheated-bourbon.html"
+    "kings-family-wheated-bourbon.html",
+    "kings-family-white-corn.html",
+    "knob-creek-10-year-rye.html",
+    "knob-creek-12-year-cask-strength-2026-reviewed.html",
+    "knob-creek-15-year-2020-limited-edition.html",
+    "knob-creek-18-year-2022-limited-edition.html"
   ],
   "validation": {
-    "decoded_images": 283,
+    "decoded_images": 287,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 10,
-    "verified_embedded_articles": 283
+    "checkpoint_decoded_images": 6,
+    "verified_embedded_articles": 287
   },
-  "remaining_articles": 425,
-  "updated_at": "2026-10-12T00:08:02.398Z",
+  "remaining_articles": 420,
+  "updated_at": "2026-10-12T00:08:38.964Z",
   "last_checkpoint_articles": [
-    "kings-family-single-barrel-select-18.html",
-    "kings-family-tennessee-standard.html",
-    "kings-family-toasted-agave-bourbon.html",
-    "kings-family-toasted-ryeconic.html",
-    "kings-family-wheated-bourbon.html"
+    "kings-family-white-corn.html",
+    "knob-creek-10-year-rye.html",
+    "knob-creek-12-year-cask-strength-2026-reviewed.html",
+    "knob-creek-15-year-2020-limited-edition.html",
+    "knob-creek-18-year-2022-limited-edition.html"
   ],
-  "last_parent_commit": "d30bf4d7cd014ae8b6f0ff65395fe763223c357f",
+  "last_parent_commit": "887a43207bc678f6db59aa0a9b79b7bd6ddf7ffa",
   "last_checkpoint_results": [
     {
-      "article": "kings-family-single-barrel-select-18.html",
+      "article": "kings-family-white-corn.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
@@ -722,34 +731,46 @@
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-tennessee-standard.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
+      "article": "knob-creek-10-year-rye.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/knob-creek-10-year-rye.webp",
+      "source_sha256": "4b3fb86d5be67ee9028aee7dbf05ef569d91ee7dc586fca0c02ca774e91c16c2",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-toasted-agave-bourbon.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
+      "article": "knob-creek-12-year-cask-strength-2026-reviewed.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/knob-creek-12-year-cask-strength-2026-reviewed.webp",
+      "source_sha256": "b0dc6e32e769886acc2c34e6170cfeb52bd1f02466fa874c7dbaf604b242b38f",
+      "width": 1200,
+      "height": 699,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-toasted-ryeconic.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": false,
-      "decoded_images": 2,
+      "article": "knob-creek-15-year-2020-limited-edition.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/knob-creek-15-year-2020-limited-edition.webp",
+      "source_sha256": "cef9ef61400694814413fe2bf4aec8d8da7c62ab04662903614e767b725497c5",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-wheated-bourbon.html",
-      "decision": "inspected_existing_self_contained_images_preserved",
-      "verified_source_available": true,
-      "decoded_images": 2,
+      "article": "knob-creek-18-year-2022-limited-edition.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/knob-creek-18-year-2022-limited-edition.webp",
+      "source_sha256": "553b65e0d4688ed985fa84520ae380c776468d936c0a661a6d914616d5b71d26",
+      "width": 1000,
+      "height": 648,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -809,7 +830,8 @@
     "kings-family-tennessee-standard.html",
     "kings-family-toasted-agave-bourbon.html",
     "kings-family-toasted-ryeconic.html",
-    "kings-family-wheated-bourbon.html"
+    "kings-family-wheated-bourbon.html",
+    "kings-family-white-corn.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
