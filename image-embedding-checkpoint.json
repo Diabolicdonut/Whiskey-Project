@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 125,
+  "checkpoint": 126,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -438,7 +438,9 @@
     "rabbit-hole-cavehill-4-grain-bourbon.html",
     "rabbit-hole-dareringer.html",
     "redemption-10-year-rye-2017-1162.html",
-    "redemption-18-year-bourbon-reviewed-2025.html"
+    "redemption-18-year-bourbon-reviewed-2025.html",
+    "redemption-9-year-bourbon-2021.html",
+    "redemption-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1045,53 +1047,36 @@
     "rabbit-hole-dareringer.html",
     "redemption-10-year-rye-1162-reviewed-2022.html",
     "redemption-10-year-rye-2017-1162.html",
-    "redemption-18-year-bourbon-reviewed-2025.html"
+    "redemption-18-year-bourbon-reviewed-2025.html",
+    "redemption-36-year-bourbon-bottle-13.html",
+    "redemption-9-year-bourbon-2021.html",
+    "redemption-ancients-18-year-rye-2017.html",
+    "redemption-bonded-single-barrel-programme.html",
+    "redemption-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 433,
+    "decoded_images": 435,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
     "checkpoint_decoded_images": 4,
-    "verified_embedded_articles": 433
+    "verified_embedded_articles": 435
   },
-  "remaining_articles": 220,
-  "updated_at": "2026-10-12T11:57:49.112Z",
+  "remaining_articles": 215,
+  "updated_at": "2026-10-12T11:59:04.472Z",
   "last_checkpoint_articles": [
-    "rabbit-hole-cavehill-4-grain-bourbon.html",
-    "rabbit-hole-dareringer.html",
-    "redemption-10-year-rye-1162-reviewed-2022.html",
-    "redemption-10-year-rye-2017-1162.html",
-    "redemption-18-year-bourbon-reviewed-2025.html"
+    "redemption-36-year-bourbon-bottle-13.html",
+    "redemption-9-year-bourbon-2021.html",
+    "redemption-ancients-18-year-rye-2017.html",
+    "redemption-bonded-single-barrel-programme.html",
+    "redemption-bourbon.html"
   ],
-  "last_parent_commit": "11b4066b1257e45e827888a5058177693ed7e1cf",
+  "last_parent_commit": "3e243b2fd2b5b6c53bc430ee3f3451868d1a467b",
   "last_checkpoint_results": [
     {
-      "article": "rabbit-hole-cavehill-4-grain-bourbon.html",
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/rabbit-hole-cavehill-4-grain-bourbon.webp",
-      "source_sha256": "3d0828f8fc5d96489703a9ac376d17f359ea67a393fd1c253031d419dcf5d23d",
-      "width": 1000,
-      "height": 667
-    },
-    {
-      "article": "rabbit-hole-dareringer.html",
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/rabbit-hole-dareringer.webp",
-      "source_sha256": "b5ee960cc12fc969c91652ba790280412dd0abf0bf5ae0924a2a28d3b0b74530",
-      "width": 1000,
-      "height": 667
-    },
-    {
-      "article": "redemption-10-year-rye-1162-reviewed-2022.html",
+      "article": "redemption-36-year-bourbon-bottle-13.html",
       "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true,
@@ -1099,26 +1084,42 @@
       "reason": "Article does not identify an already-verified exact bottle image."
     },
     {
-      "article": "redemption-10-year-rye-2017-1162.html",
+      "article": "redemption-9-year-bourbon-2021.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/redemption-10-year-rye-2017-1162.webp",
-      "source_sha256": "a93611d933f9f6b0ec356d592bd5968d75e422ab5634b4059069563cda2c7f76",
-      "width": 1000,
-      "height": 748
+      "verified_source": "assets/bottles/redemption-9-year-bourbon-2021.webp",
+      "source_sha256": "d3cae6cc49030d6bd9abd08833ad74edb2ef952cab2be4fe2f309b417f5f5d8b",
+      "width": 1200,
+      "height": 900
     },
     {
-      "article": "redemption-18-year-bourbon-reviewed-2025.html",
+      "article": "redemption-ancients-18-year-rye-2017.html",
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "No already-verified expression-matched image is identified by article metadata."
+    },
+    {
+      "article": "redemption-bonded-single-barrel-programme.html",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image."
+    },
+    {
+      "article": "redemption-bourbon.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/redemption-18-year-bourbon-reviewed-2025.webp",
-      "source_sha256": "9ff223a91257fe7209c0bd0df5f320bce020fef965152bb79062849901cc4046",
-      "width": 1200,
-      "height": 600
+      "verified_source": "assets/bottles/redemption-bourbon.webp",
+      "source_sha256": "8ef097f4cbdd38a14118c7d3b41c3813d5781b032329bf297a552338da457f75",
+      "width": 1000,
+      "height": 667
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1211,7 +1212,9 @@
     "prohibition-three-feathers-2023.html",
     "prohibition-very-oldest-procurable-2025.html",
     "prohibition-walnut-hill-2023.html",
-    "prohibition-walter-b-duffy-2026.html"
+    "prohibition-walter-b-duffy-2026.html",
+    "old-grand-dad-bottled-in-bond.html",
+    "old-overholt-bottled-in-bond.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
@@ -1238,8 +1241,6 @@
     "nelson-brothers-sherry-community-reviewed.html",
     "old-forester-single-barrel-rye-programme.html",
     "old-grand-dad-7-year-single-barrel-114-programme.html",
-    "old-grand-dad-bottled-in-bond.html",
-    "old-overholt-bottled-in-bond.html",
     "peerless-barrel-proof-rye-4-year-109-2-proof.html",
     "pikesville-supreme-80-proof-3-year.html",
     "prichards-rye-86-catalogue.html",
@@ -1247,6 +1248,20 @@
     "prohibition-andersons-belle-2025.html",
     "prohibition-golden-wedding-2023.html",
     "prohibition-henry-watterson-2026.html",
-    "redemption-10-year-rye-1162-reviewed-2022.html"
+    "redemption-10-year-rye-1162-reviewed-2022.html",
+    "redemption-36-year-bourbon-bottle-13.html",
+    "redemption-ancients-18-year-rye-2017.html",
+    "redemption-bonded-single-barrel-programme.html"
+  ],
+  "classification_corrections": [
+    {
+      "checkpoint": 126,
+      "articles": [
+        "old-grand-dad-bottled-in-bond.html",
+        "old-overholt-bottled-in-bond.html"
+      ],
+      "decision": "verified_preexisting_self_contained_photo",
+      "reason": "Existing exact standard-expression bottle photos were already embedded. Identity confirmed from article labels and bottle photographs; article HTML remains unchanged."
+    }
   ]
 }
