@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 131,
+  "checkpoint": 132,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -457,7 +457,11 @@
     "russells-reserve-13-year-old-bourbon-2026.html",
     "russells-reserve-15-year-bourbon-2024.html",
     "russells-reserve-6-year-rye.html",
-    "russells-reserve-single-barrel-bourbon.html"
+    "russells-reserve-single-barrel-bourbon.html",
+    "russells-reserve-single-barrel-rye.html",
+    "russells-reserve-single-rockhouse-camp-nelson-e.html",
+    "sagamore-10-year-rye.html",
+    "sagamore-bottled-in-bond-5-year-reviewed-2023.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1094,83 +1098,85 @@
     "russells-reserve-13-year-old-bourbon-2026.html",
     "russells-reserve-15-year-bourbon-2024.html",
     "russells-reserve-6-year-rye.html",
-    "russells-reserve-single-barrel-bourbon.html"
+    "russells-reserve-single-barrel-bourbon.html",
+    "russells-reserve-single-barrel-rye.html",
+    "russells-reserve-single-rockhouse-camp-nelson-e.html",
+    "sagamore-10-year-rye.html",
+    "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
+    "sagamore-calvados-finish-2020.html"
   ],
   "validation": {
-    "decoded_images": 452,
+    "decoded_images": 456,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 452
+    "checkpoint_decoded_images": 4,
+    "verified_embedded_articles": 456
   },
-  "remaining_articles": 190,
-  "updated_at": "2026-10-12T12:00:02.578Z",
+  "remaining_articles": 185,
+  "updated_at": "2026-10-12T12:00:08.520Z",
   "last_checkpoint_articles": [
-    "russells-reserve-13-year-old-bourbon-2022-release.html",
-    "russells-reserve-13-year-old-bourbon-2026.html",
-    "russells-reserve-15-year-bourbon-2024.html",
-    "russells-reserve-6-year-rye.html",
-    "russells-reserve-single-barrel-bourbon.html"
+    "russells-reserve-single-barrel-rye.html",
+    "russells-reserve-single-rockhouse-camp-nelson-e.html",
+    "sagamore-10-year-rye.html",
+    "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
+    "sagamore-calvados-finish-2020.html"
   ],
-  "last_parent_commit": "676c2d5f56480f67bb421360b0fba3d5eb35d41b",
+  "last_parent_commit": "f172c0a21005c19c846c6002aa9cb36eb202798b",
   "last_checkpoint_results": [
     {
-      "article": "russells-reserve-13-year-old-bourbon-2022-release.html",
+      "article": "russells-reserve-single-barrel-rye.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/russells-reserve-13-year-old-bourbon-2022-release.webp",
-      "source_sha256": "6dfdf8911a4d7fcfc39a6ba6b71bf8acd62dc643fff22296c326486744074475",
+      "verified_source": "assets/bottles/russells-reserve-single-barrel-rye.webp",
+      "source_sha256": "23589c8913c106eab6b9a99fc1bb8c26b9a2584899957c00f8986ed4c4b53348",
       "width": 1000,
       "height": 667
     },
     {
-      "article": "russells-reserve-13-year-old-bourbon-2026.html",
+      "article": "russells-reserve-single-rockhouse-camp-nelson-e.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/russells-reserve-13-year-old-bourbon-2026.webp",
-      "source_sha256": "385642b5a3d6f052420cc6053442ac7a451d1f362333109b40aa717616172673",
+      "verified_source": "assets/bottles/russells-reserve-single-rockhouse-camp-nelson-e.webp",
+      "source_sha256": "83dbe26a0c99b5d25cd1c68fc198fa9945828d2f699ae35b5cff59958d11e282",
       "width": 1000,
       "height": 667
     },
     {
-      "article": "russells-reserve-15-year-bourbon-2024.html",
+      "article": "sagamore-10-year-rye.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/russells-reserve-15-year-bourbon-2024.webp",
-      "source_sha256": "b78ed6e9e56fdebb0a763b8bbd9ba03733c93083ed33c0daea39a1b0f0e64e1c",
+      "verified_source": "assets/bottles/sagamore-10-year-rye.webp",
+      "source_sha256": "b16e7ed493f97cf4e7fe6553a04bcca9791628c5009fac017298626c6bbffaa7",
       "width": 1000,
       "height": 667
     },
     {
-      "article": "russells-reserve-6-year-rye.html",
+      "article": "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/russells-reserve-6-year-rye.webp",
-      "source_sha256": "36e9b4ebc5707d78594797eb41eea14b59312dff5ba930ba8a19f9b8190ea637",
-      "width": 1000,
-      "height": 667
+      "verified_source": "assets/bottles/sagamore-bottled-in-bond-5-year-reviewed-2023.webp",
+      "source_sha256": "a18017434b9521781fc83cfbb94349ca551e014cd19367ccfa9f2130e0da4b34",
+      "width": 1200,
+      "height": 900
     },
     {
-      "article": "russells-reserve-single-barrel-bourbon.html",
-      "decoded_images": 1,
+      "article": "sagamore-calvados-finish-2020.html",
+      "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/russells-reserve-single-barrel-bourbon.webp",
-      "source_sha256": "e4328e69568e4ef8c04701aeefa960189d0fa1a11723c19b8186cd9be93f29bb",
-      "width": 1000,
-      "height": 667
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image."
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1310,7 +1316,8 @@
     "redemption-wheated-reviewed-2017.html",
     "rittenhouse-80-proof-reviewed-2010.html",
     "rittenhouse-very-rare-21-reviewed-2007.html",
-    "rittenhouse-very-rare-23-barrel8-bottle95.html"
+    "rittenhouse-very-rare-23-barrel8-bottle95.html",
+    "sagamore-calvados-finish-2020.html"
   ],
   "classification_corrections": [
     {
