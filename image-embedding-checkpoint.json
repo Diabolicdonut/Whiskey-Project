@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 90,
+  "checkpoint": 91,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -310,7 +310,11 @@
     "little-book-chapter-3-the-road-home.html",
     "little-book-chapter-4-lessons-honored.html",
     "little-book-chapter-5-the-invitation.html",
-    "little-book-chapter-6-to-the-finish.html"
+    "little-book-chapter-6-to-the-finish.html",
+    "little-book-chapter-7-in-retrospect.html",
+    "little-book-chapter-8-path-not-taken.html",
+    "little-book-chapter-9-none-for-granted.html",
+    "little-book-infinite-edition-ii.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -742,45 +746,39 @@
     "little-book-chapter-3-the-road-home.html",
     "little-book-chapter-4-lessons-honored.html",
     "little-book-chapter-5-the-invitation.html",
-    "little-book-chapter-6-to-the-finish.html"
+    "little-book-chapter-6-to-the-finish.html",
+    "little-book-chapter-7-in-retrospect.html",
+    "little-book-chapter-8-path-not-taken.html",
+    "little-book-chapter-9-none-for-granted.html",
+    "little-book-infinite-edition-ii.html",
+    "little-book-infinite-edition-iii-2026.html"
   ],
   "validation": {
-    "decoded_images": 305,
+    "decoded_images": 309,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 305
+    "checkpoint_decoded_images": 4,
+    "verified_embedded_articles": 309
   },
-  "remaining_articles": 395,
-  "updated_at": "2026-10-12T00:09:58.628Z",
+  "remaining_articles": 390,
+  "updated_at": "2026-10-12T00:10:06.059Z",
   "last_checkpoint_articles": [
-    "little-book-chapter-2-noe-simple-task.html",
-    "little-book-chapter-3-the-road-home.html",
-    "little-book-chapter-4-lessons-honored.html",
-    "little-book-chapter-5-the-invitation.html",
-    "little-book-chapter-6-to-the-finish.html"
+    "little-book-chapter-7-in-retrospect.html",
+    "little-book-chapter-8-path-not-taken.html",
+    "little-book-chapter-9-none-for-granted.html",
+    "little-book-infinite-edition-ii.html",
+    "little-book-infinite-edition-iii-2026.html"
   ],
-  "last_parent_commit": "f1ba4255e954104afa10e3ceab6ae67d9ecb16d6",
+  "last_parent_commit": "51a22846234164968440478bbf4963ac8abaec20",
   "last_checkpoint_results": [
     {
-      "article": "little-book-chapter-2-noe-simple-task.html",
+      "article": "little-book-chapter-7-in-retrospect.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/little-book-chapter-2-noe-simple-task.webp",
-      "source_sha256": "9b547267351a8eb137ca4c83a31963ec98fa93ee58af39619d4c6c67d29e165d",
-      "width": 650,
-      "height": 433,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "little-book-chapter-3-the-road-home.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/little-book-chapter-3-the-road-home.webp",
-      "source_sha256": "fdbb956adac9892cf4789cd686d980108ee524e4fd103873ba30813fa95c7538",
+      "verified_source": "assets/bottles/little-book-chapter-7-in-retrospect.webp",
+      "source_sha256": "c00ddd2dc160268c0e38b0a699ff566203af3fbb96a3379261099660c7ef7ab7",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -788,10 +786,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "little-book-chapter-4-lessons-honored.html",
+      "article": "little-book-chapter-8-path-not-taken.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/little-book-chapter-4-lessons-honored.webp",
-      "source_sha256": "95aec2b91c1e6b5baef9e7dab840c3296fe51a34057fdb2ff31ffad7e2688523",
+      "verified_source": "assets/bottles/little-book-chapter-8-path-not-taken.webp",
+      "source_sha256": "db77db99e9828e541e9784521f7ca668909e5d3aa6c2a14508a36a6fa83fd6f7",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -799,10 +797,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "little-book-chapter-5-the-invitation.html",
+      "article": "little-book-chapter-9-none-for-granted.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/little-book-chapter-5-the-invitation.webp",
-      "source_sha256": "aa4f18962cb3107a2af1573ef90ca69470f473cfa59aa9c98ec9862778323376",
+      "verified_source": "assets/bottles/little-book-chapter-9-none-for-granted.webp",
+      "source_sha256": "a88aebb4f8529316989fa3fb988581bb66ed489edb5b40cdf8a16ad9dd5012e2",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -810,13 +808,20 @@
       "existing_content_preserved": true
     },
     {
-      "article": "little-book-chapter-6-to-the-finish.html",
+      "article": "little-book-infinite-edition-ii.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/little-book-chapter-6-to-the-finish.webp",
-      "source_sha256": "b37991f30ab418a92aed7d94e22cbcffbc94cc6468e40eb3bd682ee5fc348eea",
+      "verified_source": "assets/bottles/little-book-infinite-edition-ii.webp",
+      "source_sha256": "d5d027a4ab1e39ac8ca5ce438746566553f503632c05e78c691b3375b7656627",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "little-book-infinite-edition-iii-2026.html",
+      "decision": "inspected_no_exact_verified_image",
+      "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -900,6 +905,7 @@
     "knob-creek-7-year-single-barrel-reserve-rye-catalogue.html",
     "knob-creek-single-barrel-cask-strength-bourbon-programme.html",
     "knob-creek-single-barrel-cask-strength-rye-programme.html",
-    "larceny-barrel-proof-batch-b523.html"
+    "larceny-barrel-proof-batch-b523.html",
+    "little-book-infinite-edition-iii-2026.html"
   ]
 }
