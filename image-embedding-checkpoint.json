@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 82,
+  "checkpoint": 83,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -680,7 +680,12 @@
     "kings-family-ice-wine-ryeconic.html",
     "kings-family-middle-creek-moonshine.html",
     "kings-family-peach.html",
-    "kings-family-port-wine-bourbon.html"
+    "kings-family-port-wine-bourbon.html",
+    "kings-family-red-white-blue-bourbon.html",
+    "kings-family-reserve.html",
+    "kings-family-rye.html",
+    "kings-family-ryeconic.html",
+    "kings-family-sherry-cask-bourbon.html"
   ],
   "validation": {
     "decoded_images": 283,
@@ -692,19 +697,19 @@
     "checkpoint_decoded_images": 10,
     "verified_embedded_articles": 283
   },
-  "remaining_articles": 435,
-  "updated_at": "2026-10-12T00:07:47.313Z",
+  "remaining_articles": 430,
+  "updated_at": "2026-10-12T00:07:54.664Z",
   "last_checkpoint_articles": [
-    "kings-family-honey-toasted-ryeconic.html",
-    "kings-family-ice-wine-ryeconic.html",
-    "kings-family-middle-creek-moonshine.html",
-    "kings-family-peach.html",
-    "kings-family-port-wine-bourbon.html"
+    "kings-family-red-white-blue-bourbon.html",
+    "kings-family-reserve.html",
+    "kings-family-rye.html",
+    "kings-family-ryeconic.html",
+    "kings-family-sherry-cask-bourbon.html"
   ],
-  "last_parent_commit": "f6fca9b295a1bf8166301642cbe88dbfef508a7a",
+  "last_parent_commit": "61c8f1d63fee2d7ec78addc3e85e8bebb5fb0348",
   "last_checkpoint_results": [
     {
-      "article": "kings-family-honey-toasted-ryeconic.html",
+      "article": "kings-family-red-white-blue-bourbon.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
@@ -712,7 +717,7 @@
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-ice-wine-ryeconic.html",
+      "article": "kings-family-reserve.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
@@ -720,7 +725,7 @@
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-middle-creek-moonshine.html",
+      "article": "kings-family-rye.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
@@ -728,7 +733,7 @@
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-peach.html",
+      "article": "kings-family-ryeconic.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
@@ -736,7 +741,7 @@
       "existing_content_preserved": true
     },
     {
-      "article": "kings-family-port-wine-bourbon.html",
+      "article": "kings-family-sherry-cask-bourbon.html",
       "decision": "inspected_existing_self_contained_images_preserved",
       "verified_source_available": false,
       "decoded_images": 2,
@@ -789,7 +794,12 @@
     "kings-family-ice-wine-ryeconic.html",
     "kings-family-middle-creek-moonshine.html",
     "kings-family-peach.html",
-    "kings-family-port-wine-bourbon.html"
+    "kings-family-port-wine-bourbon.html",
+    "kings-family-red-white-blue-bourbon.html",
+    "kings-family-reserve.html",
+    "kings-family-rye.html",
+    "kings-family-ryeconic.html",
+    "kings-family-sherry-cask-bourbon.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
