@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 91,
+  "checkpoint": 92,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -314,7 +314,11 @@
     "little-book-chapter-7-in-retrospect.html",
     "little-book-chapter-8-path-not-taken.html",
     "little-book-chapter-9-none-for-granted.html",
-    "little-book-infinite-edition-ii.html"
+    "little-book-infinite-edition-ii.html",
+    "little-book-the-easy.html",
+    "little-book-the-infinite-edition-1.html",
+    "makers-mark-101.html",
+    "makers-mark-46-cask-strength.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -751,34 +755,39 @@
     "little-book-chapter-8-path-not-taken.html",
     "little-book-chapter-9-none-for-granted.html",
     "little-book-infinite-edition-ii.html",
-    "little-book-infinite-edition-iii-2026.html"
+    "little-book-infinite-edition-iii-2026.html",
+    "little-book-the-easy.html",
+    "little-book-the-infinite-edition-1.html",
+    "makers-mark-101.html",
+    "makers-mark-46-cask-strength.html",
+    "makers-mark-46.html"
   ],
   "validation": {
-    "decoded_images": 309,
+    "decoded_images": 313,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 4,
-    "verified_embedded_articles": 309
+    "checkpoint_decoded_images": 8,
+    "verified_embedded_articles": 313
   },
-  "remaining_articles": 390,
-  "updated_at": "2026-10-12T00:10:06.059Z",
+  "remaining_articles": 385,
+  "updated_at": "2026-10-12T00:10:13.985Z",
   "last_checkpoint_articles": [
-    "little-book-chapter-7-in-retrospect.html",
-    "little-book-chapter-8-path-not-taken.html",
-    "little-book-chapter-9-none-for-granted.html",
-    "little-book-infinite-edition-ii.html",
-    "little-book-infinite-edition-iii-2026.html"
+    "little-book-the-easy.html",
+    "little-book-the-infinite-edition-1.html",
+    "makers-mark-101.html",
+    "makers-mark-46-cask-strength.html",
+    "makers-mark-46.html"
   ],
-  "last_parent_commit": "51a22846234164968440478bbf4963ac8abaec20",
+  "last_parent_commit": "7abf7e28546cfe6ae632fd96391cd7bc47071198",
   "last_checkpoint_results": [
     {
-      "article": "little-book-chapter-7-in-retrospect.html",
+      "article": "little-book-the-easy.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/little-book-chapter-7-in-retrospect.webp",
-      "source_sha256": "c00ddd2dc160268c0e38b0a699ff566203af3fbb96a3379261099660c7ef7ab7",
+      "verified_source": "assets/bottles/little-book-the-easy.webp",
+      "source_sha256": "c4fabae231259b2c0c137d789981d6f349cf479b9e03aeeb80e2a2faf9e3cdc6",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -786,10 +795,10 @@
       "existing_content_preserved": true
     },
     {
-      "article": "little-book-chapter-8-path-not-taken.html",
+      "article": "little-book-the-infinite-edition-1.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/little-book-chapter-8-path-not-taken.webp",
-      "source_sha256": "db77db99e9828e541e9784521f7ca668909e5d3aa6c2a14508a36a6fa83fd6f7",
+      "verified_source": "assets/bottles/little-book-the-infinite-edition-1.webp",
+      "source_sha256": "7a82a836ae3db456e260c6e5860101e3708571a4dada791e6edf192bccd71c8b",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -797,31 +806,32 @@
       "existing_content_preserved": true
     },
     {
-      "article": "little-book-chapter-9-none-for-granted.html",
+      "article": "makers-mark-101.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/little-book-chapter-9-none-for-granted.webp",
-      "source_sha256": "a88aebb4f8529316989fa3fb988581bb66ed489edb5b40cdf8a16ad9dd5012e2",
-      "width": 1000,
-      "height": 667,
+      "verified_source": "assets/bottles/makers-mark-101.webp",
+      "source_sha256": "a99e211c048b9fc9fcc50dcc6f7fd22b0ebacf332aa60915c615c4cabe08d13e",
+      "width": 640,
+      "height": 640,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "little-book-infinite-edition-ii.html",
+      "article": "makers-mark-46-cask-strength.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/little-book-infinite-edition-ii.webp",
-      "source_sha256": "d5d027a4ab1e39ac8ca5ce438746566553f503632c05e78c691b3375b7656627",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
+      "verified_source": "assets/bottles/makers-mark-46-cask-strength.webp",
+      "source_sha256": "9531bde3150422fc38e69200f572764720dae7d995c6281cff0231d16bb1096b",
+      "width": 640,
+      "height": 640,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "little-book-infinite-edition-iii-2026.html",
-      "decision": "inspected_no_exact_verified_image",
-      "decoded_images": 0,
+      "article": "makers-mark-46.html",
+      "decision": "inspected_existing_self_contained_images_preserved",
+      "verified_source_available": true,
+      "decoded_images": 3,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -885,7 +895,8 @@
     "kings-family-white-corn.html",
     "knob-creek-7-year-rye.html",
     "knob-creek-9-year-bourbon.html",
-    "larceny-small-batch.html"
+    "larceny-small-batch.html",
+    "makers-mark-46.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
