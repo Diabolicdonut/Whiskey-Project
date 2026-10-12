@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 123,
+  "checkpoint": 124,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -433,7 +433,8 @@
     "prichards-double-barreled-reviewed-2017.html",
     "prichards-double-chocolate-historical.html",
     "prichards-lincoln-county-lightning-reviewed-2013.html",
-    "prichards-single-malt-reviewed-2014.html"
+    "prichards-single-malt-reviewed-2014.html",
+    "pure-kentucky-xo-kentucky-straight-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1030,78 +1031,84 @@
     "prohibition-old-fashioned-mountain-corn-2025.html",
     "prohibition-old-stagg-2023.html",
     "prohibition-silver-wedding-2025.html",
-    "prohibition-spiritus-frumenti-2023.html"
+    "prohibition-spiritus-frumenti-2023.html",
+    "prohibition-three-feathers-2023.html",
+    "prohibition-very-oldest-procurable-2025.html",
+    "prohibition-walnut-hill-2023.html",
+    "prohibition-walter-b-duffy-2026.html",
+    "pure-kentucky-xo-kentucky-straight-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 428,
+    "decoded_images": 429,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
     "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 428
+    "verified_embedded_articles": 429
   },
-  "remaining_articles": 230,
-  "updated_at": "2026-10-12T11:57:37.310Z",
+  "remaining_articles": 225,
+  "updated_at": "2026-10-12T11:57:43.419Z",
   "last_checkpoint_articles": [
-    "prohibition-mirror-brook-2025.html",
-    "prohibition-old-fashioned-mountain-corn-2025.html",
-    "prohibition-old-stagg-2023.html",
-    "prohibition-silver-wedding-2025.html",
-    "prohibition-spiritus-frumenti-2023.html"
+    "prohibition-three-feathers-2023.html",
+    "prohibition-very-oldest-procurable-2025.html",
+    "prohibition-walnut-hill-2023.html",
+    "prohibition-walter-b-duffy-2026.html",
+    "pure-kentucky-xo-kentucky-straight-bourbon.html"
   ],
-  "last_parent_commit": "1d90806d57c2d164aa17f4dccef281bfd859d9d1",
+  "last_parent_commit": "398fcea4c7452b6659d969709f3ef142d069364d",
   "last_checkpoint_results": [
     {
-      "article": "prohibition-mirror-brook-2025.html",
+      "article": "prohibition-three-feathers-2023.html",
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "decision": "verified_preexisting_self_contained_photo",
+      "width": 350,
+      "height": 503,
+      "source_sha256": "b5119aa060b5d2413fa312674d19cc4c35d87f0356406c042171c9a26ad41ee7"
+    },
+    {
+      "article": "prohibition-very-oldest-procurable-2025.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "verified_preexisting_self_contained_photo",
       "width": 247,
       "height": 640,
-      "source_sha256": "e65ecb438f4dea2ea5392b53014293a15d8e26adeb873d74a1ca54a81100bd4a"
+      "source_sha256": "3ef8c04d19316ec33ed3d362cda889c999cbe3c6442a2be85450e0b2f56fb0e6"
     },
     {
-      "article": "prohibition-old-fashioned-mountain-corn-2025.html",
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "verified_preexisting_self_contained_photo",
-      "width": 247,
-      "height": 640,
-      "source_sha256": "7f5b0c74d91ad1f99f42d5c81f11823b734397d032cb3ead1511d4a5a33efe48"
-    },
-    {
-      "article": "prohibition-old-stagg-2023.html",
+      "article": "prohibition-walnut-hill-2023.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "verified_preexisting_self_contained_photo",
       "width": 350,
-      "height": 502,
-      "source_sha256": "0b5b4a2615c3a1c209e5fa43dae4d2def7271aadaf6d9866f6e93fb9ffb126fb"
+      "height": 504,
+      "source_sha256": "5588dccbab50e118fafe070d9d7ca3aefcf1fc310b7d29fcb24341913f8db09b"
     },
     {
-      "article": "prohibition-silver-wedding-2025.html",
+      "article": "prohibition-walter-b-duffy-2026.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
       "decision": "verified_preexisting_self_contained_photo",
-      "width": 257,
-      "height": 640,
-      "source_sha256": "623252537cf366bc2fd12fc57505f5641de8064c2fda00b2a887d75eb24139af"
+      "width": 464,
+      "height": 317,
+      "source_sha256": "c3250e0378ef779a09c11f0cea3bc4019b8885ae50431998eb06f813b4649f71"
     },
     {
-      "article": "prohibition-spiritus-frumenti-2023.html",
+      "article": "pure-kentucky-xo-kentucky-straight-bourbon.html",
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "decision": "verified_preexisting_self_contained_photo",
-      "width": 350,
-      "height": 500,
-      "source_sha256": "f93491a1d6ab561db87fcbc3c50d1d201827fb139445c7dc00ac2f93332286bc"
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/pure-kentucky-xo-kentucky-straight-bourbon.webp",
+      "source_sha256": "8de7c682c1d35eaf6e004e70d4f96b9c8dfa0854f1e034fe6533aa2a640f8f1e",
+      "width": 238,
+      "height": 582
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1190,7 +1197,11 @@
     "prohibition-old-fashioned-mountain-corn-2025.html",
     "prohibition-old-stagg-2023.html",
     "prohibition-silver-wedding-2025.html",
-    "prohibition-spiritus-frumenti-2023.html"
+    "prohibition-spiritus-frumenti-2023.html",
+    "prohibition-three-feathers-2023.html",
+    "prohibition-very-oldest-procurable-2025.html",
+    "prohibition-walnut-hill-2023.html",
+    "prohibition-walter-b-duffy-2026.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
