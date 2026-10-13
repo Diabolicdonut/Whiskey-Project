@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 154,
+  "checkpoint": 155,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -548,7 +548,10 @@
     "whistlepig-the-boss-hog-2014-the-spirit-of-mortimer.html",
     "whistlepig-the-boss-hog-xiii-the-golden-pharaoh.html",
     "widow-jane-aged-10-years-batch-224.html",
-    "widow-jane-decadence-2025.html"
+    "widow-jane-decadence-2025.html",
+    "wild-turkey-101-8-year-old-bourbon.html",
+    "wild-turkey-austin-nichols-archives-gold-foil-edition.html",
+    "wild-turkey-bourbon-81-proof.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1300,36 +1303,41 @@
     "whistlepig-the-boss-hog-2014-the-spirit-of-mortimer.html",
     "whistlepig-the-boss-hog-xiii-the-golden-pharaoh.html",
     "widow-jane-aged-10-years-batch-224.html",
-    "widow-jane-decadence-2025.html"
+    "widow-jane-decadence-2025.html",
+    "wild-turkey-101-8-year-old-bourbon.html",
+    "wild-turkey-101-bourbon.html",
+    "wild-turkey-101-rye.html",
+    "wild-turkey-austin-nichols-archives-gold-foil-edition.html",
+    "wild-turkey-bourbon-81-proof.html"
   ],
   "validation": {
-    "decoded_images": 543,
+    "decoded_images": 546,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 543
+    "checkpoint_decoded_images": 9,
+    "verified_embedded_articles": 546
   },
-  "remaining_articles": 75,
-  "updated_at": "2026-10-13T04:43:32.762Z",
+  "remaining_articles": 70,
+  "updated_at": "2026-10-13T04:45:33.014Z",
   "last_checkpoint_articles": [
-    "whistlepig-snout-to-tail-bourbon-aged-10-years.html",
-    "whistlepig-the-boss-hog-2014-the-spirit-of-mortimer.html",
-    "whistlepig-the-boss-hog-xiii-the-golden-pharaoh.html",
-    "widow-jane-aged-10-years-batch-224.html",
-    "widow-jane-decadence-2025.html"
+    "wild-turkey-101-8-year-old-bourbon.html",
+    "wild-turkey-101-bourbon.html",
+    "wild-turkey-101-rye.html",
+    "wild-turkey-austin-nichols-archives-gold-foil-edition.html",
+    "wild-turkey-bourbon-81-proof.html"
   ],
-  "last_parent_commit": "3ef744724d2a931148a190148b921cb267d8a6c4",
+  "last_parent_commit": "ee065471fcb943eb9492d0371338d2baaa52cf62",
   "last_checkpoint_results": [
     {
-      "article": "whistlepig-snout-to-tail-bourbon-aged-10-years.html",
+      "article": "wild-turkey-101-8-year-old-bourbon.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://breakingbourbon.com/review/whistlepig-snout-to-tail-bourbon-aged-10-years",
-      "verification_scope": "January 2025 (Ongoing); proof 88.0 as reviewed. Any single barrel, vintage or batch identified by the source remains specific to that sample.",
-      "verified_source": "assets/bottles/whistlepig-snout-to-tail-bourbon-aged-10-years.webp",
-      "source_sha256": "a0c20b2e5b121899cfb1f4dd660184be34e8845853bdf5e1cd7f09cf03c92ed7",
+      "source_url": "https://breakingbourbon.com/review/wild-turkey-101-8-year-old-bourbon",
+      "verification_scope": "April 2025; proof 101.0 as reviewed. Any single barrel, vintage or batch identified by the source remains specific to that sample.",
+      "verified_source": "assets/bottles/wild-turkey-101-8-year-old-bourbon.webp",
+      "source_sha256": "e82038de188671b5c3f66232ca11d0dabcc1e753f45c81bfe637b74b14f64684",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -1337,12 +1345,36 @@
       "existing_content_preserved": true
     },
     {
-      "article": "whistlepig-the-boss-hog-2014-the-spirit-of-mortimer.html",
+      "article": "wild-turkey-101-bourbon.html",
+      "decision": "verified_preexisting_self_contained_photo",
+      "verified_source_available": true,
+      "verified_source": "assets/bottles/wild-turkey-101-bourbon.webp",
+      "source_sha256": "ca1657b5202f2746331ab8a20cfc99c7c960eff7f16c6570dde6192409039220",
+      "existing_image_sha256": "ab3a7f1c749d89481b4a0a7f3d88021dc7a23f5e9c7aee0e13a0ac44519def5c",
+      "source_url": "https://www.wildturkeybourbon.com/products/wild-turkey-101/",
+      "decoded_images": 3,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "wild-turkey-101-rye.html",
+      "decision": "verified_preexisting_self_contained_photo",
+      "verified_source_available": true,
+      "verified_source": "assets/bottles/wild-turkey-101-rye.webp",
+      "source_sha256": "d6818e1295bf2614c9fe37902020c7b0761ac45fb4778b585fb070a784d81341",
+      "existing_image_sha256": "f8dba3a3c44303d21d2136d34cbb92db61f7ad837af0f069734a6250b8f8c39e",
+      "source_url": "https://www.wildturkeybourbon.com/products/wild-turkey-101-rye/",
+      "decoded_images": 3,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "wild-turkey-austin-nichols-archives-gold-foil-edition.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://breakingbourbon.com/review/whistlepig-the-boss-hog-2014-the-spirit-of-mortimer",
-      "verification_scope": "Exact reviewed barrel 38: photograph visibly shows 119.5 proof and handwritten 13 years. The source specification grid instead gives 13.5 years; discrepancy disclosed, no identity rewrite.",
-      "verified_source": "assets/bottles/whistlepig-the-boss-hog-2014-the-spirit-of-mortimer.webp",
-      "source_sha256": "0cfc63812660057ed81c68aea056b8bb29bf9fed32badf06414b410e97b93fd9",
+      "source_url": "https://breakingbourbon.com/review/wild-turkey-austin-nichols-archives-gold-foil-edition",
+      "verification_scope": "Original matched 2026 review photograph; Gold Foil package and 16-year identity match the 120-proof release. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
+      "verified_source": "assets/bottles/wild-turkey-austin-nichols-archives-gold-foil-edition.webp",
+      "source_sha256": "5f45b8b2d16b95457a8a0fffdbb0b492e445ad69ed10c7a1f5a69b491a99c76f",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -1350,34 +1382,12 @@
       "existing_content_preserved": true
     },
     {
-      "article": "whistlepig-the-boss-hog-xiii-the-golden-pharaoh.html",
+      "article": "wild-turkey-bourbon-81-proof.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://breakingbourbon.com/review/whistlepig-the-boss-hog-xiii-the-golden-pharaoh",
-      "verification_scope": "Original Breaking Bourbon photograph for its explicit 2026 barrel-0115, 102.6-proof Golden Pharaoh review; eleventh and twelfth editions are excluded. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
-      "verified_source": "assets/bottles/whistlepig-the-boss-hog-xiii-the-golden-pharaoh.webp",
-      "source_sha256": "5ae70a67362f337c316785ec8b99249893a2f2fa6bd8718a4b96db1680e411f8",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "widow-jane-aged-10-years-batch-224.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/widow-jane-aged-10-years-batch-224.webp",
-      "source_sha256": "de259874335d33f5f4583fd7558d787227d5ab6184d1eac048c5b2dd22e8fee1",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "widow-jane-decadence-2025.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/widow-jane-decadence-2025.webp",
-      "source_sha256": "5133135a59d4de43b1fab321ba61e20e6f63703a102e1da19e79ebca9e73bff9",
+      "source_url": "https://breakingbourbon.com/review/wild-turkey-bourbon-81-proof",
+      "verification_scope": "Ongoing; proof 81.0 as reviewed. Any single barrel, vintage or batch identified by the source remains specific to that sample.",
+      "verified_source": "assets/bottles/wild-turkey-bourbon-81-proof.webp",
+      "source_sha256": "7c2f0141c4c9fbf9d3d56fbcbd79e0128ae12366d3d5c28d43c5c6c10d1fe6c5",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -1483,7 +1493,9 @@
     "rock-hill-farms.html",
     "weller-millennium-2025.html",
     "weller-single-barrel.html",
-    "weller-special-reserve.html"
+    "weller-special-reserve.html",
+    "wild-turkey-101-bourbon.html",
+    "wild-turkey-101-rye.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
