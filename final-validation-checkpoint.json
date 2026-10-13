@@ -158,7 +158,7 @@
     {
       "checkpoint": 2,
       "parent_commit": "47ab843cfdf93ab59e1064968e1604024c4a081f",
-      "accepted_commit": null,
+      "accepted_commit": "67d94196ed5c38464a1e5a6222e538df150fa471",
       "reason": "Repair required image URLs that still point to nonexistent local files.",
       "changes": [
         {
@@ -229,12 +229,87 @@
       ],
       "focused_validation_passed": true,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    },
+    {
+      "checkpoint": 3,
+      "parent_commit": "67d94196ed5c38464a1e5a6222e538df150fa471",
+      "accepted_commit": null,
+      "reason": "Repair required image URLs that still point to nonexistent local files.",
+      "changes": [
+        {
+          "file": "prohibition-silver-wedding-2025.html",
+          "before_sha256": "7f0bf7f2fb9130631c2218b78d68fb32e592d4815a08f33160b6ae595fa4afe8",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-silver-wedding-2025.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "7891ccfea9fb2e178694dad762c3c8e37b80ac379d9a39da3fb4666194262066",
+          "source_credit_url": "https://www.buffalotracedistillery.com/our-brands/prohibition-collection-2/",
+          "width": 257,
+          "height": 640,
+          "decoded_image_verified": true,
+          "after_sha256": "696270aa3d720a56d0a5de15dfd8a80e844e7dd0841272e2ff23189be713c208"
+        },
+        {
+          "file": "prohibition-spiritus-frumenti-2023.html",
+          "before_sha256": "861e68f6fca838bb843667735e135b718c6a82598baa4245da901a62f8435237",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-spiritus-frumenti-2023.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "f3dc338e8a7eeac98a6944d21fcd7518875123367062aa43f91f52beef390ef6",
+          "source_credit_url": "https://www.buffalotracedistillery.com/our-brands/prohibition-collection-1/",
+          "width": 350,
+          "height": 500,
+          "decoded_image_verified": true,
+          "after_sha256": "87c306159bdcb0a17590379915a507a901cb3fd499855d82e5a74d4725f08db3"
+        },
+        {
+          "file": "prohibition-three-feathers-2023.html",
+          "before_sha256": "2a2f4a5852a822dbe849673d505857fb08d5cc933aa2a55a08c0f1183a2dc9a3",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-three-feathers-2023.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "825978296e8064cec0835c1b2abfcaff9f4d24fe9268955efc5a689fe5d92055",
+          "source_credit_url": "https://www.buffalotracedistillery.com/our-brands/prohibition-collection-1/",
+          "width": 350,
+          "height": 503,
+          "decoded_image_verified": true,
+          "after_sha256": "d49a22219c78fbd5538d7c3b237c0493e07ca26dfd13e12ea38bb7f46d62f17c"
+        },
+        {
+          "file": "prohibition-very-oldest-procurable-2025.html",
+          "before_sha256": "6acfe1d5e18bf1afab73333f20725fac74c442f2c15e80178c2ceb2e9a3e6f51",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-very-oldest-procurable-2025.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "15921a87ecbc945fd2e5ee288cadd01c71d193c897bf0877145a9d4806f56e6c",
+          "source_credit_url": "https://www.buffalotracedistillery.com/our-brands/prohibition-collection-2/",
+          "width": 247,
+          "height": 640,
+          "decoded_image_verified": true,
+          "after_sha256": "f787277b8493a9b39d35d597aa06b7cf7055aff17dc98377d8b26c56530cd166"
+        },
+        {
+          "file": "prohibition-walnut-hill-2023.html",
+          "before_sha256": "e508a1cbbac91282ed5e5e6db1025185b74f11e8684f22489e3dd17d02a53e41",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-walnut-hill-2023.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "5ead303996e0b704bd1fc4e09e2087f8dab04cb8ac556b0957d7eec21b419bfd",
+          "source_credit_url": "https://www.buffalotracedistillery.com/our-brands/prohibition-collection-1/",
+          "width": 350,
+          "height": 504,
+          "decoded_image_verified": true,
+          "after_sha256": "2ecf77540f8291048097b8e5c6b9eac4cb751be26d30b7ea2e0be3e3a1543dcb"
+        }
+      ],
+      "focused_validation_passed": true,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 2,
-  "last_parent_commit": "47ab843cfdf93ab59e1064968e1604024c4a081f",
-  "updated_at": "2026-10-13T18:46:41.605Z"
+  "repair_checkpoint": 3,
+  "last_parent_commit": "67d94196ed5c38464a1e5a6222e538df150fa471",
+  "updated_at": "2026-10-13T18:54:42.272Z"
 }
