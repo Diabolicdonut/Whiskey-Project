@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 150,
+  "checkpoint": 151,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -531,7 +531,11 @@
     "whistlepig-beyond-bonded-bourbon-2021.html",
     "whistlepig-beyond-bonded-bourbon-2023.html",
     "whistlepig-bigshebang-30-2025-barrel-002.html",
-    "whistlepig-boss-hog-ix-2022-barrel31.html"
+    "whistlepig-boss-hog-ix-2022-barrel31.html",
+    "whistlepig-boss-hog-vii-2020-1078.html",
+    "whistlepig-boss-hog-viii-2021-1048.html",
+    "whistlepig-boss-hog-x-commandments-reviewed.html",
+    "whistlepig-boss-hog-xi-2024-barrel1.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1263,31 +1267,36 @@
     "whistlepig-boss-hog-iii-2016-1206.html",
     "whistlepig-boss-hog-iv-2017-1192.html",
     "whistlepig-boss-hog-ix-2022-barrel31.html",
-    "whistlepig-boss-hog-v-2018-1176.html"
+    "whistlepig-boss-hog-v-2018-1176.html",
+    "whistlepig-boss-hog-vi-2019-122.html",
+    "whistlepig-boss-hog-vii-2020-1078.html",
+    "whistlepig-boss-hog-viii-2021-1048.html",
+    "whistlepig-boss-hog-x-commandments-reviewed.html",
+    "whistlepig-boss-hog-xi-2024-barrel1.html"
   ],
   "validation": {
-    "decoded_images": 526,
+    "decoded_images": 530,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 1,
-    "verified_embedded_articles": 526
+    "checkpoint_decoded_images": 4,
+    "verified_embedded_articles": 530
   },
-  "remaining_articles": 95,
-  "updated_at": "2026-10-13T04:42:10.853Z",
+  "remaining_articles": 90,
+  "updated_at": "2026-10-13T04:42:19.640Z",
   "last_checkpoint_articles": [
-    "whistlepig-boss-hog-i-2013-reviewed.html",
-    "whistlepig-boss-hog-iii-2016-1206.html",
-    "whistlepig-boss-hog-iv-2017-1192.html",
-    "whistlepig-boss-hog-ix-2022-barrel31.html",
-    "whistlepig-boss-hog-v-2018-1176.html"
+    "whistlepig-boss-hog-vi-2019-122.html",
+    "whistlepig-boss-hog-vii-2020-1078.html",
+    "whistlepig-boss-hog-viii-2021-1048.html",
+    "whistlepig-boss-hog-x-commandments-reviewed.html",
+    "whistlepig-boss-hog-xi-2024-barrel1.html"
   ],
-  "last_parent_commit": "3e2315d62da92e0f66bb9c0abd7ea6e99186b07a",
+  "last_parent_commit": "164ec1afa04ca22f325ad7eea69e0197ae645ec9",
   "last_checkpoint_results": [
     {
-      "article": "whistlepig-boss-hog-i-2013-reviewed.html",
+      "article": "whistlepig-boss-hog-vi-2019-122.html",
       "decision": "inspected_no_exact_verified_image",
       "reason": "Article does not identify an already-verified exact bottle image.",
       "decoded_images": 0,
@@ -1295,39 +1304,54 @@
       "existing_content_preserved": true
     },
     {
-      "article": "whistlepig-boss-hog-iii-2016-1206.html",
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "Article does not identify an already-verified exact bottle image.",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "whistlepig-boss-hog-iv-2017-1192.html",
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "Article does not identify an already-verified exact bottle image.",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "whistlepig-boss-hog-ix-2022-barrel31.html",
+      "article": "whistlepig-boss-hog-vii-2020-1078.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://www.districtdrams.com/americanwhiskeyreviews/boss-hog-ix-sirens-song-review",
-      "verification_scope": "District Drams’ original reviewed-bottle photograph; bottle and box identify barrel 31 and 103.4 proof. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
-      "verified_source": "assets/bottles/whistlepig-boss-hog-ix-2022-barrel31.webp",
-      "source_sha256": "743169f0b92f92362787271bc47e448b655b31cc07cef7d2068de3cd98bf3085",
-      "width": 963,
+      "source_url": "https://www.districtdrams.com/americanwhiskeyreviews/boss-hog-highlights-whistlepig-boss-hog-vii-amp-boss-hog-viii-reviews",
+      "verification_scope": "LEFT bottle in District Drams’ own paired review photograph: Boss Hog VII, 107.8 proof / 53.9% ABV, barrel 26. The right bottle is the separately reviewed eighth edition and supplies no sensory vote for this dossier. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
+      "verified_source": "assets/bottles/whistlepig-boss-hog-vii-2020-1078.webp",
+      "source_sha256": "20b50aa86e63b1e10586904ab9d04216e3f715c822904b529b3f64a85259bc8e",
+      "width": 1004,
       "height": 1200,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "whistlepig-boss-hog-v-2018-1176.html",
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "Article does not identify an already-verified exact bottle image.",
-      "decoded_images": 0,
+      "article": "whistlepig-boss-hog-viii-2021-1048.html",
+      "decision": "embedded_verified_exact_slug_photo",
+      "source_url": "https://www.districtdrams.com/americanwhiskeyreviews/boss-hog-highlights-whistlepig-boss-hog-vii-amp-boss-hog-viii-reviews",
+      "verification_scope": "RIGHT bottle in District Drams’ original paired photograph, inspected at its 1500w source resolution: Boss Hog VIII, 104.8 proof / 52.4% ABV. The left seventh edition is contextual only. Seventeen years is reported by the review, not a bottle age statement. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
+      "verified_source": "assets/bottles/whistlepig-boss-hog-viii-2021-1048.webp",
+      "source_sha256": "20b50aa86e63b1e10586904ab9d04216e3f715c822904b529b3f64a85259bc8e",
+      "width": 1004,
+      "height": 1200,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "whistlepig-boss-hog-x-commandments-reviewed.html",
+      "decision": "embedded_verified_exact_slug_photo",
+      "source_url": "https://www.thewhiskeyshelf.com/whistlepig-the-boss-hog-x-review/",
+      "verification_scope": "The Whiskey Shelf’s original bottle photograph in its 106.4-proof Commandments review; tenth-edition mead/aromatic-cask labels match that sample context. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
+      "verified_source": "assets/bottles/whistlepig-boss-hog-x-commandments-reviewed.webp",
+      "source_sha256": "1a205293ab0562bd98049ac004d72d1dfd6cd4fc0b63bf4197a9f489c50a6474",
+      "width": 1200,
+      "height": 741,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "whistlepig-boss-hog-xi-2024-barrel1.html",
+      "decision": "embedded_verified_exact_slug_photo",
+      "source_url": "https://vinepair.com/review/whistlepig-boss-hog-xi-the-juggernaut/",
+      "verification_scope": "Original VinePair photograph associated with its explicit barrel-1, 103.8-proof Juggernaut sample; 2024 eleventh-edition package matches. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
+      "verified_source": "assets/bottles/whistlepig-boss-hog-xi-2024-barrel1.webp",
+      "source_sha256": "ebbddfd12aff910ac0f6c25c4b102cdf6ae582a14fabcbc829d5343fb2324bc8",
+      "width": 1200,
+      "height": 627,
+      "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -1490,7 +1514,8 @@
     "whistlepig-boss-hog-i-2013-reviewed.html",
     "whistlepig-boss-hog-iii-2016-1206.html",
     "whistlepig-boss-hog-iv-2017-1192.html",
-    "whistlepig-boss-hog-v-2018-1176.html"
+    "whistlepig-boss-hog-v-2018-1176.html",
+    "whistlepig-boss-hog-vi-2019-122.html"
   ],
   "classification_corrections": [
     {
