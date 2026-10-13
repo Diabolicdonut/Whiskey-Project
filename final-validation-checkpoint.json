@@ -370,7 +370,7 @@
     {
       "checkpoint": 5,
       "parent_commit": "2cc9c8bd16e60678cb9546127f6ec0fd180c0efa",
-      "accepted_commit": null,
+      "accepted_commit": "34f68c8c6131b0089d7a33c7f7e3989b0af68e4f",
       "reason": "Existing dossier research/reference links target files absent from the accepted repository.",
       "changes": [
         {
@@ -421,12 +421,40 @@
       ],
       "focused_validation_passed": true,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    },
+    {
+      "checkpoint": 6,
+      "parent_commit": "34f68c8c6131b0089d7a33c7f7e3989b0af68e4f",
+      "accepted_commit": null,
+      "reason": "Existing landing-page and dossier reference links target absent v6.7 reference files.",
+      "changes": [
+        {
+          "file": "family-catalog-v6.7.md",
+          "change": "Restore the missing navigation target from its previously saved project reference, with the complete original text and source byte length preserved.",
+          "source_filename": "family-catalog-v6.7.md",
+          "size_bytes": 3258,
+          "before": "absent",
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "94539e2abd00186fa26c1b979deb1a33944492a5"
+        },
+        {
+          "file": "remaining-na-v6.7.md",
+          "change": "Restore the missing navigation target from its previously saved project reference, with the complete original text and source byte length preserved.",
+          "source_filename": "remaining-na-v6.7.md",
+          "size_bytes": 38837,
+          "before": "absent",
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "8cc8a9ce7e082fa67f63ebe6304d87009162145b"
+        }
+      ],
+      "focused_validation_passed": true,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 5,
-  "last_parent_commit": "2cc9c8bd16e60678cb9546127f6ec0fd180c0efa",
-  "updated_at": "2026-10-13T20:18:35.839Z"
+  "repair_checkpoint": 6,
+  "last_parent_commit": "34f68c8c6131b0089d7a33c7f7e3989b0af68e4f",
+  "updated_at": "2026-10-13T20:18:51.041Z"
 }
