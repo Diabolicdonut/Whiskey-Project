@@ -9,21 +9,6 @@ concurrency:
   group: old-oak-completion-validation
   cancel-in-progress: true
 jobs:
-  recover-reference-data:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - name: Prepare missing reference targets as Git blobs only
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: python scripts/completion_validate.py recover
   validate:
     runs-on: ubuntu-latest
     steps:

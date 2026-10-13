@@ -98,7 +98,7 @@ async function responsive(context,BASE,files,width,height){
       try{
         const response=await page.goto(BASE+filename,{waitUntil:'load',timeout:45000});
         if(response.status()!==200)throw Error('HTTP '+response.status());
-        await page.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(async im=>{im.scrollIntoView();await Promise.race([im.decode().catch(()=>{}),new Promise(resolve=>setTimeout(resolve,10000))]);}))); await page.evaluate(()=>scrollTo(0,0));
+        await page.locator('img').evaluateAll(async imgs=>{for(const im of imgs){im.scrollIntoView();await Promise.race([im.decode().catch(()=>{}),new Promise(resolve=>setTimeout(resolve,10000))]);}}); await page.evaluate(()=>scrollTo(0,0));
         const state=await page.evaluate(()=>({
           width:innerWidth,documentWidth:document.documentElement.scrollWidth,
           main:!!document.querySelector('main'),title:document.title,

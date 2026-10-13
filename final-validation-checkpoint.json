@@ -612,7 +612,7 @@
     {
       "checkpoint": 11,
       "parent_commit": "ae41696ecbcff614447bf22c11672a89ecb430f2",
-      "accepted_commit": null,
+      "accepted_commit": "cc77b30edd5cb9b418ebeaa1163b2cf144585283",
       "reason": "Canonical and other dossiers intentionally lazy-load secondary images; the browser check must trigger that existing behavior rather than wait indefinitely.",
       "changes": [
         {
@@ -626,12 +626,37 @@
       "focused_validation_passed": false,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
       "focused_validation_status": "JavaScript syntax checked; Chromium validation pending CI"
+    },
+    {
+      "checkpoint": 12,
+      "parent_commit": "cc77b30edd5cb9b418ebeaa1163b2cf144585283",
+      "accepted_commit": null,
+      "reason": "Complete the browser harness for intentional lazy images and retire the one-time recovery job after all reference targets are restored.",
+      "changes": [
+        {
+          "file": "scripts/completion_runtime.cjs",
+          "change": "Decode lazy images sequentially after scrolling each into view, so concurrent scrolling cannot hide an image before Chromium starts its existing lazy load. Only the validation harness changes.",
+          "javascript_syntax_validated": true,
+          "website_bytes_changed": false,
+          "after_git_blob_sha": "0174a16b21d370a4282476282234194c28394b45"
+        },
+        {
+          "file": ".github/workflows/completion-validation.yml",
+          "change": "Retire the completed reference-blob recovery job; ongoing completion validation uses read-only repository permissions.",
+          "all_missing_reference_targets_already_restored": true,
+          "website_bytes_changed": false,
+          "after_git_blob_sha": "eee8f0288a74ff93dfae33384bbb1fa3e68e628c"
+        }
+      ],
+      "focused_validation_passed": false,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "focused_validation_status": "JavaScript syntax checked; final read-only CI run pending"
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 11,
-  "last_parent_commit": "ae41696ecbcff614447bf22c11672a89ecb430f2",
-  "updated_at": "2026-10-13T20:31:45.908Z"
+  "repair_checkpoint": 12,
+  "last_parent_commit": "cc77b30edd5cb9b418ebeaa1163b2cf144585283",
+  "updated_at": "2026-10-13T20:32:31.662Z"
 }
