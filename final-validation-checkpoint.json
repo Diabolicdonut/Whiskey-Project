@@ -1,0 +1,165 @@
+{
+  "schema": "old-oak-final-validation-v1",
+  "phase": "repository_completion_and_validation",
+  "status": "in_progress",
+  "baseline_commit": "e3776f7db3e79ed4ae62a741d603ab41441152db",
+  "image_embedding_baseline": {
+    "checkpoint": 169,
+    "commit": "e3776f7db3e79ed4ae62a741d603ab41441152db",
+    "status": "complete",
+    "dossiers_inspected": 825,
+    "verified_images_embedded": 597,
+    "remaining_articles": 0,
+    "all_dossiers_inspected": true,
+    "ledger_preserved": true
+  },
+  "standalone_image_assets_absent": true,
+  "repairs": [
+    {
+      "checkpoint": 1,
+      "parent_commit": "e3776f7db3e79ed4ae62a741d603ab41441152db",
+      "accepted_commit": null,
+      "reason": "Repair malformed existing HTML nesting and void-element end tags.",
+      "changes": [
+        {
+          "file": "benchmark-old-no-8.html",
+          "before_sha256": "3d03ae75660f54a6d592bca2e57bc38d94745f0688a39e7fe33cdce88f80ce3c",
+          "change": "Remove two invalid closing meta tags; meta is an HTML void element.",
+          "removed_tokens": [
+            "</meta>",
+            "</meta>"
+          ],
+          "structural_errors_before": [
+            {
+              "code": "unexpected-end-tag",
+              "details": {
+                "name": "meta"
+              }
+            },
+            {
+              "code": "unexpected-end-tag",
+              "details": {
+                "name": "meta"
+              }
+            }
+          ],
+          "structural_errors_after": [],
+          "after_sha256": "ba3358896192397ace1069de7692ca84bf7a9c71fe8633a965b86b08fe357a97"
+        },
+        {
+          "file": "blaum-bros-straight-bourbon-2019-2020.html",
+          "before_sha256": "054732a366fc459d236b565bedcc34d33708848e94ea3ff8339da56c072f6990",
+          "change": "Remove two invalid closing meta tags; meta is an HTML void element.",
+          "removed_tokens": [
+            "</meta>",
+            "</meta>"
+          ],
+          "structural_errors_before": [
+            {
+              "code": "unexpected-end-tag",
+              "details": {
+                "name": "meta"
+              }
+            },
+            {
+              "code": "unexpected-end-tag",
+              "details": {
+                "name": "meta"
+              }
+            }
+          ],
+          "structural_errors_after": [],
+          "after_sha256": "7d79808ec10136390f636e187d0eb5464241758f42fdc1f8f5bcd03d184f7402"
+        },
+        {
+          "file": "bookers-rye-2016.html",
+          "before_sha256": "7c37e83c518f16c88e048ce1050361290aba9e7b58913330fd1ee39905b61f22",
+          "change": "Remove two invalid closing meta tags; meta is an HTML void element.",
+          "removed_tokens": [
+            "</meta>",
+            "</meta>"
+          ],
+          "structural_errors_before": [
+            {
+              "code": "unexpected-end-tag",
+              "details": {
+                "name": "meta"
+              }
+            },
+            {
+              "code": "unexpected-end-tag",
+              "details": {
+                "name": "meta"
+              }
+            }
+          ],
+          "structural_errors_after": [],
+          "after_sha256": "b14461493a16871ac126f37e3cba68843c10ae3cec76732e5f0ed8d7079de311"
+        },
+        {
+          "file": "buffalo-trace-bourbon.html",
+          "before_sha256": "c8dc37af5e9651fb0e225072a65cc233243310b38dc198fd8e0bcb963031c08e",
+          "change": "Remove two invalid closing meta tags; meta is an HTML void element.",
+          "removed_tokens": [
+            "</meta>",
+            "</meta>"
+          ],
+          "structural_errors_before": [
+            {
+              "code": "unexpected-end-tag",
+              "details": {
+                "name": "meta"
+              }
+            },
+            {
+              "code": "unexpected-end-tag",
+              "details": {
+                "name": "meta"
+              }
+            }
+          ],
+          "structural_errors_after": [],
+          "after_sha256": "506bd7cc4d72ea6e8176323250815dc1e02c3871829ff59ff1aafd857bb462e4"
+        },
+        {
+          "file": "old-grand-dad-114.html",
+          "before_sha256": "157a5892f0c234a87cc1da6a525d941477f34f5b5819578408b6dc11e94d1e62",
+          "change": "Remove one premature closing div from the consensus-score sidebar card; subsequent score bars and the sidebar/grid closing tags now nest correctly.",
+          "removed_tokens": [
+            "</div>"
+          ],
+          "structural_errors_before": [
+            {
+              "code": "end-tag-too-early",
+              "details": {
+                "name": "div"
+              }
+            },
+            {
+              "code": "end-tag-too-early",
+              "details": {
+                "name": "aside"
+              }
+            },
+            {
+              "code": "end-tag-too-early",
+              "details": {
+                "name": "div"
+              }
+            }
+          ],
+          "structural_errors_after": [],
+          "after_sha256": "08946acc1fe487e81245234b742852d9a0dfeca40ac30757847642e153f8fb45"
+        }
+      ],
+      "focused_validation_passed": true,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    }
+  ],
+  "validation": {
+    "status": "pending_full_repository_acceptance"
+  },
+  "repair_checkpoint": 1,
+  "last_parent_commit": "e3776f7db3e79ed4ae62a741d603ab41441152db",
+  "updated_at": "2026-10-13T18:29:39.749Z"
+}
