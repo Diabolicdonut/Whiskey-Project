@@ -425,7 +425,7 @@
     {
       "checkpoint": 6,
       "parent_commit": "34f68c8c6131b0089d7a33c7f7e3989b0af68e4f",
-      "accepted_commit": null,
+      "accepted_commit": "ed7f314bec177bf6ad3f2c1995adb67d29b853ca",
       "reason": "Existing landing-page and dossier reference links target absent v6.7 reference files.",
       "changes": [
         {
@@ -449,12 +449,46 @@
       ],
       "focused_validation_passed": true,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    },
+    {
+      "checkpoint": 7,
+      "parent_commit": "ed7f314bec177bf6ad3f2c1995adb67d29b853ca",
+      "accepted_commit": null,
+      "reason": "Rounded Overall values caused two neighboring expressions to sort in the wrong order.",
+      "changes": [
+        {
+          "file": "index.html",
+          "change": "Use the unrounded square root of the accepted Quality and Value inputs only as the Overall sort key, as promised by the existing landing-page tooltip. Stored scores, one-decimal score displays, every row, projection JSON, prose, prices, styles, IDs, links, and metadata remain byte-for-byte unchanged.",
+          "before_git_blob_sha": "8a340fbbd438aebc5e66137b6e82f8b7516ecc07",
+          "sort_defect_before": [
+            {
+              "position": 195,
+              "stored": "high-west-cask-strength-bourbon-2026-catalogue.html",
+              "unrounded": "makers-mark-wfs-fae-01-2021.html",
+              "storedScore": "6.85",
+              "exactScore": 6.845436436049932
+            },
+            {
+              "position": 196,
+              "stored": "makers-mark-wfs-fae-01-2021.html",
+              "unrounded": "high-west-cask-strength-bourbon-2026-catalogue.html",
+              "storedScore": "6.848357467305573",
+              "exactScore": 6.848357467305573
+            }
+          ],
+          "focused_sort_cases": 16,
+          "all_825_rows_tested_in_both_sort_directions": true,
+          "after_git_blob_sha": "947fd270c62408da0d02486ea261cf0aa3ddd7a1"
+        }
+      ],
+      "focused_validation_passed": true,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 6,
-  "last_parent_commit": "34f68c8c6131b0089d7a33c7f7e3989b0af68e4f",
-  "updated_at": "2026-10-13T20:18:51.041Z"
+  "repair_checkpoint": 7,
+  "last_parent_commit": "ed7f314bec177bf6ad3f2c1995adb67d29b853ca",
+  "updated_at": "2026-10-13T20:23:55.672Z"
 }
