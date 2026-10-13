@@ -487,7 +487,7 @@
     {
       "checkpoint": 8,
       "parent_commit": "200b209cc5d0d066dca4fa3dfd22b5ec12008baf",
-      "accepted_commit": null,
+      "accepted_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
       "reason": "The local execution and browser environments are offline; GitHub remains available for reproducible repository validation.",
       "changes": [
         {
@@ -513,12 +513,77 @@
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
       "focused_validation_status": "JavaScript syntax checked; full static and browser checks pending GitHub CI",
       "environment_limitation": "Local execution and browser environment disconnected (environment_offline)."
+    },
+    {
+      "checkpoint": 9,
+      "parent_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
+      "accepted_commit": null,
+      "reason": "Existing metadata download and calibration links have missing targets; reconstruct them from current accepted metadata.",
+      "changes": [
+        {
+          "file": "whiskey-data.json",
+          "change": "Restore the missing download target using current accepted dossier metadata, without importing stale archive metadata or changing any existing dossier.",
+          "before": "absent",
+          "source_content_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
+          "after_sha256": "27ffeb4555cbd9be88105fd0369219f8816a3e0b68179066ecba76b709437554",
+          "size_bytes": 8975591,
+          "all_825_metadata_records_verified": true,
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "078bf6a16f1d98e6daf8db79def010fd4c4a4a48"
+        },
+        {
+          "file": "whiskey-data.csv",
+          "change": "Restore the missing download target using current accepted dossier metadata, without importing stale archive metadata or changing any existing dossier.",
+          "before": "absent",
+          "source_content_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
+          "after_sha256": "3dcb4de803bc79135ddbd787afe4ae14821a82275196004419eaf72507ffcfb7",
+          "size_bytes": 518908,
+          "all_825_metadata_records_verified": true,
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "222adaf4b4266dc173a388b256563f18f643a43e"
+        },
+        {
+          "file": "score-audit.json",
+          "change": "Restore the missing download target using current accepted dossier metadata, without importing stale archive metadata or changing any existing dossier.",
+          "before": "absent",
+          "source_content_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
+          "after_sha256": "f15a4d4016bfd342b6a7daab4e0c6758da4d803f17adcef61c60027ea8abda17",
+          "size_bytes": 1542623,
+          "all_825_metadata_records_verified": true,
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "0fcc8804b53710d7c3c2abf81d1462d1520ca389"
+        },
+        {
+          "file": "value-review-audit.json",
+          "change": "Restore the missing download target using current accepted dossier metadata, without importing stale archive metadata or changing any existing dossier.",
+          "before": "absent",
+          "source_content_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
+          "after_sha256": "cb46b38ef6e2c7aef296c440abee0c29a7cd3fe381284582f9552d73e8b72588",
+          "size_bytes": 4265173,
+          "all_825_metadata_records_verified": true,
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "327a832f6db14b3df0892c1ce4d01869beb41bde"
+        },
+        {
+          "file": "quality-anchor-ledger.md",
+          "change": "Restore the missing reference target as a clearly labeled snapshot of the anchor statuses and references already recorded in current dossiers; no endpoints or grades are invented.",
+          "before": "absent",
+          "source_content_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
+          "after_sha256": "a8430c5278e1b3070daf8b567f0a35b922c1901052bc572410fc315256760967",
+          "size_bytes": 5507,
+          "all_825_metadata_records_verified": false,
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "07d094b5098eb15d2d4d779da49d46b35a020434"
+        }
+      ],
+      "focused_validation_passed": true,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 8,
-  "last_parent_commit": "200b209cc5d0d066dca4fa3dfd22b5ec12008baf",
-  "updated_at": "2026-10-13T20:28:46.056Z"
+  "repair_checkpoint": 9,
+  "last_parent_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
+  "updated_at": "2026-10-13T20:29:59.942Z"
 }
