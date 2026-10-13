@@ -453,7 +453,7 @@
     {
       "checkpoint": 7,
       "parent_commit": "ed7f314bec177bf6ad3f2c1995adb67d29b853ca",
-      "accepted_commit": null,
+      "accepted_commit": "200b209cc5d0d066dca4fa3dfd22b5ec12008baf",
       "reason": "Rounded Overall values caused two neighboring expressions to sort in the wrong order.",
       "changes": [
         {
@@ -483,12 +483,42 @@
       ],
       "focused_validation_passed": true,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    },
+    {
+      "checkpoint": 8,
+      "parent_commit": "200b209cc5d0d066dca4fa3dfd22b5ec12008baf",
+      "accepted_commit": null,
+      "reason": "The local execution and browser environments are offline; GitHub remains available for reproducible repository validation.",
+      "changes": [
+        {
+          "file": ".github/workflows/completion-validation.yml",
+          "change": "Run the authorized final static, runtime and responsive checks in GitHub CI because the local execution/browser environment is offline. The recovery job only uploads immutable blobs; it never moves a branch or changes dossiers.",
+          "validation_environment_fallback": true,
+          "after_git_blob_sha": "a4ed766c21b71eecb10baf53794513e74ed0ec5c"
+        },
+        {
+          "file": "scripts/completion_validate.py",
+          "change": "Add reproducible checks for all 826 HTML files, embedded-image decoding, local references, index/dossier parity and byte-level preservation. Prepare only absent metadata/reference download targets from current accepted dossier metadata.",
+          "dossier_or_score_edits": false,
+          "after_git_blob_sha": "3eb451d9e3f01ef195b31ddcbb0beb0caefcc7fd"
+        },
+        {
+          "file": "scripts/completion_runtime.cjs",
+          "change": "Exercise all sortable columns and filter options, canonical score display and navigation, and render all 826 pages at mobile, tablet and desktop widths with Chromium; collect image/network/console errors.",
+          "dossier_or_score_edits": false,
+          "after_git_blob_sha": "8c4daa9024d0545b310be5187db2f545f8a76b9c"
+        }
+      ],
+      "focused_validation_passed": false,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "focused_validation_status": "JavaScript syntax checked; full static and browser checks pending GitHub CI",
+      "environment_limitation": "Local execution and browser environment disconnected (environment_offline)."
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 7,
-  "last_parent_commit": "ed7f314bec177bf6ad3f2c1995adb67d29b853ca",
-  "updated_at": "2026-10-13T20:23:55.672Z"
+  "repair_checkpoint": 8,
+  "last_parent_commit": "200b209cc5d0d066dca4fa3dfd22b5ec12008baf",
+  "updated_at": "2026-10-13T20:28:46.056Z"
 }
