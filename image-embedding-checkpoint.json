@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 167,
+  "checkpoint": 168,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -1416,7 +1416,12 @@
     "woodford-reserve-double-double-oaked-2025.html",
     "woodford-reserve-double-oaked-single-barrel-98.html",
     "woodford-reserve-double-oaked.html",
-    "woodford-reserve-double-xo-2025.html"
+    "woodford-reserve-double-xo-2025.html",
+    "woodford-reserve-malt.html",
+    "woodford-reserve-personal-selection-110.html",
+    "woodford-reserve-personal-selection.html",
+    "woodford-reserve-rye.html",
+    "woodford-reserve-toasted-oak-four-grain.html"
   ],
   "validation": {
     "decoded_images": 594,
@@ -1425,87 +1430,85 @@
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 12,
+    "checkpoint_decoded_images": 10,
     "verified_embedded_articles": 594
   },
-  "remaining_articles": 10,
-  "updated_at": "2026-10-13T15:44:08.609Z",
+  "remaining_articles": 5,
+  "updated_at": "2026-10-13T15:46:11.763Z",
   "last_checkpoint_articles": [
-    "woodford-reserve-derby-150-baccarat-2024.html",
-    "woodford-reserve-double-double-oaked-2025.html",
-    "woodford-reserve-double-oaked-single-barrel-98.html",
-    "woodford-reserve-double-oaked.html",
-    "woodford-reserve-double-xo-2025.html"
+    "woodford-reserve-malt.html",
+    "woodford-reserve-personal-selection-110.html",
+    "woodford-reserve-personal-selection.html",
+    "woodford-reserve-rye.html",
+    "woodford-reserve-toasted-oak-four-grain.html"
   ],
-  "last_parent_commit": "8a26275af5da30b996cb0919d013ae249ed9d2b0",
+  "last_parent_commit": "cb4f82f4ffd6161a44d8ef24276d61095f602824",
   "last_checkpoint_results": [
     {
-      "article": "woodford-reserve-derby-150-baccarat-2024.html",
+      "article": "woodford-reserve-malt.html",
       "decision": "verified_preexisting_self_contained_photo",
-      "reason": "The existing self-contained producer photograph visibly names Kentucky Derby 150 Baccarat Edition and shows its distinctive red stopper and commemorative decanter. The producer source identifies this commemorative 2024 expression, distinct from standard Baccarat Edition. Existing HTML and image bytes remain unchanged.",
+      "reason": "The existing self-contained producer photograph visibly names Kentucky Straight Malt Whiskey and specifies 45.2% ABV / 90.4 proof. It matches the current core malt expression, not either 2013 Master’s Collection malt release. Existing HTML and image bytes remain unchanged.",
       "decoded_images": 2,
-      "source_url": "https://www.woodfordreserve.com/whiskey/kentucky-derby-150-baccarat-edition/",
-      "source_sha256": "645cf013d8025da5cd2de0a736f046c5a431f7d1d40e08105e44390f3e113833",
+      "source_url": "https://www.woodfordreserve.com/whiskey/malt-whiskey/",
+      "source_sha256": "55c5e8bca92945c6bd53238332c593810f0e22780e440308776dcfec6f2d01d3",
       "width": 360,
       "height": 640,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "5b4a79480c6081d0c988a8b3ab35084a569f0af31a461d293a4b317fec66f378",
-      "resulting_html_sha256": "5b4a79480c6081d0c988a8b3ab35084a569f0af31a461d293a4b317fec66f378"
+      "original_html_sha256": "1f09a29b87a82dc289c86ab965cf9df9f5185b8b61ec0dc54f4ec229d608167f",
+      "resulting_html_sha256": "1f09a29b87a82dc289c86ab965cf9df9f5185b8b61ec0dc54f4ec229d608167f"
     },
     {
-      "article": "woodford-reserve-double-double-oaked-2025.html",
+      "article": "woodford-reserve-personal-selection-110.html",
       "decision": "verified_preexisting_self_contained_photo",
-      "reason": "The existing self-contained producer photograph visibly names Double Double Oaked and specifies 700 mL, 90.4 proof / 45.2% ABV. This matches the dossier’s 2025 national 700 mL release, not the older 375 mL distillery editions. Existing HTML and image bytes remain unchanged.",
+      "reason": "The existing self-contained producer photograph visibly names Personal Selection and specifies 110 proof on the neck and label. The producer page expressly identifies its 110-proof selection program. This verifies the named 110-proof expression only; the existing qualification that a program photograph cannot authenticate an individual private barrel is retained. Existing HTML and image bytes remain unchanged.",
       "decoded_images": 2,
-      "source_url": "https://www.woodfordreserve.com/whiskey/double-double-oaked/",
-      "source_sha256": "96be636b410f4ac0b9fa94d98102ec2cb6d9c0a86624ea8f13bbde5c32f4cfac",
-      "width": 387,
+      "source_url": "https://www.woodfordreserve.com/whiskey/personal-selection/",
+      "source_sha256": "debe473ba2a30691e9443960b5da1c6cb91eb41ca94792d3fd3857dec5984bd1",
+      "width": 360,
       "height": 640,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "93730002e24fbd04e790c0401b22016be50726db9b8d29975b111aabbedc2b58",
-      "resulting_html_sha256": "93730002e24fbd04e790c0401b22016be50726db9b8d29975b111aabbedc2b58"
+      "original_html_sha256": "39a1c335e291627bda72203c662a8042c53979b08afbd2c2c546cec2dfee1a07",
+      "resulting_html_sha256": "39a1c335e291627bda72203c662a8042c53979b08afbd2c2c546cec2dfee1a07"
     },
     {
-      "article": "woodford-reserve-double-oaked-single-barrel-98.html",
+      "article": "woodford-reserve-personal-selection.html",
       "decision": "inspected_no_exact_verified_image",
-      "reason": "The dossier identifies a distinct 98-proof single-barrel listing. Its existing producer photo is standard 90.4-proof Double Oaked; no image authenticating the 98-proof expression is available in the verified archive or identified sources. HTML remains unchanged and the standard bottle is not counted as an exact image.",
+      "reason": "This dossier identifies the classic 90.4-proof private-barrel program. Its current producer photograph and source describe the different 110-proof program. No photograph authenticating the classic 90.4-proof program is identified; the proof-mismatched image is not counted as exact, and HTML is preserved unchanged.",
       "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "5d7a6effd5efb3d138189476883b9897ecb17fa01f27020acdf0185c2e614c0f",
-      "resulting_html_sha256": "5d7a6effd5efb3d138189476883b9897ecb17fa01f27020acdf0185c2e614c0f"
+      "original_html_sha256": "807a1f376c258c5fc86412f3f3ea7f373e173286edb5fc88318916b2cfb40790",
+      "resulting_html_sha256": "807a1f376c258c5fc86412f3f3ea7f373e173286edb5fc88318916b2cfb40790"
     },
     {
-      "article": "woodford-reserve-double-oaked.html",
+      "article": "woodford-reserve-rye.html",
       "decision": "verified_preexisting_self_contained_photo",
-      "reason": "Existing self-contained bottle photographs visibly name standard Double Oaked and specify 45.2% ABV / 90.4 proof. The producer confirms that exact standard expression. No single-barrel or Double Double Oaked release is substituted. Existing HTML and image bytes remain unchanged.",
-      "decoded_images": 3,
-      "source_url": "https://www.woodfordreserve.com/whiskey/double-oaked/",
-      "source_sha256": "a725c3ff4cc99e9c65dc74661ac3b73d3f360aa4417b140ffe0c23550dc21848",
+      "reason": "The existing self-contained producer photograph visibly names Kentucky Straight Rye Whiskey and specifies 45.2% ABV / 90.4 proof. The producer confirms the exact current core rye expression, distinct from Barrel Strength Rye and distillery experiments. Existing HTML and image bytes remain unchanged.",
+      "decoded_images": 2,
+      "source_url": "https://www.woodfordreserve.com/whiskey/rye-whiskey/",
+      "source_sha256": "b64b594b04e43dee605fb0522111f09489cd6b25169cc9bc46dc69f1f8960640",
       "width": 360,
       "height": 640,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "b0ceb70438b4b8445d87d26ee3da2fe6d02691ee59ca591104f65e3b9c0f1954",
-      "resulting_html_sha256": "b0ceb70438b4b8445d87d26ee3da2fe6d02691ee59ca591104f65e3b9c0f1954"
+      "original_html_sha256": "f09536f2ef7819a542ad0453d020b286dbc0f822a3c0cfd29f44d67ad2066063",
+      "resulting_html_sha256": "f09536f2ef7819a542ad0453d020b286dbc0f822a3c0cfd29f44d67ad2066063"
     },
     {
-      "article": "woodford-reserve-double-xo-2025.html",
-      "decision": "embedded_verified_exact_expression_photo",
-      "source_url": "https://moodiedavittreport.com/brown-forman-relaunches-travel-retail-exclusive-woodford-reserve-double-xo-blend/",
-      "verification_scope": "The 17 September 2025 announcement of Brown-Forman’s reintroduced Double XO Blend supplies this exact product photograph. The visible label names Double XO Blend and describes finishing in toasted barrels and XO Cognac casks. Source context authenticates the named 2025 travel-retail relaunch; existing unknown proof metadata remains unchanged and no Double Oaked or Baccarat bottle is substituted.",
-      "verified_source": "verified-source/photos/woodford-reserve-double-xo-2025-full.jpg",
-      "source_sha256": "a846ebc656bb123cf851a996f5bf357306285a985e394e165f028c0d5333e04b",
-      "width": 363,
-      "height": 932,
-      "image_url": "https://moodiedavittreport.com/wp-content/uploads/2025/09/Woodford-Reserve-Double-XO-Blend-17.9.25.jpg",
-      "decoded_images": 3,
+      "article": "woodford-reserve-toasted-oak-four-grain.html",
+      "decision": "verified_preexisting_self_contained_photo",
+      "reason": "The existing self-contained producer photograph visibly names Toasted Oak Four Grain and specifies 90.4 proof / 45.2% ABV, with bottling date 2023. The source authenticates that named blend; no four-grain bourbon or differently named distillery release is substituted. Existing HTML and image bytes remain unchanged.",
+      "decoded_images": 2,
+      "source_url": "https://www.woodfordreserve.com/whiskey/distillery-series-toasted-oak-four-grain/",
+      "source_sha256": "eb3295a27be947561991a0e1530740bf5a881cae2df9b70edaaa175e0e5d0a4e",
+      "width": 360,
+      "height": 640,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "17d75260ca5a28baaf188a9283af287c75ee706b1ffdcc52455cc803978b5018",
-      "resulting_html_sha256": "267a369de3e3c95db2bebf0878aae9b849a56e6ed7e02dba35097268275850f8"
+      "original_html_sha256": "49e91d1150d9f83690727c887a50dae56b29cbc4a621cced6f11b7457cf4f0e3",
+      "resulting_html_sha256": "49e91d1150d9f83690727c887a50dae56b29cbc4a621cced6f11b7457cf4f0e3"
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1615,7 +1618,11 @@
     "woodford-reserve-batch-proof-119-5-2025.html",
     "woodford-reserve-derby-150-baccarat-2024.html",
     "woodford-reserve-double-double-oaked-2025.html",
-    "woodford-reserve-double-oaked.html"
+    "woodford-reserve-double-oaked.html",
+    "woodford-reserve-malt.html",
+    "woodford-reserve-personal-selection-110.html",
+    "woodford-reserve-rye.html",
+    "woodford-reserve-toasted-oak-four-grain.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
@@ -1683,7 +1690,8 @@
     "woodford-distillery-toasted-bourbon-2024.html",
     "woodford-distillery-toasted-oak-rye-2017.html",
     "woodford-masters-heritage.html",
-    "woodford-reserve-double-oaked-single-barrel-98.html"
+    "woodford-reserve-double-oaked-single-barrel-98.html",
+    "woodford-reserve-personal-selection.html"
   ],
   "classification_corrections": [
     {
