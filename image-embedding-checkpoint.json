@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 166,
+  "checkpoint": 167,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -598,7 +598,8 @@
     "woodford-masters-sonoma-triple-finish-2023.html",
     "woodford-masters-straight-malt-2013.html",
     "woodford-masters-super-seasoned-oak-2026.html",
-    "woodford-masters-very-fine-rare-2020.html"
+    "woodford-masters-very-fine-rare-2020.html",
+    "woodford-reserve-double-xo-2025.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1410,99 +1411,101 @@
     "woodford-masters-very-fine-rare-2020.html",
     "woodford-reserve-baccarat-edition.html",
     "woodford-reserve-barrel-strength-rye-2025.html",
-    "woodford-reserve-batch-proof-119-5-2025.html"
+    "woodford-reserve-batch-proof-119-5-2025.html",
+    "woodford-reserve-derby-150-baccarat-2024.html",
+    "woodford-reserve-double-double-oaked-2025.html",
+    "woodford-reserve-double-oaked-single-barrel-98.html",
+    "woodford-reserve-double-oaked.html",
+    "woodford-reserve-double-xo-2025.html"
   ],
   "validation": {
-    "decoded_images": 593,
+    "decoded_images": 594,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 11,
-    "verified_embedded_articles": 593
+    "checkpoint_decoded_images": 12,
+    "verified_embedded_articles": 594
   },
-  "remaining_articles": 15,
-  "updated_at": "2026-10-13T15:40:19.733Z",
+  "remaining_articles": 10,
+  "updated_at": "2026-10-13T15:44:08.609Z",
   "last_checkpoint_articles": [
-    "woodford-masters-sweet-oak-2025.html",
-    "woodford-masters-very-fine-rare-2020.html",
-    "woodford-reserve-baccarat-edition.html",
-    "woodford-reserve-barrel-strength-rye-2025.html",
-    "woodford-reserve-batch-proof-119-5-2025.html"
+    "woodford-reserve-derby-150-baccarat-2024.html",
+    "woodford-reserve-double-double-oaked-2025.html",
+    "woodford-reserve-double-oaked-single-barrel-98.html",
+    "woodford-reserve-double-oaked.html",
+    "woodford-reserve-double-xo-2025.html"
   ],
-  "last_parent_commit": "18655fdae7f853e9482fbf27a932e1ff6b607af7",
+  "last_parent_commit": "8a26275af5da30b996cb0919d013ae249ed9d2b0",
   "last_checkpoint_results": [
     {
-      "article": "woodford-masters-sweet-oak-2025.html",
+      "article": "woodford-reserve-derby-150-baccarat-2024.html",
       "decision": "verified_preexisting_self_contained_photo",
-      "reason": "The existing self-contained producer photograph visibly names Sweet Oak Bourbon and series 21. The producer shop identifies 110.4 proof and the matched review identifies the September 2025 edition. Existing HTML and image bytes remain unchanged.",
+      "reason": "The existing self-contained producer photograph visibly names Kentucky Derby 150 Baccarat Edition and shows its distinctive red stopper and commemorative decanter. The producer source identifies this commemorative 2024 expression, distinct from standard Baccarat Edition. Existing HTML and image bytes remain unchanged.",
       "decoded_images": 2,
-      "source_url": "https://shop.woodfordreserve.com/master-s-collection-sweet-oak-bourbon-110-4/",
-      "source_sha256": "19c8ee8b41fc6ea21951a3b36785933b952a6f76083a8f423a144382fcbfc1bb",
-      "width": 500,
-      "height": 500,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "original_html_sha256": "d8008824d35ec3429cc7f539223b5e7bd568f0f58dc67c35d5d8ade51fcbfcaa",
-      "resulting_html_sha256": "d8008824d35ec3429cc7f539223b5e7bd568f0f58dc67c35d5d8ade51fcbfcaa"
-    },
-    {
-      "article": "woodford-masters-very-fine-rare-2020.html",
-      "decision": "embedded_verified_exact_expression_photo",
-      "source_url": "https://breakingbourbon.com/review/woodford-reserve-winter-2020-masters-collection-very-fine-rare-bourbon",
-      "verification_scope": "The photograph visibly names Very Fine Rare Bourbon, series 16, and 90.4 proof / 45.2% ABV. The matched review identifies the December 2020 release and records the producer’s numbering discrepancy without substituting another release.",
-      "verified_source": "assets/bottles/woodford-masters-very-fine-rare-2020.webp",
-      "source_sha256": "5f1f082eea8e04ab56c166cfdb7308c91be9ae0f264fd48b531a3a1ec0e25e70",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 3,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "original_html_sha256": "e66773fc3577ea848158c61c5d0a5662ef29506acb930ca9028fb14fe229346d",
-      "resulting_html_sha256": "03ddabd329d428979f0ebfe520f5310169026a8234ea79af817010e23265db67"
-    },
-    {
-      "article": "woodford-reserve-baccarat-edition.html",
-      "decision": "verified_preexisting_self_contained_photo",
-      "reason": "The existing self-contained producer photograph names Baccarat Edition in the correct decanter. The producer identifies this standard Baccarat Edition at 90.4 proof; it is distinct from the Kentucky Derby 150 edition. This dossier does not claim an individual vintage. Existing HTML and image bytes remain unchanged.",
-      "decoded_images": 2,
-      "source_url": "https://www.woodfordreserve.com/whiskey/baccarat-edition/",
-      "source_sha256": "feee0fb49c7b01fa4c602f3b3c42fd3f48ab9110e555177f635edaa21a99e172",
+      "source_url": "https://www.woodfordreserve.com/whiskey/kentucky-derby-150-baccarat-edition/",
+      "source_sha256": "645cf013d8025da5cd2de0a736f046c5a431f7d1d40e08105e44390f3e113833",
       "width": 360,
       "height": 640,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "11635219b57b2bc9e2cb6fdc48f3394a8b2de1f68a4a5ce62d7e717f64f42393",
-      "resulting_html_sha256": "11635219b57b2bc9e2cb6fdc48f3394a8b2de1f68a4a5ce62d7e717f64f42393"
+      "original_html_sha256": "5b4a79480c6081d0c988a8b3ab35084a569f0af31a461d293a4b317fec66f378",
+      "resulting_html_sha256": "5b4a79480c6081d0c988a8b3ab35084a569f0af31a461d293a4b317fec66f378"
     },
     {
-      "article": "woodford-reserve-barrel-strength-rye-2025.html",
+      "article": "woodford-reserve-double-double-oaked-2025.html",
       "decision": "verified_preexisting_self_contained_photo",
-      "reason": "The existing self-contained producer photograph names Barrel Strength Rye and visibly specifies 125.1 proof. The matched source identifies the September 2025 release. Existing HTML and image bytes remain unchanged.",
+      "reason": "The existing self-contained producer photograph visibly names Double Double Oaked and specifies 700 mL, 90.4 proof / 45.2% ABV. This matches the dossier’s 2025 national 700 mL release, not the older 375 mL distillery editions. Existing HTML and image bytes remain unchanged.",
       "decoded_images": 2,
-      "source_url": "https://shop.woodfordreserve.com/barrel-strength-rye-125-1-proof/",
-      "source_sha256": "afdee8e1aed2d94fe52210bd9eeb4b06f9b240e1578137cfaef7ee4583fb8103",
-      "width": 500,
-      "height": 500,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "original_html_sha256": "4f4993600b791761095abcf55c3dfe2e84a44ef79006d4ea134013f6d90d673a",
-      "resulting_html_sha256": "4f4993600b791761095abcf55c3dfe2e84a44ef79006d4ea134013f6d90d673a"
-    },
-    {
-      "article": "woodford-reserve-batch-proof-119-5-2025.html",
-      "decision": "verified_preexisting_self_contained_photo",
-      "reason": "The existing self-contained producer photograph visibly specifies Batch Proof 119.5 and 59.75% ABV. The dossier’s release_scope explicitly records the 2024/2025 dating conflict for this 119.5 edition and excludes the different 121.2-proof 2024 bottle. The exact 119.5-proof image, HTML, dating qualification, and identity remain unchanged.",
-      "decoded_images": 2,
-      "source_url": "https://www.woodfordreserve.com/whiskey/batch-proof/",
-      "source_sha256": "2f61e27b3843745084d300fffcc7447218b102f39b82cf9ef582489d4901ecf4",
-      "width": 249,
+      "source_url": "https://www.woodfordreserve.com/whiskey/double-double-oaked/",
+      "source_sha256": "96be636b410f4ac0b9fa94d98102ec2cb6d9c0a86624ea8f13bbde5c32f4cfac",
+      "width": 387,
       "height": 640,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "c1b4411818611e3c1ffa7cb2e174b80e1d72cda1b880c82c9524d360e9aa8307",
-      "resulting_html_sha256": "c1b4411818611e3c1ffa7cb2e174b80e1d72cda1b880c82c9524d360e9aa8307"
+      "original_html_sha256": "93730002e24fbd04e790c0401b22016be50726db9b8d29975b111aabbedc2b58",
+      "resulting_html_sha256": "93730002e24fbd04e790c0401b22016be50726db9b8d29975b111aabbedc2b58"
+    },
+    {
+      "article": "woodford-reserve-double-oaked-single-barrel-98.html",
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "The dossier identifies a distinct 98-proof single-barrel listing. Its existing producer photo is standard 90.4-proof Double Oaked; no image authenticating the 98-proof expression is available in the verified archive or identified sources. HTML remains unchanged and the standard bottle is not counted as an exact image.",
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "original_html_sha256": "5d7a6effd5efb3d138189476883b9897ecb17fa01f27020acdf0185c2e614c0f",
+      "resulting_html_sha256": "5d7a6effd5efb3d138189476883b9897ecb17fa01f27020acdf0185c2e614c0f"
+    },
+    {
+      "article": "woodford-reserve-double-oaked.html",
+      "decision": "verified_preexisting_self_contained_photo",
+      "reason": "Existing self-contained bottle photographs visibly name standard Double Oaked and specify 45.2% ABV / 90.4 proof. The producer confirms that exact standard expression. No single-barrel or Double Double Oaked release is substituted. Existing HTML and image bytes remain unchanged.",
+      "decoded_images": 3,
+      "source_url": "https://www.woodfordreserve.com/whiskey/double-oaked/",
+      "source_sha256": "a725c3ff4cc99e9c65dc74661ac3b73d3f360aa4417b140ffe0c23550dc21848",
+      "width": 360,
+      "height": 640,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "original_html_sha256": "b0ceb70438b4b8445d87d26ee3da2fe6d02691ee59ca591104f65e3b9c0f1954",
+      "resulting_html_sha256": "b0ceb70438b4b8445d87d26ee3da2fe6d02691ee59ca591104f65e3b9c0f1954"
+    },
+    {
+      "article": "woodford-reserve-double-xo-2025.html",
+      "decision": "embedded_verified_exact_expression_photo",
+      "source_url": "https://moodiedavittreport.com/brown-forman-relaunches-travel-retail-exclusive-woodford-reserve-double-xo-blend/",
+      "verification_scope": "The 17 September 2025 announcement of Brown-Forman’s reintroduced Double XO Blend supplies this exact product photograph. The visible label names Double XO Blend and describes finishing in toasted barrels and XO Cognac casks. Source context authenticates the named 2025 travel-retail relaunch; existing unknown proof metadata remains unchanged and no Double Oaked or Baccarat bottle is substituted.",
+      "verified_source": "verified-source/photos/woodford-reserve-double-xo-2025-full.jpg",
+      "source_sha256": "a846ebc656bb123cf851a996f5bf357306285a985e394e165f028c0d5333e04b",
+      "width": 363,
+      "height": 932,
+      "image_url": "https://moodiedavittreport.com/wp-content/uploads/2025/09/Woodford-Reserve-Double-XO-Blend-17.9.25.jpg",
+      "decoded_images": 3,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "original_html_sha256": "17d75260ca5a28baaf188a9283af287c75ee706b1ffdcc52455cc803978b5018",
+      "resulting_html_sha256": "267a369de3e3c95db2bebf0878aae9b849a56e6ed7e02dba35097268275850f8"
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1609,7 +1612,10 @@
     "woodford-masters-sweet-oak-2025.html",
     "woodford-reserve-baccarat-edition.html",
     "woodford-reserve-barrel-strength-rye-2025.html",
-    "woodford-reserve-batch-proof-119-5-2025.html"
+    "woodford-reserve-batch-proof-119-5-2025.html",
+    "woodford-reserve-derby-150-baccarat-2024.html",
+    "woodford-reserve-double-double-oaked-2025.html",
+    "woodford-reserve-double-oaked.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
@@ -1676,7 +1682,8 @@
     "woodford-distillery-red-corn-2026.html",
     "woodford-distillery-toasted-bourbon-2024.html",
     "woodford-distillery-toasted-oak-rye-2017.html",
-    "woodford-masters-heritage.html"
+    "woodford-masters-heritage.html",
+    "woodford-reserve-double-oaked-single-barrel-98.html"
   ],
   "classification_corrections": [
     {
