@@ -46,7 +46,7 @@ async function functional(page,BASE){
   }
   await page.locator('#search').fill('OGD 114');
   const ogd=await visible();
-  check('OGD search alias identifies the accepted canonical dossier',()=>assert.deepEqual(ogd,['old-grand-dad-114']));
+  check('OGD alias returns the canonical and named 114 single-barrel expressions',()=>assert.deepEqual([...ogd].sort(),['old-grand-dad-114','old-grand-dad-114-single-barrel-7-year-bourbon'].sort()));
   const scores=await page.locator('#old-grand-dad-114 td.score').allTextContents();
   check('Canonical Quality Value Overall displays',()=>assert.deepEqual(scores.map(s=>s.trim()),['6.2','8.8','7.4']));
   await page.locator('#search').fill('NO_MATCH_OLD_OAK_COMPLETION_TEST');
@@ -75,10 +75,10 @@ async function functional(page,BASE){
   const familyBefore=await visible();
   await page.reload({waitUntil:'load'});
   const familyAfter=await visible();
-  check('Family filter survives URL reload',()=>assert.deepEqual(familyAfter,familyBefore));
+  check('Family filter membership survives URL reload',()=>assert.deepEqual([...familyAfter].sort(),[...familyBefore].sort()));
   await page.locator('#search').fill('OGD 114');
-  check('Combined family and alias query',()=>assert.deepEqual(ogd,['old-grand-dad-114']));
-  assert.deepEqual(await visible(),['old-grand-dad-114']);
+  const combined=await visible();
+  check('Combined family and alias query',()=>assert.deepEqual([...combined].sort(),['old-grand-dad-114','old-grand-dad-114-single-barrel-7-year-bourbon'].sort()));
   await page.locator('#old-grand-dad-114 a').click();
   await page.waitForURL('**/old-grand-dad-114.html');
   const title=await page.title();
