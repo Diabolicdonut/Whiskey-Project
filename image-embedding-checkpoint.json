@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 163,
+  "checkpoint": 164,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -588,7 +588,11 @@
     "woodford-masters-brandy-cask-finish-2016.html",
     "woodford-masters-cherry-wood-smoked-barley-2017.html",
     "woodford-masters-chocolate-malted-rye-2019.html",
-    "woodford-masters-classic-malt-2013.html"
+    "woodford-masters-classic-malt-2013.html",
+    "woodford-masters-five-malt-stouted-mash-2021.html",
+    "woodford-masters-historic-barrel-entry-2022.html",
+    "woodford-masters-madeira-cask-finish-2024.html",
+    "woodford-masters-oat-grain-2018.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1385,100 +1389,104 @@
     "woodford-masters-brandy-cask-finish-2016.html",
     "woodford-masters-cherry-wood-smoked-barley-2017.html",
     "woodford-masters-chocolate-malted-rye-2019.html",
-    "woodford-masters-classic-malt-2013.html"
+    "woodford-masters-classic-malt-2013.html",
+    "woodford-masters-five-malt-stouted-mash-2021.html",
+    "woodford-masters-heritage.html",
+    "woodford-masters-historic-barrel-entry-2022.html",
+    "woodford-masters-madeira-cask-finish-2024.html",
+    "woodford-masters-oat-grain-2018.html"
   ],
   "validation": {
-    "decoded_images": 583,
+    "decoded_images": 587,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 14,
-    "verified_embedded_articles": 583
+    "checkpoint_decoded_images": 13,
+    "verified_embedded_articles": 587
   },
-  "remaining_articles": 30,
-  "updated_at": "2026-10-13T15:28:37.893Z",
+  "remaining_articles": 25,
+  "updated_at": "2026-10-13T15:34:43.841Z",
   "last_checkpoint_articles": [
-    "woodford-distillery-toasted-oak-rye-2017.html",
-    "woodford-masters-brandy-cask-finish-2016.html",
-    "woodford-masters-cherry-wood-smoked-barley-2017.html",
-    "woodford-masters-chocolate-malted-rye-2019.html",
-    "woodford-masters-classic-malt-2013.html"
+    "woodford-masters-five-malt-stouted-mash-2021.html",
+    "woodford-masters-heritage.html",
+    "woodford-masters-historic-barrel-entry-2022.html",
+    "woodford-masters-madeira-cask-finish-2024.html",
+    "woodford-masters-oat-grain-2018.html"
   ],
-  "last_parent_commit": "30219eb3843d72a7c7b7540f7820dbabcfa36ae3",
+  "last_parent_commit": "42a045ce568fe0092113879ba46501e7bf815feb",
   "last_checkpoint_results": [
     {
-      "article": "woodford-distillery-toasted-oak-rye-2017.html",
+      "article": "woodford-masters-five-malt-stouted-mash-2021.html",
+      "decision": "embedded_verified_exact_expression_photo",
+      "source_url": "https://www.thebourbonwhiskeylibrary.net/post/woodford-reserve-five-malt-stouted-mash-review",
+      "verification_scope": "The photograph visibly names Five-Malt Stouted Mash, limited-edition series 17, and 90.4 proof / 45.2% ABV. The matched reviews identify the 2021 edition.",
+      "verified_source": "assets/bottles/woodford-masters-five-malt-stouted-mash-2021.webp",
+      "source_sha256": "89d185da660a0c94220455e36efc8327b1b2f9be07f83c4ff1a9f931ecc7514c",
+      "width": 1000,
+      "height": 667,
+      "image_url": "https://static.wixstatic.com/media/64d5c0_4e45c86037684f58a4df79a9502bfe2b~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/64d5c0_4e45c86037684f58a4df79a9502bfe2b~mv2.jpg",
+      "decoded_images": 3,
+      "article_html_valid": true,
+      "existing_content_preserved": true,
+      "original_html_sha256": "26e7aafc8e578a80d4c2ece68b4b517fe319e86fcb599254947ab1caf3c63411",
+      "resulting_html_sha256": "55695322d00aa2535b1c502891a4e2aa0d04af2305d05785fed1179ec5238698"
+    },
+    {
+      "article": "woodford-masters-heritage.html",
       "decision": "inspected_no_exact_verified_image",
-      "reason": "The archive photograph names Toasted Oak Rye and Summer 2017, but the visible label specifies 43.2% ABV / 86.4 proof. This dossier specifies 45.2% ABV / 90.4 proof. A proof-mismatched bottle is not an exact verified image; HTML and identity are preserved unchanged.",
+      "reason": "This historical catalog is a chronology of multiple Master’s Collection releases, with no single expression, year, or proof. No single release or generic bottle can authenticate that identity; HTML remains unchanged.",
       "decoded_images": 2,
-      "rejected_source": "assets/bottles/woodford-distillery-toasted-oak-rye-2017.webp",
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "a252bcb1dc8442c18cfe9f62d0979d6b2da63175331ec2b04ebb02950124c99a",
-      "resulting_html_sha256": "a252bcb1dc8442c18cfe9f62d0979d6b2da63175331ec2b04ebb02950124c99a"
+      "original_html_sha256": "edec1f4b6209cf5e1e14f8ccf96e41cba6dc9c2f8f22b620087c540a1421309b",
+      "resulting_html_sha256": "edec1f4b6209cf5e1e14f8ccf96e41cba6dc9c2f8f22b620087c540a1421309b"
     },
     {
-      "article": "woodford-masters-brandy-cask-finish-2016.html",
+      "article": "woodford-masters-historic-barrel-entry-2022.html",
       "decision": "embedded_verified_exact_expression_photo",
-      "source_url": "https://www.breakingbourbon.com/review/woodford-reserve-masters-collection-brandy-cask-finish",
-      "verification_scope": "The photograph visibly names Brandy Cask Finish, Master’s Collection series 11, and 45.2% ABV / 90.4 proof. The matched review identifies the one-time November 2016 release.",
-      "verified_source": "assets/bottles/woodford-masters-brandy-cask-finish-2016.webp",
-      "source_sha256": "b403139e9ac1b43bab72c5908a2e8943a99fbaf77217f2ae54ad3cfb88000d0d",
+      "source_url": "https://www.breakingbourbon.com/review/woodford-reserve-masters-collection-historic-barrel-entry",
+      "verification_scope": "The photograph visibly names Historic Barrel Entry, limited-edition series 18, and 90.4 proof / 45.2% ABV. The dossier explicitly retains the nominal 2022 edition and February 2023 physical release, matching the source.",
+      "verified_source": "assets/bottles/woodford-masters-historic-barrel-entry-2022.webp",
+      "source_sha256": "8886dd2804cce524ea253fbe5188c514b49eec1fa103f62cd2306522ba2fa86a",
       "width": 1000,
       "height": 667,
       "decoded_images": 3,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "e26631dddf736dea5d318b2b816f7f6464055a18a28775ed01b1ef951098945d",
-      "resulting_html_sha256": "e8b7706c9c70e95aaacbca604fe6a130058b8063a325ef3203c361d2985d0a27"
+      "original_html_sha256": "ac68311321e2ee885982d8828190450576ae8bc1366d0a2b63aa3628322c4a05",
+      "resulting_html_sha256": "5587ae926b03370fd84933cfdc4eddacda8b3a77b50c36676d552149b0c3c972"
     },
     {
-      "article": "woodford-masters-cherry-wood-smoked-barley-2017.html",
+      "article": "woodford-masters-madeira-cask-finish-2024.html",
       "decision": "embedded_verified_exact_expression_photo",
-      "source_url": "https://breakingbourbon.com/review/woodford-reserve-masters-collection-cherry-wood-smoked-barley",
-      "verification_scope": "The photograph visibly names Cherry Wood Smoked Barley, Master’s Collection series 12, and 45.2% ABV / 90.4 proof. The matched review identifies the November 2017 release.",
-      "verified_source": "assets/bottles/woodford-masters-cherry-wood-smoked-barley-2017.webp",
-      "source_sha256": "c65df33fe850475de406c753439c75268047bbc0e887ef1f959a55b55e7b1517",
-      "width": 1000,
-      "height": 667,
+      "source_url": "https://vinepair.com/review/woodford-reserve-masters-collection-madeira-cask-finish/",
+      "verification_scope": "The photograph visibly names Madeira Cask Finish, limited-edition series 20, and 90.4 proof / 45.2% ABV. The matched source identifies the 2024 release.",
+      "verified_source": "assets/bottles/woodford-masters-madeira-cask-finish-2024.webp",
+      "source_sha256": "f708d4107ca510870ad549a3b6ea62a56a971ef44391c52f53cd7b07eac20975",
+      "width": 1200,
+      "height": 627,
       "decoded_images": 3,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "d85814b423102f9dc2fc83220da69b8056f00cc2b8211006e7beb774b90ad259",
-      "resulting_html_sha256": "6d799f161131bdabd11539e0b04e16a1f4e5b412b4b9672b2760c2fe883c7533"
+      "original_html_sha256": "228affebe36cef743830f93914ecbb2de4bb83b7050c57215ec39fd0c4afdc18",
+      "resulting_html_sha256": "82e7d95ec590ff02a76643b91f4bc2ec8af1fd94ea339b550f9bda9b3f01a698"
     },
     {
-      "article": "woodford-masters-chocolate-malted-rye-2019.html",
-      "decision": "embedded_verified_exact_expression_photo",
-      "source_url": "https://www.breakingbourbon.com/review/woodford-reserve-masters-collection-chocolate-malted-rye",
-      "verification_scope": "The photograph visibly names Chocolate Malted Rye, Master’s Collection series 15, and 45.2% ABV / 90.4 proof. The expression and numbered release match the identified 2019 edition.",
-      "verified_source": "assets/bottles/woodford-masters-chocolate-malted-rye-2019.webp",
-      "source_sha256": "633befb080a842acd6558ddd566acb97895153f1dad5b142a3a5fa45c1e1a3da",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 3,
+      "article": "woodford-masters-oat-grain-2018.html",
+      "decision": "embedded_verified_existing_local_photo",
+      "source_url": "https://distiller.com/spirits/woodford-reserve-master-s-collection-oat-grain-kentucky-bourbon",
+      "verification_scope": "Existing image credit identifies this exact local asset and source. The photograph visibly names Oat Grain Bourbon, 45.2% ABV / 90.4 proof; the source identifies the 2018 release. Only the existing local image src is replaced with the identical encoded bytes.",
+      "verified_source": "assets/bottles/woodford-masters-oat-grain-2018.webp",
+      "source_sha256": "19c7a78a35cca9ffd6d5c46fa7481cc23c87d306c7991cffc36c0e878d4a3ee5",
+      "width": 640,
+      "height": 280,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true,
-      "original_html_sha256": "dc2ee53321244188f717bff871b0716f9c28f7c1d629f4161d0151fb3e410ca4",
-      "resulting_html_sha256": "f5a59494ebba5ccb34173629fb88a5a9869cf9119e502d0320c094d1d8231400"
-    },
-    {
-      "article": "woodford-masters-classic-malt-2013.html",
-      "decision": "embedded_verified_exact_expression_photo",
-      "source_url": "https://www.whiskynotes.be/2015/usa-bourbon/woodford-reserve-classic-malt/",
-      "verification_scope": "The single-bottle photograph visibly names Classic Malt; the matched source identifies Master’s Collection Classic Malt (45.2%, OB 2013). The archive photograph containing both Straight Malt and Classic Malt was not substituted.",
-      "verified_source": "verified-source/photos/woodford-masters-classic-malt-2013-single.jpg",
-      "source_sha256": "a2865cbb1b29b698a9e391a54ec201def04d8061bd224b01582ed7033551dd8e",
-      "width": 114,
-      "height": 346,
-      "image_url": "https://www.whiskynotes.be/upload/d57c73abf0e1_D01A/woodford-reserve-classic-malt-masters-collection.jpg",
-      "decoded_images": 3,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "original_html_sha256": "efee815ad9a5201caf8e00d07432c9c8c236d7adb87c221fd7e473ce713d305d",
-      "resulting_html_sha256": "fa152544b848ebc204cf52f502890467822c2657558a01fe5da9e0d8475596e4"
+      "original_html_sha256": "98877c1734359e09c9730ef0e4f080fe41ded15557b489a45f4e4ed3d96c0b1a",
+      "resulting_html_sha256": "060dfc1e4eee43a65acd8b20c5f7336e665bb9a1efb612c67234d38d1f8fd8d6"
     }
   ],
   "preexisting_self_contained_articles": [
@@ -1647,7 +1655,8 @@
     "whistlepig-farmstock-current-catalogue.html",
     "woodford-distillery-red-corn-2026.html",
     "woodford-distillery-toasted-bourbon-2024.html",
-    "woodford-distillery-toasted-oak-rye-2017.html"
+    "woodford-distillery-toasted-oak-rye-2017.html",
+    "woodford-masters-heritage.html"
   ],
   "classification_corrections": [
     {
