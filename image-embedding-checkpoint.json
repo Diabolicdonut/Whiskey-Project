@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 138,
+  "checkpoint": 139,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -487,7 +487,11 @@
     "stagg-batch-25b.html",
     "star-hill-farm-2025.html",
     "star-hill-farm-2026.html",
-    "still-austin-cask-strength-bourbon.html"
+    "still-austin-cask-strength-bourbon.html",
+    "still-austin-the-musician.html",
+    "stranahan-s-blue-peak-single-malt-whiskey.html",
+    "stranahan-s-colorado-whiskey.html",
+    "templeton-10-year-reserve-rye.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1159,34 +1163,39 @@
     "stagg-release-program.html",
     "star-hill-farm-2025.html",
     "star-hill-farm-2026.html",
-    "still-austin-cask-strength-bourbon.html"
+    "still-austin-cask-strength-bourbon.html",
+    "still-austin-the-musician.html",
+    "stranahan-s-blue-peak-single-malt-whiskey.html",
+    "stranahan-s-colorado-whiskey.html",
+    "templeton-10-year-reserve-rye.html",
+    "templeton-2023-barrel-strength-catalogue.html"
   ],
   "validation": {
-    "decoded_images": 482,
+    "decoded_images": 486,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 8,
-    "verified_embedded_articles": 482
+    "checkpoint_decoded_images": 4,
+    "verified_embedded_articles": 486
   },
-  "remaining_articles": 155,
-  "updated_at": "2026-10-13T04:34:48.410Z",
+  "remaining_articles": 150,
+  "updated_at": "2026-10-13T04:35:14.050Z",
   "last_checkpoint_articles": [
-    "stagg-batch-25b.html",
-    "stagg-release-program.html",
-    "star-hill-farm-2025.html",
-    "star-hill-farm-2026.html",
-    "still-austin-cask-strength-bourbon.html"
+    "still-austin-the-musician.html",
+    "stranahan-s-blue-peak-single-malt-whiskey.html",
+    "stranahan-s-colorado-whiskey.html",
+    "templeton-10-year-reserve-rye.html",
+    "templeton-2023-barrel-strength-catalogue.html"
   ],
-  "last_parent_commit": "12b1af433d85ff981c3552ab2712f1b4cb701d5d",
+  "last_parent_commit": "5ce83d6dc8957068ed25c07bcf8ab6e09421e328",
   "last_checkpoint_results": [
     {
-      "article": "stagg-batch-25b.html",
+      "article": "still-austin-the-musician.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/stagg-batch-25b.webp",
-      "source_sha256": "49d47e83e141e9d6a85ac43106723c4d0e150eea29ad702edb4de6b95b33a841",
+      "verified_source": "assets/bottles/still-austin-the-musician.webp",
+      "source_sha256": "b71c79dff9bb902d209e797e97df0f2b5657bb11f37e242e9c60276f8c7630c1",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -1194,43 +1203,43 @@
       "existing_content_preserved": true
     },
     {
-      "article": "stagg-release-program.html",
+      "article": "stranahan-s-blue-peak-single-malt-whiskey.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/stranahan-s-blue-peak-single-malt-whiskey.webp",
+      "source_sha256": "e695abc77e4edf61718a19cb1dc0102d62345757588334d9018843543c1d105b",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "stranahan-s-colorado-whiskey.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/stranahan-s-colorado-whiskey.webp",
+      "source_sha256": "b517338a02cce5f0f7e52f696e131d926e1a6b540c5e92a42b2ac6352d715ed8",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "templeton-10-year-reserve-rye.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/templeton-10-year-reserve-rye.webp",
+      "source_sha256": "92dca0c732cc4bdd3fb0ea95c5046f11b2cd972071c59ca068a0c29d5e9eaee0",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "templeton-2023-barrel-strength-catalogue.html",
       "decision": "inspected_no_exact_verified_image",
       "reason": "Article does not identify an already-verified exact bottle image.",
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "star-hill-farm-2025.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/star-hill-farm-2025.webp",
-      "source_sha256": "2d679a0737ca5a60574f7aaa890cdb19ddc78fd83fa78dc00f3712f7fd10cbfa",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "star-hill-farm-2026.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/star-hill-farm-2026.webp",
-      "source_sha256": "bcccfbc9226af167bf75e21d4c17d2424490410710c2c6142ad48972c71ca997",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "still-austin-cask-strength-bourbon.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/still-austin-cask-strength-bourbon.webp",
-      "source_sha256": "987426fdb86ec732a1bb9be1322c171d0b2a3c5a457e16fd3a4de891be24ba29",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 1,
+      "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -1377,7 +1386,8 @@
     "sagamore-cognac-finish-2026-catalogue.html",
     "sagamore-pot-still-rye-malt-catalogue.html",
     "single-oak-project.html",
-    "stagg-release-program.html"
+    "stagg-release-program.html",
+    "templeton-2023-barrel-strength-catalogue.html"
   ],
   "classification_corrections": [
     {
