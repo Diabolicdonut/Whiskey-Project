@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 141,
+  "checkpoint": 142,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -498,7 +498,10 @@
     "templeton-straight-rye-90.html",
     "traveller-blend-40.html",
     "traveller-full-proof.html",
-    "uncle-nearest-1856-reviewed.html"
+    "uncle-nearest-1856-reviewed.html",
+    "uncle-nearest-1884-small-batch-whiskey.html",
+    "uncle-nearest-777-lost-chapter-batch7.html",
+    "uncle-nearest-master-blend-edition-batch-005.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1185,31 +1188,36 @@
     "templeton-straight-rye-90.html",
     "traveller-blend-40.html",
     "traveller-full-proof.html",
-    "uncle-nearest-1856-reviewed.html"
+    "uncle-nearest-1856-reviewed.html",
+    "uncle-nearest-1884-own-distillation-catalogue.html",
+    "uncle-nearest-1884-small-batch-whiskey.html",
+    "uncle-nearest-777-lost-chapter-batch7.html",
+    "uncle-nearest-cognac-cask-catalogue.html",
+    "uncle-nearest-master-blend-edition-batch-005.html"
   ],
   "validation": {
-    "decoded_images": 493,
+    "decoded_images": 496,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 5,
-    "verified_embedded_articles": 493
+    "checkpoint_decoded_images": 3,
+    "verified_embedded_articles": 496
   },
-  "remaining_articles": 140,
-  "updated_at": "2026-10-13T04:35:36.160Z",
+  "remaining_articles": 135,
+  "updated_at": "2026-10-13T04:36:10.761Z",
   "last_checkpoint_articles": [
-    "templeton-single-barrel-rye-programme.html",
-    "templeton-straight-rye-90.html",
-    "traveller-blend-40.html",
-    "traveller-full-proof.html",
-    "uncle-nearest-1856-reviewed.html"
+    "uncle-nearest-1884-own-distillation-catalogue.html",
+    "uncle-nearest-1884-small-batch-whiskey.html",
+    "uncle-nearest-777-lost-chapter-batch7.html",
+    "uncle-nearest-cognac-cask-catalogue.html",
+    "uncle-nearest-master-blend-edition-batch-005.html"
   ],
-  "last_parent_commit": "2544ee37ef78f830cbc6f1095bdadf6283c1aedb",
+  "last_parent_commit": "3e4c9e2c88bbe131bdb461612c52bd31e8b1d659",
   "last_checkpoint_results": [
     {
-      "article": "templeton-single-barrel-rye-programme.html",
+      "article": "uncle-nearest-1884-own-distillation-catalogue.html",
       "decision": "inspected_no_exact_verified_image",
       "reason": "Article does not identify an already-verified exact bottle image.",
       "decoded_images": 0,
@@ -1217,45 +1225,42 @@
       "existing_content_preserved": true
     },
     {
-      "article": "templeton-straight-rye-90.html",
+      "article": "uncle-nearest-1884-small-batch-whiskey.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/templeton-straight-rye-90.webp",
-      "source_sha256": "436c247c8b3f3df4c2866cee2452d33baf04732a2225b133cc0e273ac4d66a48",
-      "width": 1200,
-      "height": 740,
+      "verified_source": "assets/bottles/uncle-nearest-1884-small-batch-whiskey.webp",
+      "source_sha256": "87dfdec559c06156fc5e707b125ea29acf6bc20c244e54b51dfa4bf5e6466bea",
+      "width": 1000,
+      "height": 667,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "traveller-blend-40.html",
+      "article": "uncle-nearest-777-lost-chapter-batch7.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/traveller-blend-40.webp",
-      "source_sha256": "99ec900b680c41cd34bf73e49412802017f44fca65fd055d293baca9a1aa5b4a",
-      "width": 194,
-      "height": 640,
-      "decoded_images": 2,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "traveller-full-proof.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/traveller-full-proof.webp",
-      "source_sha256": "1026d84f54139fdba351c7ea57df8fdfbd7ebbee7380ff71a74c5b33ebe762b1",
-      "width": 194,
-      "height": 640,
+      "verified_source": "assets/bottles/uncle-nearest-777-lost-chapter-batch7.webp",
+      "source_sha256": "a42a1e7c738779dd5def8416fe69d83091801822e65bcc652c7e5695e520ea65",
+      "width": 650,
+      "height": 867,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "uncle-nearest-1856-reviewed.html",
+      "article": "uncle-nearest-cognac-cask-catalogue.html",
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image.",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "uncle-nearest-master-blend-edition-batch-005.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/uncle-nearest-1856-reviewed.webp",
-      "source_sha256": "6627460c0091340d60c1fdddda964652d44c1b98bb8a3cd2ab1c8c5144784577",
-      "width": 1200,
-      "height": 900,
+      "verified_source": "assets/bottles/uncle-nearest-master-blend-edition-batch-005.webp",
+      "source_sha256": "6cb7366562d1e2c5556d79c60a93fb70e057fae7a665ac511e60e1fbab857cf7",
+      "width": 1000,
+      "height": 667,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -1407,7 +1412,9 @@
     "templeton-2023-barrel-strength-catalogue.html",
     "templeton-6-year-915.html",
     "templeton-single-barrel-bourbon-programme.html",
-    "templeton-single-barrel-rye-programme.html"
+    "templeton-single-barrel-rye-programme.html",
+    "uncle-nearest-1884-own-distillation-catalogue.html",
+    "uncle-nearest-cognac-cask-catalogue.html"
   ],
   "classification_corrections": [
     {
