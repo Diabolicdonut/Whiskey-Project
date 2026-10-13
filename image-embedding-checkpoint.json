@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 134,
+  "checkpoint": 135,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -469,7 +469,12 @@
     "sagamore-port-finish-2023.html",
     "sagamore-rye-cask-strength.html",
     "sagamore-rye-double-oak-batch-9a.html",
-    "sagamore-rye-small-batch-batch-2r.html"
+    "sagamore-rye-small-batch-batch-2r.html",
+    "sagamore-sherry-finish-reviewed-2023.html",
+    "sagamore-tequila-finish-2021.html",
+    "sazerac-100.html",
+    "sazerac-18-2025.html",
+    "sazerac-full-proof.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1121,80 +1126,88 @@
     "sagamore-pot-still-rye-malt-catalogue.html",
     "sagamore-rye-cask-strength.html",
     "sagamore-rye-double-oak-batch-9a.html",
-    "sagamore-rye-small-batch-batch-2r.html"
+    "sagamore-rye-small-batch-batch-2r.html",
+    "sagamore-sherry-finish-reviewed-2023.html",
+    "sagamore-tequila-finish-2021.html",
+    "sazerac-100.html",
+    "sazerac-18-2025.html",
+    "sazerac-full-proof.html"
   ],
   "validation": {
-    "decoded_images": 464,
+    "decoded_images": 469,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 4,
-    "verified_embedded_articles": 464
+    "checkpoint_decoded_images": 7,
+    "verified_embedded_articles": 469
   },
-  "remaining_articles": 175,
-  "updated_at": "2026-10-12T12:00:28.699Z",
+  "remaining_articles": 170,
+  "updated_at": "2026-10-13T04:29:48.645Z",
   "last_checkpoint_articles": [
-    "sagamore-port-finish-2023.html",
-    "sagamore-pot-still-rye-malt-catalogue.html",
-    "sagamore-rye-cask-strength.html",
-    "sagamore-rye-double-oak-batch-9a.html",
-    "sagamore-rye-small-batch-batch-2r.html"
+    "sagamore-sherry-finish-reviewed-2023.html",
+    "sagamore-tequila-finish-2021.html",
+    "sazerac-100.html",
+    "sazerac-18-2025.html",
+    "sazerac-full-proof.html"
   ],
-  "last_parent_commit": "a70f60e8831bb31fa038527c96b331242c7e83c7",
+  "last_parent_commit": "542d2a57975283a27cc0e69e5ee852c9d65cf693",
   "last_checkpoint_results": [
     {
-      "article": "sagamore-port-finish-2023.html",
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
+      "article": "sagamore-sherry-finish-reviewed-2023.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/sagamore-port-finish-2023.webp",
-      "source_sha256": "404115e85e8ab6afbca1eaa0151b7d95298bbe7e489a82e565e9080cb614cf56",
+      "verified_source": "assets/bottles/sagamore-sherry-finish-reviewed-2023.webp",
+      "source_sha256": "a9537589b2406c1c01b586e25f10ad0b0bf5c66ec0b9a4f81ce6352757c7c84b",
       "width": 1200,
-      "height": 600
-    },
-    {
-      "article": "sagamore-pot-still-rye-malt-catalogue.html",
-      "decoded_images": 0,
-      "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "inspected_no_exact_verified_image",
-      "reason": "Article does not identify an already-verified exact bottle image."
-    },
-    {
-      "article": "sagamore-rye-cask-strength.html",
+      "height": 629,
       "decoded_images": 1,
       "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/sagamore-rye-cask-strength.webp",
-      "source_sha256": "2c1869ac924ae732a2d1b0b7c1b335df6abb38ef6c80621ed48f5561d8f70cea",
-      "width": 1000,
-      "height": 667
+      "existing_content_preserved": true
     },
     {
-      "article": "sagamore-rye-double-oak-batch-9a.html",
+      "article": "sagamore-tequila-finish-2021.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/sagamore-tequila-finish-2021.webp",
+      "source_sha256": "983691503ba5f2bec15ee846737d7365854960606d328839b042b6d011892b93",
+      "width": 1200,
+      "height": 1200,
       "decoded_images": 1,
       "article_html_valid": true,
-      "existing_content_preserved": true,
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/sagamore-rye-double-oak-batch-9a.webp",
-      "source_sha256": "a1bfa32ce7f94b6f1e0363a496768337fcca6c876e0fc5ceceb7eff2d7b7bebb",
-      "width": 1000,
-      "height": 667
+      "existing_content_preserved": true
     },
     {
-      "article": "sagamore-rye-small-batch-batch-2r.html",
+      "article": "sazerac-100.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/sazerac-100.webp",
+      "source_sha256": "09fad24db873bacd398cb40185373b6505a463532c2e3e28ab8fee8d89637048",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "sazerac-18-2025.html",
+      "decision": "embedded_verified_existing_photo",
+      "verified_source": "assets/bottles/sazerac-18-2025.webp",
+      "source_sha256": "934f6712f0b072c56aff5b976923648c58928a318655165b55a67d1d18e10aa9",
+      "width": 1400,
+      "height": 933,
       "decoded_images": 1,
       "article_html_valid": true,
-      "existing_content_preserved": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "sazerac-full-proof.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/sagamore-rye-small-batch-batch-2r.webp",
-      "source_sha256": "22da544a906b2b753cd887cfe23f4eaef340e1a9f5b5d321754a8b7d9c12cead",
+      "verified_source": "assets/bottles/sazerac-full-proof.webp",
+      "source_sha256": "6b69408a46417acc958ad745c40c7c4ac4fd0654c043df7f97fec8f639cc1d84",
       "width": 1000,
-      "height": 667
+      "height": 667,
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
     }
   ],
   "preexisting_self_contained_articles": [
