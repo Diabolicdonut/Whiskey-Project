@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 161,
+  "checkpoint": 162,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -581,7 +581,10 @@
     "woodford-distillery-blended-rye-2017.html",
     "woodford-distillery-cabernet-sauvignon-2026.html",
     "woodford-distillery-chocolate-malt-whisper-2021.html",
-    "woodford-distillery-chocolate-whisper-redux-2025.html"
+    "woodford-distillery-chocolate-whisper-redux-2025.html",
+    "woodford-distillery-honey-barrel-2022.html",
+    "woodford-distillery-tawny-port-2025.html",
+    "woodford-distillery-toasted-oak-oat-grain-2022.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1368,49 +1371,41 @@
     "woodford-distillery-blended-rye-2017.html",
     "woodford-distillery-cabernet-sauvignon-2026.html",
     "woodford-distillery-chocolate-malt-whisper-2021.html",
-    "woodford-distillery-chocolate-whisper-redux-2025.html"
+    "woodford-distillery-chocolate-whisper-redux-2025.html",
+    "woodford-distillery-honey-barrel-2022.html",
+    "woodford-distillery-red-corn-2026.html",
+    "woodford-distillery-tawny-port-2025.html",
+    "woodford-distillery-toasted-bourbon-2024.html",
+    "woodford-distillery-toasted-oak-oat-grain-2022.html"
   ],
   "validation": {
-    "decoded_images": 576,
+    "decoded_images": 579,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 15,
-    "verified_embedded_articles": 576
+    "checkpoint_decoded_images": 13,
+    "verified_embedded_articles": 579
   },
-  "remaining_articles": 40,
-  "updated_at": "2026-10-13T04:47:24.194Z",
+  "remaining_articles": 35,
+  "updated_at": "2026-10-13T04:47:56.687Z",
   "last_checkpoint_articles": [
-    "woodford-distillery-blended-malt-sherry-2024.html",
-    "woodford-distillery-blended-rye-2017.html",
-    "woodford-distillery-cabernet-sauvignon-2026.html",
-    "woodford-distillery-chocolate-malt-whisper-2021.html",
-    "woodford-distillery-chocolate-whisper-redux-2025.html"
+    "woodford-distillery-honey-barrel-2022.html",
+    "woodford-distillery-red-corn-2026.html",
+    "woodford-distillery-tawny-port-2025.html",
+    "woodford-distillery-toasted-bourbon-2024.html",
+    "woodford-distillery-toasted-oak-oat-grain-2022.html"
   ],
-  "last_parent_commit": "b29c0d4d917479a72c25ed132e2514747fe9a272",
+  "last_parent_commit": "54a0692e4d8b0fc06bcfec8a3e76aabc045c6c3f",
   "last_checkpoint_results": [
     {
-      "article": "woodford-distillery-blended-malt-sherry-2024.html",
+      "article": "woodford-distillery-honey-barrel-2022.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://savortheburn.com/the-liquor-cabinet/american-whiskey/woodford-reserve-blended-malt-sherry-cask-finished",
-      "verification_scope": "Identified 2024 small-format limited release. Another distillery experiment does not authenticate this recipe, strength or price.",
-      "verified_source": "assets/bottles/woodford-distillery-blended-malt-sherry-2024.webp",
-      "source_sha256": "c175a17c6b8a4e482b1d21754d10cd0391699eff1ddaf10b3c142b557e276e92",
-      "width": 1400,
-      "height": 1050,
-      "decoded_images": 3,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "woodford-distillery-blended-rye-2017.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://www.breakingbourbon.com/review/woodford-reserve-blended-rye",
-      "verification_scope": "Identified 2017 small-format limited release. Another distillery experiment does not authenticate this recipe, strength or price.",
-      "verified_source": "assets/bottles/woodford-distillery-blended-rye-2017.webp",
-      "source_sha256": "f89649bce50654a6a8f71215aadb6aa77eac58a0bc0aaf1708d1b1711c2ebe7b",
+      "source_url": "https://www.breakingbourbon.com/review/woodford-reserve-distillery-series-honey-barrel-finish",
+      "verification_scope": "Identified 2022 small-format limited release. Another distillery experiment does not authenticate this recipe, strength or price.",
+      "verified_source": "assets/bottles/woodford-distillery-honey-barrel-2022.webp",
+      "source_sha256": "860d8f731793c9b3cf490a6216891ec241c92e7f08e92911dec2e2e590cdbd5a",
       "width": 1000,
       "height": 667,
       "decoded_images": 3,
@@ -1418,38 +1413,41 @@
       "existing_content_preserved": true
     },
     {
-      "article": "woodford-distillery-cabernet-sauvignon-2026.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://www.woodfordreserve.com/whiskey/distillery-series/",
-      "verification_scope": "Producer Cabernet Sauvignon Barrel Finish photograph visibly labels 2026, 90.4 proof and 375 mL. The filename contains 2025, but the bottle label and February 5, 2026 producer release identify the accepted expression.",
-      "verified_source": "assets/bottles/woodford-distillery-cabernet-sauvignon-2026.webp",
-      "source_sha256": "b0ee55647a184a87e8797d65c786877a91bea7818230ae030088ba29e50d3195",
-      "width": 589,
-      "height": 1024,
-      "decoded_images": 3,
+      "article": "woodford-distillery-red-corn-2026.html",
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image.",
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "woodford-distillery-chocolate-malt-whisper-2021.html",
+      "article": "woodford-distillery-tawny-port-2025.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://www.breakingbourbon.com/review/woodford-reserve-chocolate-malt-whisper",
-      "verification_scope": "Identified 2021 small-format limited release. Another distillery experiment does not authenticate this recipe, strength or price.",
-      "verified_source": "assets/bottles/woodford-distillery-chocolate-malt-whisper-2021.webp",
-      "source_sha256": "4884b1600695162444694d5fdfea090f64f7cfa73fa804b690174af14d8a18d6",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 3,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "woodford-distillery-chocolate-whisper-redux-2025.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://breakingbourbon.com/review/woodford-reserve-distillery-series-chocolate-whisper-redux",
+      "source_url": "https://www.breakingbourbon.com/review/woodford-reserve-distillery-series-tawny-port-finish",
       "verification_scope": "Identified 2025 small-format limited release. Another distillery experiment does not authenticate this recipe, strength or price.",
-      "verified_source": "assets/bottles/woodford-distillery-chocolate-whisper-redux-2025.webp",
-      "source_sha256": "e9648db96784fd1ea9038b66c4aa8dea124182afcabbe50f55aafe99e11145a4",
+      "verified_source": "assets/bottles/woodford-distillery-tawny-port-2025.webp",
+      "source_sha256": "c81df085aea4accbd622291a3e78727b97c479978abf0195a5fd470e80ee641e",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 3,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "woodford-distillery-toasted-bourbon-2024.html",
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image.",
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "woodford-distillery-toasted-oak-oat-grain-2022.html",
+      "decision": "embedded_verified_exact_slug_photo",
+      "source_url": "https://www.breakingbourbon.com/review/woodford-reserve-toasted-oak-oat-grain",
+      "verification_scope": "Identified 2022 small-format limited release. Another distillery experiment does not authenticate this recipe, strength or price.",
+      "verified_source": "assets/bottles/woodford-distillery-toasted-oak-oat-grain-2022.webp",
+      "source_sha256": "4adb9a4722c4043a37419a96b749f52c8274ba431b16ac9ec51c53b3d03bb7a3",
       "width": 1000,
       "height": 667,
       "decoded_images": 3,
@@ -1620,7 +1618,9 @@
     "whistlepig-boss-hog-v-2018-1176.html",
     "whistlepig-boss-hog-vi-2019-122.html",
     "whistlepig-boss-hog-xii-2025-barrel10.html",
-    "whistlepig-farmstock-current-catalogue.html"
+    "whistlepig-farmstock-current-catalogue.html",
+    "woodford-distillery-red-corn-2026.html",
+    "woodford-distillery-toasted-bourbon-2024.html"
   ],
   "classification_corrections": [
     {
