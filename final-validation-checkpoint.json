@@ -582,7 +582,7 @@
     {
       "checkpoint": 10,
       "parent_commit": "718b6a9fa056f1c9da494a4a012ecdd2a08d3c45",
-      "accepted_commit": null,
+      "accepted_commit": "ae41696ecbcff614447bf22c11672a89ecb430f2",
       "reason": "Two retained dossier/landing-page research and audit links still target absent files.",
       "changes": [
         {
@@ -608,12 +608,30 @@
       ],
       "focused_validation_passed": true,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    },
+    {
+      "checkpoint": 11,
+      "parent_commit": "ae41696ecbcff614447bf22c11672a89ecb430f2",
+      "accepted_commit": null,
+      "reason": "Canonical and other dossiers intentionally lazy-load secondary images; the browser check must trigger that existing behavior rather than wait indefinitely.",
+      "changes": [
+        {
+          "file": "scripts/completion_runtime.cjs",
+          "change": "Trigger accepted lazy-loaded images by scrolling them into view before testing browser decodability, with a bounded wait. This corrects the validation harness and does not alter website HTML, loading attributes or article content.",
+          "javascript_syntax_validated": true,
+          "website_bytes_changed": false,
+          "after_git_blob_sha": "9a10e22691f441c59ace28cc10913920cfb3286c"
+        }
+      ],
+      "focused_validation_passed": false,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "focused_validation_status": "JavaScript syntax checked; Chromium validation pending CI"
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 10,
-  "last_parent_commit": "718b6a9fa056f1c9da494a4a012ecdd2a08d3c45",
-  "updated_at": "2026-10-13T20:30:12.420Z"
+  "repair_checkpoint": 11,
+  "last_parent_commit": "ae41696ecbcff614447bf22c11672a89ecb430f2",
+  "updated_at": "2026-10-13T20:31:45.908Z"
 }
