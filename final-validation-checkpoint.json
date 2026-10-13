@@ -18,7 +18,7 @@
     {
       "checkpoint": 1,
       "parent_commit": "e3776f7db3e79ed4ae62a741d603ab41441152db",
-      "accepted_commit": null,
+      "accepted_commit": "47ab843cfdf93ab59e1064968e1604024c4a081f",
       "reason": "Repair malformed existing HTML nesting and void-element end tags.",
       "changes": [
         {
@@ -154,12 +154,87 @@
       ],
       "focused_validation_passed": true,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    },
+    {
+      "checkpoint": 2,
+      "parent_commit": "47ab843cfdf93ab59e1064968e1604024c4a081f",
+      "accepted_commit": null,
+      "reason": "Repair required image URLs that still point to nonexistent local files.",
+      "changes": [
+        {
+          "file": "prohibition-john-g-carlisle-2026.html",
+          "before_sha256": "d88515a937eba5756e5edaa4a27a22ac70012766965705c6b5726ba72cf1421e",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-john-g-carlisle-2026.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "1c3f9b33c1cf5f22f2e08dbd19db422fd7797c0acc29ae8cfb438ec696018e66",
+          "source_credit_url": "https://www.breakingbourbon.com/article/the-prohibition-collection-returns-reviewing-buffalo-traces-2026-edition",
+          "width": 1000,
+          "height": 667,
+          "decoded_image_verified": true,
+          "after_sha256": "4c4a595d1958076876c1e7e0c1365f0e6b6c221a7a8be1b708c475f0e313ac65"
+        },
+        {
+          "file": "prohibition-kentucky-river-2026.html",
+          "before_sha256": "2574471b7421960685b82fe92af09fc412d013d6ed2708a058b7c506a9bc9899",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-kentucky-river-2026.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "1c3f9b33c1cf5f22f2e08dbd19db422fd7797c0acc29ae8cfb438ec696018e66",
+          "source_credit_url": "https://www.breakingbourbon.com/article/the-prohibition-collection-returns-reviewing-buffalo-traces-2026-edition",
+          "width": 1000,
+          "height": 667,
+          "decoded_image_verified": true,
+          "after_sha256": "35fe00effcace99d002a43e7c8ebcae60d4e9c5d7036b0f63d9efaf515f51420"
+        },
+        {
+          "file": "prohibition-mirror-brook-2025.html",
+          "before_sha256": "b7105bb02a14e58c1d0319a65010816d12952dd12725d39d08e5fb1ee9219757",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-mirror-brook-2025.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "c671e3ae4fd4a3e88182daa5523c8f70a31f513829a9ec396c7778e001a03d7e",
+          "source_credit_url": "https://www.buffalotracedistillery.com/our-brands/prohibition-collection-2/",
+          "width": 247,
+          "height": 640,
+          "decoded_image_verified": true,
+          "after_sha256": "671ff35009e4ce8a809bdf8f4a0815685707e20ab168c8d7f6bfea530802d332"
+        },
+        {
+          "file": "prohibition-old-fashioned-mountain-corn-2025.html",
+          "before_sha256": "e5921971f86a7574f4bfd6fa9610ef09b83f04f2a5fa43bebbc6a87f8ba54038",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-old-fashioned-mountain-corn-2025.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "934fb6ea8fd627284d78f25d55a0684ee5f762d5e73e8e46396eacec77741171",
+          "source_credit_url": "https://www.buffalotracedistillery.com/our-brands/prohibition-collection-2/",
+          "width": 247,
+          "height": 640,
+          "decoded_image_verified": true,
+          "after_sha256": "a4b5f2b1c400ce612d3c84124608ef5c6f16dd95d27c41005020a5be695ab52d"
+        },
+        {
+          "file": "prohibition-old-stagg-2023.html",
+          "before_sha256": "5438b001cfca3fdb7a477d7c592cb71f4bfd85ff7ebe1da7516a0fbbd042b2ee",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-old-stagg-2023.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "59f41c8f669486f0653710b1bab79890c3c322f77a925b51424da5b57870c687",
+          "source_credit_url": "https://www.buffalotracedistillery.com/our-brands/prohibition-collection-1/",
+          "width": 350,
+          "height": 502,
+          "decoded_image_verified": true,
+          "after_sha256": "931301e19035fa874ee7dcc085318de3491683acdd69102d18f8153f723fbdf3"
+        }
+      ],
+      "focused_validation_passed": true,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 1,
-  "last_parent_commit": "e3776f7db3e79ed4ae62a741d603ab41441152db",
-  "updated_at": "2026-10-13T18:29:39.749Z"
+  "repair_checkpoint": 2,
+  "last_parent_commit": "47ab843cfdf93ab59e1064968e1604024c4a081f",
+  "updated_at": "2026-10-13T18:46:41.605Z"
 }
