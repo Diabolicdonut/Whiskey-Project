@@ -517,7 +517,7 @@
     {
       "checkpoint": 9,
       "parent_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
-      "accepted_commit": null,
+      "accepted_commit": "718b6a9fa056f1c9da494a4a012ecdd2a08d3c45",
       "reason": "Existing metadata download and calibration links have missing targets; reconstruct them from current accepted metadata.",
       "changes": [
         {
@@ -578,12 +578,42 @@
       ],
       "focused_validation_passed": true,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    },
+    {
+      "checkpoint": 10,
+      "parent_commit": "718b6a9fa056f1c9da494a4a012ecdd2a08d3c45",
+      "accepted_commit": null,
+      "reason": "Two retained dossier/landing-page research and audit links still target absent files.",
+      "changes": [
+        {
+          "file": "anchor-review-follow-up.md",
+          "change": "Restore the absent navigation target as an explicitly labeled current accepted-state recovery. It reproduces existing metadata facts and research qualifications without presenting itself as the missing historical audit or a new research pass.",
+          "before": "absent",
+          "source_content_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
+          "after_sha256": "33496f4c953d65fadb0334eeebec596a930a71ac2f2290b533ad6e698cffd9e8",
+          "size_bytes": 5225,
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "300d935a19e28dd892a12061b055258c59c46176"
+        },
+        {
+          "file": "audit.md",
+          "change": "Restore the absent navigation target as an explicitly labeled current accepted-state recovery. It reproduces existing metadata facts and research qualifications without presenting itself as the missing historical audit or a new research pass.",
+          "before": "absent",
+          "source_content_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
+          "after_sha256": "21740352ef5f8e318fd12c237f2a1ea2b3e18b55546053e5fe91f888eb3f9883",
+          "size_bytes": 685,
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "1e2a7fe1d69e6b2d504fbf4cd50d1442f76f0698"
+        }
+      ],
+      "focused_validation_passed": true,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 9,
-  "last_parent_commit": "df4640ea3ac34160a56baad80a0e72f5ebd59af3",
-  "updated_at": "2026-10-13T20:29:59.942Z"
+  "repair_checkpoint": 10,
+  "last_parent_commit": "718b6a9fa056f1c9da494a4a012ecdd2a08d3c45",
+  "updated_at": "2026-10-13T20:30:12.420Z"
 }
