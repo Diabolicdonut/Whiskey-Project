@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 149,
+  "checkpoint": 150,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -530,7 +530,8 @@
     "whistlepig-beholden-21-2023-barrel-004.html",
     "whistlepig-beyond-bonded-bourbon-2021.html",
     "whistlepig-beyond-bonded-bourbon-2023.html",
-    "whistlepig-bigshebang-30-2025-barrel-002.html"
+    "whistlepig-bigshebang-30-2025-barrel-002.html",
+    "whistlepig-boss-hog-ix-2022-barrel31.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1257,70 +1258,36 @@
     "whistlepig-beyond-bonded-bourbon-2021.html",
     "whistlepig-beyond-bonded-bourbon-2023.html",
     "whistlepig-beyond-bonded-rye-2023.html",
-    "whistlepig-bigshebang-30-2025-barrel-002.html"
+    "whistlepig-bigshebang-30-2025-barrel-002.html",
+    "whistlepig-boss-hog-i-2013-reviewed.html",
+    "whistlepig-boss-hog-iii-2016-1206.html",
+    "whistlepig-boss-hog-iv-2017-1192.html",
+    "whistlepig-boss-hog-ix-2022-barrel31.html",
+    "whistlepig-boss-hog-v-2018-1176.html"
   ],
   "validation": {
-    "decoded_images": 525,
+    "decoded_images": 526,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 4,
-    "verified_embedded_articles": 525
+    "checkpoint_decoded_images": 1,
+    "verified_embedded_articles": 526
   },
-  "remaining_articles": 100,
-  "updated_at": "2026-10-13T04:41:59.182Z",
+  "remaining_articles": 95,
+  "updated_at": "2026-10-13T04:42:10.853Z",
   "last_checkpoint_articles": [
-    "whistlepig-beholden-21-2023-barrel-004.html",
-    "whistlepig-beyond-bonded-bourbon-2021.html",
-    "whistlepig-beyond-bonded-bourbon-2023.html",
-    "whistlepig-beyond-bonded-rye-2023.html",
-    "whistlepig-bigshebang-30-2025-barrel-002.html"
+    "whistlepig-boss-hog-i-2013-reviewed.html",
+    "whistlepig-boss-hog-iii-2016-1206.html",
+    "whistlepig-boss-hog-iv-2017-1192.html",
+    "whistlepig-boss-hog-ix-2022-barrel31.html",
+    "whistlepig-boss-hog-v-2018-1176.html"
   ],
-  "last_parent_commit": "ac89e015e55bfb6263430fc92f87ed71989b91f3",
+  "last_parent_commit": "3e2315d62da92e0f66bb9c0abd7ea6e99186b07a",
   "last_checkpoint_results": [
     {
-      "article": "whistlepig-beholden-21-2023-barrel-004.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://onemoredram.com/2023/05/10/review-whistlepig-the-beholden-21-year-old-single-malt-whiskey/",
-      "verification_scope": "Elias Aoude / One More Dram original 2023 reviewed-bottle photograph. The publication-day review archive identifies barrel 006 at 92 proof. Unsupported saved barrel-004 metadata is explicitly corrected; the legacy filename remains stable. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
-      "verified_source": "assets/bottles/whistlepig-beholden-21-2023-barrel-004.webp",
-      "source_sha256": "26b07d062c89cafb94d5c260cad9eeb6631e31603616b60c3e65440203e35963",
-      "width": 960,
-      "height": 640,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "whistlepig-beyond-bonded-bourbon-2021.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://thewhiskeywash.com/bourbon/whiskey-review-whistlepig-farmstock-beyond-bonded-bourbon/",
-      "verification_scope": "Exact 2021 launch image; the reviewed FarmStock Bourbon is on the RIGHT. FarmStock Rye on the left is contextual, not the dossier subject.",
-      "verified_source": "assets/bottles/whistlepig-beyond-bonded-bourbon-2021.webp",
-      "source_sha256": "9e7387cb101ad16febd96fcf13c2aca851c0f39b72507b4d7b51fdcaffb728ab",
-      "width": 700,
-      "height": 467,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "whistlepig-beyond-bonded-bourbon-2023.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://thewhiskeywash.com/reviews/whiskey-review-whistlepig-farmstock-beyond-bonded-straight-bourbon-2023/",
-      "verification_scope": "Original photograph in the matched October 2023 bourbon review, not a rye or current catalogue substitute. Source text identifies 100 proof and 51% corn/49% rye; reviewed barrel number unspecified.",
-      "verified_source": "assets/bottles/whistlepig-beyond-bonded-bourbon-2023.webp",
-      "source_sha256": "43f5e05eaf4b1b93b8f5f145629baa7992deda9af2804d0afe91831ec82387b1",
-      "width": 700,
-      "height": 525,
-      "decoded_images": 1,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "whistlepig-beyond-bonded-rye-2023.html",
+      "article": "whistlepig-boss-hog-i-2013-reviewed.html",
       "decision": "inspected_no_exact_verified_image",
       "reason": "Article does not identify an already-verified exact bottle image.",
       "decoded_images": 0,
@@ -1328,15 +1295,39 @@
       "existing_content_preserved": true
     },
     {
-      "article": "whistlepig-bigshebang-30-2025-barrel-002.html",
+      "article": "whistlepig-boss-hog-iii-2016-1206.html",
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image.",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "whistlepig-boss-hog-iv-2017-1192.html",
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image.",
+      "decoded_images": 0,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "whistlepig-boss-hog-ix-2022-barrel31.html",
       "decision": "embedded_verified_exact_slug_photo",
-      "source_url": "https://onemoredram.com/2025/09/04/review-whistlepig-the-bigshebang-30-year-old-single-malt-whiskey/",
-      "verification_scope": "Elias Aoude / One More Dram original 2025 photograph associated with the explicit BigShǝBàng barrel-002, 90.4-proof sample; 30-year Vin Santo-finished identity matches. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
-      "verified_source": "assets/bottles/whistlepig-bigshebang-30-2025-barrel-002.webp",
-      "source_sha256": "2efdc354460d9159c8f85f24c4ad883a7017fd3290f7db062e7b2c3a5754d9ed",
-      "width": 960,
-      "height": 640,
+      "source_url": "https://www.districtdrams.com/americanwhiskeyreviews/boss-hog-ix-sirens-song-review",
+      "verification_scope": "District Drams’ original reviewed-bottle photograph; bottle and box identify barrel 31 and 103.4 proof. This photograph authenticates packaging/sample scope only; it adds no sensory vote.",
+      "verified_source": "assets/bottles/whistlepig-boss-hog-ix-2022-barrel31.webp",
+      "source_sha256": "743169f0b92f92362787271bc47e448b655b31cc07cef7d2068de3cd98bf3085",
+      "width": 963,
+      "height": 1200,
       "decoded_images": 1,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "whistlepig-boss-hog-v-2018-1176.html",
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image.",
+      "decoded_images": 0,
       "article_html_valid": true,
       "existing_content_preserved": true
     }
@@ -1495,7 +1486,11 @@
     "uncle-nearest-cognac-cask-catalogue.html",
     "uncle-nearest-toasted-single-barrel-programme.html",
     "weller-millennium-2026-pending.html",
-    "whistlepig-beyond-bonded-rye-2023.html"
+    "whistlepig-beyond-bonded-rye-2023.html",
+    "whistlepig-boss-hog-i-2013-reviewed.html",
+    "whistlepig-boss-hog-iii-2016-1206.html",
+    "whistlepig-boss-hog-iv-2017-1192.html",
+    "whistlepig-boss-hog-v-2018-1176.html"
   ],
   "classification_corrections": [
     {
