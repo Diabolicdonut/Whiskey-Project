@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 137,
+  "checkpoint": 138,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -483,7 +483,11 @@
     "smoke-wagon-straight-bourbon.html",
     "smoke-wagon-uncut-unfiltered-straight-bourbon-batch-29.html",
     "st-george-baller-american-single-malt.html",
-    "st-george-single-malt-lot-17-2017.html"
+    "st-george-single-malt-lot-17-2017.html",
+    "stagg-batch-25b.html",
+    "star-hill-farm-2025.html",
+    "star-hill-farm-2026.html",
+    "still-austin-cask-strength-bourbon.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1150,45 +1154,39 @@
     "smoke-wagon-straight-bourbon.html",
     "smoke-wagon-uncut-unfiltered-straight-bourbon-batch-29.html",
     "st-george-baller-american-single-malt.html",
-    "st-george-single-malt-lot-17-2017.html"
+    "st-george-single-malt-lot-17-2017.html",
+    "stagg-batch-25b.html",
+    "stagg-release-program.html",
+    "star-hill-farm-2025.html",
+    "star-hill-farm-2026.html",
+    "still-austin-cask-strength-bourbon.html"
   ],
   "validation": {
-    "decoded_images": 478,
+    "decoded_images": 482,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 7,
-    "verified_embedded_articles": 478
+    "checkpoint_decoded_images": 8,
+    "verified_embedded_articles": 482
   },
-  "remaining_articles": 160,
-  "updated_at": "2026-10-13T04:34:15.863Z",
+  "remaining_articles": 155,
+  "updated_at": "2026-10-13T04:34:48.410Z",
   "last_checkpoint_articles": [
-    "single-oak-rye-bourbon-2026.html",
-    "smoke-wagon-straight-bourbon.html",
-    "smoke-wagon-uncut-unfiltered-straight-bourbon-batch-29.html",
-    "st-george-baller-american-single-malt.html",
-    "st-george-single-malt-lot-17-2017.html"
+    "stagg-batch-25b.html",
+    "stagg-release-program.html",
+    "star-hill-farm-2025.html",
+    "star-hill-farm-2026.html",
+    "still-austin-cask-strength-bourbon.html"
   ],
-  "last_parent_commit": "b37a3c65c4edb546555b514015b95206de75c7e2",
+  "last_parent_commit": "12b1af433d85ff981c3552ab2712f1b4cb701d5d",
   "last_checkpoint_results": [
     {
-      "article": "single-oak-rye-bourbon-2026.html",
-      "decision": "embedded_verified_exact_slug_photo",
-      "verified_source": "assets/bottles/single-oak-rye-bourbon-2026.webp",
-      "source_sha256": "ced696f4273cc69d4d9b4d241ced3346975a320951ca443011323705d8392bf5",
-      "width": 1000,
-      "height": 667,
-      "decoded_images": 3,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "smoke-wagon-straight-bourbon.html",
+      "article": "stagg-batch-25b.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/smoke-wagon-straight-bourbon.webp",
-      "source_sha256": "0ce7dc51ebd108edbbfe3947deb1698841b10778cdb2f0d3dc423a4f513ff97b",
+      "verified_source": "assets/bottles/stagg-batch-25b.webp",
+      "source_sha256": "49d47e83e141e9d6a85ac43106723c4d0e150eea29ad702edb4de6b95b33a841",
       "width": 1000,
       "height": 667,
       "decoded_images": 1,
@@ -1196,34 +1194,42 @@
       "existing_content_preserved": true
     },
     {
-      "article": "smoke-wagon-uncut-unfiltered-straight-bourbon-batch-29.html",
+      "article": "stagg-release-program.html",
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image.",
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "star-hill-farm-2025.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/smoke-wagon-uncut-unfiltered-straight-bourbon-batch-29.webp",
-      "source_sha256": "1dcbd22f5c8f9bb0e9c50f28fb83ef3aeaa27d6f47c9313f4235fc40cd01172f",
+      "verified_source": "assets/bottles/star-hill-farm-2025.webp",
+      "source_sha256": "2d679a0737ca5a60574f7aaa890cdb19ddc78fd83fa78dc00f3712f7fd10cbfa",
       "width": 1000,
       "height": 667,
-      "decoded_images": 1,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "st-george-baller-american-single-malt.html",
+      "article": "star-hill-farm-2026.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/st-george-baller-american-single-malt.webp",
-      "source_sha256": "475db2e7c9dc9fe550364a7bde2ceea32bd0e1bae895e670bf1b4ed97572ea4c",
-      "width": 993,
-      "height": 1400,
-      "decoded_images": 1,
+      "verified_source": "assets/bottles/star-hill-farm-2026.webp",
+      "source_sha256": "bcccfbc9226af167bf75e21d4c17d2424490410710c2c6142ad48972c71ca997",
+      "width": 1000,
+      "height": 667,
+      "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "st-george-single-malt-lot-17-2017.html",
+      "article": "still-austin-cask-strength-bourbon.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/st-george-single-malt-lot-17-2017.webp",
-      "source_sha256": "766d5679222d42c3b5b01629365f0f0c81a0737e67e40e5c2c9893580b00319f",
-      "width": 300,
-      "height": 300,
+      "verified_source": "assets/bottles/still-austin-cask-strength-bourbon.webp",
+      "source_sha256": "987426fdb86ec732a1bb9be1322c171d0b2a3c5a457e16fd3a4de891be24ba29",
+      "width": 1000,
+      "height": 667,
       "decoded_images": 1,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -1370,7 +1376,8 @@
     "sagamore-calvados-finish-2020.html",
     "sagamore-cognac-finish-2026-catalogue.html",
     "sagamore-pot-still-rye-malt-catalogue.html",
-    "single-oak-project.html"
+    "single-oak-project.html",
+    "stagg-release-program.html"
   ],
   "classification_corrections": [
     {
