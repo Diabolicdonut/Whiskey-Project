@@ -3,7 +3,7 @@
   "baseline_commit": "a5896905aa609a37b146d4532bb99ba607126970",
   "image_source": "Whiskey-Project-Verified-Bottle-Images.zip",
   "dossier_count": 825,
-  "checkpoint": 145,
+  "checkpoint": 146,
   "status": "in_progress",
   "changed_articles": [
     "old-grand-dad-bourbon.html",
@@ -515,7 +515,10 @@
     "very-old-barton-100-proof.html",
     "weller-12-year.html",
     "weller-18-year-wheat-2025.html",
-    "weller-antique-107.html"
+    "weller-antique-107.html",
+    "weller-cypb.html",
+    "weller-full-proof.html",
+    "weller-millennium-2024.html"
   ],
   "inspected_articles": [
     "old-grand-dad-bourbon.html",
@@ -1222,67 +1225,61 @@
     "very-old-barton-100-proof.html",
     "weller-12-year.html",
     "weller-18-year-wheat-2025.html",
-    "weller-antique-107.html"
+    "weller-antique-107.html",
+    "weller-cypb.html",
+    "weller-full-proof.html",
+    "weller-millennium-2024.html",
+    "weller-millennium-2025.html",
+    "weller-millennium-2026-pending.html"
   ],
   "validation": {
-    "decoded_images": 510,
+    "decoded_images": 513,
     "research_metadata_preserved": true,
     "article_text_preserved": true,
     "image_pixels_preserved": true,
     "index_unchanged": true,
     "add_missing_verified_photos": true,
-    "checkpoint_decoded_images": 11,
-    "verified_embedded_articles": 510
+    "checkpoint_decoded_images": 10,
+    "verified_embedded_articles": 513
   },
-  "remaining_articles": 120,
-  "updated_at": "2026-10-13T04:37:53.825Z",
+  "remaining_articles": 115,
+  "updated_at": "2026-10-13T04:39:42.437Z",
   "last_checkpoint_articles": [
-    "van-winkle-special-reserve-12.html",
-    "very-old-barton-100-proof.html",
-    "weller-12-year.html",
-    "weller-18-year-wheat-2025.html",
-    "weller-antique-107.html"
+    "weller-cypb.html",
+    "weller-full-proof.html",
+    "weller-millennium-2024.html",
+    "weller-millennium-2025.html",
+    "weller-millennium-2026-pending.html"
   ],
-  "last_parent_commit": "d34320aef08960bf72da9e2d04f7eed307cd385b",
+  "last_parent_commit": "157794e54410d4c0922bac2216bfa6b044b20927",
   "last_checkpoint_results": [
     {
-      "article": "van-winkle-special-reserve-12.html",
+      "article": "weller-cypb.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/van-winkle-special-reserve-12.webp",
-      "source_sha256": "71392c0ad7a69d165fd2443b1dde336c3b12d9a831eba93fada917a3ea7d0e3a",
-      "width": 154,
-      "height": 640,
+      "verified_source": "assets/bottles/weller-cypb.webp",
+      "source_sha256": "f4e9c21939156faad95e83efafbf817647f2096b6ba9fbf565101ebba624bbc9",
+      "width": 219,
+      "height": 750,
       "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "very-old-barton-100-proof.html",
+      "article": "weller-full-proof.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/very-old-barton-100-proof.webp",
-      "source_sha256": "089b24d703500383dff957a91b63c70c75008ab9bc0fd1c7e1b363489132371b",
-      "width": 311,
-      "height": 400,
-      "decoded_images": 3,
-      "article_html_valid": true,
-      "existing_content_preserved": true
-    },
-    {
-      "article": "weller-12-year.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/weller-12-year.webp",
-      "source_sha256": "5b3061582fc079d549dc2d518bb356b6a544c68c030f9d19f70b83f7a2ca90ec",
-      "width": 513,
-      "height": 1100,
+      "verified_source": "assets/bottles/weller-full-proof.webp",
+      "source_sha256": "37a42fed3880d61b09bf6e77d5b9cfafe49451dec922d992eb253e6b7238c1ce",
+      "width": 231,
+      "height": 750,
       "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
     },
     {
-      "article": "weller-18-year-wheat-2025.html",
+      "article": "weller-millennium-2024.html",
       "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/weller-18-year-wheat-2025.webp",
-      "source_sha256": "c12b37332986683db829d3a408a8e491933e8de5c7e61a2f48b38e83e605f11f",
+      "verified_source": "assets/bottles/weller-millennium-2024.webp",
+      "source_sha256": "468dc3163a6d392c99305fabe89cb4d463e86c27ea2bbbb7f7758bf8d47bb3a7",
       "width": 1000,
       "height": 667,
       "decoded_images": 2,
@@ -1290,12 +1287,21 @@
       "existing_content_preserved": true
     },
     {
-      "article": "weller-antique-107.html",
-      "decision": "embedded_verified_existing_photo",
-      "verified_source": "assets/bottles/weller-antique-107.webp",
-      "source_sha256": "ef318cd2aa19e5517d819fb2ac255dc32711332ce1c3cf88300b625fa641fed0",
-      "width": 226,
-      "height": 750,
+      "article": "weller-millennium-2025.html",
+      "decision": "verified_preexisting_self_contained_photo",
+      "verified_source_available": true,
+      "verified_source": "assets/bottles/weller-millennium-2025.webp",
+      "source_sha256": "aebd27a97d718f97762d9749847b29ad9e4140f42b25448d62b4d88c203d684a",
+      "existing_image_sha256": "e4e067ba1d9b53599a8cfb8918724f900f436385349b5fda1aa154501f8a9ba3",
+      "source_url": "https://www.insidehook.com/whiskey/weller-wheated-whiskey-millennium-18-year-review",
+      "decoded_images": 2,
+      "article_html_valid": true,
+      "existing_content_preserved": true
+    },
+    {
+      "article": "weller-millennium-2026-pending.html",
+      "decision": "inspected_no_exact_verified_image",
+      "reason": "Article does not identify an already-verified exact bottle image.",
       "decoded_images": 2,
       "article_html_valid": true,
       "existing_content_preserved": true
@@ -1396,7 +1402,8 @@
     "old-overholt-bottled-in-bond.html",
     "redemption-rye.html",
     "rittenhouse-rye-bottled-in-bond.html",
-    "rock-hill-farms.html"
+    "rock-hill-farms.html",
+    "weller-millennium-2025.html"
   ],
   "no_verified_image_articles": [
     "ezra-brooks-90-catalogue.html",
@@ -1450,7 +1457,8 @@
     "templeton-single-barrel-rye-programme.html",
     "uncle-nearest-1884-own-distillation-catalogue.html",
     "uncle-nearest-cognac-cask-catalogue.html",
-    "uncle-nearest-toasted-single-barrel-programme.html"
+    "uncle-nearest-toasted-single-barrel-programme.html",
+    "weller-millennium-2026-pending.html"
   ],
   "classification_corrections": [
     {
