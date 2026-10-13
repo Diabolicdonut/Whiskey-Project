@@ -233,7 +233,7 @@
     {
       "checkpoint": 3,
       "parent_commit": "67d94196ed5c38464a1e5a6222e538df150fa471",
-      "accepted_commit": null,
+      "accepted_commit": "7c2ce078822481be9dbccabbdcde34ef15b23697",
       "reason": "Repair required image URLs that still point to nonexistent local files.",
       "changes": [
         {
@@ -304,12 +304,74 @@
       ],
       "focused_validation_passed": true,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    },
+    {
+      "checkpoint": 4,
+      "parent_commit": "7c2ce078822481be9dbccabbdcde34ef15b23697",
+      "accepted_commit": null,
+      "reason": "Repair required image URLs that still point to nonexistent local files.",
+      "changes": [
+        {
+          "file": "prohibition-walter-b-duffy-2026.html",
+          "before_sha256": "95c8d1d9104783ed5fc5fff38a5ea8a630c0db5bdce2a5c5b366e48c12a7ee70",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/prohibition-walter-b-duffy-2026.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "1c3f9b33c1cf5f22f2e08dbd19db422fd7797c0acc29ae8cfb438ec696018e66",
+          "source_credit_url": "https://www.breakingbourbon.com/article/the-prohibition-collection-returns-reviewing-buffalo-traces-2026-edition",
+          "width": 1000,
+          "height": 667,
+          "decoded_image_verified": true,
+          "after_sha256": "92c5dc35c53c0778a5ae4b6437225f2e9a3b5a69fbd887ed91a3a78f6daf4036"
+        },
+        {
+          "file": "redemption-rye.html",
+          "before_sha256": "1a9a1bb6293ad9259de04de963e29002324d473ac627b058f38a185a59d849bb",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/redemption-rye.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "21f77e853ae9c02ad7bf7d83da6db008a2ab7d5e7f2bdfd8159998a59f61cabf",
+          "source_credit_url": "https://www.redemptionwhiskey.com/whiskeys/rye/",
+          "width": 840,
+          "height": 825,
+          "decoded_image_verified": true,
+          "after_sha256": "3f1cc2d61d1337d1a34340b33cfc9a0a64d61a00d96cdb1f557ddb2ec1052d5c"
+        },
+        {
+          "file": "rittenhouse-rye-bottled-in-bond.html",
+          "before_sha256": "773fcd358a4466dead04350281b914173cf101f8f0894abea6a4cf0bd77ed935",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/rittenhouse-rye-bottled-in-bond.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "009a58a44ce188c7dbd144d3105905e57c1b3995215f48cfd21cf207046b6a95",
+          "source_credit_url": "https://heavenhilldistillery.com/rittenhouse-rye.php",
+          "width": 184,
+          "height": 404,
+          "decoded_image_verified": true,
+          "after_sha256": "652218e0c0adcf816675731367fdc3d85d1fe831cc1557b227379e43686dab91"
+        },
+        {
+          "file": "rock-hill-farms.html",
+          "before_sha256": "f095db6d78e99c4628e5e8f3da9ba6f43549a4363c13805b9ffbbb88842b27bd",
+          "change": "Replace the nonexistent local image src with the identical bytes from its already-credited verified archive image. No image selection, prose, metadata, captions, styles, or ledger classification is changed.",
+          "original_reference": "assets/bottles/rock-hill-farms.webp",
+          "source_archive": "Whiskey-Project-Verified-Bottle-Images.zip",
+          "source_member_sha256": "8435f937d18fcaf058662ee3668f8a6869e906228bede7018f5586cc9aae4618",
+          "source_credit_url": "https://breakingbourbon.com/review/rock-hill-farms-single-barrel-bourbon",
+          "width": 1000,
+          "height": 667,
+          "decoded_image_verified": true,
+          "after_sha256": "e5af409b311a1c3cd3475636494b38232d663fccf369bf57e0afcbf357587967"
+        }
+      ],
+      "focused_validation_passed": true,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 3,
-  "last_parent_commit": "67d94196ed5c38464a1e5a6222e538df150fa471",
-  "updated_at": "2026-10-13T18:54:42.272Z"
+  "repair_checkpoint": 4,
+  "last_parent_commit": "7c2ce078822481be9dbccabbdcde34ef15b23697",
+  "updated_at": "2026-10-13T19:03:50.755Z"
 }
