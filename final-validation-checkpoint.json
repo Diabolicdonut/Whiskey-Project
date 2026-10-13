@@ -308,7 +308,7 @@
     {
       "checkpoint": 4,
       "parent_commit": "7c2ce078822481be9dbccabbdcde34ef15b23697",
-      "accepted_commit": null,
+      "accepted_commit": "2cc9c8bd16e60678cb9546127f6ec0fd180c0efa",
       "reason": "Repair required image URLs that still point to nonexistent local files.",
       "changes": [
         {
@@ -366,12 +366,67 @@
       ],
       "focused_validation_passed": true,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+    },
+    {
+      "checkpoint": 5,
+      "parent_commit": "2cc9c8bd16e60678cb9546127f6ec0fd180c0efa",
+      "accepted_commit": null,
+      "reason": "Existing dossier research/reference links target files absent from the accepted repository.",
+      "changes": [
+        {
+          "file": "calibration-hierarchy-v6.2.md",
+          "change": "Restore the missing navigation target from its previously saved project reference, with the complete original text and source byte length preserved.",
+          "source_filename": "calibration-hierarchy-v6.2.md",
+          "size_bytes": 7085,
+          "before": "absent",
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "1b7dc7d18aa98da5686615886a6047cfeaaf884f"
+        },
+        {
+          "file": "rye-floor-resolution-v5.1.md",
+          "change": "Restore the missing navigation target from its previously saved project reference, with the complete original text and source byte length preserved.",
+          "source_filename": "rye-floor-resolution-v5.1.md",
+          "size_bytes": 4936,
+          "before": "absent",
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "9670a04dfe495733e12ada1ab2ba86f3954f07b6"
+        },
+        {
+          "file": "family-catalog-v6.3.md",
+          "change": "Restore the missing navigation target from its previously saved project reference, with the complete original text and source byte length preserved.",
+          "source_filename": "family-catalog-v6.3.md",
+          "size_bytes": 106950,
+          "before": "absent",
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "b75fee7d76688995c9df9d981c9427a0bb86e9ba"
+        },
+        {
+          "file": "family-catalog-v6.md",
+          "change": "Restore the missing navigation target from its previously saved project reference, with the complete original text and source byte length preserved.",
+          "source_filename": "family-catalog-v6.md",
+          "size_bytes": 25204,
+          "before": "absent",
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "0e69586d80e0408c560cfc2d2d78155a00c2597d"
+        },
+        {
+          "file": "incomplete-dossier-review-v5.1.md",
+          "change": "Restore the missing navigation target from its previously saved project reference, with the complete original text and source byte length preserved.",
+          "source_filename": "incomplete-dossier-review-v5.1.md",
+          "size_bytes": 11444,
+          "before": "absent",
+          "html_and_completed_image_ledger_changed": false,
+          "after_git_blob_sha": "daa3801fd9ca060d53a8c963e403539c26ccd7cc"
+        }
+      ],
+      "focused_validation_passed": true,
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
     }
   ],
   "validation": {
     "status": "pending_full_repository_acceptance"
   },
-  "repair_checkpoint": 4,
-  "last_parent_commit": "7c2ce078822481be9dbccabbdcde34ef15b23697",
-  "updated_at": "2026-10-13T19:03:50.755Z"
+  "repair_checkpoint": 5,
+  "last_parent_commit": "2cc9c8bd16e60678cb9546127f6ec0fd180c0efa",
+  "updated_at": "2026-10-13T20:18:35.839Z"
 }
