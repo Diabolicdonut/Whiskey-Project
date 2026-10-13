@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-final-validation-v1",
   "phase": "repository_completion_and_validation",
-  "status": "in_progress",
+  "status": "complete",
   "baseline_commit": "e3776f7db3e79ed4ae62a741d603ab41441152db",
   "image_embedding_baseline": {
     "checkpoint": 169,
@@ -153,7 +153,9 @@
         }
       ],
       "focused_validation_passed": true,
-      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 2,
@@ -228,7 +230,9 @@
         }
       ],
       "focused_validation_passed": true,
-      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 3,
@@ -303,7 +307,9 @@
         }
       ],
       "focused_validation_passed": true,
-      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 4,
@@ -365,7 +371,9 @@
         }
       ],
       "focused_validation_passed": true,
-      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 5,
@@ -420,7 +428,9 @@
         }
       ],
       "focused_validation_passed": true,
-      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 6,
@@ -448,7 +458,9 @@
         }
       ],
       "focused_validation_passed": true,
-      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 7,
@@ -482,7 +494,9 @@
         }
       ],
       "focused_validation_passed": true,
-      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 8,
@@ -512,7 +526,9 @@
       "focused_validation_passed": false,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
       "focused_validation_status": "JavaScript syntax checked; full static and browser checks pending GitHub CI",
-      "environment_limitation": "Local execution and browser environment disconnected (environment_offline)."
+      "environment_limitation": "Local execution and browser environment disconnected (environment_offline).",
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 9,
@@ -577,7 +593,9 @@
         }
       ],
       "focused_validation_passed": true,
-      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 10,
@@ -607,7 +625,9 @@
         }
       ],
       "focused_validation_passed": true,
-      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 11,
@@ -625,7 +645,9 @@
       ],
       "focused_validation_passed": false,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
-      "focused_validation_status": "JavaScript syntax checked; Chromium validation pending CI"
+      "focused_validation_status": "JavaScript syntax checked; Chromium validation pending CI",
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 12,
@@ -650,12 +672,14 @@
       ],
       "focused_validation_passed": false,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
-      "focused_validation_status": "JavaScript syntax checked; final read-only CI run pending"
+      "focused_validation_status": "JavaScript syntax checked; final read-only CI run pending",
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     },
     {
       "checkpoint": 13,
       "parent_commit": "c2f4d08d5f44222d7f714c35342d3c250fd84475",
-      "accepted_commit": null,
+      "accepted_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17",
       "reason": "Final reports exposed overly strict snapshot-equality and search/sort-persistence assumptions in the validation harness.",
       "changes": [
         {
@@ -859,13 +883,334 @@
       ],
       "focused_validation_passed": false,
       "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
-      "focused_validation_status": "Full rendering and image checks already passed; revised semantic checks pending final CI"
+      "focused_validation_status": "Full rendering and image checks already passed; revised semantic checks pending final CI",
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
+    },
+    {
+      "checkpoint": 14,
+      "parent_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17",
+      "accepted_commit": null,
+      "reason": "The validation reports were generated under a hidden output directory and the artifact step omitted them.",
+      "changes": [
+        {
+          "file": ".github/workflows/completion-validation.yml",
+          "change": "Enable artifact inclusion only for the existing .completion-output directory so the generated JSON reports and public-site screenshots are retained. No website or dossier file changes.",
+          "after_git_blob_sha": "8a947af15e0f6eb67919544e10c84ec1052499d3"
+        }
+      ],
+      "focused_validation_passed": true,
+      "focused_validation_status": "Supported artifact option verified against the official action documentation; all website validation already passed.",
+      "article_text_research_scores_prices_metadata_ids_anchors_and_links_preserved": true,
+      "final_repository_validation_passed": true,
+      "final_validated_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17"
     }
   ],
   "validation": {
-    "status": "pending_full_repository_acceptance"
+    "status": "passed",
+    "all_dossiers_validated": true,
+    "image_embedding_ledger_checkpoint": 169,
+    "image_embedding_ledger_status": "complete",
+    "image_embedding_ledger_inspected_articles": 825,
+    "image_embedding_ledger_verified_embedded_articles": 597,
+    "image_embedding_ledger_remaining_articles": 0,
+    "completed_image_ledger_byte_identical_to_baseline": true,
+    "image_embedding_ledger_git_blob_sha": "4b0f51ad18cacb0a99e19b6eb2667a5e07362393",
+    "html": {
+      "files_validated": 826,
+      "dossiers_validated": 825,
+      "index_validated": true,
+      "structural_failures": 0,
+      "duplicate_id_failures": 0,
+      "branding_failures": 0
+    },
+    "images": {
+      "embedded_data_uri_occurrences_decoded": 1042,
+      "unique_payloads_decoded": 799,
+      "decoded_bitmap_formats_and_svg_xml_validated": true,
+      "embedded_image_failures": 0,
+      "browser_image_load_failures": 0,
+      "standalone_image_assets_absent": true,
+      "missing_required_local_image_paths": 0
+    },
+    "links": {
+      "local_references_checked": 18081,
+      "broken_local_file_references": 0,
+      "broken_local_html_anchors": 0,
+      "index_dossier_targets": 825,
+      "missing_dossier_targets": 0,
+      "orphan_dossier_files": 0,
+      "duplicate_dossier_targets": 0
+    },
+    "runtime": {
+      "browser": "Chromium",
+      "browser_version": "141.0.7390.37",
+      "functional_cases_passed": 403,
+      "all_sortable_columns_in_both_directions": true,
+      "all_filter_and_family_options": true,
+      "canonical_score_display": true,
+      "family_url_reload": true,
+      "combined_filters": true,
+      "dossier_navigation_and_browser_back": true,
+      "responsive_pages_rendered": 2478,
+      "viewports": [
+        {
+          "width": 390,
+          "height": 844
+        },
+        {
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "width": 1440,
+          "height": 900
+        }
+      ],
+      "all_825_dossiers_and_index_rendered_at_each_width": true,
+      "responsive_overflow_failures": 0,
+      "console_errors": 0,
+      "page_errors": 0,
+      "network_errors": 0,
+      "runtime_browser_failures": 0
+    },
+    "index_display": {
+      "rows_validated": 825,
+      "numeric_sort_attributes_validated": 4950,
+      "quality_value_overall_displays_validated": 2475,
+      "failures": 0
+    },
+    "preservation": {
+      "baseline_commit": "e3776f7db3e79ed4ae62a741d603ab41441152db",
+      "all_article_prose_research_scores_prices_expression_identities_metadata_ids_anchors_source_links_navigation_and_styles_preserved": true,
+      "changed_dossier_files": 19,
+      "index_logic_only_change": "Overall sorting now derives its key from the unrounded square root of accepted Quality × Value; stored and displayed scores are unchanged.",
+      "dossier_repairs": "Five HTML structure defects and fourteen broken required image references. Each edit is recorded above and reverses exactly to the accepted baseline bytes.",
+      "all_other_dossier_files_byte_identical": true,
+      "all_dossier_metadata_scripts_byte_identical": true,
+      "recovered_reference_targets": 14,
+      "original_reference_documents_restored": 7,
+      "clearly_labeled_metadata_based_recovery_targets": 7
+    },
+    "retained_metadata_scope_notes": [
+      {
+        "file": "eh-taylor-18-year-marriage-2020.html",
+        "field": "quality_calibration_mode",
+        "index": "evidence_limited_provisional",
+        "dossier": "unscored",
+        "reason": "The existing article supersession notice explicitly retains the earlier archived N/A assessment while the accepted v6.7 index carries the updated scored record."
+      },
+      {
+        "file": "eh-taylor-18-year-marriage-2020.html",
+        "field": "quality_confidence",
+        "index": "Medium-low · one editorial outlet plus multiple independent consumer tasting accounts; disagreement retained",
+        "dossier": "Unscored",
+        "reason": "The existing article supersession notice explicitly retains the earlier archived N/A assessment while the accepted v6.7 index carries the updated scored record."
+      },
+      {
+        "file": "eh-taylor-18-year-marriage-2020.html",
+        "field": "research_date",
+        "index": "2026-10-08",
+        "dossier": "2026-10-05",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "eh-taylor-18-year-marriage-2020.html",
+        "field": "price_checked_date",
+        "index": "2026-10-08",
+        "dossier": "2026-10-05",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "four-roses-anthology-chapter-one-origin.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "george-dickel-18-year-bourbon-reviewed-2024.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "jeffersons-special-finishes-catalogue.html",
+        "field": "research_date",
+        "index": "2026-10-08",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "michters-25-year-rye-historical-reviewed-2025.html",
+        "field": "research_date",
+        "index": "2026-10-09",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "redemption-36-year-bourbon-bottle-13.html",
+        "field": "price_checked_date",
+        "index": "2026-10-09",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "uncle-nearest-cognac-cask-catalogue.html",
+        "field": "price_checked_date",
+        "index": "2026-10-09",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-18-double-malt-reviewed-2019.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-boss-hog-iv-2017-1192.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-boss-hog-ix-2022-barrel31.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-boss-hog-v-2018-1176.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-boss-hog-vi-2019-122.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-boss-hog-vii-2020-1078.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-boss-hog-viii-2021-1048.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-boss-hog-x-commandments-reviewed.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-boss-hog-xi-2024-barrel1.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-boss-hog-xii-2025-barrel10.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-badonkadonk-25-2024-barrel-002.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-bigshebang-30-2025-barrel-002.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-the-boss-hog-xiii-the-golden-pharaoh.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "whistlepig-beholden-21-2023-barrel-004.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "wild-turkey-austin-nichols-archives-gold-foil-edition.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      },
+      {
+        "file": "wild-turkey-generations-2023.html",
+        "field": "research_date",
+        "index": "2026-10-07",
+        "dossier": "2026-10-06",
+        "reason": "Accepted index projection and retained dossier snapshot record different dates; both baseline values are preserved."
+      }
+    ],
+    "retained_metadata_scope_notes_are_not_new_research_or_recalibration": true,
+    "failures": [],
+    "accepted_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17",
+    "accepted_ci_run": {
+      "id": 38464333565,
+      "url": "https://github.com/Diabolicdonut/Whiskey-Project/actions/runs/38464333565",
+      "head_sha": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17",
+      "conclusion": "success",
+      "completed_at": "2026-10-13T20:40:22Z"
+    },
+    "reports": {
+      "summary_preserved_in_this_record": true,
+      "full_reports_and_viewport_screenshots_generated_by": "scripts/completion_validate.py and scripts/completion_runtime.cjs",
+      "artifact_retention_days": 30,
+      "completion_commit_report_upload_enabled": true
+    },
+    "limitations": [
+      "Chromium headless validation against an HTTP server serving exact checked-out repository bytes; external editorial/source websites are outside this rendering test.",
+      "Representative viewport widths tested: 390, 768 and 1440 CSS pixels. No physical-device, Safari or Firefox run.",
+      "The local execution and browser environment disconnected; final static and browser checks were completed successfully on the GitHub CI runner.",
+      "External source-link reachability and live producer/retailer content were not re-researched. Their accepted URLs and article conclusions were preserved."
+    ]
   },
-  "repair_checkpoint": 13,
-  "last_parent_commit": "c2f4d08d5f44222d7f714c35342d3c250fd84475",
-  "updated_at": "2026-10-13T20:37:40.893Z"
+  "repair_checkpoint": 14,
+  "last_parent_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17",
+  "updated_at": "2026-10-13T20:44:46.659Z",
+  "dossiers_validated": 825,
+  "index_validated": true,
+  "image_embedding_complete": true,
+  "structural_failures": 0,
+  "broken_link_failures": 0,
+  "embedded_image_failures": 0,
+  "runtime_browser_failures": 0,
+  "final_accepted_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17",
+  "final_accepted_commit_scope": "Accepted website and dossier/data content validated by the successful CI run. This completion-record commit changes only this record and the validation artifact-upload option; it does not change any validated website or dossier/data content.",
+  "validated_content_tree_sha": "aae7100d7aaf80a2601fad261cbbf2dcfb66fc36",
+  "completed_at": "2026-10-13T20:44:46.659Z"
 }

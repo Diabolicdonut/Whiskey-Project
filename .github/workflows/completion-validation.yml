@@ -42,6 +42,7 @@ jobs:
           name: old-oak-validation-${{ github.sha }}
           path: .completion-output/
           retention-days: 30
+          include-hidden-files: true
       - name: Require both validation passes
         if: always()
         env:
