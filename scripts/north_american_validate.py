@@ -21,7 +21,11 @@ def validate(full=False):
     baseline=projection(original);text=(ROOT/'index.html').read_text();current=projection(text)
     by={r['filename']:r for r in current['rows']}
     for r in baseline['rows']:check(by.get(r['filename'])==r,'baseline_index_metadata',{'file':r['filename']})
-    oldrows=re.findall(r'<tr\b[^>]*data-name="[^"]*".*?</tr>',original,re.S)
+    # Attribute quote style varies in the immutable baseline. Inspect every raw
+    # tbody row, including the six names whose attributes use single quotes.
+    oldbody=re.search(r'<tbody\b[^>]*id="bottles"[^>]*>(.*?)</tbody>',original,re.S)[1]
+    oldrows=re.findall(r'<tr\b[^>]*>.*?</tr>',oldbody,re.S)
+    check(len(oldrows)==len(baseline['rows'])==ctl['original_dossier_count'],'baseline_index_row_count',{'raw_rows':len(oldrows),'metadata_rows':len(baseline['rows'])})
     for r in oldrows:check(r in text,'baseline_index_row_bytes',{'id':re.search('id="([^"]*)"',r)[1]})
     dom=lh.fromstring(text);rows=dom.xpath('//tbody[@id="bottles"]/tr');targets=[r.xpath('.//a/@href')[0] for r in rows];files={p.name for p in ROOT.glob('*.html') if p.name!='index.html'}
     check(len(files)==825+len(new)==ctl['dossier_count'],'counts',{'files':len(files),'records':len(new),'controller':ctl['dossier_count']})
@@ -62,6 +66,6 @@ def validate(full=False):
         if m['quality'] is not None:check(bool(m['review_evidence']),'independent_score_evidence',{'file':m['filename']})
         if m['category'].startswith('Canadian') and q is not None:check(m['quality_calibration_details']['underlying_mode']=='universal_rubric','canadian_calibration_boundary',{'file':m['filename']})
         if m['exact_bottle_image_status']=='verified':check(bool(byfile[m['filename']]['images']),'image_embedding',{'file':m['filename']})
-    report={'schema':'old-oak-north-american-static-validation-v1','checkpoint':ctl['checkpoint'],'status':'passed' if not errors else 'failed','full_repository_validation':full,'dossiers':len(files),'new_dossiers':len(new),'html_files_structurally_checked':len(items),'original_dossier_hashes_verified':825,'original_index_rows_byte_preserved':825,'completed_ledgers_unchanged':True,'checks':checks,'local_references_checked':local,'embedded_image_occurrences_decoded':occ,'unique_image_payloads_decoded':len(unique),'image_dossiers_added':sum(m['exact_bottle_image_status']=='verified' for m in new),'numeric_counts':{k:sum(m[k] is not None for m in new) for k in ['quality','value','overall']},'failure_count':len(errors),'failures':errors}
+    report={'schema':'old-oak-north-american-static-validation-v1','checkpoint':ctl['checkpoint'],'status':'passed' if not errors else 'failed','full_repository_validation':full,'dossiers':len(files),'new_dossiers':len(new),'html_files_structurally_checked':len(items),'original_dossier_hashes_verified':len(ctl['baseline_dossier_sha256']),'original_index_rows_byte_preserved':sum(r in text for r in oldrows),'completed_ledgers_unchanged':True,'checks':checks,'local_references_checked':local,'embedded_image_occurrences_decoded':occ,'unique_image_payloads_decoded':len(unique),'image_dossiers_added':sum(m['exact_bottle_image_status']=='verified' for m in new),'numeric_counts':{k:sum(m[k] is not None for m in new) for k in ['quality','value','overall']},'failure_count':len(errors),'failures':errors}
     out=ROOT.parent/'expansion-research'/'static-report.json';out.parent.mkdir(parents=True,exist_ok=True);out.write_text(json.dumps(report,indent=2,ensure_ascii=False)+'\n');print(json.dumps(report,ensure_ascii=False));return report
 if __name__=='__main__':sys.exit(0 if validate('--full' in sys.argv)['status']=='passed' else 1)

@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 142,
-    "accepted": 83
+    "pending": 134,
+    "accepted": 91
   },
   "entries": [
     {
@@ -6198,21 +6198,21 @@
       "canonical_expression_name": "Crown Royal Chocolate",
       "filename": "crown-royal-chocolate.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
       "whisky_category": "Flavored whiskey",
-      "proof": 70.0,
+      "proof": 70,
       "abv": 35.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky with chocolate flavor",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring",
-      "release_year_or_era": "2025",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian whisky base; exact final grain ratios undisclosed; chocolate flavor added.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Chocolate flavor blended/infused; no separate cask finish authenticated.",
+      "release_year_or_era": "Crown Royal Chocolate, the 2025 limited-edition chocolate-flavored whisky, 35% ABV / 70 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label / producer identity, inspected substantive independent sample evidence, and explicit dated price limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -6222,34 +6222,79 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2025/11/24/review-crown-royal-marquis-and-chocolate/",
+            "summary": "Null finds an appealing cocoa-led dessert pour with little discernible whisky character. It succeeds for him as a chocolate drink rather than a spirit-forward whisky.",
+            "scope": "November 24, 2025; exact Chocolate 70-proof review, separate from Marquis on the same page."
+          },
+          {
+            "reviewer": "Jeff Ellingson",
+            "publisher": "Best Tasting Spirits",
+            "url": "https://www.besttastingspirits.com/review-crown-royal-chocolate-whisky/",
+            "summary": "Ellingson finds chocolate and baking-spice flavors with a less cloying texture than many flavored whiskies, and substantially more audible whisky character than Null does.",
+            "scope": "August 27, 2025; exact 35% ABV Chocolate sample; site generally tests chilled unless stated otherwise."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 86
+      "deterministic_order": 86,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-012",
+      "publication_sources": [
+        {
+          "title": "Chocolate producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/chocolate",
+          "role": "Exact flavor identity, strength and label photograph."
+        },
+        {
+          "title": "2025 producer launch",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-chocolate-flavored-whisky-debuts-nationwide-with-endless-pairing-possibilities-302535950.html",
+          "role": "Limited national September launch and original U.S. MSRP."
+        },
+        {
+          "title": "Chocolate independent tasting",
+          "url": "https://www.besttastingspirits.com/review-crown-royal-chocolate-whisky/",
+          "role": "Matched sensory account; brand-wide production claims are not transferred as exact final recipe."
+        },
+        {
+          "title": "Marquis and Chocolate independent review",
+          "url": "https://www.drinkhacker.com/2025/11/24/review-crown-royal-marquis-and-chocolate/",
+          "role": "Separate exact-expression tasting sections."
+        },
+        {
+          "title": "NC August–October 2026 catalogue",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 17-724, 750 mL, 70 proof, regular USD 29.95."
+        }
+      ]
     },
     {
       "id": "crown-royal-deluxe",
       "canonical_expression_name": "Crown Royal Deluxe",
       "filename": "crown-royal-deluxe.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and barley; component ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "1939 brand; U.S. launch in 1960s",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn, rye and malted barley reported for the blend; exact recurring component ratios undisclosed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Oak maturation; no distinct secondary finish authenticated.",
+      "release_year_or_era": "Crown Royal Fine De Luxe / Deluxe, the recurring 40% ABV / 80-proof Canadian blend.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label / producer identity, inspected substantive independent sample evidence, and explicit dated price limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -6259,34 +6304,74 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/review-crown-royal-canadian-whisky/",
+            "summary": "Dykstra finds appealing sweet/spicy balance and a soft mouthfeel, but a short ending with some heat. He most often prefers it with ice, ginger ale or cola.",
+            "scope": "February 4, 2016; exact De Luxe 40% sample; explicitly compares its character with earlier versions."
+          },
+          {
+            "reviewer": "Richard Thomas",
+            "publisher": "The Whiskey Reviewer",
+            "url": "https://whiskeyreviewer.com/2014/01/crown-royal-whiskey-review_013014/",
+            "summary": "Thomas finds a pleasant, fairly simple blend with light sweetness, modest oak and rye accents. He regards it as competent for neat drinking and practical mixing.",
+            "scope": "January 2014 article; flagship Crown Royal at 40%, not Reserve."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 87
+      "deterministic_order": 87,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-012",
+      "publication_sources": [
+        {
+          "title": "Current Fine De Luxe producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-deluxe",
+          "role": "Exact name, strength and verified label photograph."
+        },
+        {
+          "title": "De Luxe — Rum Howler",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/review-crown-royal-canadian-whisky/",
+          "role": "Dated production account, chronology and full sensory review."
+        },
+        {
+          "title": "Flagship Crown Royal — Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2014/01/crown-royal-whiskey-review_013014/",
+          "role": "Independent simplicity/balance assessment of the exact flagship."
+        },
+        {
+          "title": "NC August–October 2026 catalogue",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Exact Deluxe 1 L entry, code 37-885, regular USD 34.95."
+        }
+      ]
     },
     {
       "id": "crown-royal-golden-apple-23-year",
       "canonical_expression_name": "Crown Royal Golden Apple 23 Year",
       "filename": "crown-royal-golden-apple-23-year.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
       "whisky_category": "Flavored whiskey",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 23.0,
-      "age_information": "23 years",
-      "grain_information": "Canadian whisky with apple flavor",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring",
-      "release_year_or_era": "2023",
+      "age_statement_years": 23,
+      "age_information": "Made with whiskies aged 23 Years",
+      "grain_information": "Canadian whisky blend with Golden Delicious apple flavor; exact grains and component ratios undisclosed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Apple flavor addition; no apple-cask or separate secondary finish authenticated.",
+      "release_year_or_era": "Crown Royal Golden Apple, made with whiskies aged 23 years, apple-flavored whisky at 40% ABV / 80 proof; 2023 limited release.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label / producer identity, inspected substantive independent sample evidence, and explicit dated price limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -6296,34 +6381,74 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Drinkhacker reviewer; byline absent on inspected page",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2023/09/04/review-crown-royal-golden-apple-23-years-old/",
+            "summary": "The review finds weight, useful oak and retained whisky flavor alongside obvious apple flavoring. Its greatest objection is the purchase proposition rather than an absence of sensory merit.",
+            "scope": "September 4, 2023; exact Golden Apple 23 Years, 80 proof; C+ headline grade includes price criticism."
+          },
+          {
+            "reviewer": "Jeffrey Nitschke",
+            "publisher": "The Whiskey Wash",
+            "url": "https://thewhiskeywash.com/reviews/whisky-review-crown-royal-golden-apple-flavored-whisky-aged-23-years/",
+            "summary": "Nitschke finds controlled fruit sweetness, warming spice and a polished, viscous style. He enjoys the pour while declining its expensive bottle purchase.",
+            "scope": "September 28, 2023; exact 23-year-base flavored release, 80 proof, USD 249.99 / 750 mL."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 88
+      "deterministic_order": 88,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-012",
+      "publication_sources": [
+        {
+          "title": "Golden Apple producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/golden-apple23",
+          "role": "Exact label photograph and expression identity."
+        },
+        {
+          "title": "2023 producer launch",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-is-bringing-flavor-to-the-world-of-luxury-whisky-with-launch-of-golden-apple-flavored-whisky-aged-23-years-and-announces-partnership-with-multidisciplinary-artist-solange-knowles-for-saint-heron-301838188.html",
+          "role": "Base-whisky age, June 1 availability, 40% ABV and dated U.S. MSRP."
+        },
+        {
+          "title": "Golden Apple — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2023/09/04/review-crown-royal-golden-apple-23-years-old/",
+          "role": "Matched sensory and price criticism; absent byline is not guessed."
+        },
+        {
+          "title": "Golden Apple — Whiskey Wash",
+          "url": "https://thewhiskeywash.com/reviews/whisky-review-crown-royal-golden-apple-flavored-whisky-aged-23-years/",
+          "role": "Independent positive texture/balance account with explicit price objection."
+        }
+      ]
     },
     {
       "id": "crown-royal-hand-selected-barrel",
       "canonical_expression_name": "Crown Royal Hand Selected Barrel",
       "filename": "crown-royal-hand-selected-barrel.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; Coffey Rye still at Gimli Distillery, Manitoba",
       "status": "historical",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": 103.0,
+      "whisky_category": "Canadian Rye Whisky",
+      "proof": 103,
       "abv": 51.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Single Coffey rye whisky; grain proportions to verify",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2015",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "64% corn / 31.5% rye / 4.5% malted barley reported by Drinkhacker for the reviewed component; not a producer-verified permanent program specification.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "New-oak maturation reported for the reviewed sample; no separate finish documented.",
+      "release_year_or_era": "Crown Royal Hand Selected Barrel, the NAS single-barrel Coffey Rye component program at 51.5% ABV / 103 proof; Texas introduction followed by 2015 wider rollout.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label / producer identity, inspected substantive independent sample evidence, and explicit dated price limitations.",
       "discovery_sources": [
         {
           "title": "Masters Series – Crown Royal Collectors",
@@ -6333,34 +6458,74 @@
       ],
       "potential_image_source": "https://crownroyalcollectors.com/masters-series/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2015/01/30/review-crown-royal-hand-selected-barrel-texas-single-barrel/",
+            "summary": "Null enjoys the ripe sweetness, grain/spice detail and energetic ending, while finding it less complex than some other family releases.",
+            "scope": "January 30, 2015; Texas-era Hand Selected Barrel at 103 proof; exact sampled retailer/barrel not identified."
+          },
+          {
+            "reviewer": "Bobby",
+            "publisher": "Adventures in Whiskey",
+            "url": "https://adventuresinwhiskey.com/2015/06/03/crown-royal-hand-selected-barrel/",
+            "summary": "Bobby finds a medium-bodied combination of sweet grain, fruit and warming spice with good persistence. His producer-provided sample corroborates the general style.",
+            "scope": "June 3, 2015; 51.5% Hand Selected Barrel sample; photograph credited to Diageo."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 89
+      "deterministic_order": 89,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-012",
+      "publication_sources": [
+        {
+          "title": "Hand Selected Barrel — Adventures in Whiskey",
+          "url": "https://adventuresinwhiskey.com/2015/06/03/crown-royal-hand-selected-barrel/",
+          "role": "Exact 103-proof photograph, single-component identity and independent sample."
+        },
+        {
+          "title": "2015 producer rollout",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-welcomes-first-ever-rye-whisky-to-growing-portfolio-300080595.html",
+          "role": "Gimli Coffey Rye still, single-barrel retail program, strength and dated USD 54.99 MSRP."
+        },
+        {
+          "title": "Hand Selected Barrel — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2015/01/30/review-crown-royal-hand-selected-barrel-texas-single-barrel/",
+          "role": "Reported grain percentages, new oak and independent tasting."
+        },
+        {
+          "title": "Texas program archive",
+          "url": "https://crownroyalcollectors.com/retired/",
+          "role": "Dates Texas pilot to 2014; unverified age rumor is excluded."
+        }
+      ]
     },
     {
       "id": "crown-royal-honey",
       "canonical_expression_name": "Crown Royal Honey",
       "filename": "crown-royal-honey.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "discontinued",
       "whisky_category": "Flavored whiskey",
-      "proof": 70.0,
+      "proof": 70,
       "abv": 35.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky with honey flavor",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring",
-      "release_year_or_era": "2014",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian whisky blend with honey flavor; exact final grains, percentages and sweetening recipe undisclosed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Honey flavor infusion; no separate cask finish authenticated.",
+      "release_year_or_era": "Crown Royal Honey, the historical limited-time honey-flavored whisky at 35% ABV / 70 proof; documented in the mid-2010s.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label / producer identity, inspected substantive independent sample evidence, and explicit dated price limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -6370,34 +6535,67 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Alex",
+            "publisher": "Intoxicology",
+            "url": "https://intoxicology.net/new-crown-royal-honey-review/",
+            "summary": "Alex finds recognizable whisky beneath the honey, an agreeable texture and a gently tingling finish. His favorable account is aimed at drinkers who already enjoy sweet flavored spirits.",
+            "scope": "Mid-2010s exact Honey review; self-purchased bottle. One usable substantive matched independent account; no representative consensus claimed."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 90
+      "deterministic_order": 90,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-012",
+      "publication_sources": [
+        {
+          "title": "Honey producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-honey",
+          "role": "Exact 35% identity, past limited-time status and label image."
+        },
+        {
+          "title": "Honey independent review",
+          "url": "https://intoxicology.net/new-crown-royal-honey-review/",
+          "role": "Substantive sensory account; broad historical U.S. price range is not size-matched."
+        },
+        {
+          "title": "March 2016 Michigan approval minutes",
+          "url": "https://www.michigan.gov/-/media/Project/Websites/lara/lcc/Folder22/March_2016_Business.pdf?rev=be5ed79eddce449bb14bb284bd7a0238",
+          "role": "Dated 750 mL expression identity; not an introduction-day or retail-price record."
+        },
+        {
+          "title": "Retired-expression archive",
+          "url": "https://crownroyalcollectors.com/retired/",
+          "role": "Secondary 2015–2016 era reference; not precise first-sale evidence."
+        }
+      ]
     },
     {
       "id": "crown-royal-maple-finished",
       "canonical_expression_name": "Crown Royal Maple Finished",
       "filename": "crown-royal-maple-finished.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "discontinued",
       "whisky_category": "Flavored whiskey",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky with maple flavor",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring; exact process to verify",
-      "release_year_or_era": "2012",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian whisky blend with maple flavor; underlying final grain proportions undisclosed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Added maple flavor plus producer-described maple-toasted-oak treatment; precise duration and vessel regime unverified.",
+      "release_year_or_era": "Crown Royal Maple Finished, the 2012 maple-flavored whisky at 40% ABV / 80 proof, with producer-described maple-toasted-oak treatment.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label / producer identity, inspected substantive independent sample evidence, and explicit dated price limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -6407,34 +6605,69 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2012/11/30/review-crown-royal-maple-finished-canadian-whisky/",
+            "summary": "Null finds the maple so dominant that it obscures the whisky and becomes tiring without a very sweet palate. This is material counterevidence to the more enthusiastic review.",
+            "scope": "November 30, 2012; exact Maple Finished, 80 proof; B- judgment."
+          },
+          {
+            "reviewer": "Geoff Kleinman",
+            "publisher": "Drink Spirits",
+            "url": "https://www.drinkspirits.com/canadian-whisky/crown-royal-maple-finished-canadian-whisky/",
+            "summary": "Kleinman finds the strong sweetness effectively offset by oak and spice, with good persistence and enjoyable flavored-whisky balance.",
+            "scope": "November 19, 2012; exact 40% expression; independent tasting plus production description."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 91
+      "deterministic_order": 91,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-012",
+      "publication_sources": [
+        {
+          "title": "Maple Finished producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-maple",
+          "role": "Exact name, added flavor, strength, oak-treatment language and label image."
+        },
+        {
+          "title": "Maple — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2012/11/30/review-crown-royal-maple-finished-canadian-whisky/",
+          "role": "Independent dominant-flavor criticism; speculation about syrup addition is not repeated as fact."
+        },
+        {
+          "title": "Maple — Drink Spirits",
+          "url": "https://www.drinkspirits.com/canadian-whisky/crown-royal-maple-finished-canadian-whisky/",
+          "role": "Contrasting sensory review, reported staves/chips treatment and dated USD 24.99 context."
+        }
+      ]
     },
     {
       "id": "crown-royal-marquis",
       "canonical_expression_name": "Crown Royal Marquis",
       "filename": "crown-royal-marquis.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed; expression-specific specification verification required",
-      "grain_confidence": "unknown",
-      "finishing_information": "Caribbean rum casks",
-      "release_year_or_era": "2025",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian whisky blend; grains, component ratios, rum source and cask-fill details undisclosed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Caribbean rum-cask finish; exact duration and prior rum distillery not disclosed.",
+      "release_year_or_era": "Crown Royal Marquis, the 2025 NAS Canadian blend finished in Caribbean rum casks, 40% ABV / 80 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label / producer identity, inspected substantive independent sample evidence, and explicit dated price limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -6444,34 +6677,62 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2025/11/24/review-crown-royal-marquis-and-chocolate/",
+            "summary": "Null finds a strongly rum-like, tropical sweet profile with a relatively light texture. He favors its distinctive cocktail use more than its neat depth.",
+            "scope": "November 24, 2025; exact Marquis at 80 proof; B- judgment; Chocolate is a separate section on the same page."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 92
+      "deterministic_order": 92,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-012",
+      "publication_sources": [
+        {
+          "title": "Marquis producer launch",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-unveils-crown-royal-marquis-a-bold-new-whisky-crafted-for-the-next-era-of-nightlife-302442775.html",
+          "role": "Exact finish, May 2025 regional launch, original MSRP and verified release photograph."
+        },
+        {
+          "title": "Marquis independent tasting",
+          "url": "https://www.drinkhacker.com/2025/11/24/review-crown-royal-marquis-and-chocolate/",
+          "role": "Substantive exact-expression account; tasting-based cask speculation is not treated as fact."
+        },
+        {
+          "title": "NC August–October 2026 catalogue",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 37-911, 750 mL, 80 proof, regular USD 39.95."
+        }
+      ]
     },
     {
       "id": "crown-royal-monarch-75th-anniversary",
       "canonical_expression_name": "Crown Royal Monarch 75th Anniversary",
       "filename": "crown-royal-monarch-75th-anniversary.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2014",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Blend including a Gimli Coffey Rye component; complete grain percentages and component age distribution undisclosed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Oak maturation; distinct secondary finish not documented.",
+      "release_year_or_era": "Crown Royal Monarch 75th Anniversary Blend, the individually numbered 2014 NAS limited release, 40% ABV / 80 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label / producer identity, inspected substantive independent sample evidence, and explicit dated price limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal",
@@ -6481,13 +6742,48 @@
       ],
       "potential_image_source": "https://en.wikipedia.org/wiki/Crown_Royal",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2014/07/19/review-crown-royal-monarch-75th-anniversary-blend/",
+            "summary": "Null finds an agreeable texture and some balance but limited development, an artificial aroma and an astringent ending; air improves the objectionable character.",
+            "scope": "July 19, 2014; exact Monarch 80 proof; B assessment."
+          },
+          {
+            "reviewer": "Geoff Kleinman",
+            "publisher": "Drink Spirits",
+            "url": "https://www.drinkspirits.com/canadian-whisky/review-crown-royal-monarch-75th-anniversary-blend/",
+            "summary": "Kleinman finds mature oak, restrained sweetness and spice well integrated in a light, deliberate style, with a clean, moderately persistent ending.",
+            "scope": "June 23, 2014; exact Monarch 75th Anniversary 40%, NAS; much more favorable than Null."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 93
+      "deterministic_order": 93,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-012",
+      "publication_sources": [
+        {
+          "title": "Monarch — Drink Spirits",
+          "url": "https://www.drinkspirits.com/canadian-whisky/review-crown-royal-monarch-75th-anniversary-blend/",
+          "role": "Exact 75th Anniversary bottle image and independent positive sample."
+        },
+        {
+          "title": "2014 producer launch",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-commemorates-75th-anniversary-with-limited-edition-blend-262883391.html",
+          "role": "Exact commemorative identity, component information, 80 proof and USD 75 / 750 mL launch MSRP."
+        },
+        {
+          "title": "Monarch — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2014/07/19/review-crown-royal-monarch-75th-anniversary-blend/",
+          "role": "Material sensory counterevidence retained."
+        }
+      ]
     },
     {
       "id": "crown-royal-noble-collection-13-year-blenders-mash-2018",
