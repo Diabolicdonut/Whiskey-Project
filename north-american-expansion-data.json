@@ -13387,5 +13387,2592 @@
       "image_source": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
       "image_url": "https://images.squarespace-cdn.com/content/v1/61affa9c931dc960c27460a1/25d07b0f-30d1-4391-9285-706612d2641a/Alberta+Premium+Cask+Strength+2.jpg"
     }
+  },
+  {
+    "slug": "alberta-premium-dark-horse-dark-batch",
+    "filename": "alberta-premium-dark-horse-dark-batch.html",
+    "name": "Alberta Premium Dark Horse / Dark Batch",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Alberta Distillers Ltd., Calgary; Beam Suntory at the 2015 U.S. launch, now Suntory Global Spirits",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "91% rye whisky, 8% bourbon, 1% sherry wine; blend percentages, not a single mash bill",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.7,
+    "quality_score": 6.7,
+    "value": 7.2,
+    "value_score": 7.2,
+    "overall": 6.945502141674136,
+    "overall_score": 6.945502141674136,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "universal_dimensions": {
+        "integration": 6.8,
+        "flavor_development": 7,
+        "finish": 6.2,
+        "technical_cleanliness": 7,
+        "texture": 5.8,
+        "maturity_wood_management": 6.8,
+        "distinctiveness": 7.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.705,
+      "editorial_adjustment": -0.005,
+      "adjustment_reason": "Fruit and spice offer good development and distinctive execution. The less flattering report of light texture and a brief ending tempers the panel’s stronger enthusiasm; 6.7 remains good to very good rather than excellent."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Fruit and spice offer good development and distinctive execution. The less flattering report of light texture and a brief ending tempers the panel’s stronger enthusiasm; 6.7 remains good to very good rather than excellent.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the producer’s April 2015 USD 29.99 / 750 mL launch SRP, the distinctive blend was a useful step beyond basic Canadian mixers. This is historical Value at that price, not a claim of 2026 availability or a collector-market bargain.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 29.99,
+    "price_basis": "Historical U.S. producer launch SRP",
+    "price_url": "https://www.suntoryglobalspirits.com/news/albertar-rye-dark-batchtm-whisky-launches-us-market",
+    "price_period": "2015-04-02",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 29.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact entry found in the August–October 2026 NC regular list. Historical SRP does not establish current stock.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Alberta Premium Dark Horse in Canada / Alberta Rye Dark Batch in the U.S.; the documented 45% ABV rye-whisky, bourbon and sherry blend.",
+    "availability_note": "Historical / discontinued in the discovery catalogue; a precise final production year and current U.S. stock are unverified.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://distiller.com/spirits/alberta-rye-dark-batch-whisky",
+      "https://adventuresinwhiskey.com/2015/06/04/alberta-rye-whisky-dark-batch/"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "Adventures in Whiskey"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Distiller Staff",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/alberta-rye-dark-batch-whisky",
+        "summary": "The panel finds wine-led aromatics, fruit, oak and layered baking spice, with a gentle sustained ending. It rates the sample positively at 89 points.",
+        "scope": "U.S. Dark Batch, 45% ABV."
+      },
+      {
+        "reviewer": "Bobby",
+        "publisher": "Adventures in Whiskey",
+        "url": "https://adventuresinwhiskey.com/2015/06/04/alberta-rye-whisky-dark-batch/",
+        "summary": "Bobby likes the wine and nutty sweetness but finds the texture light and the ending brief. The flavors become more compelling on a second tasting, earning a recommendation at the launch budget.",
+        "scope": "June 4, 2015 review of a producer-provided Dark Batch sample."
+      }
+    ],
+    "source_urls": [
+      "https://www.suntoryglobalspirits.com/news/albertar-rye-dark-batchtm-whisky-launches-us-market",
+      "https://distiller.com/spirits/alberta-rye-dark-batch-whisky",
+      "https://adventuresinwhiskey.com/2015/06/04/alberta-rye-whisky-dark-batch/",
+      "https://cheapdude.com/drinks/alberta-premium-dark-horse-review/"
+    ],
+    "production_summary": "The producer confirms the 91/8/1 blend and 90 proof. Distiller reports six-year lower-proof pot-distilled rye in new oak and twelve-year higher-proof column-distilled rye in used bourbon wood. Those are component descriptions, not a twelve-year bottle age. The bourbon is identified as Old Grand-Dad by independent records.",
+    "finishing_information": "Bourbon and sherry are blended additions; new American oak and used bourbon barrels for the rye components",
+    "identity_note": "The 91% figure describes rye whisky within the blend. Bourbon and sherry prevent describing the entire bottle as 100% rye or an American straight rye. A sherry addition is not a sherry-cask finish.",
+    "history": [
+      "Dark Horse was documented in Canada in 2012. The producer dates the renamed U.S. Dark Batch launch to April 2, 2015; this is one expression rather than two separate dossiers.",
+      "This historical release belongs to Alberta’s modern blending experiments. Its documented recipe distinguishes it from the family’s all-rye core and cask-strength bottles. A precise final production year is not authenticated here."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium 100% Rye",
+        "url": "alberta-premium-100-rye.html",
+        "reason": "All-rye Canadian baseline without the documented bourbon/wine additions."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A later Canadian blending reference; no identical recipe or shared score is assumed."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 22,
+        "current_band": false,
+        "reason": "Strong drinking value if an authentic bottle is sound and priced below the original premium-blend budget.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 22,
+        "maximum_exclusive": 30,
+        "current_band": true,
+        "reason": "The original USD 29.99 launch price fits this range.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 30,
+        "maximum_exclusive": 38,
+        "current_band": false,
+        "reason": "Reasonable for someone who specifically enjoys the documented wine and rye combination.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 38,
+        "maximum_exclusive": 45,
+        "current_band": false,
+        "reason": "Taste first; the disputed texture and finish become harder to justify.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 45,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Buy a current Canadian blend rather than paying a discontinued-bottle premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try neat to assess wine, grain spice and the actual finish before sweetening."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "A large cube is a useful option; heavy dilution may emphasize the reported light body."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Start with little syrup because the blend already contains wine and documented sweetness."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "The producer’s ginger-beer serve suits the blend; use bitters and a small orange squeeze."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://adventuresinwhiskey.com/2015/06/04/alberta-rye-whisky-dark-batch/",
+        "image_url": "https://adventuresinwhiskey.com/wp-content/uploads/2015/06/alberta-rye-dark-batch.jpg?w=620&h=930",
+        "scope": "Alberta Premium Dark Horse in Canada / Alberta Rye Dark Batch in the U.S.; the documented 45% ABV rye-whisky, bourbon and sherry blend.",
+        "sha256": "88e8d0ed3470e25a48ee80a5285d3c23eddc6fe9a34e933822c21d3e954e9be1",
+        "image_embedded": true,
+        "width": 620,
+        "height": 930
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Alberta Premium Dark Horse in Canada / Alberta Rye Dark Batch in the U.S.; the documented 45% ABV rye-whisky, bourbon and sherry blend.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-006",
+    "editorial": {
+      "id": "alberta-premium-dark-horse-dark-batch",
+      "category": "Canadian Blended Whisky",
+      "proof": 90,
+      "age": null,
+      "age_display": "NAS",
+      "identity": "Alberta Premium Dark Horse in Canada / Alberta Rye Dark Batch in the U.S.; the documented 45% ABV rye-whisky, bourbon and sherry blend.",
+      "short_version": "An inventive, approachable Canadian blend whose wine addition adds fruit and sweetness. Reviews agree on interesting flavors but disagree on body and finish length.",
+      "producer": "Alberta Distillers Ltd., Calgary; Beam Suntory at the 2015 U.S. launch, now Suntory Global Spirits",
+      "grain": "91% rye whisky, 8% bourbon, 1% sherry wine; blend percentages, not a single mash bill",
+      "production": "The producer confirms the 91/8/1 blend and 90 proof. Distiller reports six-year lower-proof pot-distilled rye in new oak and twelve-year higher-proof column-distilled rye in used bourbon wood. Those are component descriptions, not a twelve-year bottle age. The bourbon is identified as Old Grand-Dad by independent records.",
+      "finish": "Bourbon and sherry are blended additions; new American oak and used bourbon barrels for the rye components",
+      "history": [
+        "Dark Horse was documented in Canada in 2012. The producer dates the renamed U.S. Dark Batch launch to April 2, 2015; this is one expression rather than two separate dossiers.",
+        "This historical release belongs to Alberta’s modern blending experiments. Its documented recipe distinguishes it from the family’s all-rye core and cask-strength bottles. A precise final production year is not authenticated here."
+      ],
+      "identity_note": "The 91% figure describes rye whisky within the blend. Bourbon and sherry prevent describing the entire bottle as 100% rye or an American straight rye. A sherry addition is not a sherry-cask finish.",
+      "reviews": [
+        {
+          "reviewer": "Distiller Staff",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/alberta-rye-dark-batch-whisky",
+          "summary": "The panel finds wine-led aromatics, fruit, oak and layered baking spice, with a gentle sustained ending. It rates the sample positively at 89 points.",
+          "scope": "U.S. Dark Batch, 45% ABV."
+        },
+        {
+          "reviewer": "Bobby",
+          "publisher": "Adventures in Whiskey",
+          "url": "https://adventuresinwhiskey.com/2015/06/04/alberta-rye-whisky-dark-batch/",
+          "summary": "Bobby likes the wine and nutty sweetness but finds the texture light and the ending brief. The flavors become more compelling on a second tasting, earning a recommendation at the launch budget.",
+          "scope": "June 4, 2015 review of a producer-provided Dark Batch sample."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Rye Dark Batch U.S. launch — Suntory Global Spirits",
+          "url": "https://www.suntoryglobalspirits.com/news/albertar-rye-dark-batchtm-whisky-launches-us-market",
+          "role": "Producer recipe, 90 proof, April 2015 launch and USD 29.99 / 750 mL SRP."
+        },
+        {
+          "title": "Alberta Rye Dark Batch — Distiller",
+          "url": "https://distiller.com/spirits/alberta-rye-dark-batch-whisky",
+          "role": "Matched independent tasting, component production and Canadian/U.S. name equivalence."
+        },
+        {
+          "title": "Dark Batch review — Adventures in Whiskey",
+          "url": "https://adventuresinwhiskey.com/2015/06/04/alberta-rye-whisky-dark-batch/",
+          "role": "Independent counterpoint and exact U.S. label photograph."
+        },
+        {
+          "title": "Alberta Premium Dark Horse — Cheap Dude",
+          "url": "https://cheapdude.com/drinks/alberta-premium-dark-horse-review/",
+          "role": "October 2012 Canadian release-era documentation; not used as a precise blend-percentage authority."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium 100% Rye",
+          "url": "alberta-premium-100-rye.html",
+          "reason": "All-rye Canadian baseline without the documented bourbon/wine additions."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A later Canadian blending reference; no identical recipe or shared score is assumed."
+        }
+      ],
+      "quality": 6.7,
+      "dimensions": [
+        6.8,
+        7,
+        6.2,
+        7,
+        5.8,
+        6.8,
+        7.3
+      ],
+      "quality_rationale": "Fruit and spice offer good development and distinctive execution. The less flattering report of light texture and a brief ending tempers the panel’s stronger enthusiasm; 6.7 remains good to very good rather than excellent.",
+      "value": 7.2,
+      "value_rationale": "At the producer’s April 2015 USD 29.99 / 750 mL launch SRP, the distinctive blend was a useful step beyond basic Canadian mixers. This is historical Value at that price, not a claim of 2026 availability or a collector-market bargain.",
+      "pricing": {
+        "amount": 29.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2015-04-02",
+        "basis": "Historical U.S. producer launch SRP",
+        "url": "https://www.suntoryglobalspirits.com/news/albertar-rye-dark-batchtm-whisky-launches-us-market",
+        "nc_status": "No exact entry found in the August–October 2026 NC regular list. Historical SRP does not establish current stock."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 22,
+          "current_band": false,
+          "reason": "Strong drinking value if an authentic bottle is sound and priced below the original premium-blend budget.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 22,
+          "maximum_exclusive": 30,
+          "current_band": true,
+          "reason": "The original USD 29.99 launch price fits this range.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 30,
+          "maximum_exclusive": 38,
+          "current_band": false,
+          "reason": "Reasonable for someone who specifically enjoys the documented wine and rye combination.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 38,
+          "maximum_exclusive": 45,
+          "current_band": false,
+          "reason": "Taste first; the disputed texture and finish become harder to justify.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 45,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Buy a current Canadian blend rather than paying a discontinued-bottle premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try neat to assess wine, grain spice and the actual finish before sweetening."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "A large cube is a useful option; heavy dilution may emphasize the reported light body."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Start with little syrup because the blend already contains wine and documented sweetness."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "The producer’s ginger-beer serve suits the blend; use bitters and a small orange squeeze."
+        }
+      ],
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "availability": "Historical / discontinued in the discovery catalogue; a precise final production year and current U.S. stock are unverified.",
+      "image_url": "https://adventuresinwhiskey.com/wp-content/uploads/2015/06/alberta-rye-dark-batch.jpg?w=620&h=930",
+      "image_source": "https://adventuresinwhiskey.com/2015/06/04/alberta-rye-whisky-dark-batch/",
+      "calibration_mode": "evidence_limited_provisional"
+    }
+  },
+  {
+    "slug": "bearface-one-eleven-oaxaca",
+    "filename": "bearface-one-eleven-oaxaca.html",
+    "name": "Bearface One Eleven Oaxaca",
+    "family": "Bearface",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Bearface Spirits / Mark Anthony group; Canadian whisky sourced, blended by Andrés Faustinelli; mezcal from Pedro Hernández in Baltazar Guelavila, Oaxaca",
+    "proof": 85,
+    "abv": 42.5,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Corn-based single-grain Canadian whisky plus agave espadín mezcal, blended 10:1; not an all-grain final bottle",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.9,
+    "quality_score": 5.9,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "universal_dimensions": {
+        "integration": 5.5,
+        "flavor_development": 6.5,
+        "finish": 6.2,
+        "technical_cleanliness": 5.7,
+        "texture": 5.5,
+        "maturity_wood_management": 5.7,
+        "distinctiveness": 7.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.955,
+      "editorial_adjustment": -0.055,
+      "adjustment_reason": "Distinctive, useful smoke-and-citrus interplay is supported by several reviews, but rubber-like aroma, watery texture and harsh smoke are material counterweights. The result is near-good provisional execution, with wide sample and taste uncertainty."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Distinctive, useful smoke-and-citrus interplay is supported by several reviews, but rubber-like aroma, watery texture and harsh smoke are material counterweights. The result is near-good provisional execution, with wide sample and taste uncertainty.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: a defensible matched U.S. quote was not authenticated. The 2019 Canadian review’s CAD 49.95 and the 2022 LCBO context cannot be converted into a U.S. or NC price without an appropriate exchange/date basis.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No authenticated U.S. price; Canadian historical references remain separately attributed",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact entry in the August–October 2026 NC regular list.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Bearface One Eleven Series Oaxaca Agave Spirit, Batch 01, 42.5% ABV; ten parts Canadian whisky to one part Mexican mezcal.",
+    "availability_note": "Limited 2019 expression; exact current stock and a formal discontinuation date are not authenticated.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://whisky.buzz/blog/bearface-one-eleven-series-oaxaca-edition-review-a-canadian-rebellion-in-a-whisky-bottle",
+      "https://www.dramface.com/all-reviews/2022-canadian-whisky?rq=aengus",
+      "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-one-eleven-series-oaxaca-edition/"
+    ],
+    "review_publishers": [
+      "Whisky Buzz",
+      "Dramface",
+      "The Whiskey Wash"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Mark Bylok",
+        "publisher": "Whisky Buzz",
+        "url": "https://whisky.buzz/blog/bearface-one-eleven-series-oaxaca-edition-review-a-canadian-rebellion-in-a-whisky-bottle",
+        "summary": "Bylok finds forceful smoky-citrus contrast and substantial palate weight, with the acid helping the sweet whisky. He particularly enjoys it in cocktails and notes that its intensity may divide drinkers.",
+        "scope": "December 17, 2019 Batch 01; supplied bottle disclosed."
+      },
+      {
+        "reviewer": "Aengus McCloud",
+        "publisher": "Dramface",
+        "url": "https://www.dramface.com/all-reviews/2022-canadian-whisky?rq=aengus",
+        "summary": "McCloud describes a growing rubber-like aroma, dilute texture and a moderately persistent bittersweet ending. He likes the idea more than the execution and favors the less costly core expression for most buyers.",
+        "scope": "March 2022, 42.5% ABV Oaxaca sample."
+      },
+      {
+        "reviewer": "The Whiskey Wash tasting record; republished by Beth Squires",
+        "publisher": "The Whiskey Wash",
+        "url": "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-one-eleven-series-oaxaca-edition/",
+        "summary": "The tasting finds agave-led sweetness, caramel and smoke. Smoke becomes harsh on the initial sip before settling; the record judges the experiment largely successful and promising for mixed drinks.",
+        "scope": "June 2025 republication, 85-proof Oaxaca; current byline does not establish a fresh batch tasting."
+      }
+    ],
+    "source_urls": [
+      "https://www.bearfacewhisky.com/one-eleven/",
+      "https://whisky.buzz/blog/bearface-one-eleven-series-oaxaca-edition-review-a-canadian-rebellion-in-a-whisky-bottle",
+      "https://www.dramface.com/all-reviews/2022-canadian-whisky?rq=aengus",
+      "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-one-eleven-series-oaxaca-edition/",
+      "https://www.bearfacewhisky.com/faq/"
+    ],
+    "production_summary": "The brand confirms the ten-to-one whisky/mezcal blend and names its mezcal maker. Original launch coverage describes virgin French-oak finishing of the Canadian component and two-year ex-bourbon maturation of the mezcal. The final bottle carries no authenticated age statement; the core Triple Oak’s seven years are not transferred.",
+    "finishing_information": "Virgin French-oak treatment of the Canadian whisky; ex-bourbon-aged mezcal is a blended addition",
+    "identity_note": "The Canadian single-grain description applies to the whisky component. Because the completed expression includes mezcal, this dossier places it with Canadian blends rather than pure single grain. This editorial grouping makes no new legal classification claim.",
+    "history": [
+      "The 2019 Oaxaca release followed the 2018 Triple Oak launch and used Canadian blending flexibility to make an openly disclosed cross-spirit expression.",
+      "The producer still documents it as a limited release. A definitive discontinuation date or broad current U.S. availability is not established, so the discovery ledger’s unqualified discontinued status is narrowed to limited/historical."
+    ],
+    "comparables": [
+      {
+        "name": "Bearface Triple Oak 7 Year",
+        "url": "bearface-triple-oak-7-year.html",
+        "reason": "Corn-and-oak family reference without mezcal."
+      },
+      {
+        "name": "Alberta Premium Dark Horse / Dark Batch",
+        "url": "alberta-premium-dark-horse-dark-batch.html",
+        "reason": "Another disclosed Canadian cross-spirit/wine blend; different grains and additions."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Only consider stocking up after tasting an exact bottle and verifying a compelling local price.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A small cocktail-focused purchase makes more sense than assuming universal appeal.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare its local price with Triple Oak and the mezcal you already enjoy.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The polarizing smoke makes an expensive blind buy difficult to support.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on collector pricing when a current whisky or mezcal better serves your intended drink.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small pour and allow several sips to test whether the smoke remains pleasant."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a few drops before a large cube; one critic already found the body dilute."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Reduce syrup and choose bitters that work with both agave and caramel."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Soda with citrus is a useful way to explore the smoky blend without hiding it."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.bearfacewhisky.com/one-eleven/",
+        "image_url": "https://www.bearfacewhisky.com/wp-content/themes/bearface/includes/img/bottle-one-eleven-with-shadow.png",
+        "scope": "Bearface One Eleven Series Oaxaca Agave Spirit, Batch 01, 42.5% ABV; ten parts Canadian whisky to one part Mexican mezcal.",
+        "sha256": "b0f6cfe266f0f08d61260c25f97c5e6ca9a430011040dee74b25784c981eea2d",
+        "image_embedded": true,
+        "width": 288,
+        "height": 800
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Bearface One Eleven Series Oaxaca Agave Spirit, Batch 01, 42.5% ABV; ten parts Canadian whisky to one part Mexican mezcal.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-006",
+    "editorial": {
+      "id": "bearface-one-eleven-oaxaca",
+      "category": "Canadian Blended Whisky",
+      "proof": 85,
+      "age": null,
+      "age_display": "NAS",
+      "identity": "Bearface One Eleven Series Oaxaca Agave Spirit, Batch 01, 42.5% ABV; ten parts Canadian whisky to one part Mexican mezcal.",
+      "short_version": "An adventurous whisky-and-mezcal blend with assertive smoke. Multiple reviewers find useful cocktail character, but thinness and intrusive smoke keep the assessment close to the good threshold.",
+      "producer": "Bearface Spirits / Mark Anthony group; Canadian whisky sourced, blended by Andrés Faustinelli; mezcal from Pedro Hernández in Baltazar Guelavila, Oaxaca",
+      "grain": "Corn-based single-grain Canadian whisky plus agave espadín mezcal, blended 10:1; not an all-grain final bottle",
+      "production": "The brand confirms the ten-to-one whisky/mezcal blend and names its mezcal maker. Original launch coverage describes virgin French-oak finishing of the Canadian component and two-year ex-bourbon maturation of the mezcal. The final bottle carries no authenticated age statement; the core Triple Oak’s seven years are not transferred.",
+      "finish": "Virgin French-oak treatment of the Canadian whisky; ex-bourbon-aged mezcal is a blended addition",
+      "history": [
+        "The 2019 Oaxaca release followed the 2018 Triple Oak launch and used Canadian blending flexibility to make an openly disclosed cross-spirit expression.",
+        "The producer still documents it as a limited release. A definitive discontinuation date or broad current U.S. availability is not established, so the discovery ledger’s unqualified discontinued status is narrowed to limited/historical."
+      ],
+      "identity_note": "The Canadian single-grain description applies to the whisky component. Because the completed expression includes mezcal, this dossier places it with Canadian blends rather than pure single grain. This editorial grouping makes no new legal classification claim.",
+      "reviews": [
+        {
+          "reviewer": "Mark Bylok",
+          "publisher": "Whisky Buzz",
+          "url": "https://whisky.buzz/blog/bearface-one-eleven-series-oaxaca-edition-review-a-canadian-rebellion-in-a-whisky-bottle",
+          "summary": "Bylok finds forceful smoky-citrus contrast and substantial palate weight, with the acid helping the sweet whisky. He particularly enjoys it in cocktails and notes that its intensity may divide drinkers.",
+          "scope": "December 17, 2019 Batch 01; supplied bottle disclosed."
+        },
+        {
+          "reviewer": "Aengus McCloud",
+          "publisher": "Dramface",
+          "url": "https://www.dramface.com/all-reviews/2022-canadian-whisky?rq=aengus",
+          "summary": "McCloud describes a growing rubber-like aroma, dilute texture and a moderately persistent bittersweet ending. He likes the idea more than the execution and favors the less costly core expression for most buyers.",
+          "scope": "March 2022, 42.5% ABV Oaxaca sample."
+        },
+        {
+          "reviewer": "The Whiskey Wash tasting record; republished by Beth Squires",
+          "publisher": "The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-one-eleven-series-oaxaca-edition/",
+          "summary": "The tasting finds agave-led sweetness, caramel and smoke. Smoke becomes harsh on the initial sip before settling; the record judges the experiment largely successful and promising for mixed drinks.",
+          "scope": "June 2025 republication, 85-proof Oaxaca; current byline does not establish a fresh batch tasting."
+        }
+      ],
+      "sources": [
+        {
+          "title": "One Eleven Oaxaca — Bearface",
+          "url": "https://www.bearfacewhisky.com/one-eleven/",
+          "role": "Primary blend identity, mezcal maker, limited-release image."
+        },
+        {
+          "title": "One Eleven launch review — Whisky Buzz",
+          "url": "https://whisky.buzz/blog/bearface-one-eleven-series-oaxaca-edition-review-a-canadian-rebellion-in-a-whisky-bottle",
+          "role": "2019 era, component wood treatment and independent tasting."
+        },
+        {
+          "title": "A Trio From Canada — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2022-canadian-whisky?rq=aengus",
+          "role": "Substantive contrasting 42.5% ABV tasting; quoted LCBO price is Canadian context."
+        },
+        {
+          "title": "Oaxaca review — The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-one-eleven-series-oaxaca-edition/",
+          "role": "Matched independent sensory record, proof and smoke limitations."
+        },
+        {
+          "title": "Bearface FAQs",
+          "url": "https://www.bearfacewhisky.com/faq/",
+          "role": "Producer describes corn-based single-grain base; does not identify a source distillery."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Bearface Triple Oak 7 Year",
+          "url": "bearface-triple-oak-7-year.html",
+          "reason": "Corn-and-oak family reference without mezcal."
+        },
+        {
+          "name": "Alberta Premium Dark Horse / Dark Batch",
+          "url": "alberta-premium-dark-horse-dark-batch.html",
+          "reason": "Another disclosed Canadian cross-spirit/wine blend; different grains and additions."
+        }
+      ],
+      "quality": 5.9,
+      "dimensions": [
+        5.5,
+        6.5,
+        6.2,
+        5.7,
+        5.5,
+        5.7,
+        7.5
+      ],
+      "quality_rationale": "Distinctive, useful smoke-and-citrus interplay is supported by several reviews, but rubber-like aroma, watery texture and harsh smoke are material counterweights. The result is near-good provisional execution, with wide sample and taste uncertainty.",
+      "value": null,
+      "value_rationale": "N/A: a defensible matched U.S. quote was not authenticated. The 2019 Canadian review’s CAD 49.95 and the 2022 LCBO context cannot be converted into a U.S. or NC price without an appropriate exchange/date basis.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": null,
+        "basis": "No authenticated U.S. price; Canadian historical references remain separately attributed",
+        "url": null,
+        "nc_status": "No exact entry in the August–October 2026 NC regular list."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Only consider stocking up after tasting an exact bottle and verifying a compelling local price.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A small cocktail-focused purchase makes more sense than assuming universal appeal.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare its local price with Triple Oak and the mezcal you already enjoy.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The polarizing smoke makes an expensive blind buy difficult to support.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on collector pricing when a current whisky or mezcal better serves your intended drink.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small pour and allow several sips to test whether the smoke remains pleasant."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a few drops before a large cube; one critic already found the body dilute."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Reduce syrup and choose bitters that work with both agave and caramel."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Soda with citrus is a useful way to explore the smoky blend without hiding it."
+        }
+      ],
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "availability": "Limited 2019 expression; exact current stock and a formal discontinuation date are not authenticated.",
+      "image_url": "https://www.bearfacewhisky.com/wp-content/themes/bearface/includes/img/bottle-one-eleven-with-shadow.png",
+      "image_source": "https://www.bearfacewhisky.com/one-eleven/",
+      "calibration_mode": "evidence_limited_provisional"
+    }
+  },
+  {
+    "slug": "bearface-triple-oak-7-year",
+    "filename": "bearface-triple-oak-7-year.html",
+    "name": "Bearface Triple Oak 7 Year",
+    "family": "Bearface",
+    "portfolio": null,
+    "category": "Canadian Single Grain",
+    "subcategory": "Canadian Single Grain",
+    "producer": "Bearface Spirits / Mark Anthony group; Canadian distillery source undisclosed, blended by Andrés Faustinelli",
+    "proof": 85,
+    "abv": 42.5,
+    "age": "7 Years",
+    "age_display": "7 Years",
+    "age_sort_years": 7,
+    "mash_bill_display": "100% corn single grain according to the producer; conflicting published trace-barley detail is not treated as a verified alternate recipe",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.1,
+    "quality_score": 6.1,
+    "value": 7.3,
+    "value_score": 7.3,
+    "overall": 6.673080248281148,
+    "overall_score": 6.673080248281148,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "universal_dimensions": {
+        "integration": 5.7,
+        "flavor_development": 6.7,
+        "finish": 6,
+        "technical_cleanliness": 5.9,
+        "texture": 6,
+        "maturity_wood_management": 5.7,
+        "distinctiveness": 6.8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.06,
+      "editorial_adjustment": 0.04,
+      "adjustment_reason": "Two positive records support good flavor and body, while a substantial negative record reduces confidence in balance and cleanliness. A cautious 6.1 recognizes useful execution without dismissing the reported flaw or declaring every bottle defective."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Two positive records support good flavor and body, while a substantial negative record reduces confidence in balance and cleanliness. A cautious 6.1 recognizes useful execution without dismissing the reported flaw or declaring every bottle defective.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The observed USD 28.99 / 750 mL Indiana retail quote is a modest budget for a documented seven-year multi-cask expression. Divergent tasting evidence lowers Value below an automatic stock-up judgment; current NC availability is not implied.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 28.99,
+    "price_basis": "Observed U.S. retail listing, Total Wine; Carmel, Indiana store context; tax and stock vary",
+    "price_url": "https://www.totalwine.com/spirits/canadian-whisky/bearface-canadian-whisky/p/231003750?igrules=true&s=2703&tab=3",
+    "price_period": "2026-10-14",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 28.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact entry found in the August–October 2026 NC regular list. A U.S. local-store quote is used instead.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Bearface Triple Oak Canadian Whisky, seven-year expression at 42.5% ABV; current core release.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.breakingbourbon.com/review/bearface-triple-oak-canadian-whisky",
+      "https://www.insidehook.com/drinks/review-bearface-whisky-triple-oak",
+      "https://thewhiskeywash.com/reviews/whisky-review-bearface-triple-oak-oaxaca-wilderness-series-matsutake/"
+    ],
+    "review_publishers": [
+      "Breaking Bourbon",
+      "InsideHook",
+      "The Whiskey Wash"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Nick Beiter",
+        "publisher": "Breaking Bourbon",
+        "url": "https://www.breakingbourbon.com/review/bearface-triple-oak-canadian-whisky",
+        "summary": "Beiter finds integrated dessert flavors, silky texture and a gentle spice ending. He regards the original USD 35 budget as attractive for the sweet, layered style.",
+        "scope": "September 8, 2022 seven-year / 85-proof supplied sample."
+      },
+      {
+        "reviewer": "Kirk Miller",
+        "publisher": "InsideHook",
+        "url": "https://www.insidehook.com/drinks/review-bearface-whisky-triple-oak",
+        "summary": "Miller finds corn sweetness joined by fruit and vanilla, with spice at the end and more complexity than he expects from an inexpensive Canadian bottle.",
+        "scope": "2022 core Triple Oak review and blender interview."
+      },
+      {
+        "reviewer": "Jacob Wirt",
+        "publisher": "The Whiskey Wash",
+        "url": "https://thewhiskeywash.com/reviews/whisky-review-bearface-triple-oak-oaxaca-wilderness-series-matsutake/",
+        "summary": "Wirt reports a marker-like aroma he checks in several glasses, then dominant wood tannins and bitterness. He sees potential but wants substantially better balance.",
+        "scope": "June 2025 published seven-year / 85-proof record; sample and batch equivalence not established."
+      }
+    ],
+    "source_urls": [
+      "https://us.bearfacewhisky.com/triple-oak-whisky/",
+      "https://www.bearfacewhisky.com/faq/",
+      "https://www.breakingbourbon.com/review/bearface-triple-oak-canadian-whisky",
+      "https://www.insidehook.com/drinks/review-bearface-whisky-triple-oak",
+      "https://thewhiskeywash.com/reviews/whisky-review-bearface-triple-oak-oaxaca-wilderness-series-matsutake/",
+      "https://www.totalwine.com/spirits/canadian-whisky/bearface-canadian-whisky/p/231003750?igrules=true&s=2703&tab=3"
+    ],
+    "production_summary": "American ex-bourbon wood, French red-wine oak and toasted virgin Hungarian oak create the documented Triple Oak treatment. The producer describes seven years in the first wood before later casks, while Breaking Bourbon describes seven total years divided between stages. Both support the seven-year bottle identity; the exact stage duration remains unresolved.",
+    "finishing_information": "French red-wine casks and air-dried virgin Hungarian oak after American ex-bourbon maturation",
+    "identity_note": "Oak-derived spice does not make the corn-based expression rye. Published stage-duration and trace-barley details conflict; neither an undisclosed source distillery nor a precise cask timeline is invented.",
+    "history": [
+      "Bearface launched in Canada in 2018. Breaking Bourbon dates the ongoing U.S. release to May 2022, so those dates describe different market milestones.",
+      "The brand’s shipping-container aging is a modern method of exposing selected casks to changing temperatures. It does not establish a separate whisky age or a disclosed distilling source."
+    ],
+    "comparables": [
+      {
+        "name": "Bearface One Eleven Oaxaca",
+        "url": "bearface-one-eleven-oaxaca.html",
+        "reason": "Introduces mezcal instead of relying only on the corn whisky and oak."
+      },
+      {
+        "name": "Bearface Wilderness Matsutake",
+        "url": "bearface-wilderness-matsutake.html",
+        "reason": "Adds mushroom infusion and sherry-cask influence; not the same recipe."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 24,
+        "current_band": false,
+        "reason": "Very attractive if a tasted bottle agrees with you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 24,
+        "maximum_exclusive": 32,
+        "current_band": true,
+        "reason": "The observed USD 28.99 quote sits here; a small first purchase is sensible.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 32,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "Fair for a fan of pronounced sweet oak who has tried this batch.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 40,
+        "maximum_exclusive": 48,
+        "current_band": false,
+        "reason": "Taste first because other critics find objectionable aroma and tannins.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 48,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Trade up to a more consistently supported Canadian bottle for drinking value.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Check the aroma first, then allow air and evaluate sweetness against tannin."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try one large cube; monitor whether cooling improves balance without stripping the corn character."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Begin with very little syrup because sweetness dominates the positive reviews."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Soda or restrained ginger ale can extend the oak-spice profile; avoid assuming it needs more sweetness."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://us.bearfacewhisky.com/triple-oak-whisky/",
+        "image_url": "https://us.bearfacewhisky.com/wp-content/themes/bearface/includes/img/BEARFACE-whisky-bottle-shadow.png",
+        "scope": "Bearface Triple Oak Canadian Whisky, seven-year expression at 42.5% ABV; current core release.",
+        "sha256": "74d8fd9f46a907fc7261d073e2385511297848860364462d2d9ac21578614fa9",
+        "image_embedded": true,
+        "width": 366,
+        "height": 1065
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Bearface Triple Oak Canadian Whisky, seven-year expression at 42.5% ABV; current core release.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-006",
+    "editorial": {
+      "id": "bearface-triple-oak-7-year",
+      "category": "Canadian Single Grain",
+      "proof": 85,
+      "age": 7,
+      "age_display": "7 Years",
+      "identity": "Bearface Triple Oak Canadian Whisky, seven-year expression at 42.5% ABV; current core release.",
+      "short_version": "Sweet corn whisky shaped by three oak regimes. Enthusiastic reviews describe good integration and silky texture; a strong counter-review finds tannins and an aroma flaw. Taste before committing to a large bottle.",
+      "producer": "Bearface Spirits / Mark Anthony group; Canadian distillery source undisclosed, blended by Andrés Faustinelli",
+      "grain": "100% corn single grain according to the producer; conflicting published trace-barley detail is not treated as a verified alternate recipe",
+      "production": "American ex-bourbon wood, French red-wine oak and toasted virgin Hungarian oak create the documented Triple Oak treatment. The producer describes seven years in the first wood before later casks, while Breaking Bourbon describes seven total years divided between stages. Both support the seven-year bottle identity; the exact stage duration remains unresolved.",
+      "finish": "French red-wine casks and air-dried virgin Hungarian oak after American ex-bourbon maturation",
+      "history": [
+        "Bearface launched in Canada in 2018. Breaking Bourbon dates the ongoing U.S. release to May 2022, so those dates describe different market milestones.",
+        "The brand’s shipping-container aging is a modern method of exposing selected casks to changing temperatures. It does not establish a separate whisky age or a disclosed distilling source."
+      ],
+      "identity_note": "Oak-derived spice does not make the corn-based expression rye. Published stage-duration and trace-barley details conflict; neither an undisclosed source distillery nor a precise cask timeline is invented.",
+      "reviews": [
+        {
+          "reviewer": "Nick Beiter",
+          "publisher": "Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/bearface-triple-oak-canadian-whisky",
+          "summary": "Beiter finds integrated dessert flavors, silky texture and a gentle spice ending. He regards the original USD 35 budget as attractive for the sweet, layered style.",
+          "scope": "September 8, 2022 seven-year / 85-proof supplied sample."
+        },
+        {
+          "reviewer": "Kirk Miller",
+          "publisher": "InsideHook",
+          "url": "https://www.insidehook.com/drinks/review-bearface-whisky-triple-oak",
+          "summary": "Miller finds corn sweetness joined by fruit and vanilla, with spice at the end and more complexity than he expects from an inexpensive Canadian bottle.",
+          "scope": "2022 core Triple Oak review and blender interview."
+        },
+        {
+          "reviewer": "Jacob Wirt",
+          "publisher": "The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/reviews/whisky-review-bearface-triple-oak-oaxaca-wilderness-series-matsutake/",
+          "summary": "Wirt reports a marker-like aroma he checks in several glasses, then dominant wood tannins and bitterness. He sees potential but wants substantially better balance.",
+          "scope": "June 2025 published seven-year / 85-proof record; sample and batch equivalence not established."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Triple Oak — Bearface",
+          "url": "https://us.bearfacewhisky.com/triple-oak-whisky/",
+          "role": "Primary cask types, strength and official expression photograph."
+        },
+        {
+          "title": "Bearface FAQs",
+          "url": "https://www.bearfacewhisky.com/faq/",
+          "role": "Producer corn-based single-grain identity."
+        },
+        {
+          "title": "Triple Oak — Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/bearface-triple-oak-canadian-whisky",
+          "role": "2022 U.S. chronology, price and positive matched tasting."
+        },
+        {
+          "title": "Bearface review — InsideHook",
+          "url": "https://www.insidehook.com/drinks/review-bearface-whisky-triple-oak",
+          "role": "2018 brand launch, blender interview and independent tasting."
+        },
+        {
+          "title": "Triple Oak — The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/reviews/whisky-review-bearface-triple-oak-oaxaca-wilderness-series-matsutake/",
+          "role": "Substantive negative sensory counterpoint; not averaged away."
+        },
+        {
+          "title": "Bearface 750 mL — Total Wine",
+          "url": "https://www.totalwine.com/spirits/canadian-whisky/bearface-canadian-whisky/p/231003750?igrules=true&s=2703&tab=3",
+          "role": "USD 28.99 observed October 14, 2026; rendered store context Carmel, Indiana, with store variation."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Bearface One Eleven Oaxaca",
+          "url": "bearface-one-eleven-oaxaca.html",
+          "reason": "Introduces mezcal instead of relying only on the corn whisky and oak."
+        },
+        {
+          "name": "Bearface Wilderness Matsutake",
+          "url": "bearface-wilderness-matsutake.html",
+          "reason": "Adds mushroom infusion and sherry-cask influence; not the same recipe."
+        }
+      ],
+      "quality": 6.1,
+      "dimensions": [
+        5.7,
+        6.7,
+        6,
+        5.9,
+        6,
+        5.7,
+        6.8
+      ],
+      "quality_rationale": "Two positive records support good flavor and body, while a substantial negative record reduces confidence in balance and cleanliness. A cautious 6.1 recognizes useful execution without dismissing the reported flaw or declaring every bottle defective.",
+      "value": 7.3,
+      "value_rationale": "The observed USD 28.99 / 750 mL Indiana retail quote is a modest budget for a documented seven-year multi-cask expression. Divergent tasting evidence lowers Value below an automatic stock-up judgment; current NC availability is not implied.",
+      "pricing": {
+        "amount": 28.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-14",
+        "basis": "Observed U.S. retail listing, Total Wine; Carmel, Indiana store context; tax and stock vary",
+        "url": "https://www.totalwine.com/spirits/canadian-whisky/bearface-canadian-whisky/p/231003750?igrules=true&s=2703&tab=3",
+        "nc_status": "No exact entry found in the August–October 2026 NC regular list. A U.S. local-store quote is used instead."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 24,
+          "current_band": false,
+          "reason": "Very attractive if a tasted bottle agrees with you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 24,
+          "maximum_exclusive": 32,
+          "current_band": true,
+          "reason": "The observed USD 28.99 quote sits here; a small first purchase is sensible.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 32,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "Fair for a fan of pronounced sweet oak who has tried this batch.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 40,
+          "maximum_exclusive": 48,
+          "current_band": false,
+          "reason": "Taste first because other critics find objectionable aroma and tannins.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 48,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Trade up to a more consistently supported Canadian bottle for drinking value.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Check the aroma first, then allow air and evaluate sweetness against tannin."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try one large cube; monitor whether cooling improves balance without stripping the corn character."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Begin with very little syrup because sweetness dominates the positive reviews."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Soda or restrained ginger ale can extend the oak-spice profile; avoid assuming it needs more sweetness."
+        }
+      ],
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "image_url": "https://us.bearfacewhisky.com/wp-content/themes/bearface/includes/img/BEARFACE-whisky-bottle-shadow.png",
+      "image_source": "https://us.bearfacewhisky.com/triple-oak-whisky/",
+      "calibration_mode": "evidence_limited_provisional"
+    }
+  },
+  {
+    "slug": "bearface-wilderness-matsutake",
+    "filename": "bearface-wilderness-matsutake.html",
+    "name": "Bearface Wilderness Matsutake",
+    "family": "Bearface",
+    "portfolio": null,
+    "category": "Flavored whiskey",
+    "subcategory": "Flavored whiskey",
+    "producer": "Bearface Spirits / Mark Anthony group; sourced Canadian whisky blended by Andrés Faustinelli",
+    "proof": 85,
+    "abv": 42.5,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian whisky base; final expression’s complete grain proportions not independently established; matsutake mushrooms added by infusion",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7.3,
+    "quality_score": 7.3,
+    "value": 6.6,
+    "value_score": 6.6,
+    "overall": 6.941181455631311,
+    "overall_score": 6.941181455631311,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "universal_dimensions": {
+        "integration": 7.4,
+        "flavor_development": 7.5,
+        "finish": 7.6,
+        "technical_cleanliness": 7.5,
+        "texture": 6.8,
+        "maturity_wood_management": 6.7,
+        "distinctiveness": 8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.365,
+      "editorial_adjustment": -0.065,
+      "adjustment_reason": "Two substantial positive records support integrated savory character and a persistent finish. The recipe is distinctive and successful, but the evidence remains too limited for an excellent or reference-class flavored-whiskey claim."
+    },
+    "quality_calibration_basis": "Universal execution rubric within the disclosed flavored-whiskey group; the Canadian base is retained in production context, and unrelated bourbon/rye anchors are not applied.",
+    "quality_rationale": "Two substantial positive records support integrated savory character and a persistent finish. The recipe is distinctive and successful, but the evidence remains too limited for an excellent or reference-class flavored-whiskey claim.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the documented December 2023 U.S. launch SRP of USD 44.99 / 750 mL, the positive execution can justify a curiosity purchase. This remains a premium experiment relative to ordinary flavored-whiskey mixers; Value is historical at that SRP.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 44.99,
+    "price_basis": "Historical U.S. producer launch SRP, 750 mL",
+    "price_url": "https://www.breakingbourbon.com/bourbon-whiskey-press-releases/bearface-canadian-whisky-introduces-wilderness-series",
+    "price_period": "2023-12-05",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 44.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact entry found in the August–October 2026 NC regular list. Current U.S. retail stock is not established.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Bearface Wilderness Series 01 Matsutake, mushroom-infused Canadian whisky at 42.5% ABV; Canadian 2022 review era and December 2023 U.S. debut.",
+    "availability_note": "Limited Series 01; formal discontinuation and present local inventory are unverified.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://whiskycast.com/ratings/bearface-wilderness-series-matsutake-edition/",
+      "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-wilderness-series-01-matusake-edition/"
+    ],
+    "review_publishers": [
+      "WhiskyCast",
+      "The Whiskey Wash"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Mark Gillespie",
+        "publisher": "WhiskyCast",
+        "url": "https://whiskycast.com/ratings/bearface-wilderness-series-matsutake-edition/",
+        "summary": "Gillespie finds earthy and pine-like aromatics, a dense mouthfeel, pepper and citrus, followed by a persistent spiced ending. His 92-point judgment strongly supports the execution.",
+        "scope": "August 2022 Matsutake, 42.5% ABV."
+      },
+      {
+        "reviewer": "Jacob Wirt; republished by Beth Squires",
+        "publisher": "The Whiskey Wash",
+        "url": "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-wilderness-series-01-matusake-edition/",
+        "summary": "The original tasting finds restrained earthy aroma, richer sweetness and savory leaf-like character on the palate, with an enduring earthy finish. It treats the experiment as rewarding and worth trying.",
+        "scope": "Original 2023 tasting, updated June 2025; republication is not a second independent review."
+      }
+    ],
+    "source_urls": [
+      "https://us.bearfacewhisky.com/the-wilderness-series-matsutake/",
+      "https://www.breakingbourbon.com/bourbon-whiskey-press-releases/bearface-canadian-whisky-introduces-wilderness-series",
+      "https://whiskycast.com/ratings/bearface-wilderness-series-matsutake-edition/",
+      "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-wilderness-series-01-matusake-edition/"
+    ],
+    "production_summary": "The producer blends whisky matured in French wine-related wood and sherry pipes with a separate mushroom-infused component. Fresh and dried matsutake spend two months in a high-proof cask component. The bottle has no authenticated age statement; it does not inherit Triple Oak’s seven-year label.",
+    "finishing_information": "French oak / wine casks and sherry pipes; matsutake cask infusion is an added ingredient",
+    "identity_note": "Flavored whiskey is the project’s editorial group for disclosed infusions. The Canadian legal minimum and the word rye do not establish this expression’s grain ratio; producer tasting language is not independent review evidence.",
+    "history": [
+      "WhiskyCast reviewed the 85-proof expression in August 2022. The producer’s U.S. announcement is dated December 5, 2023; the Canadian review era and later American market launch are kept separate.",
+      "This is Wilderness Series 01, not the later coastal-water Release 02. The original discovery’s discontinued label is not supported by a formal end-date; limited/historical is the defensible availability description."
+    ],
+    "comparables": [
+      {
+        "name": "Bearface Triple Oak 7 Year",
+        "url": "bearface-triple-oak-7-year.html",
+        "reason": "Family corn-and-oak reference without mushroom infusion; assessed in a different editorial category."
+      },
+      {
+        "name": "Bearface One Eleven Oaxaca",
+        "url": "bearface-one-eleven-oaxaca.html",
+        "reason": "Another limited experiment, using mezcal rather than mushrooms."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 30,
+        "current_band": false,
+        "reason": "A compelling budget for someone who enjoys savory whisky.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 30,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "Good room to explore the unusual infusion without a large premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 40,
+        "maximum_exclusive": 50,
+        "current_band": true,
+        "reason": "The USD 44.99 U.S. launch SRP fits a fair specialist purchase.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 50,
+        "maximum_exclusive": 60,
+        "current_band": false,
+        "reason": "Taste first; the savory character is intentionally unusual.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 60,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on scarcity premiums if your aim is drinking value.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try neat first so the savory note can be judged in context."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "A few drops or one large cube can test the reported dense texture."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use little syrup and aromatic bitters; a strong sweet mix may hide the infusion."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Try plain soda and restrained citrus to keep the earthy character clear."
+      }
+    ],
+    "review_video_sources": [
+      {
+        "title": "Bearface Matsutake — Canadian Whisky Journey, episode 45",
+        "url": "https://www.youtube.com/watch?v=-VTQvTPMvSE",
+        "scope": "Expression-matched further viewing; video title alone is not counted as inspected sensory evidence."
+      }
+    ],
+    "image_credits": [
+      {
+        "source_url": "https://us.bearfacewhisky.com/the-wilderness-series-matsutake/",
+        "image_url": "https://us.bearfacewhisky.com/wp-content/themes/bearface/includes/img/MATSUTAKE_BOTTLE@2x.png",
+        "scope": "Bearface Wilderness Series 01 Matsutake, mushroom-infused Canadian whisky at 42.5% ABV; Canadian 2022 review era and December 2023 U.S. debut.",
+        "sha256": "be187e9b49f54cd1b2eab2ff79774d26543ae5e0f479f51bd07f1d93aab07fc8",
+        "image_embedded": true,
+        "width": 388,
+        "height": 1070
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Bearface Wilderness Series 01 Matsutake, mushroom-infused Canadian whisky at 42.5% ABV; Canadian 2022 review era and December 2023 U.S. debut.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-006",
+    "editorial": {
+      "id": "bearface-wilderness-matsutake",
+      "category": "Flavored whiskey",
+      "proof": 85,
+      "age": null,
+      "age_display": "NAS",
+      "identity": "Bearface Wilderness Series 01 Matsutake, mushroom-infused Canadian whisky at 42.5% ABV; Canadian 2022 review era and December 2023 U.S. debut.",
+      "short_version": "A savory, earthy experiment with unusually positive matched reviews. The mushroom infusion is disclosed as flavoring, while its wood treatments and thick texture give the concept more than novelty.",
+      "producer": "Bearface Spirits / Mark Anthony group; sourced Canadian whisky blended by Andrés Faustinelli",
+      "grain": "Canadian whisky base; final expression’s complete grain proportions not independently established; matsutake mushrooms added by infusion",
+      "production": "The producer blends whisky matured in French wine-related wood and sherry pipes with a separate mushroom-infused component. Fresh and dried matsutake spend two months in a high-proof cask component. The bottle has no authenticated age statement; it does not inherit Triple Oak’s seven-year label.",
+      "finish": "French oak / wine casks and sherry pipes; matsutake cask infusion is an added ingredient",
+      "history": [
+        "WhiskyCast reviewed the 85-proof expression in August 2022. The producer’s U.S. announcement is dated December 5, 2023; the Canadian review era and later American market launch are kept separate.",
+        "This is Wilderness Series 01, not the later coastal-water Release 02. The original discovery’s discontinued label is not supported by a formal end-date; limited/historical is the defensible availability description."
+      ],
+      "identity_note": "Flavored whiskey is the project’s editorial group for disclosed infusions. The Canadian legal minimum and the word rye do not establish this expression’s grain ratio; producer tasting language is not independent review evidence.",
+      "reviews": [
+        {
+          "reviewer": "Mark Gillespie",
+          "publisher": "WhiskyCast",
+          "url": "https://whiskycast.com/ratings/bearface-wilderness-series-matsutake-edition/",
+          "summary": "Gillespie finds earthy and pine-like aromatics, a dense mouthfeel, pepper and citrus, followed by a persistent spiced ending. His 92-point judgment strongly supports the execution.",
+          "scope": "August 2022 Matsutake, 42.5% ABV."
+        },
+        {
+          "reviewer": "Jacob Wirt; republished by Beth Squires",
+          "publisher": "The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-wilderness-series-01-matusake-edition/",
+          "summary": "The original tasting finds restrained earthy aroma, richer sweetness and savory leaf-like character on the palate, with an enduring earthy finish. It treats the experiment as rewarding and worth trying.",
+          "scope": "Original 2023 tasting, updated June 2025; republication is not a second independent review."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Matsutake — Bearface",
+          "url": "https://us.bearfacewhisky.com/the-wilderness-series-matsutake/",
+          "role": "Primary infusion method, cask treatments, strength and Series 01 bottle image."
+        },
+        {
+          "title": "U.S. Wilderness Series launch — producer release via Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/bourbon-whiskey-press-releases/bearface-canadian-whisky-introduces-wilderness-series",
+          "role": "December 5, 2023 U.S. debut and USD 44.99 / 750 mL SRP."
+        },
+        {
+          "title": "Matsutake — WhiskyCast",
+          "url": "https://whiskycast.com/ratings/bearface-wilderness-series-matsutake-edition/",
+          "role": "Named independent 2022 sensory record."
+        },
+        {
+          "title": "Matsutake — The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/bearface-whisky-review-wilderness-series-01-matusake-edition/",
+          "role": "Independent original 2023 tasting with 2025 republication explicitly distinguished."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Bearface Triple Oak 7 Year",
+          "url": "bearface-triple-oak-7-year.html",
+          "reason": "Family corn-and-oak reference without mushroom infusion; assessed in a different editorial category."
+        },
+        {
+          "name": "Bearface One Eleven Oaxaca",
+          "url": "bearface-one-eleven-oaxaca.html",
+          "reason": "Another limited experiment, using mezcal rather than mushrooms."
+        }
+      ],
+      "quality": 7.3,
+      "dimensions": [
+        7.4,
+        7.5,
+        7.6,
+        7.5,
+        6.8,
+        6.7,
+        8
+      ],
+      "quality_rationale": "Two substantial positive records support integrated savory character and a persistent finish. The recipe is distinctive and successful, but the evidence remains too limited for an excellent or reference-class flavored-whiskey claim.",
+      "value": 6.6,
+      "value_rationale": "At the documented December 2023 U.S. launch SRP of USD 44.99 / 750 mL, the positive execution can justify a curiosity purchase. This remains a premium experiment relative to ordinary flavored-whiskey mixers; Value is historical at that SRP.",
+      "pricing": {
+        "amount": 44.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2023-12-05",
+        "basis": "Historical U.S. producer launch SRP, 750 mL",
+        "url": "https://www.breakingbourbon.com/bourbon-whiskey-press-releases/bearface-canadian-whisky-introduces-wilderness-series",
+        "nc_status": "No exact entry found in the August–October 2026 NC regular list. Current U.S. retail stock is not established."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 30,
+          "current_band": false,
+          "reason": "A compelling budget for someone who enjoys savory whisky.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 30,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "Good room to explore the unusual infusion without a large premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 40,
+          "maximum_exclusive": 50,
+          "current_band": true,
+          "reason": "The USD 44.99 U.S. launch SRP fits a fair specialist purchase.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 50,
+          "maximum_exclusive": 60,
+          "current_band": false,
+          "reason": "Taste first; the savory character is intentionally unusual.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 60,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on scarcity premiums if your aim is drinking value.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try neat first so the savory note can be judged in context."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "A few drops or one large cube can test the reported dense texture."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use little syrup and aromatic bitters; a strong sweet mix may hide the infusion."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Try plain soda and restrained citrus to keep the earthy character clear."
+        }
+      ],
+      "calibration_basis": "Universal execution rubric within the disclosed flavored-whiskey group; the Canadian base is retained in production context, and unrelated bourbon/rye anchors are not applied.",
+      "evidence_limit": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "videos": [
+        {
+          "title": "Bearface Matsutake — Canadian Whisky Journey, episode 45",
+          "url": "https://www.youtube.com/watch?v=-VTQvTPMvSE",
+          "scope": "Expression-matched further viewing; video title alone is not counted as inspected sensory evidence."
+        }
+      ],
+      "availability": "Limited Series 01; formal discontinuation and present local inventory are unverified.",
+      "image_url": "https://us.bearfacewhisky.com/wp-content/themes/bearface/includes/img/MATSUTAKE_BOTTLE@2x.png",
+      "image_source": "https://us.bearfacewhisky.com/the-wilderness-series-matsutake/",
+      "calibration_mode": "evidence_limited_provisional"
+    }
+  },
+  {
+    "slug": "black-velvet-apple",
+    "filename": "black-velvet-apple.html",
+    "name": "Black Velvet Apple",
+    "family": "Black Velvet",
+    "portfolio": null,
+    "category": "Flavored whiskey",
+    "subcategory": "Flavored whiskey",
+    "producer": "Black Velvet Distilling Company, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+    "proof": 70,
+    "abv": 35.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian blended whisky base with natural apple flavor; complete grain proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.5,
+    "quality_score": 5.5,
+    "value": 7.1,
+    "value_score": 7.1,
+    "overall": 6.248999919987197,
+    "overall_score": 6.248999919987197,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "One substantive independent panel record supports a provisional judgment. Bare star averages and manufacturer sensory descriptions are not counted as separate tastings.",
+      "universal_dimensions": {
+        "integration": 5.5,
+        "flavor_development": 5,
+        "finish": 5.8,
+        "technical_cleanliness": 6,
+        "texture": 5.5,
+        "maturity_wood_management": 4.8,
+        "distinctiveness": 5.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.45,
+      "editorial_adjustment": 0.05,
+      "adjustment_reason": "A matched panel supports clean, coherent candy-like execution and usable persistence. Narrow flavor development and syrupy texture keep the provisional judgment modestly above the flavored-category competent midpoint."
+    },
+    "quality_calibration_basis": "Universal execution rubric within flavored whiskey; the 35% ABV flavor extension is not scored as an unmodified Canadian blend.",
+    "quality_rationale": "A matched panel supports clean, coherent candy-like execution and usable persistence. Narrow flavor development and syrupy texture keep the provisional judgment modestly above the flavored-category competent midpoint.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the February 2021 U.S. launch SRP of USD 10.99 / 750 mL, a competent flavored cocktail bottle offered a low-cost way to obtain the intended apple profile. This is launch-price Value, not a current NC quote.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 10.99,
+    "price_basis": "Historical U.S. producer launch SRP",
+    "price_url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/",
+    "price_period": "2021-02-02",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 10.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Apple has no exact regular entry in the checked August–October 2026 list; the 2021 launch quote remains explicitly historical.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Black Velvet Apple, original Canadian whisky with natural apple flavor, 35% ABV / 70 proof; launched February 2021.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.tastings.com/Spirits-Review/Black-Velvet-Apple-Flavored-Canadian-Whiskey-Canada-08-01-2023.aspx"
+    ],
+    "review_publishers": [
+      "Tastings"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-Apple-Flavored-Canadian-Whiskey-Canada-08-01-2023.aspx",
+        "summary": "The panel describes confectionery green-apple sweetness, tang and a syrupy medium body, with a lingering candy-like ending. Its Bronze/Recommended judgment supports the intended flavored mixer rather than subtle mature whisky.",
+        "scope": "June 22, 2023, exact 35% ABV Apple sample."
+      }
+    ],
+    "source_urls": [
+      "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/",
+      "https://www.tastings.com/Spirits-Review/Black-Velvet-Apple-Flavored-Canadian-Whiskey-Canada-08-01-2023.aspx",
+      "https://blackvelvetwhisky.com/whisky.php",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "Heaven Hill identifies the original Black Velvet Canadian whisky as the base and confirms natural apple flavors and 70 proof. This is an added-flavor expression with no authenticated final-bottle age statement; the ordinary blend’s recipe ratios remain undisclosed.",
+    "finishing_information": "Natural apple flavor addition; no separate cask finish documented",
+    "identity_note": null,
+    "history": [
+      "Heaven Hill’s acquisition closed in November 2019. Apple followed as a February 2021 flavor extension, joining Toasted Caramel.",
+      "The original discovery source was a caramel retailer page. Direct producer documentation and a matched 2023 panel tasting authenticate Apple independently; the ledger is corrected without changing its order."
+    ],
+    "comparables": [
+      {
+        "name": "Black Velvet Cinnamon Rush",
+        "url": "black-velvet-cinnamon-rush.html",
+        "reason": "Another disclosed low-proof flavor extension; not evidence for Apple’s sensory score."
+      },
+      {
+        "name": "Bearface Wilderness Matsutake",
+        "url": "bearface-wilderness-matsutake.html",
+        "reason": "A much more expensive Canadian infusion with a savory rather than candy-driven aim."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 9,
+        "current_band": false,
+        "reason": "Compelling if apple-candy flavor is what you want.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 9,
+        "maximum_exclusive": 13,
+        "current_band": true,
+        "reason": "The launch SRP fits a low-cost mixing purchase.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 13,
+        "maximum_exclusive": 17,
+        "current_band": false,
+        "reason": "Fair only for a drinker who specifically likes this sweet style.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 17,
+        "maximum_exclusive": 22,
+        "current_band": false,
+        "reason": "Compare with other apple-flavored options before paying a premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 22,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking value when the simple flavor profile costs this much.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small tasting pour to check tolerance for the candy-like sweetness."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Serve cold or over a cube if the syrupy texture is too prominent neat."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use it as a small flavored portion alongside ordinary whisky and omit syrup initially."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Ginger ale and lime work as a starting point; adjust mixer sweetness downward."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://blackvelvetwhisky.com/whisky.php",
+        "image_url": "https://blackvelvetwhisky.com/images/bv-apple.jpg",
+        "scope": "Black Velvet Apple, original Canadian whisky with natural apple flavor, 35% ABV / 70 proof; launched February 2021.",
+        "sha256": "0c9b69380056827a8330e238d78fe29d929140d1237846c25be22245e7f8de57",
+        "image_embedded": true,
+        "width": 1981,
+        "height": 1255
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Black Velvet Apple, original Canadian whisky with natural apple flavor, 35% ABV / 70 proof; launched February 2021.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-006",
+    "editorial": {
+      "id": "black-velvet-apple",
+      "category": "Flavored whiskey",
+      "proof": 70,
+      "age": null,
+      "age_display": "NAS",
+      "identity": "Black Velvet Apple, original Canadian whisky with natural apple flavor, 35% ABV / 70 proof; launched February 2021.",
+      "short_version": "An inexpensive green-apple candy style intended for shots and mixing. A substantive panel record supports competent flavored-whiskey execution, with little basis for a complex neat-sipping claim.",
+      "producer": "Black Velvet Distilling Company, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+      "grain": "Canadian blended whisky base with natural apple flavor; complete grain proportions undisclosed",
+      "production": "Heaven Hill identifies the original Black Velvet Canadian whisky as the base and confirms natural apple flavors and 70 proof. This is an added-flavor expression with no authenticated final-bottle age statement; the ordinary blend’s recipe ratios remain undisclosed.",
+      "finish": "Natural apple flavor addition; no separate cask finish documented",
+      "history": [
+        "Heaven Hill’s acquisition closed in November 2019. Apple followed as a February 2021 flavor extension, joining Toasted Caramel.",
+        "The original discovery source was a caramel retailer page. Direct producer documentation and a matched 2023 panel tasting authenticate Apple independently; the ledger is corrected without changing its order."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-Apple-Flavored-Canadian-Whiskey-Canada-08-01-2023.aspx",
+          "summary": "The panel describes confectionery green-apple sweetness, tang and a syrupy medium body, with a lingering candy-like ending. Its Bronze/Recommended judgment supports the intended flavored mixer rather than subtle mature whisky.",
+          "scope": "June 22, 2023, exact 35% ABV Apple sample."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Black Velvet Apple launch — Heaven Hill",
+          "url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/",
+          "role": "Primary February 2021 identity, 70 proof, flavoring, ownership and USD 10.99 / 750 mL SRP."
+        },
+        {
+          "title": "Black Velvet Apple — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-Apple-Flavored-Canadian-Whiskey-Canada-08-01-2023.aspx",
+          "role": "Substantive independent 2023 panel notes; price is a dated reference, not present inventory."
+        },
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Current Apple listing and exact expression image."
+        },
+        {
+          "title": "NC August–October 2026 regular price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Checked for an exact regular Apple entry; none found. No sibling code or price transferred."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Black Velvet Cinnamon Rush",
+          "url": "black-velvet-cinnamon-rush.html",
+          "reason": "Another disclosed low-proof flavor extension; not evidence for Apple’s sensory score."
+        },
+        {
+          "name": "Bearface Wilderness Matsutake",
+          "url": "bearface-wilderness-matsutake.html",
+          "reason": "A much more expensive Canadian infusion with a savory rather than candy-driven aim."
+        }
+      ],
+      "quality": 5.5,
+      "dimensions": [
+        5.5,
+        5,
+        5.8,
+        6,
+        5.5,
+        4.8,
+        5.5
+      ],
+      "quality_rationale": "A matched panel supports clean, coherent candy-like execution and usable persistence. Narrow flavor development and syrupy texture keep the provisional judgment modestly above the flavored-category competent midpoint.",
+      "value": 7.1,
+      "value_rationale": "At the February 2021 U.S. launch SRP of USD 10.99 / 750 mL, a competent flavored cocktail bottle offered a low-cost way to obtain the intended apple profile. This is launch-price Value, not a current NC quote.",
+      "pricing": {
+        "amount": 10.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2021-02-02",
+        "basis": "Historical U.S. producer launch SRP",
+        "url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/",
+        "nc_status": "Apple has no exact regular entry in the checked August–October 2026 list; the 2021 launch quote remains explicitly historical."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 9,
+          "current_band": false,
+          "reason": "Compelling if apple-candy flavor is what you want.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 9,
+          "maximum_exclusive": 13,
+          "current_band": true,
+          "reason": "The launch SRP fits a low-cost mixing purchase.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 13,
+          "maximum_exclusive": 17,
+          "current_band": false,
+          "reason": "Fair only for a drinker who specifically likes this sweet style.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 17,
+          "maximum_exclusive": 22,
+          "current_band": false,
+          "reason": "Compare with other apple-flavored options before paying a premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 22,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking value when the simple flavor profile costs this much.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small tasting pour to check tolerance for the candy-like sweetness."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Serve cold or over a cube if the syrupy texture is too prominent neat."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use it as a small flavored portion alongside ordinary whisky and omit syrup initially."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Ginger ale and lime work as a starting point; adjust mixer sweetness downward."
+        }
+      ],
+      "calibration_basis": "Universal execution rubric within flavored whiskey; the 35% ABV flavor extension is not scored as an unmodified Canadian blend.",
+      "evidence_limit": "One substantive independent panel record supports a provisional judgment. Bare star averages and manufacturer sensory descriptions are not counted as separate tastings.",
+      "image_url": "https://blackvelvetwhisky.com/images/bv-apple.jpg",
+      "image_source": "https://blackvelvetwhisky.com/whisky.php",
+      "calibration_mode": "evidence_limited_provisional"
+    }
+  },
+  {
+    "slug": "black-velvet-cinnamon-rush",
+    "filename": "black-velvet-cinnamon-rush.html",
+    "name": "Black Velvet Cinnamon Rush",
+    "family": "Black Velvet",
+    "portfolio": null,
+    "category": "Flavored whiskey",
+    "subcategory": "Flavored whiskey",
+    "producer": "Black Velvet / Constellation Brands at the 2013 release; Lethbridge distillery, later acquired by Heaven Hill in 2019",
+    "proof": 70,
+    "abv": 35.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian whisky base with cinnamon flavoring; complete grain proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Identity and price are producer-verified. The inspected community remarks are explicitly excluded from numeric Quality and Value."
+    },
+    "quality_calibration_basis": "No calibration or numeric dimensions applied: substantive exact-expression tasting evidence remains insufficient.",
+    "quality_rationale": "N/A: exact release identity is verified, but available independent tasting detail is too sparse for a defensible Quality number.",
+    "quality_confidence": "Unscored",
+    "quality_na_reason": "Only two brief consumer flavor remarks and bare ratings were inspected; there is no substantive exact-expression independent record of balance, body and finish sufficient for seven-dimension scoring.",
+    "value_rationale": "N/A: the 2013 launch price is authenticated, but the missing substantive sensory assessment prevents a Value score.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": 12.49,
+    "price_basis": "Historical U.S. producer launch SRP",
+    "price_url": "https://www.acnnewswire.com/press-release/english/14193/black-velvet-announces-new-cinnamon-rush-flavored-whisky",
+    "price_period": "2013-09-17",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 12.49,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact entry authenticated in the checked current regular NC list; historical price only.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Black Velvet Cinnamon Rush Flavored Whisky, 35% ABV / 70 proof; national U.S. introduction September 2013.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [],
+    "review_publishers": [],
+    "critical_source_count": 0,
+    "review_evidence": [],
+    "source_urls": [
+      "https://www.acnnewswire.com/press-release/english/14193/black-velvet-announces-new-cinnamon-rush-flavored-whisky",
+      "https://distiller.com/spirits/black-velvet-cinnamon-rush/tastes",
+      "https://www.whisky.com/whisky-database/details/black-velvet-cinnamon-rush.html",
+      "https://blackvelvetwhisky.com/whisky.php",
+      "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/"
+    ],
+    "production_summary": "The producer’s September 17, 2013 announcement confirms 70 proof and a cinnamon-flavored whisky base. Individual grain ratios, a final-bottle age and a separate cask finish are not authenticated. Producer promises about spice complexity are not independent tasting evidence.",
+    "finishing_information": "Cinnamon flavor addition; no separate cask finish authenticated",
+    "identity_note": "The 35% ABV flavored product is assessed in the flavored-whiskey group. A cinnamon extension’s sweetness or heat cannot be inferred from original Black Velvet reviews.",
+    "history": [
+      "Cinnamon Rush followed the brand’s successful caramel extension and was announced for U.S. sale in September 2013, with 1 L, 750 mL and 50 mL sizes.",
+      "It does not appear in the current official range inspected at recovery. That supports historical treatment, but no exact formal discontinuation date is claimed."
+    ],
+    "comparables": [
+      {
+        "name": "Black Velvet Apple",
+        "url": "black-velvet-apple.html",
+        "reason": "A separately documented 70-proof flavor extension with stronger independent panel evidence."
+      },
+      {
+        "name": "Bearface Wilderness Matsutake",
+        "url": "bearface-wilderness-matsutake.html",
+        "reason": "An infused Canadian alternative with substantial sensory records; different intended use and price."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Do not stock up solely on an old launch price when Quality is unscored.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Try an inexpensive small size if you enjoy cinnamon shots.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A fair budget requires a current exact bottle quote and your own taste check.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sparse evidence makes an expensive blind purchase difficult to justify.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on scarcity premiums for a simple flavor extension without a full review record.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "A small sample can establish whether the strong cinnamon style suits you."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try chilled or over ice; no published full tasting record supports a more specific dilution claim."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a small cinnamon-flavored portion with ordinary whisky and taste before adding syrup."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Plain soda can moderate concentration; sweet mixers may amplify candy-like character."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.whisky.com/whisky-database/details/black-velvet-cinnamon-rush.html",
+        "image_url": "https://www.whisky.com/fileadmin/_processed_/5/1/csm_Black_Velvet_Cinnamon_b529193723.jpg",
+        "scope": "Black Velvet Cinnamon Rush Flavored Whisky, 35% ABV / 70 proof; national U.S. introduction September 2013.",
+        "sha256": "82fb9505c0130569d9ff4afe90221fc3fee61fde84231f2678308801bbb70ce2",
+        "image_embedded": true,
+        "width": 270,
+        "height": 360
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Black Velvet Cinnamon Rush Flavored Whisky, 35% ABV / 70 proof; national U.S. introduction September 2013.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-006",
+    "editorial": {
+      "id": "black-velvet-cinnamon-rush",
+      "category": "Flavored whiskey",
+      "proof": 70,
+      "age": null,
+      "age_display": "NAS",
+      "identity": "Black Velvet Cinnamon Rush Flavored Whisky, 35% ABV / 70 proof; national U.S. introduction September 2013.",
+      "short_version": "A historical cinnamon flavor extension whose launch identity is well documented. Sparse consumer remarks establish interest but do not support a full Quality or Value assessment.",
+      "producer": "Black Velvet / Constellation Brands at the 2013 release; Lethbridge distillery, later acquired by Heaven Hill in 2019",
+      "grain": "Canadian whisky base with cinnamon flavoring; complete grain proportions undisclosed",
+      "production": "The producer’s September 17, 2013 announcement confirms 70 proof and a cinnamon-flavored whisky base. Individual grain ratios, a final-bottle age and a separate cask finish are not authenticated. Producer promises about spice complexity are not independent tasting evidence.",
+      "finish": "Cinnamon flavor addition; no separate cask finish authenticated",
+      "history": [
+        "Cinnamon Rush followed the brand’s successful caramel extension and was announced for U.S. sale in September 2013, with 1 L, 750 mL and 50 mL sizes.",
+        "It does not appear in the current official range inspected at recovery. That supports historical treatment, but no exact formal discontinuation date is claimed."
+      ],
+      "identity_note": "The 35% ABV flavored product is assessed in the flavored-whiskey group. A cinnamon extension’s sweetness or heat cannot be inferred from original Black Velvet reviews.",
+      "reviews": [],
+      "quality": null,
+      "value": null,
+      "na_reason": "Only two brief consumer flavor remarks and bare ratings were inspected; there is no substantive exact-expression independent record of balance, body and finish sufficient for seven-dimension scoring.",
+      "quality_rationale": "N/A: exact release identity is verified, but available independent tasting detail is too sparse for a defensible Quality number.",
+      "value_rationale": "N/A: the 2013 launch price is authenticated, but the missing substantive sensory assessment prevents a Value score.",
+      "community": "Two short Distiller comments describe dominant cinnamon and chewing-gum-like flavor. They are useful caveats, not a representative consensus or a scored sensory panel; three ratings do not establish quality.",
+      "sources": [
+        {
+          "title": "Cinnamon Rush launch — producer announcement via ACN Newswire",
+          "url": "https://www.acnnewswire.com/press-release/english/14193/black-velvet-announces-new-cinnamon-rush-flavored-whisky",
+          "role": "September 17, 2013 launch, 70 proof and USD 12.49 / 750 mL SRP."
+        },
+        {
+          "title": "Cinnamon Rush consumer records — Distiller",
+          "url": "https://distiller.com/spirits/black-velvet-cinnamon-rush/tastes",
+          "role": "Inspected sparse comments; insufficient for numeric scoring."
+        },
+        {
+          "title": "Cinnamon Rush — Whisky.com",
+          "url": "https://www.whisky.com/whisky-database/details/black-velvet-cinnamon-rush.html",
+          "role": "Exact 35% ABV / 1 L expression documentation and label image."
+        },
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Present official range omits Cinnamon Rush; exact discontinuation date not established."
+        },
+        {
+          "title": "Black Velvet Apple launch — Heaven Hill",
+          "url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/",
+          "role": "2019 acquisition context, not Cinnamon Rush tasting evidence."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Black Velvet Apple",
+          "url": "black-velvet-apple.html",
+          "reason": "A separately documented 70-proof flavor extension with stronger independent panel evidence."
+        },
+        {
+          "name": "Bearface Wilderness Matsutake",
+          "url": "bearface-wilderness-matsutake.html",
+          "reason": "An infused Canadian alternative with substantial sensory records; different intended use and price."
+        }
+      ],
+      "pricing": {
+        "amount": 12.49,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2013-09-17",
+        "basis": "Historical U.S. producer launch SRP",
+        "url": "https://www.acnnewswire.com/press-release/english/14193/black-velvet-announces-new-cinnamon-rush-flavored-whisky",
+        "nc_status": "No exact entry authenticated in the checked current regular NC list; historical price only."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Do not stock up solely on an old launch price when Quality is unscored.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Try an inexpensive small size if you enjoy cinnamon shots.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A fair budget requires a current exact bottle quote and your own taste check.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sparse evidence makes an expensive blind purchase difficult to justify.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on scarcity premiums for a simple flavor extension without a full review record.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "A small sample can establish whether the strong cinnamon style suits you."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try chilled or over ice; no published full tasting record supports a more specific dilution claim."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a small cinnamon-flavored portion with ordinary whisky and taste before adding syrup."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Plain soda can moderate concentration; sweet mixers may amplify candy-like character."
+        }
+      ],
+      "calibration_mode": "unscored",
+      "calibration_basis": "No calibration or numeric dimensions applied: substantive exact-expression tasting evidence remains insufficient.",
+      "evidence_limit": "Identity and price are producer-verified. The inspected community remarks are explicitly excluded from numeric Quality and Value.",
+      "image_url": "https://www.whisky.com/fileadmin/_processed_/5/1/csm_Black_Velvet_Cinnamon_b529193723.jpg",
+      "image_source": "https://www.whisky.com/whisky-database/details/black-velvet-cinnamon-rush.html"
+    }
+  },
+  {
+    "slug": "black-velvet-onyx-12-year",
+    "filename": "black-velvet-onyx-12-year.html",
+    "name": "Black Velvet Onyx 12 Year",
+    "family": "Black Velvet",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Black Velvet Distillery, Lethbridge, Alberta; Constellation Brands in the original release era, Heaven Hill since the 2019 acquisition",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "Contains 12-year-aged whisky; blend minimum unverified",
+    "age_display": "Contains 12-year-aged whisky; blend minimum unverified",
+    "age_sort_years": null,
+    "mash_bill_display": "Corn and rye whisky components; complete proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.8,
+    "quality_score": 6.8,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "One named specialist record and one matched 2016 community note support a provisional historical assessment. Three bare aggregate ratings are not treated as a consensus.",
+      "universal_dimensions": {
+        "integration": 7,
+        "flavor_development": 6.8,
+        "finish": 6.7,
+        "technical_cleanliness": 7,
+        "texture": 6.2,
+        "maturity_wood_management": 6.7,
+        "distinctiveness": 6.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.765,
+      "editorial_adjustment": 0.035,
+      "adjustment_reason": "The matched specialist record emphasizes coherence, clean finish and layered wood/fruit character. One community note supports texture and moderate persistence. This is good to very good provisional Canadian blending, not an inferred native high anchor."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The matched specialist record emphasizes coherence, clean finish and layered wood/fruit character. One community note supports texture and moderate persistence. This is good to very good provisional Canadian blending, not an inferred native high anchor.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible dated U.S. bottle quote was authenticated. The 2016 community’s euro budget and present non-U.S. offers do not establish U.S. Value or NC availability.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No authenticated U.S. price for this historical expression",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 700,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact regular NC listing found; the specialist entry explicitly describes historical non-U.S. availability.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Black Velvet Onyx, 40% ABV; historical 700 mL expression whose label states that it contains twelve-year-aged whisky.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://distiller.com/spirits/black-velvet-onyx-12-year",
+      "https://www.whiskybase.com/whiskies/whisky/88167/black-velvet-onyx"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "Whiskybase"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/black-velvet-onyx-12-year",
+        "summary": "Phillips describes a cohesive blend with dry spice, fruit and vanilla, then citrus bitterness and a clean sweet ending. His 89-point judgment supports useful mature blending.",
+        "scope": "Exact 12-year / 40% ABV Onyx; undated specialist record."
+      },
+      {
+        "reviewer": "Marko_I",
+        "publisher": "Whiskybase",
+        "url": "https://www.whiskybase.com/whiskies/whisky/88167/black-velvet-onyx",
+        "summary": "The November 2016 note adds a creamy chocolate-and-nut palate with mild bitterness and a medium-length spiced ending. It is a single community sample rather than a consensus.",
+        "scope": "November 10, 2016, matched 700 mL 12-year listing."
+      }
+    ],
+    "source_urls": [
+      "https://distiller.com/spirits/black-velvet-onyx-12-year",
+      "https://www.whiskybase.com/whiskies/whisky/88167/black-velvet-onyx",
+      "https://www.whisky.de/whisky/aktuelles/nachrichten-details/article/ausblick-auf-black-velvet-onyx-12-und-untouched-21.html",
+      "https://blackvelvetwhisky.com/about.php",
+      "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/"
+    ],
+    "production_summary": "Distiller describes aged corn and rye components combined with a base spirit before extended maturation in used bourbon wood. The photographed label says the blend contains twelve-year-aged whisky; its minimum component age is not independently established. Component ages do not justify relabeling it fourteen years, and no separate finishing cask is authenticated.",
+    "finishing_information": "Used bourbon-barrel maturation; no separate finish documented",
+    "identity_note": "The photographed label says contains 12 year aged whisky. Specialist records classify Onyx as twelve-year, but the label wording alone does not establish the minimum age of every component. Age sorting therefore remains N/A.",
+    "history": [
+      "A December 2015 specialist announcement described the upcoming 12-year Onyx; a Whiskybase record added in October 2016 authenticates the 40% ABV, 700 mL release-era presentation.",
+      "The brand’s 2019 ownership change does not demonstrate an unchanged later Onyx recipe. The dossier stays with the authenticated historical expression, and no precise end-date is invented."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "Age-stated Canadian all-rye comparison with a different grain and production identity."
+      },
+      {
+        "name": "Alberta Premium Dark Horse / Dark Batch",
+        "url": "alberta-premium-dark-horse-dark-batch.html",
+        "reason": "A Canadian blend with disclosed wine/bourbon additions and a verified historical U.S. price."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A strong buy requires a current exact bottle quote and a sound historical bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A small purchase can suit someone who already enjoys mature Canadian blends.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare local imported cost with a currently distributed Canadian blend before deciding.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Import fees and scarcity can erase the drinking appeal.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on high collector premiums when no defensible market-value assessment exists.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Begin neat to examine the documented dry spice, fruit and clean ending."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a large cube and stop dilution before the reported creamy texture becomes thin."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and let the mature blend provide the main flavor."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Keep soda restrained; the 40% ABV bottle already starts at ordinary drinking strength."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.whiskybase.com/whiskies/whisky/88167/black-velvet-onyx",
+        "image_url": "https://static.whiskybase.com/storage/whiskies/8/8/167/309140-big.jpg",
+        "scope": "Black Velvet Onyx, 40% ABV; historical 700 mL expression whose label states that it contains twelve-year-aged whisky.",
+        "sha256": "5ef9ec7e6c590f34638f219912adf9c2237bbea8d3f5322956ad15d3414baa54",
+        "image_embedded": true,
+        "width": 800,
+        "height": 1600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Black Velvet Onyx, 40% ABV; historical 700 mL expression whose label states that it contains twelve-year-aged whisky.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-006",
+    "editorial": {
+      "id": "black-velvet-onyx-12-year",
+      "category": "Canadian Blended Whisky",
+      "proof": 80,
+      "age": null,
+      "age_display": "Contains 12-year-aged whisky; blend minimum unverified",
+      "identity": "Black Velvet Onyx, 40% ABV; historical 700 mL expression whose label states that it contains twelve-year-aged whisky.",
+      "short_version": "A mature Black Velvet blend with a coherent spicy-sweet specialist tasting record. Its identity and age are clear, but an authenticated U.S. price is absent, so Value remains N/A.",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta; Constellation Brands in the original release era, Heaven Hill since the 2019 acquisition",
+      "grain": "Corn and rye whisky components; complete proportions undisclosed",
+      "production": "Distiller describes aged corn and rye components combined with a base spirit before extended maturation in used bourbon wood. The photographed label says the blend contains twelve-year-aged whisky; its minimum component age is not independently established. Component ages do not justify relabeling it fourteen years, and no separate finishing cask is authenticated.",
+      "finish": "Used bourbon-barrel maturation; no separate finish documented",
+      "history": [
+        "A December 2015 specialist announcement described the upcoming 12-year Onyx; a Whiskybase record added in October 2016 authenticates the 40% ABV, 700 mL release-era presentation.",
+        "The brand’s 2019 ownership change does not demonstrate an unchanged later Onyx recipe. The dossier stays with the authenticated historical expression, and no precise end-date is invented."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/black-velvet-onyx-12-year",
+          "summary": "Phillips describes a cohesive blend with dry spice, fruit and vanilla, then citrus bitterness and a clean sweet ending. His 89-point judgment supports useful mature blending.",
+          "scope": "Exact 12-year / 40% ABV Onyx; undated specialist record."
+        },
+        {
+          "reviewer": "Marko_I",
+          "publisher": "Whiskybase",
+          "url": "https://www.whiskybase.com/whiskies/whisky/88167/black-velvet-onyx",
+          "summary": "The November 2016 note adds a creamy chocolate-and-nut palate with mild bitterness and a medium-length spiced ending. It is a single community sample rather than a consensus.",
+          "scope": "November 10, 2016, matched 700 mL 12-year listing."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Onyx 12 Year — Distiller",
+          "url": "https://distiller.com/spirits/black-velvet-onyx-12-year",
+          "role": "Substantive named specialist tasting, strength, age, production account and historical lack of U.S. distribution."
+        },
+        {
+          "title": "Onyx — Whiskybase WB88167",
+          "url": "https://www.whiskybase.com/whiskies/whisky/88167/black-velvet-onyx",
+          "role": "Exact label photograph, 700 mL / 40% ABV / 12-year identity and 2016 community counterpoint."
+        },
+        {
+          "title": "Onyx announcement — Petra Milde, Whisky.de",
+          "url": "https://www.whisky.de/whisky/aktuelles/nachrichten-details/article/ausblick-auf-black-velvet-onyx-12-und-untouched-21.html",
+          "role": "December 2015 advance announcement; a release-era boundary, not a verified first-sale date."
+        },
+        {
+          "title": "Black Velvet heritage",
+          "url": "https://blackvelvetwhisky.com/about.php",
+          "role": "Brand origin and general production history, not a substitute for exact Onyx recipe ratios."
+        },
+        {
+          "title": "Black Velvet Apple launch — Heaven Hill",
+          "url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/",
+          "role": "2019 ownership transition only."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "Age-stated Canadian all-rye comparison with a different grain and production identity."
+        },
+        {
+          "name": "Alberta Premium Dark Horse / Dark Batch",
+          "url": "alberta-premium-dark-horse-dark-batch.html",
+          "reason": "A Canadian blend with disclosed wine/bourbon additions and a verified historical U.S. price."
+        }
+      ],
+      "quality": 6.8,
+      "dimensions": [
+        7,
+        6.8,
+        6.7,
+        7,
+        6.2,
+        6.7,
+        6.2
+      ],
+      "quality_rationale": "The matched specialist record emphasizes coherence, clean finish and layered wood/fruit character. One community note supports texture and moderate persistence. This is good to very good provisional Canadian blending, not an inferred native high anchor.",
+      "value": null,
+      "value_rationale": "N/A: no defensible dated U.S. bottle quote was authenticated. The 2016 community’s euro budget and present non-U.S. offers do not establish U.S. Value or NC availability.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 700,
+        "date": null,
+        "basis": "No authenticated U.S. price for this historical expression",
+        "url": null,
+        "nc_status": "No exact regular NC listing found; the specialist entry explicitly describes historical non-U.S. availability."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A strong buy requires a current exact bottle quote and a sound historical bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A small purchase can suit someone who already enjoys mature Canadian blends.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare local imported cost with a currently distributed Canadian blend before deciding.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Import fees and scarcity can erase the drinking appeal.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on high collector premiums when no defensible market-value assessment exists.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Begin neat to examine the documented dry spice, fruit and clean ending."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a large cube and stop dilution before the reported creamy texture becomes thin."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and let the mature blend provide the main flavor."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Keep soda restrained; the 40% ABV bottle already starts at ordinary drinking strength."
+        }
+      ],
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "One named specialist record and one matched 2016 community note support a provisional historical assessment. Three bare aggregate ratings are not treated as a consensus.",
+      "image_url": "https://static.whiskybase.com/storage/whiskies/8/8/167/309140-big.jpg",
+      "image_source": "https://www.whiskybase.com/whiskies/whisky/88167/black-velvet-onyx",
+      "calibration_mode": "evidence_limited_provisional",
+      "identity_note": "The photographed label says contains 12 year aged whisky. Specialist records classify Onyx as twelve-year, but the label wording alone does not establish the minimum age of every component. Age sorting therefore remains N/A."
+    }
   }
 ]
