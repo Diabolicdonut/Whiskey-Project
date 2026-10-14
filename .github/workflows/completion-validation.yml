@@ -45,15 +45,22 @@ jobs:
           else
             node scripts/completion_runtime.cjs
           fi
+      - name: Collect expansion validation reports
+        if: always()
+        run: |
+          mkdir -p .completion-output
+          if [ -f ../expansion-research/static-report.json ]; then
+            cp ../expansion-research/static-report.json .completion-output/expansion-static-report.json
+          fi
+          if [ -f ../expansion-research/runtime-output/runtime-report.json ]; then
+            cp ../expansion-research/runtime-output/runtime-report.json .completion-output/expansion-runtime-report.json
+          fi
       - name: Publish validation reports
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: old-oak-validation-${{ github.sha }}
-          path: |
-            .completion-output/
-            ../expansion-research/static-report.json
-            ../expansion-research/runtime-output/
+          path: .completion-output/
           retention-days: 30
           include-hidden-files: true
       - name: Require both validation passes

@@ -882,6 +882,13 @@
         "Index Mash Bill sort control added; all original row bytes preserved.",
         "Completion workflow routes expansion checks to the new dynamic validators; original completion scripts and ledgers remain unchanged."
       ]
+    },
+    {
+      "checkpoint": 1,
+      "type": "validation_infrastructure_repair",
+      "parent_commit": "32199a593685b831ff4880d6ce5ee196520df903",
+      "status": "accepted",
+      "reason": "GitHub CI browser pass succeeded. Static asset scan falsely included Playwright node_modules images, and upload-artifact rejected parent-relative report paths. Exclude tool dependencies, collect JSON reports inside the workflow artifact directory; site content unchanged."
     }
   ],
   "next_action": "Research deterministic pending entries from order 10 (Black Opal 2024) onward; publish the next 5–10 dossiers after validation.",

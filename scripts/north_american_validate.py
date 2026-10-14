@@ -28,7 +28,7 @@ def validate(full=False):
     check(len(targets)==len(set(targets)) and set(targets)==files,'dossier_targets',{'duplicates':len(targets)-len(set(targets)),'missing':sorted(set(targets)-files),'orphans':sorted(files-set(targets))})
     check(len(by)==len(current['rows'])==len(files),'projection_count',{'count':len(by)})
     check({m['filename'] for m in new}==set(ctl['added_dossiers']),'controller_parity',{})
-    check(not any(p.suffix.lower() in {'.png','.jpg','.jpeg','.webp','.gif','.svg','.avif'} for p in ROOT.rglob('*') if '.git' not in p.parts),'standalone_image_assets',{})
+    check(not any(p.suffix.lower() in {'.png','.jpg','.jpeg','.webp','.gif','.svg','.avif'} for p in ROOT.rglob('*') if not ({'.git','node_modules','__pycache__'} & set(p.parts))),'standalone_image_assets',{})
     checks_columns={'name','category','proof','cost','mash','age','quality','value','overall'}
     check(set(dom.xpath('//th[@data-key]/@data-key'))==checks_columns,'all_nine_sort_columns',{})
     inspect_paths=sorted(ROOT.glob('*.html')) if full else [ROOT/'index.html']+[ROOT/m['filename'] for m in new]
