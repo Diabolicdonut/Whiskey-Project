@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 157,
-    "accepted": 68
+    "pending": 150,
+    "accepted": 75
   },
   "entries": [
     {
@@ -5071,21 +5071,21 @@
       "canonical_expression_name": "Canadian Club Small Batch Sherry Cask",
       "filename": "canadian-club-small-batch-sherry-cask.html",
       "brand_family": "Canadian Club",
-      "producer": "Canadian Club / Suntory Global Spirits; Ontario production and Alberta rye sourcing distinguished",
+      "producer": "Canadian Club; Beam / Beam Suntory in the reviewed era, now Suntory Global Spirits; Windsor brand production",
       "status": "historical",
       "whisky_category": "Canadian Blended Whisky",
       "proof": 82.6,
       "abv": 41.3,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Sherry casks",
-      "release_year_or_era": "Legacy release; reviewed 2015",
+      "age_information": "NAS — newer Small Batch label",
+      "grain_information": "Reported corn, rye, rye malt and barley spirit blend; proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Jerez sherry-cask secondary maturation; exact duration and sherry type not authenticated for the newer Small Batch label",
+      "release_year_or_era": "Canadian Club Small Batch Sherry Cask, newer flask-bottle formulation reviewed in 2014–2015, 41.3% ABV / 82.6 proof; distinct from Invitation Series No. 1 Sherry Cask 15 Year.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact expression specification and inspected substantive independent tasting; unresolved age, price and process details remain explicit.",
       "discovery_sources": [
         {
           "title": "Canadian Club Small Batch Sherry Cask « The Rum Howler Blog",
@@ -5095,34 +5095,64 @@
       ],
       "potential_image_source": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
+            "summary": "Dykstra praises depth and a soft mouthfeel, but finds the sherry fruit and rye spice poorly reconciled. He also finds the ending shorter than the palate suggests.",
+            "scope": "January 25, 2015; exact newer Small Batch 41.3% ABV identity, 85.5 points."
+          },
+          {
+            "reviewer": "Eric Burke",
+            "publisher": "Bourbon Guy",
+            "url": "https://www.bourbonguy.com/blog/2014/7/22/a-competition-of-canadian-clubs-regular-release-vs-sherry-cask",
+            "summary": "Burke finds a substantial sweet palate and a fruit-led, drying finish. He likes it as a relaxed pour and prefers it to core Canadian Club, while questioning whether it earns twice the price.",
+            "scope": "July 22, 2014; 41.3% ABV, lot C12-232; USD 29.99 for 750 mL at Binny’s, Bloomington, Illinois."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 71
+      "deterministic_order": 71,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-010",
+      "publication_sources": [
+        {
+          "title": "Small Batch Sherry Cask — Rum Howler",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
+          "role": "Exact newer-label specification, formulation context, photograph and independent tasting."
+        },
+        {
+          "title": "Core vs Small Batch Sherry Cask — Bourbon Guy",
+          "url": "https://www.bourbonguy.com/blog/2014/7/22/a-competition-of-canadian-clubs-regular-release-vs-sherry-cask",
+          "role": "Exact Small Batch lot, independent comparison and dated U.S. purchase."
+        }
+      ]
     },
     {
       "id": "canadian-mist-black-diamond",
       "canonical_expression_name": "Canadian Mist Black Diamond",
       "filename": "canadian-mist-black-diamond.html",
       "brand_family": "Canadian Mist",
-      "producer": "Canadian Mist Distillery, Collingwood / Sazerac",
-      "status": "discontinued",
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman at the 2010 launch; brand and production assets transferred to Sazerac in 2020",
+      "status": "historical",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 86.0,
+      "proof": 86,
       "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian blend; increased rye/flavoring whisky",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2010 launch",
+      "age_information": "NAS label; three-year production reported",
+      "grain_information": "Corn base and corn/rye/barley-malt flavoring streams reported; blend proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "No separate cask finish authenticated; higher sherry content is reported as part of the blend",
+      "release_year_or_era": "Canadian Mist Black Diamond Premium Select, original 2010 U.S. launch expression, 43% ABV / 86 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact expression specification and inspected substantive independent tasting; unresolved age, price and process details remain explicit.",
       "discovery_sources": [
         {
           "title": "Canadian Mist Black Diamond (43% alc./vol. (86 proof)) — Canadian Whisky",
@@ -5137,34 +5167,75 @@
       ],
       "potential_image_source": "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
+            "summary": "De Kergommeaux finds fuller fruit, more body and brighter spice than original Canadian Mist, with useful citrus balance. He still sees youthful grain character, moderate complexity and a relatively short finish.",
+            "scope": "Exact 43% Black Diamond review; historical launch-era specification and USD 14.99 suggested price."
+          },
+          {
+            "reviewer": "Chuck Cowdery",
+            "publisher": "The Chuck Cowdery Blog",
+            "url": "https://chuckcowdery.blogspot.com/2010/08/canadian-mist-launches-black-diamond.html",
+            "summary": "Cowdery finds the extra rye and sherry make a more substantial blend without adding wood age. He particularly values the added character in a Manhattan.",
+            "scope": "August 10, 2010; three-year production, 43% ABV, USD 14.99 / 750 mL."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 72
+      "deterministic_order": 72,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-010",
+      "publication_sources": [
+        {
+          "title": "Black Diamond producer launch announcement",
+          "url": "https://canadianwhisky.org/blog/news-views/canadian-mist-black-diamond-43-alc-vol.html",
+          "role": "Primary announcement reproduced in full; August 2010 date, strength, blend additions, markets and MSRP."
+        },
+        {
+          "title": "Black Diamond — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
+          "role": "Exact independent tasting, production detail and verified photograph."
+        },
+        {
+          "title": "Black Diamond launch — Chuck Cowdery",
+          "url": "https://chuckcowdery.blogspot.com/2010/08/canadian-mist-launches-black-diamond.html",
+          "role": "Contemporary independent assessment and age/price context."
+        },
+        {
+          "title": "Completed 2020 sale — Brown-Forman",
+          "url": "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx",
+          "role": "Primary separation of historical and subsequent ownership."
+        }
+      ],
+      "status_limitation": "Historical line extension; exact cessation date not authenticated."
     },
     {
       "id": "canadian-mist-original",
       "canonical_expression_name": "Canadian Mist Original",
       "filename": "canadian-mist-original.html",
       "brand_family": "Canadian Mist",
-      "producer": "Canadian Mist Distillery, Collingwood / Sazerac",
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Sazerac; Brown-Forman ownership in older review eras",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and malted barley; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "1967 onward",
+      "age_information": "NAS label; NC lists 3Y",
+      "grain_information": "Corn, rye and barley malt; exact blend proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Oak maturation; no additional cask finish authenticated",
+      "release_year_or_era": "Canadian Mist Original blended Canadian whisky, recurring 40% ABV / 80-proof expression; excludes Black Diamond and size-only packaging variants.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact expression specification and inspected substantive independent tasting; unresolved age, price and process details remain explicit.",
       "discovery_sources": [
         {
           "title": "Review: Canadian Mist Whisky - Drinkhacker",
@@ -5174,34 +5245,86 @@
       ],
       "potential_image_source": "https://www.drinkhacker.com/2009/04/11/review-canadian-mist-whisky/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Stephanie Moreno",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/canadian-mist",
+            "summary": "Moreno finds a grain/nut-led profile that disappears quickly, leaving little development beyond husk-like and oak-spice impressions.",
+            "scope": "Exact 40% ABV Original expert tasting; 70 points. The page’s Brown-Forman ownership line is outdated."
+          },
+          {
+            "reviewer": "Nick Leghorn",
+            "publisher": "Thirty-One Whiskey",
+            "url": "https://www.thirtyonewhiskey.com/whisky-review-canadian-mist-blended-canadian-whisky/",
+            "summary": "Leghorn reports an acrid rubber-like aroma and bitterness with ice. Fruit appears neat and works in a mule, but he dislikes the overall experience and finds the Old Fashioned bland.",
+            "scope": "November 28, 2023; NAS Original at 40% ABV, USD 9.99 / 750 mL; sensory defects are his sample judgment, not a universal batch fact."
+          },
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-40-alc-vol.html",
+            "summary": "De Kergommeaux finds a clean, youthful blend with citrus, sweetness and rye spice, valuing it as a mixer and suggesting a neat trial. His favorable reading conflicts materially with the later negative sample.",
+            "scope": "Historical Original 40% ABV review; the migrated page contains older ownership and product-range statements that are not reused as current facts."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 73
+      "deterministic_order": 73,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-010",
+      "publication_sources": [
+        {
+          "title": "Canadian Mist — Distiller",
+          "url": "https://distiller.com/spirits/canadian-mist",
+          "role": "Matched strength, grain identity and substantive expert review; outdated ownership separated."
+        },
+        {
+          "title": "Canadian Mist — Thirty-One Whiskey",
+          "url": "https://www.thirtyonewhiskey.com/whisky-review-canadian-mist-blended-canadian-whisky/",
+          "role": "2023 exact sensory assessment and verified Original photograph."
+        },
+        {
+          "title": "Canadian Mist — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-40-alc-vol.html",
+          "role": "Independent favorable counterevidence and historical production description."
+        },
+        {
+          "title": "Completed 2020 sale — Brown-Forman",
+          "url": "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx",
+          "role": "Primary current-owner transition."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 38-456, 3Y administrative listing, 80 proof, 750 mL, USD 10.95 regular retail."
+        }
+      ]
     },
     {
       "id": "caribou-crossing-single-barrel",
       "canonical_expression_name": "Caribou Crossing Single Barrel",
       "filename": "caribou-crossing-single-barrel.html",
       "brand_family": "Caribou Crossing",
-      "producer": "Sazerac; undisclosed Canadian distillation sources",
+      "producer": "Sazerac; Canadian distillation sources undisclosed; reviewed 2018 bottle attributed to Old Montreal Distillery for bottling",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed Canadian whisky components",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
-      "release_year_or_era": "2010 onward",
+      "age_information": "NAS",
+      "grain_information": "Undisclosed Canadian whisky grain/blend composition; all-rye and bourbon mash-bill claims not authenticated",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "No separate finishing stage authenticated",
+      "release_year_or_era": "Caribou Crossing Single Barrel Canadian whisky programme, 40% ABV / 80 proof; individual barrel variation remains material.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact expression specification and inspected substantive independent tasting; unresolved age, price and process details remain explicit.",
       "discovery_sources": [
         {
           "title": "Caribou Crossing Single Barrel (40% alc./vol. (80 proof)) — Canadian Whisky",
@@ -5216,34 +5339,74 @@
       ],
       "potential_image_source": "https://canadianwhisky.org/blog/reviews/caribou-crossing-single-barrel-40-alc-vol-80-proof.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Jordan Moskal",
+            "publisher": "Breaking Bourbon",
+            "url": "https://www.breakingbourbon.com/tnt/caribou-crossing-single-barrel",
+            "summary": "Moskal finds an easy, airy pour with sweet vanilla/caramel flavors and a short finish. He would like more concentration and depth.",
+            "scope": "October 23, 2018; 80 proof, NAS; production-bottle sample provided by Sazerac."
+          },
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/caribou-crossing-single-barrel-40-alc-vol-80-proof.html",
+            "summary": "De Kergommeaux finds a richer creamy sample with wood, fruit, citrus and developing spice. He praises it strongly while noting that its texture partly obscures definition and that single barrels can vary.",
+            "scope": "Historical 40% ABV programme sample; not assumed to be the same barrel as the 2018 review."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 74
+      "deterministic_order": 74,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-010",
+      "publication_sources": [
+        {
+          "title": "Caribou Crossing — Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/tnt/caribou-crossing-single-barrel",
+          "role": "Exact 2018 sensory record, NAS/strength, bottling context and verified programme photograph."
+        },
+        {
+          "title": "Caribou Crossing — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/caribou-crossing-single-barrel-40-alc-vol-80-proof.html",
+          "role": "Substantive independent counterevidence and single-barrel limits."
+        },
+        {
+          "title": "Sazerac nutrition specifications",
+          "url": "https://www.sazerac.com/footer-pages/nutrition.html",
+          "role": "Primary 80-proof / 40% ABV specification."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 19-620 standard Caribou Crossing, 80 proof, 750 mL, USD 56.95 regular retail."
+        }
+      ]
     },
     {
       "id": "collingwood-21-year-rye",
       "canonical_expression_name": "Collingwood 21 Year Rye",
       "filename": "collingwood-21-year-rye.html",
       "brand_family": "Collingwood",
-      "producer": "Canadian Mist Distillery / Sazerac",
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman for this one-time 2013 bottling",
       "status": "limited",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 21.0,
-      "age_information": "21 years",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Maplewood resting",
-      "release_year_or_era": "2013",
+      "age_statement_years": 21,
+      "age_information": "21 Years",
+      "grain_information": "100% malted rye",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Post-oak resting with toasted maplewood; one year reported independently, precise duration not fixed in the primary release",
+      "release_year_or_era": "Collingwood Rye 21 Year Old, one-time November 2013 release from 100% malted rye, 40% ABV / 80 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact expression specification and inspected substantive independent tasting; unresolved age, price and process details remain explicit.",
       "discovery_sources": [
         {
           "title": "Ranking the last 7 years of Canadian whisky - Whisky Connosr",
@@ -5253,34 +5416,69 @@
       ],
       "potential_image_source": "https://www.connosr.com/ranking-the-last-7-years-of-canadian-whisky-whisky-discussion-2573",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Eric Burke",
+            "publisher": "Bourbon Guy",
+            "url": "https://www.bourbonguy.com/blog/2015/7/29/collingwood-21-year-old-rye-canadian-whisky",
+            "summary": "Burke repeatedly buys the release and favors its gentle floral, vanilla and maple-like profile. His sample has a delicate tea/mint ending rather than aggressive rye heat.",
+            "scope": "2015 article; exact 21-year / 40% ABV identity and documented December 14, 2013 purchase."
+          },
+          {
+            "reviewer": "Stephanie Moreno",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/collingwood-rye-21-year",
+            "summary": "Moreno finds aromatic wood and herb/spice character with a dry palate that avoids harsh tannins. Fruit and floral notes are relatively subdued in her sample.",
+            "scope": "Exact 21-year all-malted-rye one-time bottling, 40% ABV; expert score 85."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 75
+      "deterministic_order": 75,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-010",
+      "publication_sources": [
+        {
+          "title": "Collingwood 21 Year producer launch",
+          "url": "https://www.prnewswire.com/news-releases/collingwood-whisky-releases-limited-edition-21-year-old-rye-231020111.html",
+          "role": "Primary November 2013 release, recipe, strength, age, seasoned oak, maplewood treatment and MSRP."
+        },
+        {
+          "title": "Collingwood 21 Year — Bourbon Guy",
+          "url": "https://www.bourbonguy.com/blog/2015/7/29/collingwood-21-year-old-rye-canadian-whisky",
+          "role": "Independent sensory record, dated U.S. purchase and verified expression photograph."
+        },
+        {
+          "title": "Collingwood Rye 21 Year — Distiller",
+          "url": "https://distiller.com/spirits/collingwood-rye-21-year",
+          "role": "Independent woody/herbal counterpoint and reported vat-rest duration."
+        }
+      ]
     },
     {
       "id": "collingwood-original",
       "canonical_expression_name": "Collingwood Original",
       "filename": "collingwood-original.html",
       "brand_family": "Collingwood",
-      "producer": "Canadian Mist Distillery / Sazerac",
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman in the 2011 launch era; brand and production assets transferred to Sazerac in 2020",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and barley; proportions undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Rested with maple wood",
-      "release_year_or_era": "2011",
+      "age_information": "NAS",
+      "grain_information": "Corn, rye and malted-barley spirit streams reported; exact blend proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Rested with toasted maplewood staves after oak maturation and blending; exact recurring duration undisclosed",
+      "release_year_or_era": "Collingwood Original Canadian blended whisky, recurring 40% ABV / 80-proof maplewood-mellowed expression; excludes 21 Year Rye and Town Collection Double Barreled.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact expression specification and inspected substantive independent tasting; unresolved age, price and process details remain explicit.",
       "discovery_sources": [
         {
           "title": "Collingwood (40% alc/vol.) Canadian Whisky Review — Canadian Whisky",
@@ -5290,34 +5488,57 @@
       ],
       "potential_image_source": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
+            "summary": "De Kergommeaux finds overt fruit, creamy body and a persistent pepper-led ending. He praises the character while noting an expressive profile rather than especially intricate complexity.",
+            "scope": "Exact Original 40% ABV sample and contemporary 2011 launch description; migrated webpage date is not taken as first release."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 76
+      "deterministic_order": 76,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-010",
+      "publication_sources": [
+        {
+          "title": "Collingwood Original — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
+          "role": "Substantive independent tasting, process account, launch-era U.S. MSRP and verified Original photograph."
+        },
+        {
+          "title": "Completed 2020 sale — Brown-Forman",
+          "url": "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx",
+          "role": "Primary distinction between launch-era and subsequent ownership."
+        }
+      ]
     },
     {
       "id": "collingwood-town-collection-double-barreled",
       "canonical_expression_name": "Collingwood Town Collection Double Barreled",
       "filename": "collingwood-town-collection-double-barreled.html",
       "brand_family": "Collingwood",
-      "producer": "Canadian Mist Distillery / Sazerac",
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman in the 2017 reviewed era; brand subsequently transferred to Sazerac",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 90,
+      "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed; expression-specific specification verification required",
-      "grain_confidence": "unknown",
-      "finishing_information": "Double-barreled / maplewood process",
-      "release_year_or_era": "2017",
+      "age_information": "NAS",
+      "grain_information": "Reported high-rye Canadian blend; exact grain percentages undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Second oak-barrel stage followed by toasted maplewood vat resting; exact toast/char specification and durations not authenticated",
+      "release_year_or_era": "Collingwood The Town Collection Double Barreled, 2017-era named release, 45% ABV / 90 proof; exact brown-label bottle verified.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact expression specification and inspected substantive independent tasting; unresolved age, price and process details remain explicit.",
       "discovery_sources": [
         {
           "title": "Ranking the last 7 years of Canadian whisky - Whisky Connosr",
@@ -5327,13 +5548,53 @@
       ],
       "potential_image_source": "https://www.connosr.com/ranking-the-last-7-years-of-canadian-whisky-whisky-discussion-2573",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "TOModera",
+            "publisher": "TOModera Whisky Reviews",
+            "url": "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+            "summary": "TOModera enjoys sweet fruit and the added oak, but reports a varnish-like aroma and raw-corn character, with uneven palate integration. He prefers it to Original while wishing for more spice.",
+            "scope": "November 27, 2017; exact 45% ABV brown-label Town Collection bottle; CAD 44.95 LCBO, 76 points."
+          },
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/collingwood-town-collection-double-barrel",
+            "summary": "Phillips finds developed fruit, honey and wood, with sour/spicy balance and a persistent tangy ending. His more enthusiastic integration judgment is retained alongside the less favorable sample.",
+            "scope": "Exact 45% ABV Town Collection Double Barrel expert tasting; 92 points."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 77
+      "deterministic_order": 77,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-010",
+      "publication_sources": [
+        {
+          "title": "Town Collection Double Barreled — TOModera",
+          "url": "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+          "role": "Exact 2017 identity, independent tasting, Canadian price and readable 45% bottle photograph."
+        },
+        {
+          "title": "Town Collection Double Barrel — Distiller",
+          "url": "https://distiller.com/spirits/collingwood-town-collection-double-barrel",
+          "role": "Strength, NAS, staged oak/maplewood account and independent expert counterevidence."
+        },
+        {
+          "title": "Town Collection Double Barreled — LCBO",
+          "url": "https://www.lcbo.com/en/collingwood-double-barreled-whisky-33268",
+          "role": "Indexed exact named listing supports maplewood stage; page blocked, so present price and precise char claim not treated as independently resolved."
+        },
+        {
+          "title": "Completed 2020 sale — Brown-Forman",
+          "url": "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx",
+          "role": "Primary ownership-era boundary."
+        }
+      ]
     },
     {
       "id": "crown-royal-18-year",

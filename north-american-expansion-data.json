@@ -23157,5 +23157,2554 @@
       "image_url": "https://www.canadianclub.com/sites/default/files/styles/original/public/2024-12/canadian-club-bottle-whisky-9-yo.png%20%281%29.webp?itok=pJn6BRIc",
       "image_source": "https://www.canadianclub.com/products/reserve-9-year-old-canadian-whisky"
     }
+  },
+  {
+    "slug": "canadian-club-small-batch-sherry-cask",
+    "filename": "canadian-club-small-batch-sherry-cask.html",
+    "name": "Canadian Club Small Batch Sherry Cask",
+    "family": "Canadian Club",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Canadian Club; Beam / Beam Suntory in the reviewed era, now Suntory Global Spirits; Windsor brand production",
+    "proof": 82.6,
+    "abv": 41.3,
+    "age": "NAS — newer Small Batch label",
+    "age_display": "NAS — newer Small Batch label",
+    "age_sort_years": null,
+    "mash_bill_display": "Reported corn, rye, rye malt and barley spirit blend; proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.5,
+    "quality_score": 6.5,
+    "value": 6.0,
+    "value_score": 6.0,
+    "overall": 6.244997998398398,
+    "overall_score": 6.244997998398398,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 6.0,
+        "flavor_development": 7.0,
+        "finish": 5.8,
+        "technical_cleanliness": 7.2,
+        "texture": 7.0,
+        "maturity_wood_management": 6.5,
+        "distinctiveness": 6.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.525,
+      "editorial_adjustment": -0.025,
+      "adjustment_reason": "Fruit depth and texture support good execution, while conflicting spice/fruit integration and limited persistence prevent an excellent judgment. This provisional assessment uses the exact newer-label reviews, not the earlier eight-year sample."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Fruit depth and texture support good execution, while conflicting spice/fruit integration and limited persistence prevent an excellent judgment. This provisional assessment uses the exact newer-label reviews, not the earlier eight-year sample.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the documented July 2014 USD 29.99 / 750 mL purchase, it is a fair step up for sherry fans. The same reviewer paid USD 14.99 for core Canadian Club and did not find the upgrade proportionate to twice the price. This is historical U.S. Value, not an October 2026 stock or price claim.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 29.99,
+    "price_basis": "Historical Illinois retail purchase quoted in the July 2014 review",
+    "price_url": "https://www.bourbonguy.com/blog/2014/7/22/a-competition-of-canadian-clubs-regular-release-vs-sherry-cask",
+    "price_period": "2014-07-22",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 29.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Canadian Club Small Batch Sherry Cask, newer flask-bottle formulation reviewed in 2014–2015, 41.3% ABV / 82.6 proof; distinct from Invitation Series No. 1 Sherry Cask 15 Year.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
+      "https://www.bourbonguy.com/blog/2014/7/22/a-competition-of-canadian-clubs-regular-release-vs-sherry-cask"
+    ],
+    "review_publishers": [
+      "The Rum Howler Blog",
+      "Bourbon Guy"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
+        "summary": "Dykstra praises depth and a soft mouthfeel, but finds the sherry fruit and rye spice poorly reconciled. He also finds the ending shorter than the palate suggests.",
+        "scope": "January 25, 2015; exact newer Small Batch 41.3% ABV identity, 85.5 points."
+      },
+      {
+        "reviewer": "Eric Burke",
+        "publisher": "Bourbon Guy",
+        "url": "https://www.bourbonguy.com/blog/2014/7/22/a-competition-of-canadian-clubs-regular-release-vs-sherry-cask",
+        "summary": "Burke finds a substantial sweet palate and a fruit-led, drying finish. He likes it as a relaxed pour and prefers it to core Canadian Club, while questioning whether it earns twice the price.",
+        "scope": "July 22, 2014; 41.3% ABV, lot C12-232; USD 29.99 for 750 mL at Binny’s, Bloomington, Illinois."
+      }
+    ],
+    "source_urls": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
+      "https://www.bourbonguy.com/blog/2014/7/22/a-competition-of-canadian-clubs-regular-release-vs-sherry-cask"
+    ],
+    "production_summary": "Chip Dykstra describes the family’s blend-before-aging process and reports six to eight years in white oak before further maturation in Jerez sherry casks. That account supplies production context, not an authenticated label age or a precise finishing duration for every Small Batch lot. The pictured newer label authenticates 41.3% ABV and carries no age statement.",
+    "finishing_information": "Jerez sherry-cask secondary maturation; exact duration and sherry type not authenticated for the newer Small Batch label",
+    "identity_note": "Earlier eight-year Sherry Cask records report six years plus two in sherry wood. Their fixed eight-year age and two-year finish are not transferred to this newer NAS Small Batch identity.",
+    "history": [
+      "Eric Burke documents a Small Batch bottle, lot C12-232, purchased in Illinois and reviewed July 22, 2014. Dykstra’s January 25, 2015 review explicitly distinguishes the newer flask bottle from the earlier Sherry Cask presentation.",
+      "The accepted Invitation Series 15 Year is a different age, strength and named programme. It remains separately indexed. A precise first-release date and discontinuation date for the newer Small Batch are not established."
+    ],
+    "comparables": [
+      {
+        "name": "Canadian Club Invitation Series No. 1 Sherry Cask 15 Year",
+        "url": "canadian-club-invitation-series-no-1-sherry-cask-15-year.html",
+        "reason": "Later age-stated sherry treatment; a distinct identity rather than the same bottle."
+      },
+      {
+        "name": "Canadian Club 1858 Original",
+        "url": "canadian-club-1858-original.html",
+        "reason": "The direct comparison’s lighter and less costly core blend."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 22,
+        "current_band": false,
+        "reason": "A low-risk exact-bottle buy if its stored condition is sound.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 22,
+        "maximum_exclusive": 28,
+        "current_band": false,
+        "reason": "An attractive budget for the richer sherry treatment.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 28,
+        "maximum_exclusive": 35,
+        "current_band": true,
+        "reason": "Fair for someone who specifically enjoys fruit with rye spice.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 35,
+        "maximum_exclusive": 42,
+        "current_band": false,
+        "reason": "Taste first; the reviews disagree about harmony and persistence.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 42,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The documented performance does not justify paying a rarity premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to judge the fruit/spice balance."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Use a small cube; additional dilution may shorten an already modest finish."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Use restrained vermouth or sugar so the sherry-derived fruit stays distinct."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short ginger highball is practical; compare cheaper 1858 for mixer-heavy drinks."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
+        "image_url": "https://therumhowlerblog.com/wp-content/uploads/2014/02/cc-sherry-cask.jpg",
+        "scope": "Canadian Club Small Batch Sherry Cask, newer flask-bottle formulation reviewed in 2014–2015, 41.3% ABV / 82.6 proof; distinct from Invitation Series No. 1 Sherry Cask 15 Year.",
+        "sha256": "3196dc0aa08836aa6f8ddcb5155e6ce7264fdfb97f72a2b87a2c9d402de5ddb5",
+        "image_embedded": true,
+        "width": 347,
+        "height": 622
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Canadian Club Small Batch Sherry Cask, newer flask-bottle formulation reviewed in 2014–2015, 41.3% ABV / 82.6 proof; distinct from Invitation Series No. 1 Sherry Cask 15 Year.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-010",
+    "editorial": {
+      "id": "canadian-club-small-batch-sherry-cask",
+      "proof": 82.6,
+      "age": null,
+      "age_display": "NAS — newer Small Batch label",
+      "producer": "Canadian Club; Beam / Beam Suntory in the reviewed era, now Suntory Global Spirits; Windsor brand production",
+      "identity": "Canadian Club Small Batch Sherry Cask, newer flask-bottle formulation reviewed in 2014–2015, 41.3% ABV / 82.6 proof; distinct from Invitation Series No. 1 Sherry Cask 15 Year.",
+      "short_version": "A sherry-treated Canadian blend with generous fruit and texture, offset by disagreement about spice integration and finish length. The newer Small Batch label does not establish an eight-year age statement.",
+      "grain": "Reported corn, rye, rye malt and barley spirit blend; proportions undisclosed",
+      "production": "Chip Dykstra describes the family’s blend-before-aging process and reports six to eight years in white oak before further maturation in Jerez sherry casks. That account supplies production context, not an authenticated label age or a precise finishing duration for every Small Batch lot. The pictured newer label authenticates 41.3% ABV and carries no age statement.",
+      "finish": "Jerez sherry-cask secondary maturation; exact duration and sherry type not authenticated for the newer Small Batch label",
+      "identity_note": "Earlier eight-year Sherry Cask records report six years plus two in sherry wood. Their fixed eight-year age and two-year finish are not transferred to this newer NAS Small Batch identity.",
+      "history": [
+        "Eric Burke documents a Small Batch bottle, lot C12-232, purchased in Illinois and reviewed July 22, 2014. Dykstra’s January 25, 2015 review explicitly distinguishes the newer flask bottle from the earlier Sherry Cask presentation.",
+        "The accepted Invitation Series 15 Year is a different age, strength and named programme. It remains separately indexed. A precise first-release date and discontinuation date for the newer Small Batch are not established."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
+          "summary": "Dykstra praises depth and a soft mouthfeel, but finds the sherry fruit and rye spice poorly reconciled. He also finds the ending shorter than the palate suggests.",
+          "scope": "January 25, 2015; exact newer Small Batch 41.3% ABV identity, 85.5 points."
+        },
+        {
+          "reviewer": "Eric Burke",
+          "publisher": "Bourbon Guy",
+          "url": "https://www.bourbonguy.com/blog/2014/7/22/a-competition-of-canadian-clubs-regular-release-vs-sherry-cask",
+          "summary": "Burke finds a substantial sweet palate and a fruit-led, drying finish. He likes it as a relaxed pour and prefers it to core Canadian Club, while questioning whether it earns twice the price.",
+          "scope": "July 22, 2014; 41.3% ABV, lot C12-232; USD 29.99 for 750 mL at Binny’s, Bloomington, Illinois."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Small Batch Sherry Cask — Rum Howler",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
+          "role": "Exact newer-label specification, formulation context, photograph and independent tasting."
+        },
+        {
+          "title": "Core vs Small Batch Sherry Cask — Bourbon Guy",
+          "url": "https://www.bourbonguy.com/blog/2014/7/22/a-competition-of-canadian-clubs-regular-release-vs-sherry-cask",
+          "role": "Exact Small Batch lot, independent comparison and dated U.S. purchase."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Canadian Club Invitation Series No. 1 Sherry Cask 15 Year",
+          "url": "canadian-club-invitation-series-no-1-sherry-cask-15-year.html",
+          "reason": "Later age-stated sherry treatment; a distinct identity rather than the same bottle."
+        },
+        {
+          "name": "Canadian Club 1858 Original",
+          "url": "canadian-club-1858-original.html",
+          "reason": "The direct comparison’s lighter and less costly core blend."
+        }
+      ],
+      "quality": 6.5,
+      "dimensions": [
+        6.0,
+        7.0,
+        5.8,
+        7.2,
+        7.0,
+        6.5,
+        6.5
+      ],
+      "quality_rationale": "Fruit depth and texture support good execution, while conflicting spice/fruit integration and limited persistence prevent an excellent judgment. This provisional assessment uses the exact newer-label reviews, not the earlier eight-year sample.",
+      "value": 6.0,
+      "value_rationale": "At the documented July 2014 USD 29.99 / 750 mL purchase, it is a fair step up for sherry fans. The same reviewer paid USD 14.99 for core Canadian Club and did not find the upgrade proportionate to twice the price. This is historical U.S. Value, not an October 2026 stock or price claim.",
+      "pricing": {
+        "amount": 29.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2014-07-22",
+        "basis": "Historical Illinois retail purchase quoted in the July 2014 review",
+        "url": "https://www.bourbonguy.com/blog/2014/7/22/a-competition-of-canadian-clubs-regular-release-vs-sherry-cask"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 22,
+          "current_band": false,
+          "reason": "A low-risk exact-bottle buy if its stored condition is sound.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 22,
+          "maximum_exclusive": 28,
+          "current_band": false,
+          "reason": "An attractive budget for the richer sherry treatment.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 28,
+          "maximum_exclusive": 35,
+          "current_band": true,
+          "reason": "Fair for someone who specifically enjoys fruit with rye spice.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 35,
+          "maximum_exclusive": 42,
+          "current_band": false,
+          "reason": "Taste first; the reviews disagree about harmony and persistence.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 42,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The documented performance does not justify paying a rarity premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to judge the fruit/spice balance."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Use a small cube; additional dilution may shorten an already modest finish."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Use restrained vermouth or sugar so the sherry-derived fruit stays distinct."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short ginger highball is practical; compare cheaper 1858 for mixer-heavy drinks."
+        }
+      ],
+      "image_url": "https://therumhowlerblog.com/wp-content/uploads/2014/02/cc-sherry-cask.jpg",
+      "image_source": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-small-batch-sherry-cask/",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "canadian-mist-black-diamond",
+    "filename": "canadian-mist-black-diamond.html",
+    "name": "Canadian Mist Black Diamond",
+    "family": "Canadian Mist",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman at the 2010 launch; brand and production assets transferred to Sazerac in 2020",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "NAS label; three-year production reported",
+    "age_display": "NAS label; three-year production reported",
+    "age_sort_years": null,
+    "mash_bill_display": "Corn base and corn/rye/barley-malt flavoring streams reported; blend proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.8,
+    "quality_score": 5.8,
+    "value": 7.4,
+    "value_score": 7.4,
+    "overall": 6.55133574166368,
+    "overall_score": 6.55133574166368,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 6.1,
+        "flavor_development": 5.6,
+        "finish": 5.0,
+        "technical_cleanliness": 6.4,
+        "texture": 6.0,
+        "maturity_wood_management": 5.5,
+        "distinctiveness": 6.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.815,
+      "editorial_adjustment": -0.015,
+      "adjustment_reason": "The matched evidence supports fuller, well-balanced mixing performance and useful grain character. Youth and modest finish/complexity place it near good rather than turning its premium label into an excellent score."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The matched evidence supports fuller, well-balanced mixing performance and useful grain character. Youth and modest finish/complexity place it near good rather than turning its premium label into an excellent score.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the verified 2010 USD 14.99 launch MSRP, the modest step above contemporary core Canadian Mist buys documented extra body and rye/sherry character. The score belongs to that launch price; a surviving bottle at a collector premium needs a fresh purchasing judgment.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 14.99,
+    "price_basis": "Original U.S. launch MSRP, historical context",
+    "price_url": "https://canadianwhisky.org/blog/news-views/canadian-mist-black-diamond-43-alc-vol.html",
+    "price_period": "2010-08-05",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 14.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2010,
+    "release_scope": "Canadian Mist Black Diamond Premium Select, original 2010 U.S. launch expression, 43% ABV / 86 proof.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
+      "https://chuckcowdery.blogspot.com/2010/08/canadian-mist-launches-black-diamond.html"
+    ],
+    "review_publishers": [
+      "Canadian Whisky",
+      "The Chuck Cowdery Blog"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
+        "summary": "De Kergommeaux finds fuller fruit, more body and brighter spice than original Canadian Mist, with useful citrus balance. He still sees youthful grain character, moderate complexity and a relatively short finish.",
+        "scope": "Exact 43% Black Diamond review; historical launch-era specification and USD 14.99 suggested price."
+      },
+      {
+        "reviewer": "Chuck Cowdery",
+        "publisher": "The Chuck Cowdery Blog",
+        "url": "https://chuckcowdery.blogspot.com/2010/08/canadian-mist-launches-black-diamond.html",
+        "summary": "Cowdery finds the extra rye and sherry make a more substantial blend without adding wood age. He particularly values the added character in a Manhattan.",
+        "scope": "August 10, 2010; three-year production, 43% ABV, USD 14.99 / 750 mL."
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/news-views/canadian-mist-black-diamond-43-alc-vol.html",
+      "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
+      "https://chuckcowdery.blogspot.com/2010/08/canadian-mist-launches-black-diamond.html",
+      "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx"
+    ],
+    "production_summary": "The August 5, 2010 producer announcement specifies increased rye and sherry content and 86 proof. The independent production record describes separately matured corn and mixed-grain streams blended after three years. Sherry is a blending contribution here; an ex-sherry-cask finish is not established. Three years is reported production age, not a verified age statement on the pictured front label.",
+    "finishing_information": "No separate cask finish authenticated; higher sherry content is reported as part of the blend",
+    "identity_note": null,
+    "history": [
+      "The producer announcement schedules initial release for late August 2010 in six U.S. markets at USD 14.99 / 750 mL, with further markets planned for 2011. Its original announcement date governs; a migrated page footer dated April 2010 is inconsistent with that text.",
+      "This is retained as a historical line extension. The exact cessation date is unverified. Brown-Forman’s July 31, 2020 sale transferred the Canadian Mist and Collingwood brands and production assets; that later ownership does not make the 2010 bottle a Sazerac production."
+    ],
+    "comparables": [
+      {
+        "name": "Canadian Mist Original",
+        "url": "canadian-mist-original.html",
+        "reason": "The lighter parent blend against which Black Diamond was explicitly designed."
+      },
+      {
+        "name": "Collingwood Original",
+        "url": "collingwood-original.html",
+        "reason": "Another Collingwood distillery expression, with a different blend and maplewood treatment."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 12,
+        "current_band": false,
+        "reason": "Compelling for a sound bottle if the youthful profile suits you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 12,
+        "maximum_exclusive": 17,
+        "current_band": true,
+        "reason": "The original launch budget offers useful extra flavor for little money.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 17,
+        "maximum_exclusive": 22,
+        "current_band": false,
+        "reason": "Reasonable only for someone who wants this specific historical blend.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 22,
+        "maximum_exclusive": 28,
+        "current_band": false,
+        "reason": "Taste before paying a substantial premium over its original budget purpose.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 28,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Rarity alone does not justify the drinking cost.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Taste neat for grain, fruit and cola-like notes."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Keep dilution modest; the relatively brief finish can fade."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A Manhattan is directly supported by the contemporary review; use restrained sweetness."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Ginger ale or cola can work with the documented bright citrus and spice."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484135629-O0FCLZ0HXCJZGFNES3IO/Mist-Black-Diamond-for-web.jpg?format=750w",
+        "scope": "Canadian Mist Black Diamond Premium Select, original 2010 U.S. launch expression, 43% ABV / 86 proof.",
+        "sha256": "6cebe3e85a8e122b37ab041ba7d0ff4f75eec4edadf6ca9fbdb95d4226d9203c",
+        "image_embedded": true,
+        "width": 750,
+        "height": 473
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Canadian Mist Black Diamond Premium Select, original 2010 U.S. launch expression, 43% ABV / 86 proof.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-010",
+    "editorial": {
+      "id": "canadian-mist-black-diamond",
+      "proof": 86,
+      "age": null,
+      "age_display": "NAS label; three-year production reported",
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman at the 2010 launch; brand and production assets transferred to Sazerac in 2020",
+      "release_year": 2010,
+      "identity": "Canadian Mist Black Diamond Premium Select, original 2010 U.S. launch expression, 43% ABV / 86 proof.",
+      "short_version": "A more expressive, fruitier Canadian Mist made for the U.S. market, with increased rye and sherry content. Its short finish and youthful character keep it primarily a versatile budget blend.",
+      "grain": "Corn base and corn/rye/barley-malt flavoring streams reported; blend proportions undisclosed",
+      "production": "The August 5, 2010 producer announcement specifies increased rye and sherry content and 86 proof. The independent production record describes separately matured corn and mixed-grain streams blended after three years. Sherry is a blending contribution here; an ex-sherry-cask finish is not established. Three years is reported production age, not a verified age statement on the pictured front label.",
+      "finish": "No separate cask finish authenticated; higher sherry content is reported as part of the blend",
+      "history": [
+        "The producer announcement schedules initial release for late August 2010 in six U.S. markets at USD 14.99 / 750 mL, with further markets planned for 2011. Its original announcement date governs; a migrated page footer dated April 2010 is inconsistent with that text.",
+        "This is retained as a historical line extension. The exact cessation date is unverified. Brown-Forman’s July 31, 2020 sale transferred the Canadian Mist and Collingwood brands and production assets; that later ownership does not make the 2010 bottle a Sazerac production."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
+          "summary": "De Kergommeaux finds fuller fruit, more body and brighter spice than original Canadian Mist, with useful citrus balance. He still sees youthful grain character, moderate complexity and a relatively short finish.",
+          "scope": "Exact 43% Black Diamond review; historical launch-era specification and USD 14.99 suggested price."
+        },
+        {
+          "reviewer": "Chuck Cowdery",
+          "publisher": "The Chuck Cowdery Blog",
+          "url": "https://chuckcowdery.blogspot.com/2010/08/canadian-mist-launches-black-diamond.html",
+          "summary": "Cowdery finds the extra rye and sherry make a more substantial blend without adding wood age. He particularly values the added character in a Manhattan.",
+          "scope": "August 10, 2010; three-year production, 43% ABV, USD 14.99 / 750 mL."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Black Diamond producer launch announcement",
+          "url": "https://canadianwhisky.org/blog/news-views/canadian-mist-black-diamond-43-alc-vol.html",
+          "role": "Primary announcement reproduced in full; August 2010 date, strength, blend additions, markets and MSRP."
+        },
+        {
+          "title": "Black Diamond — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
+          "role": "Exact independent tasting, production detail and verified photograph."
+        },
+        {
+          "title": "Black Diamond launch — Chuck Cowdery",
+          "url": "https://chuckcowdery.blogspot.com/2010/08/canadian-mist-launches-black-diamond.html",
+          "role": "Contemporary independent assessment and age/price context."
+        },
+        {
+          "title": "Completed 2020 sale — Brown-Forman",
+          "url": "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx",
+          "role": "Primary separation of historical and subsequent ownership."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Canadian Mist Original",
+          "url": "canadian-mist-original.html",
+          "reason": "The lighter parent blend against which Black Diamond was explicitly designed."
+        },
+        {
+          "name": "Collingwood Original",
+          "url": "collingwood-original.html",
+          "reason": "Another Collingwood distillery expression, with a different blend and maplewood treatment."
+        }
+      ],
+      "quality": 5.8,
+      "dimensions": [
+        6.1,
+        5.6,
+        5.0,
+        6.4,
+        6.0,
+        5.5,
+        6.2
+      ],
+      "quality_rationale": "The matched evidence supports fuller, well-balanced mixing performance and useful grain character. Youth and modest finish/complexity place it near good rather than turning its premium label into an excellent score.",
+      "value": 7.4,
+      "value_rationale": "At the verified 2010 USD 14.99 launch MSRP, the modest step above contemporary core Canadian Mist buys documented extra body and rye/sherry character. The score belongs to that launch price; a surviving bottle at a collector premium needs a fresh purchasing judgment.",
+      "pricing": {
+        "amount": 14.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2010-08-05",
+        "basis": "Original U.S. launch MSRP, historical context",
+        "url": "https://canadianwhisky.org/blog/news-views/canadian-mist-black-diamond-43-alc-vol.html"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 12,
+          "current_band": false,
+          "reason": "Compelling for a sound bottle if the youthful profile suits you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 12,
+          "maximum_exclusive": 17,
+          "current_band": true,
+          "reason": "The original launch budget offers useful extra flavor for little money.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 17,
+          "maximum_exclusive": 22,
+          "current_band": false,
+          "reason": "Reasonable only for someone who wants this specific historical blend.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 22,
+          "maximum_exclusive": 28,
+          "current_band": false,
+          "reason": "Taste before paying a substantial premium over its original budget purpose.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 28,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Rarity alone does not justify the drinking cost.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Taste neat for grain, fruit and cola-like notes."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Keep dilution modest; the relatively brief finish can fade."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A Manhattan is directly supported by the contemporary review; use restrained sweetness."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Ginger ale or cola can work with the documented bright citrus and spice."
+        }
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484135629-O0FCLZ0HXCJZGFNES3IO/Mist-Black-Diamond-for-web.jpg?format=750w",
+      "image_source": "https://canadianwhisky.org/blog/reviews/canadian-mist-black-diamond-43-alc-vol-80-proof.html",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "canadian-mist-original",
+    "filename": "canadian-mist-original.html",
+    "name": "Canadian Mist Original",
+    "family": "Canadian Mist",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Canadian Mist Distillery, Collingwood, Ontario / Sazerac; Brown-Forman ownership in older review eras",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS label; NC lists 3Y",
+    "age_display": "NAS label; NC lists 3Y",
+    "age_sort_years": null,
+    "mash_bill_display": "Corn, rye and barley malt; exact blend proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 4.3,
+    "quality_score": 4.3,
+    "value": 6.1,
+    "value_score": 6.1,
+    "overall": 5.121523210920751,
+    "overall_score": 5.121523210920751,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 4.5,
+        "flavor_development": 4.0,
+        "finish": 3.7,
+        "technical_cleanliness": 4.1,
+        "texture": 4.3,
+        "maturity_wood_management": 4.7,
+        "distinctiveness": 4.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 4.195,
+      "editorial_adjustment": 0.105,
+      "adjustment_reason": "Reported aroma defects, brevity and weak cocktail definition warrant a below-average provisional score. The favorable independent account is retained, so one reviewer’s extreme dislike is not converted into a catastrophic category endpoint."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Reported aroma defects, brevity and weak cocktail definition warrant a below-average provisional score. The favorable independent account is retained, so one reviewer’s extreme dislike is not converted into a catastrophic category endpoint.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The verified August 2026 NC regular price is USD 10.95 / 750 mL. That supports budget mixing Value, conditional on liking the bottle: Canadian Club 1858 at USD 11.95 offers a close alternative, and a cheap bottle that tastes unpleasant to you is no bargain.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 10.95,
+    "price_basis": "NC ABC regular August–October 2026 retail price, checked October 14",
+    "price_url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+    "price_period": "2026-08-01",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 10.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 10.95,
+    "nc_code": "38-456",
+    "nc_listing_status": "Exact standard 750 mL / 80-proof entry; 3Y is administrative text, not a verified label age.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Canadian Mist Original blended Canadian whisky, recurring 40% ABV / 80-proof expression; excludes Black Diamond and size-only packaging variants.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://distiller.com/spirits/canadian-mist",
+      "https://www.thirtyonewhiskey.com/whisky-review-canadian-mist-blended-canadian-whisky/",
+      "https://canadianwhisky.org/blog/reviews/canadian-mist-40-alc-vol.html"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "Thirty-One Whiskey",
+      "Canadian Whisky"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Stephanie Moreno",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/canadian-mist",
+        "summary": "Moreno finds a grain/nut-led profile that disappears quickly, leaving little development beyond husk-like and oak-spice impressions.",
+        "scope": "Exact 40% ABV Original expert tasting; 70 points. The page’s Brown-Forman ownership line is outdated."
+      },
+      {
+        "reviewer": "Nick Leghorn",
+        "publisher": "Thirty-One Whiskey",
+        "url": "https://www.thirtyonewhiskey.com/whisky-review-canadian-mist-blended-canadian-whisky/",
+        "summary": "Leghorn reports an acrid rubber-like aroma and bitterness with ice. Fruit appears neat and works in a mule, but he dislikes the overall experience and finds the Old Fashioned bland.",
+        "scope": "November 28, 2023; NAS Original at 40% ABV, USD 9.99 / 750 mL; sensory defects are his sample judgment, not a universal batch fact."
+      },
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-40-alc-vol.html",
+        "summary": "De Kergommeaux finds a clean, youthful blend with citrus, sweetness and rye spice, valuing it as a mixer and suggesting a neat trial. His favorable reading conflicts materially with the later negative sample.",
+        "scope": "Historical Original 40% ABV review; the migrated page contains older ownership and product-range statements that are not reused as current facts."
+      }
+    ],
+    "source_urls": [
+      "https://distiller.com/spirits/canadian-mist",
+      "https://www.thirtyonewhiskey.com/whisky-review-canadian-mist-blended-canadian-whisky/",
+      "https://canadianwhisky.org/blog/reviews/canadian-mist-40-alc-vol.html",
+      "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "Matched documentation identifies a single-distillery Canadian blend made in Collingwood from corn, rye and barley. The historical production account describes base and rye-rich streams, matured in oak then blended. No numerical mash bill or identical later-era recipe is assumed. The 2026 NC list reports 3Y, while the photographed label is NAS; administrative age text is not silently promoted to a front-label age statement.",
+    "finishing_information": "Oak maturation; no additional cask finish authenticated",
+    "identity_note": null,
+    "history": [
+      "The brand dates to 1967; Brown-Forman later owned it, and the sale of Canadian Mist, Collingwood and their production assets to Sazerac closed July 31, 2020. Older sources naming Brown-Forman are historical, not current ownership evidence.",
+      "NC’s August–October 2026 list has a standard 750 mL entry, code 38-456, at USD 10.95. The separately named Sportster entry is packaging context, not another recipe or another dossier."
+    ],
+    "comparables": [
+      {
+        "name": "Black Velvet Original",
+        "url": "black-velvet-original.html",
+        "reason": "A separately researched affordable Canadian blend; compare actual neat appeal before buying on price."
+      },
+      {
+        "name": "Canadian Club 1858 Original",
+        "url": "canadian-club-1858-original.html",
+        "reason": "A nearby NC price alternative with different sensory evidence."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 8,
+        "current_band": false,
+        "reason": "Buy only after confirming the exact bottle is acceptable to you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 8,
+        "maximum_exclusive": 12,
+        "current_band": true,
+        "reason": "Useful mixer pricing; compare 1858 before stocking up.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 12,
+        "maximum_exclusive": 15,
+        "current_band": false,
+        "reason": "A conditional buy when you already enjoy this light blend.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 15,
+        "maximum_exclusive": 18,
+        "current_band": false,
+        "reason": "Nearby alternatives make the modest savings less persuasive.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 18,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The disputed sensory performance does not support a premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "A small neat pour can reveal whether your bottle resembles the favorable or harsh review."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a little ice first; the 2023 review found bitterness worse on ice."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Expect light definition; test one drink before committing to a full bottle for this use."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A ginger mule or simple mixed drink is the most defensible use in the matched evidence."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.thirtyonewhiskey.com/whisky-review-canadian-mist-blended-canadian-whisky/",
+        "image_url": "https://content.thirtyonewhiskey.com/wp-content/uploads/2023/09/10095331/PXL_20230910_142718231.PORTRAIT-771x1024.jpg",
+        "scope": "Canadian Mist Original blended Canadian whisky, recurring 40% ABV / 80-proof expression; excludes Black Diamond and size-only packaging variants.",
+        "sha256": "464256890d0a146881dbc61e318fbe1a4f546c1c3c8748c55cfa9576c06ede4b",
+        "image_embedded": true,
+        "width": 771,
+        "height": 1024
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Canadian Mist Original blended Canadian whisky, recurring 40% ABV / 80-proof expression; excludes Black Diamond and size-only packaging variants.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-010",
+    "editorial": {
+      "id": "canadian-mist-original",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS label; NC lists 3Y",
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Sazerac; Brown-Forman ownership in older review eras",
+      "identity": "Canadian Mist Original blended Canadian whisky, recurring 40% ABV / 80-proof expression; excludes Black Diamond and size-only packaging variants.",
+      "short_version": "An inexpensive Canadian mixer with sharply divided reviews. Some find clean grain, fruit and spice; others report an industrial aroma, bitterness or a very brief palate. The low price does not settle that disagreement.",
+      "grain": "Corn, rye and barley malt; exact blend proportions undisclosed",
+      "production": "Matched documentation identifies a single-distillery Canadian blend made in Collingwood from corn, rye and barley. The historical production account describes base and rye-rich streams, matured in oak then blended. No numerical mash bill or identical later-era recipe is assumed. The 2026 NC list reports 3Y, while the photographed label is NAS; administrative age text is not silently promoted to a front-label age statement.",
+      "finish": "Oak maturation; no additional cask finish authenticated",
+      "history": [
+        "The brand dates to 1967; Brown-Forman later owned it, and the sale of Canadian Mist, Collingwood and their production assets to Sazerac closed July 31, 2020. Older sources naming Brown-Forman are historical, not current ownership evidence.",
+        "NC’s August–October 2026 list has a standard 750 mL entry, code 38-456, at USD 10.95. The separately named Sportster entry is packaging context, not another recipe or another dossier."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Stephanie Moreno",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/canadian-mist",
+          "summary": "Moreno finds a grain/nut-led profile that disappears quickly, leaving little development beyond husk-like and oak-spice impressions.",
+          "scope": "Exact 40% ABV Original expert tasting; 70 points. The page’s Brown-Forman ownership line is outdated."
+        },
+        {
+          "reviewer": "Nick Leghorn",
+          "publisher": "Thirty-One Whiskey",
+          "url": "https://www.thirtyonewhiskey.com/whisky-review-canadian-mist-blended-canadian-whisky/",
+          "summary": "Leghorn reports an acrid rubber-like aroma and bitterness with ice. Fruit appears neat and works in a mule, but he dislikes the overall experience and finds the Old Fashioned bland.",
+          "scope": "November 28, 2023; NAS Original at 40% ABV, USD 9.99 / 750 mL; sensory defects are his sample judgment, not a universal batch fact."
+        },
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-40-alc-vol.html",
+          "summary": "De Kergommeaux finds a clean, youthful blend with citrus, sweetness and rye spice, valuing it as a mixer and suggesting a neat trial. His favorable reading conflicts materially with the later negative sample.",
+          "scope": "Historical Original 40% ABV review; the migrated page contains older ownership and product-range statements that are not reused as current facts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Canadian Mist — Distiller",
+          "url": "https://distiller.com/spirits/canadian-mist",
+          "role": "Matched strength, grain identity and substantive expert review; outdated ownership separated."
+        },
+        {
+          "title": "Canadian Mist — Thirty-One Whiskey",
+          "url": "https://www.thirtyonewhiskey.com/whisky-review-canadian-mist-blended-canadian-whisky/",
+          "role": "2023 exact sensory assessment and verified Original photograph."
+        },
+        {
+          "title": "Canadian Mist — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/canadian-mist-40-alc-vol.html",
+          "role": "Independent favorable counterevidence and historical production description."
+        },
+        {
+          "title": "Completed 2020 sale — Brown-Forman",
+          "url": "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx",
+          "role": "Primary current-owner transition."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 38-456, 3Y administrative listing, 80 proof, 750 mL, USD 10.95 regular retail."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Black Velvet Original",
+          "url": "black-velvet-original.html",
+          "reason": "A separately researched affordable Canadian blend; compare actual neat appeal before buying on price."
+        },
+        {
+          "name": "Canadian Club 1858 Original",
+          "url": "canadian-club-1858-original.html",
+          "reason": "A nearby NC price alternative with different sensory evidence."
+        }
+      ],
+      "quality": 4.3,
+      "dimensions": [
+        4.5,
+        4.0,
+        3.7,
+        4.1,
+        4.3,
+        4.7,
+        4.0
+      ],
+      "quality_rationale": "Reported aroma defects, brevity and weak cocktail definition warrant a below-average provisional score. The favorable independent account is retained, so one reviewer’s extreme dislike is not converted into a catastrophic category endpoint.",
+      "value": 6.1,
+      "value_rationale": "The verified August 2026 NC regular price is USD 10.95 / 750 mL. That supports budget mixing Value, conditional on liking the bottle: Canadian Club 1858 at USD 11.95 offers a close alternative, and a cheap bottle that tastes unpleasant to you is no bargain.",
+      "pricing": {
+        "amount": 10.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-08-01",
+        "basis": "NC ABC regular August–October 2026 retail price, checked October 14",
+        "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+        "effective": "2026-08-01",
+        "nc_code": "38-456",
+        "nc_status": "Exact standard 750 mL / 80-proof entry; 3Y is administrative text, not a verified label age."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 8,
+          "current_band": false,
+          "reason": "Buy only after confirming the exact bottle is acceptable to you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 8,
+          "maximum_exclusive": 12,
+          "current_band": true,
+          "reason": "Useful mixer pricing; compare 1858 before stocking up.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 12,
+          "maximum_exclusive": 15,
+          "current_band": false,
+          "reason": "A conditional buy when you already enjoy this light blend.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 15,
+          "maximum_exclusive": 18,
+          "current_band": false,
+          "reason": "Nearby alternatives make the modest savings less persuasive.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 18,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The disputed sensory performance does not support a premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "A small neat pour can reveal whether your bottle resembles the favorable or harsh review."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a little ice first; the 2023 review found bitterness worse on ice."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Expect light definition; test one drink before committing to a full bottle for this use."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A ginger mule or simple mixed drink is the most defensible use in the matched evidence."
+        }
+      ],
+      "image_url": "https://content.thirtyonewhiskey.com/wp-content/uploads/2023/09/10095331/PXL_20230910_142718231.PORTRAIT-771x1024.jpg",
+      "image_source": "https://www.thirtyonewhiskey.com/whisky-review-canadian-mist-blended-canadian-whisky/",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "caribou-crossing-single-barrel",
+    "filename": "caribou-crossing-single-barrel.html",
+    "name": "Caribou Crossing Single Barrel",
+    "family": "Caribou Crossing",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Sazerac; Canadian distillation sources undisclosed; reviewed 2018 bottle attributed to Old Montreal Distillery for bottling",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Undisclosed Canadian whisky grain/blend composition; all-rye and bourbon mash-bill claims not authenticated",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.3,
+    "quality_score": 6.3,
+    "value": 4.0,
+    "value_score": 4.0,
+    "overall": 5.019960159204453,
+    "overall_score": 5.019960159204453,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 6.5,
+        "flavor_development": 5.7,
+        "finish": 5.1,
+        "technical_cleanliness": 7.0,
+        "texture": 6.9,
+        "maturity_wood_management": 6.6,
+        "distinctiveness": 6.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.23,
+      "editorial_adjustment": 0.07,
+      "adjustment_reason": "The combined sample evidence supports good texture and clean gentle execution, with uncertain depth and finish. The provisional score retains the richer early review and the light later review; it neither averages their ratings mechanically nor guarantees every barrel."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The combined sample evidence supports good texture and clean gentle execution, with uncertain depth and finish. The provisional score retains the richer early review and the light later review; it neither averages their ratings mechanically nor guarantees every barrel.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the verified August 2026 NC USD 56.95 / 750 mL regular price, the light reviewed performance competes poorly on drinking Value with Classic 12 at USD 24.95. A particularly good barrel may justify more, but its stopper, allocation or resemblance to Blanton’s packaging is not sensory evidence.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 56.95,
+    "price_basis": "NC ABC regular August–October 2026 standard-entry retail price",
+    "price_url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+    "price_period": "2026-08-01",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 56.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 56.95,
+    "nc_code": "19-620",
+    "nc_listing_status": "Exact standard 80-proof / 750 mL entry; separate BTB programme pricing is not substituted.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Caribou Crossing Single Barrel Canadian whisky programme, 40% ABV / 80 proof; individual barrel variation remains material.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.breakingbourbon.com/tnt/caribou-crossing-single-barrel",
+      "https://canadianwhisky.org/blog/reviews/caribou-crossing-single-barrel-40-alc-vol-80-proof.html"
+    ],
+    "review_publishers": [
+      "Breaking Bourbon",
+      "Canadian Whisky"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Jordan Moskal",
+        "publisher": "Breaking Bourbon",
+        "url": "https://www.breakingbourbon.com/tnt/caribou-crossing-single-barrel",
+        "summary": "Moskal finds an easy, airy pour with sweet vanilla/caramel flavors and a short finish. He would like more concentration and depth.",
+        "scope": "October 23, 2018; 80 proof, NAS; production-bottle sample provided by Sazerac."
+      },
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/caribou-crossing-single-barrel-40-alc-vol-80-proof.html",
+        "summary": "De Kergommeaux finds a richer creamy sample with wood, fruit, citrus and developing spice. He praises it strongly while noting that its texture partly obscures definition and that single barrels can vary.",
+        "scope": "Historical 40% ABV programme sample; not assumed to be the same barrel as the 2018 review."
+      }
+    ],
+    "source_urls": [
+      "https://www.breakingbourbon.com/tnt/caribou-crossing-single-barrel",
+      "https://canadianwhisky.org/blog/reviews/caribou-crossing-single-barrel-40-alc-vol-80-proof.html",
+      "https://www.sazerac.com/footer-pages/nutrition.html",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "Sazerac’s recurring Canadian single-barrel selection draws from Canadian whisky inventory, but exact distillation sources, grain percentages, barrel ages and oak specifications are undisclosed here. Breaking Bourbon identifies Old Montreal as the bottling location for its 2018 sample; this does not authenticate Montreal as the distillation source. NAS remains NAS. Sazerac’s nutrition record independently lists 80 proof / 40% ABV.",
+    "finishing_information": "No separate finishing stage authenticated",
+    "identity_note": null,
+    "history": [
+      "The programme emerged in the 2010 era. De Kergommeaux explicitly notes earlier Canadian single-barrel precedents, so a marketing claim to be the world’s first is not repeated as settled historical fact.",
+      "Its recurring single-barrel identity is distinct from individual retailer picks. The August–October 2026 NC standard entry is code 19-620 at USD 56.95 / 750 mL; the BTB programme entry is not treated as a new expression."
+    ],
+    "comparables": [
+      {
+        "name": "Canadian Club Classic 12 Year",
+        "url": "canadian-club-classic-12-year.html",
+        "reason": "A lower-cost Canadian blend with similarly disputed texture and depth."
+      },
+      {
+        "name": "Collingwood Original",
+        "url": "collingwood-original.html",
+        "reason": "A Canadian blend with a documented wood treatment and more overt fruit/pepper character in its reviewed sample."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 30,
+        "current_band": false,
+        "reason": "Compelling only after tasting a barrel you enjoy.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 30,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "A more comfortable budget for the gentle single-barrel profile.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 40,
+        "maximum_exclusive": 50,
+        "current_band": false,
+        "reason": "Fair if the exact barrel delivers the richer review’s depth.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 50,
+        "maximum_exclusive": 60,
+        "current_band": true,
+        "reason": "Taste first: much of the premium is difficult to defend for a light barrel.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 60,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value unless an exceptional tasted barrel changes the decision.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to preserve the low-proof detail and assess your barrel."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Use limited water or one cube; the 2018 sample was already light."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Keep sugar and vermouth restrained so a gentle barrel remains audible."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda highball suits the gentle style; compare a cheaper blend for heavy mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.breakingbourbon.com/tnt/caribou-crossing-single-barrel",
+        "image_url": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/5c4df7fa7c1ca4e8fd05becb_caribou-crossing-tnt-02a.jpg",
+        "scope": "Caribou Crossing Single Barrel Canadian whisky programme, 40% ABV / 80 proof; individual barrel variation remains material.",
+        "sha256": "254aaa11b7cc5d424efe85ef5e80a37a3e81b94e4f91194cf1794575348f7c2c",
+        "image_embedded": true,
+        "width": 650,
+        "height": 433
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Caribou Crossing Single Barrel Canadian whisky programme, 40% ABV / 80 proof; individual barrel variation remains material.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-010",
+    "editorial": {
+      "id": "caribou-crossing-single-barrel",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS",
+      "producer": "Sazerac; Canadian distillation sources undisclosed; reviewed 2018 bottle attributed to Old Montreal Distillery for bottling",
+      "identity": "Caribou Crossing Single Barrel Canadian whisky programme, 40% ABV / 80 proof; individual barrel variation remains material.",
+      "short_version": "A gentle Canadian single barrel with attractive texture and very different levels of depth reported across samples. Its stopper and scarcity are excluded from Quality; the NC price requires a taste-led buying decision.",
+      "grain": "Undisclosed Canadian whisky grain/blend composition; all-rye and bourbon mash-bill claims not authenticated",
+      "production": "Sazerac’s recurring Canadian single-barrel selection draws from Canadian whisky inventory, but exact distillation sources, grain percentages, barrel ages and oak specifications are undisclosed here. Breaking Bourbon identifies Old Montreal as the bottling location for its 2018 sample; this does not authenticate Montreal as the distillation source. NAS remains NAS. Sazerac’s nutrition record independently lists 80 proof / 40% ABV.",
+      "finish": "No separate finishing stage authenticated",
+      "history": [
+        "The programme emerged in the 2010 era. De Kergommeaux explicitly notes earlier Canadian single-barrel precedents, so a marketing claim to be the world’s first is not repeated as settled historical fact.",
+        "Its recurring single-barrel identity is distinct from individual retailer picks. The August–October 2026 NC standard entry is code 19-620 at USD 56.95 / 750 mL; the BTB programme entry is not treated as a new expression."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Jordan Moskal",
+          "publisher": "Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/tnt/caribou-crossing-single-barrel",
+          "summary": "Moskal finds an easy, airy pour with sweet vanilla/caramel flavors and a short finish. He would like more concentration and depth.",
+          "scope": "October 23, 2018; 80 proof, NAS; production-bottle sample provided by Sazerac."
+        },
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/caribou-crossing-single-barrel-40-alc-vol-80-proof.html",
+          "summary": "De Kergommeaux finds a richer creamy sample with wood, fruit, citrus and developing spice. He praises it strongly while noting that its texture partly obscures definition and that single barrels can vary.",
+          "scope": "Historical 40% ABV programme sample; not assumed to be the same barrel as the 2018 review."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Caribou Crossing — Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/tnt/caribou-crossing-single-barrel",
+          "role": "Exact 2018 sensory record, NAS/strength, bottling context and verified programme photograph."
+        },
+        {
+          "title": "Caribou Crossing — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/caribou-crossing-single-barrel-40-alc-vol-80-proof.html",
+          "role": "Substantive independent counterevidence and single-barrel limits."
+        },
+        {
+          "title": "Sazerac nutrition specifications",
+          "url": "https://www.sazerac.com/footer-pages/nutrition.html",
+          "role": "Primary 80-proof / 40% ABV specification."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 19-620 standard Caribou Crossing, 80 proof, 750 mL, USD 56.95 regular retail."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Canadian Club Classic 12 Year",
+          "url": "canadian-club-classic-12-year.html",
+          "reason": "A lower-cost Canadian blend with similarly disputed texture and depth."
+        },
+        {
+          "name": "Collingwood Original",
+          "url": "collingwood-original.html",
+          "reason": "A Canadian blend with a documented wood treatment and more overt fruit/pepper character in its reviewed sample."
+        }
+      ],
+      "quality": 6.3,
+      "dimensions": [
+        6.5,
+        5.7,
+        5.1,
+        7.0,
+        6.9,
+        6.6,
+        6.0
+      ],
+      "quality_rationale": "The combined sample evidence supports good texture and clean gentle execution, with uncertain depth and finish. The provisional score retains the richer early review and the light later review; it neither averages their ratings mechanically nor guarantees every barrel.",
+      "value": 4.0,
+      "value_rationale": "At the verified August 2026 NC USD 56.95 / 750 mL regular price, the light reviewed performance competes poorly on drinking Value with Classic 12 at USD 24.95. A particularly good barrel may justify more, but its stopper, allocation or resemblance to Blanton’s packaging is not sensory evidence.",
+      "pricing": {
+        "amount": 56.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-08-01",
+        "basis": "NC ABC regular August–October 2026 standard-entry retail price",
+        "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+        "effective": "2026-08-01",
+        "nc_code": "19-620",
+        "nc_status": "Exact standard 80-proof / 750 mL entry; separate BTB programme pricing is not substituted."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 30,
+          "current_band": false,
+          "reason": "Compelling only after tasting a barrel you enjoy.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 30,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "A more comfortable budget for the gentle single-barrel profile.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 40,
+          "maximum_exclusive": 50,
+          "current_band": false,
+          "reason": "Fair if the exact barrel delivers the richer review’s depth.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 50,
+          "maximum_exclusive": 60,
+          "current_band": true,
+          "reason": "Taste first: much of the premium is difficult to defend for a light barrel.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 60,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value unless an exceptional tasted barrel changes the decision.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to preserve the low-proof detail and assess your barrel."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Use limited water or one cube; the 2018 sample was already light."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Keep sugar and vermouth restrained so a gentle barrel remains audible."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda highball suits the gentle style; compare a cheaper blend for heavy mixing."
+        }
+      ],
+      "image_url": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/5c4df7fa7c1ca4e8fd05becb_caribou-crossing-tnt-02a.jpg",
+      "image_source": "https://www.breakingbourbon.com/tnt/caribou-crossing-single-barrel",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "collingwood-21-year-rye",
+    "filename": "collingwood-21-year-rye.html",
+    "name": "Collingwood 21 Year Rye",
+    "family": "Collingwood",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman for this one-time 2013 bottling",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "21 Years",
+    "age_display": "21 Years",
+    "age_sort_years": 21,
+    "mash_bill_display": "100% malted rye",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 8.1,
+    "quality_score": 8.1,
+    "value": 6.8,
+    "value_score": 6.8,
+    "overall": 7.421590126111789,
+    "overall_score": 7.421590126111789,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 8.4,
+        "flavor_development": 7.8,
+        "finish": 7.7,
+        "technical_cleanliness": 8.4,
+        "texture": 8.4,
+        "maturity_wood_management": 8.0,
+        "distinctiveness": 8.6
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 8.145,
+      "editorial_adjustment": -0.045,
+      "adjustment_reason": "The matched samples support excellent wood management, gentle texture and distinctive mature malted-rye execution. Floral differences and limited sample scope remain provisional. The long age does not itself determine the score or convert the bottle to an American straight-rye comparison."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The matched samples support excellent wood management, gentle texture and distinctive mature malted-rye execution. Floral differences and limited sample scope remain provisional. The long age does not itself determine the score or convert the bottle to an American straight-rye comparison.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the official November 2013 U.S. MSRP of USD 69.99 / 750 mL, the mature distinctive performance supports good historical Value. Burke’s actual USD 54.99 launch-era purchase would be more attractive; neither price is applied to today’s scarce surviving stock.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 69.99,
+    "price_basis": "Historical official U.S. launch MSRP; actual December 2013 purchase of USD 54.99 separately documented",
+    "price_url": "https://www.prnewswire.com/news-releases/collingwood-whisky-releases-limited-edition-21-year-old-rye-231020111.html",
+    "price_period": "2013-11-07",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 69.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2013,
+    "release_scope": "Collingwood Rye 21 Year Old, one-time November 2013 release from 100% malted rye, 40% ABV / 80 proof.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.bourbonguy.com/blog/2015/7/29/collingwood-21-year-old-rye-canadian-whisky",
+      "https://distiller.com/spirits/collingwood-rye-21-year"
+    ],
+    "review_publishers": [
+      "Bourbon Guy",
+      "Distiller"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Eric Burke",
+        "publisher": "Bourbon Guy",
+        "url": "https://www.bourbonguy.com/blog/2015/7/29/collingwood-21-year-old-rye-canadian-whisky",
+        "summary": "Burke repeatedly buys the release and favors its gentle floral, vanilla and maple-like profile. His sample has a delicate tea/mint ending rather than aggressive rye heat.",
+        "scope": "2015 article; exact 21-year / 40% ABV identity and documented December 14, 2013 purchase."
+      },
+      {
+        "reviewer": "Stephanie Moreno",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/collingwood-rye-21-year",
+        "summary": "Moreno finds aromatic wood and herb/spice character with a dry palate that avoids harsh tannins. Fruit and floral notes are relatively subdued in her sample.",
+        "scope": "Exact 21-year all-malted-rye one-time bottling, 40% ABV; expert score 85."
+      }
+    ],
+    "source_urls": [
+      "https://www.prnewswire.com/news-releases/collingwood-whisky-releases-limited-edition-21-year-old-rye-231020111.html",
+      "https://www.bourbonguy.com/blog/2015/7/29/collingwood-21-year-old-rye-canadian-whisky",
+      "https://distiller.com/spirits/collingwood-rye-21-year"
+    ],
+    "production_summary": "The November 7, 2013 producer announcement authenticates lot 41-06-91, 100% malted rye, 21 years in seasoned oak, followed by resting with toasted maplewood. Independent accounts report the maplewood vat rest as about one year, but the primary announcement does not fix that duration. The age statement remains 21 years; no new 22-year label age is invented.",
+    "finishing_information": "Post-oak resting with toasted maplewood; one year reported independently, precise duration not fixed in the primary release",
+    "identity_note": null,
+    "history": [
+      "Collingwood announced the one-time release for November 2013 in Ontario and sixteen U.S. markets. The official USD 69.99 / 750 mL MSRP is a dated historical quote.",
+      "Eric Burke records a USD 54.99 / 750 mL purchase at Surdyk’s in Minneapolis on December 14, 2013, demonstrating that actual launch-era retail could be below MSRP. Neither quote establishes present stock or collector pricing."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium 25 Year",
+        "url": "alberta-premium-25-year.html",
+        "reason": "Another mature Canadian all-rye identity, with different malt status and production."
+      },
+      {
+        "name": "Alberta Premium 30 Year",
+        "url": "alberta-premium-30-year.html",
+        "reason": "A separate mature Canadian rye reference; age alone does not establish equal style or Quality."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 50,
+        "current_band": false,
+        "reason": "Strong historical drinking budget for a sound exact bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 50,
+        "maximum_exclusive": 65,
+        "current_band": false,
+        "reason": "The documented USD 54.99 purchase illustrates an attractive level.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 65,
+        "maximum_exclusive": 80,
+        "current_band": true,
+        "reason": "Reasonable for the specific mature malted-rye profile.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 80,
+        "maximum_exclusive": 105,
+        "current_band": false,
+        "reason": "Try a sample first; gentle strength and scarcity do not guarantee proportional enjoyment.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 105,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A collector premium needs a separate decision beyond drinking Value.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat and give the gentle herbal/wood profile time."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a few drops before a cube; forty-percent strength needs little dilution."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A small Manhattan can work, but a bar pour neat is a better first test of this scarce bottle."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Use a short soda ratio if desired; a less scarce blend is more economical for strong mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.bourbonguy.com/blog/2015/7/29/collingwood-21-year-old-rye-canadian-whisky",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/51379b83e4b02119d184b2a2/1438216764942-0Z318HH6QO0MHU20VA2P/Collingwood-21-year-Rye.jpg?format=750w",
+        "scope": "Collingwood Rye 21 Year Old, one-time November 2013 release from 100% malted rye, 40% ABV / 80 proof.",
+        "sha256": "9f912475ae5d87621ed6147e2f41068aa69066889745a83aecb2c9eeaa864375",
+        "image_embedded": true,
+        "width": 750,
+        "height": 1125
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Collingwood Rye 21 Year Old, one-time November 2013 release from 100% malted rye, 40% ABV / 80 proof.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-010",
+    "editorial": {
+      "id": "collingwood-21-year-rye",
+      "proof": 80,
+      "age": 21,
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman for this one-time 2013 bottling",
+      "release_year": 2013,
+      "identity": "Collingwood Rye 21 Year Old, one-time November 2013 release from 100% malted rye, 40% ABV / 80 proof.",
+      "short_version": "An unusually mature all-malted-rye Canadian whisky whose published samples emphasize gentle texture, wood and herbal detail. It is a historical one-time release, not the current Collingwood blend.",
+      "grain": "100% malted rye",
+      "category": "Canadian Single Grain / 100% Rye",
+      "production": "The November 7, 2013 producer announcement authenticates lot 41-06-91, 100% malted rye, 21 years in seasoned oak, followed by resting with toasted maplewood. Independent accounts report the maplewood vat rest as about one year, but the primary announcement does not fix that duration. The age statement remains 21 years; no new 22-year label age is invented.",
+      "finish": "Post-oak resting with toasted maplewood; one year reported independently, precise duration not fixed in the primary release",
+      "history": [
+        "Collingwood announced the one-time release for November 2013 in Ontario and sixteen U.S. markets. The official USD 69.99 / 750 mL MSRP is a dated historical quote.",
+        "Eric Burke records a USD 54.99 / 750 mL purchase at Surdyk’s in Minneapolis on December 14, 2013, demonstrating that actual launch-era retail could be below MSRP. Neither quote establishes present stock or collector pricing."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Eric Burke",
+          "publisher": "Bourbon Guy",
+          "url": "https://www.bourbonguy.com/blog/2015/7/29/collingwood-21-year-old-rye-canadian-whisky",
+          "summary": "Burke repeatedly buys the release and favors its gentle floral, vanilla and maple-like profile. His sample has a delicate tea/mint ending rather than aggressive rye heat.",
+          "scope": "2015 article; exact 21-year / 40% ABV identity and documented December 14, 2013 purchase."
+        },
+        {
+          "reviewer": "Stephanie Moreno",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/collingwood-rye-21-year",
+          "summary": "Moreno finds aromatic wood and herb/spice character with a dry palate that avoids harsh tannins. Fruit and floral notes are relatively subdued in her sample.",
+          "scope": "Exact 21-year all-malted-rye one-time bottling, 40% ABV; expert score 85."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Collingwood 21 Year producer launch",
+          "url": "https://www.prnewswire.com/news-releases/collingwood-whisky-releases-limited-edition-21-year-old-rye-231020111.html",
+          "role": "Primary November 2013 release, recipe, strength, age, seasoned oak, maplewood treatment and MSRP."
+        },
+        {
+          "title": "Collingwood 21 Year — Bourbon Guy",
+          "url": "https://www.bourbonguy.com/blog/2015/7/29/collingwood-21-year-old-rye-canadian-whisky",
+          "role": "Independent sensory record, dated U.S. purchase and verified expression photograph."
+        },
+        {
+          "title": "Collingwood Rye 21 Year — Distiller",
+          "url": "https://distiller.com/spirits/collingwood-rye-21-year",
+          "role": "Independent woody/herbal counterpoint and reported vat-rest duration."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium 25 Year",
+          "url": "alberta-premium-25-year.html",
+          "reason": "Another mature Canadian all-rye identity, with different malt status and production."
+        },
+        {
+          "name": "Alberta Premium 30 Year",
+          "url": "alberta-premium-30-year.html",
+          "reason": "A separate mature Canadian rye reference; age alone does not establish equal style or Quality."
+        }
+      ],
+      "quality": 8.1,
+      "dimensions": [
+        8.4,
+        7.8,
+        7.7,
+        8.4,
+        8.4,
+        8.0,
+        8.6
+      ],
+      "quality_rationale": "The matched samples support excellent wood management, gentle texture and distinctive mature malted-rye execution. Floral differences and limited sample scope remain provisional. The long age does not itself determine the score or convert the bottle to an American straight-rye comparison.",
+      "value": 6.8,
+      "value_rationale": "At the official November 2013 U.S. MSRP of USD 69.99 / 750 mL, the mature distinctive performance supports good historical Value. Burke’s actual USD 54.99 launch-era purchase would be more attractive; neither price is applied to today’s scarce surviving stock.",
+      "pricing": {
+        "amount": 69.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2013-11-07",
+        "basis": "Historical official U.S. launch MSRP; actual December 2013 purchase of USD 54.99 separately documented",
+        "url": "https://www.prnewswire.com/news-releases/collingwood-whisky-releases-limited-edition-21-year-old-rye-231020111.html"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 50,
+          "current_band": false,
+          "reason": "Strong historical drinking budget for a sound exact bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 50,
+          "maximum_exclusive": 65,
+          "current_band": false,
+          "reason": "The documented USD 54.99 purchase illustrates an attractive level.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 65,
+          "maximum_exclusive": 80,
+          "current_band": true,
+          "reason": "Reasonable for the specific mature malted-rye profile.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 80,
+          "maximum_exclusive": 105,
+          "current_band": false,
+          "reason": "Try a sample first; gentle strength and scarcity do not guarantee proportional enjoyment.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 105,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A collector premium needs a separate decision beyond drinking Value.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat and give the gentle herbal/wood profile time."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a few drops before a cube; forty-percent strength needs little dilution."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A small Manhattan can work, but a bar pour neat is a better first test of this scarce bottle."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Use a short soda ratio if desired; a less scarce blend is more economical for strong mixers."
+        }
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/51379b83e4b02119d184b2a2/1438216764942-0Z318HH6QO0MHU20VA2P/Collingwood-21-year-Rye.jpg?format=750w",
+      "image_source": "https://www.bourbonguy.com/blog/2015/7/29/collingwood-21-year-old-rye-canadian-whisky",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "collingwood-original",
+    "filename": "collingwood-original.html",
+    "name": "Collingwood Original",
+    "family": "Collingwood",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman in the 2011 launch era; brand and production assets transferred to Sazerac in 2020",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Corn, rye and malted-barley spirit streams reported; exact blend proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.8,
+    "quality_score": 6.8,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 6.8,
+        "flavor_development": 6.5,
+        "finish": 6.8,
+        "technical_cleanliness": 7.0,
+        "texture": 7.2,
+        "maturity_wood_management": 6.5,
+        "distinctiveness": 7.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.8,
+      "editorial_adjustment": 0.0,
+      "adjustment_reason": "The full matched tasting supports good texture, distinct fruit and a sustained pepper finish, with moderate complexity. One substantive record permits a provisional near-very-good assessment; it does not establish all recurring batches."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The full matched tasting supports good texture, distinct fruit and a sustained pepper finish, with moderate complexity. One substantive record permits a provisional near-very-good assessment; it does not establish all recurring batches.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A for current purchasing Value: only the original 2011 U.S. USD 26.99 MSRP was reliably authenticated. That quote provides historical context without establishing today’s regular U.S. shelf price or stock.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": 26.99,
+    "price_basis": "Historical initial U.S. suggested retail; current U.S. regular pricing unverified",
+    "price_url": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
+    "price_period": "2011-02",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 26.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2011,
+    "release_scope": "Collingwood Original Canadian blended whisky, recurring 40% ABV / 80-proof maplewood-mellowed expression; excludes 21 Year Rye and Town Collection Double Barreled.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html"
+    ],
+    "review_publishers": [
+      "Canadian Whisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
+        "summary": "De Kergommeaux finds overt fruit, creamy body and a persistent pepper-led ending. He praises the character while noting an expressive profile rather than especially intricate complexity.",
+        "scope": "Exact Original 40% ABV sample and contemporary 2011 launch description; migrated webpage date is not taken as first release."
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
+      "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx"
+    ],
+    "production_summary": "The independent production account describes triple distillation and oak aging, followed by a distinct Collingwood blend and resting with toasted maplewood staves in a stainless-steel marrying vat. Maplewood is not maple syrup, and this is not the twenty-one-year all-malted-rye recipe. The source reports no more than a year with maplewood, but a fixed duration and a label age for the recurring Original are not established.",
+    "finishing_information": "Rested with toasted maplewood staves after oak maturation and blending; exact recurring duration undisclosed",
+    "identity_note": null,
+    "history": [
+      "The contemporary release account places initial U.S. distribution in February 2011 in Florida, Kentucky, Louisiana and Texas, at USD 26.99 suggested retail. A migrated webpage footer dated 2017 does not change that documented launch era.",
+      "Brown-Forman’s sale to Sazerac closed July 31, 2020. The historical reviewed recipe and launch MSRP are kept separate from current ownership and present availability. No reliable October 2026 U.S. regular price was authenticated."
+    ],
+    "comparables": [
+      {
+        "name": "Canadian Mist Original",
+        "url": "canadian-mist-original.html",
+        "reason": "Same distillery history, different blend and wood treatment."
+      },
+      {
+        "name": "Collingwood Town Collection Double Barreled",
+        "url": "collingwood-town-collection-double-barreled.html",
+        "reason": "The later oak-intensive 45% ABV extension is separately specified and scored."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 20,
+        "current_band": false,
+        "reason": "Potentially compelling after confirming bottle condition and taste.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 20,
+        "maximum_exclusive": 28,
+        "current_band": false,
+        "reason": "A sensible taste-first target around the original U.S. budget.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 28,
+        "maximum_exclusive": 35,
+        "current_band": false,
+        "reason": "Compare the exact bottle with other Canadian blends before paying more.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 35,
+        "maximum_exclusive": 45,
+        "current_band": false,
+        "reason": "Current pricing evidence is insufficient; avoid buying solely for the unusual process.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 45,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The matched review alone does not defend a substantial premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to assess fruit and pepper."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "A cube or a few drops can test the documented fuller texture."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Use restrained sugar or vermouth around the fruit-led profile."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short ginger highball is a reasonable editorial trial; compare cheaper Mist for heavily mixed serves."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484153115-EWJU1L7EA7HTE6YD6XCB/Collingwood-Canadian-Whisky-on-Nottawasaga-Bay.jpg?format=750w",
+        "scope": "Collingwood Original Canadian blended whisky, recurring 40% ABV / 80-proof maplewood-mellowed expression; excludes 21 Year Rye and Town Collection Double Barreled.",
+        "sha256": "705d338edd8d0d9c0cf395e790899e6de7a63221e478afb99efe53df97b1cfca",
+        "image_embedded": true,
+        "width": 750,
+        "height": 473
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Collingwood Original Canadian blended whisky, recurring 40% ABV / 80-proof maplewood-mellowed expression; excludes 21 Year Rye and Town Collection Double Barreled.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-010",
+    "editorial": {
+      "id": "collingwood-original",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS",
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman in the 2011 launch era; brand and production assets transferred to Sazerac in 2020",
+      "release_year": 2011,
+      "identity": "Collingwood Original Canadian blended whisky, recurring 40% ABV / 80-proof maplewood-mellowed expression; excludes 21 Year Rye and Town Collection Double Barreled.",
+      "short_version": "A fruit-and-pepper Canadian blend with distinctive toasted-maplewood vat resting. The review supports good body and character; current U.S. retail and Value remain unverified.",
+      "grain": "Corn, rye and malted-barley spirit streams reported; exact blend proportions undisclosed",
+      "production": "The independent production account describes triple distillation and oak aging, followed by a distinct Collingwood blend and resting with toasted maplewood staves in a stainless-steel marrying vat. Maplewood is not maple syrup, and this is not the twenty-one-year all-malted-rye recipe. The source reports no more than a year with maplewood, but a fixed duration and a label age for the recurring Original are not established.",
+      "finish": "Rested with toasted maplewood staves after oak maturation and blending; exact recurring duration undisclosed",
+      "history": [
+        "The contemporary release account places initial U.S. distribution in February 2011 in Florida, Kentucky, Louisiana and Texas, at USD 26.99 suggested retail. A migrated webpage footer dated 2017 does not change that documented launch era.",
+        "Brown-Forman’s sale to Sazerac closed July 31, 2020. The historical reviewed recipe and launch MSRP are kept separate from current ownership and present availability. No reliable October 2026 U.S. regular price was authenticated."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
+          "summary": "De Kergommeaux finds overt fruit, creamy body and a persistent pepper-led ending. He praises the character while noting an expressive profile rather than especially intricate complexity.",
+          "scope": "Exact Original 40% ABV sample and contemporary 2011 launch description; migrated webpage date is not taken as first release."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Collingwood Original — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
+          "role": "Substantive independent tasting, process account, launch-era U.S. MSRP and verified Original photograph."
+        },
+        {
+          "title": "Completed 2020 sale — Brown-Forman",
+          "url": "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx",
+          "role": "Primary distinction between launch-era and subsequent ownership."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Canadian Mist Original",
+          "url": "canadian-mist-original.html",
+          "reason": "Same distillery history, different blend and wood treatment."
+        },
+        {
+          "name": "Collingwood Town Collection Double Barreled",
+          "url": "collingwood-town-collection-double-barreled.html",
+          "reason": "The later oak-intensive 45% ABV extension is separately specified and scored."
+        }
+      ],
+      "quality": 6.8,
+      "dimensions": [
+        6.8,
+        6.5,
+        6.8,
+        7.0,
+        7.2,
+        6.5,
+        7.2
+      ],
+      "quality_rationale": "The full matched tasting supports good texture, distinct fruit and a sustained pepper finish, with moderate complexity. One substantive record permits a provisional near-very-good assessment; it does not establish all recurring batches.",
+      "value": null,
+      "value_rationale": "N/A for current purchasing Value: only the original 2011 U.S. USD 26.99 MSRP was reliably authenticated. That quote provides historical context without establishing today’s regular U.S. shelf price or stock.",
+      "pricing": {
+        "amount": 26.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2011-02",
+        "basis": "Historical initial U.S. suggested retail; current U.S. regular pricing unverified",
+        "url": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 20,
+          "current_band": false,
+          "reason": "Potentially compelling after confirming bottle condition and taste.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 20,
+          "maximum_exclusive": 28,
+          "current_band": false,
+          "reason": "A sensible taste-first target around the original U.S. budget.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 28,
+          "maximum_exclusive": 35,
+          "current_band": false,
+          "reason": "Compare the exact bottle with other Canadian blends before paying more.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 35,
+          "maximum_exclusive": 45,
+          "current_band": false,
+          "reason": "Current pricing evidence is insufficient; avoid buying solely for the unusual process.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 45,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The matched review alone does not defend a substantial premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to assess fruit and pepper."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "A cube or a few drops can test the documented fuller texture."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Use restrained sugar or vermouth around the fruit-led profile."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short ginger highball is a reasonable editorial trial; compare cheaper Mist for heavily mixed serves."
+        }
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484153115-EWJU1L7EA7HTE6YD6XCB/Collingwood-Canadian-Whisky-on-Nottawasaga-Bay.jpg?format=750w",
+      "image_source": "https://canadianwhisky.org/blog/reviews/collingwood-40-alcvol-canadian-whisky-review.html",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "collingwood-town-collection-double-barreled",
+    "filename": "collingwood-town-collection-double-barreled.html",
+    "name": "Collingwood Town Collection Double Barreled",
+    "family": "Collingwood",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman in the 2017 reviewed era; brand subsequently transferred to Sazerac",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Reported high-rye Canadian blend; exact grain percentages undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.5,
+    "quality_score": 6.5,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 6.0,
+        "flavor_development": 7.0,
+        "finish": 6.8,
+        "technical_cleanliness": 5.7,
+        "texture": 6.7,
+        "maturity_wood_management": 6.3,
+        "distinctiveness": 7.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.435,
+      "editorial_adjustment": 0.065,
+      "adjustment_reason": "Extra flavor development and a distinctive wood/fruit profile support good execution. Varnish/raw-grain impressions and disputed integration reduce the judgment despite the enthusiastic second record. Reviewer scores are not mechanically converted to project Quality."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Extra flavor development and a distinctive wood/fruit profile support good execution. Varnish/raw-grain impressions and disputed integration reduce the judgment despite the enthusiastic second record. Reviewer scores are not mechanically converted to project Quality.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: the authenticated retail quote is CAD 44.95 in November 2017. A reliable dated U.S. regular retail basis was not established; no currency conversion or ambiguous search-only price is substituted.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical LCBO purchase context quoted in the exact review; U.S. regular pricing unverified",
+    "price_url": "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+    "price_period": "2017-11-27",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 44.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2017,
+    "release_scope": "Collingwood The Town Collection Double Barreled, 2017-era named release, 45% ABV / 90 proof; exact brown-label bottle verified.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+      "https://distiller.com/spirits/collingwood-town-collection-double-barrel"
+    ],
+    "review_publishers": [
+      "TOModera Whisky Reviews",
+      "Distiller"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "TOModera",
+        "publisher": "TOModera Whisky Reviews",
+        "url": "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+        "summary": "TOModera enjoys sweet fruit and the added oak, but reports a varnish-like aroma and raw-corn character, with uneven palate integration. He prefers it to Original while wishing for more spice.",
+        "scope": "November 27, 2017; exact 45% ABV brown-label Town Collection bottle; CAD 44.95 LCBO, 76 points."
+      },
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/collingwood-town-collection-double-barrel",
+        "summary": "Phillips finds developed fruit, honey and wood, with sour/spicy balance and a persistent tangy ending. His more enthusiastic integration judgment is retained alongside the less favorable sample.",
+        "scope": "Exact 45% ABV Town Collection Double Barrel expert tasting; 92 points."
+      }
+    ],
+    "source_urls": [
+      "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+      "https://distiller.com/spirits/collingwood-town-collection-double-barrel",
+      "https://www.lcbo.com/en/collingwood-double-barreled-whisky-33268",
+      "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx"
+    ],
+    "production_summary": "The photographed front label authenticates The Town Collection, Double Barreled, 45% ABV and 750 mL. Distiller describes initial white-oak maturation, recasking into new heavily toasted white oak, then the brand’s maplewood marrying-vat treatment. The 2017 reviewer describes the second oak as heavily toasted/lightly charred; the indexed LCBO description calls it heavily charred. Precise char level, aging duration and time in each stage remain unresolved, without changing the authenticated expression identity.",
+    "finishing_information": "Second oak-barrel stage followed by toasted maplewood vat resting; exact toast/char specification and durations not authenticated",
+    "identity_note": null,
+    "history": [
+      "The November 27, 2017 matched review identifies the first Town Collection release at CAD 44.95 in the LCBO. Later exact product listings retain the named identity; a precise first shipment date is not established.",
+      "The later Sazerac acquisition does not change who produced the reviewed 2017 bottle. A Whisky Advocate Summer 2018 search record quotes 34, but its page was inaccessible and the price’s exact U.S. market basis could not be verified; it is not used as numeric U.S. Cost or Value."
+    ],
+    "comparables": [
+      {
+        "name": "Collingwood Original",
+        "url": "collingwood-original.html",
+        "reason": "The lighter-strength parent with maplewood treatment but no authenticated second-oak stage."
+      },
+      {
+        "name": "Bearface Triple Oak 7 Year",
+        "url": "bearface-triple-oak-7-year.html",
+        "reason": "A Canadian multi-wood comparison with different single-grain composition; its category remains separate."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 35,
+        "current_band": false,
+        "reason": "Potentially attractive Canadian-dollar budget after tasting.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 35,
+        "maximum_exclusive": 45,
+        "current_band": true,
+        "reason": "Near the authenticated Canadian launch-era review price.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 45,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Compare the pronounced wood with your preference before buying.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 55,
+        "maximum_exclusive": 65,
+        "current_band": false,
+        "reason": "Conflicting integration evidence warrants a sample first.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 65,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The exact evidence does not justify a wood-treatment or scarcity premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Taste neat for the disputed varnish/raw-grain impressions as well as fruit."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a few drops before a large cube to test oak integration."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Keep sugar low; the reviewer already finds considerable sweetness."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda or ginger highball is a trial for the stronger proof, not a reason to pay a premium."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+        "image_url": "https://tomoderawhisky.wordpress.com/wp-content/uploads/2017/11/collingwood-town-collection-double-barrel-3.jpg?w=750",
+        "scope": "Collingwood The Town Collection Double Barreled, 2017-era named release, 45% ABV / 90 proof; exact brown-label bottle verified.",
+        "sha256": "ec6a7e2ff508599927cebcb8ade49242b1ae97038918821e8f911f39c5e8b2b6",
+        "image_embedded": true,
+        "width": 750,
+        "height": 1000
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Collingwood The Town Collection Double Barreled, 2017-era named release, 45% ABV / 90 proof; exact brown-label bottle verified.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-010",
+    "editorial": {
+      "id": "collingwood-town-collection-double-barreled",
+      "proof": 90,
+      "age": null,
+      "age_display": "NAS",
+      "producer": "Canadian Mist Distillery, Collingwood, Ontario / Brown-Forman in the 2017 reviewed era; brand subsequently transferred to Sazerac",
+      "release_year": 2017,
+      "identity": "Collingwood The Town Collection Double Barreled, 2017-era named release, 45% ABV / 90 proof; exact brown-label bottle verified.",
+      "short_version": "A Canadian blend with extra oak treatment and a stronger bottling than Original. Reviews disagree about how well its sweet fruit and pronounced wood integrate; the original Canadian retail context remains separate from U.S. Value.",
+      "grain": "Reported high-rye Canadian blend; exact grain percentages undisclosed",
+      "production": "The photographed front label authenticates The Town Collection, Double Barreled, 45% ABV and 750 mL. Distiller describes initial white-oak maturation, recasking into new heavily toasted white oak, then the brand’s maplewood marrying-vat treatment. The 2017 reviewer describes the second oak as heavily toasted/lightly charred; the indexed LCBO description calls it heavily charred. Precise char level, aging duration and time in each stage remain unresolved, without changing the authenticated expression identity.",
+      "finish": "Second oak-barrel stage followed by toasted maplewood vat resting; exact toast/char specification and durations not authenticated",
+      "history": [
+        "The November 27, 2017 matched review identifies the first Town Collection release at CAD 44.95 in the LCBO. Later exact product listings retain the named identity; a precise first shipment date is not established.",
+        "The later Sazerac acquisition does not change who produced the reviewed 2017 bottle. A Whisky Advocate Summer 2018 search record quotes 34, but its page was inaccessible and the price’s exact U.S. market basis could not be verified; it is not used as numeric U.S. Cost or Value."
+      ],
+      "reviews": [
+        {
+          "reviewer": "TOModera",
+          "publisher": "TOModera Whisky Reviews",
+          "url": "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+          "summary": "TOModera enjoys sweet fruit and the added oak, but reports a varnish-like aroma and raw-corn character, with uneven palate integration. He prefers it to Original while wishing for more spice.",
+          "scope": "November 27, 2017; exact 45% ABV brown-label Town Collection bottle; CAD 44.95 LCBO, 76 points."
+        },
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/collingwood-town-collection-double-barrel",
+          "summary": "Phillips finds developed fruit, honey and wood, with sour/spicy balance and a persistent tangy ending. His more enthusiastic integration judgment is retained alongside the less favorable sample.",
+          "scope": "Exact 45% ABV Town Collection Double Barrel expert tasting; 92 points."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Town Collection Double Barreled — TOModera",
+          "url": "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+          "role": "Exact 2017 identity, independent tasting, Canadian price and readable 45% bottle photograph."
+        },
+        {
+          "title": "Town Collection Double Barrel — Distiller",
+          "url": "https://distiller.com/spirits/collingwood-town-collection-double-barrel",
+          "role": "Strength, NAS, staged oak/maplewood account and independent expert counterevidence."
+        },
+        {
+          "title": "Town Collection Double Barreled — LCBO",
+          "url": "https://www.lcbo.com/en/collingwood-double-barreled-whisky-33268",
+          "role": "Indexed exact named listing supports maplewood stage; page blocked, so present price and precise char claim not treated as independently resolved."
+        },
+        {
+          "title": "Completed 2020 sale — Brown-Forman",
+          "url": "https://investors.brown-forman.com/investors/news-releases/press-release/2020/Brown-Forman-Completes-Sale-of-Early-Times-and-Canadian-Mist-to-Sazerac/default.aspx",
+          "role": "Primary ownership-era boundary."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Collingwood Original",
+          "url": "collingwood-original.html",
+          "reason": "The lighter-strength parent with maplewood treatment but no authenticated second-oak stage."
+        },
+        {
+          "name": "Bearface Triple Oak 7 Year",
+          "url": "bearface-triple-oak-7-year.html",
+          "reason": "A Canadian multi-wood comparison with different single-grain composition; its category remains separate."
+        }
+      ],
+      "quality": 6.5,
+      "dimensions": [
+        6.0,
+        7.0,
+        6.8,
+        5.7,
+        6.7,
+        6.3,
+        7.2
+      ],
+      "quality_rationale": "Extra flavor development and a distinctive wood/fruit profile support good execution. Varnish/raw-grain impressions and disputed integration reduce the judgment despite the enthusiastic second record. Reviewer scores are not mechanically converted to project Quality.",
+      "value": null,
+      "value_rationale": "N/A: the authenticated retail quote is CAD 44.95 in November 2017. A reliable dated U.S. regular retail basis was not established; no currency conversion or ambiguous search-only price is substituted.",
+      "pricing": {
+        "amount": 44.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2017-11-27",
+        "basis": "Historical LCBO purchase context quoted in the exact review; U.S. regular pricing unverified",
+        "url": "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 35,
+          "current_band": false,
+          "reason": "Potentially attractive Canadian-dollar budget after tasting.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 35,
+          "maximum_exclusive": 45,
+          "current_band": true,
+          "reason": "Near the authenticated Canadian launch-era review price.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 45,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Compare the pronounced wood with your preference before buying.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 55,
+          "maximum_exclusive": 65,
+          "current_band": false,
+          "reason": "Conflicting integration evidence warrants a sample first.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 65,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The exact evidence does not justify a wood-treatment or scarcity premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in CAD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Taste neat for the disputed varnish/raw-grain impressions as well as fruit."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a few drops before a large cube to test oak integration."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Keep sugar low; the reviewer already finds considerable sweetness."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda or ginger highball is a trial for the stronger proof, not a reason to pay a premium."
+        }
+      ],
+      "image_url": "https://tomoderawhisky.wordpress.com/wp-content/uploads/2017/11/collingwood-town-collection-double-barrel-3.jpg?w=750",
+      "image_source": "https://tomoderawhisky.wordpress.com/2017/11/27/collingwood-town-collection-double-barrelled/",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
   }
 ]
