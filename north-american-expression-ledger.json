@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 134,
-    "accepted": 91
+    "pending": 126,
+    "accepted": 99
   },
   "entries": [
     {
@@ -6790,21 +6790,21 @@
       "canonical_expression_name": "Crown Royal Noble Collection 13 Year Blenders Mash (2018)",
       "filename": "crown-royal-noble-collection-13-year-blenders-mash-2018.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
-      "age_statement_years": 13.0,
-      "age_information": "13 years",
-      "grain_information": "Corn, rye, malted barley; recipe to verify",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2018",
+      "age_statement_years": 13,
+      "age_information": "13 Years",
+      "grain_information": "Producer-confirmed 60% corn / 36% rye / 4% malted barley.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "New charred American white-oak maturation; no distinct secondary finish documented.",
+      "release_year_or_era": "Crown Royal Noble Collection 13 Year Old Blenders’ Mash, the third annual edition, 2018, 45% ABV / 90 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-expression label / producer or contemporary identity records, substantive inspected independent samples, dated U.S. prices and explicit limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal – 121 bottlings | Whiskybase",
@@ -6814,34 +6814,69 @@
       ],
       "potential_image_source": "https://www.whiskybase.com/whiskies/brand/82498/whiskies",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Eric Burke",
+            "publisher": "Bourbon Guy",
+            "url": "https://www.bourbonguy.com/blog/2018/8/28/crown-royal-noble-collection-13-year-old-blenders-mash",
+            "summary": "Burke finds developed fruit/spice flavor, satisfying weight and a returning, moderately persistent finish. He considers his USD 57.99 purchase worthwhile.",
+            "scope": "August 28, 2018; self-purchased exact 13-year / 45% edition, Total Wine Burnsville, Minnesota."
+          },
+          {
+            "reviewer": "Bobby",
+            "publisher": "Adventures in Whiskey",
+            "url": "https://adventuresinwhiskey.com/2018/10/21/review-crown-royal-noble-collection-13-year-old-blenders-mash/",
+            "summary": "Bobby enjoys the mature sweet/spicy profile but notices some drying wood. His recommendation is tempered by a substantially higher approximate local price.",
+            "scope": "October 21, 2018; producer-provided exact 13-year Noble Collection sample; approximate USD 100 context differs from launch MSRP."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 94
+      "deterministic_order": 94,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-013",
+      "publication_sources": [
+        {
+          "title": "13-year bottle and independent tasting",
+          "url": "https://www.bourbonguy.com/blog/2018/8/28/crown-royal-noble-collection-13-year-old-blenders-mash",
+          "role": "Exact visually inspected 90-proof/13-year image and dated U.S. purchase."
+        },
+        {
+          "title": "2018 producer release",
+          "url": "https://www.prnewswire.com/news-releases/worlds-best-selling-canadian-whisky-releases-oldest-age-statement-variant-to-date-crown-royal-13-year-old-blenders-mash-300673218.html",
+          "role": "Authenticated recipe, new oak, minimum age, strength and USD 59.99 / 750 mL launch MSRP."
+        },
+        {
+          "title": "13-year independent tasting",
+          "url": "https://adventuresinwhiskey.com/2018/10/21/review-crown-royal-noble-collection-13-year-old-blenders-mash/",
+          "role": "Second substantive sample and its separate price limitation."
+        }
+      ]
     },
     {
       "id": "crown-royal-noble-collection-16-year-rye-2020",
       "canonical_expression_name": "Crown Royal Noble Collection 16 Year Rye (2020)",
       "filename": "crown-royal-noble-collection-16-year-rye-2020.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "whisky_category": "Canadian Rye Whisky",
+      "proof": 90,
       "abv": 45.0,
-      "age_statement_years": 16.0,
-      "age_information": "16 years",
-      "grain_information": "Rye-forward; exact ratio to verify",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2020",
+      "age_statement_years": 16,
+      "age_information": "16 Years",
+      "grain_information": "90% rye / 10% undisclosed reported by Breaking Bourbon for this release; not independently authenticated as a complete producer formula.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Oak maturation; no separate secondary finish established.",
+      "release_year_or_era": "Crown Royal Noble Collection Rye Aged 16 Years, fifth annual edition, 2020, 45% ABV / 90 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-expression label / producer or contemporary identity records, substantive inspected independent samples, dated U.S. prices and explicit limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Barley Edition Noble Collection: a very well-executed blend - The Whisky Knights",
@@ -6851,34 +6886,69 @@
       ],
       "potential_image_source": "https://thewhiskyknights.com/crown-royal-barley-edition/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Eric Hasman",
+            "publisher": "Breaking Bourbon",
+            "url": "https://www.breakingbourbon.com/review/crown-royal-noble-collection-rye-aged-16-years",
+            "summary": "Hasman finds expressive fruit, well-managed oak and an elegant palate. He regards the ending as somewhat thin and less developed, while still strongly favoring the original purchase proposition.",
+            "scope": "March 30, 2021; exact 16-year / 90-proof producer-provided sample; original U.S. MSRP context."
+          },
+          {
+            "reviewer": "Jerry Jenae Sampson",
+            "publisher": "The Whiskey Wash",
+            "url": "https://thewhiskeywash.com/canadian-whiskey/whisky-review-crown-royal-noble-collection-rye-aged-16-years/",
+            "summary": "Sampson finds mature fruit, gentle spice and a more substantial texture than standard Crown Royal. Her positive account accepts its approachable strength.",
+            "scope": "January 5, 2021; exact 16-year / 90-proof edition, USD 70 / 750 mL."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 95
+      "deterministic_order": 95,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-013",
+      "publication_sources": [
+        {
+          "title": "16-year bottle and independent review",
+          "url": "https://www.breakingbourbon.com/review/crown-royal-noble-collection-rye-aged-16-years",
+          "role": "Exact photographed label, attributed grain information and full critical tasting."
+        },
+        {
+          "title": "16-year independent review",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/whisky-review-crown-royal-noble-collection-rye-aged-16-years/",
+          "role": "Corroborated label age/strength, U.S. bottle-size price and second sensory account."
+        },
+        {
+          "title": "November 2020 release coverage",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/crown-royal-rye-whiskey-aged-16-years-is-latest-in-brands-noble-collection/",
+          "role": "Dated fifth-edition introduction and maturation account; not an independent tasting."
+        }
+      ]
     },
     {
       "id": "crown-royal-noble-collection-barley-edition-2023",
       "canonical_expression_name": "Crown Royal Noble Collection Barley Edition (2023)",
       "filename": "crown-royal-noble-collection-barley-edition-2023.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "whisky_category": "Canadian Single Grain",
+      "proof": 90,
       "abv": 45.0,
-      "age_statement_years": 5.0,
-      "age_information": "5 years",
-      "grain_information": "85% unmalted barley, 15% malted barley",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2023",
+      "age_statement_years": null,
+      "age_information": "NAS — producer reports at least 5 Years",
+      "grain_information": "Producer-confirmed 85% unmalted barley / 15% malted barley; 100% barley overall.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Oak maturation; precise cask mixture, separate finish and component distillation details undisclosed.",
+      "release_year_or_era": "Crown Royal Noble Collection Barley Edition, seventh and final edition, 2023, 45% ABV / 90 proof; a blend of unmalted- and malted-barley whiskies.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-expression label / producer or contemporary identity records, substantive inspected independent samples, dated U.S. prices and explicit limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Barley Edition | Noble Whisky | Crown Royal",
@@ -6888,34 +6958,74 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky/barley-edition",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/crown-royal-noble-collection-barley-edition",
+            "summary": "De Kergommeaux finds developed grain character, layered fruit/herbal detail and confident balance. He strongly recommends it as an expressive barley whisky.",
+            "scope": "May 18, 2023; exact 2023 Barley Edition, full independent sensory account."
+          },
+          {
+            "reviewer": "Aengus McCloud",
+            "publisher": "Dramface",
+            "url": "https://www.dramface.com/all-reviews/crown-royal-noble-barley",
+            "summary": "McCloud enjoys the texture but finds the palate disappointing after the aroma, with artificial/rubbery notes and more harshness after dilution. He considers it average.",
+            "scope": "July 6, 2023; self-purchased exact 45% Barley Edition at USD 82; 5/10 on that publisher’s own scale."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 96
+      "deterministic_order": 96,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-013",
+      "publication_sources": [
+        {
+          "title": "Barley producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/barley-edition",
+          "role": "Verified label, exact grain proportions and disclosed minimum maturity."
+        },
+        {
+          "title": "2023 producer launch",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-completes-long-standing-noble-collection-with-the-release-of-barley-edition-whisky-301787193.html",
+          "role": "Final/seventh edition, 90 proof and USD 79.99 / 750 mL U.S. MSRP."
+        },
+        {
+          "title": "Barley — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/crown-royal-noble-collection-barley-edition",
+          "role": "Substantive favorable review."
+        },
+        {
+          "title": "Barley — Dramface",
+          "url": "https://www.dramface.com/all-reviews/crown-royal-noble-barley",
+          "role": "Substantive contrasting review and dilution criticism."
+        }
+      ]
     },
     {
       "id": "crown-royal-noble-collection-cornerstone-blend-2016",
       "canonical_expression_name": "Crown Royal Noble Collection Cornerstone Blend (2016)",
       "filename": "crown-royal-noble-collection-cornerstone-blend-2016.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
       "proof": 80.6,
       "abv": 40.3,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2016",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Producer-interview report: 61% bourbon-style component, 33% high-rye component and 6% Coffey Rye component; component mash recipes are separately attributed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Reported first-fill American-oak maturation and later marrying/storage in heavily reused barrels; no wine finish.",
+      "release_year_or_era": "Crown Royal Noble Collection Cornerstone Blend, first annual edition, 2016, 40.3% ABV / 80.6 proof, NAS.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-expression label / producer or contemporary identity records, substantive inspected independent samples, dated U.S. prices and explicit limitations.",
       "discovery_sources": [
         {
           "title": "Masters Series – Crown Royal Collectors",
@@ -6925,34 +7035,74 @@
       ],
       "potential_image_source": "https://crownroyalcollectors.com/masters-series/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "WhiskyCast",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/crown-royal-cornerstone-blend/",
+            "summary": "The June tasting finds creamy texture, coherent sweetness/spice and a long, controlled ending. It is a distinctly favorable assessment.",
+            "scope": "June 2016; exact Cornerstone at 40.3%; no different edition inferred."
+          },
+          {
+            "reviewer": "Savannah Weinstock",
+            "publisher": "The Whiskey Wash",
+            "url": "https://thewhiskeywash.com/canadian-whiskey/whiskey-review-crown-royal-cornerstone-blend/",
+            "summary": "Weinstock instead finds very weak body, cardboard-like flavors and a short, bitter, unpleasant ending. Her negative sample is preserved as material counterevidence.",
+            "scope": "August 3, 2016; exact Cornerstone Blend, full independent sensory account; original 70/100 conclusion retained in source."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 97
+      "deterministic_order": 97,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-013",
+      "publication_sources": [
+        {
+          "title": "Cornerstone bottle and tasting",
+          "url": "https://whiskycast.com/ratings/crown-royal-cornerstone-blend/",
+          "role": "Exact expression photograph and positive independent sample."
+        },
+        {
+          "title": "Contemporary Diageo interview",
+          "url": "https://distiller.com/articles/crown-royal-cornerstone-blend",
+          "role": "Attributed component ratios/recipes, transfer/marrying history and spring 2016 rollout; not a complete producer specification sheet."
+        },
+        {
+          "title": "Cornerstone — Whiskey Wash",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/whiskey-review-crown-royal-cornerstone-blend/",
+          "role": "Full negative independent sample."
+        },
+        {
+          "title": "April 2016 U.S. trade introduction",
+          "url": "https://www.shankennewsdaily.com/2016/04/15/14786/crown-royal-debuts-first-whisky-noble-collection-limited-release-range/",
+          "role": "USD 59.99 / 750 mL and contemporaneous national rollout context."
+        }
+      ]
     },
     {
       "id": "crown-royal-noble-collection-french-oak-cask-finished-2019",
       "canonical_expression_name": "Crown Royal Noble Collection French Oak Cask Finished (2019)",
       "filename": "crown-royal-noble-collection-french-oak-cask-finished-2019.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Toasted new French oak",
-      "release_year_or_era": "2019",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Fine De Luxe Canadian whisky base; exact final grain and component ratios undisclosed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Finish in new, toasted French-oak casks; duration undisclosed.",
+      "release_year_or_era": "Crown Royal Noble Collection French Oak Cask Finished, fourth annual edition, 2019, 40% ABV / 80 proof, NAS.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-expression label / producer or contemporary identity records, substantive inspected independent samples, dated U.S. prices and explicit limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Pushes The Boundaries Of Innovation With Launch Of Limited-Edition, Noble Collection French Oak Cask Finished",
@@ -6962,34 +7112,81 @@
       ],
       "potential_image_source": "https://www.prnewswire.com/news-releases/crown-royal-pushes-the-boundaries-of-innovation-with-launch-of-limited-edition-noble-collection-french-oak-cask-finished-300863350.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2019/11/12/review-crown-royal-noble-collection-french-oak-cask-finished/",
+            "summary": "Null finds a cereal-heavy, underdeveloped profile with little useful oak transformation and limited aromatic interest.",
+            "scope": "November 12, 2019; exact French Oak Cask Finished at 80 proof."
+          },
+          {
+            "reviewer": "Bobby",
+            "publisher": "Adventures in Whiskey",
+            "url": "https://adventuresinwhiskey.com/2019/09/14/review-crown-royal-noble-collection-french-oak-cask-finished/",
+            "summary": "Bobby finds a pleasant increase in spice and dark sweetness, but less transformation than expected; he calls it nice rather than compelling.",
+            "scope": "September 14, 2019; producer-provided exact 40% sample."
+          },
+          {
+            "reviewer": "WhiskyCast",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/crown-royal-noble-collection-french-oak-cask-finished/",
+            "summary": "The June tasting is much more positive, finding substantial texture, layered dark fruit and a persistent spiced ending.",
+            "scope": "June 2019; exact fourth Noble Collection edition; full source page inspected directly after web retrieval errors."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 98
+      "deterministic_order": 98,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-013",
+      "publication_sources": [
+        {
+          "title": "2019 French Oak producer release",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-pushes-the-boundaries-of-innovation-with-launch-of-limited-edition-noble-collection-french-oak-cask-finished-300863350.html",
+          "role": "Exact verified image, wood origin/seasoning/toast, strength and U.S. launch price."
+        },
+        {
+          "title": "French Oak — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2019/11/12/review-crown-royal-noble-collection-french-oak-cask-finished/",
+          "role": "Substantive critical sample."
+        },
+        {
+          "title": "French Oak — Adventures in Whiskey",
+          "url": "https://adventuresinwhiskey.com/2019/09/14/review-crown-royal-noble-collection-french-oak-cask-finished/",
+          "role": "Substantive cautiously positive sample."
+        },
+        {
+          "title": "French Oak — WhiskyCast",
+          "url": "https://whiskycast.com/ratings/crown-royal-noble-collection-french-oak-cask-finished/",
+          "role": "Substantive favorable sample, inspected directly."
+        }
+      ]
     },
     {
       "id": "crown-royal-noble-collection-wine-barrel-finished-2017",
       "canonical_expression_name": "Crown Royal Noble Collection Wine Barrel Finished (2017)",
       "filename": "crown-royal-noble-collection-wine-barrel-finished-2017.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 81.0,
+      "proof": 81,
       "abv": 40.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "California Cabernet Sauvignon casks",
-      "release_year_or_era": "2017",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Selected Crown Royal whisky blend; exact grains and final component ratios undisclosed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Six months in freshly emptied Paso Robles Cabernet Sauvignon American-oak casks.",
+      "release_year_or_era": "Crown Royal Noble Collection Wine Barrel Finished, second annual edition, 2017, 40.5% ABV / 81 proof, NAS.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-expression label / producer or contemporary identity records, substantive inspected independent samples, dated U.S. prices and explicit limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Noble Collection Wine Barrel Finish",
@@ -6999,34 +7196,74 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/crown-royal-noble-collection-wine-barrel-finish",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "WhiskyCast",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/crown-royal-wine-barrel-finished/",
+            "summary": "The June tasting finds coherent red-fruit and sweet/spicy character with a lingering, well-controlled ending.",
+            "scope": "June 2017; exact second Noble Collection release; full source page inspected directly."
+          },
+          {
+            "reviewer": "Shauna McKnight",
+            "publisher": "The Whiskey Wash",
+            "url": "https://thewhiskeywash.com/canadian-whiskey/whisky-review-crown-royal-noble-collection-wine-barrel-finished/",
+            "summary": "McKnight finds a harsh aroma that improves with air, then an overbusy palate that leaves her unconvinced. She prefers the flavor to the smell but does not recommend it strongly.",
+            "scope": "August 21, 2017; exact wine-finished sample; published USD 45–60 range is not substituted for the official MSRP."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 99
+      "deterministic_order": 99,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-013",
+      "publication_sources": [
+        {
+          "title": "Wine Barrel Finished producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/wine-barrel-finished",
+          "role": "Exact expression label photograph and identity."
+        },
+        {
+          "title": "2017 producer release",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-satisfies-whisky-and-wine-lovers-with-introduction-of-wine-barrel-finished-whisky-300454216.html",
+          "role": "Authenticated six-month Paso Robles treatment, strength and dated U.S. MSRP."
+        },
+        {
+          "title": "Wine Barrel — WhiskyCast",
+          "url": "https://whiskycast.com/ratings/crown-royal-wine-barrel-finished/",
+          "role": "Full favorable independent account, inspected directly."
+        },
+        {
+          "title": "Wine Barrel — Whiskey Wash",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/whisky-review-crown-royal-noble-collection-wine-barrel-finished/",
+          "role": "Material sensory counterevidence; speculative base recipe is excluded."
+        }
+      ]
     },
     {
       "id": "crown-royal-noble-collection-winter-wheat-2021",
       "canonical_expression_name": "Crown Royal Noble Collection Winter Wheat (2021)",
       "filename": "crown-royal-noble-collection-winter-wheat-2021.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Wheat-forward; exact recipe to verify",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2021",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Producer-confirmed 51% winter wheat / 39% corn / 10% malted barley.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Charred American white-oak maturation; no separate finish authenticated.",
+      "release_year_or_era": "Crown Royal Noble Collection Winter Wheat, sixth annual edition, 2021, 45% ABV / 90 proof, NAS.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-expression label / producer or contemporary identity records, substantive inspected independent samples, dated U.S. prices and explicit limitations.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -7036,34 +7273,86 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/crown-royal-winter-wheat/",
+            "summary": "Dykstra finds substantial flavor, structure and a long sweet/bitter-spiced ending. He explains that the whisky impressed him in blind judging and in a later separate tasting.",
+            "scope": "April 15, 2022 review page; exact 2021 Winter Wheat, 45% sample; the award is not the only sensory evidence."
+          },
+          {
+            "reviewer": "Drew Beard",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2022/01/21/review-crown-royal-noble-collection-winter-wheat/",
+            "summary": "Beard finds a rich aroma and layered palate with well-managed sweetness and oak, though the finish is thinner than the rest of the pour.",
+            "scope": "January 21, 2022; exact NAS 90-proof sixth edition, USD 70 context."
+          },
+          {
+            "reviewer": "Aengus McCloud",
+            "publisher": "Dramface",
+            "url": "https://www.dramface.com/all-reviews/2022/tasting-crown-royal",
+            "summary": "McCloud finds a controlled, rounded mixed-grain profile with useful structure and complexity. He favors the chosen strength over an assumption that more proof would improve it.",
+            "scope": "May 12, 2022; exact Winter Wheat section of a four-expression tasting; ambiguous dollar context is not used as U.S. pricing."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 100
+      "deterministic_order": 100,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-013",
+      "publication_sources": [
+        {
+          "title": "Winter Wheat producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-winter-wheat",
+          "role": "Exact recipe, strength, maturation and verified label image."
+        },
+        {
+          "title": "Winter Wheat — Rum Howler",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/crown-royal-winter-wheat/",
+          "role": "Full independent sensory account, separate from award-only inference."
+        },
+        {
+          "title": "Winter Wheat — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2022/01/21/review-crown-royal-noble-collection-winter-wheat/",
+          "role": "Full independent sample, material thinner-finish limitation and dated USD 70 context."
+        },
+        {
+          "title": "Winter Wheat — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2022/tasting-crown-royal",
+          "role": "Third independent sensory account; no unverified currency conversion."
+        },
+        {
+          "title": "Archived October 2021 Virginia price record",
+          "url": "https://www.abc.virginia.gov/library/products/pdfs/q4-2021-price-list---october.pdf",
+          "role": "Search-indexed historical code 010852: 750 mL, 90 proof, USD 69.99. Live endpoint returned 404; this corroborates historical size/context only."
+        }
+      ]
     },
     {
       "id": "crown-royal-northern-harvest-rye",
       "canonical_expression_name": "Crown Royal Northern Harvest Rye",
       "filename": "crown-royal-northern-harvest-rye.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources not individually disclosed",
       "status": "current",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "whisky_category": "Canadian Rye Whisky",
+      "proof": 90,
       "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "90% rye whisky blend",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2015",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Producer states 90% rye-mash whisky in the blend; the balance and full final grain percentages are undisclosed.",
+      "grain_confidence": "Expression-specific evidence is identified; no undisclosed blend ratios inferred.",
+      "finishing_information": "Oak maturation; precise new/used-oak distribution and separate finish undisclosed.",
+      "release_year_or_era": "Crown Royal Northern Harvest Rye, the recurring NAS Canadian rye-led blend introduced in 2015, 45% ABV / 90 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-expression label / producer or contemporary identity records, substantive inspected independent samples, dated U.S. prices and explicit limitations.",
       "discovery_sources": [
         {
           "title": "Signature Series – Crown Royal Collectors",
@@ -7073,13 +7362,53 @@
       ],
       "potential_image_source": "https://crownroyalcollectors.com/signature-series/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Geoff Kleinman",
+            "publisher": "Drink Spirits",
+            "url": "https://www.drinkspirits.com/canadian-whisky/crown-royal-rye-whisky-review/",
+            "summary": "Kleinman finds an aromatic rye character, a softer entry and a controlled progression toward a dry, spiced finish. He values its approachable style rather than endorsing a universal best-whisky claim.",
+            "scope": "February 15, 2016; exact 45% Northern Harvest Rye, USD 29.99 context."
+          },
+          {
+            "reviewer": "Curt",
+            "publisher": "All Things Whisky",
+            "url": "https://allthingswhisky.com/2015/11/25/crown-royal-northern-harvest-rye-review/",
+            "summary": "Curt enjoys the aroma but finds sharper wood on the palate and a thin, brief ending. His criticism provides an important check on the more enthusiastic account.",
+            "scope": "November 25, 2015; exact 45% Northern Harvest Rye; full sensory criticism is distinguished from award debate."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 101
+      "deterministic_order": 101,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-013",
+      "publication_sources": [
+        {
+          "title": "Northern Harvest producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-northern-harvest-rye",
+          "role": "Exact named front label, 45% strength and 90% rye-mash-whisky wording."
+        },
+        {
+          "title": "2015 producer launch",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-welcomes-first-ever-rye-whisky-to-growing-portfolio-300080595.html",
+          "role": "May introduction and USD 29.99 / 750 mL U.S. MSRP."
+        },
+        {
+          "title": "Northern Harvest — Drink Spirits",
+          "url": "https://www.drinkspirits.com/canadian-whisky/crown-royal-rye-whisky-review/",
+          "role": "Full favorable independent account."
+        },
+        {
+          "title": "Northern Harvest — All Things Whisky",
+          "url": "https://allthingswhisky.com/2015/11/25/crown-royal-northern-harvest-rye-review/",
+          "role": "Full contrary palate/finish account; comments and award arguments are not treated as representative consensus."
+        }
+      ]
     },
     {
       "id": "crown-royal-ordinary-special-packaging-military-bags-gift-packs",

@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 12,
+  "checkpoint": 13,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -931,11 +931,19 @@
     "crown-royal-honey.html",
     "crown-royal-maple-finished.html",
     "crown-royal-marquis.html",
-    "crown-royal-monarch-75th-anniversary.html"
+    "crown-royal-monarch-75th-anniversary.html",
+    "crown-royal-noble-collection-13-year-blenders-mash-2018.html",
+    "crown-royal-noble-collection-16-year-rye-2020.html",
+    "crown-royal-noble-collection-barley-edition-2023.html",
+    "crown-royal-noble-collection-cornerstone-blend-2016.html",
+    "crown-royal-noble-collection-french-oak-cask-finished-2019.html",
+    "crown-royal-noble-collection-wine-barrel-finished-2017.html",
+    "crown-royal-noble-collection-winter-wheat-2021.html",
+    "crown-royal-northern-harvest-rye.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 63,
-  "dossier_count": 916,
+  "canadian_added": 71,
+  "dossier_count": 924,
   "history": [
     {
       "checkpoint": 1,
@@ -1344,9 +1352,48 @@
         "The expansion validator previously matched only double-quoted data-name attributes and silently inspected 819 original rows. It now checks every raw tbody row, asserts the expected count and computes the preserved-row report from actual checks. All 825 original rows and all 908 prior rows are verified unchanged."
       ],
       "deferred_requirement": "One final alphabetical normalization of all user-facing categorical selectors after the ledger is exhausted; numeric and full-precision Overall sorting preserved."
+    },
+    {
+      "checkpoint": 13,
+      "files": [
+        "crown-royal-noble-collection-13-year-blenders-mash-2018.html",
+        "crown-royal-noble-collection-16-year-rye-2020.html",
+        "crown-royal-noble-collection-barley-edition-2023.html",
+        "crown-royal-noble-collection-cornerstone-blend-2016.html",
+        "crown-royal-noble-collection-french-oak-cask-finished-2019.html",
+        "crown-royal-noble-collection-wine-barrel-finished-2017.html",
+        "crown-royal-noble-collection-winter-wheat-2021.html",
+        "crown-royal-northern-harvest-rye.html"
+      ],
+      "parent_commit": "2bc77d65fb1d82aed357b836e3f220384ce09d8e",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 6722,
+        "functional_cases_passed": 442,
+        "responsive_pages_rendered": 300,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 81,
+        "failures": 0
+      },
+      "additional_preservation": "All 91 earlier expansion dossiers and all 916 prior index rows byte-preserved; all 238 candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Candidates 94–101 processed in exact deterministic order; all eight exact expression images visually inspected and embedded.",
+        "2018 thirteen-year Noble Blenders’ Mash uses producer-authenticated 60/36/4 recipe, new charred oak, 90 proof and USD 59.99 / 750 mL MSRP. NAS recipe and higher local price criticism are not substituted.",
+        "2020 sixteen-year edition classified Canadian Rye Whisky. Reported 90% rye with 10% undisclosed remains attributed, and contradictory new/used-oak and first-shipment accounts are not converted into invented facts.",
+        "2023 Barley Edition classified Canadian Single Grain, not single malt: producer confirms 85% unmalted / 15% malted barley. Five-year minimum is disclosed separately from the NAS front label and does not become numeric label age or Age sorting. Conflicting full independent samples retained.",
+        "Cornerstone remains NAS / 80.6 proof. Component recipes and proportions from contemporary Diageo interview are separately attributed; an interview stock-age account does not become a label age. Favorable WhiskyCast and seriously negative Whiskey Wash samples retained.",
+        "2019 French Oak two-year seasoning concerns the wood, not finish duration. Vosges/new toasted oak and original U.S. MSRP authenticated; three opposed independent samples retained.",
+        "2017 Wine Barrel has exact six-month freshly emptied medium-toast Paso Robles Cabernet Sauvignon American-oak finish. Base age and speculative final blend recipe remain unknown; opposed sensory evidence retained.",
+        "Winter Wheat producer confirms 51/39/10 wheat/corn/malted-barley recipe, 90 proof, NAS and charred American white oak. Three substantive independent accounts support score; awards are not native category endpoints. Dated 2022 USD 70 review reference and indexed historical U.S. bottle-size corroboration are clearly distinguished from current availability.",
+        "Northern Harvest producer wording is 90% rye-mash whisky in the blend, not an authenticated final grain formula. Exact named 90-proof image inspected; original dated USD 29.99 MSRP retained without claiming current NC listing. Positive and woody/thin-finish counterevidence retained."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: crown-royal-noble-collection-13-year-blenders-mash-2018",
+  "next_action": "Research next pending expression in deterministic order: crown-royal-peach",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1354,24 +1401,24 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 12,
+      "checkpoint": 13,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 916,
-      "new_dossiers": 91,
-      "html_files_structurally_checked": 92,
+      "dossiers": 924,
+      "new_dossiers": 99,
+      "html_files_structurally_checked": 100,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 6442,
-      "local_references_checked": 1749,
-      "embedded_image_occurrences_decoded": 73,
-      "unique_image_payloads_decoded": 73,
-      "image_dossiers_added": 73,
+      "checks": 6722,
+      "local_references_checked": 1829,
+      "embedded_image_occurrences_decoded": 81,
+      "unique_image_payloads_decoded": 81,
+      "image_dossiers_added": 81,
       "numeric_counts": {
-        "quality": 81,
-        "value": 69,
-        "overall": 69
+        "quality": 89,
+        "value": 77,
+        "overall": 77
       },
       "failure_count": 0,
       "failures": []
@@ -1381,7 +1428,7 @@
       "browser": "Chromium",
       "browser_version": "141.0.7390.0",
       "functional_cases_passed": 442,
-      "responsive_cases": 276,
+      "responsive_cases": 300,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1389,7 +1436,7 @@
     }
   },
   "updated_at": "2026-10-14",
-  "last_parent_commit": "7d94fa7a91f4883cc0c817ab9f879613d174db07",
+  "last_parent_commit": "2bc77d65fb1d82aed357b836e3f220384ce09d8e",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",
