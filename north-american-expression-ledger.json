@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 150,
-    "accepted": 75
+    "pending": 142,
+    "accepted": 83
   },
   "entries": [
     {
@@ -5601,21 +5601,21 @@
       "canonical_expression_name": "Crown Royal 18 Year",
       "filename": "crown-royal-18-year.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; Gimli, Manitoba identified by the producer",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 18.0,
-      "age_information": "18 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2022",
+      "age_statement_years": 18,
+      "age_information": "18 Years",
+      "grain_information": "Canadian whisky blend; exact grain and component percentages undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Oak maturation; no separate finishing treatment documented",
+      "release_year_or_era": "Crown Royal Aged 18 Years Extra Rare, recurring 40% ABV / 80-proof Canadian blend, introduced in the 2021 era; distinct from earlier XR bottlings.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label/producer identity plus inspected substantive independent tasting; limitations and published-sample scope explicit.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -5625,34 +5625,79 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Kara Newman",
+            "publisher": "Wine Enthusiast",
+            "url": "https://www.wineenthusiast.com/buying-guide/crown-royal-18-extra-rare/",
+            "summary": "Newman finds layered pastry-like sweetness, fruit and several baking-spice notes, ending warm. Her reading gives the whisky greater complexity than the quieter second record.",
+            "scope": "December 31, 2022 issue; exact 18-year / 40% ABV / 750 mL, 96 points."
+          },
+          {
+            "reviewer": "David Savona",
+            "publisher": "Whisky Advocate",
+            "url": "https://whiskyadvocate.com/Crown-Royal-18-year-old-Extra-Rare-40",
+            "summary": "Savona finds good balance and easy drinkability, with restrained caramel, citrus and wood. He judges the flavors pleasant but not particularly complex.",
+            "scope": "Summer 2022; exact 18-year / 40% ABV identity, 89 points. Substantive indexed review text inspected; direct page timed out."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 78
+      "deterministic_order": 78,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-011",
+      "publication_sources": [
+        {
+          "title": "Crown Royal 18 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-18yo",
+          "role": "Minimum age, strength, Gimli identity and exact photograph."
+        },
+        {
+          "title": "18 Year launch announcement",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-partners-with-celebrity-grillz-makers-scotty-atl-and-eddie-plein-to-announce-newest-whisky-blend-aged-18-years-301444583.html",
+          "role": "December 2021 primary launch record; announcement existence/date corroborated in contemporary indexing and the 29-year primary announcement."
+        },
+        {
+          "title": "18 Year — Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/crown-royal-18-extra-rare/",
+          "role": "Exact named independent tasting and review-era price context."
+        },
+        {
+          "title": "18 Year — Whisky Advocate",
+          "url": "https://whiskyadvocate.com/Crown-Royal-18-year-old-Extra-Rare-40",
+          "role": "Substantive indexed exact tasting; temporary direct-fetch limitation retained."
+        },
+        {
+          "title": "NC August–October 2026 list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 37-915, 18Y, 80 proof, 750 mL, USD 144.95 regular price."
+        }
+      ]
     },
     {
       "id": "crown-royal-29-year-extra-rare",
       "canonical_expression_name": "Crown Royal 29 Year Extra Rare",
       "filename": "crown-royal-29-year-extra-rare.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; Gimli, Manitoba authenticated for this release",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 92.0,
+      "proof": 92,
       "abv": 46.0,
-      "age_statement_years": 29.0,
-      "age_information": "29 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2023",
+      "age_statement_years": 29,
+      "age_information": "29 Years",
+      "grain_information": "Producer confirms signature rye mash influence; exact full grain/component proportions unconfirmed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "American-oak maturation; no distinct additional finish authenticated",
+      "release_year_or_era": "Crown Royal Aged 29 Years Extra Rare, one-time 2022 Canadian blended-whisky release, 46% ABV / 92 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label/producer identity plus inspected substantive independent tasting; limitations and published-sample scope explicit.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -5662,34 +5707,62 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "BmoreBlueJay",
+            "publisher": "Reddit / r/worldwhisky",
+            "url": "https://www.reddit.com/r/worldwhisky/comments/175yl0j/review_6_crown_royal_29_year_extra_rare_blended/",
+            "summary": "The reviewer praises a developed mature aroma but finds the palate dominated by bitter wood. They report a drying finish and unusually light texture, and would not repurchase for drinking.",
+            "scope": "October 12, 2023; exact 29-year / 46% ABV bottle bought at Virginia ABC for USD 399. One full first-person community record; not representative consensus."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 79
+      "deterministic_order": 79,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-011",
+      "publication_sources": [
+        {
+          "title": "29 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/29yo",
+          "role": "Exact age, strength, distillery and verified photograph."
+        },
+        {
+          "title": "29 Year primary launch announcement",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-extends-higher-marques-portfolio-with-newest-aged-29-year-old-whisky-301681100.html",
+          "role": "November 17, 2022 release, 6,000 bottles, rye-mash influence and USD 399 launch price."
+        },
+        {
+          "title": "29 Year — BmoreBlueJay",
+          "url": "https://www.reddit.com/r/worldwhisky/comments/175yl0j/review_6_crown_royal_29_year_extra_rare_blended/",
+          "role": "Inspected full independent purchased-bottle sensory account, including important wood/texture defects."
+        }
+      ]
     },
     {
       "id": "crown-royal-30-year",
       "canonical_expression_name": "Crown Royal 30 Year",
       "filename": "crown-royal-30-year.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; Coffey-still components and maturation at LaSalle documented by the producer",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
-      "abv": 40.0,
-      "age_statement_years": 30.0,
-      "age_information": "30 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2023",
+      "proof": 92,
+      "abv": 46.0,
+      "age_statement_years": 30,
+      "age_information": "30 Years",
+      "grain_information": "Exact grain/component proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Used-oak maturation at LaSalle; no additional cask finish documented",
+      "release_year_or_era": "Crown Royal Aged 30 Years Extra Rare, November 2023 Canadian blend, 46% ABV / 92 proof; the discovery ledger’s 80-proof lead is corrected.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label/producer identity plus inspected substantive independent tasting; limitations and published-sample scope explicit.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -5699,34 +5772,74 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2023/11/29/review-crown-royal-30-years-old/",
+            "summary": "Null finds considerable sweetness, butter-like texture and aged-grain fruit, but also char/polish aromas and a medicinal edge. He sees the mature wood approaching the limit of pleasant development.",
+            "scope": "November 29, 2023; exact 30-year / 92-proof release, B+; USD 499 reference."
+          },
+          {
+            "reviewer": "Mark Gillespie",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/crown-royal-aged-30-years/",
+            "summary": "Gillespie finds rich flavor, well-managed sweetness and subtle spice, with a long and complex ending. This positive integration judgment is retained alongside the more critical sample.",
+            "scope": "January 2024; exact 30-year / 46% ABV release, 94 points."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 80
+      "deterministic_order": 80,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-011",
+      "publication_sources": [
+        {
+          "title": "30 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-30yo",
+          "role": "Exact 46% identity, Coffey-still/LaSalle used-oak context and photograph."
+        },
+        {
+          "title": "30 Year primary launch release",
+          "url": "https://www.multivu.com/players/English/9222251-crown-royal-aged-30-years-rare-blend/",
+          "role": "November 1, 2023, Coffey components, 46% ABV and USD 499 / 750 mL MSRP."
+        },
+        {
+          "title": "30 Year — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2023/11/29/review-crown-royal-30-years-old/",
+          "role": "Full independent sweetness/wood counterevidence."
+        },
+        {
+          "title": "30 Year — WhiskyCast",
+          "url": "https://whiskycast.com/ratings/crown-royal-aged-30-years/",
+          "role": "Exact substantive independent positive tasting."
+        }
+      ]
     },
     {
       "id": "crown-royal-31-year",
       "canonical_expression_name": "Crown Royal 31 Year",
       "filename": "crown-royal-31-year.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources and grain percentages undisclosed for this release",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 92.0,
+      "proof": 92,
       "abv": 46.0,
-      "age_statement_years": 31.0,
-      "age_information": "31 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2024",
+      "age_statement_years": 31,
+      "age_information": "31 Years",
+      "grain_information": "Exact grains and blend-component percentages undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Oak maturation; separate finish and precise oak mix not documented",
+      "release_year_or_era": "Crown Royal Aged 31 Years Extra Rare, October 2024 limited release, 46% ABV / 92 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label/producer identity plus inspected substantive independent tasting; limitations and published-sample scope explicit.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -5736,34 +5849,74 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Richard Thomas",
+            "publisher": "The Whiskey Reviewer",
+            "url": "https://whiskeyreviewer.com/2024/11/crown-royal-31-year-old-canadian-whisky-review-113024/",
+            "summary": "Thomas finds subdued aroma but more developed fruit, silky sweetness and herbal/wood nuances on the palate. He considers it a sophisticated pour despite its high cost.",
+            "scope": "Exact 31-year / 46% release; article path is November 2024, but current page date furniture is inconsistent. A-."
+          },
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2025/01/10/review-crown-royal-31-years-old-reserve-12-years-old-and-black-cherry-whisky-sour-2024/",
+            "summary": "Null reports toasted-nut and asphalt-like aromas, bitter oak and a strongly industrial ending. Late fruit and nut notes do not resolve his concerns about barrel dominance.",
+            "scope": "January 10, 2025; exact 2024 31-year / 92-proof release, B-. The adjacent Reserve 12 and ready-to-drink sour reviews are excluded."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 81
+      "deterministic_order": 81,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-011",
+      "publication_sources": [
+        {
+          "title": "31 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/31yo",
+          "role": "Exact age/strength and verified photograph."
+        },
+        {
+          "title": "31 Year primary release announcement",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-reaches-new-pinnacle-of-luxury-canadian-whisky-with-introduction-of-crown-royal-aged-31-years-302271695.html",
+          "role": "October 9, 2024 edition, blender, limited markets and USD 599 / 750 mL MSRP."
+        },
+        {
+          "title": "31 Year — The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2024/11/crown-royal-31-year-old-canadian-whisky-review-113024/",
+          "role": "Substantive positive exact tasting; migrated page-date limitation recorded."
+        },
+        {
+          "title": "31 Year — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2025/01/10/review-crown-royal-31-years-old-reserve-12-years-old-and-black-cherry-whisky-sour-2024/",
+          "role": "Full independent wood/technical-defect counterevidence scoped to the 31 Year section."
+        }
+      ]
     },
     {
       "id": "crown-royal-32-year",
       "canonical_expression_name": "Crown Royal 32 Year",
       "filename": "crown-royal-32-year.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; exact component distillation sources and blend ratios undisclosed",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 93.0,
-      "abv": 46.5,
-      "age_statement_years": 32.0,
-      "age_information": "32 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2025–2026",
+      "proof": 92,
+      "abv": 46.0,
+      "age_statement_years": 32,
+      "age_information": "32 Years",
+      "grain_information": "Exact grains and component proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Oak maturation; no distinct additional finish authenticated",
+      "release_year_or_era": "Crown Royal Aged 32 Years Extra Rare, 2025–2026 documented edition, 46% ABV / 92 proof; exact front label verified.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label/producer identity plus inspected substantive independent tasting; limitations and published-sample scope explicit.",
       "discovery_sources": [
         {
           "title": "Crown Royal 32YO | Signature Whisky | Crown Royal",
@@ -5773,34 +5926,67 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky/32yo",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2026/07/31/review-crown-royal-32-years-old/",
+            "summary": "Null finds better refinement than the prior ultra-aged samples, with developing citrus, floral and nut-like notes. He reports a sharper palate than the aroma suggests but a clean, substantial ending, with earlier creosote-like character largely absent.",
+            "scope": "July 31, 2026; full exact 32-year / 92-proof tasting, A-."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 82
+      "deterministic_order": 82,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-011",
+      "publication_sources": [
+        {
+          "title": "32 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/32yo",
+          "role": "Exact edition photograph and age; 46% header/schema corroborated, contradictory footer rejected."
+        },
+        {
+          "title": "32 Year — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2026/07/31/review-crown-royal-32-years-old/",
+          "role": "Full independent 2026 tasting, 92-proof corroboration and USD 750 dated U.S. reference."
+        },
+        {
+          "title": "32 Year — Ohio Liquor",
+          "url": "https://www.ohlq.com/liquor/whiskey/canadian/blend/crown-royal-32yo",
+          "role": "Exact indexed 750 mL / 46% / 92-proof record; direct text render was unavailable."
+        },
+        {
+          "title": "32 Year — Total Wine Concierge archive",
+          "url": "https://concierge.totalwine.com/product/crown-royal-aged-32-years-extra-rare-blended-canadian-whisky",
+          "role": "Winter 2025 pre-arrival record establishes documented era, not current availability."
+        }
+      ]
     },
     {
       "id": "crown-royal-black",
       "canonical_expression_name": "Crown Royal Black",
       "filename": "crown-royal-black.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; Canadian blended whisky",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2010",
+      "age_information": "NAS",
+      "grain_information": "Canadian whisky blend; exact grain/component percentages undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Oak maturation with reported increased charred/new-oak component influence; no additional finish authenticated",
+      "release_year_or_era": "Crown Royal Black, recurring NAS Canadian blend, 45% ABV / 90 proof; current expression photograph verified.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label/producer identity plus inspected substantive independent tasting; limitations and published-sample scope explicit.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -5810,34 +5996,74 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2010/10/04/review-crown-royal-black-canadian-whisky/",
+            "summary": "Null finds intense wood, sweet fruit and spice, with a persistent ash-like ending. He sees an unusual workable balance but expects the oak to overwhelm some drinkers.",
+            "scope": "October 4, 2010; exact Black 90-proof sample, B+."
+          },
+          {
+            "reviewer": "Richard Thomas",
+            "publisher": "The Whiskey Reviewer",
+            "url": "https://whiskeyreviewer.com/2014/07/crown-royal-black-canadian-whisky-review_072114/",
+            "summary": "Thomas finds a surprisingly light texture and straightforward sweet/spicy flavors, despite a long warm finish. He is much less persuaded by the robust billing and its price.",
+            "scope": "July 2014; exact Black 45% ABV sample, C+."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 83
+      "deterministic_order": 83,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-011",
+      "publication_sources": [
+        {
+          "title": "Black producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-black",
+          "role": "Current exact strength and verified expression photograph."
+        },
+        {
+          "title": "Black — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2010/10/04/review-crown-royal-black-canadian-whisky/",
+          "role": "Substantive favorable-but-oak-heavy sample."
+        },
+        {
+          "title": "Black — The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2014/07/crown-royal-black-canadian-whisky-review_072114/",
+          "role": "Full independent texture/complexity counterevidence."
+        },
+        {
+          "title": "NC August–October 2026 list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 37-897, 90 proof, 750 mL, USD 37.95 regular price."
+        }
+      ]
     },
     {
       "id": "crown-royal-blackberry",
       "canonical_expression_name": "Crown Royal Blackberry",
       "filename": "crown-royal-blackberry.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; blackberry flavored Canadian-whisky-based product",
       "status": "current",
       "whisky_category": "Flavored whiskey",
-      "proof": 70.0,
+      "proof": 70,
       "abv": 35.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky with blackberry flavor",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring",
-      "release_year_or_era": "2024",
+      "age_information": "NAS",
+      "grain_information": "Canadian whisky base infused with blackberry flavor; exact grains, flavor composition and sweetening levels undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Blackberry flavor infusion; not a cask-finishing stage",
+      "release_year_or_era": "Crown Royal Blackberry Flavored Whisky, 35% ABV / 70 proof, introduced in the 2024 era; excludes packaged ready-to-drink cocktails.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label/producer identity plus inspected substantive independent tasting; limitations and published-sample scope explicit.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -5847,34 +6073,74 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Stephanie Moreno",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/crown-royal-blackberry",
+            "summary": "Moreno finds tart berry flavor with modest grain and oak-spice definition. She regards cocktails as the best use and notes a somewhat slick texture.",
+            "scope": "Exact 35% ABV Blackberry expert tasting; 79 points."
+          },
+          {
+            "reviewer": "Whiskey Wench",
+            "publisher": "The Whiskey Wench",
+            "url": "https://thewhiskeywench.com/2024/02/26/crown-royal-blackberry-flavored-whisky/",
+            "summary": "The reviewer finds sweet fruit and vanilla balanced by tartness, preferring the expression with lemonade rather than neat. The independent purchased-bottle report supplies specific mixed-drink evidence.",
+            "scope": "February 26, 2024; exact 35% ABV Blackberry, USD 26.99 paid; not a ready-to-drink bottle."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 84
+      "deterministic_order": 84,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-011",
+      "publication_sources": [
+        {
+          "title": "Blackberry producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/blackberry",
+          "role": "Exact flavored identity, infusion, strength and verified current expression photograph."
+        },
+        {
+          "title": "Blackberry — Distiller",
+          "url": "https://distiller.com/spirits/crown-royal-blackberry",
+          "role": "Substantive expert tasting and March 2024 launch-era context."
+        },
+        {
+          "title": "Blackberry — The Whiskey Wench",
+          "url": "https://thewhiskeywench.com/2024/02/26/crown-royal-blackberry-flavored-whisky/",
+          "role": "Independent purchased-bottle neat and cocktail testing."
+        },
+        {
+          "title": "NC August–October 2026 list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 37-908, 70 proof, 750 mL, USD 32.95 regular price."
+        }
+      ]
     },
     {
       "id": "crown-royal-blenders-mash-nas",
       "canonical_expression_name": "Crown Royal Blenders Mash — NAS",
       "filename": "crown-royal-blenders-mash-nas.html",
       "brand_family": "Crown Royal",
-      "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
+      "producer": "Crown Royal / Diageo; Gimli Distillery identified by the matched 2018 sources",
       "status": "discontinued",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn-led; proportions to verify",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2018",
+      "age_information": "NAS — Blenders’ Series",
+      "grain_information": "Producer confirms corn-heavy whiskies; 64% corn / 31.5% rye / 4.5% malted barley reported for the 2018 sample by Breaking Bourbon, not independently authenticated by the producer",
+      "grain_confidence": "Corn-heavy identity authenticated; published sample ratios are attributed and not promoted to a producer-verified recurring formula.",
+      "finishing_information": "New and used American-oak maturation; no separate finishing stage authenticated",
+      "release_year_or_era": "Crown Royal Blenders’ Mash, 2018 NAS Blenders’ Series identity at 40% ABV / 80 proof, formerly labeled Bourbon Mash; distinct from the Noble Collection 13 Year / 90-proof release.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "available_evidence_level": "Exact-label/producer identity plus inspected substantive independent tasting; limitations and published-sample scope explicit.",
       "discovery_sources": [
         {
           "title": "Crown Royal Whisky | Canadian Whisky | Crown Royal",
@@ -5884,13 +6150,48 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Bobby",
+            "publisher": "Adventures in Whiskey",
+            "url": "https://adventuresinwhiskey.com/2018/05/16/review-crown-royal-blenders-mash-blended-canadian-whisky/",
+            "summary": "Bobby enjoys a subdued but pleasant aroma, rounded sweetness and light fruit/spice, with a clean ending. He recommends it as an approachable pour rather than a challenging one.",
+            "scope": "May 16, 2018; renamed NAS Blenders’ Mash 40% ABV, producer-provided sample; exact 80-proof photograph authenticated."
+          },
+          {
+            "reviewer": "Jordan Moskal",
+            "publisher": "Breaking Bourbon",
+            "url": "https://www.breakingbourbon.com/review/crown-royal-bourbon-mash-blenders-mash",
+            "summary": "Moskal finds the aroma promising but a dry, muddled and weak palate/finish. He regards the USD 30 drinking proposition as poor despite its unusual labeling history.",
+            "scope": "September 6, 2018; NAS, 80 proof, original Bourbon Mash alias, bottle 0195470; substantive sample counterevidence."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 85
+      "deterministic_order": 85,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-011",
+      "publication_sources": [
+        {
+          "title": "Blenders’ Mash producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/blenders-mash",
+          "role": "Corn-heavy/40% identity; mismatched 90-proof photograph explicitly rejected."
+        },
+        {
+          "title": "NAS Blenders’ Mash — Adventures in Whiskey",
+          "url": "https://adventuresinwhiskey.com/2018/05/16/review-crown-royal-blenders-mash-blended-canadian-whisky/",
+          "role": "Exact renamed forty-percent sample, production account and readable 80-proof bottle photograph."
+        },
+        {
+          "title": "Bourbon Mash / Blenders’ Mash — Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/crown-royal-bourbon-mash-blenders-mash",
+          "role": "Exact NAS/80-proof identity, reported sample mash percentages, naming chronology, full critical tasting and dated USD 30 MSRP."
+        }
+      ]
     },
     {
       "id": "crown-royal-chocolate",

@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 10,
+  "checkpoint": 11,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -915,11 +915,19 @@
     "caribou-crossing-single-barrel.html",
     "collingwood-21-year-rye.html",
     "collingwood-original.html",
-    "collingwood-town-collection-double-barreled.html"
+    "collingwood-town-collection-double-barreled.html",
+    "crown-royal-18-year.html",
+    "crown-royal-29-year-extra-rare.html",
+    "crown-royal-30-year.html",
+    "crown-royal-31-year.html",
+    "crown-royal-32-year.html",
+    "crown-royal-black.html",
+    "crown-royal-blackberry.html",
+    "crown-royal-blenders-mash-nas.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 47,
-  "dossier_count": 900,
+  "canadian_added": 55,
+  "dossier_count": 908,
   "history": [
     {
       "checkpoint": 1,
@@ -1246,9 +1254,48 @@
         "Town Collection verified as 45% ABV / 90 proof, NAS. Extra oak and maplewood stages recorded; precise char level and durations unresolved. CAD 2017 price is not converted to USD; inaccessible U.S. price record is not scored.",
         "All seven exact expression photographs inspected and embedded; no standalone asset directory. Only candidates 71–77 resolved."
       ]
+    },
+    {
+      "checkpoint": 11,
+      "files": [
+        "crown-royal-18-year.html",
+        "crown-royal-29-year-extra-rare.html",
+        "crown-royal-30-year.html",
+        "crown-royal-31-year.html",
+        "crown-royal-32-year.html",
+        "crown-royal-black.html",
+        "crown-royal-blackberry.html",
+        "crown-royal-blenders-mash-nas.html"
+      ],
+      "parent_commit": "670f951edc8ebdd1beb1aeb2d5fe79c9803a618e",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 6159,
+        "functional_cases_passed": 440,
+        "responsive_pages_rendered": 252,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 65,
+        "failures": 0
+      },
+      "additional_preservation": "All 75 earlier expansion dossiers and all 900 prior index rows byte-preserved; complete candidate ordering unchanged.",
+      "identity_resolutions": [
+        "Candidates 78–85 resolved in exact ledger order; all earlier accepted content preserved.",
+        "18 Year authenticated as 2021 introduction; 2022 review descriptions do not create a separate release. Exact current NC USD 144.95 price retained.",
+        "29 Year exact primary launch is one-time 2022, 6,000 bottles, rye-mash-influenced Gimli blend, 92 proof. One full community tasting supports only an explicitly low-confidence provisional judgment.",
+        "30 Year corrected from seed 80 proof to exact-label 92 proof. Primary Coffey-still/LaSalle used-oak details are release-specific and not transferred to siblings. USD 499 official November 2023 MSRP dated.",
+        "31 Year preserves professional disagreement, including pronounced oak/industrial defect counterevidence. October 2024 primary USD 599 / 750 mL price authenticated.",
+        "32 Year corrected from seed 93 proof to exact front-label 92 proof, corroborated by producer header/schema, Ohio listing and July 2026 full review. Contradictory 36% footer rejected; first-shipment day not invented.",
+        "Black and Blackberry use exact 2026 NC regular 750 mL prices. Blackberry assessed as flavored whiskey; original seasonal launch and later availability are not equated with permanent production.",
+        "NAS Blenders’ Mash is distinct from Noble Collection 13 Year/90 proof. Producer page’s 90-proof photograph rejected; exact independent renamed NAS 80-proof photograph inspected and embedded.",
+        "All eight exact expression photographs embedded without standalone asset directories; all numeric Canadian Quality uses provisional universal execution rather than unrelated American category anchors."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: crown-royal-18-year",
+  "next_action": "Research next pending expression in deterministic order: crown-royal-chocolate",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1256,24 +1303,24 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 10,
+      "checkpoint": 11,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 900,
-      "new_dossiers": 75,
-      "html_files_structurally_checked": 76,
+      "dossiers": 908,
+      "new_dossiers": 83,
+      "html_files_structurally_checked": 84,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 5880,
-      "local_references_checked": 1589,
-      "embedded_image_occurrences_decoded": 57,
-      "unique_image_payloads_decoded": 57,
-      "image_dossiers_added": 57,
+      "checks": 6159,
+      "local_references_checked": 1669,
+      "embedded_image_occurrences_decoded": 65,
+      "unique_image_payloads_decoded": 65,
+      "image_dossiers_added": 65,
       "numeric_counts": {
-        "quality": 65,
-        "value": 54,
-        "overall": 54
+        "quality": 73,
+        "value": 62,
+        "overall": 62
       },
       "failure_count": 0,
       "failures": []
@@ -1282,8 +1329,8 @@
       "status": "passed",
       "browser": "Chromium",
       "browser_version": "141.0.7390.0",
-      "functional_cases_passed": 437,
-      "responsive_cases": 228,
+      "functional_cases_passed": 440,
+      "responsive_cases": 252,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1291,5 +1338,5 @@
     }
   },
   "updated_at": "2026-10-14",
-  "last_parent_commit": "8e86768f611471f697ccb07081c81e602a913126"
+  "last_parent_commit": "670f951edc8ebdd1beb1aeb2d5fe79c9803a618e"
 }

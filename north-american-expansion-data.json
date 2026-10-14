@@ -25706,5 +25706,2912 @@
       "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
       "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
     }
+  },
+  {
+    "slug": "crown-royal-18-year",
+    "filename": "crown-royal-18-year.html",
+    "name": "Crown Royal 18 Year",
+    "family": "Crown Royal",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Crown Royal / Diageo; Gimli, Manitoba identified by the producer",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "18 Years",
+    "age_display": "18 Years",
+    "age_sort_years": 18,
+    "mash_bill_display": "Canadian whisky blend; exact grain and component percentages undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7.4,
+    "quality_score": 7.4,
+    "value": 4.7,
+    "value_score": 4.7,
+    "overall": 5.897457079114693,
+    "overall_score": 5.897457079114693,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 7.6,
+        "flavor_development": 7.2,
+        "finish": 7.0,
+        "technical_cleanliness": 8.0,
+        "texture": 7.4,
+        "maturity_wood_management": 7.4,
+        "distinctiveness": 7.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.42,
+      "editorial_adjustment": -0.02,
+      "adjustment_reason": "The matched tastings support very good balance, clean sweetness and appropriate wood. Divergent complexity judgments and low bottling strength limit confidence in an excellent ranking. Age and a 96-point external rating are not mechanically converted to Quality."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The matched tastings support very good balance, clean sweetness and appropriate wood. Divergent complexity judgments and low bottling strength limit confidence in an excellent ranking. Age and a 96-point external rating are not mechanically converted to Quality.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The verified August 2026 NC price is USD 144.95 / 750 mL. This buys a refined mature blend, but the reviews also describe a gentle, not uniformly complex experience. Compare a pour with less expensive Canadian blends before paying the substantial premium; packaging and age are excluded from drinking Value.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 144.95,
+    "price_basis": "NC ABC regular August–October 2026 retail price, checked October 14",
+    "price_url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+    "price_period": "2026-08-01",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 144.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 144.95,
+    "nc_code": "37-915",
+    "nc_listing_status": "Exact 750 mL regular entry; shelf stock is not guaranteed.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2021,
+    "release_scope": "Crown Royal Aged 18 Years Extra Rare, recurring 40% ABV / 80-proof Canadian blend, introduced in the 2021 era; distinct from earlier XR bottlings.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.wineenthusiast.com/buying-guide/crown-royal-18-extra-rare/",
+      "https://whiskyadvocate.com/Crown-Royal-18-year-old-Extra-Rare-40"
+    ],
+    "review_publishers": [
+      "Wine Enthusiast",
+      "Whisky Advocate"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Kara Newman",
+        "publisher": "Wine Enthusiast",
+        "url": "https://www.wineenthusiast.com/buying-guide/crown-royal-18-extra-rare/",
+        "summary": "Newman finds layered pastry-like sweetness, fruit and several baking-spice notes, ending warm. Her reading gives the whisky greater complexity than the quieter second record.",
+        "scope": "December 31, 2022 issue; exact 18-year / 40% ABV / 750 mL, 96 points."
+      },
+      {
+        "reviewer": "David Savona",
+        "publisher": "Whisky Advocate",
+        "url": "https://whiskyadvocate.com/Crown-Royal-18-year-old-Extra-Rare-40",
+        "summary": "Savona finds good balance and easy drinkability, with restrained caramel, citrus and wood. He judges the flavors pleasant but not particularly complex.",
+        "scope": "Summer 2022; exact 18-year / 40% ABV identity, 89 points. Substantive indexed review text inspected; direct page timed out."
+      }
+    ],
+    "source_urls": [
+      "https://www.crownroyal.com/canadian-whisky/crown-royal-18yo",
+      "https://www.prnewswire.com/news-releases/crown-royal-partners-with-celebrity-grillz-makers-scotty-atl-and-eddie-plein-to-announce-newest-whisky-blend-aged-18-years-301444583.html",
+      "https://www.wineenthusiast.com/buying-guide/crown-royal-18-extra-rare/",
+      "https://whiskyadvocate.com/Crown-Royal-18-year-old-Extra-Rare-40",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "The producer identifies Gimli and a minimum eighteen years, at 40% ABV. Independent specification records describe a marriage of three older whisky stocks, but an expression-specific numerical mash bill, oak mix and separate finishing stage are not authenticated. Eighteen years is a label age, not the age of the brand.",
+    "finishing_information": "Oak maturation; no separate finishing treatment documented",
+    "identity_note": null,
+    "history": [
+      "A December 14, 2021 launch announcement and the later November 2022 producer announcement establish the 2021 introduction. Reviews describing it as new for 2022 reflect their review era, not a separate 2022 expression.",
+      "This age-stated identity is not conflated with XR Waterloo Red or XR LaSalle Blue. NC’s August–October 2026 regular list specifies 18Y, 80 proof and USD 144.95 / 750 mL, code 37-915."
+    ],
+    "comparables": [
+      {
+        "name": "Canadian Club Classic 12 Year",
+        "url": "canadian-club-classic-12-year.html",
+        "reason": "A less expensive Canadian blend with different age and review evidence."
+      },
+      {
+        "name": "Crown Royal 30 Year",
+        "url": "crown-royal-30-year.html",
+        "reason": "Another age-stated blend, with distinct Coffey/LaSalle production and much higher launch price."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 85,
+        "current_band": false,
+        "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 85,
+        "maximum_exclusive": 110,
+        "current_band": false,
+        "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 110,
+        "maximum_exclusive": 145,
+        "current_band": true,
+        "reason": "Fair only when the specific mature profile is worth the premium to you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 145,
+        "maximum_exclusive": 180,
+        "current_band": false,
+        "reason": "Above this level, taste first: eighteen years does not guarantee the complexity you expect.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 180,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to assess whether the restrained mature sweetness meets your expectations."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.crownroyal.com/canadian-whisky/crown-royal-18yo",
+        "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/2V9nlH5lCt9PXbKPfzsso8/df8d2c6f35e956defcb0e2633562f8d4/Crown_Royal_18yo.png?fm=webp&w=650&q=75",
+        "scope": "Crown Royal Aged 18 Years Extra Rare, recurring 40% ABV / 80-proof Canadian blend, introduced in the 2021 era; distinct from earlier XR bottlings.",
+        "sha256": "fb16f8960bb482fefa446ec2a608234ee43bb742b6e51d90976faa049aa58c53",
+        "image_embedded": true,
+        "width": 650,
+        "height": 650
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Crown Royal Aged 18 Years Extra Rare, recurring 40% ABV / 80-proof Canadian blend, introduced in the 2021 era; distinct from earlier XR bottlings.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-011",
+    "editorial": {
+      "id": "crown-royal-18-year",
+      "proof": 80,
+      "age": 18,
+      "release_year": 2021,
+      "producer": "Crown Royal / Diageo; Gimli, Manitoba identified by the producer",
+      "identity": "Crown Royal Aged 18 Years Extra Rare, recurring 40% ABV / 80-proof Canadian blend, introduced in the 2021 era; distinct from earlier XR bottlings.",
+      "short_version": "A mature, approachable Crown Royal with favorable but differing assessments of complexity. Its gentleness and age support very good Quality; the verified NC price is a separate, more cautious buying decision.",
+      "grain": "Canadian whisky blend; exact grain and component percentages undisclosed",
+      "production": "The producer identifies Gimli and a minimum eighteen years, at 40% ABV. Independent specification records describe a marriage of three older whisky stocks, but an expression-specific numerical mash bill, oak mix and separate finishing stage are not authenticated. Eighteen years is a label age, not the age of the brand.",
+      "finish": "Oak maturation; no separate finishing treatment documented",
+      "history": [
+        "A December 14, 2021 launch announcement and the later November 2022 producer announcement establish the 2021 introduction. Reviews describing it as new for 2022 reflect their review era, not a separate 2022 expression.",
+        "This age-stated identity is not conflated with XR Waterloo Red or XR LaSalle Blue. NC’s August–October 2026 regular list specifies 18Y, 80 proof and USD 144.95 / 750 mL, code 37-915."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Kara Newman",
+          "publisher": "Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/crown-royal-18-extra-rare/",
+          "summary": "Newman finds layered pastry-like sweetness, fruit and several baking-spice notes, ending warm. Her reading gives the whisky greater complexity than the quieter second record.",
+          "scope": "December 31, 2022 issue; exact 18-year / 40% ABV / 750 mL, 96 points."
+        },
+        {
+          "reviewer": "David Savona",
+          "publisher": "Whisky Advocate",
+          "url": "https://whiskyadvocate.com/Crown-Royal-18-year-old-Extra-Rare-40",
+          "summary": "Savona finds good balance and easy drinkability, with restrained caramel, citrus and wood. He judges the flavors pleasant but not particularly complex.",
+          "scope": "Summer 2022; exact 18-year / 40% ABV identity, 89 points. Substantive indexed review text inspected; direct page timed out."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Crown Royal 18 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-18yo",
+          "role": "Minimum age, strength, Gimli identity and exact photograph."
+        },
+        {
+          "title": "18 Year launch announcement",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-partners-with-celebrity-grillz-makers-scotty-atl-and-eddie-plein-to-announce-newest-whisky-blend-aged-18-years-301444583.html",
+          "role": "December 2021 primary launch record; announcement existence/date corroborated in contemporary indexing and the 29-year primary announcement."
+        },
+        {
+          "title": "18 Year — Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/crown-royal-18-extra-rare/",
+          "role": "Exact named independent tasting and review-era price context."
+        },
+        {
+          "title": "18 Year — Whisky Advocate",
+          "url": "https://whiskyadvocate.com/Crown-Royal-18-year-old-Extra-Rare-40",
+          "role": "Substantive indexed exact tasting; temporary direct-fetch limitation retained."
+        },
+        {
+          "title": "NC August–October 2026 list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 37-915, 18Y, 80 proof, 750 mL, USD 144.95 regular price."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Canadian Club Classic 12 Year",
+          "url": "canadian-club-classic-12-year.html",
+          "reason": "A less expensive Canadian blend with different age and review evidence."
+        },
+        {
+          "name": "Crown Royal 30 Year",
+          "url": "crown-royal-30-year.html",
+          "reason": "Another age-stated blend, with distinct Coffey/LaSalle production and much higher launch price."
+        }
+      ],
+      "quality": 7.4,
+      "dimensions": [
+        7.6,
+        7.2,
+        7.0,
+        8.0,
+        7.4,
+        7.4,
+        7.0
+      ],
+      "quality_rationale": "The matched tastings support very good balance, clean sweetness and appropriate wood. Divergent complexity judgments and low bottling strength limit confidence in an excellent ranking. Age and a 96-point external rating are not mechanically converted to Quality.",
+      "value": 4.7,
+      "value_rationale": "The verified August 2026 NC price is USD 144.95 / 750 mL. This buys a refined mature blend, but the reviews also describe a gentle, not uniformly complex experience. Compare a pour with less expensive Canadian blends before paying the substantial premium; packaging and age are excluded from drinking Value.",
+      "pricing": {
+        "amount": 144.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-08-01",
+        "basis": "NC ABC regular August–October 2026 retail price, checked October 14",
+        "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+        "effective": "2026-08-01",
+        "nc_code": "37-915",
+        "nc_status": "Exact 750 mL regular entry; shelf stock is not guaranteed."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 85,
+          "current_band": false,
+          "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 85,
+          "maximum_exclusive": 110,
+          "current_band": false,
+          "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 110,
+          "maximum_exclusive": 145,
+          "current_band": true,
+          "reason": "Fair only when the specific mature profile is worth the premium to you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 145,
+          "maximum_exclusive": 180,
+          "current_band": false,
+          "reason": "Above this level, taste first: eighteen years does not guarantee the complexity you expect.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 180,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to assess whether the restrained mature sweetness meets your expectations."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+        }
+      ],
+      "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/2V9nlH5lCt9PXbKPfzsso8/df8d2c6f35e956defcb0e2633562f8d4/Crown_Royal_18yo.png?fm=webp&w=650&q=75",
+      "image_source": "https://www.crownroyal.com/canadian-whisky/crown-royal-18yo",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "crown-royal-29-year-extra-rare",
+    "filename": "crown-royal-29-year-extra-rare.html",
+    "name": "Crown Royal 29 Year Extra Rare",
+    "family": "Crown Royal",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Crown Royal / Diageo; Gimli, Manitoba authenticated for this release",
+    "proof": 92,
+    "abv": 46.0,
+    "age": "29 Years",
+    "age_display": "29 Years",
+    "age_sort_years": 29,
+    "mash_bill_display": "Producer confirms signature rye mash influence; exact full grain/component proportions unconfirmed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 4.8,
+    "quality_score": 4.8,
+    "value": 2.5,
+    "value_score": 2.5,
+    "overall": 3.4641016151377544,
+    "overall_score": 3.4641016151377544,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 4.0,
+        "flavor_development": 6.5,
+        "finish": 4.5,
+        "technical_cleanliness": 6.0,
+        "texture": 3.5,
+        "maturity_wood_management": 3.4,
+        "distinctiveness": 6.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 4.865,
+      "editorial_adjustment": -0.065,
+      "adjustment_reason": "The full sample record supports developed aromatic flavor but substantial wood imbalance and weak texture. This below-average provisional judgment is confined to sparse evidence; it does not declare every bottle defective or establish a Canadian worst anchor."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The full sample record supports developed aromatic flavor but substantial wood imbalance and weak texture. This below-average provisional judgment is confined to sparse evidence; it does not declare every bottle defective or establish a Canadian worst anchor.",
+    "quality_confidence": "Low; one substantive community sample only",
+    "quality_na_reason": null,
+    "value_rationale": "At the official November 2022 USD 399 launch reference, the one authenticated tasting gives weak drinking support for the luxury premium. The reviewer’s actual USD 399 Virginia purchase strengthens the dated price context, not the sensory consensus. Collector resale interest is excluded.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 399.0,
+    "price_basis": "Historical official U.S. launch MSRP; actual October 2023 Virginia purchase corroborates the same amount",
+    "price_url": "https://www.prnewswire.com/news-releases/crown-royal-extends-higher-marques-portfolio-with-newest-aged-29-year-old-whisky-301681100.html",
+    "price_period": "2022-11-17",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 399,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2022,
+    "release_scope": "Crown Royal Aged 29 Years Extra Rare, one-time 2022 Canadian blended-whisky release, 46% ABV / 92 proof.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.reddit.com/r/worldwhisky/comments/175yl0j/review_6_crown_royal_29_year_extra_rare_blended/"
+    ],
+    "review_publishers": [
+      "Reddit / r/worldwhisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "BmoreBlueJay",
+        "publisher": "Reddit / r/worldwhisky",
+        "url": "https://www.reddit.com/r/worldwhisky/comments/175yl0j/review_6_crown_royal_29_year_extra_rare_blended/",
+        "summary": "The reviewer praises a developed mature aroma but finds the palate dominated by bitter wood. They report a drying finish and unusually light texture, and would not repurchase for drinking.",
+        "scope": "October 12, 2023; exact 29-year / 46% ABV bottle bought at Virginia ABC for USD 399. One full first-person community record; not representative consensus."
+      }
+    ],
+    "source_urls": [
+      "https://www.crownroyal.com/canadian-whisky/29yo",
+      "https://www.prnewswire.com/news-releases/crown-royal-extends-higher-marques-portfolio-with-newest-aged-29-year-old-whisky-301681100.html",
+      "https://www.reddit.com/r/worldwhisky/comments/175yl0j/review_6_crown_royal_29_year_extra_rare_blended/"
+    ],
+    "production_summary": "The producer’s November 17, 2022 announcement identifies Gimli, no less than twenty-nine years, the signature rye mash and American oak. The exact proportion of rye in the final whisky is not inferred from a different Crown Royal expression or an uninspected article excerpt. The producer page and exact front photograph authenticate 46% ABV. A separate finishing stage is not documented.",
+    "finishing_information": "American-oak maturation; no distinct additional finish authenticated",
+    "identity_note": null,
+    "history": [
+      "The primary November 2022 release was a one-time limited offering of 6,000 bottles in ten U.S. states, at USD 399 suggested retail. The producer calls it blended Canadian whisky.",
+      "The preserved October 12, 2023 independent post describes an actual Virginia ABC purchase at the same USD 399. The bottle’s scarcity and later reported collector prices do not improve its drinking Value."
+    ],
+    "comparables": [
+      {
+        "name": "Crown Royal 18 Year",
+        "url": "crown-royal-18-year.html",
+        "reason": "The less aged family reference with stronger published professional coverage."
+      },
+      {
+        "name": "Crown Royal 30 Year",
+        "url": "crown-royal-30-year.html",
+        "reason": "The following Extra Rare release has different documented production and conflicting professional reviews."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 100,
+        "current_band": false,
+        "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 100,
+        "maximum_exclusive": 150,
+        "current_band": false,
+        "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 150,
+        "maximum_exclusive": 220,
+        "current_band": false,
+        "reason": "Fair only when the specific mature profile is worth the premium to you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 220,
+        "maximum_exclusive": 300,
+        "current_band": false,
+        "reason": "A sample is essential at this level because the available full tasting reports bitter oak and thin texture.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 300,
+        "maximum_exclusive": null,
+        "current_band": true,
+        "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small neat pour to test whether your bottle shares the reported wood bitterness."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.crownroyal.com/canadian-whisky/29yo",
+        "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/57zNcIoUosUrR1hUJskLyn/efcd2084edee0de32a71e33e1ec89505/CROWN_ROYAL_29YR_EXTRA_RARE_BLENDED_CANADIAN_WHISKY__082000798132_FRONT_750ML.jpg__?fm=webp&w=650&q=75",
+        "scope": "Crown Royal Aged 29 Years Extra Rare, one-time 2022 Canadian blended-whisky release, 46% ABV / 92 proof.",
+        "sha256": "abba8fa648f28d77e43faadef125bcc82e680e99db8bfc8a39b64b390547e1e3",
+        "image_embedded": true,
+        "width": 650,
+        "height": 650
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Crown Royal Aged 29 Years Extra Rare, one-time 2022 Canadian blended-whisky release, 46% ABV / 92 proof.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-011",
+    "editorial": {
+      "id": "crown-royal-29-year-extra-rare",
+      "proof": 92,
+      "age": 29,
+      "release_year": 2022,
+      "producer": "Crown Royal / Diageo; Gimli, Manitoba authenticated for this release",
+      "identity": "Crown Royal Aged 29 Years Extra Rare, one-time 2022 Canadian blended-whisky release, 46% ABV / 92 proof.",
+      "short_version": "A highly mature rye-influenced Crown Royal with authenticated identity but thin independent review coverage. One full community tasting finds an excellent aroma undermined by bitter oak and light texture; its provisional score is explicitly sample-limited.",
+      "grain": "Producer confirms signature rye mash influence; exact full grain/component proportions unconfirmed",
+      "production": "The producer’s November 17, 2022 announcement identifies Gimli, no less than twenty-nine years, the signature rye mash and American oak. The exact proportion of rye in the final whisky is not inferred from a different Crown Royal expression or an uninspected article excerpt. The producer page and exact front photograph authenticate 46% ABV. A separate finishing stage is not documented.",
+      "finish": "American-oak maturation; no distinct additional finish authenticated",
+      "history": [
+        "The primary November 2022 release was a one-time limited offering of 6,000 bottles in ten U.S. states, at USD 399 suggested retail. The producer calls it blended Canadian whisky.",
+        "The preserved October 12, 2023 independent post describes an actual Virginia ABC purchase at the same USD 399. The bottle’s scarcity and later reported collector prices do not improve its drinking Value."
+      ],
+      "reviews": [
+        {
+          "reviewer": "BmoreBlueJay",
+          "publisher": "Reddit / r/worldwhisky",
+          "url": "https://www.reddit.com/r/worldwhisky/comments/175yl0j/review_6_crown_royal_29_year_extra_rare_blended/",
+          "summary": "The reviewer praises a developed mature aroma but finds the palate dominated by bitter wood. They report a drying finish and unusually light texture, and would not repurchase for drinking.",
+          "scope": "October 12, 2023; exact 29-year / 46% ABV bottle bought at Virginia ABC for USD 399. One full first-person community record; not representative consensus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "29 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/29yo",
+          "role": "Exact age, strength, distillery and verified photograph."
+        },
+        {
+          "title": "29 Year primary launch announcement",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-extends-higher-marques-portfolio-with-newest-aged-29-year-old-whisky-301681100.html",
+          "role": "November 17, 2022 release, 6,000 bottles, rye-mash influence and USD 399 launch price."
+        },
+        {
+          "title": "29 Year — BmoreBlueJay",
+          "url": "https://www.reddit.com/r/worldwhisky/comments/175yl0j/review_6_crown_royal_29_year_extra_rare_blended/",
+          "role": "Inspected full independent purchased-bottle sensory account, including important wood/texture defects."
+        }
+      ],
+      "community": "One substantive community tasting is included with its exact scope. No representative consensus or professional tasting panel is claimed.",
+      "quality_confidence": "Low; one substantive community sample only",
+      "comparables": [
+        {
+          "name": "Crown Royal 18 Year",
+          "url": "crown-royal-18-year.html",
+          "reason": "The less aged family reference with stronger published professional coverage."
+        },
+        {
+          "name": "Crown Royal 30 Year",
+          "url": "crown-royal-30-year.html",
+          "reason": "The following Extra Rare release has different documented production and conflicting professional reviews."
+        }
+      ],
+      "quality": 4.8,
+      "dimensions": [
+        4.0,
+        6.5,
+        4.5,
+        6.0,
+        3.5,
+        3.4,
+        6.0
+      ],
+      "quality_rationale": "The full sample record supports developed aromatic flavor but substantial wood imbalance and weak texture. This below-average provisional judgment is confined to sparse evidence; it does not declare every bottle defective or establish a Canadian worst anchor.",
+      "value": 2.5,
+      "value_rationale": "At the official November 2022 USD 399 launch reference, the one authenticated tasting gives weak drinking support for the luxury premium. The reviewer’s actual USD 399 Virginia purchase strengthens the dated price context, not the sensory consensus. Collector resale interest is excluded.",
+      "pricing": {
+        "amount": 399,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2022-11-17",
+        "basis": "Historical official U.S. launch MSRP; actual October 2023 Virginia purchase corroborates the same amount",
+        "url": "https://www.prnewswire.com/news-releases/crown-royal-extends-higher-marques-portfolio-with-newest-aged-29-year-old-whisky-301681100.html"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 100,
+          "current_band": false,
+          "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 100,
+          "maximum_exclusive": 150,
+          "current_band": false,
+          "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 150,
+          "maximum_exclusive": 220,
+          "current_band": false,
+          "reason": "Fair only when the specific mature profile is worth the premium to you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 220,
+          "maximum_exclusive": 300,
+          "current_band": false,
+          "reason": "A sample is essential at this level because the available full tasting reports bitter oak and thin texture.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 300,
+          "maximum_exclusive": null,
+          "current_band": true,
+          "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small neat pour to test whether your bottle shares the reported wood bitterness."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+        }
+      ],
+      "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/57zNcIoUosUrR1hUJskLyn/efcd2084edee0de32a71e33e1ec89505/CROWN_ROYAL_29YR_EXTRA_RARE_BLENDED_CANADIAN_WHISKY__082000798132_FRONT_750ML.jpg__?fm=webp&w=650&q=75",
+      "image_source": "https://www.crownroyal.com/canadian-whisky/29yo",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "crown-royal-30-year",
+    "filename": "crown-royal-30-year.html",
+    "name": "Crown Royal 30 Year",
+    "family": "Crown Royal",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Crown Royal / Diageo; Coffey-still components and maturation at LaSalle documented by the producer",
+    "proof": 92,
+    "abv": 46.0,
+    "age": "30 Years",
+    "age_display": "30 Years",
+    "age_sort_years": 30,
+    "mash_bill_display": "Exact grain/component proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7.2,
+    "quality_score": 7.2,
+    "value": 3.7,
+    "value_score": 3.7,
+    "overall": 5.1613951602255765,
+    "overall_score": 5.1613951602255765,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 6.8,
+        "flavor_development": 7.5,
+        "finish": 7.5,
+        "technical_cleanliness": 6.8,
+        "texture": 7.4,
+        "maturity_wood_management": 6.5,
+        "distinctiveness": 7.6
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.115,
+      "editorial_adjustment": 0.085,
+      "adjustment_reason": "The evidence supports very good flavor development and texture, with disputed technical cleanliness, sweetness and oak balance. The provisional score retains both professional samples instead of allowing age or the highest external rating to select the result."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The evidence supports very good flavor development and texture, with disputed technical cleanliness, sweetness and oak balance. The provisional score retains both professional samples instead of allowing age or the highest external rating to select the result.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the official 2023 U.S. USD 499 / 750 mL launch MSRP, very good but disputed execution offers weak drinking Value relative to the much less costly 18 Year. The age-stated luxury role and ornate package do not substitute for proportional enjoyment.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 499.0,
+    "price_basis": "Historical official U.S. launch MSRP; present stock and regular price unverified",
+    "price_url": "https://www.multivu.com/players/English/9222251-crown-royal-aged-30-years-rare-blend/",
+    "price_period": "2023-11-01",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 499,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2023,
+    "release_scope": "Crown Royal Aged 30 Years Extra Rare, November 2023 Canadian blend, 46% ABV / 92 proof; the discovery ledger’s 80-proof lead is corrected.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.drinkhacker.com/2023/11/29/review-crown-royal-30-years-old/",
+      "https://whiskycast.com/ratings/crown-royal-aged-30-years/"
+    ],
+    "review_publishers": [
+      "Drinkhacker",
+      "WhiskyCast"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Christopher Null",
+        "publisher": "Drinkhacker",
+        "url": "https://www.drinkhacker.com/2023/11/29/review-crown-royal-30-years-old/",
+        "summary": "Null finds considerable sweetness, butter-like texture and aged-grain fruit, but also char/polish aromas and a medicinal edge. He sees the mature wood approaching the limit of pleasant development.",
+        "scope": "November 29, 2023; exact 30-year / 92-proof release, B+; USD 499 reference."
+      },
+      {
+        "reviewer": "Mark Gillespie",
+        "publisher": "WhiskyCast",
+        "url": "https://whiskycast.com/ratings/crown-royal-aged-30-years/",
+        "summary": "Gillespie finds rich flavor, well-managed sweetness and subtle spice, with a long and complex ending. This positive integration judgment is retained alongside the more critical sample.",
+        "scope": "January 2024; exact 30-year / 46% ABV release, 94 points."
+      }
+    ],
+    "source_urls": [
+      "https://www.crownroyal.com/canadian-whisky/crown-royal-30yo",
+      "https://www.multivu.com/players/English/9222251-crown-royal-aged-30-years-rare-blend/",
+      "https://www.drinkhacker.com/2023/11/29/review-crown-royal-30-years-old/",
+      "https://whiskycast.com/ratings/crown-royal-aged-30-years/"
+    ],
+    "production_summary": "The primary November 1, 2023 launch states each component was distilled in the brand’s Coffey still. The producer product page separately identifies aging in used barrels at LaSalle. Neither record authenticates a numerical mash bill. This release’s source and oak account are not copied to the 29, 31 or 32 Year merely because they share the Extra Rare name.",
+    "finishing_information": "Used-oak maturation at LaSalle; no additional cask finish documented",
+    "identity_note": null,
+    "history": [
+      "The November 1, 2023 primary announcement identifies the second Extra Rare Series release at USD 499 / 750 mL and 46% ABV. The exact producer photograph also reads 46%, resolving the seed’s incorrect 40% / 80-proof data.",
+      "Contemporary independent review and January 2024 tasting refer to this 30-year release. An extra year of label age does not imply that it is simply the previous 29-year blend aged one more year."
+    ],
+    "comparables": [
+      {
+        "name": "Crown Royal 29 Year Extra Rare",
+        "url": "crown-royal-29-year-extra-rare.html",
+        "reason": "The preceding release; different recipe/source detail is retained."
+      },
+      {
+        "name": "Crown Royal 31 Year",
+        "url": "crown-royal-31-year.html",
+        "reason": "The following year’s independently disputed mature-wood profile."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 180,
+        "current_band": false,
+        "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 180,
+        "maximum_exclusive": 250,
+        "current_band": false,
+        "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 250,
+        "maximum_exclusive": 350,
+        "current_band": false,
+        "reason": "Fair only when the specific mature profile is worth the premium to you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 350,
+        "maximum_exclusive": 500,
+        "current_band": true,
+        "reason": "Taste first: the reviews differ sharply on whether the mature sweetness and wood remain well integrated.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 500,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat and allow time for the char/polish aroma described in one sample to settle."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.crownroyal.com/canadian-whisky/crown-royal-30yo",
+        "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/5ftK5do6q8V01m336qjx7j/2d93a57761808a7bf8415493d24e50b6/collectionpage-30yr-2x.png?fm=webp&w=650&q=75",
+        "scope": "Crown Royal Aged 30 Years Extra Rare, November 2023 Canadian blend, 46% ABV / 92 proof; the discovery ledger’s 80-proof lead is corrected.",
+        "sha256": "7842943891c96ac4564e8d292e7fa4f78661c9f0d525e6edbe8360e0ea70cee7",
+        "image_embedded": true,
+        "width": 405,
+        "height": 600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Crown Royal Aged 30 Years Extra Rare, November 2023 Canadian blend, 46% ABV / 92 proof; the discovery ledger’s 80-proof lead is corrected.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-011",
+    "editorial": {
+      "id": "crown-royal-30-year",
+      "proof": 92,
+      "age": 30,
+      "release_year": 2023,
+      "producer": "Crown Royal / Diageo; Coffey-still components and maturation at LaSalle documented by the producer",
+      "identity": "Crown Royal Aged 30 Years Extra Rare, November 2023 Canadian blend, 46% ABV / 92 proof; the discovery ledger’s 80-proof lead is corrected.",
+      "short_version": "A mature Coffey-still blend with substantive but conflicting judgments about sweetness, wood and finish. Its thirty-year label is authenticated; it does not make the USD 499 launch price a bargain.",
+      "grain": "Exact grain/component proportions undisclosed",
+      "production": "The primary November 1, 2023 launch states each component was distilled in the brand’s Coffey still. The producer product page separately identifies aging in used barrels at LaSalle. Neither record authenticates a numerical mash bill. This release’s source and oak account are not copied to the 29, 31 or 32 Year merely because they share the Extra Rare name.",
+      "finish": "Used-oak maturation at LaSalle; no additional cask finish documented",
+      "history": [
+        "The November 1, 2023 primary announcement identifies the second Extra Rare Series release at USD 499 / 750 mL and 46% ABV. The exact producer photograph also reads 46%, resolving the seed’s incorrect 40% / 80-proof data.",
+        "Contemporary independent review and January 2024 tasting refer to this 30-year release. An extra year of label age does not imply that it is simply the previous 29-year blend aged one more year."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Christopher Null",
+          "publisher": "Drinkhacker",
+          "url": "https://www.drinkhacker.com/2023/11/29/review-crown-royal-30-years-old/",
+          "summary": "Null finds considerable sweetness, butter-like texture and aged-grain fruit, but also char/polish aromas and a medicinal edge. He sees the mature wood approaching the limit of pleasant development.",
+          "scope": "November 29, 2023; exact 30-year / 92-proof release, B+; USD 499 reference."
+        },
+        {
+          "reviewer": "Mark Gillespie",
+          "publisher": "WhiskyCast",
+          "url": "https://whiskycast.com/ratings/crown-royal-aged-30-years/",
+          "summary": "Gillespie finds rich flavor, well-managed sweetness and subtle spice, with a long and complex ending. This positive integration judgment is retained alongside the more critical sample.",
+          "scope": "January 2024; exact 30-year / 46% ABV release, 94 points."
+        }
+      ],
+      "sources": [
+        {
+          "title": "30 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-30yo",
+          "role": "Exact 46% identity, Coffey-still/LaSalle used-oak context and photograph."
+        },
+        {
+          "title": "30 Year primary launch release",
+          "url": "https://www.multivu.com/players/English/9222251-crown-royal-aged-30-years-rare-blend/",
+          "role": "November 1, 2023, Coffey components, 46% ABV and USD 499 / 750 mL MSRP."
+        },
+        {
+          "title": "30 Year — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2023/11/29/review-crown-royal-30-years-old/",
+          "role": "Full independent sweetness/wood counterevidence."
+        },
+        {
+          "title": "30 Year — WhiskyCast",
+          "url": "https://whiskycast.com/ratings/crown-royal-aged-30-years/",
+          "role": "Exact substantive independent positive tasting."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Crown Royal 29 Year Extra Rare",
+          "url": "crown-royal-29-year-extra-rare.html",
+          "reason": "The preceding release; different recipe/source detail is retained."
+        },
+        {
+          "name": "Crown Royal 31 Year",
+          "url": "crown-royal-31-year.html",
+          "reason": "The following year’s independently disputed mature-wood profile."
+        }
+      ],
+      "quality": 7.2,
+      "dimensions": [
+        6.8,
+        7.5,
+        7.5,
+        6.8,
+        7.4,
+        6.5,
+        7.6
+      ],
+      "quality_rationale": "The evidence supports very good flavor development and texture, with disputed technical cleanliness, sweetness and oak balance. The provisional score retains both professional samples instead of allowing age or the highest external rating to select the result.",
+      "value": 3.7,
+      "value_rationale": "At the official 2023 U.S. USD 499 / 750 mL launch MSRP, very good but disputed execution offers weak drinking Value relative to the much less costly 18 Year. The age-stated luxury role and ornate package do not substitute for proportional enjoyment.",
+      "pricing": {
+        "amount": 499,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2023-11-01",
+        "basis": "Historical official U.S. launch MSRP; present stock and regular price unverified",
+        "url": "https://www.multivu.com/players/English/9222251-crown-royal-aged-30-years-rare-blend/"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 180,
+          "current_band": false,
+          "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 180,
+          "maximum_exclusive": 250,
+          "current_band": false,
+          "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 250,
+          "maximum_exclusive": 350,
+          "current_band": false,
+          "reason": "Fair only when the specific mature profile is worth the premium to you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 350,
+          "maximum_exclusive": 500,
+          "current_band": true,
+          "reason": "Taste first: the reviews differ sharply on whether the mature sweetness and wood remain well integrated.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 500,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat and allow time for the char/polish aroma described in one sample to settle."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+        }
+      ],
+      "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/5ftK5do6q8V01m336qjx7j/2d93a57761808a7bf8415493d24e50b6/collectionpage-30yr-2x.png?fm=webp&w=650&q=75",
+      "image_source": "https://www.crownroyal.com/canadian-whisky/crown-royal-30yo",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "crown-royal-31-year",
+    "filename": "crown-royal-31-year.html",
+    "name": "Crown Royal 31 Year",
+    "family": "Crown Royal",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Crown Royal / Diageo; exact component distillation sources and grain percentages undisclosed for this release",
+    "proof": 92,
+    "abv": 46.0,
+    "age": "31 Years",
+    "age_display": "31 Years",
+    "age_sort_years": 31,
+    "mash_bill_display": "Exact grains and blend-component percentages undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.3,
+    "quality_score": 6.3,
+    "value": 2.8,
+    "value_score": 2.8,
+    "overall": 4.199999999999999,
+    "overall_score": 4.199999999999999,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 6.0,
+        "flavor_development": 6.5,
+        "finish": 6.0,
+        "technical_cleanliness": 6.0,
+        "texture": 6.8,
+        "maturity_wood_management": 5.5,
+        "distinctiveness": 7.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.18,
+      "editorial_adjustment": 0.12,
+      "adjustment_reason": "Developed fruit and texture are supported, but severe contrary wood/bitterness evidence lowers integration, cleanliness and maturity confidence. The resulting good provisional score keeps the professional disagreement visible; packaging and label age are excluded."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Developed fruit and texture are supported, but severe contrary wood/bitterness evidence lowers integration, cleanliness and maturity confidence. The resulting good provisional score keeps the professional disagreement visible; packaging and label age are excluded.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The official October 2024 U.S. USD 599 / 750 mL MSRP is difficult to defend for drinking when professional samples differ this much. Taste before buying; neither a thirty-one-year label nor limited allocation cures the reported oak bitterness.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 599.0,
+    "price_basis": "Historical official U.S. launch MSRP",
+    "price_url": "https://www.prnewswire.com/news-releases/crown-royal-reaches-new-pinnacle-of-luxury-canadian-whisky-with-introduction-of-crown-royal-aged-31-years-302271695.html",
+    "price_period": "2024-10-09",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 599,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2024,
+    "release_scope": "Crown Royal Aged 31 Years Extra Rare, October 2024 limited release, 46% ABV / 92 proof.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://whiskeyreviewer.com/2024/11/crown-royal-31-year-old-canadian-whisky-review-113024/",
+      "https://www.drinkhacker.com/2025/01/10/review-crown-royal-31-years-old-reserve-12-years-old-and-black-cherry-whisky-sour-2024/"
+    ],
+    "review_publishers": [
+      "The Whiskey Reviewer",
+      "Drinkhacker"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Richard Thomas",
+        "publisher": "The Whiskey Reviewer",
+        "url": "https://whiskeyreviewer.com/2024/11/crown-royal-31-year-old-canadian-whisky-review-113024/",
+        "summary": "Thomas finds subdued aroma but more developed fruit, silky sweetness and herbal/wood nuances on the palate. He considers it a sophisticated pour despite its high cost.",
+        "scope": "Exact 31-year / 46% release; article path is November 2024, but current page date furniture is inconsistent. A-."
+      },
+      {
+        "reviewer": "Christopher Null",
+        "publisher": "Drinkhacker",
+        "url": "https://www.drinkhacker.com/2025/01/10/review-crown-royal-31-years-old-reserve-12-years-old-and-black-cherry-whisky-sour-2024/",
+        "summary": "Null reports toasted-nut and asphalt-like aromas, bitter oak and a strongly industrial ending. Late fruit and nut notes do not resolve his concerns about barrel dominance.",
+        "scope": "January 10, 2025; exact 2024 31-year / 92-proof release, B-. The adjacent Reserve 12 and ready-to-drink sour reviews are excluded."
+      }
+    ],
+    "source_urls": [
+      "https://www.crownroyal.com/canadian-whisky/31yo",
+      "https://www.prnewswire.com/news-releases/crown-royal-reaches-new-pinnacle-of-luxury-canadian-whisky-with-introduction-of-crown-royal-aged-31-years-302271695.html",
+      "https://whiskeyreviewer.com/2024/11/crown-royal-31-year-old-canadian-whisky-review-113024/",
+      "https://www.drinkhacker.com/2025/01/10/review-crown-royal-31-years-old-reserve-12-years-old-and-black-cherry-whisky-sour-2024/"
+    ],
+    "production_summary": "The primary release identifies a thirty-one-year Canadian blend selected by master blender Mark Balkenende at 46% ABV. The exact grain proportions, oak inventory and component source locations are not authenticated. The 30 Year’s Coffey-still/LaSalle specification is not automatically transferred to this different edition.",
+    "finishing_information": "Oak maturation; separate finish and precise oak mix not documented",
+    "identity_note": null,
+    "history": [
+      "The October 9, 2024 producer announcement gives a limited regional U.S. release and USD 599 / 750 mL MSRP. The front photograph and producer text agree on 46% ABV.",
+      "The positive review is scoped to the 2024 release; its migrated page now has later date furniture. Drinkhacker’s January 10, 2025 review explicitly assesses the 2024 31 Year. Neither review is borrowed from 30 or 32 Year."
+    ],
+    "comparables": [
+      {
+        "name": "Crown Royal 30 Year",
+        "url": "crown-royal-30-year.html",
+        "reason": "The preceding edition with sweeter reported samples; no identical recipe assumed."
+      },
+      {
+        "name": "Crown Royal 32 Year",
+        "url": "crown-royal-32-year.html",
+        "reason": "A subsequent sample that the same critic finds more integrated."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 150,
+        "current_band": false,
+        "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 150,
+        "maximum_exclusive": 225,
+        "current_band": false,
+        "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 225,
+        "maximum_exclusive": 325,
+        "current_band": false,
+        "reason": "Fair only when the specific mature profile is worth the premium to you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 325,
+        "maximum_exclusive": 450,
+        "current_band": false,
+        "reason": "At this premium, a tasted exact bottle is essential because the critics disagree on fundamental wood and technical quality.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 450,
+        "maximum_exclusive": null,
+        "current_band": true,
+        "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small neat sample to judge whether wood and industrial bitterness dominate your bottle."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.crownroyal.com/canadian-whisky/31yo",
+        "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/5nvdUBwtCCLcioOlmBMBpC/4e8ce80c1fb3c6c172d6766c5341f576/CROWN_ROYAL_31YR_EXTRA_RARE_BLENDED_CANADIAN_WHISKY__082000798132_FRONT_750ML.jpg?fm=webp&w=650&q=75",
+        "scope": "Crown Royal Aged 31 Years Extra Rare, October 2024 limited release, 46% ABV / 92 proof.",
+        "sha256": "fc1ccf22b9fc1d324e85e062eedb714e1931737ad458306650ffb34826de990c",
+        "image_embedded": true,
+        "width": 650,
+        "height": 650
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Crown Royal Aged 31 Years Extra Rare, October 2024 limited release, 46% ABV / 92 proof.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-011",
+    "editorial": {
+      "id": "crown-royal-31-year",
+      "proof": 92,
+      "age": 31,
+      "release_year": 2024,
+      "producer": "Crown Royal / Diageo; exact component distillation sources and grain percentages undisclosed for this release",
+      "identity": "Crown Royal Aged 31 Years Extra Rare, October 2024 limited release, 46% ABV / 92 proof.",
+      "short_version": "A mature Canadian blend with materially divided professional evidence: one critic finds silky developing fruit, another aggressive wood and industrial bitterness. The thirty-one-year age remains a specification, not a Quality shortcut.",
+      "grain": "Exact grains and blend-component percentages undisclosed",
+      "production": "The primary release identifies a thirty-one-year Canadian blend selected by master blender Mark Balkenende at 46% ABV. The exact grain proportions, oak inventory and component source locations are not authenticated. The 30 Year’s Coffey-still/LaSalle specification is not automatically transferred to this different edition.",
+      "finish": "Oak maturation; separate finish and precise oak mix not documented",
+      "history": [
+        "The October 9, 2024 producer announcement gives a limited regional U.S. release and USD 599 / 750 mL MSRP. The front photograph and producer text agree on 46% ABV.",
+        "The positive review is scoped to the 2024 release; its migrated page now has later date furniture. Drinkhacker’s January 10, 2025 review explicitly assesses the 2024 31 Year. Neither review is borrowed from 30 or 32 Year."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Richard Thomas",
+          "publisher": "The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2024/11/crown-royal-31-year-old-canadian-whisky-review-113024/",
+          "summary": "Thomas finds subdued aroma but more developed fruit, silky sweetness and herbal/wood nuances on the palate. He considers it a sophisticated pour despite its high cost.",
+          "scope": "Exact 31-year / 46% release; article path is November 2024, but current page date furniture is inconsistent. A-."
+        },
+        {
+          "reviewer": "Christopher Null",
+          "publisher": "Drinkhacker",
+          "url": "https://www.drinkhacker.com/2025/01/10/review-crown-royal-31-years-old-reserve-12-years-old-and-black-cherry-whisky-sour-2024/",
+          "summary": "Null reports toasted-nut and asphalt-like aromas, bitter oak and a strongly industrial ending. Late fruit and nut notes do not resolve his concerns about barrel dominance.",
+          "scope": "January 10, 2025; exact 2024 31-year / 92-proof release, B-. The adjacent Reserve 12 and ready-to-drink sour reviews are excluded."
+        }
+      ],
+      "sources": [
+        {
+          "title": "31 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/31yo",
+          "role": "Exact age/strength and verified photograph."
+        },
+        {
+          "title": "31 Year primary release announcement",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-reaches-new-pinnacle-of-luxury-canadian-whisky-with-introduction-of-crown-royal-aged-31-years-302271695.html",
+          "role": "October 9, 2024 edition, blender, limited markets and USD 599 / 750 mL MSRP."
+        },
+        {
+          "title": "31 Year — The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2024/11/crown-royal-31-year-old-canadian-whisky-review-113024/",
+          "role": "Substantive positive exact tasting; migrated page-date limitation recorded."
+        },
+        {
+          "title": "31 Year — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2025/01/10/review-crown-royal-31-years-old-reserve-12-years-old-and-black-cherry-whisky-sour-2024/",
+          "role": "Full independent wood/technical-defect counterevidence scoped to the 31 Year section."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Crown Royal 30 Year",
+          "url": "crown-royal-30-year.html",
+          "reason": "The preceding edition with sweeter reported samples; no identical recipe assumed."
+        },
+        {
+          "name": "Crown Royal 32 Year",
+          "url": "crown-royal-32-year.html",
+          "reason": "A subsequent sample that the same critic finds more integrated."
+        }
+      ],
+      "quality": 6.3,
+      "dimensions": [
+        6.0,
+        6.5,
+        6.0,
+        6.0,
+        6.8,
+        5.5,
+        7.0
+      ],
+      "quality_rationale": "Developed fruit and texture are supported, but severe contrary wood/bitterness evidence lowers integration, cleanliness and maturity confidence. The resulting good provisional score keeps the professional disagreement visible; packaging and label age are excluded.",
+      "value": 2.8,
+      "value_rationale": "The official October 2024 U.S. USD 599 / 750 mL MSRP is difficult to defend for drinking when professional samples differ this much. Taste before buying; neither a thirty-one-year label nor limited allocation cures the reported oak bitterness.",
+      "pricing": {
+        "amount": 599,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2024-10-09",
+        "basis": "Historical official U.S. launch MSRP",
+        "url": "https://www.prnewswire.com/news-releases/crown-royal-reaches-new-pinnacle-of-luxury-canadian-whisky-with-introduction-of-crown-royal-aged-31-years-302271695.html"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 150,
+          "current_band": false,
+          "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 150,
+          "maximum_exclusive": 225,
+          "current_band": false,
+          "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 225,
+          "maximum_exclusive": 325,
+          "current_band": false,
+          "reason": "Fair only when the specific mature profile is worth the premium to you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 325,
+          "maximum_exclusive": 450,
+          "current_band": false,
+          "reason": "At this premium, a tasted exact bottle is essential because the critics disagree on fundamental wood and technical quality.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 450,
+          "maximum_exclusive": null,
+          "current_band": true,
+          "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small neat sample to judge whether wood and industrial bitterness dominate your bottle."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+        }
+      ],
+      "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/5nvdUBwtCCLcioOlmBMBpC/4e8ce80c1fb3c6c172d6766c5341f576/CROWN_ROYAL_31YR_EXTRA_RARE_BLENDED_CANADIAN_WHISKY__082000798132_FRONT_750ML.jpg?fm=webp&w=650&q=75",
+      "image_source": "https://www.crownroyal.com/canadian-whisky/31yo",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "crown-royal-32-year",
+    "filename": "crown-royal-32-year.html",
+    "name": "Crown Royal 32 Year",
+    "family": "Crown Royal",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Crown Royal / Diageo; exact component distillation sources and blend ratios undisclosed",
+    "proof": 92,
+    "abv": 46.0,
+    "age": "32 Years",
+    "age_display": "32 Years",
+    "age_sort_years": 32,
+    "mash_bill_display": "Exact grains and component proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7.6,
+    "quality_score": 7.6,
+    "value": 3.2,
+    "value_score": 3.2,
+    "overall": 4.931531202375181,
+    "overall_score": 4.931531202375181,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 7.4,
+        "flavor_development": 8.0,
+        "finish": 7.2,
+        "technical_cleanliness": 8.0,
+        "texture": 7.4,
+        "maturity_wood_management": 7.5,
+        "distinctiveness": 8.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.62,
+      "editorial_adjustment": -0.02,
+      "adjustment_reason": "The full exact review supports very good flavor development, improved wood integration and a clean developed ending. A single favorable record remains provisional and does not establish a native 10 anchor or validate all bottles."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The full exact review supports very good flavor development, improved wood integration and a clean developed ending. A single favorable record remains provisional and does not establish a native 10 anchor or validate all bottles.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The dated July 2026 U.S. reference is USD 750 for the verified 750 mL identity. Better integration than the earlier reviewed editions is welcome, but it provides weak drinking support for a higher luxury premium. A sample should precede a full-bottle purchase.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 750.0,
+    "price_basis": "Dated U.S. price reference in the full July 2026 review; current regular shelf price and stock not guaranteed",
+    "price_url": "https://www.drinkhacker.com/2026/07/31/review-crown-royal-32-years-old/",
+    "price_period": "2026-07-31",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 750,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Crown Royal Aged 32 Years Extra Rare, 2025–2026 documented edition, 46% ABV / 92 proof; exact front label verified.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.drinkhacker.com/2026/07/31/review-crown-royal-32-years-old/"
+    ],
+    "review_publishers": [
+      "Drinkhacker"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Christopher Null",
+        "publisher": "Drinkhacker",
+        "url": "https://www.drinkhacker.com/2026/07/31/review-crown-royal-32-years-old/",
+        "summary": "Null finds better refinement than the prior ultra-aged samples, with developing citrus, floral and nut-like notes. He reports a sharper palate than the aroma suggests but a clean, substantial ending, with earlier creosote-like character largely absent.",
+        "scope": "July 31, 2026; full exact 32-year / 92-proof tasting, A-."
+      }
+    ],
+    "source_urls": [
+      "https://www.crownroyal.com/canadian-whisky/32yo",
+      "https://www.drinkhacker.com/2026/07/31/review-crown-royal-32-years-old/",
+      "https://www.ohlq.com/liquor/whiskey/canadian/blend/crown-royal-32yo",
+      "https://concierge.totalwine.com/product/crown-royal-aged-32-years-extra-rare-blended-canadian-whisky"
+    ],
+    "production_summary": "The producer and exact front label establish thirty-two years and 46% ABV. The producer page has a contradictory 36% footer; that line is not used. Ohio’s exact product listing and the July 2026 independent review corroborate 46% / 92 proof, correcting the ledger’s 46.5% / 93-proof lead. Specific component sources, grain percentages, oak mix and a separate finishing stage are not authenticated.",
+    "finishing_information": "Oak maturation; no distinct additional finish authenticated",
+    "identity_note": null,
+    "history": [
+      "A U.S. retail archive advertised pre-arrival for Winter 2025; a full independent review is dated July 31, 2026. These establish a documented 2025–2026 edition era, without inventing a precise first-shipment date.",
+      "The July 2026 review gives a U.S. USD 750 price reference. The reviewed sample’s improvement over earlier editions is the critic’s observation, not proof of identical stock or a universal outcome for every bottle."
+    ],
+    "comparables": [
+      {
+        "name": "Crown Royal 31 Year",
+        "url": "crown-royal-31-year.html",
+        "reason": "The same critic’s materially less favorable previous mature-wood sample."
+      },
+      {
+        "name": "Crown Royal 30 Year",
+        "url": "crown-royal-30-year.html",
+        "reason": "Separate thirty-year edition with fuller review coverage and a lower launch price."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 200,
+        "current_band": false,
+        "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 200,
+        "maximum_exclusive": 300,
+        "current_band": false,
+        "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 300,
+        "maximum_exclusive": 425,
+        "current_band": false,
+        "reason": "Fair only when the specific mature profile is worth the premium to you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 425,
+        "maximum_exclusive": 600,
+        "current_band": false,
+        "reason": "At this level, taste the exact bottle rather than paying for the oldest-label distinction.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 600,
+        "maximum_exclusive": null,
+        "current_band": true,
+        "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to test the citrus/floral development and cleaner wood described in the full review."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.crownroyal.com/canadian-whisky/32yo",
+        "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/1OwzADWQxz1j6G5NnGDJGH/2b3d48919f0e2d8baf53d4ee45c06d82/aged-32-years.jpg?fm=webp&w=650&q=75",
+        "scope": "Crown Royal Aged 32 Years Extra Rare, 2025–2026 documented edition, 46% ABV / 92 proof; exact front label verified.",
+        "sha256": "b52ca39a97fe34eb8d4ba5726bcf31252dfe95950b87caf0c57b7ee6e04211af",
+        "image_embedded": true,
+        "width": 650,
+        "height": 650
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Crown Royal Aged 32 Years Extra Rare, 2025–2026 documented edition, 46% ABV / 92 proof; exact front label verified.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-011",
+    "editorial": {
+      "id": "crown-royal-32-year",
+      "proof": 92,
+      "age": 32,
+      "release_year": null,
+      "producer": "Crown Royal / Diageo; exact component distillation sources and blend ratios undisclosed",
+      "identity": "Crown Royal Aged 32 Years Extra Rare, 2025–2026 documented edition, 46% ABV / 92 proof; exact front label verified.",
+      "short_version": "A more successfully integrated ultra-aged Crown in the inspected 2026 review, with developed fruit and a clean ending. Its high U.S. price remains a separate weakness; the label resolves conflicting online strength leads.",
+      "grain": "Exact grains and component proportions undisclosed",
+      "production": "The producer and exact front label establish thirty-two years and 46% ABV. The producer page has a contradictory 36% footer; that line is not used. Ohio’s exact product listing and the July 2026 independent review corroborate 46% / 92 proof, correcting the ledger’s 46.5% / 93-proof lead. Specific component sources, grain percentages, oak mix and a separate finishing stage are not authenticated.",
+      "finish": "Oak maturation; no distinct additional finish authenticated",
+      "history": [
+        "A U.S. retail archive advertised pre-arrival for Winter 2025; a full independent review is dated July 31, 2026. These establish a documented 2025–2026 edition era, without inventing a precise first-shipment date.",
+        "The July 2026 review gives a U.S. USD 750 price reference. The reviewed sample’s improvement over earlier editions is the critic’s observation, not proof of identical stock or a universal outcome for every bottle."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Christopher Null",
+          "publisher": "Drinkhacker",
+          "url": "https://www.drinkhacker.com/2026/07/31/review-crown-royal-32-years-old/",
+          "summary": "Null finds better refinement than the prior ultra-aged samples, with developing citrus, floral and nut-like notes. He reports a sharper palate than the aroma suggests but a clean, substantial ending, with earlier creosote-like character largely absent.",
+          "scope": "July 31, 2026; full exact 32-year / 92-proof tasting, A-."
+        }
+      ],
+      "sources": [
+        {
+          "title": "32 Year producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/32yo",
+          "role": "Exact edition photograph and age; 46% header/schema corroborated, contradictory footer rejected."
+        },
+        {
+          "title": "32 Year — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2026/07/31/review-crown-royal-32-years-old/",
+          "role": "Full independent 2026 tasting, 92-proof corroboration and USD 750 dated U.S. reference."
+        },
+        {
+          "title": "32 Year — Ohio Liquor",
+          "url": "https://www.ohlq.com/liquor/whiskey/canadian/blend/crown-royal-32yo",
+          "role": "Exact indexed 750 mL / 46% / 92-proof record; direct text render was unavailable."
+        },
+        {
+          "title": "32 Year — Total Wine Concierge archive",
+          "url": "https://concierge.totalwine.com/product/crown-royal-aged-32-years-extra-rare-blended-canadian-whisky",
+          "role": "Winter 2025 pre-arrival record establishes documented era, not current availability."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Crown Royal 31 Year",
+          "url": "crown-royal-31-year.html",
+          "reason": "The same critic’s materially less favorable previous mature-wood sample."
+        },
+        {
+          "name": "Crown Royal 30 Year",
+          "url": "crown-royal-30-year.html",
+          "reason": "Separate thirty-year edition with fuller review coverage and a lower launch price."
+        }
+      ],
+      "quality": 7.6,
+      "dimensions": [
+        7.4,
+        8.0,
+        7.2,
+        8.0,
+        7.4,
+        7.5,
+        8.0
+      ],
+      "quality_rationale": "The full exact review supports very good flavor development, improved wood integration and a clean developed ending. A single favorable record remains provisional and does not establish a native 10 anchor or validate all bottles.",
+      "value": 3.2,
+      "value_rationale": "The dated July 2026 U.S. reference is USD 750 for the verified 750 mL identity. Better integration than the earlier reviewed editions is welcome, but it provides weak drinking support for a higher luxury premium. A sample should precede a full-bottle purchase.",
+      "pricing": {
+        "amount": 750,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-07-31",
+        "basis": "Dated U.S. price reference in the full July 2026 review; current regular shelf price and stock not guaranteed",
+        "url": "https://www.drinkhacker.com/2026/07/31/review-crown-royal-32-years-old/"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 200,
+          "current_band": false,
+          "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 200,
+          "maximum_exclusive": 300,
+          "current_band": false,
+          "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 300,
+          "maximum_exclusive": 425,
+          "current_band": false,
+          "reason": "Fair only when the specific mature profile is worth the premium to you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 425,
+          "maximum_exclusive": 600,
+          "current_band": false,
+          "reason": "At this level, taste the exact bottle rather than paying for the oldest-label distinction.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 600,
+          "maximum_exclusive": null,
+          "current_band": true,
+          "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to test the citrus/floral development and cleaner wood described in the full review."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a few drops before a cube; age and bottling strength do not guarantee that extra dilution helps."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Manhattan is an editorial option, but start with a small neat sample before buying a scarce bottle."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda highball is possible; a more affordable Canadian blend is a practical choice for heavy mixing."
+        }
+      ],
+      "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/1OwzADWQxz1j6G5NnGDJGH/2b3d48919f0e2d8baf53d4ee45c06d82/aged-32-years.jpg?fm=webp&w=650&q=75",
+      "image_source": "https://www.crownroyal.com/canadian-whisky/32yo",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "crown-royal-black",
+    "filename": "crown-royal-black.html",
+    "name": "Crown Royal Black",
+    "family": "Crown Royal",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Crown Royal / Diageo; Canadian blended whisky",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian whisky blend; exact grain/component percentages undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.7,
+    "quality_score": 5.7,
+    "value": 5.0,
+    "value_score": 5.0,
+    "overall": 5.338539126015656,
+    "overall_score": 5.338539126015656,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 5.8,
+        "flavor_development": 5.2,
+        "finish": 6.0,
+        "technical_cleanliness": 6.2,
+        "texture": 5.1,
+        "maturity_wood_management": 5.6,
+        "distinctiveness": 6.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.705,
+      "editorial_adjustment": -0.005,
+      "adjustment_reason": "The matched records support character and persistent spice, but disputed body, strong wood and modest complexity keep the provisional assessment below a confident good ranking. Bourbon-like flavors do not change the Canadian calibration category."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The matched records support character and persistent spice, but disputed body, strong wood and modest complexity keep the provisional assessment below a confident good ranking. Bourbon-like flavors do not change the Canadian calibration category.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the verified August 2026 NC USD 37.95 / 750 mL price, Value is conditional on enjoying the heavier oak. The researched Canadian Club Reserve 9 at USD 16.95 and Classic 12 at USD 24.95 offer lower-cost Canadian-blend comparisons; stronger proof alone does not justify the premium.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 37.95,
+    "price_basis": "NC ABC regular August–October 2026 retail price, checked October 14",
+    "price_url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+    "price_period": "2026-08-01",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 37.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 37.95,
+    "nc_code": "37-897",
+    "nc_listing_status": "Exact 750 mL regular entry; shelf stock is not guaranteed.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2010,
+    "release_scope": "Crown Royal Black, recurring NAS Canadian blend, 45% ABV / 90 proof; current expression photograph verified.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.drinkhacker.com/2010/10/04/review-crown-royal-black-canadian-whisky/",
+      "https://whiskeyreviewer.com/2014/07/crown-royal-black-canadian-whisky-review_072114/"
+    ],
+    "review_publishers": [
+      "Drinkhacker",
+      "The Whiskey Reviewer"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Christopher Null",
+        "publisher": "Drinkhacker",
+        "url": "https://www.drinkhacker.com/2010/10/04/review-crown-royal-black-canadian-whisky/",
+        "summary": "Null finds intense wood, sweet fruit and spice, with a persistent ash-like ending. He sees an unusual workable balance but expects the oak to overwhelm some drinkers.",
+        "scope": "October 4, 2010; exact Black 90-proof sample, B+."
+      },
+      {
+        "reviewer": "Richard Thomas",
+        "publisher": "The Whiskey Reviewer",
+        "url": "https://whiskeyreviewer.com/2014/07/crown-royal-black-canadian-whisky-review_072114/",
+        "summary": "Thomas finds a surprisingly light texture and straightforward sweet/spicy flavors, despite a long warm finish. He is much less persuaded by the robust billing and its price.",
+        "scope": "July 2014; exact Black 45% ABV sample, C+."
+      }
+    ],
+    "source_urls": [
+      "https://www.crownroyal.com/canadian-whisky/crown-royal-black",
+      "https://www.drinkhacker.com/2010/10/04/review-crown-royal-black-canadian-whisky/",
+      "https://whiskeyreviewer.com/2014/07/crown-royal-black-canadian-whisky-review_072114/",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "The producer authenticates 45% ABV and a more robust blend. Independent production accounts describe a greater role for whiskies matured in charred/new American oak and a higher strength than Deluxe. A numerical mash bill, age statement, universal char level or separate recasking duration is not established.",
+    "finishing_information": "Oak maturation with reported increased charred/new-oak component influence; no additional finish authenticated",
+    "identity_note": null,
+    "history": [
+      "The 2010 independent launch-era review establishes the recurring Black identity. It is a separate formula/strength, not a packaging-only version of Deluxe.",
+      "NC’s August–October 2026 standard 750 mL entry is code 37-897 at USD 37.95 and 90 proof. Other bottle sizes do not receive new dossiers."
+    ],
+    "comparables": [
+      {
+        "name": "Canadian Club Reserve 9 Year",
+        "url": "canadian-club-reserve-9-year.html",
+        "reason": "Less expensive Canadian blend with spicy/body evidence; not the same oak emphasis."
+      },
+      {
+        "name": "Canadian Club Classic 12 Year",
+        "url": "canadian-club-classic-12-year.html",
+        "reason": "Another accessible Canadian blend with differing texture and wood judgments."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 25,
+        "maximum_exclusive": 32,
+        "current_band": false,
+        "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 32,
+        "maximum_exclusive": 40,
+        "current_band": true,
+        "reason": "Fair only when the specific mature profile is worth the premium to you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 40,
+        "maximum_exclusive": 48,
+        "current_band": false,
+        "reason": "Taste first: heavier oak and ninety proof are not a universal improvement.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 48,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to check whether the wood intensity suits you."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "A cube can test whether the lighter-texture sample becomes too dilute."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Use restrained sweetening around the documented wood and spice."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short ginger highball can suit the robust profile; compare cheaper Canadian blends for heavy mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.crownroyal.com/canadian-whisky/crown-royal-black",
+        "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/QtEDCC1fwvletzY1gQofh/1f40f09b7580db98e4fbc8f666e95e05/CR_Black.png?fm=webp&w=650&q=75",
+        "scope": "Crown Royal Black, recurring NAS Canadian blend, 45% ABV / 90 proof; current expression photograph verified.",
+        "sha256": "a1746260b798e3e60d1663654edae580103af8fcfde85782522a44734d4ec443",
+        "image_embedded": true,
+        "width": 650,
+        "height": 965
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Crown Royal Black, recurring NAS Canadian blend, 45% ABV / 90 proof; current expression photograph verified.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-011",
+    "editorial": {
+      "id": "crown-royal-black",
+      "proof": 90,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2010,
+      "producer": "Crown Royal / Diageo; Canadian blended whisky",
+      "identity": "Crown Royal Black, recurring NAS Canadian blend, 45% ABV / 90 proof; current expression photograph verified.",
+      "short_version": "A more wood-driven, higher-proof Crown Royal with divided texture evidence. Its oak-heavy style is a preference test, while modest complexity and the current NC premium temper the score.",
+      "grain": "Canadian whisky blend; exact grain/component percentages undisclosed",
+      "production": "The producer authenticates 45% ABV and a more robust blend. Independent production accounts describe a greater role for whiskies matured in charred/new American oak and a higher strength than Deluxe. A numerical mash bill, age statement, universal char level or separate recasking duration is not established.",
+      "finish": "Oak maturation with reported increased charred/new-oak component influence; no additional finish authenticated",
+      "history": [
+        "The 2010 independent launch-era review establishes the recurring Black identity. It is a separate formula/strength, not a packaging-only version of Deluxe.",
+        "NC’s August–October 2026 standard 750 mL entry is code 37-897 at USD 37.95 and 90 proof. Other bottle sizes do not receive new dossiers."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Christopher Null",
+          "publisher": "Drinkhacker",
+          "url": "https://www.drinkhacker.com/2010/10/04/review-crown-royal-black-canadian-whisky/",
+          "summary": "Null finds intense wood, sweet fruit and spice, with a persistent ash-like ending. He sees an unusual workable balance but expects the oak to overwhelm some drinkers.",
+          "scope": "October 4, 2010; exact Black 90-proof sample, B+."
+        },
+        {
+          "reviewer": "Richard Thomas",
+          "publisher": "The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2014/07/crown-royal-black-canadian-whisky-review_072114/",
+          "summary": "Thomas finds a surprisingly light texture and straightforward sweet/spicy flavors, despite a long warm finish. He is much less persuaded by the robust billing and its price.",
+          "scope": "July 2014; exact Black 45% ABV sample, C+."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Black producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-black",
+          "role": "Current exact strength and verified expression photograph."
+        },
+        {
+          "title": "Black — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2010/10/04/review-crown-royal-black-canadian-whisky/",
+          "role": "Substantive favorable-but-oak-heavy sample."
+        },
+        {
+          "title": "Black — The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2014/07/crown-royal-black-canadian-whisky-review_072114/",
+          "role": "Full independent texture/complexity counterevidence."
+        },
+        {
+          "title": "NC August–October 2026 list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 37-897, 90 proof, 750 mL, USD 37.95 regular price."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Canadian Club Reserve 9 Year",
+          "url": "canadian-club-reserve-9-year.html",
+          "reason": "Less expensive Canadian blend with spicy/body evidence; not the same oak emphasis."
+        },
+        {
+          "name": "Canadian Club Classic 12 Year",
+          "url": "canadian-club-classic-12-year.html",
+          "reason": "Another accessible Canadian blend with differing texture and wood judgments."
+        }
+      ],
+      "quality": 5.7,
+      "dimensions": [
+        5.8,
+        5.2,
+        6.0,
+        6.2,
+        5.1,
+        5.6,
+        6.3
+      ],
+      "quality_rationale": "The matched records support character and persistent spice, but disputed body, strong wood and modest complexity keep the provisional assessment below a confident good ranking. Bourbon-like flavors do not change the Canadian calibration category.",
+      "value": 5.0,
+      "value_rationale": "At the verified August 2026 NC USD 37.95 / 750 mL price, Value is conditional on enjoying the heavier oak. The researched Canadian Club Reserve 9 at USD 16.95 and Classic 12 at USD 24.95 offer lower-cost Canadian-blend comparisons; stronger proof alone does not justify the premium.",
+      "pricing": {
+        "amount": 37.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-08-01",
+        "basis": "NC ABC regular August–October 2026 retail price, checked October 14",
+        "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+        "effective": "2026-08-01",
+        "nc_code": "37-897",
+        "nc_status": "Exact 750 mL regular entry; shelf stock is not guaranteed."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "An attractive drinking budget only after confirming the exact bottle is sound and suits you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 25,
+          "maximum_exclusive": 32,
+          "current_band": false,
+          "reason": "A comfortable budget for the documented flavor, independent of luxury packaging.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 32,
+          "maximum_exclusive": 40,
+          "current_band": true,
+          "reason": "Fair only when the specific mature profile is worth the premium to you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 40,
+          "maximum_exclusive": 48,
+          "current_band": false,
+          "reason": "Taste first: heavier oak and ninety proof are not a universal improvement.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 48,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value at this level; extra age, packaging and scarcity do not themselves improve the taste.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to check whether the wood intensity suits you."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "A cube can test whether the lighter-texture sample becomes too dilute."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Use restrained sweetening around the documented wood and spice."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short ginger highball can suit the robust profile; compare cheaper Canadian blends for heavy mixing."
+        }
+      ],
+      "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/QtEDCC1fwvletzY1gQofh/1f40f09b7580db98e4fbc8f666e95e05/CR_Black.png?fm=webp&w=650&q=75",
+      "image_source": "https://www.crownroyal.com/canadian-whisky/crown-royal-black",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "crown-royal-blackberry",
+    "filename": "crown-royal-blackberry.html",
+    "name": "Crown Royal Blackberry",
+    "family": "Crown Royal",
+    "portfolio": null,
+    "category": "Flavored whiskey",
+    "subcategory": "Flavored whiskey",
+    "producer": "Crown Royal / Diageo; blackberry flavored Canadian-whisky-based product",
+    "proof": 70,
+    "abv": 35.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian whisky base infused with blackberry flavor; exact grains, flavor composition and sweetening levels undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.2,
+    "quality_score": 6.2,
+    "value": 5.6,
+    "value_score": 5.6,
+    "overall": 5.892367945062494,
+    "overall_score": 5.892367945062494,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 6.2,
+        "flavor_development": 5.8,
+        "finish": 5.8,
+        "technical_cleanliness": 6.8,
+        "texture": 6.0,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 6.7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.115,
+      "editorial_adjustment": 0.085,
+      "adjustment_reason": "Sweet-tart balance and useful cocktail execution support good flavored-whiskey Quality. Modest whisky definition and depth limit the judgment. Unmodified Canadian blends, American rye and bourbon anchors are not substituted."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Sweet-tart balance and useful cocktail execution support good flavored-whiskey Quality. Modest whisky definition and depth limit the judgment. Unmodified Canadian blends, American rye and bourbon anchors are not substituted.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The verified August 2026 NC price is USD 32.95 / 750 mL, above the independently documented 2024 USD 26.99 purchase. Its specific lemonade/cocktail utility can justify a fair buy, but the sources do not support paying a scarcity premium.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 32.95,
+    "price_basis": "NC ABC regular August–October 2026 retail price, checked October 14",
+    "price_url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+    "price_period": "2026-08-01",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 32.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 32.95,
+    "nc_code": "37-908",
+    "nc_listing_status": "Exact 750 mL regular entry; shelf stock is not guaranteed.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2024,
+    "release_scope": "Crown Royal Blackberry Flavored Whisky, 35% ABV / 70 proof, introduced in the 2024 era; excludes packaged ready-to-drink cocktails.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://distiller.com/spirits/crown-royal-blackberry",
+      "https://thewhiskeywench.com/2024/02/26/crown-royal-blackberry-flavored-whisky/"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "The Whiskey Wench"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Stephanie Moreno",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/crown-royal-blackberry",
+        "summary": "Moreno finds tart berry flavor with modest grain and oak-spice definition. She regards cocktails as the best use and notes a somewhat slick texture.",
+        "scope": "Exact 35% ABV Blackberry expert tasting; 79 points."
+      },
+      {
+        "reviewer": "Whiskey Wench",
+        "publisher": "The Whiskey Wench",
+        "url": "https://thewhiskeywench.com/2024/02/26/crown-royal-blackberry-flavored-whisky/",
+        "summary": "The reviewer finds sweet fruit and vanilla balanced by tartness, preferring the expression with lemonade rather than neat. The independent purchased-bottle report supplies specific mixed-drink evidence.",
+        "scope": "February 26, 2024; exact 35% ABV Blackberry, USD 26.99 paid; not a ready-to-drink bottle."
+      }
+    ],
+    "source_urls": [
+      "https://www.crownroyal.com/canadian-whisky/blackberry",
+      "https://distiller.com/spirits/crown-royal-blackberry",
+      "https://thewhiskeywench.com/2024/02/26/crown-royal-blackberry-flavored-whisky/",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "The producer authenticates a selection of Crown Royal whiskies infused with blackberry flavor at 35% ABV. Flavor infusion is not a blackberry-cask finish, and the lower-strength flavored product is not silently described as an unmodified Canadian blend. Exact base mash percentages and sugar dosage are not documented.",
+    "finishing_information": "Blackberry flavor infusion; not a cask-finishing stage",
+    "identity_note": null,
+    "history": [
+      "The inspected professional record documents nationwide March 2024 availability at USD 26.99 suggested retail, while the independent February 2024 purchased-bottle review shows some earlier retail access. A precise first shipment day is not invented.",
+      "The original release was marketed as limited/seasonal. NC’s 2026 list establishes later multi-size listings, including the standard 750 mL at USD 32.95; that does not prove permanent uninterrupted production."
+    ],
+    "comparables": [
+      {
+        "name": "Canadian Club Blackberry",
+        "url": "canadian-club-blackberry.html",
+        "reason": "A separately researched blackberry flavored whisky; compare sweetness and mixer behavior."
+      },
+      {
+        "name": "Black Velvet Apple",
+        "url": "black-velvet-apple.html",
+        "reason": "Another flavored-whisky category comparison, with different fruit identity."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 22,
+        "current_band": false,
+        "reason": "Strong mixer Value if the sweetness suits your intended drink.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 22,
+        "maximum_exclusive": 28,
+        "current_band": false,
+        "reason": "Near the authenticated original retail level.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 28,
+        "maximum_exclusive": 35,
+        "current_band": true,
+        "reason": "Fair for a flavored product you expect to mix and enjoy.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 35,
+        "maximum_exclusive": 42,
+        "current_band": false,
+        "reason": "Taste a mixed sample before paying above regular NC retail.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 42,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on a scarcity premium for drinking use.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small trial; both reviews favor mixing over a neat pour."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "A cube can reduce the sweet impression but also thin the whisky definition."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Reduce added sugar substantially; a standard recipe can become too sweet."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Lemonade is directly supported by independent tasting; start with a modest pour and adjust."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.crownroyal.com/canadian-whisky/blackberry",
+        "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/3USDK3a125g3Fecc1wiVpX/00f86f0ffd77591662a45cc3dffe1b56/CR-Blackberry.png?fm=webp&w=650&q=75",
+        "scope": "Crown Royal Blackberry Flavored Whisky, 35% ABV / 70 proof, introduced in the 2024 era; excludes packaged ready-to-drink cocktails.",
+        "sha256": "f4b7008dcdc9e0c930146d914c7916686c0a73dca91f17af705dbdd1079504f3",
+        "image_embedded": true,
+        "width": 568,
+        "height": 1019
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Crown Royal Blackberry Flavored Whisky, 35% ABV / 70 proof, introduced in the 2024 era; excludes packaged ready-to-drink cocktails.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-011",
+    "editorial": {
+      "id": "crown-royal-blackberry",
+      "category": "Flavored whiskey",
+      "proof": 70,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2024,
+      "producer": "Crown Royal / Diageo; blackberry flavored Canadian-whisky-based product",
+      "identity": "Crown Royal Blackberry Flavored Whisky, 35% ABV / 70 proof, introduced in the 2024 era; excludes packaged ready-to-drink cocktails.",
+      "short_version": "A sweet-tart flavored whisky primarily supported for lemonade and other mixed drinks. Its cocktail performance is assessed within flavored whiskey, with grain definition and depth as limits.",
+      "grain": "Canadian whisky base infused with blackberry flavor; exact grains, flavor composition and sweetening levels undisclosed",
+      "production": "The producer authenticates a selection of Crown Royal whiskies infused with blackberry flavor at 35% ABV. Flavor infusion is not a blackberry-cask finish, and the lower-strength flavored product is not silently described as an unmodified Canadian blend. Exact base mash percentages and sugar dosage are not documented.",
+      "finish": "Blackberry flavor infusion; not a cask-finishing stage",
+      "history": [
+        "The inspected professional record documents nationwide March 2024 availability at USD 26.99 suggested retail, while the independent February 2024 purchased-bottle review shows some earlier retail access. A precise first shipment day is not invented.",
+        "The original release was marketed as limited/seasonal. NC’s 2026 list establishes later multi-size listings, including the standard 750 mL at USD 32.95; that does not prove permanent uninterrupted production."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Stephanie Moreno",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/crown-royal-blackberry",
+          "summary": "Moreno finds tart berry flavor with modest grain and oak-spice definition. She regards cocktails as the best use and notes a somewhat slick texture.",
+          "scope": "Exact 35% ABV Blackberry expert tasting; 79 points."
+        },
+        {
+          "reviewer": "Whiskey Wench",
+          "publisher": "The Whiskey Wench",
+          "url": "https://thewhiskeywench.com/2024/02/26/crown-royal-blackberry-flavored-whisky/",
+          "summary": "The reviewer finds sweet fruit and vanilla balanced by tartness, preferring the expression with lemonade rather than neat. The independent purchased-bottle report supplies specific mixed-drink evidence.",
+          "scope": "February 26, 2024; exact 35% ABV Blackberry, USD 26.99 paid; not a ready-to-drink bottle."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Blackberry producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/blackberry",
+          "role": "Exact flavored identity, infusion, strength and verified current expression photograph."
+        },
+        {
+          "title": "Blackberry — Distiller",
+          "url": "https://distiller.com/spirits/crown-royal-blackberry",
+          "role": "Substantive expert tasting and March 2024 launch-era context."
+        },
+        {
+          "title": "Blackberry — The Whiskey Wench",
+          "url": "https://thewhiskeywench.com/2024/02/26/crown-royal-blackberry-flavored-whisky/",
+          "role": "Independent purchased-bottle neat and cocktail testing."
+        },
+        {
+          "title": "NC August–October 2026 list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 37-908, 70 proof, 750 mL, USD 32.95 regular price."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Canadian Club Blackberry",
+          "url": "canadian-club-blackberry.html",
+          "reason": "A separately researched blackberry flavored whisky; compare sweetness and mixer behavior."
+        },
+        {
+          "name": "Black Velvet Apple",
+          "url": "black-velvet-apple.html",
+          "reason": "Another flavored-whisky category comparison, with different fruit identity."
+        }
+      ],
+      "quality": 6.2,
+      "dimensions": [
+        6.2,
+        5.8,
+        5.8,
+        6.8,
+        6.0,
+        5.8,
+        6.7
+      ],
+      "quality_rationale": "Sweet-tart balance and useful cocktail execution support good flavored-whiskey Quality. Modest whisky definition and depth limit the judgment. Unmodified Canadian blends, American rye and bourbon anchors are not substituted.",
+      "value": 5.6,
+      "value_rationale": "The verified August 2026 NC price is USD 32.95 / 750 mL, above the independently documented 2024 USD 26.99 purchase. Its specific lemonade/cocktail utility can justify a fair buy, but the sources do not support paying a scarcity premium.",
+      "pricing": {
+        "amount": 32.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-08-01",
+        "basis": "NC ABC regular August–October 2026 retail price, checked October 14",
+        "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+        "effective": "2026-08-01",
+        "nc_code": "37-908",
+        "nc_status": "Exact 750 mL regular entry; shelf stock is not guaranteed."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 22,
+          "current_band": false,
+          "reason": "Strong mixer Value if the sweetness suits your intended drink.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 22,
+          "maximum_exclusive": 28,
+          "current_band": false,
+          "reason": "Near the authenticated original retail level.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 28,
+          "maximum_exclusive": 35,
+          "current_band": true,
+          "reason": "Fair for a flavored product you expect to mix and enjoy.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 35,
+          "maximum_exclusive": 42,
+          "current_band": false,
+          "reason": "Taste a mixed sample before paying above regular NC retail.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 42,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on a scarcity premium for drinking use.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small trial; both reviews favor mixing over a neat pour."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "A cube can reduce the sweet impression but also thin the whisky definition."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Reduce added sugar substantially; a standard recipe can become too sweet."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Lemonade is directly supported by independent tasting; start with a modest pour and adjust."
+        }
+      ],
+      "image_url": "https://images.ctfassets.net/wf4e4r4dkfx8/3USDK3a125g3Fecc1wiVpX/00f86f0ffd77591662a45cc3dffe1b56/CR-Blackberry.png?fm=webp&w=650&q=75",
+      "image_source": "https://www.crownroyal.com/canadian-whisky/blackberry",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
+  },
+  {
+    "slug": "crown-royal-blenders-mash-nas",
+    "filename": "crown-royal-blenders-mash-nas.html",
+    "name": "Crown Royal Blenders Mash — NAS",
+    "family": "Crown Royal",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Crown Royal / Diageo; Gimli Distillery identified by the matched 2018 sources",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS — Blenders’ Series",
+    "age_display": "NAS — Blenders’ Series",
+    "age_sort_years": null,
+    "mash_bill_display": "Producer confirms corn-heavy whiskies; 64% corn / 31.5% rye / 4.5% malted barley reported for the 2018 sample by Breaking Bourbon, not independently authenticated by the producer",
+    "mash_bill_confidence": "Corn-heavy identity authenticated; published sample ratios are attributed and not promoted to a producer-verified recurring formula.",
+    "quality": 5.7,
+    "quality_score": 5.7,
+    "value": 5.3,
+    "value_score": 5.3,
+    "overall": 5.496362433464518,
+    "overall_score": 5.496362433464518,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed.",
+      "universal_dimensions": {
+        "integration": 5.5,
+        "flavor_development": 5.5,
+        "finish": 4.7,
+        "technical_cleanliness": 6.7,
+        "texture": 6.0,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 6.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.665,
+      "editorial_adjustment": 0.035,
+      "adjustment_reason": "The opposed records support approachable sweetness but uncertain integration and a weak finish in one sample. A near-good provisional score retains both; criticism based on the disputed bourbon name is not used as an American-bourbon calibration."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The opposed records support approachable sweetness but uncertain integration and a weak finish in one sample. A near-good provisional score retains both; criticism based on the disputed bourbon name is not used as an American-bourbon calibration.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the dated 2018 U.S. USD 30 MSRP, Value is conditional: the positive source finds a useful easy pour, while the in-depth negative review considers it around USD 10 overpriced. The historic label’s collector novelty is excluded.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 30.0,
+    "price_basis": "Historical 2018 U.S. MSRP quoted in the exact NAS in-depth review",
+    "price_url": "https://www.breakingbourbon.com/review/crown-royal-bourbon-mash-blenders-mash",
+    "price_period": "2018-09-06",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 30,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2018,
+    "release_scope": "Crown Royal Blenders’ Mash, 2018 NAS Blenders’ Series identity at 40% ABV / 80 proof, formerly labeled Bourbon Mash; distinct from the Noble Collection 13 Year / 90-proof release.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://adventuresinwhiskey.com/2018/05/16/review-crown-royal-blenders-mash-blended-canadian-whisky/",
+      "https://www.breakingbourbon.com/review/crown-royal-bourbon-mash-blenders-mash"
+    ],
+    "review_publishers": [
+      "Adventures in Whiskey",
+      "Breaking Bourbon"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Bobby",
+        "publisher": "Adventures in Whiskey",
+        "url": "https://adventuresinwhiskey.com/2018/05/16/review-crown-royal-blenders-mash-blended-canadian-whisky/",
+        "summary": "Bobby enjoys a subdued but pleasant aroma, rounded sweetness and light fruit/spice, with a clean ending. He recommends it as an approachable pour rather than a challenging one.",
+        "scope": "May 16, 2018; renamed NAS Blenders’ Mash 40% ABV, producer-provided sample; exact 80-proof photograph authenticated."
+      },
+      {
+        "reviewer": "Jordan Moskal",
+        "publisher": "Breaking Bourbon",
+        "url": "https://www.breakingbourbon.com/review/crown-royal-bourbon-mash-blenders-mash",
+        "summary": "Moskal finds the aroma promising but a dry, muddled and weak palate/finish. He regards the USD 30 drinking proposition as poor despite its unusual labeling history.",
+        "scope": "September 6, 2018; NAS, 80 proof, original Bourbon Mash alias, bottle 0195470; substantive sample counterevidence."
+      }
+    ],
+    "source_urls": [
+      "https://www.crownroyal.com/canadian-whisky/blenders-mash",
+      "https://adventuresinwhiskey.com/2018/05/16/review-crown-royal-blenders-mash-blended-canadian-whisky/",
+      "https://www.breakingbourbon.com/review/crown-royal-bourbon-mash-blenders-mash"
+    ],
+    "production_summary": "The 2018 exact sources document a blend of corn-heavy whiskies matured in new and used American oak, bottled at 40% ABV. This Canadian blend is not bourbon. The photographed Blenders’ Series NAS bottle reads 40% / 80 proof. The producer’s current page pairs 40% text with a 45% / 90-proof image; that mismatched image is excluded in favor of the independently verified eighty-proof label.",
+    "finishing_information": "New and used American-oak maturation; no separate finishing stage authenticated",
+    "identity_note": "The Noble Collection 13 Year Blenders’ Mash is a separate 90-proof age-stated edition. Its age, proof, price and sample reviews are not transferred here.",
+    "history": [
+      "Contemporary sources place the original Bourbon Mash naming in March 2018 and document the subsequent Blenders’ Mash relabeling. The naming history is recorded from those sources without treating the Canadian product as bourbon.",
+      "The September 2018 in-depth review is explicitly NAS / 80 proof, while the May 2018 review uses the renamed Blenders’ Mash label at 40%. The original U.S. USD 30 MSRP remains historical context; no current exact NC listing is assumed."
+    ],
+    "comparables": [
+      {
+        "name": "Canadian Club 1858 Original",
+        "url": "canadian-club-1858-original.html",
+        "reason": "An approachable Canadian blend with different grains and earlier blending process."
+      },
+      {
+        "name": "Crown Royal Black",
+        "url": "crown-royal-black.html",
+        "reason": "The recurring ninety-proof family blend has more documented wood emphasis; not the Noble age-stated edition."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 18,
+        "current_band": false,
+        "reason": "A lower-risk budget for the disputed performance.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 18,
+        "maximum_exclusive": 24,
+        "current_band": false,
+        "reason": "A reasonable taste-first target around the critical reviewer’s implied budget.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 24,
+        "maximum_exclusive": 32,
+        "current_band": true,
+        "reason": "Fair only when your bottle resembles the positive review.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 32,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "Compare other Canadian blends before paying above its original budget purpose.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 40,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The labeling story does not justify a drinking premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to check whether the rounded or dry/muddled review fits your bottle."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Use limited dilution because one record finds weak flavor definition."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Old Fashioned is an editorial trial; avoid excessive sugar around the corn-heavy sweetness."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short ginger highball is practical; compare a less costly Canadian blend for strong mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://adventuresinwhiskey.com/2018/05/16/review-crown-royal-blenders-mash-blended-canadian-whisky/",
+        "image_url": "https://adventuresinwhiskey.com/wp-content/uploads/2018/05/img_0642-e1525738046649.jpg?w=650",
+        "scope": "Crown Royal Blenders’ Mash, 2018 NAS Blenders’ Series identity at 40% ABV / 80 proof, formerly labeled Bourbon Mash; distinct from the Noble Collection 13 Year / 90-proof release.",
+        "sha256": "13bdd3c3381188b7a7ef3ee9e41abc8b8e2e8210ded2b75ab7e3fa528afff1e6",
+        "image_embedded": true,
+        "width": 650,
+        "height": 965
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Crown Royal Blenders’ Mash, 2018 NAS Blenders’ Series identity at 40% ABV / 80 proof, formerly labeled Bourbon Mash; distinct from the Noble Collection 13 Year / 90-proof release.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-011",
+    "editorial": {
+      "id": "crown-royal-blenders-mash-nas",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS — Blenders’ Series",
+      "release_year": 2018,
+      "producer": "Crown Royal / Diageo; Gimli Distillery identified by the matched 2018 sources",
+      "identity": "Crown Royal Blenders’ Mash, 2018 NAS Blenders’ Series identity at 40% ABV / 80 proof, formerly labeled Bourbon Mash; distinct from the Noble Collection 13 Year / 90-proof release.",
+      "short_version": "A corn-heavy Canadian blend with conflicting neat judgments. The renamed NAS eighty-proof bottle is separately verified; the producer page’s ninety-proof photograph is not used.",
+      "grain": "Producer confirms corn-heavy whiskies; 64% corn / 31.5% rye / 4.5% malted barley reported for the 2018 sample by Breaking Bourbon, not independently authenticated by the producer",
+      "grain_confidence": "Corn-heavy identity authenticated; published sample ratios are attributed and not promoted to a producer-verified recurring formula.",
+      "production": "The 2018 exact sources document a blend of corn-heavy whiskies matured in new and used American oak, bottled at 40% ABV. This Canadian blend is not bourbon. The photographed Blenders’ Series NAS bottle reads 40% / 80 proof. The producer’s current page pairs 40% text with a 45% / 90-proof image; that mismatched image is excluded in favor of the independently verified eighty-proof label.",
+      "finish": "New and used American-oak maturation; no separate finishing stage authenticated",
+      "identity_note": "The Noble Collection 13 Year Blenders’ Mash is a separate 90-proof age-stated edition. Its age, proof, price and sample reviews are not transferred here.",
+      "history": [
+        "Contemporary sources place the original Bourbon Mash naming in March 2018 and document the subsequent Blenders’ Mash relabeling. The naming history is recorded from those sources without treating the Canadian product as bourbon.",
+        "The September 2018 in-depth review is explicitly NAS / 80 proof, while the May 2018 review uses the renamed Blenders’ Mash label at 40%. The original U.S. USD 30 MSRP remains historical context; no current exact NC listing is assumed."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Bobby",
+          "publisher": "Adventures in Whiskey",
+          "url": "https://adventuresinwhiskey.com/2018/05/16/review-crown-royal-blenders-mash-blended-canadian-whisky/",
+          "summary": "Bobby enjoys a subdued but pleasant aroma, rounded sweetness and light fruit/spice, with a clean ending. He recommends it as an approachable pour rather than a challenging one.",
+          "scope": "May 16, 2018; renamed NAS Blenders’ Mash 40% ABV, producer-provided sample; exact 80-proof photograph authenticated."
+        },
+        {
+          "reviewer": "Jordan Moskal",
+          "publisher": "Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/crown-royal-bourbon-mash-blenders-mash",
+          "summary": "Moskal finds the aroma promising but a dry, muddled and weak palate/finish. He regards the USD 30 drinking proposition as poor despite its unusual labeling history.",
+          "scope": "September 6, 2018; NAS, 80 proof, original Bourbon Mash alias, bottle 0195470; substantive sample counterevidence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Blenders’ Mash producer page",
+          "url": "https://www.crownroyal.com/canadian-whisky/blenders-mash",
+          "role": "Corn-heavy/40% identity; mismatched 90-proof photograph explicitly rejected."
+        },
+        {
+          "title": "NAS Blenders’ Mash — Adventures in Whiskey",
+          "url": "https://adventuresinwhiskey.com/2018/05/16/review-crown-royal-blenders-mash-blended-canadian-whisky/",
+          "role": "Exact renamed forty-percent sample, production account and readable 80-proof bottle photograph."
+        },
+        {
+          "title": "Bourbon Mash / Blenders’ Mash — Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/crown-royal-bourbon-mash-blenders-mash",
+          "role": "Exact NAS/80-proof identity, reported sample mash percentages, naming chronology, full critical tasting and dated USD 30 MSRP."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Canadian Club 1858 Original",
+          "url": "canadian-club-1858-original.html",
+          "reason": "An approachable Canadian blend with different grains and earlier blending process."
+        },
+        {
+          "name": "Crown Royal Black",
+          "url": "crown-royal-black.html",
+          "reason": "The recurring ninety-proof family blend has more documented wood emphasis; not the Noble age-stated edition."
+        }
+      ],
+      "quality": 5.7,
+      "dimensions": [
+        5.5,
+        5.5,
+        4.7,
+        6.7,
+        6.0,
+        5.8,
+        6.0
+      ],
+      "quality_rationale": "The opposed records support approachable sweetness but uncertain integration and a weak finish in one sample. A near-good provisional score retains both; criticism based on the disputed bourbon name is not used as an American-bourbon calibration.",
+      "value": 5.3,
+      "value_rationale": "At the dated 2018 U.S. USD 30 MSRP, Value is conditional: the positive source finds a useful easy pour, while the in-depth negative review considers it around USD 10 overpriced. The historic label’s collector novelty is excluded.",
+      "pricing": {
+        "amount": 30,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2018-09-06",
+        "basis": "Historical 2018 U.S. MSRP quoted in the exact NAS in-depth review",
+        "url": "https://www.breakingbourbon.com/review/crown-royal-bourbon-mash-blenders-mash"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 18,
+          "current_band": false,
+          "reason": "A lower-risk budget for the disputed performance.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 18,
+          "maximum_exclusive": 24,
+          "current_band": false,
+          "reason": "A reasonable taste-first target around the critical reviewer’s implied budget.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 24,
+          "maximum_exclusive": 32,
+          "current_band": true,
+          "reason": "Fair only when your bottle resembles the positive review.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 32,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "Compare other Canadian blends before paying above its original budget purpose.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 40,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The labeling story does not justify a drinking premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Editorial drinking budgets in USD; a historical quote retains its era and does not establish October 2026 stock or price."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to check whether the rounded or dry/muddled review fits your bottle."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Use limited dilution because one record finds weak flavor definition."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Old Fashioned is an editorial trial; avoid excessive sugar around the corn-heavy sweetness."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short ginger highball is practical; compare a less costly Canadian blend for strong mixers."
+        }
+      ],
+      "image_url": "https://adventuresinwhiskey.com/wp-content/uploads/2018/05/img_0642-e1525738046649.jpg?w=650",
+      "image_source": "https://adventuresinwhiskey.com/2018/05/16/review-crown-royal-blenders-mash-blended-canadian-whisky/",
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric is applied within the stated Canadian category. American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of attributed independent published samples. Conflicting judgments and changes of reviewed era remain explicit; no first-person tasting or identical-batch guarantee is claimed."
+    }
   }
 ]
