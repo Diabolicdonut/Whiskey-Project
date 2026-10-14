@@ -10,8 +10,9 @@
   "counts": {
     "candidates": 233,
     "baseline_preserved": 2,
-    "excluded": 10,
-    "pending": 221
+    "excluded": 11,
+    "pending": 213,
+    "accepted": 7
   },
   "entries": [
     {
@@ -25,13 +26,13 @@
       "proof": 100.0,
       "abv": 50.0,
       "age_statement_years": 10.0,
-      "age_information": "10 years",
+      "age_information": "10 Years",
       "grain_information": "Undisclosed; Kentucky, Tennessee and Indiana bourbons",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2022",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -48,13 +49,41 @@
       ],
       "potential_image_source": "https://sterlinggrapesandgrains.com/shop/product/widow-jane-10y-anniversary-bourbon/636bd8ac1b0e3a77d4e9c43d?option-id=a12cf1c345f2cc8ffe313dadfa0aa54f1df3921e12d412f2ff73b452f42a9f8c",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://whiskycast.com/ratings/widow-jane-10th-anniversary-10-year-old-bourbon/",
+            "reviewer": "Mark Gillespie",
+            "publisher": "WhiskyCast",
+            "summary": "Gillespie finds caramel and dried-apple aromas leading into pronounced pepper, dark fruit and tobacco, followed by a lengthy spicy ending. His 93-point judgment is strongly positive.",
+            "scope": "October 2022 anniversary release, 50% ABV."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 1
+      "deterministic_order": 1,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-001",
+      "publication_sources": [
+        {
+          "title": "Widow Jane 10th Anniversary 10 Year Old Bourbon - WhiskyCast",
+          "url": "https://whiskycast.com/ratings/widow-jane-10th-anniversary-10-year-old-bourbon/",
+          "role": "Named independent tasting; 50% ABV and 2022 scope."
+        },
+        {
+          "title": "Review: Widow Jane 10 year 10th Anniversary bottle kill",
+          "url": "https://www.reddit.com/r/bourbon/comments/1ey42m1",
+          "role": "Dated community counterpoint and photographed-label description."
+        },
+        {
+          "title": "Widow Jane 10 Years Anniversary Edition Straight Bourbon Whiskey – Grain & Vine | Natural Wines, Rare Bourbon and Tequila Collection",
+          "url": "https://grainvine.com/products/widow-jane-10-years-anniversary-edition-straight-bourbon-whiskey",
+          "role": "Expression-matched archival retail price and exact 2022 label image; sold out."
+        }
+      ]
     },
     {
       "id": "widow-jane-5-year-kentucky-bourbon",
@@ -72,9 +101,9 @@
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "Before 2012",
-      "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "warrants_own_dossier": false,
+      "decision": "exclude",
+      "inclusion_or_exclusion_reason": "Only a passing predecessor reference is authenticated; no exact label/specification set or matched review. Retained in the seven-year dossier history rather than publishing a thin duplicate.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -89,7 +118,7 @@
         "scoring_allowed": false,
         "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "excluded",
       "discovered_date": "2026-10-14",
       "deterministic_order": 2
     },
@@ -101,16 +130,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "historical",
       "whisky_category": "Bourbon",
-      "proof": 91.0,
+      "proof": 91,
       "abv": 45.5,
-      "age_statement_years": 7.0,
-      "age_information": "7 years",
+      "age_statement_years": 7,
+      "age_information": "7 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2012–2016",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -127,13 +156,43 @@
       ],
       "potential_image_source": "https://www.drinkhacker.com/2012/12/06/review-widow-jane-kentucky-bourbon-whiskey-7-years/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.drinkhacker.com/2012/12/06/review-widow-jane-kentucky-bourbon-whiskey-7-years/",
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "summary": "Null praises the body and caramel-led richness but finds enough heat that water helps. His A-minus assessment is favorable.",
+            "scope": "December 2012 seven-year, 91-proof bottling."
+          },
+          {
+            "url": "https://thewhiskeywash.com/bourbon/whiskey-review-widow-jane-7-year-old-bourbon/",
+            "reviewer": "Carin Moonin",
+            "publisher": "The Whiskey Wash",
+            "summary": "Moonin describes a gentler earthy and saline presentation with pepper and citrus at the end, judging it well made rather than remarkable.",
+            "scope": "April 2016 seven-year bottling; source’s proof typo is disclosed."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 3
+      "deterministic_order": 3,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-001",
+      "publication_sources": [
+        {
+          "title": "Review: Widow Jane Kentucky Bourbon Whiskey 7 Years Old - Drinkhacker",
+          "url": "https://www.drinkhacker.com/2012/12/06/review-widow-jane-kentucky-bourbon-whiskey-7-years/",
+          "role": "Early identity, independent tasting and dated USD 68 reference."
+        },
+        {
+          "title": "Widow Jane 7 Year Old Bourbon Review: Tasting Notes & Analysis",
+          "url": "https://thewhiskeywash.com/bourbon/whiskey-review-widow-jane-7-year-old-bourbon/",
+          "role": "Second named historical tasting; proof typo explicitly resolved."
+        }
+      ]
     },
     {
       "id": "widow-jane-8-year-straight-bourbon",
@@ -143,16 +202,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "historical",
       "whisky_category": "Bourbon",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 8.0,
-      "age_information": "8 years",
-      "grain_information": "Undisclosed",
+      "proof": 91,
+      "abv": 45.5,
+      "age_statement_years": 8,
+      "age_information": "8 Years",
+      "grain_information": "Undisclosed; historic label and archived bottle do not establish grain percentages.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "Historical; auction record 2020",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -164,13 +223,23 @@
       ],
       "potential_image_source": "https://www.whiskyhammer.com/item/45328/Widow-Jane/Widow-Jane---8-Year-Old-Straight-Bourbon-Whiskey-75cl.html",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 4
+      "deterministic_order": 4,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-001",
+      "publication_sources": [
+        {
+          "title": "Widow Jane - 8 Year Old (Straight Bourbon Whiskey) 75cl Whisky Auction | Whisky Hammer® Whisky Auctioneer | End: 24/05/2020",
+          "url": "https://www.whiskyhammer.com/item/45328/Widow-Jane/Widow-Jane---8-Year-Old-Straight-Bourbon-Whiskey-75cl.html",
+          "role": "Archived auction description and exact eight-year bottle photograph; identity only, not tasting evidence or current retail pricing."
+        }
+      ]
     },
     {
       "id": "widow-jane-aged-10-years-batch-224",
@@ -216,17 +285,17 @@
       "brand_family": "Widow Jane",
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "historical",
-      "whisky_category": "Rye",
+      "whisky_category": "American whiskey",
       "proof": 91.0,
       "abv": 45.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Rye mash; percentages undisclosed",
+      "age_information": "NAS; documented maturation of at least two years",
+      "grain_information": "Predominantly rye with a small barley component; exact percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Used bourbon oak; original label classification retained",
+      "finishing_information": "Used bourbon oak plus fresh oak staves.",
       "release_year_or_era": "2010s–early 2020s",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -243,13 +312,41 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/widow-jane-whiskey-distilled-from-a-rye-mash-american-oak-aged",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.whiskymonster.com/widow-jane-american-oak-aged-whiskey-review/",
+            "reviewer": "Whisky Monster",
+            "publisher": "Whisky Monster",
+            "summary": "The batch-31 review emphasizes citrus and floral aromas, creamy caramel sweetness, warming spice and a lengthy fruity ending. It likes the balance while calling the whiskey less than multidimensional.",
+            "scope": "December 2020 review, batch 31, 91 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 6
+      "deterministic_order": 6,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-001",
+      "publication_sources": [
+        {
+          "title": "Widow Jane American Oak Aged · Whisky Monster",
+          "url": "https://www.whiskymonster.com/widow-jane-american-oak-aged-whiskey-review/",
+          "role": "Matched independent sensory record, used-oak process and USD 45 dated reference."
+        },
+        {
+          "title": "Widow Jane Whiskey Distilled From a Rye Mash American Oak Aged ",
+          "url": "https://distiller.com/spirits/widow-jane-whiskey-distilled-from-a-rye-mash-american-oak-aged",
+          "role": "Identity and rye/barley grain description; not counted as an independent tasting."
+        },
+        {
+          "title": "Widow Jane American Oak Aged Rye Whiskey Batch 31 USA Spirits Review | Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Widow-Jane-American-Oak-Aged-Rye-Whiskey-Batch-31-USA-91-Proof-08-01-2021.aspx",
+          "role": "Archived panel rating corroborates identity; inaccessible sensory text is not reconstructed."
+        }
+      ]
     },
     {
       "id": "widow-jane-apple-wood-rye-93-proof",
@@ -259,16 +356,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "current",
       "whisky_category": "Rye",
-      "proof": 93.0,
+      "proof": 93,
       "abv": 46.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
+      "age_information": "NAS; no matched label age established",
       "grain_information": "Blended straight rye; percentages undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "Applewood finishing",
       "release_year_or_era": "2023 onward",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -285,13 +382,36 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/widow-jane-apple-wood-rye",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.tastings.com/Spirits-Review/Widow-Jane-Apple-Wood-Rye-Cask-Finished-Blended-Straight-Rye-Whiskey-Batch-No28-USA-93-Proof-08-01-2024.aspx",
+            "reviewer": "Beverage Testing Institute tasting panel",
+            "publisher": "Tastings / BTI",
+            "summary": "The panel reports spiced apple, vanilla and cedar, a velvety medium body and a medium-length ending with pastry and savory nuances. Its 93-point result is positive; it is not converted arithmetically to the project scale.",
+            "scope": "Batch 28, July 18, 2024; 46.5% ABV."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 7
+      "deterministic_order": 7,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-001",
+      "publication_sources": [
+        {
+          "title": "Widow Jane Apple Wood Rye Cask Finished Blended Straight Rye Whiskey Batch No28 USA Spirits Review | Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Widow-Jane-Apple-Wood-Rye-Cask-Finished-Blended-Straight-Rye-Whiskey-Batch-No28-USA-93-Proof-08-01-2024.aspx",
+          "role": "Matched independent panel, exact strength and dated USD 49 reference."
+        },
+        {
+          "title": "Widow Jane Apple Wood Rye",
+          "url": "https://distiller.com/spirits/widow-jane-apple-wood-rye",
+          "role": "Modern Paradigm-base production description; ABV metadata discrepancy disclosed."
+        }
+      ]
     },
     {
       "id": "widow-jane-baby-jane-bourbon-2024",
@@ -304,13 +424,13 @@
       "proof": 91.0,
       "abv": 45.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Baby Jane heirloom corn; blend proportions undisclosed",
+      "age_information": "NAS; producer reports components aged four to six years",
+      "grain_information": "Proprietary Baby Jane heirloom corn in the documented distillate; whole-blend mash and component proportions undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2024",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -327,13 +447,48 @@
       ],
       "potential_image_source": "https://bourbonlens.com/widow-jane-baby-jane-bourbon/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.breakingbourbon.com/review/baby-jane-bourbon",
+            "reviewer": "Nick Beiter",
+            "publisher": "Breaking Bourbon",
+            "summary": "Beiter finds light fruit and honey at the start, balanced apricot/caramel sweetness in the middle and a more satisfying spiced-pastry ending. He regards it as accessible rather than a forceful showcase of heirloom grain.",
+            "scope": "Batch 48; review July 2024."
+          },
+          {
+            "url": "https://distiller.com/spirits/widow-jane-baby-jane-bourbon",
+            "reviewer": "Stephanie Moreno",
+            "publisher": "Distiller",
+            "summary": "Moreno describes toasted grain and herbs beside vanilla, with a slick palate and pepper at the end. She is less persuaded by how the grassy and sweet parts integrate.",
+            "scope": "2024 national 91-proof release; batch not specified."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 8
+      "deterministic_order": 8,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-001",
+      "publication_sources": [
+        {
+          "title": "Baby Jane Bourbon Review | Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/baby-jane-bourbon",
+          "role": "Named matched review and distinction between NAS labeling and reported component age."
+        },
+        {
+          "title": "Widow Jane Baby Jane Bourbon",
+          "url": "https://distiller.com/spirits/widow-jane-baby-jane-bourbon",
+          "role": "Independent dissent and modern production specification."
+        },
+        {
+          "title": "Widow Jane Baby Jane - NC ABC Commission",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/150217",
+          "role": "NC ABC uniform regular retail; 750 mL, 91 proof, code 25569, effective August 1, 2026."
+        }
+      ]
     },
     {
       "id": "widow-jane-baby-jane-anniversary-release-2016",
@@ -343,16 +498,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "limited",
       "whisky_category": "Bourbon",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Proprietary heirloom corn; percentages undisclosed",
+      "proof": 91,
+      "abv": 45.5,
+      "age_statement_years": 1,
+      "age_information": "1 Years",
+      "grain_information": "Reported 2016 recipe: 80% Baby Jane corn, 10% rye, 10% malted barley.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2016",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -364,13 +519,31 @@
       ],
       "potential_image_source": "https://www.bourbonbanter.com/widow-jane-baby-jane-bourbon-review/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.bourbonbanter.com/widow-jane-baby-jane-bourbon-review/",
+            "reviewer": "Brent Joseph and Pops",
+            "publisher": "Bourbon & Banter",
+            "summary": "Both reviewers find clear young corn/malt character alongside unexpectedly rounded maple-like sweetness. They disagree on buying: Brent sees interest for enthusiasts, while Pops regards the original price as far beyond an everyday drinking proposition.",
+            "scope": "2016 one-year release; published March 9, 2017; both contributors at one outlet, not two independent publishers."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 9
+      "deterministic_order": 9,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-001",
+      "publication_sources": [
+        {
+          "title": "Widow Jane Baby Jane Bourbon Review",
+          "url": "https://www.bourbonbanter.com/widow-jane-baby-jane-bourbon-review/",
+          "role": "Exact 2016 recipe, age, bottle count, 375 mL size, two named/pseudonymous tastings and original price."
+        }
+      ]
     },
     {
       "id": "widow-jane-black-opal-20-year-2024",

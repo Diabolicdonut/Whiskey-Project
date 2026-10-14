@@ -30,17 +30,30 @@ jobs:
       - name: Static repository validation
         id: static
         continue-on-error: true
-        run: python scripts/completion_validate.py validate
+        run: |
+          if [ -f north-american-expansion-data.json ]; then
+            python scripts/north_american_validate.py
+          else
+            python scripts/completion_validate.py validate
+          fi
       - name: Runtime and responsive validation
         id: runtime
         continue-on-error: true
-        run: node scripts/completion_runtime.cjs
+        run: |
+          if [ -f north-american-expansion-data.json ]; then
+            node scripts/north_american_runtime.cjs --focused
+          else
+            node scripts/completion_runtime.cjs
+          fi
       - name: Publish validation reports
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: old-oak-validation-${{ github.sha }}
-          path: .completion-output/
+          path: |
+            .completion-output/
+            ../expansion-research/static-report.json
+            ../expansion-research/runtime-output/
           retention-days: 30
           include-hidden-files: true
       - name: Require both validation passes

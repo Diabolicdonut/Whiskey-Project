@@ -1,8 +1,8 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 0,
-  "status": "discovery_committed_pending_implementation",
+  "checkpoint": 1,
+  "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
   "final_accepted_baseline_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17",
@@ -840,18 +840,92 @@
   "baseline_index_projection_sha256": "d7a507913b18d20591bbad074bc4ee2ed1b937479152ca79e418ed8bea67a165",
   "discovery_ledger": "north-american-expression-ledger.json",
   "deterministic_implementation_order": "deterministic_order ascending; resolve pending evidence before publication; checkpoint batches 5–10 dossiers",
-  "added_dossiers": [],
-  "widow_jane_added": 0,
+  "added_dossiers": [
+    "widow-jane-10th-anniversary-10-year-bourbon-2022.html",
+    "widow-jane-7-year-kentucky-bourbon.html",
+    "widow-jane-8-year-straight-bourbon.html",
+    "widow-jane-american-oak-aged-rye-mash-whiskey.html",
+    "widow-jane-apple-wood-rye-93-proof.html",
+    "widow-jane-baby-jane-bourbon-2024.html",
+    "widow-jane-baby-jane-anniversary-release-2016.html"
+  ],
+  "widow_jane_added": 7,
   "canadian_added": 0,
-  "dossier_count": 825,
-  "history": [],
-  "next_action": "Research pending Widow Jane entries in ledger order, publish first independently validated 5–10 dossier checkpoint.",
+  "dossier_count": 832,
+  "history": [
+    {
+      "checkpoint": 1,
+      "files": [
+        "widow-jane-10th-anniversary-10-year-bourbon-2022.html",
+        "widow-jane-7-year-kentucky-bourbon.html",
+        "widow-jane-8-year-straight-bourbon.html",
+        "widow-jane-american-oak-aged-rye-mash-whiskey.html",
+        "widow-jane-apple-wood-rye-93-proof.html",
+        "widow-jane-baby-jane-bourbon-2024.html",
+        "widow-jane-baby-jane-anniversary-release-2016.html"
+      ],
+      "parent_commit": "68f19336777eb087d0163a38feccb3797f4ca9df",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 3572,
+        "functional_cases_passed": 405,
+        "responsive_pages_rendered": 24,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "verified_embedded_images_added": 5,
+        "failures": 0
+      },
+      "documented_repairs": [
+        "Index Mash Bill sort control added; all original row bytes preserved.",
+        "Completion workflow routes expansion checks to the new dynamic validators; original completion scripts and ledgers remain unchanged."
+      ]
+    }
+  ],
+  "next_action": "Research deterministic pending entries from order 10 (Black Opal 2024) onward; publish the next 5–10 dossiers after validation.",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
     "completed_ledgers_status": "complete; unchanged",
-    "baseline_preservation_manifest_recorded": true
+    "baseline_preservation_manifest_recorded": true,
+    "static": {
+      "schema": "old-oak-north-american-static-validation-v1",
+      "checkpoint": 1,
+      "status": "passed",
+      "full_repository_validation": false,
+      "dossiers": 832,
+      "new_dossiers": 7,
+      "html_files_structurally_checked": 8,
+      "original_dossier_hashes_verified": 825,
+      "original_index_rows_byte_preserved": 825,
+      "completed_ledgers_unchanged": true,
+      "checks": 3572,
+      "local_references_checked": 929,
+      "embedded_image_occurrences_decoded": 5,
+      "unique_image_payloads_decoded": 5,
+      "image_dossiers_added": 5,
+      "numeric_counts": {
+        "quality": 6,
+        "value": 6,
+        "overall": 6
+      },
+      "failure_count": 0,
+      "failures": []
+    },
+    "runtime": {
+      "status": "passed",
+      "browser": "Chromium",
+      "browser_version": "141.0.7390.37",
+      "functional_cases_passed": 405,
+      "responsive_cases": 24,
+      "console_errors": 0,
+      "page_errors": 0,
+      "network_errors": 0,
+      "failures": 0
+    }
   },
   "updated_at": "2026-10-14",
-  "last_parent_commit": "484c4c249990254c48736700327db1c36bc74018"
+  "last_parent_commit": "68f19336777eb087d0163a38feccb3797f4ca9df"
 }
