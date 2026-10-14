@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 165,
-    "accepted": 60
+    "pending": 157,
+    "accepted": 68
   },
   "entries": [
     {
@@ -4324,21 +4324,21 @@
       "canonical_expression_name": "Canadian Club Chronicles 41 Year — The Water of Windsor",
       "filename": "canadian-club-chronicles-41-year-the-water-of-windsor.html",
       "brand_family": "Canadian Club",
-      "producer": "Canadian Club / Suntory Global Spirits; Ontario production and Alberta rye sourcing distinguished",
+      "producer": "Canadian Club / Beam Suntory at release, now Suntory Global Spirits; Hiram Walker & Sons, Windsor, Ontario, identified for the 1977 corn stocks",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
-      "age_statement_years": 41.0,
-      "age_information": "41 years",
-      "grain_information": "Corn base with rye, Cognac and sherry additions",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Blending additions; not automatically a cask finish",
-      "release_year_or_era": "2018",
+      "age_statement_years": 41,
+      "age_information": "41 Years — label statement; flavoring additions separately documented",
+      "grain_information": "1977 all-corn whisky base with small Cognac, rye whisky and sherry additions; exact proportions undisclosed",
+      "grain_confidence": "Corn base and addition identities confirmed by producer and matched specialist records; ratios and addition ages undisclosed.",
+      "finishing_information": "American-oak maturation of old corn whisky; Cognac, rye and sherry blended in, not authenticated as separate cask finishes",
+      "release_year_or_era": "2018 original Chronicles Issue No. 1; producer website retrospective numbering does not create a second identity",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "CC Chronicles No. 2 - 41 Year Old Whisky | Canadian Club",
@@ -4351,36 +4351,85 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://www.canadianclub.com/products/canadian-club-chronicles-41-year-old-whisky",
+      "potential_image_source": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-41-year-old-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Mark Gillespie",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/canadian-club-chronicles/",
+            "summary": "Gillespie finds integrated grain spice and fruit, followed by a lively palate and a long dry ending. Astringency remains part of the finish, but the overall judgment is strongly favorable.",
+            "scope": "November 2018, 41-year / 45% ABV, 94-point published judgment."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-chronicles-41-year-old/",
+            "summary": "Dykstra finds well-combined nutty sweetness, fruit and spice but says persistent sappy wood is approaching the whisky’s limit. He likes the blend while preferring less influence from the added spirits and wine.",
+            "scope": "January 12, 2020, exact 41-year / 45% ABV; 89.5 points include presentation as well as sensory execution."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 63
+      "deterministic_order": 63,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-009",
+      "publication_sources": [
+        {
+          "title": "41 Year — Canadian Club",
+          "url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-41-year-old-whisky",
+          "role": "Primary corn base, additions, 2018 identity and exact photograph."
+        },
+        {
+          "title": "Chronicles — WhiskyCast",
+          "url": "https://whiskycast.com/ratings/canadian-club-chronicles/",
+          "role": "Matched independent tasting and specific distillation era."
+        },
+        {
+          "title": "41 Year — Rum Howler",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-chronicles-41-year-old/",
+          "role": "Detailed wood-management counterpoint; CAD suggested price not treated as USD."
+        },
+        {
+          "title": "Chronicles U.S. market account — Forbes",
+          "url": "https://www.forbes.com/sites/joemicallef/2020/02/27/canadian-club-rolls-out-chronicles-its-ultra-aged-heritage-series/",
+          "role": "February 27, 2020 U.S. distribution context and USD 250 / 750 mL SRP; unrelated historical errors and a separate age typo are not adopted."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-41-year-old-whisky",
+        "image_url": "https://www.canadianclub.com/sites/default/files/styles/original/public/2024-05/canadian-club-bottle-41-chronicles-issue-no-2.png.webp?itok=gVJSPLht",
+        "scope": "Canadian Club Chronicles Issue No. 1, The Water of Windsor, 41-year label statement, 45% ABV / 750 mL; 2018 release.",
+        "sha256": "63d1f1a77ef73982e91c490ffad779993534bfe26b8813e58043893598c93fd7",
+        "image_embedded": true,
+        "width": 1500,
+        "height": 1500
+      }
     },
     {
       "id": "canadian-club-chronicles-42-year-the-dock-man",
       "canonical_expression_name": "Canadian Club Chronicles 42 Year — The Dock Man",
       "filename": "canadian-club-chronicles-42-year-the-dock-man.html",
       "brand_family": "Canadian Club",
-      "producer": "Canadian Club / Suntory Global Spirits; Ontario production and Alberta rye sourcing distinguished",
+      "producer": "Canadian Club / Beam Suntory at release, now Suntory Global Spirits; Hiram Walker & Sons, Windsor, Ontario, identified for the 1977 corn stocks",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
-      "age_statement_years": 42.0,
-      "age_information": "42 years",
-      "grain_information": "Corn-led blend; rye and Cognac components",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
-      "release_year_or_era": "2019",
+      "age_statement_years": 42,
+      "age_information": "42 Years — label statement; flavoring additions separately documented",
+      "grain_information": "1977 corn-whisky base with reported 16-year rye, 12-year pot-distilled rye and brandy/Cognac additions; blend ratios undisclosed",
+      "grain_confidence": "Exact matched specialist accounts corroborate component identities; precise percentages and complete producer formula not authenticated.",
+      "finishing_information": "Old corn base matured in American oak; reported rye and brandy additions are blending components, not a verified secondary cask finish",
+      "release_year_or_era": "2019 original Chronicles Issue No. 2",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Canadian Club",
@@ -4393,36 +4442,97 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://founders.beamsuntory.com/dna/canadianclub",
+      "potential_image_source": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-42-year-old-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-chronicles-issue-2-42-years-old/",
+            "summary": "Dykstra finds expanding grain, fruit and nutty sweetness, elegant balance and persistent spice. His earlier blind notes were already strongly positive, so the favorable assessment did not depend solely on seeing the age.",
+            "scope": "February 22, 2020, 42-year / 45% ABV; 94-point overall review includes presentation."
+          },
+          {
+            "reviewer": "Coldorak",
+            "publisher": "More Drams, Less Drama",
+            "url": "https://moredramslessdrama.com/2023/07/25/canadian-club-40-42-year-old/",
+            "summary": "The comparison finds the 42-year fuller and creamier than the 40-year, with more wood, pepper and caramel. It regards the added components as effective and judges the final whisky favorably.",
+            "scope": "July 25, 2023, separately reviewed exact 42-year sample; 87 points."
+          },
+          {
+            "reviewer": "Courtney Kristjana",
+            "publisher": "The Whiskey Wash",
+            "url": "https://thewhiskeywash.com/canadian-whiskey/whisky-review-canadian-club-42-year-old/",
+            "summary": "Kristjana finds attractive orchard fruit and citrus but very light texture and a missing or wood-obscured element. She enjoys the pour while reporting less body and completeness than the other records.",
+            "scope": "March 11, 2020, exact 90-proof / 750 mL record; review-sample source disclosed ambiguously by the publisher."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 64
+      "deterministic_order": 64,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-009",
+      "publication_sources": [
+        {
+          "title": "42 Year — Canadian Club",
+          "url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-42-year-old-whisky",
+          "role": "Primary exact 42-year / 45% ABV label photograph."
+        },
+        {
+          "title": "42 Year — Rum Howler",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-chronicles-issue-2-42-years-old/",
+          "role": "Component identity and substantive independent sensory record; packaging score excluded from project Quality."
+        },
+        {
+          "title": "40 and 42 comparison — More Drams, Less Drama",
+          "url": "https://moredramslessdrama.com/2023/07/25/canadian-club-40-42-year-old/",
+          "role": "Exact 42-year body and wood assessment; original forty-year content is not merged."
+        },
+        {
+          "title": "42 Year — The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/whisky-review-canadian-club-42-year-old/",
+          "role": "Substantive lighter-body counterpoint and dated U.S. 2020 price context."
+        },
+        {
+          "title": "Utah February 2026 official price list",
+          "url": "https://abs.stage.utah.gov/wp-content/uploads/Feb2026AlphaPriceList.pdf",
+          "role": "Exact code 010640, 750 mL, USD 329.99, limited-discontinued status; primary dated U.S. market evidence."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-42-year-old-whisky",
+        "image_url": "https://www.canadianclub.com/sites/default/files/styles/original/public/2024-05/canadian-club-bottle-42-chronicles-issue-no-3.png.webp?itok=WrJwIdrR",
+        "scope": "Canadian Club Chronicles Issue No. 2, The Dock Man, 42-year label statement, 45% ABV / 750 mL; 2019 release.",
+        "sha256": "bdcff507c33da00475246cacf4b809d066df5935deef345eb667785fa36a932f",
+        "image_embedded": true,
+        "width": 1500,
+        "height": 1500
+      }
     },
     {
       "id": "canadian-club-chronicles-43-year-the-speakeasy",
       "canonical_expression_name": "Canadian Club Chronicles 43 Year — The Speakeasy",
       "filename": "canadian-club-chronicles-43-year-the-speakeasy.html",
       "brand_family": "Canadian Club",
-      "producer": "Canadian Club / Suntory Global Spirits; Ontario production and Alberta rye sourcing distinguished",
+      "producer": "Canadian Club / Beam Suntory at release, now Suntory Global Spirits; Hiram Walker & Sons, Windsor, Ontario, identified for the 1977 corn stocks",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
-      "age_statement_years": 43.0,
-      "age_information": "43 years",
-      "grain_information": "Corn-led; exact recipe to verify",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
-      "release_year_or_era": "2020",
+      "age_statement_years": 43,
+      "age_information": "43 Years — label statement; reported younger rye addition",
+      "grain_information": "1977 corn-whisky base; a small 11-year rye-whisky addition reported by the matched specialist review; exact recipe and proportions undisclosed",
+      "grain_confidence": "Corn lineage corroborated; specific 11-year rye addition is attributed to Dykstra’s specialist account, not an authenticated producer percentage.",
+      "finishing_information": "American-oak matured corn base with reported rye blending addition; no distinct additional cask finish verified",
+      "release_year_or_era": "Producer announcement October 22, 2020; original Chronicles Issue No. 3",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Canadian Club",
@@ -4430,36 +4540,102 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://founders.beamsuntory.com/dna/canadianclub",
+      "potential_image_source": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-43-year-old-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/canadian-club-43-year-old-chronicles-the-speakeasy",
+            "summary": "The detailed record finds a slowly opening aroma, rich creamy texture, restrained herbal spice and a long warm ending. Mature wood supports the development rather than erasing its delicacy.",
+            "scope": "November 18, 2020, 43-year / 45% ABV exact Speakeasy."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-chronicles-43-year-old-canadian-whisky/",
+            "summary": "Dykstra describes unusually rich aromatics, luxurious texture and sustained grain, spice and fruit. He regards the restrained rye contribution as an improvement over earlier addition recipes.",
+            "scope": "January 4, 2021, exact 43-year / 45% ABV; 95 points include presentation."
+          },
+          {
+            "reviewer": "David S",
+            "publisher": "Bourbon By Proxy",
+            "url": "https://bourbonbyproxy.com/review-canadian-club-chronicles-43-year/",
+            "summary": "The reviewer finds creamy sweetness and mature leather/wood, with a long finish. His main reservation is that oak becomes slightly excessive at the very end.",
+            "scope": "2022 dated exact 90-proof / 43-year review; tentative production and folklore claims not adopted."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 65
+      "deterministic_order": 65,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-009",
+      "publication_sources": [
+        {
+          "title": "43 Year — Canadian Club",
+          "url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-43-year-old-whisky",
+          "role": "Primary exact photograph; label says Issue No. 3 despite website No. 4 wording."
+        },
+        {
+          "title": "43 Year producer announcement via Nasdaq / Newsfile",
+          "url": "https://www.nasdaq.com/press-release/canadian-clubr-releases-limited-edition-43-year-old-whisky-canadas-oldest-aged-whisky",
+          "role": "October 22, 2020 Canadian launch, 45% ABV and CAD 319.99 / 750 mL context."
+        },
+        {
+          "title": "The Speakeasy — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/canadian-club-43-year-old-chronicles-the-speakeasy",
+          "role": "Substantive dated independent aroma, palate, texture and finish record."
+        },
+        {
+          "title": "43 Year — Rum Howler",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-chronicles-43-year-old-canadian-whisky/",
+          "role": "Substantive sensory record and explicitly attributed 11-year rye addition."
+        },
+        {
+          "title": "43 Year — Bourbon By Proxy",
+          "url": "https://bourbonbyproxy.com/review-canadian-club-chronicles-43-year/",
+          "role": "Independent finish counterpoint; uncertain price/currency and speculative grain/history not treated as authoritative."
+        },
+        {
+          "title": "43 Year 750 mL — K&L",
+          "url": "https://shop.klwines.com/products/details/1512028",
+          "role": "Exact U.S. archival previous USD 300 price observed October 14, 2026; original price date and current ordinary quote unverified."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-43-year-old-whisky",
+        "image_url": "https://www.canadianclub.com/sites/default/files/styles/original/public/2024-05/canadian-club-bottle-43-chronicles-issue-no-4.png.webp?itok=tXUCM_dT",
+        "scope": "Canadian Club Chronicles Issue No. 3, The Speakeasy, 43-year label statement, 45% ABV / 90 proof / 750 mL; 2020 release.",
+        "sha256": "a9e9d9a40719c45ca7acb6ec4de83d82d0813b0def9363780ad8de4b4035c49b",
+        "image_embedded": true,
+        "width": 1500,
+        "height": 1500
+      }
     },
     {
       "id": "canadian-club-chronicles-44-year-the-whisky-sixes",
       "canonical_expression_name": "Canadian Club Chronicles 44 Year — The Whisky Sixes",
       "filename": "canadian-club-chronicles-44-year-the-whisky-sixes.html",
       "brand_family": "Canadian Club",
-      "producer": "Canadian Club / Suntory Global Spirits; Ontario production and Alberta rye sourcing distinguished",
+      "producer": "Canadian Club / Beam Suntory at release, now Suntory Global Spirits; Hiram Walker & Sons, Windsor, Ontario, identified for the 1977 corn stocks",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
-      "age_statement_years": 44.0,
-      "age_information": "44 years",
-      "grain_information": "Corn-led; exact recipe to verify",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
-      "release_year_or_era": "2021",
+      "age_statement_years": 44,
+      "age_information": "44 Years — label statement; reported blending additions",
+      "grain_information": "1977 corn-whisky base with reported small aged Canadian rye-whisky and sherry additions; exact ratios undisclosed",
+      "grain_confidence": "Old corn lineage corroborated; rye and sherry additions attributed to the exact specialist record; complete producer formula unavailable.",
+      "finishing_information": "American-oak matured corn base; reported aged rye and sherry blending additions, not an authenticated sherry-cask finish",
+      "release_year_or_era": "November 2021; original Chronicles Issue No. 4",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Whiskies | Canadian Club",
@@ -4467,36 +4643,78 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://www.canadianclub.com/en-ca/products/whiskies",
+      "potential_image_source": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-44-year-old-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-chronicles-44-year-old-the-whisky-sixes/",
+            "summary": "After allowing time in the glass, Dykstra finds layered nutty sweetness, fruit, spice and a long ending. A recurring musty or mildew-like note disrupts both palate and finish and limits his overall enthusiasm.",
+            "scope": "May 13, 2022 exact 44-year review; 87 points include presentation. A single published sample does not establish every bottle as flawed."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 66
+      "deterministic_order": 66,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-009",
+      "publication_sources": [
+        {
+          "title": "44 Year — Canadian Club",
+          "url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-44-year-old-whisky",
+          "role": "Primary exact age, proof and Issue No. 4 photograph; erroneous website numbering separated."
+        },
+        {
+          "title": "44 Year — Distiller",
+          "url": "https://distiller.com/spirits/canadian-club-chronicles-44-year",
+          "role": "Exact release identity, 45% ABV and November 2021 era; community aggregate is not scored."
+        },
+        {
+          "title": "44 Year — Rum Howler",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/canadian-club-chronicles-44-year-old-the-whisky-sixes/",
+          "role": "Full independent sensory record, reported additions and specific musty-note limitation."
+        },
+        {
+          "title": "Utah February 2026 official price list",
+          "url": "https://abs.stage.utah.gov/wp-content/uploads/Feb2026AlphaPriceList.pdf",
+          "role": "Code 010638, 750 mL, USD 329.99 and limited-discontinued status."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-44-year-old-whisky",
+        "image_url": "https://www.canadianclub.com/sites/default/files/styles/original/public/2024-05/canadian-club-bottle-44-chronicles-issue-no-5.png.webp?itok=OqUlrhSV",
+        "scope": "Canadian Club Chronicles Issue No. 4, The Whisky Sixes, 44-year label statement, 45% ABV / 750 mL; November 2021 release.",
+        "sha256": "0a76f7438ad3199d92b260babc66f101e12345f9f5504f081d4f67b865e08912",
+        "image_embedded": true,
+        "width": 1500,
+        "height": 1500
+      }
     },
     {
       "id": "canadian-club-chronicles-45-year-the-icon",
       "canonical_expression_name": "Canadian Club Chronicles 45 Year — The Icon",
       "filename": "canadian-club-chronicles-45-year-the-icon.html",
       "brand_family": "Canadian Club",
-      "producer": "Canadian Club / Suntory Global Spirits; Ontario production and Alberta rye sourcing distinguished",
+      "producer": "Canadian Club / Beam Suntory at release, now Suntory Global Spirits; Hiram Walker & Sons, Windsor, Ontario, identified for the 1977 corn stocks",
       "status": "limited",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": 100.0,
+      "whisky_category": "Canadian Single Grain",
+      "proof": 100,
       "abv": 50.0,
-      "age_statement_years": 45.0,
-      "age_information": "45 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
-      "release_year_or_era": "2022",
+      "age_statement_years": 45,
+      "age_information": "45 Years",
+      "grain_information": "All-corn whisky reported for this exact final release; no 41–44 recipe additions assumed",
+      "grain_confidence": "Specific all-corn identity reported by Blair Phillips’s dedicated release account and corroborated specialist/brand-ambassador reporting; primary launch does not disclose a numerical mash bill.",
+      "finishing_information": "Long maturation in American ex-bourbon / former Canadian-rye barrels; no separately authenticated finish or flavoring addition",
+      "release_year_or_era": "Producer announcement October 26, 2022; original Chronicles Issue No. 5; specific all-corn final-release evidence",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Whiskies | Canadian Club",
@@ -4504,36 +4722,107 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://www.canadianclub.com/en-ca/products/whiskies",
+      "potential_image_source": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-45-year-old-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Eric Burke",
+            "publisher": "Bourbon Guy",
+            "url": "https://www.bourbonguy.com/blog/2024/4/9/in-honor-of-canadian-rick-canadian-club-chronicles-the-icon-45-year-old-canadian-whiskey",
+            "summary": "Burke finds refined sweetness, floral and mature-oak character, careful balance and a medium-length finish. Neither strength nor wood overwhelms the pour; his purchased bottle is reserved for special occasions.",
+            "scope": "April 9, 2024, 45 years / 50% ABV, purchased 750 mL at Total Wine, Burnsville, Minnesota."
+          },
+          {
+            "reviewer": "Jason Hambrey",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/canadian-club-chronicles-45-year-old-whisky-review-14645",
+            "summary": "Hambrey’s blind judging sample stood out for purity, richness, deep aroma and restrained wood. He also notes that most fellow judges were less enthusiastic and that his own taste did not justify the premium price.",
+            "scope": "January 28, 2023 exact Chronicles No. 5 / 50% ABV; 97-point personal assessment, not a panel consensus."
+          },
+          {
+            "reviewer": "André, Patrick, Martin and Kim",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/canadian-club-chronicles-issue-5-45-year-old-whisky-the-icon/",
+            "summary": "The named tasters consistently find inviting mature grain, fruit and wood, with substantial texture and good balance. Their notes differ in finish length and strength impact while remaining positive.",
+            "scope": "November 25, 2024 tasting entry, 50% ABV; later May 2025 site date is not a new production year."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 67
+      "deterministic_order": 67,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-009",
+      "publication_sources": [
+        {
+          "title": "45 Year — Canadian Club",
+          "url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-45-year-old-whisky",
+          "role": "Primary exact photograph with Issue No. 5, 45 years and 50% ABV."
+        },
+        {
+          "title": "The Icon producer announcement via Newsfile",
+          "url": "https://www.newsfilecorp.com/release/142066/Canadian-ClubR-Launches-the-Fifth-Edition-of-the-Chronicles-Series-Canadian-Club-45-Year-Old-The-Icon",
+          "role": "October 26, 2022 release and 1977 barreling lineage."
+        },
+        {
+          "title": "Final Chronicles release — Whisky Magazine",
+          "url": "https://whiskymag.com/articles/meet-the-final-whisky-in-canadian-clubs-chronicles-series/",
+          "role": "November 23, 2022 dedicated Blair Phillips account: all corn, barrel history and Canadian price context."
+        },
+        {
+          "title": "The Icon — Bourbon Guy",
+          "url": "https://www.bourbonguy.com/blog/2024/4/9/in-honor-of-canadian-rick-canadian-club-chronicles-the-icon-45-year-old-canadian-whiskey",
+          "role": "Substantive purchased-bottle review and exact historical U.S. purchase price."
+        },
+        {
+          "title": "45 Year — Jason Hambrey",
+          "url": "https://www.connosr.com/canadian-club-chronicles-45-year-old-whisky-review-14645",
+          "role": "Detailed independent sensory record and explicit disagreement with most judging peers."
+        },
+        {
+          "title": "The Icon — Québec Whisky",
+          "url": "https://quebecwhisky.com/canadian-club-chronicles-issue-5-45-year-old-whisky-the-icon/",
+          "role": "Multiple named exact 50% ABV sensory records."
+        },
+        {
+          "title": "Utah February 2026 official price list",
+          "url": "https://abs.stage.utah.gov/wp-content/uploads/Feb2026AlphaPriceList.pdf",
+          "role": "Code 010645, 750 mL, USD 369.99, L regular-limited status; dated U.S. primary pricing."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://www.canadianclub.com/en-ca/products/canadian-club-chronicles-45-year-old-whisky",
+        "image_url": "https://www.canadianclub.com/sites/default/files/styles/original/public/2024-12/canadian-club-bottle-45-chronicles-issue-no-5-new.png.webp?itok=bb4uNO4H",
+        "scope": "Canadian Club Chronicles Issue No. 5, The Icon, 45 years, 50% ABV / 100 proof / 750 mL; 2022 final Chronicles release.",
+        "sha256": "8443ab7068abc92d9930f6d59e0b96c685de08bda6fa22457914f4a0828b66bb",
+        "image_embedded": true,
+        "width": 1200,
+        "height": 1200
+      }
     },
     {
       "id": "canadian-club-classic-12-year",
       "canonical_expression_name": "Canadian Club Classic 12 Year",
       "filename": "canadian-club-classic-12-year.html",
       "brand_family": "Canadian Club",
-      "producer": "Canadian Club / Suntory Global Spirits; Ontario production and Alberta rye sourcing distinguished",
+      "producer": "Canadian Club / Suntory Global Spirits; Hiram Walker & Sons, Windsor, identified for the reviewed blend",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 12.0,
-      "age_information": "12 years",
-      "grain_information": "Undisclosed blend ratios",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "None",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "age_statement_years": 12,
+      "age_information": "12 Years",
+      "grain_information": "Corn, rye, malted rye and malted barley family streams; barley emphasis reported, exact proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "American-oak bourbon-barrel maturation; no separate finish documented",
+      "release_year_or_era": "Authenticated independent 2014 review; retained in current catalogue; exact first launch unverified",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Whiskies | Canadian Club",
@@ -4541,36 +4830,90 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://www.canadianclub.com/en-ca/products/whiskies",
+      "potential_image_source": "https://www.canadianclub.com/en-ca/products/classic-12-year-old-canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Stephanie Moreno",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/canadian-club-classic-12-year",
+            "summary": "Moreno finds nutty vanilla sweetness and slight char, with an ending she considers excessively sweet. The 74-point record supports a limited neat-sipping proposition.",
+            "scope": "Exact Classic 12 / 40% ABV named review."
+          },
+          {
+            "reviewer": "Josh",
+            "publisher": "Sipology",
+            "url": "https://sipologyblog.com/2014/04/18/head-to-head-canadian-club-reserve-vs-canadian-club-classic-12/",
+            "summary": "The direct comparison finds Classic 12 thinner and milder than Reserve 9, with modest sweetness, oak and a fast-fading finish. It is mildly recommended as a first pour rather than a forceful sipper.",
+            "scope": "April 18, 2014, 12 years / 40% ABV; no claim that all current batches are unchanged."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 68
+      "deterministic_order": 68,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-009",
+      "publication_sources": [
+        {
+          "title": "Classic 12 — Canadian Club",
+          "url": "https://www.canadianclub.com/en-ca/products/classic-12-year-old-canadian-whisky",
+          "role": "Primary current exact age-stated label photograph."
+        },
+        {
+          "title": "Canadian Club process",
+          "url": "https://www.canadianclub.com/en-ca/our-process",
+          "role": "Primary grain-family boundaries and variant-specific recipes."
+        },
+        {
+          "title": "Classic 12 — Distiller",
+          "url": "https://distiller.com/spirits/canadian-club-classic-12-year",
+          "role": "Exact barley emphasis, cask type and named independent sensory record."
+        },
+        {
+          "title": "Reserve 9 / Classic 12 comparison — Sipology",
+          "url": "https://sipologyblog.com/2014/04/18/head-to-head-canadian-club-reserve-vs-canadian-club-classic-12/",
+          "role": "Substantive exact head-to-head texture and finish record."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 37-921, 80 proof, 12Y, 750 mL, USD 24.95 regular price."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://www.canadianclub.com/en-ca/products/classic-12-year-old-canadian-whisky",
+        "image_url": "https://www.canadianclub.com/sites/default/files/styles/original/public/2024-12/canadian-club-bottle-whisky-12-yo.png%20%281%29.webp?itok=X36eGqwv",
+        "scope": "Canadian Club Classic 12 Year, 40% ABV / 80 proof, current recurring Canadian blend.",
+        "sha256": "be49f413aa7803add59943a075427b87a9ffc5a59f9e686890b89b953e9fe12d",
+        "image_embedded": true,
+        "width": 1400,
+        "height": 1400
+      }
     },
     {
       "id": "canadian-club-invitation-series-no-1-sherry-cask-15-year",
       "canonical_expression_name": "Canadian Club Invitation Series No. 1 Sherry Cask 15 Year",
       "filename": "canadian-club-invitation-series-no-1-sherry-cask-15-year.html",
       "brand_family": "Canadian Club",
-      "producer": "Canadian Club / Suntory Global Spirits; Ontario production and Alberta rye sourcing distinguished",
+      "producer": "Canadian Club / Beam Suntory at launch, now Suntory Global Spirits; exact source distillery not independently authenticated for this batch",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 84.0,
+      "proof": 84,
       "abv": 42.0,
-      "age_statement_years": 15.0,
-      "age_information": "15 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Oloroso sherry",
-      "release_year_or_era": "2023",
+      "age_statement_years": 15,
+      "age_information": "15 Years",
+      "grain_information": "Classic-style corn, rye, malted rye and malted barley blend reported; exact proportions undisclosed",
+      "grain_confidence": "Grain-family identities reported by the dedicated specialist review; producer does not disclose the exact numerical recipe or batch source.",
+      "finishing_information": "Secondary aging / finish in Oloroso sherry casks; duration undisclosed",
+      "release_year_or_era": "Producer announcement November 15, 2023, one-time Canadian launch; Oloroso finishing duration undisclosed",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Canadian Club® Launches The Invitation Series with the Release of Canadian Club Issue No. 1 Classic Sherry Cask 15 Year Old",
@@ -4578,36 +4921,85 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://www.newswire.ca/news-releases/canadian-club-r-launches-the-invitation-series-with-the-release-of-canadian-club-issue-no-1-classic-sherry-cask-15-year-old-820579971.html",
+      "potential_image_source": "https://www.canadianclub.com/en-ca/products/cc-invitation-series-sherry-cask-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Stephen Beaumont",
+            "publisher": "Beaumont Drinks",
+            "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/canadian-club-15-sherry",
+            "summary": "Beaumont finds a nutty, fruit-filled aroma, assertive sweet entry, layered spice and a dry fruit-and-oak ending. He sees meaningful gains in richness and complexity from age and sherry treatment.",
+            "scope": "December 21 review associated with the 2023 launch; exact 42% ABV fifteen-year, producer-supplied sample disclosed."
+          },
+          {
+            "reviewer": "Evan",
+            "publisher": "Kensington Wine Market",
+            "url": "https://kensingtonwinemarket.com/product/898101/canadian-club-invitation-15-year-sherry",
+            "summary": "The retailer’s own named tasting describes sweet confectionery and ripe fruit, followed by an easygoing spice finish. It finds a clear improvement over Classic 12; this is supplementary commercially interested tasting evidence.",
+            "scope": "Exact fifteen-year / 42% ABV entry; producer tasting copy is separately labeled and not treated as independent."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 69
+      "deterministic_order": 69,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-009",
+      "publication_sources": [
+        {
+          "title": "Invitation Sherry Cask — Canadian Club",
+          "url": "https://www.canadianclub.com/en-ca/products/cc-invitation-series-sherry-cask-whisky",
+          "role": "Primary exact 15-year / 42% ABV / Issue No. 1 photograph and Oloroso treatment."
+        },
+        {
+          "title": "Invitation launch — Beam Suntory via CNW",
+          "url": "https://www.newswire.ca/news-releases/canadian-club-r-launches-the-invitation-series-with-the-release-of-canadian-club-issue-no-1-classic-sherry-cask-15-year-old-820579971.html",
+          "role": "November 15, 2023 release, secondary Oloroso aging, 42% ABV and Canadian launch scope/price."
+        },
+        {
+          "title": "Classic 15 Sherry Cask — Beaumont Drinks",
+          "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/canadian-club-15-sherry",
+          "role": "Substantive independent sensory record; undisclosed finishing duration separated from reviewer speculation."
+        },
+        {
+          "title": "Invitation 15 — Kensington Wine Market",
+          "url": "https://kensingtonwinemarket.com/product/898101/canadian-club-invitation-15-year-sherry",
+          "role": "Named supplementary retailer tasting, distinct from the copied producer notes; Canadian price not used as USD."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://www.canadianclub.com/en-ca/products/cc-invitation-series-sherry-cask-whisky",
+        "image_url": "https://www.canadianclub.com/sites/default/files/styles/original/public/2024-05/canadian-club-bottle-whisky-cc-invitation-series-15-yo-sherry-cask.png.webp?itok=byPitksC",
+        "scope": "Canadian Club Invitation Series Issue No. 1 Classic Sherry Cask 15 Year, 42% ABV / 84 proof / 750 mL; November 2023 one-time release.",
+        "sha256": "542da49db3a350996eb9abe4914233f70b16485f9e7eed00b7163300cf9b002d",
+        "image_embedded": true,
+        "width": 2000,
+        "height": 2000
+      }
     },
     {
       "id": "canadian-club-reserve-9-year",
       "canonical_expression_name": "Canadian Club Reserve 9 Year",
       "filename": "canadian-club-reserve-9-year.html",
       "brand_family": "Canadian Club",
-      "producer": "Canadian Club / Suntory Global Spirits; Ontario production and Alberta rye sourcing distinguished",
+      "producer": "Canadian Club / Suntory Global Spirits; Hiram Walker & Sons, Windsor, identified in the reviewed-era comparison; exact later batch source not assumed",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 9.0,
-      "age_information": "9 years",
-      "grain_information": "Rye-influenced blend; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "None",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "age_statement_years": 9,
+      "age_information": "9 Years",
+      "grain_information": "Canadian multi-grain blend with greater rye influence than core 1858; exact grain percentages undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Used American-oak maturation; no distinct additional finish documented",
+      "release_year_or_era": "Nine-year identity authenticated by April 2014 review and current producer catalogue; historical Reserve 10 not merged",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Reserve 9 Year Old Canadian Whisky | Canadian Club",
@@ -4617,13 +5009,62 @@
       ],
       "potential_image_source": "https://www.canadianclub.com/products/reserve-9-year-old-canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Stephanie Moreno",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/canadian-club-reserve-9-year",
+            "summary": "Moreno finds a harsh aroma, straightforward sweet rye/vanilla flavors and a tingling finish. Limited complexity leads her to prefer mixed drinks.",
+            "scope": "Exact Reserve 9 / 40% ABV named review, 75 points."
+          },
+          {
+            "reviewer": "Josh",
+            "publisher": "Sipology",
+            "url": "https://sipologyblog.com/2014/04/18/head-to-head-canadian-club-reserve-vs-canadian-club-classic-12/",
+            "summary": "The direct tasting finds substantial body, caramel and assertive spice, preferring Reserve 9 to the thinner Classic 12. It recommends the expression while wishing for more bottling strength.",
+            "scope": "April 18, 2014 exact nine-year / 40% ABV comparison; sensory observations are not borrowed from Reserve 10."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 70
+      "deterministic_order": 70,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-009",
+      "publication_sources": [
+        {
+          "title": "Reserve 9 — Canadian Club",
+          "url": "https://www.canadianclub.com/products/reserve-9-year-old-canadian-whisky",
+          "role": "Primary current nine-year identity, rye emphasis and exact photograph."
+        },
+        {
+          "title": "Reserve 9 — Distiller",
+          "url": "https://distiller.com/spirits/canadian-club-reserve-9-year",
+          "role": "Used American-oak detail and substantive exact review."
+        },
+        {
+          "title": "Reserve 9 / Classic 12 — Sipology",
+          "url": "https://sipologyblog.com/2014/04/18/head-to-head-canadian-club-reserve-vs-canadian-club-classic-12/",
+          "role": "2014 age-change context and exact comparative sensory record."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 37-812, 9Y, 80 proof, 750 mL, USD 16.95 regular price."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://www.canadianclub.com/products/reserve-9-year-old-canadian-whisky",
+        "image_url": "https://www.canadianclub.com/sites/default/files/styles/original/public/2024-12/canadian-club-bottle-whisky-9-yo.png%20%281%29.webp?itok=pJn6BRIc",
+        "scope": "Canadian Club Reserve 9 Year, 40% ABV / 80 proof, current recurring Canadian blend; distinct from historical Reserve 10.",
+        "sha256": "12e379223ca7325264e3567ef04eff172d413c1ad0be24602b2e269a7efa4078",
+        "image_embedded": true,
+        "width": 1500,
+        "height": 1500
+      }
     },
     {
       "id": "canadian-club-small-batch-sherry-cask",
