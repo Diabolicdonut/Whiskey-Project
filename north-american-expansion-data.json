@@ -9979,5 +9979,3413 @@
       "image_source": "https://www.saq.com/en/15541272",
       "image_url": "https://www.saq.com/media/catalog/product/1/5/15541272-1_1760444588.png?width=367&height=550&canvas=367,550&optimize=high&fit=bounds&format=jpeg"
     }
+  },
+  {
+    "slug": "alberta-premium-100-rye",
+    "filename": "alberta-premium-100-rye.html",
+    "name": "Alberta Premium 100% Rye",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.6,
+    "quality_score": 5.6,
+    "value": 6.8,
+    "value_score": 6.8,
+    "overall": 6.170899448216605,
+    "overall_score": 6.170899448216605,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "universal_dimensions": {
+        "integration": 5.5,
+        "flavor_development": 6,
+        "finish": 5,
+        "technical_cleanliness": 5.5,
+        "texture": 5.5,
+        "maturity_wood_management": 5,
+        "distinctiveness": 6
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.5,
+      "editorial_adjustment": 0.1,
+      "adjustment_reason": "Null’s bright sweetness and useful mixing profile agree with Bryson’s competent rye assessment, while both identify youthful or edgy finishing character. The modest development supports slightly above competent rather than a high-category reference."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Null’s bright sweetness and useful mixing profile agree with Bryson’s competent rye assessment, while both identify youthful or edgy finishing character. The modest development supports slightly above competent rather than a high-category reference.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The dated U.S. USD 26 reference buys recognizable Canadian 100%-rye character at an accessible budget. Finish reservations temper the value; no temporary sale or current NC price is asserted.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 26.0,
+    "price_basis": "Dated U.S. retail/reference price in independent review",
+    "price_url": "https://www.drinkhacker.com/2023/01/11/review-alberta-premium-rye/",
+    "price_period": "January 11, 2023",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 26,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Standard Alberta Premium NAS 100%-rye whisky, 40% ABV; the U.S. market launch documented in 2022 is not a new age-stated recipe.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.drinkhacker.com/2023/01/11/review-alberta-premium-rye/",
+      "https://whiskyadvocate.com/Alberta-Premium-40"
+    ],
+    "review_publishers": [
+      "Drinkhacker",
+      "Whisky Advocate"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "url": "https://www.drinkhacker.com/2023/01/11/review-alberta-premium-rye/",
+        "reviewer": "Christopher Null",
+        "publisher": "Drinkhacker",
+        "summary": "Null finds grassy oak and citrus, a much sweeter almond/caramel palate, and a slight industrial edge returning at the finish. He considers it useful as a rail option.",
+        "scope": "January 11, 2023 U.S. bottle, 80 proof."
+      },
+      {
+        "url": "https://whiskyadvocate.com/Alberta-Premium-40",
+        "reviewer": "Lew Bryson",
+        "publisher": "Whisky Advocate",
+        "summary": "Bryson finds sweet grain/citrus and soft oak, but an angular mouthful and edgy, boozy finish. Water improves that ending; he regards it as good rather than outstanding.",
+        "scope": "Summer 2012 Canadian-market bottle, 40% ABV; historical corroboration, not proof that a 2023 batch is identical."
+      }
+    ],
+    "source_urls": [
+      "https://www.albertadistillers.com/our-brands",
+      "https://www.drinkhacker.com/2023/01/11/review-alberta-premium-rye/",
+      "https://whiskyadvocate.com/Alberta-Premium-40"
+    ],
+    "production_summary": "Producer documentation establishes Canadian prairie rye and Calgary manufacture. The bottle is 40% ABV and NAS. Multiple rye distillates or casks can be married within a single-grain identity; this is not an American straight-rye designation.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "The producer dates Alberta Premium’s Calgary brand to 1958. Christopher Null documents the standard 80-proof bottle entering the U.S. in 2022, illustrating a later export chapter rather than Prohibition participation.",
+      "The everyday NAS expression is distinct from Golden Rye 9 Year and the limited old/cask-strength bottlings. Historical reports of five-year stocks do not create a current label age statement."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 15,
+        "current_band": false,
+        "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 15,
+        "maximum_exclusive": 22,
+        "current_band": false,
+        "reason": "Easy buy if this precise grain/proof profile appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 22,
+        "maximum_exclusive": 30,
+        "current_band": true,
+        "reason": "Fair given the matched review and dated market context.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 30,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 40,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Standard Alberta Premium NAS 100%-rye whisky, 40% ABV; the U.S. market launch documented in 2022 is not a new age-stated recipe.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-100-rye",
+      "identity": "Standard Alberta Premium NAS 100%-rye whisky, 40% ABV; the U.S. market launch documented in 2022 is not a new age-stated recipe.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "NAS",
+      "short_version": "A competent, affordable Canadian 100%-rye reference with sweetness and grassier grain character, limited by a youthful/edgy finish.",
+      "production": "Producer documentation establishes Canadian prairie rye and Calgary manufacture. The bottle is 40% ABV and NAS. Multiple rye distillates or casks can be married within a single-grain identity; this is not an American straight-rye designation.",
+      "history": [
+        "The producer dates Alberta Premium’s Calgary brand to 1958. Christopher Null documents the standard 80-proof bottle entering the U.S. in 2022, illustrating a later export chapter rather than Prohibition participation.",
+        "The everyday NAS expression is distinct from Golden Rye 9 Year and the limited old/cask-strength bottlings. Historical reports of five-year stocks do not create a current label age statement."
+      ],
+      "reviews": [
+        {
+          "url": "https://www.drinkhacker.com/2023/01/11/review-alberta-premium-rye/",
+          "reviewer": "Christopher Null",
+          "publisher": "Drinkhacker",
+          "summary": "Null finds grassy oak and citrus, a much sweeter almond/caramel palate, and a slight industrial edge returning at the finish. He considers it useful as a rail option.",
+          "scope": "January 11, 2023 U.S. bottle, 80 proof."
+        },
+        {
+          "url": "https://whiskyadvocate.com/Alberta-Premium-40",
+          "reviewer": "Lew Bryson",
+          "publisher": "Whisky Advocate",
+          "summary": "Bryson finds sweet grain/citrus and soft oak, but an angular mouthful and edgy, boozy finish. Water improves that ending; he regards it as good rather than outstanding.",
+          "scope": "Summer 2012 Canadian-market bottle, 40% ABV; historical corroboration, not proof that a 2023 batch is identical."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Brands of Distinction | Alberta Distillers",
+          "url": "https://www.albertadistillers.com/our-brands",
+          "role": "Producer brand chronology and 100%-rye identity."
+        },
+        {
+          "title": "Review: Alberta Premium Rye - Drinkhacker",
+          "url": "https://www.drinkhacker.com/2023/01/11/review-alberta-premium-rye/",
+          "role": "Named U.S. tasting, 2022 American launch and USD 26 price reference."
+        },
+        {
+          "title": "Alberta Premium, 40%",
+          "url": "https://whiskyadvocate.com/Alberta-Premium-40",
+          "role": "Historical Canadian tasting; separate date and market preserved."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "No separate finish established",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 15,
+          "current_band": false,
+          "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 15,
+          "maximum_exclusive": 22,
+          "current_band": false,
+          "reason": "Easy buy if this precise grain/proof profile appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 22,
+          "maximum_exclusive": 30,
+          "current_band": true,
+          "reason": "Fair given the matched review and dated market context.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 30,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 40,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+        }
+      ],
+      "proof": 80,
+      "age": null,
+      "quality": 5.6,
+      "value": 6.8,
+      "dimensions": [
+        5.5,
+        6,
+        5,
+        5.5,
+        5.5,
+        5,
+        6
+      ],
+      "quality_rationale": "Null’s bright sweetness and useful mixing profile agree with Bryson’s competent rye assessment, while both identify youthful or edgy finishing character. The modest development supports slightly above competent rather than a high-category reference.",
+      "value_rationale": "The dated U.S. USD 26 reference buys recognizable Canadian 100%-rye character at an accessible budget. Finish reservations temper the value; no temporary sale or current NC price is asserted.",
+      "pricing": {
+        "amount": 26,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "January 11, 2023",
+        "basis": "Dated U.S. retail/reference price in independent review",
+        "url": "https://www.drinkhacker.com/2023/01/11/review-alberta-premium-rye/",
+        "nc_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency."
+      }
+    }
+  },
+  {
+    "slug": "alberta-premium-25-year",
+    "filename": "alberta-premium-25-year.html",
+    "name": "Alberta Premium 25 Year",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "25 Years",
+    "age_display": "25 Years",
+    "age_sort_years": 25,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 8.1,
+    "quality_score": 8.1,
+    "value": 9.2,
+    "value_score": 9.2,
+    "overall": 8.632496741962894,
+    "overall_score": 8.632496741962894,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "One detailed exact-expression specialist record supports a provisional universal-rubric estimate. Historical price/value does not imply a current obtainable offer.",
+      "universal_dimensions": {
+        "integration": 8,
+        "flavor_development": 8.5,
+        "finish": 8,
+        "technical_cleanliness": 8,
+        "texture": 8,
+        "maturity_wood_management": 8,
+        "distinctiveness": 8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 8.1,
+      "editorial_adjustment": 0.0,
+      "adjustment_reason": "Developed layers, weight and controlled maturity support excellent execution. Slight drying tannins and a limited exact historical review record keep the provisional estimate below exceptional."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Developed layers, weight and controlled maturity support excellent execution. Slight drying tannins and a limited exact historical review record keep the provisional estimate below exceptional.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the historical Canadian CAD 30.00 reference, the documented mature execution was unusually accessible. This is an original-era Value assessment; present collector prices and stock are not established.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": null,
+    "price_basis": "Historical Canadian retail reference; not current availability",
+    "price_url": "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html",
+    "price_period": "March 2011 retrospective",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 30,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "The 2007 limited Alberta Premium 25 Year release, 40% ABV.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html"
+    ],
+    "review_publishers": [
+      "Canadian Whisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html",
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "summary": "De Kergommeaux describes creamy weight, developed fruit/spice and aromatic wood held in balance, with changing pepper/citrus persistence. He strongly recommends the release.",
+        "scope": "Exact 25-year / 40% ABV historical release."
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html"
+    ],
+    "production_summary": "Documented 25-year, 100%-rye whisky from Alberta Distillers, bottled at 40% ABV. Specific cask proportions are not generalized from later releases. No separate secondary finish was authenticated.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "This 2007 age-stated edition demonstrated Calgary’s long-aged rye holdings before the modern cask-strength programme. It retains a distinct recipe/age identity from the core NAS bottle.",
+      "The specialist source identifies the twenty-five-year bottling as one 2007 batch."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 25,
+        "maximum_exclusive": 35,
+        "current_band": true,
+        "reason": "Easy buy if this precise grain/proof profile appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 35,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Fair given the matched review and dated market context.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 55,
+        "maximum_exclusive": 85,
+        "current_band": false,
+        "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 85,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484136578-6HD2UN90UVSJLN2IZOLW/5.-Alberta-Premium-25-1.jpg",
+        "scope": "The 2007 limited Alberta Premium 25 Year release, 40% ABV.",
+        "sha256": "fb3be5d03fe1ac64fc0527dd7f22ac39a06609655a5017612353b7fc6095e0dc",
+        "image_embedded": true,
+        "width": 800,
+        "height": 505
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "The 2007 limited Alberta Premium 25 Year release, 40% ABV.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-25-year",
+      "identity": "The 2007 limited Alberta Premium 25 Year release, 40% ABV.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "25 Years",
+      "short_version": "Developed layers, weight and controlled maturity support excellent execution. Slight drying tannins and a limited exact historical review record keep the provisional estimate below exceptional.",
+      "production": "Documented 25-year, 100%-rye whisky from Alberta Distillers, bottled at 40% ABV. Specific cask proportions are not generalized from later releases. No separate secondary finish was authenticated.",
+      "history": [
+        "This 2007 age-stated edition demonstrated Calgary’s long-aged rye holdings before the modern cask-strength programme. It retains a distinct recipe/age identity from the core NAS bottle.",
+        "The specialist source identifies the twenty-five-year bottling as one 2007 batch."
+      ],
+      "reviews": [
+        {
+          "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html",
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "summary": "De Kergommeaux describes creamy weight, developed fruit/spice and aromatic wood held in balance, with changing pepper/citrus persistence. He strongly recommends the release.",
+          "scope": "Exact 25-year / 40% ABV historical release."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Premium aged 25 years (40% alc./vol.) — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html",
+          "role": "Named specialist tasting, grain, age, chronology and original Canadian price."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "No separate finish established",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 25,
+          "maximum_exclusive": 35,
+          "current_band": true,
+          "reason": "Easy buy if this precise grain/proof profile appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 35,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Fair given the matched review and dated market context.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 55,
+          "maximum_exclusive": 85,
+          "current_band": false,
+          "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 85,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+        }
+      ],
+      "proof": 80,
+      "age": 25,
+      "quality": 8.1,
+      "value": 9.2,
+      "dimensions": [
+        8,
+        8.5,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "quality_rationale": "Developed layers, weight and controlled maturity support excellent execution. Slight drying tannins and a limited exact historical review record keep the provisional estimate below exceptional.",
+      "value_rationale": "At the historical Canadian CAD 30.00 reference, the documented mature execution was unusually accessible. This is an original-era Value assessment; present collector prices and stock are not established.",
+      "pricing": {
+        "amount": 30,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "March 2011 retrospective",
+        "basis": "Historical Canadian retail reference; not current availability",
+        "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html",
+        "nc_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency."
+      },
+      "image_source": "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484136578-6HD2UN90UVSJLN2IZOLW/5.-Alberta-Premium-25-1.jpg",
+      "evidence_limit": "One detailed exact-expression specialist record supports a provisional universal-rubric estimate. Historical price/value does not imply a current obtainable offer."
+    }
+  },
+  {
+    "slug": "alberta-premium-30-year",
+    "filename": "alberta-premium-30-year.html",
+    "name": "Alberta Premium 30 Year",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "30 Years",
+    "age_display": "30 Years",
+    "age_sort_years": 30,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 8.2,
+    "quality_score": 8.2,
+    "value": 9.0,
+    "value_score": 9.0,
+    "overall": 8.590692637965812,
+    "overall_score": 8.590692637965812,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "One detailed exact-expression specialist record supports a provisional universal-rubric estimate. Historical price/value does not imply a current obtainable offer.",
+      "universal_dimensions": {
+        "integration": 8,
+        "flavor_development": 8.5,
+        "finish": 8.5,
+        "technical_cleanliness": 8,
+        "texture": 8,
+        "maturity_wood_management": 8,
+        "distinctiveness": 8.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 8.2,
+      "editorial_adjustment": 0.0,
+      "adjustment_reason": "The detailed account supports excellent depth and persistence while retaining wood/pith tension. Age and a superlative reviewer endorsement do not by themselves make a reference-class score."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The detailed account supports excellent depth and persistence while retaining wood/pith tension. Age and a superlative reviewer endorsement do not by themselves make a reference-class score.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the historical Canadian CAD 49.95 reference, the documented mature execution was unusually accessible. This is an original-era Value assessment; present collector prices and stock are not established.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": null,
+    "price_basis": "Historical Canadian retail reference; not current availability",
+    "price_url": "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html",
+    "price_period": "June 2011 release",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 49.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "The 2011 limited Alberta Premium 30 Year release, 40% ABV.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html"
+    ],
+    "review_publishers": [
+      "Canadian Whisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html",
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "summary": "De Kergommeaux finds a gradual fruit/cedar/spice reveal, creamy counterbalance to dry pith and resinous wood, and a long evolving finish. His comparison favors it over the twenty-five-year release.",
+        "scope": "Exact 30-year / 40% ABV historical release."
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html"
+    ],
+    "production_summary": "Documented 30-year, 100%-rye whisky from Alberta Distillers, bottled at 40% ABV. Specific cask proportions are not generalized from later releases. The contemporary account describes charred white-oak maturation.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "This 2011 age-stated edition demonstrated Calgary’s long-aged rye holdings before the modern cask-strength programme. It retains a distinct recipe/age identity from the core NAS bottle.",
+      "The thirty-year account describes re-gauging into fewer casks in 2007 and a 2011 allocation of 700 twelve-bottle cases; those handling details are attributed to that source."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 25,
+        "maximum_exclusive": 35,
+        "current_band": false,
+        "reason": "Easy buy if this precise grain/proof profile appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 35,
+        "maximum_exclusive": 55,
+        "current_band": true,
+        "reason": "Fair given the matched review and dated market context.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 55,
+        "maximum_exclusive": 85,
+        "current_band": false,
+        "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 85,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484156233-W9WDTEK81G1K7J6S8J8M/Alberta-Premium-30.jpg",
+        "scope": "The 2011 limited Alberta Premium 30 Year release, 40% ABV.",
+        "sha256": "bda6778a267cdc01480c63d409ef903c4cd3d619ba5b82d5d24bf7918acdfa16",
+        "image_embedded": true,
+        "width": 800,
+        "height": 505
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "The 2011 limited Alberta Premium 30 Year release, 40% ABV.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-30-year",
+      "identity": "The 2011 limited Alberta Premium 30 Year release, 40% ABV.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "30 Years",
+      "short_version": "The detailed account supports excellent depth and persistence while retaining wood/pith tension. Age and a superlative reviewer endorsement do not by themselves make a reference-class score.",
+      "production": "Documented 30-year, 100%-rye whisky from Alberta Distillers, bottled at 40% ABV. Specific cask proportions are not generalized from later releases. The contemporary account describes charred white-oak maturation.",
+      "history": [
+        "This 2011 age-stated edition demonstrated Calgary’s long-aged rye holdings before the modern cask-strength programme. It retains a distinct recipe/age identity from the core NAS bottle.",
+        "The thirty-year account describes re-gauging into fewer casks in 2007 and a 2011 allocation of 700 twelve-bottle cases; those handling details are attributed to that source."
+      ],
+      "reviews": [
+        {
+          "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html",
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "summary": "De Kergommeaux finds a gradual fruit/cedar/spice reveal, creamy counterbalance to dry pith and resinous wood, and a long evolving finish. His comparison favors it over the twenty-five-year release.",
+          "scope": "Exact 30-year / 40% ABV historical release."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Premium 30 Year Old Limited Edition® — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html",
+          "role": "Named specialist tasting, grain, age, chronology and original Canadian price."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "No separate finish established",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 25,
+          "maximum_exclusive": 35,
+          "current_band": false,
+          "reason": "Easy buy if this precise grain/proof profile appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 35,
+          "maximum_exclusive": 55,
+          "current_band": true,
+          "reason": "Fair given the matched review and dated market context.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 55,
+          "maximum_exclusive": 85,
+          "current_band": false,
+          "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 85,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+        }
+      ],
+      "proof": 80,
+      "age": 30,
+      "quality": 8.2,
+      "value": 9.0,
+      "dimensions": [
+        8,
+        8.5,
+        8.5,
+        8,
+        8,
+        8,
+        8.5
+      ],
+      "quality_rationale": "The detailed account supports excellent depth and persistence while retaining wood/pith tension. Age and a superlative reviewer endorsement do not by themselves make a reference-class score.",
+      "value_rationale": "At the historical Canadian CAD 49.95 reference, the documented mature execution was unusually accessible. This is an original-era Value assessment; present collector prices and stock are not established.",
+      "pricing": {
+        "amount": 49.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "June 2011 release",
+        "basis": "Historical Canadian retail reference; not current availability",
+        "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html",
+        "nc_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency."
+      },
+      "image_source": "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484156233-W9WDTEK81G1K7J6S8J8M/Alberta-Premium-30.jpg",
+      "evidence_limit": "One detailed exact-expression specialist record supports a provisional universal-rubric estimate. Historical price/value does not imply a current obtainable offer."
+    }
+  },
+  {
+    "slug": "alberta-premium-batch-10-legacy-reserve-2024",
+    "filename": "alberta-premium-batch-10-legacy-reserve-2024.html",
+    "name": "Alberta Premium Batch 10 Legacy Reserve (2024)",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 84,
+    "abv": 42.0,
+    "age": "NAS; ten vintages, not a ten-year age statement",
+    "age_display": "NAS; ten vintages, not a ten-year age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.2,
+    "quality_score": 6.2,
+    "value": 5.8,
+    "value_score": 5.8,
+    "overall": 5.99666574022598,
+    "overall_score": 5.99666574022598,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "universal_dimensions": {
+        "integration": 6,
+        "flavor_development": 6.5,
+        "finish": 5.5,
+        "technical_cleanliness": 6.5,
+        "texture": 6,
+        "maturity_wood_management": 6,
+        "distinctiveness": 6.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.125,
+      "editorial_adjustment": 0.075,
+      "adjustment_reason": "Patrick and Martin find useful fruit/spice and balance; André and Kim identify flat body or a shorter, simpler ending. Good execution is defensible, with material disagreement preventing a higher confident claim."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Patrick and Martin find useful fruit/spice and balance; André and Kim identify flat body or a shorter, simpler ending. Good execution is defensible, with material disagreement preventing a higher confident claim.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The original CAD 69.95 producer SRP is a premium over standard and Golden Rye bottles, while the evidence does not show uniformly greater body or finish. SAQ now lists CAD 50.00, unavailable online; that separate Canadian-board quote is not silently substituted for the launch assessment.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": null,
+    "price_basis": "Original Canadian producer suggested retail price",
+    "price_url": "https://alberta-distillers.reportablenews.com/pr/distillery-of-the-decade-releases-alberta-premium-batch-10-legacy-reserve",
+    "price_period": "October 2024 launch",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 69.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "October 2024 Alberta Premium Batch 10 Legacy Reserve, 42% ABV. “10” refers to the selected decade/warehouses, not a label age.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://quebecwhisky.com/alberta-premium-batch-10-legacy-reserve/"
+    ],
+    "review_publishers": [
+      "Québec Whisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://quebecwhisky.com/alberta-premium-batch-10-legacy-reserve/",
+        "reviewer": "André, Patrick, Martin and Kim",
+        "publisher": "Québec Whisky",
+        "summary": "Patrick praises developed fruit/chocolate and a long finish; Martin finds straightforward balance. André describes flatter texture and a short ending, and Kim finds the profile relatively one-dimensional with astringency.",
+        "scope": "Exact Batch 10 Legacy Reserve, 42% ABV; four individually signed opinions within one publication."
+      }
+    ],
+    "source_urls": [
+      "https://alberta-distillers.reportablenews.com/pr/distillery-of-the-decade-releases-alberta-premium-batch-10-legacy-reserve",
+      "https://quebecwhisky.com/alberta-premium-batch-10-legacy-reserve/",
+      "https://www.saq.com/en/15562479"
+    ],
+    "production_summary": "Producer documentation establishes 100% prairie rye, ten selected annual vintages and maturation in new white oak, ex-bourbon and ex-Canadian-whisky barrels. The stocks are blended and bottled at 42% ABV; proportions and an explicit label age remain undisclosed.",
+    "finishing_information": "New white oak, ex-bourbon and ex-Canadian-whisky maturation stocks; no separate timed finish",
+    "identity_note": null,
+    "history": [
+      "The producer announced this one-time release in October 2024 using selected 2001–2010 vintages from ten warehouses. It explores maturation-stock diversity rather than introducing a ten-year minimum age."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 35,
+        "current_band": false,
+        "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 35,
+        "maximum_exclusive": 50,
+        "current_band": false,
+        "reason": "Easy buy if this precise grain/proof profile appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 50,
+        "maximum_exclusive": 70,
+        "current_band": true,
+        "reason": "Fair given the matched review and dated market context.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 70,
+        "maximum_exclusive": 90,
+        "current_band": false,
+        "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 90,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.saq.com/en/15562479",
+        "image_url": "https://www.saq.com/media/catalog/product/1/5/15562479-1_1778515988.png?width=367&height=550&canvas=367,550&optimize=high&fit=bounds&format=jpeg",
+        "scope": "October 2024 Alberta Premium Batch 10 Legacy Reserve, 42% ABV. “10” refers to the selected decade/warehouses, not a label age.",
+        "sha256": "b82ea4cfd6815bee5054e89ae7ec991e1a421d094623ccf33eebda62a87ff978",
+        "image_embedded": true,
+        "width": 367,
+        "height": 550
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "October 2024 Alberta Premium Batch 10 Legacy Reserve, 42% ABV. “10” refers to the selected decade/warehouses, not a label age.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-batch-10-legacy-reserve-2024",
+      "identity": "October 2024 Alberta Premium Batch 10 Legacy Reserve, 42% ABV. “10” refers to the selected decade/warehouses, not a label age.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "NAS; ten vintages, not a ten-year age statement",
+      "short_version": "A documented multi-vintage 100%-rye blend whose independent assessments range from flavorful and balanced to flat/short.",
+      "production": "Producer documentation establishes 100% prairie rye, ten selected annual vintages and maturation in new white oak, ex-bourbon and ex-Canadian-whisky barrels. The stocks are blended and bottled at 42% ABV; proportions and an explicit label age remain undisclosed.",
+      "history": [
+        "The producer announced this one-time release in October 2024 using selected 2001–2010 vintages from ten warehouses. It explores maturation-stock diversity rather than introducing a ten-year minimum age."
+      ],
+      "reviews": [
+        {
+          "url": "https://quebecwhisky.com/alberta-premium-batch-10-legacy-reserve/",
+          "reviewer": "André, Patrick, Martin and Kim",
+          "publisher": "Québec Whisky",
+          "summary": "Patrick praises developed fruit/chocolate and a long finish; Martin finds straightforward balance. André describes flatter texture and a short ending, and Kim finds the profile relatively one-dimensional with astringency.",
+          "scope": "Exact Batch 10 Legacy Reserve, 42% ABV; four individually signed opinions within one publication."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Distillers - 'Distillery of the Decade' Releases Alberta Premium Batch 10 Legacy Reserve",
+          "url": "https://alberta-distillers.reportablenews.com/pr/distillery-of-the-decade-releases-alberta-premium-batch-10-legacy-reserve",
+          "role": "Producer exact ten-vintage/warehouse meaning, barrel types, proof and CAD 69.95 launch SRP."
+        },
+        {
+          "title": "Québec Whisky — Batch 10 Legacy Reserve",
+          "url": "https://quebecwhisky.com/alberta-premium-batch-10-legacy-reserve/",
+          "role": "Matched independent tasting disagreement."
+        },
+        {
+          "title": "Alberta Premium Batch 10 Legacy Reserve | Product page | SAQ.COM",
+          "url": "https://www.saq.com/en/15562479",
+          "role": "Current SAQ CAD 50.00 / 750 mL listing is separately disclosed."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "New white oak, ex-bourbon and ex-Canadian-whisky maturation stocks; no separate timed finish",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 35,
+          "current_band": false,
+          "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 35,
+          "maximum_exclusive": 50,
+          "current_band": false,
+          "reason": "Easy buy if this precise grain/proof profile appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 50,
+          "maximum_exclusive": 70,
+          "current_band": true,
+          "reason": "Fair given the matched review and dated market context.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 70,
+          "maximum_exclusive": 90,
+          "current_band": false,
+          "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 90,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+        }
+      ],
+      "proof": 84,
+      "age": null,
+      "quality": 6.2,
+      "value": 5.8,
+      "dimensions": [
+        6,
+        6.5,
+        5.5,
+        6.5,
+        6,
+        6,
+        6.5
+      ],
+      "quality_rationale": "Patrick and Martin find useful fruit/spice and balance; André and Kim identify flat body or a shorter, simpler ending. Good execution is defensible, with material disagreement preventing a higher confident claim.",
+      "value_rationale": "The original CAD 69.95 producer SRP is a premium over standard and Golden Rye bottles, while the evidence does not show uniformly greater body or finish. SAQ now lists CAD 50.00, unavailable online; that separate Canadian-board quote is not silently substituted for the launch assessment.",
+      "pricing": {
+        "amount": 69.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "October 2024 launch",
+        "basis": "Original Canadian producer suggested retail price",
+        "url": "https://alberta-distillers.reportablenews.com/pr/distillery-of-the-decade-releases-alberta-premium-batch-10-legacy-reserve",
+        "nc_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency."
+      },
+      "image_source": "https://www.saq.com/en/15562479",
+      "image_url": "https://www.saq.com/media/catalog/product/1/5/15562479-1_1778515988.png?width=367&height=550&canvas=367,550&optimize=high&fit=bounds&format=jpeg"
+    }
+  },
+  {
+    "slug": "alberta-premium-cask-strength-10-year-2026",
+    "filename": "alberta-premium-cask-strength-10-year-2026.html",
+    "name": "Alberta Premium Cask Strength 10 Year (2026)",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 134,
+    "abv": 67.0,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7.3,
+    "quality_score": 7.3,
+    "value": 7.4,
+    "value_score": 7.4,
+    "overall": 7.349829930005184,
+    "overall_score": 7.349829930005184,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "universal_dimensions": {
+        "integration": 7,
+        "flavor_development": 8,
+        "finish": 8,
+        "technical_cleanliness": 7,
+        "texture": 7.5,
+        "maturity_wood_management": 7,
+        "distinctiveness": 8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.45,
+      "editorial_adjustment": -0.15,
+      "adjustment_reason": "Beaumont’s complex, persistent and elegant account is tempered by Robert K. Stephen’s sharp burn and distracting mineral impression. Very good execution is a cautious synthesis, with high uncertainty about undiluted integration across drinkers."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Beaumont’s complex, persistent and elegant account is tempered by Robert K. Stephen’s sharp burn and distracting mineral impression. Very good execution is a cautious synthesis, with high uncertainty about undiluted integration across drinkers.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The dated Canadian producer CAD 74.95 SRP is a competitive budget for ten-year cask-strength rye, while severe alcohol-integration reservations make sampling sensible. Awards and temporary western sales do not drive Value.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": null,
+    "price_basis": "Canadian producer suggested retail price",
+    "price_url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+    "price_period": "February 9, 2026 national announcement",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 74.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Alberta Premium Cask Strength 10 Year, 67% ABV, nationally announced February 2026 after earlier western-Canadian availability. Earlier 2025-labeled examples are contextual; no duplicate year-only dossier is created.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://beaumont-drinks.squarespace.com/beers-spirits-reviews/alberta-premium-cask-strength-10-year-old",
+      "https://setthebarlifestyle.wordpress.com/2026/05/27/rks-canadian-whisky-alberta-premium-ten-year-old-cask-strength-limited-edition-canadian-rye-whisky-a-confounding-experience-waiting-for-your-subjectivity/"
+    ],
+    "review_publishers": [
+      "Beaumont Drinks",
+      "Set the Bar"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "url": "https://beaumont-drinks.squarespace.com/beers-spirits-reviews/alberta-premium-cask-strength-10-year-old",
+        "reviewer": "Stephen Beaumont",
+        "publisher": "Beaumont Drinks",
+        "summary": "Beaumont finds developed nut/citrus aromas, intense chocolate/vanilla and a long coffee/pepper finish. He calls it elegant at strength but finds dilution sacrifices some complexity.",
+        "scope": "June 17, 2026; ten-year 67% ABV sample supplied by producer."
+      },
+      {
+        "url": "https://setthebarlifestyle.wordpress.com/2026/05/27/rks-canadian-whisky-alberta-premium-ten-year-old-cask-strength-limited-edition-canadian-rye-whisky-a-confounding-experience-waiting-for-your-subjectivity/",
+        "reviewer": "Robert K. Stephen",
+        "publisher": "Set the Bar",
+        "summary": "Stephen reports rye/fruit alongside a cement-like impression and pronounced burning when neat. Ice reduces the heat but strengthens that mineral aroma; his response is ambivalent rather than an endorsement.",
+        "scope": "May 27, 2026; ten-year 67% ABV release."
+      }
+    ],
+    "source_urls": [
+      "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+      "https://beaumont-drinks.squarespace.com/beers-spirits-reviews/alberta-premium-cask-strength-10-year-old",
+      "https://setthebarlifestyle.wordpress.com/2026/05/27/rks-canadian-whisky-alberta-premium-ten-year-old-cask-strength-limited-edition-canadian-rye-whisky-a-confounding-experience-waiting-for-your-subjectivity/",
+      "https://quebecwhisky.com/alberta-premium-cask-strength-10-year-old-2025/"
+    ],
+    "production_summary": "The producer documents local prairie rye and ten years in charred oak, bottled at 67% ABV with a cork closure. No grain-addition or separate finish is established.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "The February 2026 producer announcement presented the first age-stated Alberta Premium cask-strength release during its eightieth-anniversary year. Canadian review and archival records also call it the 2025 edition; western availability preceded the Ontario rollout.",
+      "The distinct ten-year statement and 67% ABV warrant one expression-level record. The announcement year is not silently treated as the distillation or bottling year."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 40,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Easy buy if this precise grain/proof profile appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 55,
+        "maximum_exclusive": 75,
+        "current_band": true,
+        "reason": "Fair given the matched review and dated market context.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 75,
+        "maximum_exclusive": 95,
+        "current_band": false,
+        "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 95,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a very small neat sample; published reactions to the 67% integration conflict substantially."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Add drops gradually, comparing with neat; Beaumont finds some complexity lost, while Stephen finds ice more approachable."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "A small measured drink can use its strength without assuming the burn is a virtue."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Test a small, lightly modified version; the proof makes a fixed undiluted recipe an uncertain starting point."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://beaumont-drinks.squarespace.com/beers-spirits-reviews/alberta-premium-cask-strength-10-year-old",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/644f9d1d4925e04e12ba122a/76bbbc83-5b31-4da0-b754-4b8e37751f53/Alberta+Cask.png",
+        "scope": "Alberta Premium Cask Strength 10 Year, 67% ABV, nationally announced February 2026 after earlier western-Canadian availability. Earlier 2025-labeled examples are contextual; no duplicate year-only dossier is created.",
+        "sha256": "d8b293ae127580d345a30c3f0588844df042ab603c503d41700ae49d62a1bf7d",
+        "image_embedded": true,
+        "width": 950,
+        "height": 950
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Alberta Premium Cask Strength 10 Year, 67% ABV, nationally announced February 2026 after earlier western-Canadian availability. Earlier 2025-labeled examples are contextual; no duplicate year-only dossier is created.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-cask-strength-10-year-2026",
+      "identity": "Alberta Premium Cask Strength 10 Year, 67% ABV, nationally announced February 2026 after earlier western-Canadian availability. Earlier 2025-labeled examples are contextual; no duplicate year-only dossier is created.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "10 Years",
+      "short_version": "An important age-stated Canadian 100%-rye release with developed independent complexity reports, but substantial disagreement about high-strength integration.",
+      "production": "The producer documents local prairie rye and ten years in charred oak, bottled at 67% ABV with a cork closure. No grain-addition or separate finish is established.",
+      "history": [
+        "The February 2026 producer announcement presented the first age-stated Alberta Premium cask-strength release during its eightieth-anniversary year. Canadian review and archival records also call it the 2025 edition; western availability preceded the Ontario rollout.",
+        "The distinct ten-year statement and 67% ABV warrant one expression-level record. The announcement year is not silently treated as the distillation or bottling year."
+      ],
+      "reviews": [
+        {
+          "url": "https://beaumont-drinks.squarespace.com/beers-spirits-reviews/alberta-premium-cask-strength-10-year-old",
+          "reviewer": "Stephen Beaumont",
+          "publisher": "Beaumont Drinks",
+          "summary": "Beaumont finds developed nut/citrus aromas, intense chocolate/vanilla and a long coffee/pepper finish. He calls it elegant at strength but finds dilution sacrifices some complexity.",
+          "scope": "June 17, 2026; ten-year 67% ABV sample supplied by producer."
+        },
+        {
+          "url": "https://setthebarlifestyle.wordpress.com/2026/05/27/rks-canadian-whisky-alberta-premium-ten-year-old-cask-strength-limited-edition-canadian-rye-whisky-a-confounding-experience-waiting-for-your-subjectivity/",
+          "reviewer": "Robert K. Stephen",
+          "publisher": "Set the Bar",
+          "summary": "Stephen reports rye/fruit alongside a cement-like impression and pronounced burning when neat. Ice reduces the heat but strengthens that mineral aroma; his response is ambivalent rather than an endorsement.",
+          "scope": "May 27, 2026; ten-year 67% ABV release."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Distillers - Award-Winning Alberta Distillers Limited® Releases Two New Premium Expressions: Rare Batch Issue No. 2 and Alberta Premium Cask Strength 10 Year Old",
+          "url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+          "role": "Primary ten-year maturation, 67% ABV, cork and CAD 74.95 national-rollout SRP."
+        },
+        {
+          "title": "Alberta Premium Cask Strength 10 year old (67%) — Beaumont Drinks",
+          "url": "https://beaumont-drinks.squarespace.com/beers-spirits-reviews/alberta-premium-cask-strength-10-year-old",
+          "role": "Named sensory complexity and dilution evidence."
+        },
+        {
+          "title": "RKS CANADIAN WHISKY: ALBERTA PREMIUM TEN YEAR OLD CASK STRENGTH LIMITED EDITION CANADIAN RYE WHISKY: A Confounding Experience Waiting for Your Subjectivity! – Set the Bar",
+          "url": "https://setthebarlifestyle.wordpress.com/2026/05/27/rks-canadian-whisky-alberta-premium-ten-year-old-cask-strength-limited-edition-canadian-rye-whisky-a-confounding-experience-waiting-for-your-subjectivity/",
+          "role": "Conflicting named sensory integration record."
+        },
+        {
+          "title": "Québec Whisky — ten-year 2025 edition",
+          "url": "https://quebecwhisky.com/alberta-premium-cask-strength-10-year-old-2025/",
+          "role": "Earlier edition naming / same age-and-strength context; not copied as a separate 2026 batch score."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "No separate finish established",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 40,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Easy buy if this precise grain/proof profile appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 55,
+          "maximum_exclusive": 75,
+          "current_band": true,
+          "reason": "Fair given the matched review and dated market context.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 75,
+          "maximum_exclusive": 95,
+          "current_band": false,
+          "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 95,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a very small neat sample; published reactions to the 67% integration conflict substantially."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Add drops gradually, comparing with neat; Beaumont finds some complexity lost, while Stephen finds ice more approachable."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "A small measured drink can use its strength without assuming the burn is a virtue."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Test a small, lightly modified version; the proof makes a fixed undiluted recipe an uncertain starting point."
+        }
+      ],
+      "proof": 134,
+      "age": 10,
+      "quality": 7.3,
+      "value": 7.4,
+      "dimensions": [
+        7,
+        8,
+        8,
+        7,
+        7.5,
+        7,
+        8
+      ],
+      "quality_rationale": "Beaumont’s complex, persistent and elegant account is tempered by Robert K. Stephen’s sharp burn and distracting mineral impression. Very good execution is a cautious synthesis, with high uncertainty about undiluted integration across drinkers.",
+      "value_rationale": "The dated Canadian producer CAD 74.95 SRP is a competitive budget for ten-year cask-strength rye, while severe alcohol-integration reservations make sampling sensible. Awards and temporary western sales do not drive Value.",
+      "pricing": {
+        "amount": 74.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "February 9, 2026 national announcement",
+        "basis": "Canadian producer suggested retail price",
+        "url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+        "nc_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency."
+      },
+      "image_source": "https://beaumont-drinks.squarespace.com/beers-spirits-reviews/alberta-premium-cask-strength-10-year-old",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/644f9d1d4925e04e12ba122a/76bbbc83-5b31-4da0-b754-4b8e37751f53/Alberta+Cask.png"
+    }
+  },
+  {
+    "slug": "alberta-premium-cask-strength-first-edition-2019",
+    "filename": "alberta-premium-cask-strength-first-edition-2019.html",
+    "name": "Alberta Premium Cask Strength — First Edition (2019)",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 130.2,
+    "abv": 65.1,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.9,
+    "quality_score": 6.9,
+    "value": 5.8,
+    "value_score": 5.8,
+    "overall": 6.326136261573884,
+    "overall_score": 6.326136261573884,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints.",
+      "universal_dimensions": {
+        "integration": 6.5,
+        "flavor_development": 7,
+        "finish": 6.5,
+        "technical_cleanliness": 7,
+        "texture": 7.5,
+        "maturity_wood_management": 6.5,
+        "distinctiveness": 7.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.825,
+      "editorial_adjustment": 0.075,
+      "adjustment_reason": "Hasman’s texture and useful palate agree with Selfbuilt’s broader fruity appeal, but their finish/integration judgments differ. A good-to-very-good synthesis is safer than transferring an award-winning batch reputation."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Hasman’s texture and useful palate agree with Selfbuilt’s broader fruity appeal, but their finish/integration judgments differ. A good-to-very-good synthesis is safer than transferring an award-winning batch reputation.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the dated U.S. USD 70 reference, the named review’s actual execution and competing Canadian rye budgets determine Value; proof, allocation and award history are not bonuses.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 70.0,
+    "price_basis": "Dated U.S. MSRP / independent review retail reference",
+    "price_url": "https://www.breakingbourbon.com/review/alberta-premium-cask-strength-rye-130-2-proof",
+    "price_period": "2021 U.S. review reference",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 70,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Canadian-series first edition (2019), 65.1% ABV. U.S. rollout chronology is separately noted.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.breakingbourbon.com/review/alberta-premium-cask-strength-rye-130-2-proof",
+      "https://whiskyanalysis.com/index.php/2019/11/29/alberta-premium-cask-strength-100-rye/"
+    ],
+    "review_publishers": [
+      "Breaking Bourbon",
+      "Selfbuilt’s Whisky Analysis"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "url": "https://www.breakingbourbon.com/review/alberta-premium-cask-strength-rye-130-2-proof",
+        "reviewer": "Eric Hasman",
+        "publisher": "Breaking Bourbon",
+        "summary": "Hasman finds a straightforward aroma, useful nut/maple/spice development and silky texture, but a relatively uneventful ending. He considers the sip variable rather than a universal standout.",
+        "scope": "2019 Canadian-series edition, exact 65.1% ABV sample."
+      },
+      {
+        "url": "https://whiskyanalysis.com/index.php/2019/11/29/alberta-premium-cask-strength-100-rye/",
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "summary": "Selfbuilt finds abundant fruit/sweetness, rye spice and oak, with good persistence but woody bitterness. Water improves its creamy texture; he places it below older sourced rye and the best Lot 40 cask-strengths.",
+        "scope": "November 2019 Canadian first edition, 65.1% ABV."
+      }
+    ],
+    "source_urls": [
+      "https://www.breakingbourbon.com/review/alberta-premium-cask-strength-rye-130-2-proof",
+      "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+      "https://whiskyanalysis.com/index.php/2019/11/29/alberta-premium-cask-strength-100-rye/"
+    ],
+    "production_summary": "100% Canadian rye, bottled at 65.1% ABV without an authenticated age statement. Individual cask proportions and a separate finish are not established for this exact edition.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "The Canadian sequence began in 2019; this 2019 release is edition 1. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+      "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 40,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Easy buy if this precise grain/proof profile appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 55,
+        "maximum_exclusive": 75,
+        "current_band": true,
+        "reason": "Fair given the matched review and dated market context.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 75,
+        "maximum_exclusive": 95,
+        "current_band": false,
+        "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 95,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Canadian-series first edition (2019), 65.1% ABV. U.S. rollout chronology is separately noted.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-cask-strength-first-edition-2019",
+      "identity": "Canadian-series first edition (2019), 65.1% ABV. U.S. rollout chronology is separately noted.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "NAS",
+      "short_version": "Hasman’s texture and useful palate agree with Selfbuilt’s broader fruity appeal, but their finish/integration judgments differ. A good-to-very-good synthesis is safer than transferring an award-winning batch reputation.",
+      "production": "100% Canadian rye, bottled at 65.1% ABV without an authenticated age statement. Individual cask proportions and a separate finish are not established for this exact edition.",
+      "history": [
+        "The Canadian sequence began in 2019; this 2019 release is edition 1. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+        "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+      ],
+      "reviews": [
+        {
+          "url": "https://www.breakingbourbon.com/review/alberta-premium-cask-strength-rye-130-2-proof",
+          "reviewer": "Eric Hasman",
+          "publisher": "Breaking Bourbon",
+          "summary": "Hasman finds a straightforward aroma, useful nut/maple/spice development and silky texture, but a relatively uneventful ending. He considers the sip variable rather than a universal standout.",
+          "scope": "2019 Canadian-series edition, exact 65.1% ABV sample."
+        },
+        {
+          "url": "https://whiskyanalysis.com/index.php/2019/11/29/alberta-premium-cask-strength-100-rye/",
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "summary": "Selfbuilt finds abundant fruit/sweetness, rye spice and oak, with good persistence but woody bitterness. Water improves its creamy texture; he places it below older sourced rye and the best Lot 40 cask-strengths.",
+          "scope": "November 2019 Canadian first edition, 65.1% ABV."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Premium Cask Strength Rye 130.2 Proof Review | Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/alberta-premium-cask-strength-rye-130-2-proof",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        },
+        {
+          "title": "Alberta Premium Cask Strength 100% Rye – Selfbuilt's Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/29/alberta-premium-cask-strength-100-rye/",
+          "role": "Matched independent corroboration."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "No separate finish established",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 40,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Easy buy if this precise grain/proof profile appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 55,
+          "maximum_exclusive": 75,
+          "current_band": true,
+          "reason": "Fair given the matched review and dated market context.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 75,
+          "maximum_exclusive": 95,
+          "current_band": false,
+          "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 95,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+        }
+      ],
+      "proof": 130.2,
+      "age": null,
+      "quality": 6.9,
+      "value": 5.8,
+      "dimensions": [
+        6.5,
+        7,
+        6.5,
+        7,
+        7.5,
+        6.5,
+        7.5
+      ],
+      "quality_rationale": "Hasman’s texture and useful palate agree with Selfbuilt’s broader fruity appeal, but their finish/integration judgments differ. A good-to-very-good synthesis is safer than transferring an award-winning batch reputation.",
+      "value_rationale": "At the dated U.S. USD 70 reference, the named review’s actual execution and competing Canadian rye budgets determine Value; proof, allocation and award history are not bonuses.",
+      "pricing": {
+        "amount": 70,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2021 U.S. review reference",
+        "basis": "Dated U.S. MSRP / independent review retail reference",
+        "url": "https://www.breakingbourbon.com/review/alberta-premium-cask-strength-rye-130-2-proof",
+        "nc_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency."
+      },
+      "evidence_limit": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints."
+    }
+  },
+  {
+    "slug": "alberta-premium-cask-strength-second-edition-2020",
+    "filename": "alberta-premium-cask-strength-second-edition-2020.html",
+    "name": "Alberta Premium Cask Strength — Second Edition (2020)",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 132,
+    "abv": 66.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7.6,
+    "quality_score": 7.6,
+    "value": 6.8,
+    "value_score": 6.8,
+    "overall": 7.188880302244572,
+    "overall_score": 7.188880302244572,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints.",
+      "universal_dimensions": {
+        "integration": 7.5,
+        "flavor_development": 8,
+        "finish": 7.5,
+        "technical_cleanliness": 7.5,
+        "texture": 8,
+        "maturity_wood_management": 7,
+        "distinctiveness": 8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.625,
+      "editorial_adjustment": -0.025,
+      "adjustment_reason": "Simmons’s rich development is corroborated by All Things Whisky’s dark fruit and long oily ending. Strong heat and wood/herbal emphasis temper the estimate below securely excellent."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Simmons’s rich development is corroborated by All Things Whisky’s dark fruit and long oily ending. Strong heat and wood/herbal emphasis temper the estimate below securely excellent.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the dated U.S. USD 70 reference, the named review’s actual execution and competing Canadian rye budgets determine Value; proof, allocation and award history are not bonuses.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 70.0,
+    "price_basis": "Dated U.S. MSRP / independent review retail reference",
+    "price_url": "https://whiskyadvocate.com/Alberta-Premium-Cask-Strength-Rye-66",
+    "price_period": "2020 U.S. review reference",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 70,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Canadian-series second edition (2020), 66% ABV. U.S. rollout chronology is separately noted.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://whiskyadvocate.com/Alberta-Premium-Cask-Strength-Rye-66",
+      "https://allthingswhisky.com/2021/01/26/alberta-premium-cask-strength-rye-batch-2-2020-review/"
+    ],
+    "review_publishers": [
+      "Whisky Advocate",
+      "All Things Whisky"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "url": "https://whiskyadvocate.com/Alberta-Premium-Cask-Strength-Rye-66",
+        "reviewer": "Ted Simmons",
+        "publisher": "Whisky Advocate",
+        "summary": "Simmons describes grain/toasted nut aromas and rich mint/chocolate, citrus and spice development. Water reveals extra aroma; the finish remains sweet and spicy.",
+        "scope": "2020 Canadian-series edition, exact 66% ABV sample."
+      },
+      {
+        "url": "https://allthingswhisky.com/2021/01/26/alberta-premium-cask-strength-rye-batch-2-2020-review/",
+        "reviewer": "antihero7",
+        "publisher": "All Things Whisky",
+        "summary": "The author finds dark berries, menthol/spice and a long oily wood/herbal finish. The finish is the limiting component in an otherwise strongly positive assessment.",
+        "scope": "January 26, 2021; official article byline antihero7; Batch 2 (2020), 66.0% ABV."
+      }
+    ],
+    "source_urls": [
+      "https://whiskyadvocate.com/Alberta-Premium-Cask-Strength-Rye-66",
+      "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+      "https://allthingswhisky.com/2021/01/26/alberta-premium-cask-strength-rye-batch-2-2020-review/"
+    ],
+    "production_summary": "100% Canadian rye, bottled at 66% ABV without an authenticated age statement. Individual cask proportions and a separate finish are not established for this exact edition.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "The Canadian sequence began in 2019; this 2020 release is edition 2. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+      "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 40,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Easy buy if this precise grain/proof profile appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 55,
+        "maximum_exclusive": 75,
+        "current_band": true,
+        "reason": "Fair given the matched review and dated market context.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 75,
+        "maximum_exclusive": 95,
+        "current_band": false,
+        "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 95,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Canadian-series second edition (2020), 66% ABV. U.S. rollout chronology is separately noted.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-cask-strength-second-edition-2020",
+      "identity": "Canadian-series second edition (2020), 66% ABV. U.S. rollout chronology is separately noted.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "NAS",
+      "short_version": "Simmons’s rich development is corroborated by All Things Whisky’s dark fruit and long oily ending. Strong heat and wood/herbal emphasis temper the estimate below securely excellent.",
+      "production": "100% Canadian rye, bottled at 66% ABV without an authenticated age statement. Individual cask proportions and a separate finish are not established for this exact edition.",
+      "history": [
+        "The Canadian sequence began in 2019; this 2020 release is edition 2. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+        "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+      ],
+      "reviews": [
+        {
+          "url": "https://whiskyadvocate.com/Alberta-Premium-Cask-Strength-Rye-66",
+          "reviewer": "Ted Simmons",
+          "publisher": "Whisky Advocate",
+          "summary": "Simmons describes grain/toasted nut aromas and rich mint/chocolate, citrus and spice development. Water reveals extra aroma; the finish remains sweet and spicy.",
+          "scope": "2020 Canadian-series edition, exact 66% ABV sample."
+        },
+        {
+          "url": "https://allthingswhisky.com/2021/01/26/alberta-premium-cask-strength-rye-batch-2-2020-review/",
+          "reviewer": "antihero7",
+          "publisher": "All Things Whisky",
+          "summary": "The author finds dark berries, menthol/spice and a long oily wood/herbal finish. The finish is the limiting component in an otherwise strongly positive assessment.",
+          "scope": "January 26, 2021; official article byline antihero7; Batch 2 (2020), 66.0% ABV."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Premium Cask Strength Rye, 66%",
+          "url": "https://whiskyadvocate.com/Alberta-Premium-Cask-Strength-Rye-66",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        },
+        {
+          "title": "Alberta Premium Cask Strength Rye Batch 2 (2020) Review | All Things Whisky",
+          "url": "https://allthingswhisky.com/2021/01/26/alberta-premium-cask-strength-rye-batch-2-2020-review/",
+          "role": "Exact second-edition independent sensory corroboration."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "No separate finish established",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 40,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Easy buy if this precise grain/proof profile appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 55,
+          "maximum_exclusive": 75,
+          "current_band": true,
+          "reason": "Fair given the matched review and dated market context.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 75,
+          "maximum_exclusive": 95,
+          "current_band": false,
+          "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 95,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+        }
+      ],
+      "proof": 132,
+      "age": null,
+      "quality": 7.6,
+      "value": 6.8,
+      "dimensions": [
+        7.5,
+        8,
+        7.5,
+        7.5,
+        8,
+        7,
+        8
+      ],
+      "quality_rationale": "Simmons’s rich development is corroborated by All Things Whisky’s dark fruit and long oily ending. Strong heat and wood/herbal emphasis temper the estimate below securely excellent.",
+      "value_rationale": "At the dated U.S. USD 70 reference, the named review’s actual execution and competing Canadian rye budgets determine Value; proof, allocation and award history are not bonuses.",
+      "pricing": {
+        "amount": 70,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2020 U.S. review reference",
+        "basis": "Dated U.S. MSRP / independent review retail reference",
+        "url": "https://whiskyadvocate.com/Alberta-Premium-Cask-Strength-Rye-66",
+        "nc_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency."
+      },
+      "evidence_limit": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints."
+    }
+  },
+  {
+    "slug": "alberta-premium-cask-strength-third-edition-2021",
+    "filename": "alberta-premium-cask-strength-third-edition-2021.html",
+    "name": "Alberta Premium Cask Strength — Third Edition (2021)",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 127.4,
+    "abv": 63.7,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.1,
+    "quality_score": 6.1,
+    "value": 4.9,
+    "value_score": 4.9,
+    "overall": 5.4671747731346585,
+    "overall_score": 5.4671747731346585,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints.",
+      "universal_dimensions": {
+        "integration": 5.5,
+        "flavor_development": 6.5,
+        "finish": 6,
+        "technical_cleanliness": 6,
+        "texture": 6,
+        "maturity_wood_management": 6,
+        "distinctiveness": 7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.025,
+      "editorial_adjustment": 0.075,
+      "adjustment_reason": "The described fruity character has interest, but erratic aroma and excess alcohol limit integration. Good provisional execution is supported rather than an award-based high score."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The described fruity character has interest, but erratic aroma and excess alcohol limit integration. Good provisional execution is supported rather than an award-based high score.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the dated U.S. USD 75 reference, the named review’s actual execution and competing Canadian rye budgets determine Value; proof, allocation and award history are not bonuses.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 75.0,
+    "price_basis": "Dated U.S. MSRP / independent review retail reference",
+    "price_url": "https://www.drinkhacker.com/2021/12/21/review-alberta-premium-cask-strength-rye-2021/",
+    "price_period": "2021 U.S. review reference",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 75,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Canadian-series third edition (2021), 63.7% ABV. U.S. rollout chronology is separately noted.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.drinkhacker.com/2021/12/21/review-alberta-premium-cask-strength-rye-2021/"
+    ],
+    "review_publishers": [
+      "Drinkhacker"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://www.drinkhacker.com/2021/12/21/review-alberta-premium-cask-strength-rye-2021/",
+        "reviewer": "Drew Beard",
+        "publisher": "Drinkhacker",
+        "summary": "Beard finds cooler but erratically shifting mint/tropical aromas, then an alcohol-led entry easing into sweet banana and herbal rye. He considers it improved over 2020, still too hot for its ambitions.",
+        "scope": "2021 Canadian-series edition, exact 63.7% ABV sample."
+      }
+    ],
+    "source_urls": [
+      "https://www.drinkhacker.com/2021/12/21/review-alberta-premium-cask-strength-rye-2021/",
+      "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength"
+    ],
+    "production_summary": "100% Canadian rye, bottled at 63.7% ABV without an authenticated age statement. Individual cask proportions and a separate finish are not established for this exact edition.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "The Canadian sequence began in 2019; this 2021 release is edition 3. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+      "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 40,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Easy buy if this precise grain/proof profile appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 55,
+        "maximum_exclusive": 75,
+        "current_band": false,
+        "reason": "Fair given the matched review and dated market context.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 75,
+        "maximum_exclusive": 95,
+        "current_band": true,
+        "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 95,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Canadian-series third edition (2021), 63.7% ABV. U.S. rollout chronology is separately noted.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-cask-strength-third-edition-2021",
+      "identity": "Canadian-series third edition (2021), 63.7% ABV. U.S. rollout chronology is separately noted.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "NAS",
+      "short_version": "The described fruity character has interest, but erratic aroma and excess alcohol limit integration. Good provisional execution is supported rather than an award-based high score.",
+      "production": "100% Canadian rye, bottled at 63.7% ABV without an authenticated age statement. Individual cask proportions and a separate finish are not established for this exact edition.",
+      "history": [
+        "The Canadian sequence began in 2019; this 2021 release is edition 3. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+        "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+      ],
+      "reviews": [
+        {
+          "url": "https://www.drinkhacker.com/2021/12/21/review-alberta-premium-cask-strength-rye-2021/",
+          "reviewer": "Drew Beard",
+          "publisher": "Drinkhacker",
+          "summary": "Beard finds cooler but erratically shifting mint/tropical aromas, then an alcohol-led entry easing into sweet banana and herbal rye. He considers it improved over 2020, still too hot for its ambitions.",
+          "scope": "2021 Canadian-series edition, exact 63.7% ABV sample."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Review: Alberta Premium Cask Strength Rye (2021) - Drinkhacker",
+          "url": "https://www.drinkhacker.com/2021/12/21/review-alberta-premium-cask-strength-rye-2021/",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "No separate finish established",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 40,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Easy buy if this precise grain/proof profile appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 55,
+          "maximum_exclusive": 75,
+          "current_band": false,
+          "reason": "Fair given the matched review and dated market context.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 75,
+          "maximum_exclusive": 95,
+          "current_band": true,
+          "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 95,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+        }
+      ],
+      "proof": 127.4,
+      "age": null,
+      "quality": 6.1,
+      "value": 4.9,
+      "dimensions": [
+        5.5,
+        6.5,
+        6,
+        6,
+        6,
+        6,
+        7
+      ],
+      "quality_rationale": "The described fruity character has interest, but erratic aroma and excess alcohol limit integration. Good provisional execution is supported rather than an award-based high score.",
+      "value_rationale": "At the dated U.S. USD 75 reference, the named review’s actual execution and competing Canadian rye budgets determine Value; proof, allocation and award history are not bonuses.",
+      "pricing": {
+        "amount": 75,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2021 U.S. review reference",
+        "basis": "Dated U.S. MSRP / independent review retail reference",
+        "url": "https://www.drinkhacker.com/2021/12/21/review-alberta-premium-cask-strength-rye-2021/",
+        "nc_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency."
+      },
+      "evidence_limit": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints."
+    }
+  },
+  {
+    "slug": "alberta-premium-cask-strength-fourth-edition-2022",
+    "filename": "alberta-premium-cask-strength-fourth-edition-2022.html",
+    "name": "Alberta Premium Cask Strength — Fourth Edition (2022)",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 127,
+    "abv": 63.5,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7,
+    "quality_score": 7,
+    "value": 5.6,
+    "value_score": 5.6,
+    "overall": 6.260990336999411,
+    "overall_score": 6.260990336999411,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints.",
+      "universal_dimensions": {
+        "integration": 7,
+        "flavor_development": 7.5,
+        "finish": 7,
+        "technical_cleanliness": 6.5,
+        "texture": 7,
+        "maturity_wood_management": 6.5,
+        "distinctiveness": 7.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.0,
+      "editorial_adjustment": 0.0,
+      "adjustment_reason": "Tao’s richer aroma and chocolate persistence support very good execution, with palate inconsistency and alcohol tension retained as real limits."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Tao’s richer aroma and chocolate persistence support very good execution, with palate inconsistency and alcohol tension retained as real limits.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the dated U.S. USD 80 reference, the named review’s actual execution and competing Canadian rye budgets determine Value; proof, allocation and award history are not bonuses.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 80.0,
+    "price_basis": "Dated U.S. MSRP / independent review retail reference",
+    "price_url": "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/",
+    "price_period": "2022 U.S. review reference",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 80,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Canadian-series fourth edition (2022), 63.5% ABV. U.S. rollout chronology is separately noted.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/"
+    ],
+    "review_publishers": [
+      "Drinkhacker"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/",
+        "reviewer": "David Tao",
+        "publisher": "Drinkhacker",
+        "summary": "Tao finds a richer caramel/vanilla/cinnamon aroma, chocolate and hot spice on the palate, and a pleasant warming finish. Some sip-to-sip inconsistency remains; a few water drops improve texture and heat.",
+        "scope": "2022 Canadian-series edition, exact 63.5% ABV sample."
+      }
+    ],
+    "source_urls": [
+      "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/",
+      "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength"
+    ],
+    "production_summary": "100% Canadian rye, bottled at 63.5% ABV without an authenticated age statement. Tao documents 100% pot distillation for the cask-strength liquid and distinguishes it from the distillery’s broader column/pot production.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "The Canadian sequence began in 2019; this 2022 release is edition 4. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+      "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 40,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Easy buy if this precise grain/proof profile appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 55,
+        "maximum_exclusive": 75,
+        "current_band": false,
+        "reason": "Fair given the matched review and dated market context.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 75,
+        "maximum_exclusive": 95,
+        "current_band": true,
+        "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 95,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Canadian-series fourth edition (2022), 63.5% ABV. U.S. rollout chronology is separately noted.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-cask-strength-fourth-edition-2022",
+      "identity": "Canadian-series fourth edition (2022), 63.5% ABV. U.S. rollout chronology is separately noted.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "NAS",
+      "short_version": "Tao’s richer aroma and chocolate persistence support very good execution, with palate inconsistency and alcohol tension retained as real limits.",
+      "production": "100% Canadian rye, bottled at 63.5% ABV without an authenticated age statement. Tao documents 100% pot distillation for the cask-strength liquid and distinguishes it from the distillery’s broader column/pot production.",
+      "history": [
+        "The Canadian sequence began in 2019; this 2022 release is edition 4. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+        "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+      ],
+      "reviews": [
+        {
+          "url": "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/",
+          "reviewer": "David Tao",
+          "publisher": "Drinkhacker",
+          "summary": "Tao finds a richer caramel/vanilla/cinnamon aroma, chocolate and hot spice on the palate, and a pleasant warming finish. Some sip-to-sip inconsistency remains; a few water drops improve texture and heat.",
+          "scope": "2022 Canadian-series edition, exact 63.5% ABV sample."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Review: Alberta Premium Cask Strength Rye (2022) - Drinkhacker",
+          "url": "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "No separate finish established",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "An especially useful drinking budget for the documented execution and sound bottle.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 40,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Easy buy if this precise grain/proof profile appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 55,
+          "maximum_exclusive": 75,
+          "current_band": false,
+          "reason": "Fair given the matched review and dated market context.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 75,
+          "maximum_exclusive": 95,
+          "current_band": true,
+          "reason": "Taste first; the comparable Canadian references offer less costly alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 95,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when the premium is driven mainly by scarcity or presentation.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+        }
+      ],
+      "proof": 127,
+      "age": null,
+      "quality": 7,
+      "value": 5.6,
+      "dimensions": [
+        7,
+        7.5,
+        7,
+        6.5,
+        7,
+        6.5,
+        7.5
+      ],
+      "quality_rationale": "Tao’s richer aroma and chocolate persistence support very good execution, with palate inconsistency and alcohol tension retained as real limits.",
+      "value_rationale": "At the dated U.S. USD 80 reference, the named review’s actual execution and competing Canadian rye budgets determine Value; proof, allocation and award history are not bonuses.",
+      "pricing": {
+        "amount": 80,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2022 U.S. review reference",
+        "basis": "Dated U.S. MSRP / independent review retail reference",
+        "url": "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/",
+        "nc_status": "Not listed by this exact expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. The quoted price keeps its dated market and currency."
+      },
+      "evidence_limit": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints."
+    }
+  },
+  {
+    "slug": "alberta-premium-cask-strength-fifth-edition-2023",
+    "filename": "alberta-premium-cask-strength-fifth-edition-2023.html",
+    "name": "Alberta Premium Cask Strength — Fifth Edition (2023)",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 128.4,
+    "abv": 64.2,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% Canadian rye; component distillate/cask proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.2,
+    "quality_score": 6.2,
+    "value": 5.4,
+    "value_score": 5.4,
+    "overall": 5.786190456595773,
+    "overall_score": 5.786190456595773,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints.",
+      "universal_dimensions": {
+        "integration": 6,
+        "flavor_development": 6.5,
+        "finish": 7,
+        "technical_cleanliness": 6.5,
+        "texture": 5.5,
+        "maturity_wood_management": 6,
+        "distinctiveness": 6.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.3,
+      "editorial_adjustment": -0.1,
+      "adjustment_reason": "Useful flavor and persistence are offset by thin body and fragile dilution behavior. Good execution is the defensible range; the critic’s own scale is not copied mechanically."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Useful flavor and persistence are offset by thin body and fragile dilution behavior. Good execution is the defensible range; the critic’s own scale is not copied mechanically.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The matched Strath archival non-member CAD 82.52 quote, before tax/deposit and marked sold out, is a demanding Canadian budget for the modest body and dilution fragility. The discounted CAD 65 paid by the critic and the retailer’s member discount are excluded. The newer ten-year cask-strength launch at CAD 74.95 is a strong competing budget.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": null,
+    "price_basis": "Strath Liquor Merchants regular non-member archival price, before tax/deposit; sold out",
+    "price_url": "https://www.strathliquor.com/product/alberta-premium-cask-strength-rye-2023-edition/",
+    "price_period": "2026-10-14 archival listing checked",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 82.52,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact NC regular listing authenticated. This is a Canadian-dollar archival quote and does not imply available U.S. stock.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Canadian-series fifth edition (2023), 64.2% ABV. U.S. rollout chronology is separately noted.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength"
+    ],
+    "review_publishers": [
+      "Dramface"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+        "reviewer": "Aengus McCloud",
+        "publisher": "Dramface",
+        "summary": "McCloud finds vanilla, fruit candy, wintergreen and oak, a thinner-than-expected mouthfeel, and a long sweet/cocoa ending. He regards it as good at full strength but finds its charm falls away with more dilution.",
+        "scope": "2023 Canadian-series edition, exact 64.2% ABV sample."
+      }
+    ],
+    "source_urls": [
+      "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+      "https://www.strathliquor.com/product/alberta-premium-cask-strength-rye-2023-edition/"
+    ],
+    "production_summary": "100% Canadian rye, bottled at 64.2% ABV without an authenticated age statement. Individual cask proportions and a separate finish are not established for this exact edition.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "The Canadian sequence began in 2019; this 2023 release is edition 5. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+      "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A documented lower-proof, age-stated 100%-rye reference."
+      },
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "An unusually useful budget for this exact proof-matched rye.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 40,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Easy buy if full-strength flavor is the priority.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 55,
+        "maximum_exclusive": 75,
+        "current_band": false,
+        "reason": "Fair for the documented good execution.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 75,
+        "maximum_exclusive": 95,
+        "current_band": true,
+        "reason": "Taste first; the age-stated cask-strength alternative competes strongly.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 95,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value above more compelling Canadian rye budgets.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/61affa9c931dc960c27460a1/25d07b0f-30d1-4391-9285-706612d2641a/Alberta+Premium+Cask+Strength+2.jpg",
+        "scope": "Canadian-series fifth edition (2023), 64.2% ABV. U.S. rollout chronology is separately noted.",
+        "sha256": "5e0fc18fe6a1941a004ccc80776391dbcd27153aca7eb4e916ccd368fb4c8c50",
+        "image_embedded": true,
+        "width": 825,
+        "height": 1100
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Canadian-series fifth edition (2023), 64.2% ABV. U.S. rollout chronology is separately noted.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-005",
+    "editorial": {
+      "id": "alberta-premium-cask-strength-fifth-edition-2023",
+      "identity": "Canadian-series fifth edition (2023), 64.2% ABV. U.S. rollout chronology is separately noted.",
+      "category": "Canadian Single Grain / 100% Rye",
+      "grain": "100% Canadian rye; component distillate/cask proportions undisclosed",
+      "age_display": "NAS",
+      "short_version": "Useful flavor and persistence are offset by thin body and fragile dilution behavior. Good execution is the defensible range; the critic’s own scale is not copied mechanically.",
+      "production": "100% Canadian rye, bottled at 64.2% ABV without an authenticated age statement. Individual cask proportions and a separate finish are not established for this exact edition.",
+      "history": [
+        "The Canadian sequence began in 2019; this 2023 release is edition 5. American availability began later, so an American article’s first/third release count is not a different Canadian bottle identity.",
+        "Distinct proof-matched annual releases are retained because published sensory differences are substantial. Award praise from another year is not transferred into this score."
+      ],
+      "reviews": [
+        {
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "reviewer": "Aengus McCloud",
+          "publisher": "Dramface",
+          "summary": "McCloud finds vanilla, fruit candy, wintergreen and oak, a thinner-than-expected mouthfeel, and a long sweet/cocoa ending. He regards it as good at full strength but finds its charm falls away with more dilution.",
+          "scope": "2023 Canadian-series edition, exact 64.2% ABV sample."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        },
+        {
+          "title": "Alberta Premium - Cask Strength Rye 2023 Edition - Strath Liquor Merchants",
+          "url": "https://www.strathliquor.com/product/alberta-premium-cask-strength-rye-2023-edition/",
+          "role": "Exact 2023 / 64.2% ABV archival regular non-member price; tax, deposit and stock limitations explicit."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A documented lower-proof, age-stated 100%-rye reference."
+        },
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "A Canadian rye-forward blend with reported bourbon/sherry additions; not a 100%-rye equivalent."
+        }
+      ],
+      "finish": "No separate finish established",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "An unusually useful budget for this exact proof-matched rye.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 40,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Easy buy if full-strength flavor is the priority.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 55,
+          "maximum_exclusive": 75,
+          "current_band": false,
+          "reason": "Fair for the documented good execution.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 75,
+          "maximum_exclusive": 95,
+          "current_band": true,
+          "reason": "Taste first; the age-stated cask-strength alternative competes strongly.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 95,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value above more compelling Canadian rye budgets.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and allow some air before deciding how grain, oak and alcohol integrate."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water in small increments; dilution advice follows the matched review rather than proof alone."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup and test a small drink to retain the rye’s documented character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a restrained sweet vermouth and adjust its proportion to the actual bottle’s spice and finish."
+        }
+      ],
+      "proof": 128.4,
+      "age": null,
+      "quality": 6.2,
+      "value": 5.4,
+      "dimensions": [
+        6,
+        6.5,
+        7,
+        6.5,
+        5.5,
+        6,
+        6.5
+      ],
+      "quality_rationale": "Useful flavor and persistence are offset by thin body and fragile dilution behavior. Good execution is the defensible range; the critic’s own scale is not copied mechanically.",
+      "value_rationale": "The matched Strath archival non-member CAD 82.52 quote, before tax/deposit and marked sold out, is a demanding Canadian budget for the modest body and dilution fragility. The discounted CAD 65 paid by the critic and the retailer’s member discount are excluded. The newer ten-year cask-strength launch at CAD 74.95 is a strong competing budget.",
+      "pricing": {
+        "amount": 82.52,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-14 archival listing checked",
+        "basis": "Strath Liquor Merchants regular non-member archival price, before tax/deposit; sold out",
+        "url": "https://www.strathliquor.com/product/alberta-premium-cask-strength-rye-2023-edition/",
+        "nc_status": "No exact NC regular listing authenticated. This is a Canadian-dollar archival quote and does not imply available U.S. stock."
+      },
+      "evidence_limit": "Exact proof/year scope is retained. One or two independent records support a provisional universal-rubric estimate; Canadian whisky is not scored against American straight-rye endpoints.",
+      "image_source": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/61affa9c931dc960c27460a1/25d07b0f-30d1-4391-9285-706612d2641a/Alberta+Premium+Cask+Strength+2.jpg"
+    }
   }
 ]

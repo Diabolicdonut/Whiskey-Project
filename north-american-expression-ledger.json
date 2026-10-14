@@ -8,11 +8,11 @@
   "ordering": "Widow Jane first, then Canadian family alphabetically, canonical expression alphabetically. Immutable deterministic_order for this discovery set; append later authenticated discoveries.",
   "publication_gate": "Authenticate exact expression identity; inspect independent tasting evidence separately; verify date/currency/size for pricing; only embed an exact image. Unknown values stay null.",
   "counts": {
-    "candidates": 236,
+    "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 191,
-    "accepted": 32
+    "pending": 183,
+    "accepted": 42
   },
   "entries": [
     {
@@ -1993,16 +1993,16 @@
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "current",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
+      "age_information": "NAS",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish established",
       "release_year_or_era": "Core range",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2014,13 +2014,48 @@
       ],
       "potential_image_source": "https://www.albertadistillers.com/our-brands/alberta-premium",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.drinkhacker.com/2023/01/11/review-alberta-premium-rye/",
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "summary": "Null finds grassy oak and citrus, a much sweeter almond/caramel palate, and a slight industrial edge returning at the finish. He considers it useful as a rail option.",
+            "scope": "January 11, 2023 U.S. bottle, 80 proof."
+          },
+          {
+            "url": "https://whiskyadvocate.com/Alberta-Premium-40",
+            "reviewer": "Lew Bryson",
+            "publisher": "Whisky Advocate",
+            "summary": "Bryson finds sweet grain/citrus and soft oak, but an angular mouthful and edgy, boozy finish. Water improves that ending; he regards it as good rather than outstanding.",
+            "scope": "Summer 2012 Canadian-market bottle, 40% ABV; historical corroboration, not proof that a 2023 batch is identical."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 34
+      "deterministic_order": 34,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Alberta Brands of Distinction | Alberta Distillers",
+          "url": "https://www.albertadistillers.com/our-brands",
+          "role": "Producer brand chronology and 100%-rye identity."
+        },
+        {
+          "title": "Review: Alberta Premium Rye - Drinkhacker",
+          "url": "https://www.drinkhacker.com/2023/01/11/review-alberta-premium-rye/",
+          "role": "Named U.S. tasting, 2022 American launch and USD 26 price reference."
+        },
+        {
+          "title": "Alberta Premium, 40%",
+          "url": "https://whiskyadvocate.com/Alberta-Premium-40",
+          "role": "Historical Canadian tasting; separate date and market preserved."
+        }
+      ]
     },
     {
       "id": "alberta-premium-25-year",
@@ -2030,16 +2065,16 @@
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "historical",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 25.0,
-      "age_information": "25 years",
-      "grain_information": "100% rye",
+      "proof": 80,
+      "abv": 40.0,
+      "age_statement_years": 25,
+      "age_information": "25 Years",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish established",
       "release_year_or_era": "Historical limited release",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2051,13 +2086,31 @@
       ],
       "potential_image_source": "https://whiskyanalysis.com/index.php/2019/11/29/alberta-premium-cask-strength-100-rye/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html",
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "summary": "De Kergommeaux describes creamy weight, developed fruit/spice and aromatic wood held in balance, with changing pepper/citrus persistence. He strongly recommends the release.",
+            "scope": "Exact 25-year / 40% ABV historical release."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 35
+      "deterministic_order": 35,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Alberta Premium aged 25 years (40% alc./vol.) — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-aged-25-years-40-alc-vol.html",
+          "role": "Named specialist tasting, grain, age, chronology and original Canadian price."
+        }
+      ]
     },
     {
       "id": "alberta-premium-30-year",
@@ -2067,16 +2120,16 @@
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "historical",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 30.0,
-      "age_information": "30 years",
-      "grain_information": "100% rye",
+      "proof": 80,
+      "abv": 40.0,
+      "age_statement_years": 30,
+      "age_information": "30 Years",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish established",
       "release_year_or_era": "2011",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2088,13 +2141,31 @@
       ],
       "potential_image_source": "https://whiskyauctioneer.com/learn/explore-whisky/brands/alberta-premium",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html",
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "summary": "De Kergommeaux finds a gradual fruit/cedar/spice reveal, creamy counterbalance to dry pith and resinous wood, and a long evolving finish. His comparison favors it over the twenty-five-year release.",
+            "scope": "Exact 30-year / 40% ABV historical release."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 36
+      "deterministic_order": 36,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Alberta Premium 30 Year Old Limited Edition® — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/alberta-premium-30-year-old-limited-edition%C2%AE-40-alc-vol.html",
+          "role": "Named specialist tasting, grain, age, chronology and original Canadian price."
+        }
+      ]
     },
     {
       "id": "alberta-premium-9-year",
@@ -2179,16 +2250,16 @@
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "limited",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": null,
-      "abv": null,
+      "proof": 84,
+      "abv": 42.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye; blend of ten stocks",
+      "age_information": "NAS; ten vintages, not a ten-year age statement",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak",
+      "finishing_information": "New white oak, ex-bourbon and ex-Canadian-whisky maturation stocks; no separate timed finish",
       "release_year_or_era": "2024",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2200,13 +2271,41 @@
       ],
       "potential_image_source": "https://alberta-distillers.reportablenews.com/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://quebecwhisky.com/alberta-premium-batch-10-legacy-reserve/",
+            "reviewer": "André, Patrick, Martin and Kim",
+            "publisher": "Québec Whisky",
+            "summary": "Patrick praises developed fruit/chocolate and a long finish; Martin finds straightforward balance. André describes flatter texture and a short ending, and Kim finds the profile relatively one-dimensional with astringency.",
+            "scope": "Exact Batch 10 Legacy Reserve, 42% ABV; four individually signed opinions within one publication."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 38
+      "deterministic_order": 38,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Alberta Distillers - 'Distillery of the Decade' Releases Alberta Premium Batch 10 Legacy Reserve",
+          "url": "https://alberta-distillers.reportablenews.com/pr/distillery-of-the-decade-releases-alberta-premium-batch-10-legacy-reserve",
+          "role": "Producer exact ten-vintage/warehouse meaning, barrel types, proof and CAD 69.95 launch SRP."
+        },
+        {
+          "title": "Québec Whisky — Batch 10 Legacy Reserve",
+          "url": "https://quebecwhisky.com/alberta-premium-batch-10-legacy-reserve/",
+          "role": "Matched independent tasting disagreement."
+        },
+        {
+          "title": "Alberta Premium Batch 10 Legacy Reserve | Product page | SAQ.COM",
+          "url": "https://www.saq.com/en/15562479",
+          "role": "Current SAQ CAD 50.00 / 750 mL listing is separately disclosed."
+        }
+      ]
     },
     {
       "id": "alberta-premium-cask-strength-10-year-2026",
@@ -2216,16 +2315,16 @@
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "limited",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 134.0,
+      "proof": 134,
       "abv": 67.0,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
-      "grain_information": "100% rye",
+      "age_statement_years": 10,
+      "age_information": "10 Years",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish established",
       "release_year_or_era": "2026",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2237,13 +2336,53 @@
       ],
       "potential_image_source": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://beaumont-drinks.squarespace.com/beers-spirits-reviews/alberta-premium-cask-strength-10-year-old",
+            "reviewer": "Stephen Beaumont",
+            "publisher": "Beaumont Drinks",
+            "summary": "Beaumont finds developed nut/citrus aromas, intense chocolate/vanilla and a long coffee/pepper finish. He calls it elegant at strength but finds dilution sacrifices some complexity.",
+            "scope": "June 17, 2026; ten-year 67% ABV sample supplied by producer."
+          },
+          {
+            "url": "https://setthebarlifestyle.wordpress.com/2026/05/27/rks-canadian-whisky-alberta-premium-ten-year-old-cask-strength-limited-edition-canadian-rye-whisky-a-confounding-experience-waiting-for-your-subjectivity/",
+            "reviewer": "Robert K. Stephen",
+            "publisher": "Set the Bar",
+            "summary": "Stephen reports rye/fruit alongside a cement-like impression and pronounced burning when neat. Ice reduces the heat but strengthens that mineral aroma; his response is ambivalent rather than an endorsement.",
+            "scope": "May 27, 2026; ten-year 67% ABV release."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 39
+      "deterministic_order": 39,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Alberta Distillers - Award-Winning Alberta Distillers Limited® Releases Two New Premium Expressions: Rare Batch Issue No. 2 and Alberta Premium Cask Strength 10 Year Old",
+          "url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+          "role": "Primary ten-year maturation, 67% ABV, cork and CAD 74.95 national-rollout SRP."
+        },
+        {
+          "title": "Alberta Premium Cask Strength 10 year old (67%) — Beaumont Drinks",
+          "url": "https://beaumont-drinks.squarespace.com/beers-spirits-reviews/alberta-premium-cask-strength-10-year-old",
+          "role": "Named sensory complexity and dilution evidence."
+        },
+        {
+          "title": "RKS CANADIAN WHISKY: ALBERTA PREMIUM TEN YEAR OLD CASK STRENGTH LIMITED EDITION CANADIAN RYE WHISKY: A Confounding Experience Waiting for Your Subjectivity! – Set the Bar",
+          "url": "https://setthebarlifestyle.wordpress.com/2026/05/27/rks-canadian-whisky-alberta-premium-ten-year-old-cask-strength-limited-edition-canadian-rye-whisky-a-confounding-experience-waiting-for-your-subjectivity/",
+          "role": "Conflicting named sensory integration record."
+        },
+        {
+          "title": "Québec Whisky — ten-year 2025 edition",
+          "url": "https://quebecwhisky.com/alberta-premium-cask-strength-10-year-old-2025/",
+          "role": "Earlier edition naming / same age-and-strength context; not copied as a separate 2026 batch score."
+        }
+      ]
     },
     {
       "id": "alberta-premium-cask-strength-fifth-edition-2023",
@@ -2256,13 +2395,13 @@
       "proof": 128.4,
       "abv": 64.2,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
+      "age_information": "NAS",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish established",
       "release_year_or_era": "2023",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2274,13 +2413,36 @@
       ],
       "potential_image_source": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+            "reviewer": "Aengus McCloud",
+            "publisher": "Dramface",
+            "summary": "McCloud finds vanilla, fruit candy, wintergreen and oak, a thinner-than-expected mouthfeel, and a long sweet/cocoa ending. He regards it as good at full strength but finds its charm falls away with more dilution.",
+            "scope": "2023 Canadian-series edition, exact 64.2% ABV sample."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 40
+      "deterministic_order": 40,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        }
+      ]
     },
     {
       "id": "alberta-premium-cask-strength-first-edition-2019",
@@ -2293,13 +2455,13 @@
       "proof": 130.2,
       "abv": 65.1,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
+      "age_information": "NAS",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish established",
       "release_year_or_era": "2019 Canada; 2020 U.S.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2311,13 +2473,48 @@
       ],
       "potential_image_source": "https://whiskyanalysis.com/index.php/2019/11/29/alberta-premium-cask-strength-100-rye/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.breakingbourbon.com/review/alberta-premium-cask-strength-rye-130-2-proof",
+            "reviewer": "Eric Hasman",
+            "publisher": "Breaking Bourbon",
+            "summary": "Hasman finds a straightforward aroma, useful nut/maple/spice development and silky texture, but a relatively uneventful ending. He considers the sip variable rather than a universal standout.",
+            "scope": "2019 Canadian-series edition, exact 65.1% ABV sample."
+          },
+          {
+            "url": "https://whiskyanalysis.com/index.php/2019/11/29/alberta-premium-cask-strength-100-rye/",
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "summary": "Selfbuilt finds abundant fruit/sweetness, rye spice and oak, with good persistence but woody bitterness. Water improves its creamy texture; he places it below older sourced rye and the best Lot 40 cask-strengths.",
+            "scope": "November 2019 Canadian first edition, 65.1% ABV."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 41
+      "deterministic_order": 41,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Alberta Premium Cask Strength Rye 130.2 Proof Review | Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/alberta-premium-cask-strength-rye-130-2-proof",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        },
+        {
+          "title": "Alberta Premium Cask Strength 100% Rye – Selfbuilt's Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/29/alberta-premium-cask-strength-100-rye/",
+          "role": "Matched independent corroboration."
+        }
+      ]
     },
     {
       "id": "alberta-premium-cask-strength-fourth-edition-2022",
@@ -2327,16 +2524,16 @@
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "batch",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": null,
-      "abv": null,
+      "proof": 127,
+      "abv": 63.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
+      "age_information": "NAS",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish established",
       "release_year_or_era": "2022",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2348,13 +2545,36 @@
       ],
       "potential_image_source": "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/",
+            "reviewer": "David Tao",
+            "publisher": "Drinkhacker",
+            "summary": "Tao finds a richer caramel/vanilla/cinnamon aroma, chocolate and hot spice on the palate, and a pleasant warming finish. Some sip-to-sip inconsistency remains; a few water drops improve texture and heat.",
+            "scope": "2022 Canadian-series edition, exact 63.5% ABV sample."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 42
+      "deterministic_order": 42,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Review: Alberta Premium Cask Strength Rye (2022) - Drinkhacker",
+          "url": "https://www.drinkhacker.com/2022/11/06/review-alberta-premium-cask-strength-rye-2022/",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        }
+      ]
     },
     {
       "id": "alberta-premium-cask-strength-second-edition-2020",
@@ -2364,16 +2584,16 @@
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "batch",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 132.0,
+      "proof": 132,
       "abv": 66.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
+      "age_information": "NAS",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish established",
       "release_year_or_era": "2020 Canada; 2021 U.S.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2385,13 +2605,48 @@
       ],
       "potential_image_source": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://whiskyadvocate.com/Alberta-Premium-Cask-Strength-Rye-66",
+            "reviewer": "Ted Simmons",
+            "publisher": "Whisky Advocate",
+            "summary": "Simmons describes grain/toasted nut aromas and rich mint/chocolate, citrus and spice development. Water reveals extra aroma; the finish remains sweet and spicy.",
+            "scope": "2020 Canadian-series edition, exact 66% ABV sample."
+          },
+          {
+            "url": "https://allthingswhisky.com/2021/01/26/alberta-premium-cask-strength-rye-batch-2-2020-review/",
+            "reviewer": "antihero7",
+            "publisher": "All Things Whisky",
+            "summary": "The author finds dark berries, menthol/spice and a long oily wood/herbal finish. The finish is the limiting component in an otherwise strongly positive assessment.",
+            "scope": "January 26, 2021; official article byline antihero7; Batch 2 (2020), 66.0% ABV."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 43
+      "deterministic_order": 43,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Alberta Premium Cask Strength Rye, 66%",
+          "url": "https://whiskyadvocate.com/Alberta-Premium-Cask-Strength-Rye-66",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        },
+        {
+          "title": "Alberta Premium Cask Strength Rye Batch 2 (2020) Review | All Things Whisky",
+          "url": "https://allthingswhisky.com/2021/01/26/alberta-premium-cask-strength-rye-batch-2-2020-review/",
+          "role": "Exact second-edition independent sensory corroboration."
+        }
+      ]
     },
     {
       "id": "alberta-premium-cask-strength-third-edition-2021",
@@ -2401,16 +2656,16 @@
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "batch",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": null,
-      "abv": null,
+      "proof": 127.4,
+      "abv": 63.7,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
+      "age_information": "NAS",
+      "grain_information": "100% Canadian rye; component distillate/cask proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish established",
       "release_year_or_era": "2021",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2422,13 +2677,36 @@
       ],
       "potential_image_source": "https://whiskyauctioneer.com/learn/explore-whisky/series/alberta-premium-cask-strength-rye-batches",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.drinkhacker.com/2021/12/21/review-alberta-premium-cask-strength-rye-2021/",
+            "reviewer": "Drew Beard",
+            "publisher": "Drinkhacker",
+            "summary": "Beard finds cooler but erratically shifting mint/tropical aromas, then an alcohol-led entry easing into sweet banana and herbal rye. He considers it improved over 2020, still too hot for its ambitions.",
+            "scope": "2021 Canadian-series edition, exact 63.7% ABV sample."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 44
+      "deterministic_order": 44,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-005",
+      "publication_sources": [
+        {
+          "title": "Review: Alberta Premium Cask Strength Rye (2021) - Drinkhacker",
+          "url": "https://www.drinkhacker.com/2021/12/21/review-alberta-premium-cask-strength-rye-2021/",
+          "role": "Exact proof-matched independent tasting and price reference where stated."
+        },
+        {
+          "title": "Alberta Premium Cask Strength — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2025/alberta-premium-cask-strength",
+          "role": "Canadian-series edition chronology 2019–2023; U.S. rollout numbers can differ."
+        }
+      ]
     },
     {
       "id": "alberta-premium-dark-horse-dark-batch",
@@ -9585,6 +9863,80 @@
           "role": "Twelve-year minimum, 99 proof and explicit private single-barrel scope."
         }
       ]
+    },
+    {
+      "id": "alberta-premium-20-year-2019",
+      "canonical_expression_name": "Alberta Premium 20 Year (2019)",
+      "filename": "alberta-premium-20-year-2019.html",
+      "brand_family": "Alberta Premium",
+      "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+      "status": "historical",
+      "whisky_category": "Canadian Single Grain / 100% Rye",
+      "proof": 84,
+      "abv": 42.0,
+      "age_statement_years": 20,
+      "age_information": "20 years",
+      "grain_information": "100% unmalted rye",
+      "grain_confidence": "documented grain identity; unknown proportions retained",
+      "finishing_information": "No separate finish established",
+      "release_year_or_era": "2019",
+      "warrants_own_dossier": true,
+      "decision": "include_pending_expression_verification",
+      "inclusion_or_exclusion_reason": "Later discovery: distinct documented age-stated Alberta expression omitted from the initial seed; important to the mature rye/export family history.",
+      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "discovery_sources": [
+        {
+          "title": "Alberta Premium 20 Year",
+          "url": "https://distiller.com/spirits/alberta-premium-20-year",
+          "retrieved_date": "2026-10-14"
+        }
+      ],
+      "potential_image_source": "https://distiller.com/spirits/alberta-premium-20-year",
+      "independent_review_record": {
+        "status": "research_required",
+        "scoring_allowed": false,
+        "notes": "Inspect matched independent record before scoring."
+      },
+      "implementation_status": "pending_research",
+      "discovered_date": "2026-10-14",
+      "deterministic_order": 237
+    },
+    {
+      "id": "alberta-springs-10-year",
+      "canonical_expression_name": "Alberta Springs 10 Year",
+      "filename": "alberta-springs-10-year.html",
+      "brand_family": "Alberta Springs",
+      "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+      "status": "current",
+      "whisky_category": "Canadian Rye Whisky / Rye-forward",
+      "proof": 80,
+      "abv": 40.0,
+      "age_statement_years": 10,
+      "age_information": "10 years",
+      "grain_information": "Rye-forward; full blend proportions not yet authenticated",
+      "grain_confidence": "documented grain identity; unknown proportions retained",
+      "finishing_information": "No separate finish established",
+      "release_year_or_era": "Historical/current-era named review records; exact availability to be checked",
+      "warrants_own_dossier": true,
+      "decision": "include_pending_expression_verification",
+      "inclusion_or_exclusion_reason": "Later discovery: distinct documented age-stated Alberta expression omitted from the initial seed; important to the mature rye/export family history.",
+      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "discovery_sources": [
+        {
+          "title": "Alberta Springs aged 10 years (40% alc./vol.) — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/alberta-springs-aged-10-years-40-alc-vol.html",
+          "retrieved_date": "2026-10-14"
+        }
+      ],
+      "potential_image_source": "https://canadianwhisky.org/blog/reviews/alberta-springs-aged-10-years-40-alc-vol.html",
+      "independent_review_record": {
+        "status": "research_required",
+        "scoring_allowed": false,
+        "notes": "Inspect matched independent record before scoring."
+      },
+      "implementation_status": "pending_research",
+      "discovered_date": "2026-10-14",
+      "deterministic_order": 238
     }
   ]
 }
