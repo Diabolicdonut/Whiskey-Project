@@ -8,11 +8,11 @@
   "ordering": "Widow Jane first, then Canadian family alphabetically, canonical expression alphabetically. Immutable deterministic_order for this discovery set; append later authenticated discoveries.",
   "publication_gate": "Authenticate exact expression identity; inspect independent tasting evidence separately; verify date/currency/size for pricing; only embed an exact image. Unknown values stay null.",
   "counts": {
-    "candidates": 233,
+    "candidates": 236,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 204,
-    "accepted": 16
+    "pending": 198,
+    "accepted": 25
   },
   "entries": [
     {
@@ -1179,16 +1179,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "limited",
       "whisky_category": "Bourbon",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
+      "proof": 91,
+      "abv": 45.5,
+      "age_statement_years": 10,
+      "age_information": "10 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "Tequila Ocho casks; eight months",
       "release_year_or_era": "2026",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1200,13 +1200,53 @@
       ],
       "potential_image_source": "https://heavenhill.com/news-and-notes/brooklyns-widow-jane-distillery-introduces-bourbon-finished-for-eight-months-in-tequila-ocho-casks/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://joesdaily.com/food-drink/widow-jane-tequila-ocho-cask-finish-review/",
+            "reviewer": "Joe Miragliotta",
+            "publisher": "Joe’s Daily",
+            "summary": "Miragliotta describes caramel/oak and dark fruit, followed by citrus/stone-fruit brightness and restrained roasted agave. He finds the mouthfeel unexpectedly silky and the finish integrated rather than masking the bourbon.",
+            "scope": "May 2026 release, 91 proof."
+          },
+          {
+            "url": "https://www.northwestbeerguide.com/spirits/2026-widowjane-ocho10",
+            "reviewer": "Paul Orchard",
+            "publisher": "The Northwest Beer Guide",
+            "summary": "Orchard independently reports tea/citrus/tobacco aromas, pecan and chocolate with mango/agave on the palate, then coffee, floral and pepper notes. He favors neat or modest ice over heavy cocktails.",
+            "scope": "July 29, 2026 exact Ocho-finish sample; supplied bottle disclosed."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 21
+      "deterministic_order": 21,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-003",
+      "publication_sources": [
+        {
+          "title": "BROOKLYN’S WIDOW JANE DISTILLERY INTRODUCES BOURBON FINISHED FOR EIGHT MONTHS IN TEQUILA OCHO CASKS | Heaven Hill Brands",
+          "url": "https://heavenhill.com/news-and-notes/brooklyns-widow-jane-distillery-introduces-bourbon-finished-for-eight-months-in-tequila-ocho-casks/",
+          "role": "Producer collaboration chronology, age, eight-month finish, strength and launch MSRP."
+        },
+        {
+          "title": "Widow Jane 10 Year Tequila Ocho Cask Finish Review | Joe's Daily",
+          "url": "https://joesdaily.com/food-drink/widow-jane-tequila-ocho-cask-finish-review/",
+          "role": "First named independent tasting."
+        },
+        {
+          "title": "Widow Jane Distillery Review - 10 Year Tequila Ocho Cask Finish Bourbon: Full Review — The Northwest Beer Guide",
+          "url": "https://www.northwestbeerguide.com/spirits/2026-widowjane-ocho10",
+          "role": "Second named independent tasting and exact bottle photograph."
+        },
+        {
+          "title": "Widow Jane Tequila Ocho Cask Finish Bourbon - NC ABC Commission",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/173097",
+          "role": "NC regular code 17483; August–October quarterly list also confirms USD 79.95 / 750 mL."
+        }
+      ]
     },
     {
       "id": "widow-jane-the-vaults-2019",
@@ -1216,16 +1256,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "annual",
       "whisky_category": "Bourbon",
-      "proof": 99.0,
+      "proof": 99,
       "abv": 49.5,
-      "age_statement_years": 14.0,
-      "age_information": "14 years",
+      "age_statement_years": 14,
+      "age_information": "14 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "New oak; eight-year air-seasoned staves",
+      "finishing_information": "New oak finishing casks raised from staves air-seasoned eight years",
       "release_year_or_era": "2019",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1237,13 +1277,31 @@
       ],
       "potential_image_source": "https://whiskeyreviewer.com/2019/12/widow-jane-the-vaults-14-year-old-bourbon-review/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://whiskeyreviewer.com/2019/12/widow-jane-the-vaults-14-year-old-bourbon-review/",
+            "reviewer": "Richard Thomas",
+            "publisher": "The Whiskey Reviewer",
+            "summary": "Thomas finds vanilla/brown-sugar sweetness with mint and evergreen spice, then nuts/oak. He enjoys the blend but identifies a quick, insubstantial finish as the main limitation.",
+            "scope": "2019 annual Vaults edition, 14-year minimum and 99 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 22
+      "deterministic_order": 22,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-003",
+      "publication_sources": [
+        {
+          "title": "Widow Jane The Vaults 14 Year Old Bourbon Review (2019) – The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2019/12/widow-jane-the-vaults-14-year-old-bourbon-review/",
+          "role": "Matched named independent sensory record and year-specific identity."
+        }
+      ]
     },
     {
       "id": "widow-jane-the-vaults-2020",
@@ -1253,16 +1311,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "annual",
       "whisky_category": "Bourbon",
-      "proof": 99.0,
+      "proof": 99,
       "abv": 49.5,
-      "age_statement_years": 15.0,
-      "age_information": "15 years",
+      "age_statement_years": 15,
+      "age_information": "15 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Air-seasoned oak; exact seasoning to verify",
+      "finishing_information": "Appalachian oak finishing casks; five-year air-seasoned staves",
       "release_year_or_era": "2020",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1279,13 +1337,36 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/widow-jane-the-vaults-15-year-bourbon-2020-release",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://bourbonveach.com/2021/01/06/tasting-notes-widow-jane-the-vaults/",
+            "reviewer": "Michael Veach",
+            "publisher": "Bourbon Veach",
+            "summary": "Veach describes caramel, dried fruit, tobacco and baking spice, then a long dry oak/spice ending with only limited tannic bitterness. He recommends time in the glass.",
+            "scope": "2020 annual Vaults edition, 15-year minimum and 99 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 23
+      "deterministic_order": 23,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-003",
+      "publication_sources": [
+        {
+          "title": "Tasting Notes – Widow Jane The Vaults – bourbonveachdotcom",
+          "url": "https://bourbonveach.com/2021/01/06/tasting-notes-widow-jane-the-vaults/",
+          "role": "Matched named independent sensory record and year-specific identity."
+        },
+        {
+          "title": "Widow Jane Announces 2020 Edition of \"The Vaults\" Small Batch Series - BevNET.com",
+          "url": "https://www.bevnet.com/spirits/2020/widow-jane-announces-2020-edition-of-the-vaults-small-batch-series/",
+          "role": "Producer release specification / dated release reporting; not independent tasting."
+        }
+      ]
     },
     {
       "id": "widow-jane-the-vaults-2021",
@@ -1295,16 +1376,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "annual",
       "whisky_category": "Bourbon",
-      "proof": 99.0,
+      "proof": 99,
       "abv": 49.5,
-      "age_statement_years": 15.0,
-      "age_information": "15 years",
+      "age_statement_years": 15,
+      "age_information": "15 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Appalachian oak; five-year air-seasoned staves",
+      "finishing_information": "Adirondack oak finishing casks; 42-month air-seasoned staves, heavy toast and 3.5-level char",
       "release_year_or_era": "2021",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1321,13 +1402,36 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/widow-jane-the-vaults-15-year-bourbon-2021-release",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://distiller.com/spirits/widow-jane-the-vaults-15-year-bourbon-2021-release",
+            "reviewer": "Jake Emen",
+            "publisher": "Distiller",
+            "summary": "Emen reports strong sweet vanilla/treacle aromas with mint and cinnamon, rich fudge beside tannic oak and clove, and a long syrupy finish with cedar and char.",
+            "scope": "2021 annual Vaults edition, 15-year minimum and 99 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 24
+      "deterministic_order": 24,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-003",
+      "publication_sources": [
+        {
+          "title": "Widow Jane The Vaults 15 Year Bourbon (2021 Release)",
+          "url": "https://distiller.com/spirits/widow-jane-the-vaults-15-year-bourbon-2021-release",
+          "role": "Matched named independent sensory record and year-specific identity."
+        },
+        {
+          "title": "Widow Jane Releases Limited The Vaults 2021 Bourbon - Fred Minnick",
+          "url": "https://www.fredminnick.com/2021/11/29/widow-jane-releases-limited-the-vaults-2021-bourbon/",
+          "role": "Producer release specification / dated release reporting; not independent tasting."
+        }
+      ]
     },
     {
       "id": "widow-jane-the-vaults-2022",
@@ -1337,16 +1441,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "annual",
       "whisky_category": "Bourbon",
-      "proof": 99.0,
+      "proof": 99,
       "abv": 49.5,
-      "age_statement_years": 14.0,
-      "age_information": "14 years",
+      "age_statement_years": 14,
+      "age_information": "14 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Missouri Ozark oak; three-year air-seasoned staves",
+      "finishing_information": "Missouri Ozark oak finishing casks; three-year air-seasoned staves",
       "release_year_or_era": "2022",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1358,13 +1462,31 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/widow-jane-the-vaults-14-year-bourbon-2022-release",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://distiller.com/spirits/widow-jane-the-vaults-14-year-bourbon-2022-release",
+            "reviewer": "Stephanie Moreno",
+            "publisher": "Distiller",
+            "summary": "Moreno finds sweet vanilla/brown sugar, char and nuts, then a full palate whose oak spice stays integrated. Dark cherry and cream carry a long bittersweet ending.",
+            "scope": "2022 annual Vaults edition, 14-year minimum and 99 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 25
+      "deterministic_order": 25,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-003",
+      "publication_sources": [
+        {
+          "title": "Widow Jane The Vaults 14 Year Bourbon (2022 Release)",
+          "url": "https://distiller.com/spirits/widow-jane-the-vaults-14-year-bourbon-2022-release",
+          "role": "Matched named independent sensory record and year-specific identity."
+        }
+      ]
     },
     {
       "id": "widow-jane-the-vaults-2023",
@@ -1374,16 +1496,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "annual",
       "whisky_category": "Bourbon",
-      "proof": 99.0,
+      "proof": 99,
       "abv": 49.5,
-      "age_statement_years": 15.0,
-      "age_information": "15 years",
+      "age_statement_years": 15,
+      "age_information": "15 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Chinquapin oak; four-year air-seasoned staves",
+      "finishing_information": "Chinquapin oak finishing casks; four-year air-seasoned staves, three-month finish",
       "release_year_or_era": "2023",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1395,13 +1517,31 @@
       ],
       "potential_image_source": "https://www.breakingbourbon.com/review/widow-jane-the-vaults-2023",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.breakingbourbon.com/review/widow-jane-the-vaults-2023",
+            "reviewer": "Nick Beiter",
+            "publisher": "Breaking Bourbon",
+            "summary": "Beiter finds a light earthy/musty start and a velvety but somewhat tannic oak-led palate. The finish improves substantially, unfolding in longer sweet/spicy waves.",
+            "scope": "2023 annual Vaults edition, 15-year minimum and 99 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 26
+      "deterministic_order": 26,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-003",
+      "publication_sources": [
+        {
+          "title": "Widow Jane The Vaults (2023) Review | Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/widow-jane-the-vaults-2023",
+          "role": "Matched named independent sensory record and year-specific identity."
+        }
+      ]
     },
     {
       "id": "widow-jane-the-vaults-2024",
@@ -1411,16 +1551,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "annual",
       "whisky_category": "Bourbon",
-      "proof": 99.0,
+      "proof": 99,
       "abv": 49.5,
-      "age_statement_years": 15.0,
-      "age_information": "15 years",
+      "age_statement_years": 15,
+      "age_information": "15 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Amburana",
+      "finishing_information": "Amburana finishing casks",
       "release_year_or_era": "2024",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1437,13 +1577,36 @@
       ],
       "potential_image_source": "https://heavenhill.com/news-and-notes/widow-jane-announces-the-vaults-2024-seasonal-release-finished-in-amburana-casks/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://breakingbourbon.com/review/widow-jane-the-vaults-2024",
+            "reviewer": "Eric Hasman",
+            "publisher": "Breaking Bourbon",
+            "summary": "Hasman describes cola and confectionery aromas, restrained cinnamon/raisin flavor, and an unusually understated herbal/nutty finish over mature oak. He cautions against expecting a showpiece.",
+            "scope": "2024 annual Vaults edition, 15-year minimum and 99 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 27
+      "deterministic_order": 27,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-003",
+      "publication_sources": [
+        {
+          "title": "Widow Jane The Vaults (2024) Review | Breaking Bourbon",
+          "url": "https://breakingbourbon.com/review/widow-jane-the-vaults-2024",
+          "role": "Matched named independent sensory record and year-specific identity."
+        },
+        {
+          "title": "Widow Jane Announces the Vaults 2024; Seasonal Release Finished in Amburana Casks | Heaven Hill Brands",
+          "url": "https://heavenhill.com/news-and-notes/widow-jane-announces-the-vaults-2024-seasonal-release-finished-in-amburana-casks/",
+          "role": "Producer release specification / dated release reporting; not independent tasting."
+        }
+      ]
     },
     {
       "id": "widow-jane-the-vaults-2025",
@@ -1453,16 +1616,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "annual",
       "whisky_category": "Bourbon",
-      "proof": 99.0,
+      "proof": 99,
       "abv": 49.5,
-      "age_statement_years": 15.0,
-      "age_information": "15 years",
+      "age_statement_years": 15,
+      "age_information": "15 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Greek oak from Amfilochia; mythological is producer terminology",
+      "finishing_information": "Greek oak harvested near Amfilochia; one-to-two-year air-seasoned wood",
       "release_year_or_era": "2025",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1479,13 +1642,41 @@
       ],
       "potential_image_source": "https://heavenhill.com/news-and-notes/with-its-2025-edition-of-the-vaults-widow-jane-looks-to-greek-mythology-for-inspiration/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.breakingbourbon.com/review/widow-jane-the-vaults-2025",
+            "reviewer": "Jordan Moskal",
+            "publisher": "Breaking Bourbon",
+            "summary": "Moskal describes an unusual musty/fruity aroma, then an old-oak-led palate with berry and brown sugar. The ending is dry, mature and only subtly sweet/spicy; he recommends tasting before purchase.",
+            "scope": "2025 annual Vaults edition, 15-year minimum and 99 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 28
+      "deterministic_order": 28,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-003",
+      "publication_sources": [
+        {
+          "title": "Widow Jane The Vaults (2025) Review | Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/widow-jane-the-vaults-2025",
+          "role": "Matched named independent sensory record and year-specific identity."
+        },
+        {
+          "title": "WITH ITS 2025 EDITION OF THE VAULTS, WIDOW JANE LOOKS TO GREEK MYTHOLOGY FOR INSPIRATION | Heaven Hill Brands",
+          "url": "https://heavenhill.com/news-and-notes/with-its-2025-edition-of-the-vaults-widow-jane-looks-to-greek-mythology-for-inspiration/",
+          "role": "Producer release specification / dated release reporting; not independent tasting."
+        },
+        {
+          "title": "Widow Jane The Vaults 2025 Release - NC ABC Commission",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/168590",
+          "role": "NC regular price explicitly identifies the 2025 release, code 19287."
+        }
+      ]
     },
     {
       "id": "widow-jane-the-vaults-2026",
@@ -1526,16 +1717,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "historical",
       "whisky_category": "Bourbon",
-      "proof": 91.0,
-      "abv": 45.5,
+      "proof": null,
+      "abv": null,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "60% Wapsie Valley corn, 25% rye, 15% heirloom barley",
+      "age_information": "No exact January 2014 label age authenticated",
+      "grain_information": "60% Organic Wapsie Valley corn; 25% rye; 15% heirloom barley",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2014",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1552,13 +1743,28 @@
       ],
       "potential_image_source": "https://thewhiskeywash.com/bourbon/non-gmo-heirloom-corn-focus-of-widow-jane-bourbon/",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 30
+      "deterministic_order": 30,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-003",
+      "publication_sources": [
+        {
+          "title": "Widow Jane Introduces Heirloom Bourbon Whiskey",
+          "url": "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html",
+          "role": "Primary release announcement and grain recipe."
+        },
+        {
+          "title": "Widow Jane 1yo Wapsie Valley Batch 1-9 45.5% 375ml - Spirit Radar",
+          "url": "https://www.spiritradar.com/whisky-db/widow-jane-1yo-wapsie-valley-batch-1-9-45.5-percent-375ml/",
+          "role": "Separately documented one-year Wapsie Valley example; contextual identity, not January 2014 sensory evidence."
+        }
+      ]
     },
     {
       "id": "alberta-distillers-rare-batch-issue-no-1-2024",
@@ -9066,6 +9272,114 @@
       "implementation_status": "pending_research",
       "discovered_date": "2026-10-14",
       "deterministic_order": 233
+    },
+    {
+      "id": "widow-jane-borough-blend-2025",
+      "canonical_expression_name": "Widow Jane Borough Blend (2025)",
+      "filename": "widow-jane-borough-blend-2025.html",
+      "brand_family": "Widow Jane",
+      "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+      "status": "historical",
+      "whisky_category": "Bourbon",
+      "proof": 91,
+      "abv": 45.5,
+      "age_statement_years": 10,
+      "age_information": "10 years; exact scope to verify",
+      "grain_information": "Undisclosed",
+      "grain_confidence": "documented grain identity; unknown proportions retained",
+      "finishing_information": "None",
+      "release_year_or_era": "2025",
+      "warrants_own_dossier": true,
+      "decision": "include_pending_expression_verification",
+      "inclusion_or_exclusion_reason": "Later authenticated distinct release/programme; append without reordering original discovery records.",
+      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "discovery_sources": [
+        {
+          "title": "Only In New York: Widow Jane Releases Borough Blend, Exclusive Marriage Of 10 Year Old Straight Bourbons Selected By Bartenders From Across NYC's Iconic Boroughs | Heaven Hill Brands",
+          "url": "https://heavenhill.com/news-and-notes/only-in-new-york-widow-jane-releases-borough-blend-exclusive-marriage-of-10-year-old-straight-bourbons-selected-by-bartenders-from-across-nycs-iconic-boroughs/",
+          "retrieved_date": "2026-10-14"
+        }
+      ],
+      "potential_image_source": "https://heavenhill.com/news-and-notes/only-in-new-york-widow-jane-releases-borough-blend-exclusive-marriage-of-10-year-old-straight-bourbons-selected-by-bartenders-from-across-nycs-iconic-boroughs/",
+      "independent_review_record": {
+        "status": "research_required",
+        "scoring_allowed": false
+      },
+      "implementation_status": "pending_research",
+      "discovered_date": "2026-10-14",
+      "deterministic_order": 234
+    },
+    {
+      "id": "widow-jane-chocolate-malt-whiskey-2017",
+      "canonical_expression_name": "Widow Jane Chocolate Malt Whiskey (2017)",
+      "filename": "widow-jane-chocolate-malt-whiskey-2017.html",
+      "brand_family": "Widow Jane",
+      "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+      "status": "historical",
+      "whisky_category": "American whiskey",
+      "proof": 91,
+      "abv": 45.5,
+      "age_statement_years": 1,
+      "age_information": "1 years; exact scope to verify",
+      "grain_information": "Wapsie Valley corn, chocolate malted barley and rye; percentages undisclosed",
+      "grain_confidence": "documented grain identity; unknown proportions retained",
+      "finishing_information": "No separate finish documented; chocolate refers to roasting malt, not added chocolate.",
+      "release_year_or_era": "2017 reviewed release",
+      "warrants_own_dossier": true,
+      "decision": "include_pending_expression_verification",
+      "inclusion_or_exclusion_reason": "Later authenticated distinct release/programme; append without reordering original discovery records.",
+      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "discovery_sources": [
+        {
+          "title": "Widow Jane Chocolate Malt Whiskey Review – The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
+          "retrieved_date": "2026-10-14"
+        }
+      ],
+      "potential_image_source": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
+      "independent_review_record": {
+        "status": "research_required",
+        "scoring_allowed": false
+      },
+      "implementation_status": "pending_research",
+      "discovered_date": "2026-10-14",
+      "deterministic_order": 235
+    },
+    {
+      "id": "widow-jane-12-year-single-barrel-programme",
+      "canonical_expression_name": "Widow Jane 12 Year Single Barrel — Historical Programme",
+      "filename": "widow-jane-12-year-single-barrel-programme.html",
+      "brand_family": "Widow Jane",
+      "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+      "status": "historical",
+      "whisky_category": "Bourbon",
+      "proof": 99,
+      "abv": 49.5,
+      "age_statement_years": 12,
+      "age_information": "12 years; exact scope to verify",
+      "grain_information": "Undisclosed",
+      "grain_confidence": "documented grain identity; unknown proportions retained",
+      "finishing_information": "None",
+      "release_year_or_era": "Historical recurring programme",
+      "warrants_own_dossier": true,
+      "decision": "include_pending_expression_verification",
+      "inclusion_or_exclusion_reason": "Later authenticated distinct release/programme; append without reordering original discovery records.",
+      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "discovery_sources": [
+        {
+          "title": "Widow Jane 12 Year Straight Bourbon",
+          "url": "https://distiller.com/spirits/widow-jane-12-year-straight-bourbon",
+          "retrieved_date": "2026-10-14"
+        }
+      ],
+      "potential_image_source": "https://distiller.com/spirits/widow-jane-12-year-straight-bourbon",
+      "independent_review_record": {
+        "status": "research_required",
+        "scoring_allowed": false
+      },
+      "implementation_status": "pending_research",
+      "discovered_date": "2026-10-14",
+      "deterministic_order": 236
     }
   ]
 }
