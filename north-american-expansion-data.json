@@ -7685,5 +7685,2299 @@
         "nc_status": "No current NC listing authenticated for this discontinued early heirloom identity."
       }
     }
+  },
+  {
+    "slug": "widow-jane-borough-blend-2025",
+    "filename": "widow-jane-borough-blend-2025.html",
+    "name": "Widow Jane Borough Blend (2025)",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Bourbon",
+    "subcategory": "Bourbon",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 91,
+    "abv": 45.5,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "Undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7.2,
+    "quality_score": 7.2,
+    "value": 5.5,
+    "value_score": 5.5,
+    "overall": 6.29285308902091,
+    "overall_score": 6.29285308902091,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "anchor_references": {
+        "worst": [
+          "cleveland-black-reserve-early-2013-2014"
+        ],
+        "average": [
+          "makers-mark",
+          "bulleit-bourbon"
+        ],
+        "best": [
+          "michters-20-year-bourbon-2024"
+        ]
+      }
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Shane English’s matched account shows clear aromatic variation, developed nuts/fruit and a balanced sweet/spicy ending. Very good is supported; one published batch does not establish exceptional concentration across the whole edition.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The original USD 74.99 / 750 mL MSRP buys a documented selection distinct from the flagship. Its small allocation and local theme are not quality bonuses; less costly everyday bourbon remains strong competition.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 74.99,
+    "price_basis": "Producer MSRP at original New York-only launch",
+    "price_url": "https://heavenhill.com/news-and-notes/only-in-new-york-widow-jane-releases-borough-blend-exclusive-marriage-of-10-year-old-straight-bourbons-selected-by-bartenders-from-across-nycs-iconic-boroughs/",
+    "price_period": "June 9, 2025 launch",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 74.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No NC regular listing authenticated for this New York-only 2025 edition.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "The first, June 2025 New York-only Borough Blend edition. The independent review is Batch 2; the 2026 second edition retains a separate dossier.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://whiskyadvocate.com/Widow-Jane-10-year-old-Borough-Blend-Blend-of-Straights-Batch-2-45-5"
+    ],
+    "review_publishers": [
+      "Whisky Advocate"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://whiskyadvocate.com/Widow-Jane-10-year-old-Borough-Blend-Blend-of-Straights-Batch-2-45-5",
+        "reviewer": "Shane English",
+        "publisher": "Whisky Advocate",
+        "summary": "English describes a floral, red-fruit aroma, a nuttier palate with creamy sweetness, and a finish that holds chocolate sweetness against pepper. The assessed sample is the 2025 Batch 2.",
+        "scope": "Winter 2025; 45.5% ABV, Borough Blend Batch 2."
+      }
+    ],
+    "source_urls": [
+      "https://boroughblend.widowjane.com/2025/",
+      "https://heavenhill.com/news-and-notes/only-in-new-york-widow-jane-releases-borough-blend-exclusive-marriage-of-10-year-old-straight-bourbons-selected-by-bartenders-from-across-nycs-iconic-boroughs/",
+      "https://whiskyadvocate.com/Widow-Jane-10-year-old-Borough-Blend-Blend-of-Straights-Batch-2-45-5"
+    ],
+    "production_summary": "A marriage of sourced straight bourbons, each aged at least ten years in new American oak, selected as a five-barrel blend. The producer documents non-chill filtration and Rosendale-water proofing at 45.5% ABV; individual recipes and blend percentages are undisclosed.",
+    "finishing_information": "None",
+    "identity_note": null,
+    "history": [
+      "Launched June 9, 2025, Borough Blend connected Widow Jane’s Brooklyn blending operation with seven New York bartenders. Five barrels represented the city’s five boroughs; the initial allocation was 2,400 bottles.",
+      "Its limited New York distribution and recurring annual selection explain the separate 2025 and 2026 identities. Neither is an ordinary retailer single-barrel pick."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "An unusually attractive price for the reviewed ten-year selection.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 40,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Easy exploratory buy for floral/nutty bourbon preferences.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 55,
+        "maximum_exclusive": 80,
+        "current_band": true,
+        "reason": "Fair near launch MSRP if its selection appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 80,
+        "maximum_exclusive": 100,
+        "current_band": false,
+        "reason": "Taste first; limited local distribution does not assure better execution.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 100,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value above competing mature bourbon budgets.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Begin neat to inspect the floral/fruit opening described by English."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Add a few drops before ice; preserve the nutty development."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup modest and use a light bitters measure."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A restrained vermouth trial can retain the reported sweet/spicy balance."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "The first, June 2025 New York-only Borough Blend edition. The independent review is Batch 2; the 2026 second edition retains a separate dossier.",
+    "image_limitation": "The located 2025 photograph carries a different ordinary batch number from the Batch 2 critical sample; it is not substituted. No authenticated Batch 2 photograph was embedded.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-004",
+    "editorial": {
+      "id": "widow-jane-borough-blend-2025",
+      "identity": "The first, June 2025 New York-only Borough Blend edition. The independent review is Batch 2; the 2026 second edition retains a separate dossier.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Borough Blend — Widow Jane - 2025",
+          "url": "https://boroughblend.widowjane.com/2025/",
+          "role": "Archived 2025 producer edition page; selection and aging."
+        },
+        {
+          "title": "Widow Jane Borough Blend launch — Heaven Hill",
+          "url": "https://heavenhill.com/news-and-notes/only-in-new-york-widow-jane-releases-borough-blend-exclusive-marriage-of-10-year-old-straight-bourbons-selected-by-bartenders-from-across-nycs-iconic-boroughs/",
+          "role": "June 2025 primary release, proof, age, allocation and USD 74.99 MSRP."
+        },
+        {
+          "title": "Widow Jane 10 year old Borough Blend Blend of Straights (Batch 2), 45.5%",
+          "url": "https://whiskyadvocate.com/Widow-Jane-10-year-old-Borough-Blend-Blend-of-Straights-Batch-2-45-5",
+          "role": "Exact-edition named independent tasting."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://whiskyadvocate.com/Widow-Jane-10-year-old-Borough-Blend-Blend-of-Straights-Batch-2-45-5",
+          "reviewer": "Shane English",
+          "publisher": "Whisky Advocate",
+          "summary": "English describes a floral, red-fruit aroma, a nuttier palate with creamy sweetness, and a finish that holds chocolate sweetness against pepper. The assessed sample is the 2025 Batch 2.",
+          "scope": "Winter 2025; 45.5% ABV, Borough Blend Batch 2."
+        }
+      ],
+      "history": [
+        "Launched June 9, 2025, Borough Blend connected Widow Jane’s Brooklyn blending operation with seven New York bartenders. Five barrels represented the city’s five boroughs; the initial allocation was 2,400 bottles.",
+        "Its limited New York distribution and recurring annual selection explain the separate 2025 and 2026 identities. Neither is an ordinary retailer single-barrel pick."
+      ],
+      "production": "A marriage of sourced straight bourbons, each aged at least ten years in new American oak, selected as a five-barrel blend. The producer documents non-chill filtration and Rosendale-water proofing at 45.5% ABV; individual recipes and blend percentages are undisclosed.",
+      "short_version": "A distinct, bartender-selected five-barrel marriage with a named 2025 review supporting floral fruit, nutty development and a sweet/spicy finish.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "An unusually attractive price for the reviewed ten-year selection.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 40,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Easy exploratory buy for floral/nutty bourbon preferences.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 55,
+          "maximum_exclusive": 80,
+          "current_band": true,
+          "reason": "Fair near launch MSRP if its selection appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 80,
+          "maximum_exclusive": 100,
+          "current_band": false,
+          "reason": "Taste first; limited local distribution does not assure better execution.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 100,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value above competing mature bourbon budgets.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Begin neat to inspect the floral/fruit opening described by English."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Add a few drops before ice; preserve the nutty development."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup modest and use a light bitters measure."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A restrained vermouth trial can retain the reported sweet/spicy balance."
+        }
+      ],
+      "proof": 91,
+      "age": 10,
+      "quality": 7.2,
+      "value": 5.5,
+      "quality_rationale": "Shane English’s matched account shows clear aromatic variation, developed nuts/fruit and a balanced sweet/spicy ending. Very good is supported; one published batch does not establish exceptional concentration across the whole edition.",
+      "value_rationale": "The original USD 74.99 / 750 mL MSRP buys a documented selection distinct from the flagship. Its small allocation and local theme are not quality bonuses; less costly everyday bourbon remains strong competition.",
+      "pricing": {
+        "amount": 74.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "June 9, 2025 launch",
+        "basis": "Producer MSRP at original New York-only launch",
+        "url": "https://heavenhill.com/news-and-notes/only-in-new-york-widow-jane-releases-borough-blend-exclusive-marriage-of-10-year-old-straight-bourbons-selected-by-bartenders-from-across-nycs-iconic-boroughs/",
+        "nc_status": "No NC regular listing authenticated for this New York-only 2025 edition."
+      },
+      "image_limitation": "The located 2025 photograph carries a different ordinary batch number from the Batch 2 critical sample; it is not substituted. No authenticated Batch 2 photograph was embedded."
+    }
+  },
+  {
+    "slug": "widow-jane-chocolate-malt-whiskey-2017",
+    "filename": "widow-jane-chocolate-malt-whiskey-2017.html",
+    "name": "Widow Jane Chocolate Malt Whiskey (2017)",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "American whiskey",
+    "subcategory": "American whiskey",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 91,
+    "abv": 45.5,
+    "age": "1 Years",
+    "age_display": "1 Years",
+    "age_sort_years": 1,
+    "mash_bill_display": "Organic Wapsie Valley corn, chocolate malted barley and rye; proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.2,
+    "quality_score": 5.2,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "universal_dimensions": {
+        "integration": 5,
+        "flavor_development": 6,
+        "finish": 4,
+        "technical_cleanliness": 6,
+        "texture": 4,
+        "maturity_wood_management": 5,
+        "distinctiveness": 7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.2,
+      "editorial_adjustment": 0.0,
+      "adjustment_reason": "Borkus’s positive roasted aroma and distinctiveness are offset by thin texture and short persistence. That supports competent execution around the midpoint, with unusually limited evidence for broader batch consistency."
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Borkus’s positive roasted aroma and distinctiveness are offset by thin texture and short persistence. That supports competent execution around the midpoint, with unusually limited evidence for broader batch consistency.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: a reliable sensory assessment and matched dated price are both required.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "USD 95 / 125 gift-set prices were located; no attributable individual-bottle price was established",
+    "price_url": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
+    "price_period": "February 2017 review",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 375,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No current NC listing for this historical grain experiment authenticated.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "The one-year, 91-proof Chocolate Malt Whiskey reviewed in February 2017: Batch 2, Bottle 125, 375 mL. “Chocolate malt” describes roasted barley, not added chocolate.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/"
+    ],
+    "review_publishers": [
+      "The Whiskey Reviewer"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
+        "reviewer": "Randall H. Borkus",
+        "publisher": "The Whiskey Reviewer",
+        "summary": "Borkus reports pronounced roasted/coffee-like sweetness and nuts, a warm but thin mouthfeel, and a pleasant dry ending that fades quickly. His C+ judgment supplies context; it is not converted mechanically into the project score.",
+        "scope": "February 2017; one year, 91 proof, Batch 2 Bottle 125 / 375 mL."
+      }
+    ],
+    "source_urls": [
+      "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/"
+    ],
+    "production_summary": "Randall H. Borkus identifies organic Wapsie Valley corn, chocolate malted barley and rye, pot distillation, one year of aging and 91 proof. Grain percentages and a verified exact label establishing the legal bourbon classification were not authenticated; the dossier conservatively uses American whiskey.",
+    "finishing_information": "No separate finish established; the chocolate designation refers to heavily roasted malted barley.",
+    "identity_note": null,
+    "history": [
+      "Under Cacao Prieto, Widow Jane explored its own pot-distilled grain recipes alongside sourced bourbon. The 2017 Chocolate Malt sample belongs to that early in-house work.",
+      "The reviewer found it through specialty gift sets containing several grain experiments. A set price does not establish an individual 375 mL bottle price."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Choose a tasting sample before committing to an archival bottle.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Aerate a small neat sample; the reviewer reports that the aroma opens with time."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try only a few drops after the neat pour because the documented body is thin."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "A low-syrup trial may preserve the roasted-grain distinction; mixing performance was not independently reviewed."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a small, lightly modified trial so vermouth does not overwhelm the short finish."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "The one-year, 91-proof Chocolate Malt Whiskey reviewed in February 2017: Batch 2, Bottle 125, 375 mL. “Chocolate malt” describes roasted barley, not added chocolate.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-004",
+    "editorial": {
+      "id": "widow-jane-chocolate-malt-whiskey-2017",
+      "identity": "The one-year, 91-proof Chocolate Malt Whiskey reviewed in February 2017: Batch 2, Bottle 125, 375 mL. “Chocolate malt” describes roasted barley, not added chocolate.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Widow Jane Chocolate Malt Whiskey Review – The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
+          "role": "Exact sample specification, independent sensory record and multi-bottle set-price context."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
+          "reviewer": "Randall H. Borkus",
+          "publisher": "The Whiskey Reviewer",
+          "summary": "Borkus reports pronounced roasted/coffee-like sweetness and nuts, a warm but thin mouthfeel, and a pleasant dry ending that fades quickly. His C+ judgment supplies context; it is not converted mechanically into the project score.",
+          "scope": "February 2017; one year, 91 proof, Batch 2 Bottle 125 / 375 mL."
+        }
+      ],
+      "history": [
+        "Under Cacao Prieto, Widow Jane explored its own pot-distilled grain recipes alongside sourced bourbon. The 2017 Chocolate Malt sample belongs to that early in-house work.",
+        "The reviewer found it through specialty gift sets containing several grain experiments. A set price does not establish an individual 375 mL bottle price."
+      ],
+      "production": "Randall H. Borkus identifies organic Wapsie Valley corn, chocolate malted barley and rye, pot distillation, one year of aging and 91 proof. Grain percentages and a verified exact label establishing the legal bourbon classification were not authenticated; the dossier conservatively uses American whiskey.",
+      "short_version": "An early Brooklyn grain experiment with a defensible named tasting record. Attractive roasted flavors are limited by a thin body and a short ending.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Choose a tasting sample before committing to an archival bottle.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Aerate a small neat sample; the reviewer reports that the aroma opens with time."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try only a few drops after the neat pour because the documented body is thin."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "A low-syrup trial may preserve the roasted-grain distinction; mixing performance was not independently reviewed."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a small, lightly modified trial so vermouth does not overwhelm the short finish."
+        }
+      ],
+      "category": "American whiskey",
+      "proof": 91,
+      "age": 1,
+      "grain": "Organic Wapsie Valley corn, chocolate malted barley and rye; proportions undisclosed",
+      "finish": "No separate finish established; the chocolate designation refers to heavily roasted malted barley.",
+      "quality": 5.2,
+      "value": null,
+      "dimensions": [
+        5,
+        6,
+        4,
+        6,
+        4,
+        5,
+        7
+      ],
+      "quality_rationale": "Borkus’s positive roasted aroma and distinctiveness are offset by thin texture and short persistence. That supports competent execution around the midpoint, with unusually limited evidence for broader batch consistency.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 375,
+        "date": "February 2017 review",
+        "basis": "USD 95 / 125 gift-set prices were located; no attributable individual-bottle price was established",
+        "url": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
+        "nc_status": "No current NC listing for this historical grain experiment authenticated."
+      }
+    }
+  },
+  {
+    "slug": "widow-jane-12-year-single-barrel-programme",
+    "filename": "widow-jane-12-year-single-barrel-programme.html",
+    "name": "Widow Jane 12 Year Single Barrel — Historical Programme",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Bourbon",
+    "subcategory": "Bourbon",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 99,
+    "abv": 49.5,
+    "age": "12 Years",
+    "age_display": "12 Years",
+    "age_sort_years": 12,
+    "mash_bill_display": "Undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit."
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "N/A: no sufficient matched independent tasting record was authenticated.",
+    "quality_confidence": "Unscored",
+    "quality_na_reason": "Expression identity is verified, but no independently reviewed barrel can establish a programme-wide sensory score without conflating ordinary private selections.",
+    "value_rationale": "N/A: a reliable sensory assessment and matched dated price are both required.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No uniform programme MSRP / current NC regular listing authenticated",
+    "price_url": "https://distiller.com/spirits/widow-jane-12-year-straight-bourbon",
+    "price_period": "2026-10-14",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No current NC regular programme price authenticated; retailer-pick prices are not generalized.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Widow Jane’s documented minimum-twelve-year, 99-proof private single-barrel programme. This is one expression-level historical reference, not a set of retailer-pick dossiers.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [],
+    "review_publishers": [],
+    "critical_source_count": 0,
+    "review_evidence": [],
+    "source_urls": [
+      "https://distiller.com/spirits/widow-jane-12-year-straight-bourbon"
+    ],
+    "production_summary": "Sourced straight bourbon aged a minimum of twelve years in new charred American oak, bottled at 49.5% ABV. Recipes, component distillery and the sensory characteristics of each selected barrel remain selection-specific.",
+    "finishing_information": "None",
+    "identity_note": null,
+    "history": [
+      "The documented twelve-year private programme broadens the family’s age/proof structure beyond the flagship blend. It is useful as a single family reference; handwritten retailer and barrel variations remain excluded.",
+      "The available Distiller record explicitly identifies private single-barrel availability. It does not establish an annual vintage or uniform sensory profile across selections."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Choose a tasting sample before committing to an archival bottle.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Assess the actual selected barrel neat; the age and proof do not establish a common flavor."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Dilute the actual sample in steps rather than importing another pick’s recommendation."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Test a small pour only after deciding how its individual sweetness and oak behave."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Evaluate the selected barrel with a restrained vermouth before committing to a larger drink."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Widow Jane’s documented minimum-twelve-year, 99-proof private single-barrel programme. This is one expression-level historical reference, not a set of retailer-pick dossiers.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-004",
+    "editorial": {
+      "id": "widow-jane-12-year-single-barrel-programme",
+      "identity": "Widow Jane’s documented minimum-twelve-year, 99-proof private single-barrel programme. This is one expression-level historical reference, not a set of retailer-pick dossiers.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Widow Jane 12 Year Straight Bourbon — Distiller",
+          "url": "https://distiller.com/spirits/widow-jane-12-year-straight-bourbon",
+          "role": "Twelve-year minimum, 99 proof and explicit private single-barrel scope."
+        }
+      ],
+      "reviews": [],
+      "history": [
+        "The documented twelve-year private programme broadens the family’s age/proof structure beyond the flagship blend. It is useful as a single family reference; handwritten retailer and barrel variations remain excluded.",
+        "The available Distiller record explicitly identifies private single-barrel availability. It does not establish an annual vintage or uniform sensory profile across selections."
+      ],
+      "production": "Sourced straight bourbon aged a minimum of twelve years in new charred American oak, bottled at 49.5% ABV. Recipes, component distillery and the sensory characteristics of each selected barrel remain selection-specific.",
+      "short_version": "A documented age-and-strength step between the flagship and older blends. Programme identity is established, but individual barrels cannot supply one representative numeric score.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Choose a tasting sample before committing to an archival bottle.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Assess the actual selected barrel neat; the age and proof do not establish a common flavor."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Dilute the actual sample in steps rather than importing another pick’s recommendation."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Test a small pour only after deciding how its individual sweetness and oak behave."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Evaluate the selected barrel with a restrained vermouth before committing to a larger drink."
+        }
+      ],
+      "proof": 99,
+      "age": 12,
+      "quality": null,
+      "value": null,
+      "na_reason": "Expression identity is verified, but no independently reviewed barrel can establish a programme-wide sensory score without conflating ordinary private selections.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-14",
+        "basis": "No uniform programme MSRP / current NC regular listing authenticated",
+        "url": "https://distiller.com/spirits/widow-jane-12-year-straight-bourbon",
+        "nc_status": "No current NC regular programme price authenticated; retailer-pick prices are not generalized."
+      }
+    }
+  },
+  {
+    "slug": "alberta-distillers-rare-batch-issue-no-1-2024",
+    "filename": "alberta-distillers-rare-batch-issue-no-1-2024.html",
+    "name": "Alberta Distillers Rare Batch Issue No. 1 (2024)",
+    "family": "Alberta Distillers",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 100,
+    "abv": 50.0,
+    "age": "23 Years",
+    "age_display": "23 Years",
+    "age_sort_years": 23,
+    "mash_bill_display": "Prairie-grain whisky blend; exact expression-level grain percentages not established by the primary announcement",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.7,
+    "quality_score": 5.7,
+    "value": 3.8,
+    "value_score": 3.8,
+    "overall": 4.654030511288038,
+    "overall_score": 4.654030511288038,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Several individually signed reviews disagree materially within one independent publication. The numeric assessment uses the universal rubric provisionally, not a Canadian endpoint or an American rye anchor.",
+      "universal_dimensions": {
+        "integration": 5.5,
+        "flavor_development": 6.5,
+        "finish": 6,
+        "technical_cleanliness": 5,
+        "texture": 5.5,
+        "maturity_wood_management": 5.5,
+        "distinctiveness": 6
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.725,
+      "editorial_adjustment": -0.025,
+      "adjustment_reason": "A positive mature profile is tempered by marked disagreement over body, cleanliness and integration. The midpoint-to-good provisional estimate is deliberately cautious; 23 years is not an automatic quality bonus."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "A positive mature profile is tempered by marked disagreement over body, cleanliness and integration. The midpoint-to-good provisional estimate is deliberately cautious; 23 years is not an automatic quality bonus.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the original CAD 149.95 suggested retail price, the age is substantial but the uneven independent execution makes this a costly drinking proposition beside younger Canadian references. The CAD context is not an NC or USD quote.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": null,
+    "price_basis": "Original Canadian producer suggested retail price",
+    "price_url": "https://alberta-distillers.reportablenews.com/pr/introducing-rare-batch-issue-no-1-a-new-canadian-icon-emerges-from-alberta-distillers-limited",
+    "price_period": "2024 launch",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 149.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed under this expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. Canadian pricing is explicitly retained in CAD.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Rare Batch Issue No. 1; 2024 release, 23 years, 50% ABV.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://quebecwhisky.com/alberta-distillers-23-ans-rare-batch-no-1/"
+    ],
+    "review_publishers": [
+      "Québec Whisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://quebecwhisky.com/alberta-distillers-23-ans-rare-batch-no-1/",
+        "reviewer": "André, Patrick and Kim",
+        "publisher": "Québec Whisky",
+        "summary": "Patrick enjoys rich grain sweetness and a long wood/spice finish. André finds thinner texture and less impact than older releases; Kim reports poor integration and chemical/rancid impressions. These substantial disagreements are retained rather than averaged into a consensus.",
+        "scope": "Rare Batch Issue No. 1; 2024 release, 23 years, 50% ABV. Individually signed independent assessments on one publication; not four separate publishers."
+      }
+    ],
+    "source_urls": [
+      "https://alberta-distillers.reportablenews.com/pr/introducing-rare-batch-issue-no-1-a-new-canadian-icon-emerges-from-alberta-distillers-limited",
+      "https://quebecwhisky.com/alberta-distillers-23-ans-rare-batch-no-1/",
+      "https://canadianwhisky.org/blog/reifel-rye"
+    ],
+    "production_summary": "The producer establishes a 23-year age statement and 50% ABV. The original announcement describes blended Canadian whisky but does not establish barrel proportions or a 100%-rye grain specification for this exact expression.",
+    "finishing_information": "Mixed maturation stocks; no separate timed finish established",
+    "identity_note": null,
+    "history": [
+      "Alberta Distillers’ postwar Calgary operation is separate from the older Windsor/Detroit Prohibition story. The producer’s 80th anniversary in 2026 places its founding in 1946; these modern expressions are not Prohibition-era brands.",
+      "Canadian specialist Davin de Kergommeaux described Alberta-distilled rye behind several U.S. bottlings in 2022. That cross-border sourcing is a meaningful American connection; it does not establish every brand’s present supplier or recipe.",
+      "Issue No. 1 is a documented limited aged release, distinct from Alberta Premium’s recurring cask-strength series."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane Paradigm Rye",
+        "url": "widow-jane-paradigm-rye.html",
+        "reason": "An American-label rye contrast. Its legal category and native anchors do not transfer to Canadian whisky."
+      },
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A lower-priced age-stated 100% rye reference; Canadian rye-forward blends remain distinct."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 50,
+        "current_band": false,
+        "reason": "Strong drinking value at this Canadian-dollar budget, subject to sound provenance.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 50,
+        "maximum_exclusive": 75,
+        "current_band": false,
+        "reason": "Easy buy if the documented category and review profile suit you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 75,
+        "maximum_exclusive": 100,
+        "current_band": false,
+        "reason": "Fair for the demonstrated execution rather than its awards or age alone.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 100,
+        "maximum_exclusive": 150,
+        "current_band": true,
+        "reason": "Taste first; less costly Canadian alternatives are substantial competitors.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 150,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value if the collector or presentation premium dominates.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a modest neat sample to decide whether the reported mature wood or integration faults apply to your bottle."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Test drops of water gradually; dilution cannot be assumed to cure the reviewers’ specific reservations."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Try a restrained syrup measure only after evaluating the neat profile; age alone is no reason to avoid a cocktail."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A small trial with lighter vermouth can test the balance between mature oak and grain sweetness."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Rare Batch Issue No. 1; 2024 release, 23 years, 50% ABV.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-004",
+    "editorial": {
+      "id": "alberta-distillers-rare-batch-issue-no-1-2024",
+      "identity": "Rare Batch Issue No. 1; 2024 release, 23 years, 50% ABV.",
+      "comparables": [
+        {
+          "name": "Widow Jane Paradigm Rye",
+          "url": "widow-jane-paradigm-rye.html",
+          "reason": "An American-label rye contrast. Its legal category and native anchors do not transfer to Canadian whisky."
+        },
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A lower-priced age-stated 100% rye reference; Canadian rye-forward blends remain distinct."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Distillers - Introducing Rare Batch Issue No. 1™: A New Canadian Icon Emerges from Alberta Distillers Limited®",
+          "url": "https://alberta-distillers.reportablenews.com/pr/introducing-rare-batch-issue-no-1-a-new-canadian-icon-emerges-from-alberta-distillers-limited",
+          "role": "Primary age, ABV, release chronology, maturation context and CAD launch SRP."
+        },
+        {
+          "title": "Québec Whisky — Rare Batch 1",
+          "url": "https://quebecwhisky.com/alberta-distillers-23-ans-rare-batch-no-1/",
+          "role": "Individually signed exact-expression independent tasting disagreement."
+        },
+        {
+          "title": "Reifel Rye — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reifel-rye",
+          "role": "Dated specialist account of Calgary rye and its American sourcing role."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://quebecwhisky.com/alberta-distillers-23-ans-rare-batch-no-1/",
+          "reviewer": "André, Patrick and Kim",
+          "publisher": "Québec Whisky",
+          "summary": "Patrick enjoys rich grain sweetness and a long wood/spice finish. André finds thinner texture and less impact than older releases; Kim reports poor integration and chemical/rancid impressions. These substantial disagreements are retained rather than averaged into a consensus.",
+          "scope": "Rare Batch Issue No. 1; 2024 release, 23 years, 50% ABV. Individually signed independent assessments on one publication; not four separate publishers."
+        }
+      ],
+      "history": [
+        "Alberta Distillers’ postwar Calgary operation is separate from the older Windsor/Detroit Prohibition story. The producer’s 80th anniversary in 2026 places its founding in 1946; these modern expressions are not Prohibition-era brands.",
+        "Canadian specialist Davin de Kergommeaux described Alberta-distilled rye behind several U.S. bottlings in 2022. That cross-border sourcing is a meaningful American connection; it does not establish every brand’s present supplier or recipe.",
+        "Issue No. 1 is a documented limited aged release, distinct from Alberta Premium’s recurring cask-strength series."
+      ],
+      "production": "The producer establishes a 23-year age statement and 50% ABV. The original announcement describes blended Canadian whisky but does not establish barrel proportions or a 100%-rye grain specification for this exact expression.",
+      "short_version": "A positive mature profile is tempered by marked disagreement over body, cleanliness and integration. The midpoint-to-good provisional estimate is deliberately cautious; 23 years is not an automatic quality bonus.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 50,
+          "current_band": false,
+          "reason": "Strong drinking value at this Canadian-dollar budget, subject to sound provenance.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 50,
+          "maximum_exclusive": 75,
+          "current_band": false,
+          "reason": "Easy buy if the documented category and review profile suit you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 75,
+          "maximum_exclusive": 100,
+          "current_band": false,
+          "reason": "Fair for the demonstrated execution rather than its awards or age alone.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 100,
+          "maximum_exclusive": 150,
+          "current_band": true,
+          "reason": "Taste first; less costly Canadian alternatives are substantial competitors.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 150,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value if the collector or presentation premium dominates.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a modest neat sample to decide whether the reported mature wood or integration faults apply to your bottle."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Test drops of water gradually; dilution cannot be assumed to cure the reviewers’ specific reservations."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Try a restrained syrup measure only after evaluating the neat profile; age alone is no reason to avoid a cocktail."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A small trial with lighter vermouth can test the balance between mature oak and grain sweetness."
+        }
+      ],
+      "category": "Canadian Blended Whisky",
+      "proof": 100,
+      "age": 23,
+      "grain": "Prairie-grain whisky blend; exact expression-level grain percentages not established by the primary announcement",
+      "finish": "Mixed maturation stocks; no separate timed finish established",
+      "quality": 5.7,
+      "value": 3.8,
+      "dimensions": [
+        5.5,
+        6.5,
+        6,
+        5,
+        5.5,
+        5.5,
+        6
+      ],
+      "quality_rationale": "A positive mature profile is tempered by marked disagreement over body, cleanliness and integration. The midpoint-to-good provisional estimate is deliberately cautious; 23 years is not an automatic quality bonus.",
+      "value_rationale": "At the original CAD 149.95 suggested retail price, the age is substantial but the uneven independent execution makes this a costly drinking proposition beside younger Canadian references. The CAD context is not an NC or USD quote.",
+      "pricing": {
+        "amount": 149.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2024 launch",
+        "basis": "Original Canadian producer suggested retail price",
+        "url": "https://alberta-distillers.reportablenews.com/pr/introducing-rare-batch-issue-no-1-a-new-canadian-icon-emerges-from-alberta-distillers-limited",
+        "nc_status": "Not listed under this expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. Canadian pricing is explicitly retained in CAD."
+      },
+      "evidence_limit": "Several individually signed reviews disagree materially within one independent publication. The numeric assessment uses the universal rubric provisionally, not a Canadian endpoint or an American rye anchor."
+    }
+  },
+  {
+    "slug": "alberta-distillers-rare-batch-issue-no-2-2026",
+    "filename": "alberta-distillers-rare-batch-issue-no-2-2026.html",
+    "name": "Alberta Distillers Rare Batch Issue No. 2 (2026)",
+    "family": "Alberta Distillers",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 100,
+    "abv": 50.0,
+    "age": "21 Years",
+    "age_display": "21 Years",
+    "age_sort_years": 21,
+    "mash_bill_display": "Prairie-grain whisky blend; exact expression-level grain percentages not established by the primary announcement",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.5,
+    "quality_score": 5.5,
+    "value": 3.6,
+    "value_score": 3.6,
+    "overall": 4.449719092257398,
+    "overall_score": 4.449719092257398,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Several individually signed reviews disagree materially within one independent publication. The numeric assessment uses the universal rubric provisionally, not a Canadian endpoint or an American rye anchor.",
+      "universal_dimensions": {
+        "integration": 5,
+        "flavor_development": 6,
+        "finish": 6,
+        "technical_cleanliness": 5,
+        "texture": 5,
+        "maturity_wood_management": 5.5,
+        "distinctiveness": 6
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.45,
+      "editorial_adjustment": 0.05,
+      "adjustment_reason": "Useful mature flavor and persistence are undermined by repeated integration and body reservations. Slightly above competent is defensible; the long age and awards do not resolve the reviewers’ disagreement."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Useful mature flavor and persistence are undermined by repeated integration and body reservations. Slightly above competent is defensible; the long age and awards do not resolve the reviewers’ disagreement.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the original CAD 149.95 suggested retail price, the age is substantial but the uneven independent execution makes this a costly drinking proposition beside younger Canadian references. The CAD context is not an NC or USD quote.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": null,
+    "price_basis": "Original Canadian producer suggested retail price",
+    "price_url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+    "price_period": "2026 launch",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 149.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed under this expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. Canadian pricing is explicitly retained in CAD.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Rare Batch Issue No. 2; 2026 release, 21 years, 50% ABV.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://quebecwhisky.com/alberta-distillers-21-ans-rare-batch-no-2/"
+    ],
+    "review_publishers": [
+      "Québec Whisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://quebecwhisky.com/alberta-distillers-21-ans-rare-batch-no-2/",
+        "reviewer": "André, Patrick and Kim / Martin",
+        "publisher": "Québec Whisky",
+        "summary": "Patrick enjoys spice, chocolate and mature oak. André finds wood imbalance and an intrusive sulfur/chlorine-like note; Martin describes watery integration despite a long finish, while Kim finds pleasant individual flavors that do not cohere.",
+        "scope": "Rare Batch Issue No. 2; 2026 release, 21 years, 50% ABV. Individually signed independent assessments on one publication; not four separate publishers."
+      }
+    ],
+    "source_urls": [
+      "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+      "https://quebecwhisky.com/alberta-distillers-21-ans-rare-batch-no-2/",
+      "https://canadianwhisky.org/blog/reifel-rye"
+    ],
+    "production_summary": "The producer establishes a 21-year age statement and 50% ABV. The 2026 announcement identifies maturation stocks from former Canadian-whisky, bourbon and new-white-oak barrels; it does not give their proportions.",
+    "finishing_information": "Mixed maturation stocks; no separate timed finish established",
+    "identity_note": null,
+    "history": [
+      "Alberta Distillers’ postwar Calgary operation is separate from the older Windsor/Detroit Prohibition story. The producer’s 80th anniversary in 2026 places its founding in 1946; these modern expressions are not Prohibition-era brands.",
+      "Canadian specialist Davin de Kergommeaux described Alberta-distilled rye behind several U.S. bottlings in 2022. That cross-border sourcing is a meaningful American connection; it does not establish every brand’s present supplier or recipe.",
+      "Issue No. 2 is a documented limited aged release, distinct from Alberta Premium’s recurring cask-strength series."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane Paradigm Rye",
+        "url": "widow-jane-paradigm-rye.html",
+        "reason": "An American-label rye contrast. Its legal category and native anchors do not transfer to Canadian whisky."
+      },
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A lower-priced age-stated 100% rye reference; Canadian rye-forward blends remain distinct."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 50,
+        "current_band": false,
+        "reason": "Strong drinking value at this Canadian-dollar budget, subject to sound provenance.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 50,
+        "maximum_exclusive": 75,
+        "current_band": false,
+        "reason": "Easy buy if the documented category and review profile suit you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 75,
+        "maximum_exclusive": 100,
+        "current_band": false,
+        "reason": "Fair for the demonstrated execution rather than its awards or age alone.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 100,
+        "maximum_exclusive": 150,
+        "current_band": true,
+        "reason": "Taste first; less costly Canadian alternatives are substantial competitors.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 150,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value if the collector or presentation premium dominates.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a modest neat sample to decide whether the reported mature wood or integration faults apply to your bottle."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Test drops of water gradually; dilution cannot be assumed to cure the reviewers’ specific reservations."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Try a restrained syrup measure only after evaluating the neat profile; age alone is no reason to avoid a cocktail."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A small trial with lighter vermouth can test the balance between mature oak and grain sweetness."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://quebecwhisky.com/alberta-distillers-21-ans-rare-batch-no-2/",
+        "image_url": "https://i0.wp.com/quebecwhisky.com/wp-content/uploads/2026/07/alberta-premium-batch-2.jpg?fit=300%2C450&ssl=1",
+        "scope": "Rare Batch Issue No. 2; 2026 release, 21 years, 50% ABV.",
+        "sha256": "4137c440fee9f357de5c83886280af500e144d2d22be15aaddb9bfea374e3d6a",
+        "image_embedded": true,
+        "width": 300,
+        "height": 450
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Rare Batch Issue No. 2; 2026 release, 21 years, 50% ABV.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-004",
+    "editorial": {
+      "id": "alberta-distillers-rare-batch-issue-no-2-2026",
+      "identity": "Rare Batch Issue No. 2; 2026 release, 21 years, 50% ABV.",
+      "comparables": [
+        {
+          "name": "Widow Jane Paradigm Rye",
+          "url": "widow-jane-paradigm-rye.html",
+          "reason": "An American-label rye contrast. Its legal category and native anchors do not transfer to Canadian whisky."
+        },
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A lower-priced age-stated 100% rye reference; Canadian rye-forward blends remain distinct."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Distillers - Award-Winning Alberta Distillers Limited® Releases Two New Premium Expressions: Rare Batch Issue No. 2 and Alberta Premium Cask Strength 10 Year Old",
+          "url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+          "role": "Primary age, ABV, release chronology, maturation context and CAD launch SRP."
+        },
+        {
+          "title": "Québec Whisky — Rare Batch 2",
+          "url": "https://quebecwhisky.com/alberta-distillers-21-ans-rare-batch-no-2/",
+          "role": "Individually signed exact-expression independent tasting disagreement."
+        },
+        {
+          "title": "Reifel Rye — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reifel-rye",
+          "role": "Dated specialist account of Calgary rye and its American sourcing role."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://quebecwhisky.com/alberta-distillers-21-ans-rare-batch-no-2/",
+          "reviewer": "André, Patrick and Kim / Martin",
+          "publisher": "Québec Whisky",
+          "summary": "Patrick enjoys spice, chocolate and mature oak. André finds wood imbalance and an intrusive sulfur/chlorine-like note; Martin describes watery integration despite a long finish, while Kim finds pleasant individual flavors that do not cohere.",
+          "scope": "Rare Batch Issue No. 2; 2026 release, 21 years, 50% ABV. Individually signed independent assessments on one publication; not four separate publishers."
+        }
+      ],
+      "history": [
+        "Alberta Distillers’ postwar Calgary operation is separate from the older Windsor/Detroit Prohibition story. The producer’s 80th anniversary in 2026 places its founding in 1946; these modern expressions are not Prohibition-era brands.",
+        "Canadian specialist Davin de Kergommeaux described Alberta-distilled rye behind several U.S. bottlings in 2022. That cross-border sourcing is a meaningful American connection; it does not establish every brand’s present supplier or recipe.",
+        "Issue No. 2 is a documented limited aged release, distinct from Alberta Premium’s recurring cask-strength series."
+      ],
+      "production": "The producer establishes a 21-year age statement and 50% ABV. The 2026 announcement identifies maturation stocks from former Canadian-whisky, bourbon and new-white-oak barrels; it does not give their proportions.",
+      "short_version": "Useful mature flavor and persistence are undermined by repeated integration and body reservations. Slightly above competent is defensible; the long age and awards do not resolve the reviewers’ disagreement.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 50,
+          "current_band": false,
+          "reason": "Strong drinking value at this Canadian-dollar budget, subject to sound provenance.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 50,
+          "maximum_exclusive": 75,
+          "current_band": false,
+          "reason": "Easy buy if the documented category and review profile suit you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 75,
+          "maximum_exclusive": 100,
+          "current_band": false,
+          "reason": "Fair for the demonstrated execution rather than its awards or age alone.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 100,
+          "maximum_exclusive": 150,
+          "current_band": true,
+          "reason": "Taste first; less costly Canadian alternatives are substantial competitors.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 150,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value if the collector or presentation premium dominates.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a modest neat sample to decide whether the reported mature wood or integration faults apply to your bottle."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Test drops of water gradually; dilution cannot be assumed to cure the reviewers’ specific reservations."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Try a restrained syrup measure only after evaluating the neat profile; age alone is no reason to avoid a cocktail."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A small trial with lighter vermouth can test the balance between mature oak and grain sweetness."
+        }
+      ],
+      "category": "Canadian Blended Whisky",
+      "proof": 100,
+      "age": 21,
+      "grain": "Prairie-grain whisky blend; exact expression-level grain percentages not established by the primary announcement",
+      "finish": "Mixed maturation stocks; no separate timed finish established",
+      "quality": 5.5,
+      "value": 3.6,
+      "dimensions": [
+        5,
+        6,
+        6,
+        5,
+        5,
+        5.5,
+        6
+      ],
+      "quality_rationale": "Useful mature flavor and persistence are undermined by repeated integration and body reservations. Slightly above competent is defensible; the long age and awards do not resolve the reviewers’ disagreement.",
+      "value_rationale": "At the original CAD 149.95 suggested retail price, the age is substantial but the uneven independent execution makes this a costly drinking proposition beside younger Canadian references. The CAD context is not an NC or USD quote.",
+      "pricing": {
+        "amount": 149.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026 launch",
+        "basis": "Original Canadian producer suggested retail price",
+        "url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+        "nc_status": "Not listed under this expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. Canadian pricing is explicitly retained in CAD."
+      },
+      "evidence_limit": "Several individually signed reviews disagree materially within one independent publication. The numeric assessment uses the universal rubric provisionally, not a Canadian endpoint or an American rye anchor.",
+      "image_source": "https://quebecwhisky.com/alberta-distillers-21-ans-rare-batch-no-2/",
+      "image_url": "https://i0.wp.com/quebecwhisky.com/wp-content/uploads/2026/07/alberta-premium-batch-2.jpg?fit=300%2C450&ssl=1"
+    }
+  },
+  {
+    "slug": "alberta-distillers-reifel-rye",
+    "filename": "alberta-distillers-reifel-rye.html",
+    "name": "Alberta Distillers Reifel Rye",
+    "family": "Alberta Distillers",
+    "portfolio": null,
+    "category": "Canadian Rye Whisky / Rye-forward",
+    "subcategory": "Canadian Rye Whisky / Rye-forward",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 84,
+    "abv": 42.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Producer: over 90% rye grain / pot-distilled rye; WhiskyCast reports 91% rye whisky, 6% Old Grand-Dad bourbon and 3% Oloroso sherry in the finished blend",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7.6,
+    "quality_score": 7.6,
+    "value": 7.1,
+    "value_score": 7.1,
+    "overall": 7.345747068882782,
+    "overall_score": 7.345747068882782,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "universal_dimensions": {
+        "integration": 7.5,
+        "flavor_development": 8,
+        "finish": 8,
+        "technical_cleanliness": 8,
+        "texture": 7,
+        "maturity_wood_management": 7,
+        "distinctiveness": 8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.675,
+      "editorial_adjustment": -0.075,
+      "adjustment_reason": "Gillespie’s persistent dry/spicy finish, de Kergommeaux’s layered creamy fruit and Flavor Camp’s more prickly/bitter view together support very good, approaching excellent execution. Minor dryness and tannic emphasis keep it below a secure excellent assessment."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Gillespie’s persistent dry/spicy finish, de Kergommeaux’s layered creamy fruit and Flavor Camp’s more prickly/bitter view together support very good, approaching excellent execution. Minor dryness and tannic emphasis keep it below a secure excellent assessment.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The dated LCBO regular CAD 49.95 reference is a favorable budget for its developed profile and cocktail flexibility. Lower provincial/temporary quotes are not used to inflate the score; U.S. landed cost remains separately unestablished.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": null,
+    "price_basis": "LCBO Food & Drink published regular retail reference",
+    "price_url": "https://lcbofoodanddrink.cld.bz/FD-Autumn2025/48/",
+    "price_period": "Autumn 2025",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 49.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed under this expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. Canadian pricing is explicitly retained in CAD.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Reifel Rye, introduced 2022, 42% ABV. The finished blend is rye-forward, not 100% rye or American straight rye.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://whiskycast.com/ratings/reifel-rye/",
+      "https://canadianwhisky.org/blog/reifel-rye",
+      "https://flavorcamp.org/reifel-rye/"
+    ],
+    "review_publishers": [
+      "WhiskyCast",
+      "Canadian Whisky",
+      "Flavor Camp"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "url": "https://whiskycast.com/ratings/reifel-rye/",
+        "reviewer": "Mark Gillespie",
+        "publisher": "WhiskyCast",
+        "summary": "Gillespie finds a thick, spicy palate with dried fruit and a long, dry finish. His account also specifies the bourbon and Oloroso additions.",
+        "scope": "November 2022, 42% ABV."
+      },
+      {
+        "url": "https://canadianwhisky.org/blog/reifel-rye",
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "summary": "De Kergommeaux finds broad creamy fruit/floral development, pepper and herbal depth, ending with rye’s bitter citrus-pith character.",
+        "scope": "October 25, 2022 exact Reifel expression."
+      },
+      {
+        "url": "https://flavorcamp.org/reifel-rye/",
+        "reviewer": "Flavor Camp Team",
+        "publisher": "Flavor Camp",
+        "summary": "The team finds pepper, menthol, dark fruit and toffee, then a zesty, slightly prickly palate with bitter oak/cocoa. They regard it as useful for both sipping and cocktails.",
+        "scope": "May 18, 2024, 42% ABV. Its Windsor-origin field conflicts with the documented Calgary producer and is not adopted."
+      }
+    ],
+    "source_urls": [
+      "https://www.reifelrye.com/",
+      "https://whiskycast.com/ratings/reifel-rye/",
+      "https://canadianwhisky.org/blog/reifel-rye",
+      "https://flavorcamp.org/reifel-rye/",
+      "https://lcbofoodanddrink.cld.bz/FD-Autumn2025/48/"
+    ],
+    "production_summary": "The producer documents over 90% rye grain, pot distillation and new charred white-oak / ex-bourbon maturation. Mark Gillespie gives the more specific finished-blend account: 91% pot-still rye, 6% Old Grand-Dad bourbon and 3% Oloroso sherry. That reported blend composition is not a single American-style mash bill.",
+    "finishing_information": "New white oak and ex-bourbon maturation; reported sherry is a blend addition, not an authenticated sherry-cask finish",
+    "identity_note": null,
+    "history": [
+      "Alberta Distillers’ postwar Calgary operation is separate from the older Windsor/Detroit Prohibition story. The producer’s 80th anniversary in 2026 places its founding in 1946; these modern expressions are not Prohibition-era brands.",
+      "Canadian specialist Davin de Kergommeaux described Alberta-distilled rye behind several U.S. bottlings in 2022. That cross-border sourcing is a meaningful American connection; it does not establish every brand’s present supplier or recipe.",
+      "The brand honors founding distiller George H. Reifel. Its 2022 introduction and postwar distillery ancestry must not be confused with direct brand participation in U.S. Prohibition."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane Paradigm Rye",
+        "url": "widow-jane-paradigm-rye.html",
+        "reason": "An American-label rye contrast. Its legal category and native anchors do not transfer to Canadian whisky."
+      },
+      {
+        "name": "Alberta Premium Golden Rye 9 Year",
+        "url": "alberta-premium-9-year.html",
+        "reason": "A lower-priced age-stated 100% rye reference; Canadian rye-forward blends remain distinct."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "Strong drinking value at this Canadian-dollar budget, subject to sound provenance.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 25,
+        "maximum_exclusive": 35,
+        "current_band": false,
+        "reason": "Easy buy if the documented category and review profile suit you.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 35,
+        "maximum_exclusive": 50,
+        "current_band": true,
+        "reason": "Fair for the demonstrated execution rather than its awards or age alone.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 50,
+        "maximum_exclusive": 65,
+        "current_band": false,
+        "reason": "Taste first; less costly Canadian alternatives are substantial competitors.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 65,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value if the collector or presentation premium dominates.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat and allow some air to inspect the documented fruit/spice development."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a large cube after the neat sample; the dry finish may be a matter of preference."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest syrup to balance its rye spice and dry ending."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try two parts whisky to one part restrained sweet vermouth; its reported fruit and cocoa provide a plausible fit."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://flavorcamp.org/reifel-rye/",
+        "image_url": "https://flavorcamp.org/wp-content/uploads/2024/05/Reifel-Rye-scaled.jpg",
+        "scope": "Reifel Rye, introduced 2022, 42% ABV. The finished blend is rye-forward, not 100% rye or American straight rye.",
+        "sha256": "147b7615f462f0f1729dd568649c5d3b16d33053c83e2e69f2f5baea6447d0ba",
+        "image_embedded": true,
+        "width": 601,
+        "height": 900
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Reifel Rye, introduced 2022, 42% ABV. The finished blend is rye-forward, not 100% rye or American straight rye.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-004",
+    "editorial": {
+      "id": "alberta-distillers-reifel-rye",
+      "identity": "Reifel Rye, introduced 2022, 42% ABV. The finished blend is rye-forward, not 100% rye or American straight rye.",
+      "comparables": [
+        {
+          "name": "Widow Jane Paradigm Rye",
+          "url": "widow-jane-paradigm-rye.html",
+          "reason": "An American-label rye contrast. Its legal category and native anchors do not transfer to Canadian whisky."
+        },
+        {
+          "name": "Alberta Premium Golden Rye 9 Year",
+          "url": "alberta-premium-9-year.html",
+          "reason": "A lower-priced age-stated 100% rye reference; Canadian rye-forward blends remain distinct."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Reifel Rye - High Rye Deep Character",
+          "url": "https://www.reifelrye.com/",
+          "role": "Primary grain level, pot distillation, maturation and brand identity."
+        },
+        {
+          "title": "Reifel Rye - WhiskyCast",
+          "url": "https://whiskycast.com/ratings/reifel-rye/",
+          "role": "Independent sensory record and reported exact finished-blend recipe."
+        },
+        {
+          "title": "Reifel Rye — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reifel-rye",
+          "role": "Named Canadian specialist history and tasting."
+        },
+        {
+          "title": "Reifel Rye - Flavor Camp",
+          "url": "https://flavorcamp.org/reifel-rye/",
+          "role": "Second independent publisher / disclosed identity-field limitation."
+        },
+        {
+          "title": "LCBO Food & Drink Autumn 2025 - Page 48",
+          "url": "https://lcbofoodanddrink.cld.bz/FD-Autumn2025/48/",
+          "role": "LCBO Autumn 2025 regular CAD 49.95 / 750 mL price reference."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://whiskycast.com/ratings/reifel-rye/",
+          "reviewer": "Mark Gillespie",
+          "publisher": "WhiskyCast",
+          "summary": "Gillespie finds a thick, spicy palate with dried fruit and a long, dry finish. His account also specifies the bourbon and Oloroso additions.",
+          "scope": "November 2022, 42% ABV."
+        },
+        {
+          "url": "https://canadianwhisky.org/blog/reifel-rye",
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "summary": "De Kergommeaux finds broad creamy fruit/floral development, pepper and herbal depth, ending with rye’s bitter citrus-pith character.",
+          "scope": "October 25, 2022 exact Reifel expression."
+        },
+        {
+          "url": "https://flavorcamp.org/reifel-rye/",
+          "reviewer": "Flavor Camp Team",
+          "publisher": "Flavor Camp",
+          "summary": "The team finds pepper, menthol, dark fruit and toffee, then a zesty, slightly prickly palate with bitter oak/cocoa. They regard it as useful for both sipping and cocktails.",
+          "scope": "May 18, 2024, 42% ABV. Its Windsor-origin field conflicts with the documented Calgary producer and is not adopted."
+        }
+      ],
+      "history": [
+        "Alberta Distillers’ postwar Calgary operation is separate from the older Windsor/Detroit Prohibition story. The producer’s 80th anniversary in 2026 places its founding in 1946; these modern expressions are not Prohibition-era brands.",
+        "Canadian specialist Davin de Kergommeaux described Alberta-distilled rye behind several U.S. bottlings in 2022. That cross-border sourcing is a meaningful American connection; it does not establish every brand’s present supplier or recipe.",
+        "The brand honors founding distiller George H. Reifel. Its 2022 introduction and postwar distillery ancestry must not be confused with direct brand participation in U.S. Prohibition."
+      ],
+      "production": "The producer documents over 90% rye grain, pot distillation and new charred white-oak / ex-bourbon maturation. Mark Gillespie gives the more specific finished-blend account: 91% pot-still rye, 6% Old Grand-Dad bourbon and 3% Oloroso sherry. That reported blend composition is not a single American-style mash bill.",
+      "short_version": "A flavorful Calgary rye-forward blend with good published agreement on spice, fruit and lingering dry character. Its bourbon/sherry additions are identified rather than hidden behind a 100%-rye claim.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "Strong drinking value at this Canadian-dollar budget, subject to sound provenance.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 25,
+          "maximum_exclusive": 35,
+          "current_band": false,
+          "reason": "Easy buy if the documented category and review profile suit you.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 35,
+          "maximum_exclusive": 50,
+          "current_band": true,
+          "reason": "Fair for the demonstrated execution rather than its awards or age alone.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 50,
+          "maximum_exclusive": 65,
+          "current_band": false,
+          "reason": "Taste first; less costly Canadian alternatives are substantial competitors.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 65,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value if the collector or presentation premium dominates.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat and allow some air to inspect the documented fruit/spice development."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a large cube after the neat sample; the dry finish may be a matter of preference."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest syrup to balance its rye spice and dry ending."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try two parts whisky to one part restrained sweet vermouth; its reported fruit and cocoa provide a plausible fit."
+        }
+      ],
+      "category": "Canadian Rye Whisky / Rye-forward",
+      "proof": 84,
+      "age": null,
+      "age_display": "NAS",
+      "grain": "Producer: over 90% rye grain / pot-distilled rye; WhiskyCast reports 91% rye whisky, 6% Old Grand-Dad bourbon and 3% Oloroso sherry in the finished blend",
+      "finish": "New white oak and ex-bourbon maturation; reported sherry is a blend addition, not an authenticated sherry-cask finish",
+      "quality": 7.6,
+      "value": 7.1,
+      "dimensions": [
+        7.5,
+        8,
+        8,
+        8,
+        7,
+        7,
+        8
+      ],
+      "quality_rationale": "Gillespie’s persistent dry/spicy finish, de Kergommeaux’s layered creamy fruit and Flavor Camp’s more prickly/bitter view together support very good, approaching excellent execution. Minor dryness and tannic emphasis keep it below a secure excellent assessment.",
+      "value_rationale": "The dated LCBO regular CAD 49.95 reference is a favorable budget for its developed profile and cocktail flexibility. Lower provincial/temporary quotes are not used to inflate the score; U.S. landed cost remains separately unestablished.",
+      "pricing": {
+        "amount": 49.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "Autumn 2025",
+        "basis": "LCBO Food & Drink published regular retail reference",
+        "url": "https://lcbofoodanddrink.cld.bz/FD-Autumn2025/48/",
+        "nc_status": "Not listed under this expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. Canadian pricing is explicitly retained in CAD."
+      },
+      "image_source": "https://flavorcamp.org/reifel-rye/",
+      "image_url": "https://flavorcamp.org/wp-content/uploads/2024/05/Reifel-Rye-scaled.jpg"
+    }
+  },
+  {
+    "slug": "alberta-premium-9-year",
+    "filename": "alberta-premium-9-year.html",
+    "name": "Alberta Premium 9 Year",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "9 Years",
+    "age_display": "9 Years",
+    "age_sort_years": 9,
+    "mash_bill_display": "100% locally grown Canadian rye, documented by producer",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.8,
+    "quality_score": 6.8,
+    "value": 8.0,
+    "value_score": 8.0,
+    "overall": 7.37563556583431,
+    "overall_score": 7.37563556583431,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "universal_dimensions": {
+        "integration": 7,
+        "flavor_development": 7,
+        "finish": 6.5,
+        "technical_cleanliness": 7,
+        "texture": 6.5,
+        "maturity_wood_management": 6.5,
+        "distinctiveness": 7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.825,
+      "editorial_adjustment": -0.025,
+      "adjustment_reason": "Beaumont describes approachable sweetness that develops into fruit, citrus and a drying peppery ending. That supports good-to-very-good execution, provisionally limited to one matched independently purchased sample."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Beaumont describes approachable sweetness that develops into fruit, citrus and a drying peppery ending. That supports good-to-very-good execution, provisionally limited to one matched independently purchased sample.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "SAQ’s regular CAD 38.00 / 750 mL listing is a strong Canadian-dollar budget for the documented nine-year rye. The score reflects execution at that Canadian price, not an invented current U.S. or NC quotation.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": null,
+    "price_basis": "SAQ regular retail; currently marked unavailable online, local stock not guaranteed",
+    "price_url": "https://www.saq.com/en/15541272",
+    "price_period": "2026-10-14",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 38.0,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not listed under this expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. Canadian pricing is explicitly retained in CAD.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Alberta Premium Golden Rye 9 Year, 45% ABV / 90 proof. The official identity and SAQ listing supersede the initial unverified 80-proof discovery lead.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.beaumontdrinks.com/beers-spirits-reviews/alberta-distillers-golden-rye"
+    ],
+    "review_publishers": [
+      "Beaumont Drinks"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/alberta-distillers-golden-rye",
+        "reviewer": "Stephen Beaumont",
+        "publisher": "Beaumont Drinks",
+        "summary": "Beaumont finds caramel/leather and plum aromas, then a sweet opening developing into raisin, citrus and pepper. He calls the complexity rewarding, prefers a little ice, and finds it a useful Manhattan base.",
+        "scope": "December 15 review; 45% ABV, nine years; purchased by reviewer."
+      }
+    ],
+    "source_urls": [
+      "https://www.albertadistillers.com/our-products/whisky/alberta-premium-golden-rye-9-yo",
+      "https://www.saq.com/en/15541272",
+      "https://www.beaumontdrinks.com/beers-spirits-reviews/alberta-distillers-golden-rye",
+      "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+      "https://canadianwhisky.org/blog/reifel-rye"
+    ],
+    "production_summary": "The producer identifies 100% locally grown rye. SAQ and Stephen Beaumont establish 45% ABV; the label carries nine years. Exact cask proportions and a separate finish were not authenticated, so other Alberta releases’ maturation recipes are not copied.",
+    "finishing_information": "No separate finish authenticated for Golden Rye 9 Year",
+    "identity_note": null,
+    "history": [
+      "Alberta Distillers’ postwar Calgary operation is separate from the older Windsor/Detroit Prohibition story. The producer’s 80th anniversary in 2026 places its founding in 1946; these modern expressions are not Prohibition-era brands.",
+      "Canadian specialist Davin de Kergommeaux described Alberta-distilled rye behind several U.S. bottlings in 2022. That cross-border sourcing is a meaningful American connection; it does not establish every brand’s present supplier or recipe.",
+      "Golden Rye’s nine-year statement gives a distinct, accessible maturity reference within the Alberta Premium range. It is not the NAS standard bottle or the ten-year cask-strength release."
+    ],
+    "comparables": [
+      {
+        "name": "Reifel Rye",
+        "url": "alberta-distillers-reifel-rye.html",
+        "reason": "The rye-forward bourbon/sherry-containing blend contrasts with this 100%-rye identity."
+      },
+      {
+        "name": "Widow Jane Paradigm Rye",
+        "url": "widow-jane-paradigm-rye.html",
+        "reason": "A different American-label rye category; its native score anchors are not applied here."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "An especially favorable price for the documented age-stated rye.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 25,
+        "maximum_exclusive": 35,
+        "current_band": false,
+        "reason": "Easy buy for an approachable Canadian 100%-rye reference.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 35,
+        "maximum_exclusive": 45,
+        "current_band": true,
+        "reason": "Fair-to-strong value near its SAQ regular price.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 45,
+        "maximum_exclusive": 60,
+        "current_band": false,
+        "reason": "Consider Reifel and other Canadian rye choices before paying the premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 60,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when landed cost erases the accessible-price advantage.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Begin neat to inspect the sweet-to-pepper transition described by Beaumont."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try one small cube, following the critic’s documented preference."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Start with restrained sugar so the accessible grain/fruit profile remains recognizable."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a modestly flavored sweet vermouth; Beaumont specifically reports good Manhattan utility."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.saq.com/en/15541272",
+        "image_url": "https://www.saq.com/media/catalog/product/1/5/15541272-1_1760444588.png?width=367&height=550&canvas=367,550&optimize=high&fit=bounds&format=jpeg",
+        "scope": "Alberta Premium Golden Rye 9 Year, 45% ABV / 90 proof. The official identity and SAQ listing supersede the initial unverified 80-proof discovery lead.",
+        "sha256": "6ab1cc95d426806849f484598574ed72951e874c717c51afae85189c54cd30a8",
+        "image_embedded": true,
+        "width": 367,
+        "height": 550
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Alberta Premium Golden Rye 9 Year, 45% ABV / 90 proof. The official identity and SAQ listing supersede the initial unverified 80-proof discovery lead.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-004",
+    "editorial": {
+      "id": "alberta-premium-9-year",
+      "identity": "Alberta Premium Golden Rye 9 Year, 45% ABV / 90 proof. The official identity and SAQ listing supersede the initial unverified 80-proof discovery lead.",
+      "comparables": [
+        {
+          "name": "Reifel Rye",
+          "url": "alberta-distillers-reifel-rye.html",
+          "reason": "The rye-forward bourbon/sherry-containing blend contrasts with this 100%-rye identity."
+        },
+        {
+          "name": "Widow Jane Paradigm Rye",
+          "url": "widow-jane-paradigm-rye.html",
+          "reason": "A different American-label rye category; its native score anchors are not applied here."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alberta Premium 9-Year-Old Rye Whisky | Alberta Distillers",
+          "url": "https://www.albertadistillers.com/our-products/whisky/alberta-premium-golden-rye-9-yo",
+          "role": "Producer exact nine-year Golden Rye / 100%-rye identity."
+        },
+        {
+          "title": "Alberta Premium 9 Years Old Golden Rye | Product page | SAQ.COM",
+          "url": "https://www.saq.com/en/15541272",
+          "role": "SAQ product 15541272: 45% ABV, 750 mL, CAD 38.00 regular listing."
+        },
+        {
+          "title": "Alberta Premium Golden Rye 9 Year Old (45%) — Beaumont Drinks",
+          "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/alberta-distillers-golden-rye",
+          "role": "Named independently purchased sensory record."
+        },
+        {
+          "title": "Alberta Distillers - Award-Winning Alberta Distillers Limited® Releases Two New Premium Expressions: Rare Batch Issue No. 2 and Alberta Premium Cask Strength 10 Year Old",
+          "url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+          "role": "Calgary producer anniversary chronology."
+        },
+        {
+          "title": "Reifel Rye — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reifel-rye",
+          "role": "Dated Canadian specialist historical sourcing context."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/alberta-distillers-golden-rye",
+          "reviewer": "Stephen Beaumont",
+          "publisher": "Beaumont Drinks",
+          "summary": "Beaumont finds caramel/leather and plum aromas, then a sweet opening developing into raisin, citrus and pepper. He calls the complexity rewarding, prefers a little ice, and finds it a useful Manhattan base.",
+          "scope": "December 15 review; 45% ABV, nine years; purchased by reviewer."
+        }
+      ],
+      "history": [
+        "Alberta Distillers’ postwar Calgary operation is separate from the older Windsor/Detroit Prohibition story. The producer’s 80th anniversary in 2026 places its founding in 1946; these modern expressions are not Prohibition-era brands.",
+        "Canadian specialist Davin de Kergommeaux described Alberta-distilled rye behind several U.S. bottlings in 2022. That cross-border sourcing is a meaningful American connection; it does not establish every brand’s present supplier or recipe.",
+        "Golden Rye’s nine-year statement gives a distinct, accessible maturity reference within the Alberta Premium range. It is not the NAS standard bottle or the ten-year cask-strength release."
+      ],
+      "production": "The producer identifies 100% locally grown rye. SAQ and Stephen Beaumont establish 45% ABV; the label carries nine years. Exact cask proportions and a separate finish were not authenticated, so other Alberta releases’ maturation recipes are not copied.",
+      "short_version": "An approachable, age-stated 100% rye with a named critic’s positive complexity assessment and a modest Canadian control-board price.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "An especially favorable price for the documented age-stated rye.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 25,
+          "maximum_exclusive": 35,
+          "current_band": false,
+          "reason": "Easy buy for an approachable Canadian 100%-rye reference.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 35,
+          "maximum_exclusive": 45,
+          "current_band": true,
+          "reason": "Fair-to-strong value near its SAQ regular price.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 45,
+          "maximum_exclusive": 60,
+          "current_band": false,
+          "reason": "Consider Reifel and other Canadian rye choices before paying the premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 60,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when landed cost erases the accessible-price advantage.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Begin neat to inspect the sweet-to-pepper transition described by Beaumont."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try one small cube, following the critic’s documented preference."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Start with restrained sugar so the accessible grain/fruit profile remains recognizable."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a modestly flavored sweet vermouth; Beaumont specifically reports good Manhattan utility."
+        }
+      ],
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 90,
+      "age": 9,
+      "grain": "100% locally grown Canadian rye, documented by producer",
+      "finish": "No separate finish authenticated for Golden Rye 9 Year",
+      "quality": 6.8,
+      "value": 8.0,
+      "dimensions": [
+        7,
+        7,
+        6.5,
+        7,
+        6.5,
+        6.5,
+        7
+      ],
+      "quality_rationale": "Beaumont describes approachable sweetness that develops into fruit, citrus and a drying peppery ending. That supports good-to-very-good execution, provisionally limited to one matched independently purchased sample.",
+      "value_rationale": "SAQ’s regular CAD 38.00 / 750 mL listing is a strong Canadian-dollar budget for the documented nine-year rye. The score reflects execution at that Canadian price, not an invented current U.S. or NC quotation.",
+      "pricing": {
+        "amount": 38.0,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-14",
+        "basis": "SAQ regular retail; currently marked unavailable online, local stock not guaranteed",
+        "url": "https://www.saq.com/en/15541272",
+        "nc_status": "Not listed under this expression in the NC ABC August–October 2026 uniform regular-price book checked October 14, 2026. Canadian pricing is explicitly retained in CAD."
+      },
+      "image_source": "https://www.saq.com/en/15541272",
+      "image_url": "https://www.saq.com/media/catalog/product/1/5/15541272-1_1760444588.png?width=367&height=550&canvas=367,550&optimize=high&fit=bounds&format=jpeg"
+    }
   }
 ]

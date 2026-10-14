@@ -11,8 +11,8 @@
     "candidates": 236,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 198,
-    "accepted": 25
+    "pending": 191,
+    "accepted": 32
   },
   "entries": [
     {
@@ -1773,17 +1773,17 @@
       "brand_family": "Alberta Distillers",
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "limited",
-      "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 100.0,
+      "whisky_category": "Canadian Blended Whisky",
+      "proof": 100,
       "abv": 50.0,
-      "age_statement_years": 23.0,
-      "age_information": "23 years",
-      "grain_information": "100% rye",
+      "age_statement_years": 23,
+      "age_information": "23 Years",
+      "grain_information": "Prairie-grain whisky blend; exact expression-level grain percentages not established by the primary announcement",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak",
+      "finishing_information": "Mixed maturation stocks; no separate timed finish established",
       "release_year_or_era": "2024",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1795,13 +1795,41 @@
       ],
       "potential_image_source": "https://alberta-distillers.reportablenews.com/pr/introducing-rare-batch-issue-no-1-a-new-canadian-icon-emerges-from-alberta-distillers-limited",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://quebecwhisky.com/alberta-distillers-23-ans-rare-batch-no-1/",
+            "reviewer": "André, Patrick and Kim",
+            "publisher": "Québec Whisky",
+            "summary": "Patrick enjoys rich grain sweetness and a long wood/spice finish. André finds thinner texture and less impact than older releases; Kim reports poor integration and chemical/rancid impressions. These substantial disagreements are retained rather than averaged into a consensus.",
+            "scope": "Rare Batch Issue No. 1; 2024 release, 23 years, 50% ABV. Individually signed independent assessments on one publication; not four separate publishers."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 31
+      "deterministic_order": 31,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-004",
+      "publication_sources": [
+        {
+          "title": "Alberta Distillers - Introducing Rare Batch Issue No. 1™: A New Canadian Icon Emerges from Alberta Distillers Limited®",
+          "url": "https://alberta-distillers.reportablenews.com/pr/introducing-rare-batch-issue-no-1-a-new-canadian-icon-emerges-from-alberta-distillers-limited",
+          "role": "Primary age, ABV, release chronology, maturation context and CAD launch SRP."
+        },
+        {
+          "title": "Québec Whisky — Rare Batch 1",
+          "url": "https://quebecwhisky.com/alberta-distillers-23-ans-rare-batch-no-1/",
+          "role": "Individually signed exact-expression independent tasting disagreement."
+        },
+        {
+          "title": "Reifel Rye — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reifel-rye",
+          "role": "Dated specialist account of Calgary rye and its American sourcing role."
+        }
+      ]
     },
     {
       "id": "alberta-distillers-rare-batch-issue-no-2-2026",
@@ -1810,17 +1838,17 @@
       "brand_family": "Alberta Distillers",
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "limited",
-      "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
+      "whisky_category": "Canadian Blended Whisky",
+      "proof": 100,
+      "abv": 50.0,
+      "age_statement_years": 21,
+      "age_information": "21 Years",
+      "grain_information": "Prairie-grain whisky blend; exact expression-level grain percentages not established by the primary announcement",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak",
+      "finishing_information": "Mixed maturation stocks; no separate timed finish established",
       "release_year_or_era": "2026",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1832,13 +1860,41 @@
       ],
       "potential_image_source": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://quebecwhisky.com/alberta-distillers-21-ans-rare-batch-no-2/",
+            "reviewer": "André, Patrick and Kim / Martin",
+            "publisher": "Québec Whisky",
+            "summary": "Patrick enjoys spice, chocolate and mature oak. André finds wood imbalance and an intrusive sulfur/chlorine-like note; Martin describes watery integration despite a long finish, while Kim finds pleasant individual flavors that do not cohere.",
+            "scope": "Rare Batch Issue No. 2; 2026 release, 21 years, 50% ABV. Individually signed independent assessments on one publication; not four separate publishers."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 32
+      "deterministic_order": 32,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-004",
+      "publication_sources": [
+        {
+          "title": "Alberta Distillers - Award-Winning Alberta Distillers Limited® Releases Two New Premium Expressions: Rare Batch Issue No. 2 and Alberta Premium Cask Strength 10 Year Old",
+          "url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+          "role": "Primary age, ABV, release chronology, maturation context and CAD launch SRP."
+        },
+        {
+          "title": "Québec Whisky — Rare Batch 2",
+          "url": "https://quebecwhisky.com/alberta-distillers-21-ans-rare-batch-no-2/",
+          "role": "Individually signed exact-expression independent tasting disagreement."
+        },
+        {
+          "title": "Reifel Rye — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reifel-rye",
+          "role": "Dated specialist account of Calgary rye and its American sourcing role."
+        }
+      ]
     },
     {
       "id": "alberta-distillers-reifel-rye",
@@ -1847,17 +1903,17 @@
       "brand_family": "Alberta Distillers",
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "current",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": 84.0,
+      "whisky_category": "Canadian Rye Whisky / Rye-forward",
+      "proof": 84,
       "abv": 42.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Rye-forward; precise grain proportions undisclosed",
+      "age_information": "NAS",
+      "grain_information": "Producer: over 90% rye grain / pot-distilled rye; WhiskyCast reports 91% rye whisky, 6% Old Grand-Dad bourbon and 3% Oloroso sherry in the finished blend",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
+      "finishing_information": "New white oak and ex-bourbon maturation; reported sherry is a blend addition, not an authenticated sherry-cask finish",
       "release_year_or_era": "2022",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -1869,13 +1925,65 @@
       ],
       "potential_image_source": "https://www.reifelrye.com/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://whiskycast.com/ratings/reifel-rye/",
+            "reviewer": "Mark Gillespie",
+            "publisher": "WhiskyCast",
+            "summary": "Gillespie finds a thick, spicy palate with dried fruit and a long, dry finish. His account also specifies the bourbon and Oloroso additions.",
+            "scope": "November 2022, 42% ABV."
+          },
+          {
+            "url": "https://canadianwhisky.org/blog/reifel-rye",
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "summary": "De Kergommeaux finds broad creamy fruit/floral development, pepper and herbal depth, ending with rye’s bitter citrus-pith character.",
+            "scope": "October 25, 2022 exact Reifel expression."
+          },
+          {
+            "url": "https://flavorcamp.org/reifel-rye/",
+            "reviewer": "Flavor Camp Team",
+            "publisher": "Flavor Camp",
+            "summary": "The team finds pepper, menthol, dark fruit and toffee, then a zesty, slightly prickly palate with bitter oak/cocoa. They regard it as useful for both sipping and cocktails.",
+            "scope": "May 18, 2024, 42% ABV. Its Windsor-origin field conflicts with the documented Calgary producer and is not adopted."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 33
+      "deterministic_order": 33,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-004",
+      "publication_sources": [
+        {
+          "title": "Reifel Rye - High Rye Deep Character",
+          "url": "https://www.reifelrye.com/",
+          "role": "Primary grain level, pot distillation, maturation and brand identity."
+        },
+        {
+          "title": "Reifel Rye - WhiskyCast",
+          "url": "https://whiskycast.com/ratings/reifel-rye/",
+          "role": "Independent sensory record and reported exact finished-blend recipe."
+        },
+        {
+          "title": "Reifel Rye — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reifel-rye",
+          "role": "Named Canadian specialist history and tasting."
+        },
+        {
+          "title": "Reifel Rye - Flavor Camp",
+          "url": "https://flavorcamp.org/reifel-rye/",
+          "role": "Second independent publisher / disclosed identity-field limitation."
+        },
+        {
+          "title": "LCBO Food & Drink Autumn 2025 - Page 48",
+          "url": "https://lcbofoodanddrink.cld.bz/FD-Autumn2025/48/",
+          "role": "LCBO Autumn 2025 regular CAD 49.95 / 750 mL price reference."
+        }
+      ]
     },
     {
       "id": "alberta-premium-100-rye",
@@ -1996,16 +2104,16 @@
       "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
       "status": "current",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 80.0,
-      "abv": 40.0,
-      "age_statement_years": 9.0,
-      "age_information": "9 years",
-      "grain_information": "100% rye",
+      "proof": 90,
+      "abv": 45.0,
+      "age_statement_years": 9,
+      "age_information": "9 Years",
+      "grain_information": "100% locally grown Canadian rye, documented by producer",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish authenticated for Golden Rye 9 Year",
       "release_year_or_era": "Producer current range",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -2017,13 +2125,51 @@
       ],
       "potential_image_source": "https://www.albertadistillers.com/our-brands/alberta-premium",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/alberta-distillers-golden-rye",
+            "reviewer": "Stephen Beaumont",
+            "publisher": "Beaumont Drinks",
+            "summary": "Beaumont finds caramel/leather and plum aromas, then a sweet opening developing into raisin, citrus and pepper. He calls the complexity rewarding, prefers a little ice, and finds it a useful Manhattan base.",
+            "scope": "December 15 review; 45% ABV, nine years; purchased by reviewer."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 37
+      "deterministic_order": 37,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-004",
+      "publication_sources": [
+        {
+          "title": "Alberta Premium 9-Year-Old Rye Whisky | Alberta Distillers",
+          "url": "https://www.albertadistillers.com/our-products/whisky/alberta-premium-golden-rye-9-yo",
+          "role": "Producer exact nine-year Golden Rye / 100%-rye identity."
+        },
+        {
+          "title": "Alberta Premium 9 Years Old Golden Rye | Product page | SAQ.COM",
+          "url": "https://www.saq.com/en/15541272",
+          "role": "SAQ product 15541272: 45% ABV, 750 mL, CAD 38.00 regular listing."
+        },
+        {
+          "title": "Alberta Premium Golden Rye 9 Year Old (45%) — Beaumont Drinks",
+          "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/alberta-distillers-golden-rye",
+          "role": "Named independently purchased sensory record."
+        },
+        {
+          "title": "Alberta Distillers - Award-Winning Alberta Distillers Limited® Releases Two New Premium Expressions: Rare Batch Issue No. 2 and Alberta Premium Cask Strength 10 Year Old",
+          "url": "https://alberta-distillers.reportablenews.com/pr/award-winning-alberta-distillers-limited-releases-two-new-premium-expressions-rare-batch-issue-no-2-and-alberta-premium-cask-strength-10-year-old",
+          "role": "Calgary producer anniversary chronology."
+        },
+        {
+          "title": "Reifel Rye — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reifel-rye",
+          "role": "Dated Canadian specialist historical sourcing context."
+        }
+      ]
     },
     {
       "id": "alberta-premium-batch-10-legacy-reserve-2024",
@@ -9284,13 +9430,13 @@
       "proof": 91,
       "abv": 45.5,
       "age_statement_years": 10,
-      "age_information": "10 years; exact scope to verify",
+      "age_information": "10 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2025",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Later authenticated distinct release/programme; append without reordering original discovery records.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9302,12 +9448,41 @@
       ],
       "potential_image_source": "https://heavenhill.com/news-and-notes/only-in-new-york-widow-jane-releases-borough-blend-exclusive-marriage-of-10-year-old-straight-bourbons-selected-by-bartenders-from-across-nycs-iconic-boroughs/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://whiskyadvocate.com/Widow-Jane-10-year-old-Borough-Blend-Blend-of-Straights-Batch-2-45-5",
+            "reviewer": "Shane English",
+            "publisher": "Whisky Advocate",
+            "summary": "English describes a floral, red-fruit aroma, a nuttier palate with creamy sweetness, and a finish that holds chocolate sweetness against pepper. The assessed sample is the 2025 Batch 2.",
+            "scope": "Winter 2025; 45.5% ABV, Borough Blend Batch 2."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 234
+      "deterministic_order": 234,
+      "exact_image_status": "unavailable",
+      "image_limitation": "The located 2025 photograph carries a different ordinary batch number from the Batch 2 critical sample; it is not substituted. No authenticated Batch 2 photograph was embedded.",
+      "assessment_checkpoint": "NA-004",
+      "publication_sources": [
+        {
+          "title": "Borough Blend — Widow Jane - 2025",
+          "url": "https://boroughblend.widowjane.com/2025/",
+          "role": "Archived 2025 producer edition page; selection and aging."
+        },
+        {
+          "title": "Widow Jane Borough Blend launch — Heaven Hill",
+          "url": "https://heavenhill.com/news-and-notes/only-in-new-york-widow-jane-releases-borough-blend-exclusive-marriage-of-10-year-old-straight-bourbons-selected-by-bartenders-from-across-nycs-iconic-boroughs/",
+          "role": "June 2025 primary release, proof, age, allocation and USD 74.99 MSRP."
+        },
+        {
+          "title": "Widow Jane 10 year old Borough Blend Blend of Straights (Batch 2), 45.5%",
+          "url": "https://whiskyadvocate.com/Widow-Jane-10-year-old-Borough-Blend-Blend-of-Straights-Batch-2-45-5",
+          "role": "Exact-edition named independent tasting."
+        }
+      ]
     },
     {
       "id": "widow-jane-chocolate-malt-whiskey-2017",
@@ -9320,13 +9495,13 @@
       "proof": 91,
       "abv": 45.5,
       "age_statement_years": 1,
-      "age_information": "1 years; exact scope to verify",
-      "grain_information": "Wapsie Valley corn, chocolate malted barley and rye; percentages undisclosed",
+      "age_information": "1 Years",
+      "grain_information": "Organic Wapsie Valley corn, chocolate malted barley and rye; proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish documented; chocolate refers to roasting malt, not added chocolate.",
+      "finishing_information": "No separate finish established; the chocolate designation refers to heavily roasted malted barley.",
       "release_year_or_era": "2017 reviewed release",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Later authenticated distinct release/programme; append without reordering original discovery records.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9338,12 +9513,31 @@
       ],
       "potential_image_source": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
+            "reviewer": "Randall H. Borkus",
+            "publisher": "The Whiskey Reviewer",
+            "summary": "Borkus reports pronounced roasted/coffee-like sweetness and nuts, a warm but thin mouthfeel, and a pleasant dry ending that fades quickly. His C+ judgment supplies context; it is not converted mechanically into the project score.",
+            "scope": "February 2017; one year, 91 proof, Batch 2 Bottle 125 / 375 mL."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 235
+      "deterministic_order": 235,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-004",
+      "publication_sources": [
+        {
+          "title": "Widow Jane Chocolate Malt Whiskey Review – The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2017/02/widow-jane-chocolate-malt-whiskey-review-021617/",
+          "role": "Exact sample specification, independent sensory record and multi-bottle set-price context."
+        }
+      ]
     },
     {
       "id": "widow-jane-12-year-single-barrel-programme",
@@ -9356,13 +9550,13 @@
       "proof": 99,
       "abv": 49.5,
       "age_statement_years": 12,
-      "age_information": "12 years; exact scope to verify",
+      "age_information": "12 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "Historical recurring programme",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Later authenticated distinct release/programme; append without reordering original discovery records.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9374,12 +9568,23 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/widow-jane-12-year-straight-bourbon",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false
+        "status": "insufficient",
+        "scoring_allowed": false,
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 236
+      "deterministic_order": 236,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-004",
+      "publication_sources": [
+        {
+          "title": "Widow Jane 12 Year Straight Bourbon — Distiller",
+          "url": "https://distiller.com/spirits/widow-jane-12-year-straight-bourbon",
+          "role": "Twelve-year minimum, 99 proof and explicit private single-barrel scope."
+        }
+      ]
     }
   ]
 }
