@@ -316,7 +316,6 @@
         "url": "https://grainvine.com/products/widow-jane-10-years-anniversary-edition-straight-bourbon-whiskey",
         "nc_status": "No authenticated current NC ABC listing for the exact 2022 anniversary release; the ordinary 10 Year listing is not substituted."
       },
-      "image_file": "/workspace/scratch/37ef9287a56a/expansion-research/images/anniversary.webp",
       "image_source": "https://grainvine.com/products/widow-jane-10-years-anniversary-edition-straight-bourbon-whiskey",
       "image_url": "https://grainvine.com/cdn/shop/products/10yr.jpg?v=1671651801",
       "image_note": "Exact 2022 anniversary label detail, not a generic bottle photograph."
@@ -897,7 +896,6 @@
       "quality": null,
       "value": null,
       "na_reason": "Exact bottle identity is authenticated, but no sufficiently matched independent tasting was located. Seven-year and modern ten-year reviews are different whiskeys.",
-      "image_file": "/workspace/scratch/37ef9287a56a/expansion-research/images/eight.webp",
       "image_source": "https://www.whiskyhammer.com/item/45328/Widow-Jane/Widow-Jane---8-Year-Old-Straight-Bourbon-Whiskey-75cl.html",
       "image_url": "https://www.whiskyhammer.com/uploads/images/products/large/1588577327IMG_0041.JPG"
     }
@@ -1884,7 +1882,6 @@
         "nc_code": "25569",
         "nc_status": "Listed by NC ABC at USD 44.95 / 750 mL, effective August 1, 2026; regular retail rather than a temporary special."
       },
-      "image_file": "/workspace/scratch/37ef9287a56a/expansion-research/images/baby2024.webp",
       "image_source": "https://www.breakingbourbon.com/review/baby-jane-bourbon",
       "image_url": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/669aa8fa85576db57d952b98_Baby-Jane-Bourbon-01.jpg"
     }
@@ -2197,9 +2194,2679 @@
         "url": "https://www.bourbonbanter.com/widow-jane-baby-jane-bourbon-review/",
         "nc_status": "No current NC listing authenticated for this 75-bottle 2016 release. The modern Baby Jane NC price is a different expression."
       },
-      "image_file": "/workspace/scratch/37ef9287a56a/expansion-research/images/baby2016.webp",
       "image_source": "https://www.bourbonbanter.com/widow-jane-baby-jane-bourbon-review/",
       "image_url": "https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/wp-content/uploads/2017/03/baby-jane-bourbon-header.jpg"
+    }
+  },
+  {
+    "slug": "widow-jane-black-opal-20-year-2024",
+    "filename": "widow-jane-black-opal-20-year-2024.html",
+    "name": "Widow Jane Black Opal 20 Year (2024)",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Bourbon",
+    "subcategory": "Bourbon",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 99.0,
+    "abv": 49.5,
+    "age": "20 Years",
+    "age_display": "20 Years",
+    "age_sort_years": 20.0,
+    "mash_bill_display": "Undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 7.0,
+    "quality_score": 7.0,
+    "value": 1.9,
+    "value_score": 1.9,
+    "overall": 3.6469165057620936,
+    "overall_score": 3.6469165057620936,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "anchor_references": {
+        "worst": [
+          "cleveland-black-reserve-early-2013-2014"
+        ],
+        "average": [
+          "makers-mark",
+          "bulleit-bourbon"
+        ],
+        "best": [
+          "michters-20-year-bourbon-2024"
+        ]
+      }
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Both named reviews support mature sweetness, spice and controlled oak. Modest intensity and a medium body keep the dossier at very good rather than exceptional; twenty years and rare cooperage are not substitutes for concentration.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the NC regular USD 499.95 reference, the drinking experience competes with many capable mature and finished bourbons costing far less. The distinctive oak is credible, but packaging and limited allocation cannot close that gap.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 499.95,
+    "price_basis": "NC ABC uniform regular retail",
+    "price_url": "https://abc2.nc.gov/Pricing/ViewItemDetails/160305",
+    "price_period": "2026-10-14",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 499.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 499.95,
+    "nc_code": "18133",
+    "nc_listing_status": "NC regular listing matched by identity, proof and format; stock and vintage are not guaranteed.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "First Black Opal release, 2024; 20-year blend finished in Mizunara, 99 proof. The 2026 thirteen-month finish is a separate identity.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.breakingbourbon.com/review/widow-jane-black-opal-20-year",
+      "https://distiller.com/spirits/widow-jane-black-opal"
+    ],
+    "review_publishers": [
+      "Breaking Bourbon",
+      "Distiller"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "url": "https://www.breakingbourbon.com/review/widow-jane-black-opal-20-year",
+        "reviewer": "Jordan Moskal",
+        "publisher": "Breaking Bourbon",
+        "summary": "Moskal finds berry-pastry aromas and nutty custard sweetness with gentle spice. The long-aged base avoids excessive wood, but the light overall delivery is restrained for the price.",
+        "scope": "2024 first release; December 2024 review."
+      },
+      {
+        "url": "https://distiller.com/spirits/widow-jane-black-opal",
+        "reviewer": "Stephanie Moreno",
+        "publisher": "Distiller",
+        "summary": "Moreno recommends time in the glass, describing toasty spice, caramel-apple sweetness and herbal tobacco. She reports a medium body and a relatively long ending.",
+        "scope": "2024 edition, 49.5% ABV."
+      }
+    ],
+    "source_urls": [
+      "https://heavenhill.com/news-and-notes/a-rare-unearthing-widow-jane-black-opal-stands-as-crown-jewel-in-brooklyn-distillerys-collection-of-long-aged-bourbons/",
+      "https://www.breakingbourbon.com/review/widow-jane-black-opal-20-year",
+      "https://distiller.com/spirits/widow-jane-black-opal",
+      "https://abc2.nc.gov/Pricing/ViewItemDetails/160305"
+    ],
+    "production_summary": "The producer documents a blend of bourbons aged at least twenty years, finished in medium-toasted, lightly charred old-growth Mizunara casks, then bottled at 49.5% ABV. Breaking Bourbon identifies Kentucky and Tennessee sourcing. The exact mash bills, blend proportions and initial finish duration are undisclosed.",
+    "finishing_information": "Mizunara",
+    "identity_note": null,
+    "history": [
+      "Black Opal was introduced in 2024 above the annual Vaults range. Its twenty-year base and Japanese-oak secondary treatment mark a distinct older-age expression.",
+      "The initial allocation was 5,000 bottles. The steel presentation box and rarity describe the release, but do not supply Quality or drinking-Value points."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 70,
+        "current_band": false,
+        "reason": "At this budget, documented mature integration can compete unusually well with everyday aged bourbon.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 70,
+        "maximum_exclusive": 110,
+        "current_band": false,
+        "reason": "A favorable discretionary price if this specific oak treatment appeals.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 110,
+        "maximum_exclusive": 160,
+        "current_band": false,
+        "reason": "Fair for the documented complexity; select by flavor rather than release prestige.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 160,
+        "maximum_exclusive": 220,
+        "current_band": false,
+        "reason": "Taste first; accessible mature bourbons compete strongly for this budget.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 220,
+        "maximum_exclusive": null,
+        "current_band": true,
+        "reason": "Pass as a drinking-value purchase once rarity and packaging dominate the premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Allow a few minutes in the glass before evaluating the restrained older-bourbon profile."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try drops of water before ice; a large cube can erase the gentle delivery described by both reviewers."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "A small comparison is possible, but routine mixing makes poor sense at this drinking-value price."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use a light vermouth measure only after a neat sample; its quiet body is vulnerable to stronger modifiers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.breakingbourbon.com/review/widow-jane-black-opal-20-year",
+        "image_url": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/676184016e0fcedfa9db6025_Widow-Jane-Black-Opal-20-Year-01.jpg",
+        "scope": "First Black Opal release, 2024; 20-year blend finished in Mizunara, 99 proof. The 2026 thirteen-month finish is a separate identity.",
+        "sha256": "58c3c10fb4588e14a610d7ba7434394b9da5e9ed0c439d62b271113fde2f14b7",
+        "image_embedded": true,
+        "width": 900,
+        "height": 600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "First Black Opal release, 2024; 20-year blend finished in Mizunara, 99 proof. The 2026 thirteen-month finish is a separate identity.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-002",
+    "editorial": {
+      "id": "widow-jane-black-opal-20-year-2024",
+      "identity": "First Black Opal release, 2024; 20-year blend finished in Mizunara, 99 proof. The 2026 thirteen-month finish is a separate identity.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "A Rare Unearthing: Widow Jane Black Opal Stands as Crown Jewel in Brooklyn Distillery’s Collection of Long-Aged Bourbons | Heaven Hill Brands",
+          "url": "https://heavenhill.com/news-and-notes/a-rare-unearthing-widow-jane-black-opal-stands-as-crown-jewel-in-brooklyn-distillerys-collection-of-long-aged-bourbons/",
+          "role": "Producer first-release identity, age, wood regime and allocation."
+        },
+        {
+          "title": "Widow Jane Black Opal 20 Year Review | Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/widow-jane-black-opal-20-year",
+          "role": "Matched named independent tasting."
+        },
+        {
+          "title": "Widow Jane 20 Year Black Opal (2024 Edition)",
+          "url": "https://distiller.com/spirits/widow-jane-black-opal",
+          "role": "Second independent tasting."
+        },
+        {
+          "title": "Widow Jane Black Opal - NC ABC Commission",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/160305",
+          "role": "NC regular retail code 18133; generic Black Opal listing does not guarantee a 2024 bottle in stock."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://www.breakingbourbon.com/review/widow-jane-black-opal-20-year",
+          "reviewer": "Jordan Moskal",
+          "publisher": "Breaking Bourbon",
+          "summary": "Moskal finds berry-pastry aromas and nutty custard sweetness with gentle spice. The long-aged base avoids excessive wood, but the light overall delivery is restrained for the price.",
+          "scope": "2024 first release; December 2024 review."
+        },
+        {
+          "url": "https://distiller.com/spirits/widow-jane-black-opal",
+          "reviewer": "Stephanie Moreno",
+          "publisher": "Distiller",
+          "summary": "Moreno recommends time in the glass, describing toasty spice, caramel-apple sweetness and herbal tobacco. She reports a medium body and a relatively long ending.",
+          "scope": "2024 edition, 49.5% ABV."
+        }
+      ],
+      "history": [
+        "Black Opal was introduced in 2024 above the annual Vaults range. Its twenty-year base and Japanese-oak secondary treatment mark a distinct older-age expression.",
+        "The initial allocation was 5,000 bottles. The steel presentation box and rarity describe the release, but do not supply Quality or drinking-Value points."
+      ],
+      "production": "The producer documents a blend of bourbons aged at least twenty years, finished in medium-toasted, lightly charred old-growth Mizunara casks, then bottled at 49.5% ABV. Breaking Bourbon identifies Kentucky and Tennessee sourcing. The exact mash bills, blend proportions and initial finish duration are undisclosed.",
+      "short_version": "A restrained, well-integrated mature bourbon with a real Mizunara contrast. Its roughly USD 500 price is far harder to defend than its execution.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 70,
+          "current_band": false,
+          "reason": "At this budget, documented mature integration can compete unusually well with everyday aged bourbon.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 70,
+          "maximum_exclusive": 110,
+          "current_band": false,
+          "reason": "A favorable discretionary price if this specific oak treatment appeals.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 110,
+          "maximum_exclusive": 160,
+          "current_band": false,
+          "reason": "Fair for the documented complexity; select by flavor rather than release prestige.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 160,
+          "maximum_exclusive": 220,
+          "current_band": false,
+          "reason": "Taste first; accessible mature bourbons compete strongly for this budget.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 220,
+          "maximum_exclusive": null,
+          "current_band": true,
+          "reason": "Pass as a drinking-value purchase once rarity and packaging dominate the premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Allow a few minutes in the glass before evaluating the restrained older-bourbon profile."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try drops of water before ice; a large cube can erase the gentle delivery described by both reviewers."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "A small comparison is possible, but routine mixing makes poor sense at this drinking-value price."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use a light vermouth measure only after a neat sample; its quiet body is vulnerable to stronger modifiers."
+        }
+      ],
+      "quality": 7.0,
+      "value": 1.9,
+      "quality_rationale": "Both named reviews support mature sweetness, spice and controlled oak. Modest intensity and a medium body keep the dossier at very good rather than exceptional; twenty years and rare cooperage are not substitutes for concentration.",
+      "value_rationale": "At the NC regular USD 499.95 reference, the drinking experience competes with many capable mature and finished bourbons costing far less. The distinctive oak is credible, but packaging and limited allocation cannot close that gap.",
+      "pricing": {
+        "amount": 499.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-14",
+        "basis": "NC ABC uniform regular retail",
+        "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/160305",
+        "nc_code": "18133",
+        "effective": "2026-08-01",
+        "nc_status": "NC regular listing matched by identity, proof and format; stock and vintage are not guaranteed."
+      },
+      "image_source": "https://www.breakingbourbon.com/review/widow-jane-black-opal-20-year",
+      "image_url": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/676184016e0fcedfa9db6025_Widow-Jane-Black-Opal-20-Year-01.jpg"
+    }
+  },
+  {
+    "slug": "widow-jane-black-opal-20-year-2026",
+    "filename": "widow-jane-black-opal-20-year-2026.html",
+    "name": "Widow Jane Black Opal 20 Year (2026)",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Bourbon",
+    "subcategory": "Bourbon",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 99,
+    "abv": 49.5,
+    "age": "20 Years",
+    "age_display": "20 Years",
+    "age_sort_years": 20,
+    "mash_bill_display": "Undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit."
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "N/A: no sufficient matched independent tasting record was authenticated.",
+    "quality_confidence": "Unscored",
+    "quality_na_reason": "Located 2026 materials contain attributed producer notes rather than a substantive independent tasting. The 2024 reviews are a different finish and release.",
+    "value_rationale": "N/A: a reliable sensory assessment and matched dated price are both required.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": 500.0,
+    "price_basis": "Published original MSRP / dated review reference",
+    "price_url": "https://distiller.com/spirits/widow-jane-20-year-black-opal-2026-edition",
+    "price_period": "2026 announcement",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 500,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact release; a sibling or later vintage is not substituted.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Second Black Opal release, announced September 2026 for October availability; 20-year bourbons, thirteen months in Mizunara, 99 proof, 3,300 bottles.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [],
+    "review_publishers": [],
+    "critical_source_count": 0,
+    "review_evidence": [],
+    "source_urls": [
+      "https://distiller.com/spirits/widow-jane-20-year-black-opal-2026-edition",
+      "https://sipsandsitesandbites.org/2026/09/23/widow-jane-goes-deep-with-black-opal/"
+    ],
+    "production_summary": "Distiller and the dated announcement identify a minimum twenty-year Kentucky/Tennessee bourbon blend, selected from more than fifty barrels and finished thirteen months in medium-toast, light-char Mizunara. The blend recipe remains undisclosed. It is bottled at 49.5% ABV.",
+    "finishing_information": "Mizunara; thirteen-month finish",
+    "identity_note": null,
+    "history": [
+      "The 2026 edition returns to Black Opal after the 2024 debut and extends the documented finishing period to thirteen months. That process change warrants a separate annual identity.",
+      "Gary Carter’s September announcement attributes its flavors to the producer. A publication category labeled review does not turn a release announcement into an independent tasting."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Choose a tasting sample before committing to an archival bottle.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Producer guidance suggests time in the glass. This is labeled as a starting point, not a verified sensory conclusion."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "At 99 proof, try dilution incrementally after a neat sample; the longer finish cannot predict how this edition behaves."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Defer a purchase decision based on cocktail suitability until the exact release has been tasted."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "The price and unverified sensory record favor a small bar sample before committing to a full bottle."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Second Black Opal release, announced September 2026 for October availability; 20-year bourbons, thirteen months in Mizunara, 99 proof, 3,300 bottles.",
+    "image_limitation": "The image attached to a located 2026 announcement visibly says “2024 Edition.” It was rejected. No verified 2026 bottle photograph is embedded.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-002",
+    "editorial": {
+      "id": "widow-jane-black-opal-20-year-2026",
+      "identity": "Second Black Opal release, announced September 2026 for October availability; 20-year bourbons, thirteen months in Mizunara, 99 proof, 3,300 bottles.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Widow Jane 20 Year Black Opal (2026 Edition)",
+          "url": "https://distiller.com/spirits/widow-jane-20-year-black-opal-2026-edition",
+          "role": "Exact 2026 specification and release price; no expert tasting attached."
+        },
+        {
+          "title": "Widow Jane goes deep with Black Opal – Sips & Sites & Bites",
+          "url": "https://sipsandsitesandbites.org/2026/09/23/widow-jane-goes-deep-with-black-opal/",
+          "role": "Dated release reporting; producer notes explicitly attributed, not scored as independent tasting."
+        }
+      ],
+      "reviews": [],
+      "history": [
+        "The 2026 edition returns to Black Opal after the 2024 debut and extends the documented finishing period to thirteen months. That process change warrants a separate annual identity.",
+        "Gary Carter’s September announcement attributes its flavors to the producer. A publication category labeled review does not turn a release announcement into an independent tasting."
+      ],
+      "production": "Distiller and the dated announcement identify a minimum twenty-year Kentucky/Tennessee bourbon blend, selected from more than fifty barrels and finished thirteen months in medium-toast, light-char Mizunara. The blend recipe remains undisclosed. It is bottled at 49.5% ABV.",
+      "short_version": "The longer 2026 Mizunara finish is well documented, but the located material repeats producer tasting notes. Quality and Value remain N/A until an independent matched tasting is available.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Choose a tasting sample before committing to an archival bottle.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Producer guidance suggests time in the glass. This is labeled as a starting point, not a verified sensory conclusion."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "At 99 proof, try dilution incrementally after a neat sample; the longer finish cannot predict how this edition behaves."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Defer a purchase decision based on cocktail suitability until the exact release has been tasted."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "The price and unverified sensory record favor a small bar sample before committing to a full bottle."
+        }
+      ],
+      "proof": 99,
+      "age": 20,
+      "quality": null,
+      "value": null,
+      "na_reason": "Located 2026 materials contain attributed producer notes rather than a substantive independent tasting. The 2024 reviews are a different finish and release.",
+      "pricing": {
+        "amount": 500,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026 announcement",
+        "basis": "Published original MSRP / dated review reference",
+        "url": "https://distiller.com/spirits/widow-jane-20-year-black-opal-2026-edition",
+        "nc_code": null,
+        "effective": null,
+        "nc_status": "No authenticated current NC listing for this exact release; a sibling or later vintage is not substituted."
+      },
+      "image_limitation": "The image attached to a located 2026 announcement visibly says “2024 Edition.” It was rejected. No verified 2026 bottle photograph is embedded."
+    }
+  },
+  {
+    "slug": "widow-jane-bloody-butcher-heirloom-bourbon-2014",
+    "filename": "widow-jane-bloody-butcher-heirloom-bourbon-2014.html",
+    "name": "Widow Jane Bloody Butcher Heirloom Bourbon (2014)",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Bourbon",
+    "subcategory": "Bourbon",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": null,
+    "abv": null,
+    "age": "NAS / label age not established",
+    "age_display": "NAS / label age not established",
+    "age_sort_years": null,
+    "mash_bill_display": "85% Organic Bloody Butcher corn; 15% heirloom barley",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit."
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "N/A: no sufficient matched independent tasting record was authenticated.",
+    "quality_confidence": "Unscored",
+    "quality_na_reason": "Documented expression and recipe, but genuinely insufficient matched independent tasting for the January 2014 identity.",
+    "value_rationale": "N/A: a reliable sensory assessment and matched dated price are both required.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer advertised USD 125; bottle volume not authenticated, so no normalized price or Value score is asserted",
+    "price_url": "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html",
+    "price_period": "January 2014 announcement",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not authenticated as a current NC listing. The old advertised amount is not represented as a current U.S. offer.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Widow Jane Bloody Butcher Heirloom Bourbon (2014); January 2014 founder announcement. Exact release strength and labeled age not authenticated.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [],
+    "review_publishers": [],
+    "critical_source_count": 0,
+    "review_evidence": [],
+    "source_urls": [
+      "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html"
+    ],
+    "production_summary": "The founder announcement identifies New York-grown heirloom grains and Brooklyn farm-to-bottle production. Its documented recipe is 85% Organic Bloody Butcher corn; 15% heirloom barley. Neither a complete release-specific label-age record nor exact proof was authenticated; those remain N/A rather than borrowing the modern family blend’s 91 proof.",
+    "finishing_information": "None",
+    "identity_note": null,
+    "history": [
+      "The January 2014 founder announcement introduces three separate grain experiments: Wapsie Valley, Bloody Butcher and Bloody Butcher High Rye. They document Widow Jane’s own distillation ambitions alongside its sourced-bourbon business.",
+      "This expression is preserved because its documented grain composition is distinct. The announcement’s enthusiastic producer notes and endorsements are not an independent critical consensus."
+    ],
+    "comparables": [
+      {
+        "name": "Baby Jane — 2016 anniversary",
+        "url": "widow-jane-baby-jane-anniversary-release-2016.html",
+        "reason": "Later offspring of the heirloom-corn project, with a documented one-year tasting record."
+      },
+      {
+        "name": "Baby Jane — national 2024 blend",
+        "url": "widow-jane-baby-jane-bourbon-2024.html",
+        "reason": "The modern blended product must not supply missing 2014 strength or sensory evidence."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Choose a tasting sample before committing to an archival bottle.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "If a sound archival bottle is available, use a small neat comparison to inspect the grain experiment."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Unknown authenticated strength makes a specific dilution recommendation unsupported; proceed in drops after tasting."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Assess condition and flavor first; a named corn variety alone cannot establish cocktail performance."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Compare a small neat sample with a modern family bourbon before introducing vermouth."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Widow Jane Bloody Butcher Heirloom Bourbon (2014); January 2014 founder announcement. Exact release strength and labeled age not authenticated.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-002",
+    "editorial": {
+      "id": "widow-jane-bloody-butcher-heirloom-bourbon-2014",
+      "identity": "Widow Jane Bloody Butcher Heirloom Bourbon (2014); January 2014 founder announcement. Exact release strength and labeled age not authenticated.",
+      "comparables": [
+        {
+          "name": "Baby Jane — 2016 anniversary",
+          "url": "widow-jane-baby-jane-anniversary-release-2016.html",
+          "reason": "Later offspring of the heirloom-corn project, with a documented one-year tasting record."
+        },
+        {
+          "name": "Baby Jane — national 2024 blend",
+          "url": "widow-jane-baby-jane-bourbon-2024.html",
+          "reason": "The modern blended product must not supply missing 2014 strength or sensory evidence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Widow Jane Introduces Heirloom Bourbon Whiskey",
+          "url": "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html",
+          "role": "Primary 2014 founder release announcement; recipe and original advertised price, producer notes only."
+        }
+      ],
+      "reviews": [],
+      "history": [
+        "The January 2014 founder announcement introduces three separate grain experiments: Wapsie Valley, Bloody Butcher and Bloody Butcher High Rye. They document Widow Jane’s own distillation ambitions alongside its sourced-bourbon business.",
+        "This expression is preserved because its documented grain composition is distinct. The announcement’s enthusiastic producer notes and endorsements are not an independent critical consensus."
+      ],
+      "production": "The founder announcement identifies New York-grown heirloom grains and Brooklyn farm-to-bottle production. Its documented recipe is 85% Organic Bloody Butcher corn; 15% heirloom barley. Neither a complete release-specific label-age record nor exact proof was authenticated; those remain N/A rather than borrowing the modern family blend’s 91 proof.",
+      "short_version": "A documented early Brooklyn heirloom-corn expression, valuable for family history. Its recipe is established; an exact matched independent tasting and complete bottle specifications are not.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Choose a tasting sample before committing to an archival bottle.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "If a sound archival bottle is available, use a small neat comparison to inspect the grain experiment."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Unknown authenticated strength makes a specific dilution recommendation unsupported; proceed in drops after tasting."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Assess condition and flavor first; a named corn variety alone cannot establish cocktail performance."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Compare a small neat sample with a modern family bourbon before introducing vermouth."
+        }
+      ],
+      "proof": null,
+      "age": null,
+      "grain": "85% Organic Bloody Butcher corn; 15% heirloom barley",
+      "quality": null,
+      "value": null,
+      "na_reason": "Documented expression and recipe, but genuinely insufficient matched independent tasting for the January 2014 identity.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "date": "January 2014 announcement",
+        "basis": "Producer advertised USD 125; bottle volume not authenticated, so no normalized price or Value score is asserted",
+        "url": "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html",
+        "nc_status": "Not authenticated as a current NC listing. The old advertised amount is not represented as a current U.S. offer."
+      }
+    }
+  },
+  {
+    "slug": "widow-jane-bloody-butcher-high-rye-bourbon-2014",
+    "filename": "widow-jane-bloody-butcher-high-rye-bourbon-2014.html",
+    "name": "Widow Jane Bloody Butcher High Rye Bourbon (2014)",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": null,
+    "abv": null,
+    "age": "NAS / label age not established",
+    "age_display": "NAS / label age not established",
+    "age_sort_years": null,
+    "mash_bill_display": "58% Organic Bloody Butcher corn; 27% rye; 15% heirloom barley",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit."
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "N/A: no sufficient matched independent tasting record was authenticated.",
+    "quality_confidence": "Unscored",
+    "quality_na_reason": "Documented expression and recipe, but genuinely insufficient matched independent tasting for the January 2014 identity.",
+    "value_rationale": "N/A: a reliable sensory assessment and matched dated price are both required.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer advertised USD 135; bottle volume not authenticated, so no normalized price or Value score is asserted",
+    "price_url": "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html",
+    "price_period": "January 2014 announcement",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Not authenticated as a current NC listing. The old advertised amount is not represented as a current U.S. offer.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Widow Jane Bloody Butcher High Rye Bourbon (2014); January 2014 founder announcement. Exact release strength and labeled age not authenticated.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [],
+    "review_publishers": [],
+    "critical_source_count": 0,
+    "review_evidence": [],
+    "source_urls": [
+      "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html"
+    ],
+    "production_summary": "The founder announcement identifies New York-grown heirloom grains and Brooklyn farm-to-bottle production. Its documented recipe is 58% Organic Bloody Butcher corn; 27% rye; 15% heirloom barley. Neither a complete release-specific label-age record nor exact proof was authenticated; those remain N/A rather than borrowing the modern family blend’s 91 proof.",
+    "finishing_information": "None",
+    "identity_note": null,
+    "history": [
+      "The January 2014 founder announcement introduces three separate grain experiments: Wapsie Valley, Bloody Butcher and Bloody Butcher High Rye. They document Widow Jane’s own distillation ambitions alongside its sourced-bourbon business.",
+      "This expression is preserved because its documented grain composition is distinct. The announcement’s enthusiastic producer notes and endorsements are not an independent critical consensus."
+    ],
+    "comparables": [
+      {
+        "name": "Baby Jane — 2016 anniversary",
+        "url": "widow-jane-baby-jane-anniversary-release-2016.html",
+        "reason": "Later offspring of the heirloom-corn project, with a documented one-year tasting record."
+      },
+      {
+        "name": "Baby Jane — national 2024 blend",
+        "url": "widow-jane-baby-jane-bourbon-2024.html",
+        "reason": "The modern blended product must not supply missing 2014 strength or sensory evidence."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Choose a tasting sample before committing to an archival bottle.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "If a sound archival bottle is available, use a small neat comparison to inspect the grain experiment."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Unknown authenticated strength makes a specific dilution recommendation unsupported; proceed in drops after tasting."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Assess condition and flavor first; a named corn variety alone cannot establish cocktail performance."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Compare a small neat sample with a modern family bourbon before introducing vermouth."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Widow Jane Bloody Butcher High Rye Bourbon (2014); January 2014 founder announcement. Exact release strength and labeled age not authenticated.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-002",
+    "editorial": {
+      "id": "widow-jane-bloody-butcher-high-rye-bourbon-2014",
+      "identity": "Widow Jane Bloody Butcher High Rye Bourbon (2014); January 2014 founder announcement. Exact release strength and labeled age not authenticated.",
+      "comparables": [
+        {
+          "name": "Baby Jane — 2016 anniversary",
+          "url": "widow-jane-baby-jane-anniversary-release-2016.html",
+          "reason": "Later offspring of the heirloom-corn project, with a documented one-year tasting record."
+        },
+        {
+          "name": "Baby Jane — national 2024 blend",
+          "url": "widow-jane-baby-jane-bourbon-2024.html",
+          "reason": "The modern blended product must not supply missing 2014 strength or sensory evidence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Widow Jane Introduces Heirloom Bourbon Whiskey",
+          "url": "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html",
+          "role": "Primary 2014 founder release announcement; recipe and original advertised price, producer notes only."
+        }
+      ],
+      "reviews": [],
+      "history": [
+        "The January 2014 founder announcement introduces three separate grain experiments: Wapsie Valley, Bloody Butcher and Bloody Butcher High Rye. They document Widow Jane’s own distillation ambitions alongside its sourced-bourbon business.",
+        "This expression is preserved because its documented grain composition is distinct. The announcement’s enthusiastic producer notes and endorsements are not an independent critical consensus."
+      ],
+      "production": "The founder announcement identifies New York-grown heirloom grains and Brooklyn farm-to-bottle production. Its documented recipe is 58% Organic Bloody Butcher corn; 27% rye; 15% heirloom barley. Neither a complete release-specific label-age record nor exact proof was authenticated; those remain N/A rather than borrowing the modern family blend’s 91 proof.",
+      "short_version": "A documented early Brooklyn heirloom-corn expression, valuable for family history. Its recipe is established; an exact matched independent tasting and complete bottle specifications are not.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Choose a tasting sample before committing to an archival bottle.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "If a sound archival bottle is available, use a small neat comparison to inspect the grain experiment."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Unknown authenticated strength makes a specific dilution recommendation unsupported; proceed in drops after tasting."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Assess condition and flavor first; a named corn variety alone cannot establish cocktail performance."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Compare a small neat sample with a modern family bourbon before introducing vermouth."
+        }
+      ],
+      "proof": null,
+      "age": null,
+      "grain": "58% Organic Bloody Butcher corn; 27% rye; 15% heirloom barley",
+      "quality": null,
+      "value": null,
+      "na_reason": "Documented expression and recipe, but genuinely insufficient matched independent tasting for the January 2014 identity.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "date": "January 2014 announcement",
+        "basis": "Producer advertised USD 135; bottle volume not authenticated, so no normalized price or Value score is asserted",
+        "url": "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html",
+        "nc_status": "Not authenticated as a current NC listing. The old advertised amount is not represented as a current U.S. offer."
+      }
+    }
+  },
+  {
+    "slug": "widow-jane-borough-blend-2026",
+    "filename": "widow-jane-borough-blend-2026.html",
+    "name": "Widow Jane Borough Blend (2026)",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Bourbon",
+    "subcategory": "Bourbon",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 91.0,
+    "abv": 45.5,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10.0,
+    "mash_bill_display": "Undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit."
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "N/A: no sufficient matched independent tasting record was authenticated.",
+    "quality_confidence": "Unscored",
+    "quality_na_reason": "The inspected independent Borough Blend review is explicitly Winter 2025 batch 2, not this June 2026 edition. Producer tasting notes alone do not justify a numeric score.",
+    "value_rationale": "N/A: a reliable sensory assessment and matched dated price are both required.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": 69.99,
+    "price_basis": "Published original MSRP / dated review reference",
+    "price_url": "https://heavenhill.com/news-and-notes/new-york-exclusive-widow-jane-releases-borough-blend-2026-91-proof-love-letter-to-nyc-selected-by-bartenders-from-across-nycs-five-boroughs/",
+    "price_period": "June 2026 producer MSRP",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 69.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact release; a sibling or later vintage is not substituted.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "New York-exclusive Borough Blend, June 2026 second release; ten-year blend of straight bourbons, five-barrel batches, 91 proof.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [],
+    "review_publishers": [],
+    "critical_source_count": 0,
+    "review_evidence": [],
+    "source_urls": [
+      "https://heavenhill.com/news-and-notes/new-york-exclusive-widow-jane-releases-borough-blend-2026-91-proof-love-letter-to-nyc-selected-by-bartenders-from-across-nycs-five-boroughs/",
+      "https://boroughblend.widowjane.com/"
+    ],
+    "production_summary": "The producer documents straight bourbons aged at least ten years, selected and blended with bartenders representing the five boroughs. Source distilleries, mash bills and component proportions remain undisclosed. The release is non-chill filtered.",
+    "finishing_information": "None",
+    "identity_note": "The June 2026 press page prints “5% ABV” beside 91 proof. The proof and matching range identity support 45.5% ABV; the missing digits are recorded as a source typo, not a five-percent whiskey claim.",
+    "history": [
+      "The first Borough Blend arrived in 2025. The 2026 release changes the participating bartender group and is identified by the producer as the second edition.",
+      "This is a city-specific blend, rather than an ordinary retailer pick. Its skyline/subway presentation and five-barrel concept establish cultural context; they do not verify a taste score."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Choose a tasting sample before committing to an archival bottle.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "The producer suggests a neat pour; sensory assessment of the exact 2026 blend remains open."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a little water only after inspecting the neat sample; no specific flavor change is independently established."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "The bartender-selected context makes a small classic-cocktail trial reasonable, without inventing its outcome."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a two-to-one trial and judge the actual bottle; the 2025 review is not used as a 2026 prediction."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "New York-exclusive Borough Blend, June 2026 second release; ten-year blend of straight bourbons, five-barrel batches, 91 proof.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-002",
+    "editorial": {
+      "id": "widow-jane-borough-blend-2026",
+      "identity": "New York-exclusive Borough Blend, June 2026 second release; ten-year blend of straight bourbons, five-barrel batches, 91 proof.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "NEW YORK EXCLUSIVE: WIDOW JANE RELEASES BOROUGH BLEND 2026, 91-PROOF LOVE LETTER TO NYC SELECTED BY BARTENDERS FROM ACROSS NYC’S FIVE BOROUGHS | Heaven Hill Brands",
+          "url": "https://heavenhill.com/news-and-notes/new-york-exclusive-widow-jane-releases-borough-blend-2026-91-proof-love-letter-to-nyc-selected-by-bartenders-from-across-nycs-five-boroughs/",
+          "role": "Producer second-edition history, age, 91 proof and USD 69.99 MSRP; ABV typo disclosed."
+        },
+        {
+          "title": "Borough Blend — Widow Jane",
+          "url": "https://boroughblend.widowjane.com/",
+          "role": "Producer 2026 page; intended style, not independent tasting."
+        }
+      ],
+      "reviews": [],
+      "history": [
+        "The first Borough Blend arrived in 2025. The 2026 release changes the participating bartender group and is identified by the producer as the second edition.",
+        "This is a city-specific blend, rather than an ordinary retailer pick. Its skyline/subway presentation and five-barrel concept establish cultural context; they do not verify a taste score."
+      ],
+      "production": "The producer documents straight bourbons aged at least ten years, selected and blended with bartenders representing the five boroughs. Source distilleries, mash bills and component proportions remain undisclosed. The release is non-chill filtered.",
+      "short_version": "A documented bartender-selected New York release with its own 2026 blending identity. A 2025 review does not yet support scoring this edition.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Choose a tasting sample before committing to an archival bottle.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "The producer suggests a neat pour; sensory assessment of the exact 2026 blend remains open."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a little water only after inspecting the neat sample; no specific flavor change is independently established."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "The bartender-selected context makes a small classic-cocktail trial reasonable, without inventing its outcome."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a two-to-one trial and judge the actual bottle; the 2025 review is not used as a 2026 prediction."
+        }
+      ],
+      "identity_note": "The June 2026 press page prints “5% ABV” beside 91 proof. The proof and matching range identity support 45.5% ABV; the missing digits are recorded as a source typo, not a five-percent whiskey claim.",
+      "quality": null,
+      "value": null,
+      "na_reason": "The inspected independent Borough Blend review is explicitly Winter 2025 batch 2, not this June 2026 edition. Producer tasting notes alone do not justify a numeric score.",
+      "pricing": {
+        "amount": 69.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "June 2026 producer MSRP",
+        "basis": "Published original MSRP / dated review reference",
+        "url": "https://heavenhill.com/news-and-notes/new-york-exclusive-widow-jane-releases-borough-blend-2026-91-proof-love-letter-to-nyc-selected-by-bartenders-from-across-nycs-five-boroughs/",
+        "nc_code": null,
+        "effective": null,
+        "nc_status": "No authenticated current NC listing for this exact release; a sibling or later vintage is not substituted."
+      }
+    }
+  },
+  {
+    "slug": "widow-jane-decadence-original-release-2020",
+    "filename": "widow-jane-decadence-original-release-2020.html",
+    "name": "Widow Jane Decadence — Original Release (2020)",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Bourbon",
+    "subcategory": "Bourbon",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 91.0,
+    "abv": 45.5,
+    "age": "NAS label; matched review describes ten-year base bourbon",
+    "age_display": "NAS label; matched review describes ten-year base bourbon",
+    "age_sort_years": null,
+    "mash_bill_display": "Undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.8,
+    "quality_score": 6.8,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "anchor_references": {
+        "worst": [
+          "cleveland-black-reserve-early-2013-2014"
+        ],
+        "average": [
+          "makers-mark",
+          "bulleit-bourbon"
+        ],
+        "best": [
+          "michters-20-year-bourbon-2024"
+        ]
+      }
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "The review supports a rich body and successful integration of maple with bourbon. One first-batch account provides a good-to-very-good estimate, not evidence of reference-class complexity or every later Decadence bottle.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: a reliable sensory assessment and matched dated price are both required.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Price not established",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Original 2020 Decadence, batch 1, bottle 1301 as reviewed by David Levine; 91 proof, maple-syrup-barrel finish. The photographed label has no numerical age statement.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.whiskeyinmyweddingring.com/reviews/widow-jane-decadence"
+    ],
+    "review_publishers": [
+      "Whiskey in My Wedding Ring"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://www.whiskeyinmyweddingring.com/reviews/widow-jane-decadence",
+        "reviewer": "David Levine",
+        "publisher": "Whiskey in My Wedding Ring",
+        "summary": "Levine reports dense maple/brioche sweetness, substantial vanilla, a mineral counterpoint and an oily medium-to-full body. He regards the finish as sweet and well integrated rather than a finish that loses the bourbon base.",
+        "scope": "2020 batch 1, bottle 1301, 91 proof."
+      }
+    ],
+    "source_urls": [
+      "https://www.whiskeyinmyweddingring.com/reviews/widow-jane-decadence"
+    ],
+    "production_summary": "The photographed first-batch bottle identifies a blend of straight bourbons finished in maple-syrup barrels at 45.5% ABV. Levine describes a ten-year base, but the label says aged to perfection without a numerical age. Source distilleries and grain proportions remain unconfirmed.",
+    "finishing_information": "Maple syrup barrels",
+    "identity_note": "The review speculates about Kentucky and Dickel sourcing. Those guesses are retained as reviewer interpretation, not authenticated distillery identification.",
+    "history": [
+      "Decadence’s first 2020 batch establishes the maple-syrup-barrel branch of the family. The long-running finishing concept is represented here by its launch identity and by the already accepted 2025 review.",
+      "Ordinary intervening batches are not added merely to fill years. A changed recipe or finish, rather than a different handwritten number, is required for additional dossier separation."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Choose a tasting sample before committing to an archival bottle.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+        "current_band": false,
+        "reference_date": "2026-10-14"
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to assess the rich sweetness in the exact first-batch record."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a small amount of water after the neat pour; its substantial sweetness can survive some dilution, but that is a trial rather than a promise."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Reduce added syrup because maple-cask sweetness is already the documented premise."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use a restrained vermouth measure; extra sweet modifiers can overwhelm the bourbon/finish balance."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.whiskeyinmyweddingring.com/reviews/widow-jane-decadence",
+        "image_url": "https://static1.squarespace.com/static/5f38598c878cfc0fee128041/5f3882203384b2337c3938ce/5f62717227685622d023639b/1600979003143/Widow+Jane+Decadence.jpeg?format=1500w",
+        "scope": "Original 2020 Decadence, batch 1, bottle 1301 as reviewed by David Levine; 91 proof, maple-syrup-barrel finish. The photographed label has no numerical age statement.",
+        "sha256": "13dc8370d4be97bcc073c0bd5d084ff71fdc5253d3d6e64cdf8644805a7e7b0a",
+        "image_embedded": true,
+        "width": 900,
+        "height": 900
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Original 2020 Decadence, batch 1, bottle 1301 as reviewed by David Levine; 91 proof, maple-syrup-barrel finish. The photographed label has no numerical age statement.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-002",
+    "editorial": {
+      "id": "widow-jane-decadence-original-release-2020",
+      "identity": "Original 2020 Decadence, batch 1, bottle 1301 as reviewed by David Levine; 91 proof, maple-syrup-barrel finish. The photographed label has no numerical age statement.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Widow Jane Decadence Batch 1 Review",
+          "url": "https://www.whiskeyinmyweddingring.com/reviews/widow-jane-decadence",
+          "role": "Independent exact-batch review and original photographed NAS label."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://www.whiskeyinmyweddingring.com/reviews/widow-jane-decadence",
+          "reviewer": "David Levine",
+          "publisher": "Whiskey in My Wedding Ring",
+          "summary": "Levine reports dense maple/brioche sweetness, substantial vanilla, a mineral counterpoint and an oily medium-to-full body. He regards the finish as sweet and well integrated rather than a finish that loses the bourbon base.",
+          "scope": "2020 batch 1, bottle 1301, 91 proof."
+        }
+      ],
+      "history": [
+        "Decadence’s first 2020 batch establishes the maple-syrup-barrel branch of the family. The long-running finishing concept is represented here by its launch identity and by the already accepted 2025 review.",
+        "Ordinary intervening batches are not added merely to fill years. A changed recipe or finish, rather than a different handwritten number, is required for additional dossier separation."
+      ],
+      "production": "The photographed first-batch bottle identifies a blend of straight bourbons finished in maple-syrup barrels at 45.5% ABV. Levine describes a ten-year base, but the label says aged to perfection without a numerical age. Source distilleries and grain proportions remain unconfirmed.",
+      "short_version": "The original maple-cask release has a convincing rich-sweet review record, but its first-batch identity and NAS label remain separate from the accepted 2025 dossier.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An exceptional price alone cannot establish quality; require sound provenance and a verified label.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Choose a tasting sample before committing to an archival bottle.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "A purchase is conditional on bottle condition and a personally acceptable price.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Collectors may accept a premium for history; drinking Value remains unscored.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "Pass if the seller cannot establish the expression, closure condition and price context.",
+          "current_band": false,
+          "reference_date": "2026-10-14"
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to assess the rich sweetness in the exact first-batch record."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a small amount of water after the neat pour; its substantial sweetness can survive some dilution, but that is a trial rather than a promise."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Reduce added syrup because maple-cask sweetness is already the documented premise."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use a restrained vermouth measure; extra sweet modifiers can overwhelm the bourbon/finish balance."
+        }
+      ],
+      "age": null,
+      "age_display": "NAS label; matched review describes ten-year base bourbon",
+      "identity_note": "The review speculates about Kentucky and Dickel sourcing. Those guesses are retained as reviewer interpretation, not authenticated distillery identification.",
+      "quality": 6.8,
+      "value": null,
+      "quality_rationale": "The review supports a rich body and successful integration of maple with bourbon. One first-batch account provides a good-to-very-good estimate, not evidence of reference-class complexity or every later Decadence bottle.",
+      "image_source": "https://www.whiskeyinmyweddingring.com/reviews/widow-jane-decadence",
+      "image_url": "https://static1.squarespace.com/static/5f38598c878cfc0fee128041/5f3882203384b2337c3938ce/5f62717227685622d023639b/1600979003143/Widow+Jane+Decadence.jpeg?format=1500w"
+    }
+  },
+  {
+    "slug": "widow-jane-lucky-thirteen",
+    "filename": "widow-jane-lucky-thirteen.html",
+    "name": "Widow Jane Lucky Thirteen",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Bourbon",
+    "subcategory": "Bourbon",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 93.0,
+    "abv": 46.5,
+    "age": "13 Years",
+    "age_display": "13 Years",
+    "age_sort_years": 13.0,
+    "mash_bill_display": "Undisclosed blended bourbon recipes",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.8,
+    "quality_score": 5.8,
+    "value": 3.7,
+    "value_score": 3.7,
+    "overall": 4.632493928760188,
+    "overall_score": 4.632493928760188,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Different dated recurring batches disagree. The number is provisional; no retailer-pick score is generalized to every bottle.",
+      "anchor_references": {
+        "worst": [
+          "cleveland-black-reserve-early-2013-2014"
+        ],
+        "average": [
+          "makers-mark",
+          "bulleit-bourbon"
+        ],
+        "best": [
+          "michters-20-year-bourbon-2024"
+        ]
+      }
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Pringle’s sparse, short-ending sample is an important limit, while the later panel supports a more developed sweet-spicy profile. The evidence supports a provisional average-to-good expression judgment with substantial batch uncertainty.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "NC regular USD 99.95 is demanding for the mixed evidence. The standard family 10 Year and widely available aged bourbons provide strong alternatives; a favorable bottle sample is more useful than the age number alone.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 99.95,
+    "price_basis": "NC ABC uniform regular retail",
+    "price_url": "https://abc2.nc.gov/Pricing/ViewItemDetails/152544",
+    "price_period": "2026-10-14",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 99.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 99.95,
+    "nc_code": "19358",
+    "nc_listing_status": "NC regular listing matched by identity, proof and format; stock and vintage are not guaranteed.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "13-year, 93-proof Lucky Thirteen blend. The detailed dissent is Mark Pringle’s 2021 batch 12; BTI’s positive later recurring-expression panel record is separately scoped.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.peoplesbourbonreview.com/reviews/boring-widow-jane-lucky-thirteen-falls-short",
+      "https://www.tastings.com/Spirits-Review/Widow-Jane-Lucky-Thirteen-Blended-Straight-Bourbon-Whiskey-USA-93-Proof-08-02-2025.aspx"
+    ],
+    "review_publishers": [
+      "The People’s Bourbon Review",
+      "Tastings / BTI"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "url": "https://www.peoplesbourbonreview.com/reviews/boring-widow-jane-lucky-thirteen-falls-short",
+        "reviewer": "Mark Pringle",
+        "publisher": "The People’s Bourbon Review",
+        "summary": "Pringle finds limited aroma, a simple sweet-oak palate and a short ending, judging the price disproportionate to the richness of his sample.",
+        "scope": "2021 batch 12, bottle 128; 93-proof blend."
+      },
+      {
+        "url": "https://www.tastings.com/Spirits-Review/Widow-Jane-Lucky-Thirteen-Blended-Straight-Bourbon-Whiskey-USA-93-Proof-08-02-2025.aspx",
+        "reviewer": "Beverage Testing Institute tasting panel",
+        "publisher": "Tastings / BTI",
+        "summary": "The panel describes nut-oil and banana-pastry aromas, a medium-to-full body, and a longer fruit-and-marzipan ending. This later sample is materially richer than Pringle’s sparse 2021 bottle.",
+        "scope": "July 2025 blend assessment; not the 2021 batch 12."
+      }
+    ],
+    "source_urls": [
+      "https://www.peoplesbourbonreview.com/reviews/boring-widow-jane-lucky-thirteen-falls-short",
+      "https://www.tastings.com/Spirits-Review/Widow-Jane-Lucky-Thirteen-Blended-Straight-Bourbon-Whiskey-USA-93-Proof-08-02-2025.aspx",
+      "https://abc2.nc.gov/Pricing/ViewItemDetails/152544"
+    ],
+    "production_summary": "The matched bottle and NC listing establish thirteen years and 46.5% ABV for the documented blend identity. Mash bills, component proportions and individual distillery names are not authenticated from neighboring releases.",
+    "finishing_information": "None",
+    "identity_note": null,
+    "history": [
+      "Lucky Thirteen extends the sourced/blended family beyond the standard 10 Year. Recurring batches and private selections are not converted into dozens of near-duplicate dossiers.",
+      "The earlier single-barrel Lucky Thirteen program and later blended presentation require label checking. This dossier’s sensory synthesis concerns the documented 93-proof blend samples."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 35,
+        "current_band": false,
+        "reason": "A sound known sample is attractive at an everyday aged-bourbon budget.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 35,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Useful family exploration if the bottle shows more than the restrained dissenting sample.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 55,
+        "maximum_exclusive": 80,
+        "current_band": false,
+        "reason": "Fair only after tasting this batch; the standard 10 Year competes for less.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 80,
+        "maximum_exclusive": 105,
+        "current_band": true,
+        "reason": "The authenticated regular price sits here: a sample is strongly preferable to an age-led blind purchase.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 105,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value; buying the thirteen-year number cannot resolve variable execution.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Inspect neat first; the record is too divided to assume a rich profile in every batch."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Use drops before a large cube when a sample seems restrained."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "A small trial can show whether its oak-led profile survives bitters and syrup; a weak batch may be easily obscured."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a less assertive vermouth before a full cocktail, especially with a batch like Pringle’s."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.peoplesbourbonreview.com/reviews/boring-widow-jane-lucky-thirteen-falls-short",
+        "image_url": "https://www.peoplesbourbonreview.com/images/07b77199-8033-4352-96fd-2bc6b7fd7d39/pbr_widow-jane-lucky-thirteen-6137.jpg",
+        "scope": "13-year, 93-proof Lucky Thirteen blend. The detailed dissent is Mark Pringle’s 2021 batch 12; BTI’s positive later recurring-expression panel record is separately scoped.",
+        "sha256": "28a86ddd42eda73c60c4deaadf4e5ad72bbe8f2ec1e5d5361ae32aad252e78ea",
+        "image_embedded": true,
+        "width": 675,
+        "height": 900
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "13-year, 93-proof Lucky Thirteen blend. The detailed dissent is Mark Pringle’s 2021 batch 12; BTI’s positive later recurring-expression panel record is separately scoped.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-002",
+    "editorial": {
+      "id": "widow-jane-lucky-thirteen",
+      "identity": "13-year, 93-proof Lucky Thirteen blend. The detailed dissent is Mark Pringle’s 2021 batch 12; BTI’s positive later recurring-expression panel record is separately scoped.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Boring Widow Jane Lucky Thirteen Falls Short | Widow Jane Lucky 13 Review",
+          "url": "https://www.peoplesbourbonreview.com/reviews/boring-widow-jane-lucky-thirteen-falls-short",
+          "role": "Named independent dissent with exact batch and bottle."
+        },
+        {
+          "title": "Widow Jane Lucky Thirteen Blended Straight Bourbon Whiskey USA Spirits Review | Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Widow-Jane-Lucky-Thirteen-Blended-Straight-Bourbon-Whiskey-USA-93-Proof-08-02-2025.aspx",
+          "role": "Later independent panel record; separate sample scope."
+        },
+        {
+          "title": "Widow Jane Lucky 13 Small Batch Bourbon - NC ABC Commission",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/152544",
+          "role": "NC uniform regular price, 93 proof and 750 mL, code 19358."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://www.peoplesbourbonreview.com/reviews/boring-widow-jane-lucky-thirteen-falls-short",
+          "reviewer": "Mark Pringle",
+          "publisher": "The People’s Bourbon Review",
+          "summary": "Pringle finds limited aroma, a simple sweet-oak palate and a short ending, judging the price disproportionate to the richness of his sample.",
+          "scope": "2021 batch 12, bottle 128; 93-proof blend."
+        },
+        {
+          "url": "https://www.tastings.com/Spirits-Review/Widow-Jane-Lucky-Thirteen-Blended-Straight-Bourbon-Whiskey-USA-93-Proof-08-02-2025.aspx",
+          "reviewer": "Beverage Testing Institute tasting panel",
+          "publisher": "Tastings / BTI",
+          "summary": "The panel describes nut-oil and banana-pastry aromas, a medium-to-full body, and a longer fruit-and-marzipan ending. This later sample is materially richer than Pringle’s sparse 2021 bottle.",
+          "scope": "July 2025 blend assessment; not the 2021 batch 12."
+        }
+      ],
+      "history": [
+        "Lucky Thirteen extends the sourced/blended family beyond the standard 10 Year. Recurring batches and private selections are not converted into dozens of near-duplicate dossiers.",
+        "The earlier single-barrel Lucky Thirteen program and later blended presentation require label checking. This dossier’s sensory synthesis concerns the documented 93-proof blend samples."
+      ],
+      "production": "The matched bottle and NC listing establish thirteen years and 46.5% ABV for the documented blend identity. Mash bills, component proportions and individual distillery names are not authenticated from neighboring releases.",
+      "short_version": "A useful older family reference with sharply divided batch reports. Thirteen years establishes age, not a guarantee of richness or good Value at nearly USD 100.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 35,
+          "current_band": false,
+          "reason": "A sound known sample is attractive at an everyday aged-bourbon budget.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 35,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Useful family exploration if the bottle shows more than the restrained dissenting sample.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 55,
+          "maximum_exclusive": 80,
+          "current_band": false,
+          "reason": "Fair only after tasting this batch; the standard 10 Year competes for less.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 80,
+          "maximum_exclusive": 105,
+          "current_band": true,
+          "reason": "The authenticated regular price sits here: a sample is strongly preferable to an age-led blind purchase.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 105,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value; buying the thirteen-year number cannot resolve variable execution.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Inspect neat first; the record is too divided to assume a rich profile in every batch."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Use drops before a large cube when a sample seems restrained."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "A small trial can show whether its oak-led profile survives bitters and syrup; a weak batch may be easily obscured."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a less assertive vermouth before a full cocktail, especially with a batch like Pringle’s."
+        }
+      ],
+      "quality": 5.8,
+      "value": 3.7,
+      "quality_rationale": "Pringle’s sparse, short-ending sample is an important limit, while the later panel supports a more developed sweet-spicy profile. The evidence supports a provisional average-to-good expression judgment with substantial batch uncertainty.",
+      "value_rationale": "NC regular USD 99.95 is demanding for the mixed evidence. The standard family 10 Year and widely available aged bourbons provide strong alternatives; a favorable bottle sample is more useful than the age number alone.",
+      "evidence_limit": "Different dated recurring batches disagree. The number is provisional; no retailer-pick score is generalized to every bottle.",
+      "pricing": {
+        "amount": 99.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-14",
+        "basis": "NC ABC uniform regular retail",
+        "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/152544",
+        "nc_code": "19358",
+        "effective": "2026-08-01",
+        "nc_status": "NC regular listing matched by identity, proof and format; stock and vintage are not guaranteed."
+      },
+      "image_source": "https://www.peoplesbourbonreview.com/reviews/boring-widow-jane-lucky-thirteen-falls-short",
+      "image_url": "https://www.peoplesbourbonreview.com/images/07b77199-8033-4352-96fd-2bc6b7fd7d39/pbr_widow-jane-lucky-thirteen-6137.jpg"
+    }
+  },
+  {
+    "slug": "widow-jane-oak-apple-wood-aged-rye-mash-whiskey-91-proof",
+    "filename": "widow-jane-oak-apple-wood-aged-rye-mash-whiskey-91-proof.html",
+    "name": "Widow Jane Oak & Apple Wood Aged Rye Mash Whiskey — 91 Proof",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "American whiskey",
+    "subcategory": "American whiskey",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 91.0,
+    "abv": 45.5,
+    "age": "NAS; producer/reviewer report at least two years",
+    "age_display": "NAS; producer/reviewer report at least two years",
+    "age_sort_years": null,
+    "mash_bill_display": "Rye mash; percentages undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.3,
+    "quality_score": 5.3,
+    "value": 5.2,
+    "value_score": 5.2,
+    "overall": 5.2497618993626745,
+    "overall_score": 5.2497618993626745,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "universal_dimensions": {
+        "integration": 5.0,
+        "flavor_development": 5.8,
+        "finish": 5.2,
+        "technical_cleanliness": 6.0,
+        "texture": 5.1,
+        "maturity_wood_management": 4.4,
+        "distinctiveness": 6.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.34,
+      "editorial_adjustment": -0.04,
+      "adjustment_reason": "Distinct fruit/spice and useful cocktail character support competence, but the detailed young-distillate critique limits integration and appropriate maturity. Positive later notes are preserved without erasing the earlier sample’s flaws."
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Distinct fruit/spice and useful cocktail character support competence, but the detailed young-distillate critique limits integration and appropriate maturity. Positive later notes are preserved without erasing the earlier sample’s flaws.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The matched NC regular USD 44.95 makes this a plausible specialty cocktail purchase, while cleaner conventional ryes offer stronger neat-drinking value for some buyers. The applewood experiment is a style choice, not an automatic quality upgrade.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 44.95,
+    "price_basis": "NC ABC uniform regular retail",
+    "price_url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+    "price_period": "2026-10-14",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 44.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 44.95,
+    "nc_code": "29620",
+    "nc_listing_status": "NC regular listing identifies 91 proof and the legacy Oak and Applewood name; this is not the modern 93-proof product.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Legacy 91-proof whiskey distilled from a rye mash, aged with applewood staves in used bourbon oak; the detailed 2020 review is batch 40. Modern 93-proof Apple Wood straight rye is separate.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.whiskymonster.com/widow-jane-oak-apple-wood-aged-whiskey-review/",
+      "https://www.wineenthusiast.com/buying-guide/widow-jane-oak-apple-wood-aged-rye/"
+    ],
+    "review_publishers": [
+      "Whisky Monster",
+      "Wine Enthusiast"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "url": "https://www.whiskymonster.com/widow-jane-oak-apple-wood-aged-whiskey-review/",
+        "reviewer": "Whisky Monster",
+        "publisher": "Whisky Monster",
+        "summary": "The batch-40 account finds fresh apple/citrus and spice, but also prominent young spirit character and incomplete balance. It sees a stronger highball/cocktail role than a neat-drinking case.",
+        "scope": "December 2020, batch 40, 45.5% ABV."
+      },
+      {
+        "url": "https://www.wineenthusiast.com/buying-guide/widow-jane-oak-apple-wood-aged-rye/",
+        "reviewer": "Kara Newman",
+        "publisher": "Wine Enthusiast",
+        "summary": "Newman reports maple/vanilla aromas, a drying brown-sugar and tea palate, soft leather and a pepper/citrus ending. Her later 93-point legacy-release result is more favorable.",
+        "scope": "March 2022, 45.5% ABV; legacy label, not the 93-proof modern blend."
+      }
+    ],
+    "source_urls": [
+      "https://www.whiskymonster.com/widow-jane-oak-apple-wood-aged-whiskey-review/",
+      "https://www.wineenthusiast.com/buying-guide/widow-jane-oak-apple-wood-aged-rye/",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "The 91-proof identity uses a rye-based mash with undisclosed percentages. Published descriptions establish at least two years in used bourbon barrels with applewood staves. New-charred-oak straight-rye compliance is not inferred from its flavor or a retailer’s shorthand.",
+    "finishing_information": "Applewood staves in ex-bourbon barrels",
+    "identity_note": null,
+    "history": [
+      "The legacy range uses the label whiskey distilled from a rye mash, while the later 93-proof product uses a blend of straight ryes. The changed base/process is the reason for separate records.",
+      "Whisky Monster’s batch-40 account is less persuaded by neat-drinking balance than Kara Newman’s later legacy-release assessment. Both remain attributed and time-bound."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 22,
+        "current_band": false,
+        "reason": "Good experimental variety if you already know the applewood profile.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 22,
+        "maximum_exclusive": 32,
+        "current_band": false,
+        "reason": "An easy cocktail-oriented purchase with realistic youth expectations.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 32,
+        "maximum_exclusive": 45,
+        "current_band": true,
+        "reason": "Fair near the NC reference for its distinct flavor; compare an ordinary straight rye if you want cleaner neat balance.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 45,
+        "maximum_exclusive": 60,
+        "current_band": false,
+        "reason": "Taste first: the two reviews differ materially about refinement.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 60,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value when conventional and finished-rye choices give more assured integration.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small neat pour to judge whether this batch’s youth/spice fits your preference."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "A highball trial is supported by the more critical review’s serving suggestions; keep the first dilution modest."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Start with little syrup so its documented apple/caramel sweetness does not become cloying."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use a small vermouth trial; its fruit and young spirit can interact differently from a standard straight rye."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Legacy 91-proof whiskey distilled from a rye mash, aged with applewood staves in used bourbon oak; the detailed 2020 review is batch 40. Modern 93-proof Apple Wood straight rye is separate.",
+    "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-002",
+    "editorial": {
+      "id": "widow-jane-oak-apple-wood-aged-rye-mash-whiskey-91-proof",
+      "identity": "Legacy 91-proof whiskey distilled from a rye mash, aged with applewood staves in used bourbon oak; the detailed 2020 review is batch 40. Modern 93-proof Apple Wood straight rye is separate.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Widow Jane Oak & Apple Wood Aged - Whisky Monster",
+          "url": "https://www.whiskymonster.com/widow-jane-oak-apple-wood-aged-whiskey-review/",
+          "role": "Independent review, used bourbon barrels and minimum-maturation report."
+        },
+        {
+          "title": "Widow Jane Oak & Apple Wood Aged Rye Rating and Review | Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/widow-jane-oak-apple-wood-aged-rye/",
+          "role": "Second named independent legacy-release tasting."
+        },
+        {
+          "title": "NC ABC August–October 2026 regular quarterly price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 29620, 91 proof, 750 mL, USD 44.95. Legacy identity matched; monthly sale lists are not used."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://www.whiskymonster.com/widow-jane-oak-apple-wood-aged-whiskey-review/",
+          "reviewer": "Whisky Monster",
+          "publisher": "Whisky Monster",
+          "summary": "The batch-40 account finds fresh apple/citrus and spice, but also prominent young spirit character and incomplete balance. It sees a stronger highball/cocktail role than a neat-drinking case.",
+          "scope": "December 2020, batch 40, 45.5% ABV."
+        },
+        {
+          "url": "https://www.wineenthusiast.com/buying-guide/widow-jane-oak-apple-wood-aged-rye/",
+          "reviewer": "Kara Newman",
+          "publisher": "Wine Enthusiast",
+          "summary": "Newman reports maple/vanilla aromas, a drying brown-sugar and tea palate, soft leather and a pepper/citrus ending. Her later 93-point legacy-release result is more favorable.",
+          "scope": "March 2022, 45.5% ABV; legacy label, not the 93-proof modern blend."
+        }
+      ],
+      "history": [
+        "The legacy range uses the label whiskey distilled from a rye mash, while the later 93-proof product uses a blend of straight ryes. The changed base/process is the reason for separate records.",
+        "Whisky Monster’s batch-40 account is less persuaded by neat-drinking balance than Kara Newman’s later legacy-release assessment. Both remain attributed and time-bound."
+      ],
+      "production": "The 91-proof identity uses a rye-based mash with undisclosed percentages. Published descriptions establish at least two years in used bourbon barrels with applewood staves. New-charred-oak straight-rye compliance is not inferred from its flavor or a retailer’s shorthand.",
+      "short_version": "A fruity, experimental used-oak whiskey whose reviews disagree about refinement. Its traditional applewood identity should not be confused with the later straight-rye blend.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 22,
+          "current_band": false,
+          "reason": "Good experimental variety if you already know the applewood profile.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 22,
+          "maximum_exclusive": 32,
+          "current_band": false,
+          "reason": "An easy cocktail-oriented purchase with realistic youth expectations.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 32,
+          "maximum_exclusive": 45,
+          "current_band": true,
+          "reason": "Fair near the NC reference for its distinct flavor; compare an ordinary straight rye if you want cleaner neat balance.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 45,
+          "maximum_exclusive": 60,
+          "current_band": false,
+          "reason": "Taste first: the two reviews differ materially about refinement.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 60,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value when conventional and finished-rye choices give more assured integration.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small neat pour to judge whether this batch’s youth/spice fits your preference."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "A highball trial is supported by the more critical review’s serving suggestions; keep the first dilution modest."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Start with little syrup so its documented apple/caramel sweetness does not become cloying."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use a small vermouth trial; its fruit and young spirit can interact differently from a standard straight rye."
+        }
+      ],
+      "category": "American whiskey",
+      "age": null,
+      "age_display": "NAS; producer/reviewer report at least two years",
+      "quality": 5.3,
+      "value": 5.2,
+      "dimensions": [
+        5.0,
+        5.8,
+        5.2,
+        6.0,
+        5.1,
+        4.4,
+        6.0
+      ],
+      "quality_rationale": "Distinct fruit/spice and useful cocktail character support competence, but the detailed young-distillate critique limits integration and appropriate maturity. Positive later notes are preserved without erasing the earlier sample’s flaws.",
+      "value_rationale": "The matched NC regular USD 44.95 makes this a plausible specialty cocktail purchase, while cleaner conventional ryes offer stronger neat-drinking value for some buyers. The applewood experiment is a style choice, not an automatic quality upgrade.",
+      "pricing": {
+        "amount": 44.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-14",
+        "effective": "2026-08-01",
+        "basis": "NC ABC uniform regular retail",
+        "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+        "nc_code": "29620",
+        "nc_status": "NC regular listing identifies 91 proof and the legacy Oak and Applewood name; this is not the modern 93-proof product."
+      }
+    }
+  },
+  {
+    "slug": "widow-jane-paradigm-rye",
+    "filename": "widow-jane-paradigm-rye.html",
+    "name": "Widow Jane Paradigm Rye",
+    "family": "Widow Jane",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
+    "proof": 93.0,
+    "abv": 46.5,
+    "age": "NAS / label age not established",
+    "age_display": "NAS / label age not established",
+    "age_sort_years": null,
+    "mash_bill_display": "Blended straight ryes; percentages undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.4,
+    "quality_score": 6.4,
+    "value": 6.0,
+    "value_score": 6.0,
+    "overall": 6.196773353931867,
+    "overall_score": 6.196773353931867,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Scores summarize the matched published tasting evidence; variation and conflicting judgments remain explicit.",
+      "anchor_references": {
+        "worst": [
+          "hudson-maple-cask-rye-2014-batch-1-bottle-2338"
+        ],
+        "average": [
+          "old-overholt-bottled-in-bond",
+          "high-west-double-rye-current"
+        ],
+        "best": [
+          "redemption-ancients-18-year-rye-2017"
+        ]
+      },
+      "native_anchor_status": "provisional; unresolved floor retained"
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "The review supports successful fruit/spice integration and an approachable body, but the sharply declining finish and limited punch prevent a very-good/excellent interpretation. American rye’s unresolved native floor remains provisional.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "NC regular USD 49.95 is fair for its fruit-led blend and style contrast. Stronger everyday ryes compete for smaller budgets; choose Paradigm for the documented profile rather than expecting maximum intensity.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 49.95,
+    "price_basis": "NC ABC uniform regular retail",
+    "price_url": "https://abc2.nc.gov/Pricing/ViewItemDetails/152701",
+    "price_period": "2026-10-14",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 49.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 49.95,
+    "nc_code": "22604",
+    "nc_listing_status": "NC regular listing matched by identity, proof and format; stock and vintage are not guaranteed.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Paradigm blend of straight ryes launched August 2023, 93 proof. Eric Hasman’s detailed review is batch 28; recipe proportions and source distillery names remain undisclosed.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.breakingbourbon.com/review/widow-jane-paradigm-rye-batch-28"
+    ],
+    "review_publishers": [
+      "Breaking Bourbon"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "url": "https://www.breakingbourbon.com/review/widow-jane-paradigm-rye-batch-28",
+        "reviewer": "Eric Hasman",
+        "publisher": "Breaking Bourbon",
+        "summary": "Hasman describes citrus, mint and anise aromas, controlled melon/raisin sweetness with butter and rye spice, then familiar pepper/oak. He likes the accessible balance while identifying a fast drop in finish intensity.",
+        "scope": "Batch 28, November 6, 2023; 93 proof."
+      }
+    ],
+    "source_urls": [
+      "https://www.breakingbourbon.com/bourbon-whiskey-press-releases/widow-jane-announces-paradigm-rye",
+      "https://www.breakingbourbon.com/review/widow-jane-paradigm-rye-batch-28",
+      "https://abc2.nc.gov/Pricing/ViewItemDetails/152701"
+    ],
+    "production_summary": "The producer launch and matched review identify a blend of Brooklyn, Kentucky and Indiana straight ryes, non-chill filtered and proofed to 46.5% ABV. Mash bills and blend proportions are undisclosed. The NAS label is preserved; a legal minimum is not turned into an age statement.",
+    "finishing_information": "No separate finish established",
+    "identity_note": null,
+    "history": [
+      "Paradigm marks the documented modern blend of Widow Jane’s own rye and sourced Kentucky/Indiana straight ryes. It is not simply a renamed legacy used-oak rye-mash bottle.",
+      "The launch explains the modern base later used for Apple Wood Rye. Different finishes keep their own sensory records."
+    ],
+    "comparables": [
+      {
+        "name": "Widow Jane 10 Year — Batch 224",
+        "url": "widow-jane-aged-10-years-batch-224.html",
+        "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+      },
+      {
+        "name": "Widow Jane Decadence (2025)",
+        "url": "widow-jane-decadence-2025.html",
+        "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 28,
+        "current_band": false,
+        "reason": "Especially attractive for a documented approachable rye style.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 28,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "A good exploration of fruit-led rye without a high-proof premium.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 40,
+        "maximum_exclusive": 55,
+        "current_band": true,
+        "reason": "Fair near NC regular retail; select by style rather than expecting a powerful finish.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 55,
+        "maximum_exclusive": 70,
+        "current_band": false,
+        "reason": "Taste first if you prefer concentrated, persistent rye.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 70,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value; several conventional rye alternatives compete for less.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to notice the fruit and citrus beside the moderate rye spice."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try drops first; its documented quick finish argues against excessive dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep bitters and syrup restrained so the unusual fruit remains visible."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use a lighter sweet vermouth trial; a strong modifier can obscure the easygoing base."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.breakingbourbon.com/review/widow-jane-paradigm-rye-batch-28",
+        "image_url": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/6548f0bdb007f2602d0f09e6_Widow-Jane-Paradigm-Rye-B28-01.jpg",
+        "scope": "Paradigm blend of straight ryes launched August 2023, 93 proof. Eric Hasman’s detailed review is batch 28; recipe proportions and source distillery names remain undisclosed.",
+        "sha256": "32f5a14af416f4db3a67f99ab4406ecbb21fdfbb0bf78304cf6b37ecb98497ca",
+        "image_embedded": true,
+        "width": 900,
+        "height": 600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Paradigm blend of straight ryes launched August 2023, 93 proof. Eric Hasman’s detailed review is batch 28; recipe proportions and source distillery names remain undisclosed.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-002",
+    "editorial": {
+      "id": "widow-jane-paradigm-rye",
+      "identity": "Paradigm blend of straight ryes launched August 2023, 93 proof. Eric Hasman’s detailed review is batch 28; recipe proportions and source distillery names remain undisclosed.",
+      "comparables": [
+        {
+          "name": "Widow Jane 10 Year — Batch 224",
+          "url": "widow-jane-aged-10-years-batch-224.html",
+          "reason": "The accepted 91-proof family reference isolates a standard blend from this separate identity."
+        },
+        {
+          "name": "Widow Jane Decadence (2025)",
+          "url": "widow-jane-decadence-2025.html",
+          "reason": "The maple-cask family member shows what a documented sweet finishing treatment adds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "WIDOW JANE ANNOUNCES PARADIGM RYE",
+          "url": "https://www.breakingbourbon.com/bourbon-whiskey-press-releases/widow-jane-announces-paradigm-rye",
+          "role": "Producer launch specification; not independent tasting."
+        },
+        {
+          "title": "Widow Jane Paradigm Rye (Batch #28) Review | Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/widow-jane-paradigm-rye-batch-28",
+          "role": "Matched named independent batch review."
+        },
+        {
+          "title": "Widow Jane Paradigm Rye - NC ABC Commission",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/152701",
+          "role": "NC regular price, proof and format, code 22604."
+        }
+      ],
+      "reviews": [
+        {
+          "url": "https://www.breakingbourbon.com/review/widow-jane-paradigm-rye-batch-28",
+          "reviewer": "Eric Hasman",
+          "publisher": "Breaking Bourbon",
+          "summary": "Hasman describes citrus, mint and anise aromas, controlled melon/raisin sweetness with butter and rye spice, then familiar pepper/oak. He likes the accessible balance while identifying a fast drop in finish intensity.",
+          "scope": "Batch 28, November 6, 2023; 93 proof."
+        }
+      ],
+      "history": [
+        "Paradigm marks the documented modern blend of Widow Jane’s own rye and sourced Kentucky/Indiana straight ryes. It is not simply a renamed legacy used-oak rye-mash bottle.",
+        "The launch explains the modern base later used for Apple Wood Rye. Different finishes keep their own sensory records."
+      ],
+      "production": "The producer launch and matched review identify a blend of Brooklyn, Kentucky and Indiana straight ryes, non-chill filtered and proofed to 46.5% ABV. Mash bills and blend proportions are undisclosed. The NAS label is preserved; a legal minimum is not turned into an age statement.",
+      "short_version": "An approachable, fruit-led rye blend with a credible middle-ground drinking case. The abrupt finish is a real limit, even when the producer’s mission is accessibility.",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 28,
+          "current_band": false,
+          "reason": "Especially attractive for a documented approachable rye style.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 28,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "A good exploration of fruit-led rye without a high-proof premium.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 40,
+          "maximum_exclusive": 55,
+          "current_band": true,
+          "reason": "Fair near NC regular retail; select by style rather than expecting a powerful finish.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 55,
+          "maximum_exclusive": 70,
+          "current_band": false,
+          "reason": "Taste first if you prefer concentrated, persistent rye.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 70,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value; several conventional rye alternatives compete for less.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Manually selected expression-specific competing-bottle budgets; no mechanical percentage scaling."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to notice the fruit and citrus beside the moderate rye spice."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try drops first; its documented quick finish argues against excessive dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep bitters and syrup restrained so the unusual fruit remains visible."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use a lighter sweet vermouth trial; a strong modifier can obscure the easygoing base."
+        }
+      ],
+      "quality": 6.4,
+      "value": 6.0,
+      "quality_rationale": "The review supports successful fruit/spice integration and an approachable body, but the sharply declining finish and limited punch prevent a very-good/excellent interpretation. American rye’s unresolved native floor remains provisional.",
+      "value_rationale": "NC regular USD 49.95 is fair for its fruit-led blend and style contrast. Stronger everyday ryes compete for smaller budgets; choose Paradigm for the documented profile rather than expecting maximum intensity.",
+      "pricing": {
+        "amount": 49.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-14",
+        "basis": "NC ABC uniform regular retail",
+        "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/152701",
+        "nc_code": "22604",
+        "effective": "2026-08-01",
+        "nc_status": "NC regular listing matched by identity, proof and format; stock and vintage are not guaranteed."
+      },
+      "image_source": "https://www.breakingbourbon.com/review/widow-jane-paradigm-rye-batch-28",
+      "image_url": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/6548f0bdb007f2602d0f09e6_Widow-Jane-Paradigm-Rye-B28-01.jpg"
     }
   }
 ]

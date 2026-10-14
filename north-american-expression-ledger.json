@@ -11,8 +11,8 @@
     "candidates": 233,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 213,
-    "accepted": 7
+    "pending": 204,
+    "accepted": 16
   },
   "entries": [
     {
@@ -556,13 +556,13 @@
       "proof": 99.0,
       "abv": 49.5,
       "age_statement_years": 20.0,
-      "age_information": "20 years",
+      "age_information": "20 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "Mizunara",
       "release_year_or_era": "2024",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -579,13 +579,53 @@
       ],
       "potential_image_source": "https://heavenhill.com/news-and-notes/a-rare-unearthing-widow-jane-black-opal-stands-as-crown-jewel-in-brooklyn-distillerys-collection-of-long-aged-bourbons/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.breakingbourbon.com/review/widow-jane-black-opal-20-year",
+            "reviewer": "Jordan Moskal",
+            "publisher": "Breaking Bourbon",
+            "summary": "Moskal finds berry-pastry aromas and nutty custard sweetness with gentle spice. The long-aged base avoids excessive wood, but the light overall delivery is restrained for the price.",
+            "scope": "2024 first release; December 2024 review."
+          },
+          {
+            "url": "https://distiller.com/spirits/widow-jane-black-opal",
+            "reviewer": "Stephanie Moreno",
+            "publisher": "Distiller",
+            "summary": "Moreno recommends time in the glass, describing toasty spice, caramel-apple sweetness and herbal tobacco. She reports a medium body and a relatively long ending.",
+            "scope": "2024 edition, 49.5% ABV."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 10
+      "deterministic_order": 10,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-002",
+      "publication_sources": [
+        {
+          "title": "A Rare Unearthing: Widow Jane Black Opal Stands as Crown Jewel in Brooklyn Distillery’s Collection of Long-Aged Bourbons | Heaven Hill Brands",
+          "url": "https://heavenhill.com/news-and-notes/a-rare-unearthing-widow-jane-black-opal-stands-as-crown-jewel-in-brooklyn-distillerys-collection-of-long-aged-bourbons/",
+          "role": "Producer first-release identity, age, wood regime and allocation."
+        },
+        {
+          "title": "Widow Jane Black Opal 20 Year Review | Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/widow-jane-black-opal-20-year",
+          "role": "Matched named independent tasting."
+        },
+        {
+          "title": "Widow Jane 20 Year Black Opal (2024 Edition)",
+          "url": "https://distiller.com/spirits/widow-jane-black-opal",
+          "role": "Second independent tasting."
+        },
+        {
+          "title": "Widow Jane Black Opal - NC ABC Commission",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/160305",
+          "role": "NC regular retail code 18133; generic Black Opal listing does not guarantee a 2024 bottle in stock."
+        }
+      ]
     },
     {
       "id": "widow-jane-black-opal-20-year-2026",
@@ -595,16 +635,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "limited",
       "whisky_category": "Bourbon",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 20.0,
-      "age_information": "20 years",
+      "proof": 99,
+      "abv": 49.5,
+      "age_statement_years": 20,
+      "age_information": "20 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "Mizunara; thirteen-month finish",
       "release_year_or_era": "2026",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -616,13 +656,28 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/widow-jane-20-year-black-opal-2026-edition",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 11
+      "deterministic_order": 11,
+      "exact_image_status": "unavailable",
+      "image_limitation": "The image attached to a located 2026 announcement visibly says “2024 Edition.” It was rejected. No verified 2026 bottle photograph is embedded.",
+      "assessment_checkpoint": "NA-002",
+      "publication_sources": [
+        {
+          "title": "Widow Jane 20 Year Black Opal (2026 Edition)",
+          "url": "https://distiller.com/spirits/widow-jane-20-year-black-opal-2026-edition",
+          "role": "Exact 2026 specification and release price; no expert tasting attached."
+        },
+        {
+          "title": "Widow Jane goes deep with Black Opal – Sips & Sites & Bites",
+          "url": "https://sipsandsitesandbites.org/2026/09/23/widow-jane-goes-deep-with-black-opal/",
+          "role": "Dated release reporting; producer notes explicitly attributed, not scored as independent tasting."
+        }
+      ]
     },
     {
       "id": "widow-jane-bloody-butcher-heirloom-bourbon-2014",
@@ -632,16 +687,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "historical",
       "whisky_category": "Bourbon",
-      "proof": 91.0,
-      "abv": 45.5,
+      "proof": null,
+      "abv": null,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "85% Bloody Butcher corn, 15% heirloom barley",
+      "age_information": "NAS / label age not established",
+      "grain_information": "85% Organic Bloody Butcher corn; 15% heirloom barley",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2014",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -658,13 +713,23 @@
       ],
       "potential_image_source": "https://thewhiskeywash.com/bourbon/non-gmo-heirloom-corn-focus-of-widow-jane-bourbon/",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 12
+      "deterministic_order": 12,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-002",
+      "publication_sources": [
+        {
+          "title": "Widow Jane Introduces Heirloom Bourbon Whiskey",
+          "url": "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html",
+          "role": "Primary 2014 founder release announcement; recipe and original advertised price, producer notes only."
+        }
+      ]
     },
     {
       "id": "widow-jane-bloody-butcher-high-rye-bourbon-2014",
@@ -674,16 +739,16 @@
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "historical",
       "whisky_category": "Rye",
-      "proof": 91.0,
-      "abv": 45.5,
+      "proof": null,
+      "abv": null,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "58% Bloody Butcher corn, 27% rye, 15% heirloom barley",
+      "age_information": "NAS / label age not established",
+      "grain_information": "58% Organic Bloody Butcher corn; 27% rye; 15% heirloom barley",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2014",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -700,13 +765,23 @@
       ],
       "potential_image_source": "https://thewhiskeywash.com/bourbon/non-gmo-heirloom-corn-focus-of-widow-jane-bourbon/",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 13
+      "deterministic_order": 13,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-002",
+      "publication_sources": [
+        {
+          "title": "Widow Jane Introduces Heirloom Bourbon Whiskey",
+          "url": "https://www.prnewswire.com/news-releases/widow-jane-introduces-heirloom-bourbon-whiskey-241309211.html",
+          "role": "Primary 2014 founder release announcement; recipe and original advertised price, producer notes only."
+        }
+      ]
     },
     {
       "id": "widow-jane-borough-blend-2026",
@@ -719,13 +794,13 @@
       "proof": 91.0,
       "abv": 45.5,
       "age_statement_years": 10.0,
-      "age_information": "10 years",
+      "age_information": "10 Years",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2026",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -737,13 +812,28 @@
       ],
       "potential_image_source": "https://heavenhill.com/news-and-notes/new-york-exclusive-widow-jane-releases-borough-blend-2026-91-proof-love-letter-to-nyc-selected-by-bartenders-from-across-nycs-five-boroughs/",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 14
+      "deterministic_order": 14,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-002",
+      "publication_sources": [
+        {
+          "title": "NEW YORK EXCLUSIVE: WIDOW JANE RELEASES BOROUGH BLEND 2026, 91-PROOF LOVE LETTER TO NYC SELECTED BY BARTENDERS FROM ACROSS NYC’S FIVE BOROUGHS | Heaven Hill Brands",
+          "url": "https://heavenhill.com/news-and-notes/new-york-exclusive-widow-jane-releases-borough-blend-2026-91-proof-love-letter-to-nyc-selected-by-bartenders-from-across-nycs-five-boroughs/",
+          "role": "Producer second-edition history, age, 91 proof and USD 69.99 MSRP; ABV typo disclosed."
+        },
+        {
+          "title": "Borough Blend — Widow Jane",
+          "url": "https://boroughblend.widowjane.com/",
+          "role": "Producer 2026 page; intended style, not independent tasting."
+        }
+      ]
     },
     {
       "id": "widow-jane-decadence-2025",
@@ -793,13 +883,13 @@
       "proof": 91.0,
       "abv": 45.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
+      "age_information": "NAS label; matched review describes ten-year base bourbon",
       "grain_information": "Undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "Maple syrup barrels",
       "release_year_or_era": "2020",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -811,13 +901,31 @@
       ],
       "potential_image_source": "https://www.breakingbourbon.com/review/widow-jane-decadence-2025",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.whiskeyinmyweddingring.com/reviews/widow-jane-decadence",
+            "reviewer": "David Levine",
+            "publisher": "Whiskey in My Wedding Ring",
+            "summary": "Levine reports dense maple/brioche sweetness, substantial vanilla, a mineral counterpoint and an oily medium-to-full body. He regards the finish as sweet and well integrated rather than a finish that loses the bourbon base.",
+            "scope": "2020 batch 1, bottle 1301, 91 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 16
+      "deterministic_order": 16,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-002",
+      "publication_sources": [
+        {
+          "title": "Widow Jane Decadence Batch 1 Review",
+          "url": "https://www.whiskeyinmyweddingring.com/reviews/widow-jane-decadence",
+          "role": "Independent exact-batch review and original photographed NAS label."
+        }
+      ]
     },
     {
       "id": "widow-jane-lucky-thirteen",
@@ -830,13 +938,13 @@
       "proof": 93.0,
       "abv": 46.5,
       "age_statement_years": 13.0,
-      "age_information": "13 years",
+      "age_information": "13 Years",
       "grain_information": "Undisclosed blended bourbon recipes",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "None",
       "release_year_or_era": "2020 onward",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -853,13 +961,48 @@
       ],
       "potential_image_source": "https://thewhiskeywash.com/reviews/whiskey-review-widow-jane-lucky-thirteen/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.peoplesbourbonreview.com/reviews/boring-widow-jane-lucky-thirteen-falls-short",
+            "reviewer": "Mark Pringle",
+            "publisher": "The People’s Bourbon Review",
+            "summary": "Pringle finds limited aroma, a simple sweet-oak palate and a short ending, judging the price disproportionate to the richness of his sample.",
+            "scope": "2021 batch 12, bottle 128; 93-proof blend."
+          },
+          {
+            "url": "https://www.tastings.com/Spirits-Review/Widow-Jane-Lucky-Thirteen-Blended-Straight-Bourbon-Whiskey-USA-93-Proof-08-02-2025.aspx",
+            "reviewer": "Beverage Testing Institute tasting panel",
+            "publisher": "Tastings / BTI",
+            "summary": "The later panel gives a favorable 90-point result for the recurring 93-proof blend. It provides a counterpoint to the earlier sparse sample, without authenticating batch-to-batch sameness.",
+            "scope": "July 2025 blend assessment; not the 2021 batch 12."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 17
+      "deterministic_order": 17,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-002",
+      "publication_sources": [
+        {
+          "title": "Boring Widow Jane Lucky Thirteen Falls Short | Widow Jane Lucky 13 Review",
+          "url": "https://www.peoplesbourbonreview.com/reviews/boring-widow-jane-lucky-thirteen-falls-short",
+          "role": "Named independent dissent with exact batch and bottle."
+        },
+        {
+          "title": "Widow Jane Lucky Thirteen Blended Straight Bourbon Whiskey USA Spirits Review | Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Widow-Jane-Lucky-Thirteen-Blended-Straight-Bourbon-Whiskey-USA-93-Proof-08-02-2025.aspx",
+          "role": "Later independent panel record; separate sample scope."
+        },
+        {
+          "title": "Widow Jane Lucky 13 Small Batch Bourbon - NC ABC Commission",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/152544",
+          "role": "NC uniform regular price, 93 proof and 750 mL, code 19358."
+        }
+      ]
     },
     {
       "id": "widow-jane-oak-apple-wood-aged-rye-mash-whiskey-91-proof",
@@ -868,17 +1011,17 @@
       "brand_family": "Widow Jane",
       "producer": "Widow Jane / Heaven Hill; sourced and Brooklyn-distilled releases distinguished",
       "status": "historical",
-      "whisky_category": "Rye",
+      "whisky_category": "American whiskey",
       "proof": 91.0,
       "abv": 45.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
+      "age_information": "NAS; producer/reviewer report at least two years",
       "grain_information": "Rye mash; percentages undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "Applewood staves in ex-bourbon barrels",
       "release_year_or_era": "Legacy 91-proof release",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -895,13 +1038,48 @@
       ],
       "potential_image_source": "https://www.wineenthusiast.com/buying-guide/widow-jane-oak-apple-wood-aged-rye/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.whiskymonster.com/widow-jane-oak-apple-wood-aged-whiskey-review/",
+            "reviewer": "Whisky Monster",
+            "publisher": "Whisky Monster",
+            "summary": "The batch-40 account finds fresh apple/citrus and spice, but also prominent young spirit character and incomplete balance. It sees a stronger highball/cocktail role than a neat-drinking case.",
+            "scope": "December 2020, batch 40, 45.5% ABV."
+          },
+          {
+            "url": "https://www.wineenthusiast.com/buying-guide/widow-jane-oak-apple-wood-aged-rye/",
+            "reviewer": "Kara Newman",
+            "publisher": "Wine Enthusiast",
+            "summary": "Newman reports maple/vanilla aromas, a drying brown-sugar and tea palate, soft leather and a pepper/citrus ending. Her later 93-point legacy-release result is more favorable.",
+            "scope": "March 2022, 45.5% ABV; legacy label, not the 93-proof modern blend."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 18
+      "deterministic_order": 18,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image authenticated; sibling, generic or mismatched bottles are omitted.",
+      "assessment_checkpoint": "NA-002",
+      "publication_sources": [
+        {
+          "title": "Widow Jane Oak & Apple Wood Aged - Whisky Monster",
+          "url": "https://www.whiskymonster.com/widow-jane-oak-apple-wood-aged-whiskey-review/",
+          "role": "Independent review, used bourbon barrels and minimum-maturation report."
+        },
+        {
+          "title": "Widow Jane Oak & Apple Wood Aged Rye Rating and Review | Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/widow-jane-oak-apple-wood-aged-rye/",
+          "role": "Second named independent legacy-release tasting."
+        },
+        {
+          "title": "NC ABC August–October 2026 regular quarterly price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Code 29620, 91 proof, 750 mL, USD 44.95. Legacy identity matched; monthly sale lists are not used."
+        }
+      ]
     },
     {
       "id": "widow-jane-ordinary-private-barrel-retailer-picks",
@@ -945,25 +1123,53 @@
       "proof": 93.0,
       "abv": 46.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
+      "age_information": "NAS / label age not established",
       "grain_information": "Blended straight ryes; percentages undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
       "finishing_information": "No separate finish established",
       "release_year_or_era": "2023 onward",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Lead only; publication requires authenticated identity",
       "discovery_sources": [],
       "potential_image_source": null,
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "url": "https://www.breakingbourbon.com/review/widow-jane-paradigm-rye-batch-28",
+            "reviewer": "Eric Hasman",
+            "publisher": "Breaking Bourbon",
+            "summary": "Hasman describes citrus, mint and anise aromas, controlled melon/raisin sweetness with butter and rye spice, then familiar pepper/oak. He likes the accessible balance while identifying a fast drop in finish intensity.",
+            "scope": "Batch 28, November 6, 2023; 93 proof."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 20
+      "deterministic_order": 20,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-002",
+      "publication_sources": [
+        {
+          "title": "WIDOW JANE ANNOUNCES PARADIGM RYE",
+          "url": "https://www.breakingbourbon.com/bourbon-whiskey-press-releases/widow-jane-announces-paradigm-rye",
+          "role": "Producer launch specification; not independent tasting."
+        },
+        {
+          "title": "Widow Jane Paradigm Rye (Batch #28) Review | Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/widow-jane-paradigm-rye-batch-28",
+          "role": "Matched named independent batch review."
+        },
+        {
+          "title": "Widow Jane Paradigm Rye - NC ABC Commission",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/152701",
+          "role": "NC regular price, proof and format, code 22604."
+        }
+      ]
     },
     {
       "id": "widow-jane-tequila-ocho-cask-finish-2026",
