@@ -15974,5 +15974,1926 @@
       "calibration_mode": "evidence_limited_provisional",
       "identity_note": "The photographed label says contains 12 year aged whisky. Specialist records classify Onyx as twelve-year, but the label wording alone does not establish the minimum age of every component. Age sorting therefore remains N/A."
     }
+  },
+  {
+    "slug": "black-velvet-original",
+    "filename": "black-velvet-original.html",
+    "name": "Black Velvet Original",
+    "family": "Black Velvet",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS; about 3 years reported for the core blend",
+    "age_display": "NAS; about 3 years reported for the core blend",
+    "age_sort_years": null,
+    "mash_bill_display": "Corn, rye and barley identified by the producer; complete proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.4,
+    "quality_score": 5.4,
+    "value": 7.9,
+    "value_score": 7.9,
+    "overall": 6.5314623171231725,
+    "overall_score": 6.5314623171231725,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "universal_dimensions": {
+        "integration": 5.4,
+        "flavor_development": 5.2,
+        "finish": 4.8,
+        "technical_cleanliness": 6,
+        "texture": 5.3,
+        "maturity_wood_management": 5.3,
+        "distinctiveness": 4.7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.305,
+      "editorial_adjustment": 0.095,
+      "adjustment_reason": "Useful sweetness and cleanliness are supported, but development and persistence vary substantially across the inspected records. A cautious slightly-above-competent assessment preserves the criticism instead of copying the highest reviewer score."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Useful sweetness and cleanliness are supported, but development and persistence vary substantially across the inspected records. A cautious slightly-above-competent assessment preserves the criticism instead of copying the highest reviewer score.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At the verified regular NC USD 10.95 / 750 mL price, the core blend is inexpensive for documented competent mixing performance. Value is strong for that purpose; the thin flavor and conflicting neat judgments still limit its appeal.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 10.95,
+    "price_basis": "NC ABC regular August–October 2026 price, checked October 14",
+    "price_url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+    "price_period": "2026-08-01",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 10.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 10.95,
+    "nc_code": "38-300",
+    "nc_listing_status": "Exact current-quarter regular NC listing: 80 proof / 750 mL; listing does not guarantee local shelf stock.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Current Black Velvet Original Canadian blend, 40% ABV / 80 proof; brand lineage begins in 1951.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://whiskycast.com/ratings/black-velvet/",
+      "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+      "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/"
+    ],
+    "review_publishers": [
+      "WhiskyCast",
+      "WhiskyRant",
+      "Sipology"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Mark Gillespie",
+        "publisher": "WhiskyCast",
+        "url": "https://whiskycast.com/ratings/black-velvet/",
+        "summary": "Gillespie describes a clean sweet aroma, buttery entry and cinnamon that recedes into licorice and honey. He finds good balance and a sustained ending, awarding 89 points after encountering it blind.",
+        "scope": "Undated 40% ABV core blend record; original page HTML inspected when text retrieval was blocked."
+      },
+      {
+        "reviewer": "Johannes Lindblom",
+        "publisher": "WhiskyRant",
+        "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+        "summary": "Lindblom finds a spirit-led aroma, faint fruit and caramel, and a quick dry ending. He prefers it to his eight-year Reserve sample but regards both as modest blends.",
+        "scope": "2015-era core 40% ABV sample; vintage not equated to every current bottle."
+      },
+      {
+        "reviewer": "Josh",
+        "publisher": "Sipology",
+        "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+        "summary": "Josh finds sweet fruit and a light ending, some rough edges, and useful performance in an Old Fashioned or with ginger ale. His enthusiasm is stronger for the eight-year Reserve.",
+        "scope": "August 22, 2014 head-to-head; historical core sample."
+      }
+    ],
+    "source_urls": [
+      "https://blackvelvetwhisky.com/whisky.php",
+      "https://blackvelvetwhisky.com/about.php",
+      "https://whiskycast.com/ratings/black-velvet/",
+      "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+      "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "The producer describes partly matured high wines combined with base spirit before further aging in bourbon barrels. This blending-before-final-maturation method differs from blending all components only at bottling. A published approximate three-year core age is retained as context, not converted into a verified age statement for the photographed NAS bottle.",
+    "finishing_information": "Bourbon-barrel maturation; no separate finish documented",
+    "identity_note": null,
+    "history": [
+      "The producer dates Black Velvet to 1951, with Black Label renamed after distiller Jack Napier described its texture. This origin story is attributed to the brand rather than treated as an independently settled industrial history.",
+      "Heaven Hill acquired the distillery in 2019. The current core bottle remains distinct from older Reserve and flavored extensions; no unchanged 1951 recipe is assumed."
+    ],
+    "comparables": [
+      {
+        "name": "Black Velvet Reserve 10 Year",
+        "url": "black-velvet-reserve-10-year-select-barrel-stock.html",
+        "reason": "Current age-stated family upgrade; not assumed to be this core blend with extra time alone."
+      },
+      {
+        "name": "Black Velvet Reserve 8 Year",
+        "url": "black-velvet-reserve-8-year.html",
+        "reason": "Historical review reference with a different recipe and age."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 9,
+        "current_band": false,
+        "reason": "Very cheap for a tasted bottle that works in your usual mixer.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 9,
+        "maximum_exclusive": 13,
+        "current_band": true,
+        "reason": "The verified NC USD 10.95 price fits its inexpensive-mixer role.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 13,
+        "maximum_exclusive": 17,
+        "current_band": false,
+        "reason": "Fair if this exact light style is preferred to stronger-flavored alternatives.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 17,
+        "maximum_exclusive": 22,
+        "current_band": false,
+        "reason": "Compare with a better-supported Canadian blend before paying more.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 22,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on drinking Value at a premium for the entry expression.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small neat pour to decide which of the conflicting profiles your bottle resembles."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Use a large cube; excess dilution can further reduce the reported light flavor."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "It has documented mixing support; adjust bitters and syrup to its gentle sweetness."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Ginger ale is supported by the historical head-to-head; keep whisky concentration high enough to remain recognizable."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://blackvelvetwhisky.com/whisky.php",
+        "image_url": "https://blackvelvetwhisky.com/images/black-velvet-originial.jpg?ver=2",
+        "scope": "Current Black Velvet Original Canadian blend, 40% ABV / 80 proof; brand lineage begins in 1951.",
+        "sha256": "cfb37c50ef932a142f51f608448830eb753b605bc4d5c688c063d20964dbdc72",
+        "image_embedded": true,
+        "width": 2880,
+        "height": 1146
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Current Black Velvet Original Canadian blend, 40% ABV / 80 proof; brand lineage begins in 1951.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-007",
+    "editorial": {
+      "id": "black-velvet-original",
+      "category": "Canadian Blended Whisky",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS; about 3 years reported for the core blend",
+      "identity": "Current Black Velvet Original Canadian blend, 40% ABV / 80 proof; brand lineage begins in 1951.",
+      "short_version": "A very inexpensive Canadian mixing whisky with uneven critical reception. Supporters find clean sweetness and spice; others describe light flavors and a brief finish. Price does not turn it into an elite sipper.",
+      "grain": "Corn, rye and barley identified by the producer; complete proportions undisclosed",
+      "production": "The producer describes partly matured high wines combined with base spirit before further aging in bourbon barrels. This blending-before-final-maturation method differs from blending all components only at bottling. A published approximate three-year core age is retained as context, not converted into a verified age statement for the photographed NAS bottle.",
+      "finish": "Bourbon-barrel maturation; no separate finish documented",
+      "history": [
+        "The producer dates Black Velvet to 1951, with Black Label renamed after distiller Jack Napier described its texture. This origin story is attributed to the brand rather than treated as an independently settled industrial history.",
+        "Heaven Hill acquired the distillery in 2019. The current core bottle remains distinct from older Reserve and flavored extensions; no unchanged 1951 recipe is assumed."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Mark Gillespie",
+          "publisher": "WhiskyCast",
+          "url": "https://whiskycast.com/ratings/black-velvet/",
+          "summary": "Gillespie describes a clean sweet aroma, buttery entry and cinnamon that recedes into licorice and honey. He finds good balance and a sustained ending, awarding 89 points after encountering it blind.",
+          "scope": "Undated 40% ABV core blend record; original page HTML inspected when text retrieval was blocked."
+        },
+        {
+          "reviewer": "Johannes Lindblom",
+          "publisher": "WhiskyRant",
+          "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+          "summary": "Lindblom finds a spirit-led aroma, faint fruit and caramel, and a quick dry ending. He prefers it to his eight-year Reserve sample but regards both as modest blends.",
+          "scope": "2015-era core 40% ABV sample; vintage not equated to every current bottle."
+        },
+        {
+          "reviewer": "Josh",
+          "publisher": "Sipology",
+          "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+          "summary": "Josh finds sweet fruit and a light ending, some rough edges, and useful performance in an Old Fashioned or with ginger ale. His enthusiasm is stronger for the eight-year Reserve.",
+          "scope": "August 22, 2014 head-to-head; historical core sample."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Primary current expression, 80-proof label and exact image."
+        },
+        {
+          "title": "Black Velvet heritage",
+          "url": "https://blackvelvetwhisky.com/about.php",
+          "role": "Producer 1951 account, grain identities and staged blending/maturation."
+        },
+        {
+          "title": "Black Velvet — WhiskyCast",
+          "url": "https://whiskycast.com/ratings/black-velvet/",
+          "role": "Substantive positive independent tasting."
+        },
+        {
+          "title": "Black Velvet comparisons — WhiskyRant",
+          "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+          "role": "Substantive less favorable matched core tasting."
+        },
+        {
+          "title": "Black Velvet vs Reserve — Sipology",
+          "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+          "role": "Independent historical head-to-head and mixed-drink observations."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Exact regular Black Velvet code 38-300, 80 proof, 750 mL, USD 10.95 effective August 1, 2026."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Black Velvet Reserve 10 Year",
+          "url": "black-velvet-reserve-10-year-select-barrel-stock.html",
+          "reason": "Current age-stated family upgrade; not assumed to be this core blend with extra time alone."
+        },
+        {
+          "name": "Black Velvet Reserve 8 Year",
+          "url": "black-velvet-reserve-8-year.html",
+          "reason": "Historical review reference with a different recipe and age."
+        }
+      ],
+      "quality": 5.4,
+      "dimensions": [
+        5.4,
+        5.2,
+        4.8,
+        6,
+        5.3,
+        5.3,
+        4.7
+      ],
+      "quality_rationale": "Useful sweetness and cleanliness are supported, but development and persistence vary substantially across the inspected records. A cautious slightly-above-competent assessment preserves the criticism instead of copying the highest reviewer score.",
+      "value": 7.9,
+      "value_rationale": "At the verified regular NC USD 10.95 / 750 mL price, the core blend is inexpensive for documented competent mixing performance. Value is strong for that purpose; the thin flavor and conflicting neat judgments still limit its appeal.",
+      "pricing": {
+        "amount": 10.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-08-01",
+        "effective": "2026-08-01",
+        "basis": "NC ABC regular August–October 2026 price, checked October 14",
+        "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+        "nc_code": "38-300",
+        "nc_status": "Exact current-quarter regular NC listing: 80 proof / 750 mL; listing does not guarantee local shelf stock."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 9,
+          "current_band": false,
+          "reason": "Very cheap for a tasted bottle that works in your usual mixer.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 9,
+          "maximum_exclusive": 13,
+          "current_band": true,
+          "reason": "The verified NC USD 10.95 price fits its inexpensive-mixer role.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 13,
+          "maximum_exclusive": 17,
+          "current_band": false,
+          "reason": "Fair if this exact light style is preferred to stronger-flavored alternatives.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 17,
+          "maximum_exclusive": 22,
+          "current_band": false,
+          "reason": "Compare with a better-supported Canadian blend before paying more.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 22,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on drinking Value at a premium for the entry expression.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small neat pour to decide which of the conflicting profiles your bottle resembles."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Use a large cube; excess dilution can further reduce the reported light flavor."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "It has documented mixing support; adjust bitters and syrup to its gentle sweetness."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Ginger ale is supported by the historical head-to-head; keep whisky concentration high enough to remain recognizable."
+        }
+      ],
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "community": "Current Distiller aggregate ratings are low, but bare star averages are not recalibrated into a Quality score. The named tasting disagreement is the meaningful evidence.",
+      "image_url": "https://blackvelvetwhisky.com/images/black-velvet-originial.jpg?ver=2",
+      "image_source": "https://blackvelvetwhisky.com/whisky.php",
+      "calibration_mode": "evidence_limited_provisional"
+    }
+  },
+  {
+    "slug": "black-velvet-peach",
+    "filename": "black-velvet-peach.html",
+    "name": "Black Velvet Peach",
+    "family": "Black Velvet",
+    "portfolio": null,
+    "category": "Flavored whiskey",
+    "subcategory": "Flavored whiskey",
+    "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+    "proof": 70,
+    "abv": 35.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian blended whisky base with natural peach flavor; complete grain ratios undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Producer claims, bare medal counts, archived scores and short award teasers are kept separate from a full tasting. N/A is an evidence boundary, not a negative quality judgment."
+    },
+    "quality_calibration_basis": "No numeric calibration applied until a substantive matched independent sensory record is available.",
+    "quality_rationale": "N/A: exact specs and independent award identity are verified, but the accessible sensory detail is genuinely insufficient for the project’s execution assessment.",
+    "quality_confidence": "Unscored",
+    "quality_na_reason": "Inspected independent notes are brief award/calendar summaries; historical full Tastings notes are no longer displayed. They do not establish finish and execution well enough to support numeric dimensions.",
+    "value_rationale": "N/A: the historical USD 10.99 / 750 mL launch SRP is defensible, but incomplete Quality evidence prevents a numeric Value judgment.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": 10.99,
+    "price_basis": "Historical U.S. producer launch SRP",
+    "price_url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-announces-launch-of-black-velvet-peach/",
+    "price_period": "2022-08-01",
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 10.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact Peach entry found in the checked August–October 2026 NC regular price list.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Black Velvet Peach, natural-peach-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch August 2022.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.iwsc.net/results/detail/175463/black-velvet-peach-flavoured-whisky",
+      "https://www.tastings.com/Calendar-Spirits/Review-2023-08-01-North-American-Whiskey.aspx"
+    ],
+    "review_publishers": [
+      "IWSC",
+      "Tastings"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Dawn Davies MW, Molly Horn, Reece Sims and Tristan Stephenson",
+        "publisher": "IWSC",
+        "url": "https://www.iwsc.net/results/detail/175463/black-velvet-peach-flavoured-whisky",
+        "summary": "The brief 2026 panel note identifies candied peach aroma, soft tropical fruit and spice. It offers little detail about finish, texture or balance across the tasting.",
+        "scope": "2026 Bronze entry; exact 35% ABV / 750 mL, NAS."
+      },
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Calendar-Spirits/Review-2023-08-01-North-American-Whiskey.aspx",
+        "summary": "The 2023 calendar’s short assessment emphasizes sweet floral peach and little overt whisky character. The original full review is now an archive entry without accessible detailed sensory notes.",
+        "scope": "July 19, 2023 record, 86 points; teaser is not a full seven-dimension assessment."
+      }
+    ],
+    "source_urls": [
+      "https://heavenhill.com/news-and-notes/black-velvet-whisky-announces-launch-of-black-velvet-peach/",
+      "https://blackvelvetwhisky.com/whisky.php",
+      "https://www.iwsc.net/results/detail/175463/black-velvet-peach-flavoured-whisky",
+      "https://www.tastings.com/Spirits-Review/Black-Velvet-Peach-Flavored-Canadian-Whiskey-Canada-08-01-2022.aspx",
+      "https://www.tastings.com/Spirits-Review/Black-Velvet-Peach-Flavored-Canadian-Whisky-Canada-08-01-2023.aspx",
+      "https://www.tastings.com/Calendar-Spirits/Review-2023-08-01-North-American-Whiskey.aspx"
+    ],
+    "production_summary": "The August 2022 producer announcement confirms 70 proof, a whisky base and peach flavoring. The current label explicitly identifies natural peach flavors. No final-bottle age statement or separate cask finish is authenticated.",
+    "finishing_information": "Natural peach flavor addition; no separate cask finish documented",
+    "identity_note": null,
+    "history": [
+      "Heaven Hill announced the U.S. launch on August 1, 2022, after Apple and Toasted Caramel. The 2022 tasting predates that market launch but does not establish earlier retail availability.",
+      "The discovery ledger incorrectly used a caramel retailer page for Peach. Primary launch documentation, the current exact label and expression-matched award records now replace that identity source."
+    ],
+    "comparables": [
+      {
+        "name": "Black Velvet Apple",
+        "url": "black-velvet-apple.html",
+        "reason": "Separate 70-proof flavor extension with substantive independent notes."
+      },
+      {
+        "name": "Black Velvet Toasted Caramel",
+        "url": "black-velvet-toasted-caramel.html",
+        "reason": "Earlier flavor extension with multiple full independent records."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "An old low price is not enough to support stocking up on an unscored expression.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Try a small inexpensive bottle if peach flavor is a specific preference.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Verify a current exact local quote and taste the intended drink before judging fairness.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Do not treat a high award score as evidence of suitability at a premium price.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on scarcity premiums while the full sensory evidence remains insufficient.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small sample to assess the flavored profile; no full matched record supports a more precise neat recommendation."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "The producer suggests ice or chilling; treat that as serving guidance, not independent Quality evidence."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a little Peach with ordinary whisky, and add no syrup until the sweetness is checked."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Iced tea or lemonade follows the producer’s intended use; adjust mixer sweetness to taste."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://blackvelvetwhisky.com/whisky.php",
+        "image_url": "https://blackvelvetwhisky.com/images/bv-peach.jpg",
+        "scope": "Black Velvet Peach, natural-peach-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch August 2022.",
+        "sha256": "1b5f3fa6c76b499c163cbce4cc647384ceec4830bc6c9d5d6e8f3e229063b0cc",
+        "image_embedded": true,
+        "width": 1981,
+        "height": 1255
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Black Velvet Peach, natural-peach-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch August 2022.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-007",
+    "editorial": {
+      "id": "black-velvet-peach",
+      "category": "Flavored whiskey",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+      "proof": 70,
+      "age": null,
+      "age_display": "NAS",
+      "identity": "Black Velvet Peach, natural-peach-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch August 2022.",
+      "short_version": "A well-authenticated inexpensive peach flavor extension. Accessible panel records are short and their published awards vary across years; Quality and Value remain N/A until a fuller matched sensory record can be assessed.",
+      "grain": "Canadian blended whisky base with natural peach flavor; complete grain ratios undisclosed",
+      "production": "The August 2022 producer announcement confirms 70 proof, a whisky base and peach flavoring. The current label explicitly identifies natural peach flavors. No final-bottle age statement or separate cask finish is authenticated.",
+      "finish": "Natural peach flavor addition; no separate cask finish documented",
+      "history": [
+        "Heaven Hill announced the U.S. launch on August 1, 2022, after Apple and Toasted Caramel. The 2022 tasting predates that market launch but does not establish earlier retail availability.",
+        "The discovery ledger incorrectly used a caramel retailer page for Peach. Primary launch documentation, the current exact label and expression-matched award records now replace that identity source."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Dawn Davies MW, Molly Horn, Reece Sims and Tristan Stephenson",
+          "publisher": "IWSC",
+          "url": "https://www.iwsc.net/results/detail/175463/black-velvet-peach-flavoured-whisky",
+          "summary": "The brief 2026 panel note identifies candied peach aroma, soft tropical fruit and spice. It offers little detail about finish, texture or balance across the tasting.",
+          "scope": "2026 Bronze entry; exact 35% ABV / 750 mL, NAS."
+        },
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Calendar-Spirits/Review-2023-08-01-North-American-Whiskey.aspx",
+          "summary": "The 2023 calendar’s short assessment emphasizes sweet floral peach and little overt whisky character. The original full review is now an archive entry without accessible detailed sensory notes.",
+          "scope": "July 19, 2023 record, 86 points; teaser is not a full seven-dimension assessment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Black Velvet Peach launch — Heaven Hill",
+          "url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-announces-launch-of-black-velvet-peach/",
+          "role": "Primary August 2022 launch, 70 proof and USD 10.99 / 750 mL SRP; the ancillary 175 mL size text is not used to invent a bottle size."
+        },
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Exact current Peach label and image."
+        },
+        {
+          "title": "Peach — IWSC",
+          "url": "https://www.iwsc.net/results/detail/175463/black-velvet-peach-flavoured-whisky",
+          "role": "Named 2026 judges, 35% ABV / 750 mL / NAS and brief independent note."
+        },
+        {
+          "title": "Peach 2022 — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-Peach-Flavored-Canadian-Whiskey-Canada-08-01-2022.aspx",
+          "role": "Verified 93-point historical award, with detailed notes currently unavailable."
+        },
+        {
+          "title": "Peach 2023 — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-Peach-Flavored-Canadian-Whisky-Canada-08-01-2023.aspx",
+          "role": "Verified 86-point later award, not substituted for an inspected full tasting."
+        },
+        {
+          "title": "August 2023 tasting calendar",
+          "url": "https://www.tastings.com/Calendar-Spirits/Review-2023-08-01-North-American-Whiskey.aspx",
+          "role": "Inspected short sensory summary only."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Black Velvet Apple",
+          "url": "black-velvet-apple.html",
+          "reason": "Separate 70-proof flavor extension with substantive independent notes."
+        },
+        {
+          "name": "Black Velvet Toasted Caramel",
+          "url": "black-velvet-toasted-caramel.html",
+          "reason": "Earlier flavor extension with multiple full independent records."
+        }
+      ],
+      "quality": null,
+      "value": null,
+      "calibration_mode": "unscored",
+      "na_reason": "Inspected independent notes are brief award/calendar summaries; historical full Tastings notes are no longer displayed. They do not establish finish and execution well enough to support numeric dimensions.",
+      "quality_rationale": "N/A: exact specs and independent award identity are verified, but the accessible sensory detail is genuinely insufficient for the project’s execution assessment.",
+      "value_rationale": "N/A: the historical USD 10.99 / 750 mL launch SRP is defensible, but incomplete Quality evidence prevents a numeric Value judgment.",
+      "pricing": {
+        "amount": 10.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2022-08-01",
+        "basis": "Historical U.S. producer launch SRP",
+        "url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-announces-launch-of-black-velvet-peach/",
+        "nc_status": "No exact Peach entry found in the checked August–October 2026 NC regular price list."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "An old low price is not enough to support stocking up on an unscored expression.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Try a small inexpensive bottle if peach flavor is a specific preference.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Verify a current exact local quote and taste the intended drink before judging fairness.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Do not treat a high award score as evidence of suitability at a premium price.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on scarcity premiums while the full sensory evidence remains insufficient.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small sample to assess the flavored profile; no full matched record supports a more precise neat recommendation."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "The producer suggests ice or chilling; treat that as serving guidance, not independent Quality evidence."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a little Peach with ordinary whisky, and add no syrup until the sweetness is checked."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Iced tea or lemonade follows the producer’s intended use; adjust mixer sweetness to taste."
+        }
+      ],
+      "calibration_basis": "No numeric calibration applied until a substantive matched independent sensory record is available.",
+      "evidence_limit": "Producer claims, bare medal counts, archived scores and short award teasers are kept separate from a full tasting. N/A is an evidence boundary, not a negative quality judgment.",
+      "image_url": "https://blackvelvetwhisky.com/images/bv-peach.jpg",
+      "image_source": "https://blackvelvetwhisky.com/whisky.php"
+    }
+  },
+  {
+    "slug": "black-velvet-reserve-10-year-select-barrel-stock",
+    "filename": "black-velvet-reserve-10-year-select-barrel-stock.html",
+    "name": "Black Velvet Reserve 10 Year Select Barrel Stock",
+    "family": "Black Velvet",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "Corn / rye / barley family grains; exact ten-year blend proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.3,
+    "quality_score": 6.3,
+    "value": 8,
+    "value_score": 8,
+    "overall": 7.0992957397195395,
+    "overall_score": 7.0992957397195395,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "universal_dimensions": {
+        "integration": 6.5,
+        "flavor_development": 6.4,
+        "finish": 6,
+        "technical_cleanliness": 6.5,
+        "texture": 6.2,
+        "maturity_wood_management": 6,
+        "distinctiveness": 5.8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.29,
+      "editorial_adjustment": 0.01,
+      "adjustment_reason": "The contrasting matched panels support good development and adequate maturity, with significant uncertainty about dryness, body and persistence. A provisional good assessment incorporates both records without copying medals or awarding extra points solely for age."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "The contrasting matched panels support good development and adequate maturity, with significant uncertainty about dryness, body and persistence. A provisional good assessment incorporates both records without copying medals or awarding extra points solely for age.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The official regular NC quote is USD 29.95 / 1.75 L, or USD 12.84 per 750 mL equivalent. At that budget, the documented good but inconsistent execution is attractive; the large bottle makes a taste-first decision sensible.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 12.84,
+    "price_basis": "NC ABC regular August–October 2026 price; 1.75 L bottle, checked October 14",
+    "price_url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+    "price_period": "2026-08-01",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 1750,
+    "bottle_price": 29.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 29.95,
+    "nc_code": "38-290",
+    "nc_listing_status": "Exact current-quarter NC entry specifies Reserve 10Y, 80 proof and 1.75 L. The photographed official 750 mL presentation is the same expression, not the priced size.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Black Velvet Reserve Select Barrel Stock, current ten-year age-stated Canadian blend at 40% ABV; matched 2024 tasting records.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://www.tastings.com/Spirits-Review/Black-Velvet-10-Year-Old-Reserve-Select-Barrel-Stock-Canadian-Whisky-USA-08-01-2024.aspx",
+      "https://tagspiritsawards.com/result/black-velvet-reserve-10-years-old-canadian-blended-whisky/"
+    ],
+    "review_publishers": [
+      "Tastings",
+      "TAG Global Spirits Awards"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-10-Year-Old-Reserve-Select-Barrel-Stock-Canadian-Whisky-USA-08-01-2024.aspx",
+        "summary": "The July panel describes dry woody aromas, modest body, a tingling short ending and suitability for sweet cocktails. It recommends the sample at Bronze level rather than treating age as excellence.",
+        "scope": "July 12, 2024 exact 10 Year Select Barrel Stock, 40% ABV."
+      },
+      {
+        "reviewer": "TAG judging panel",
+        "publisher": "TAG Global Spirits Awards",
+        "url": "https://tagspiritsawards.com/result/black-velvet-reserve-10-years-old-canadian-blended-whisky/",
+        "summary": "The TAG panel finds richer fruit-and-chocolate development, balanced medium body and a sustained ending. Its detailed notes and maturity praise contrast substantially with the other panel.",
+        "scope": "2024 Reserve 10 Years Old, 40% ABV; award title alone is not the scoring basis."
+      }
+    ],
+    "source_urls": [
+      "https://blackvelvetwhisky.com/whisky.php",
+      "https://blackvelvetwhisky.com/about.php",
+      "https://www.tastings.com/Spirits-Review/Black-Velvet-10-Year-Old-Reserve-Select-Barrel-Stock-Canadian-Whisky-USA-08-01-2024.aspx",
+      "https://tagspiritsawards.com/result/black-velvet-reserve-10-years-old-canadian-blended-whisky/",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "The current producer page and photographed Select Barrel Stock label confirm ten years and 40% ABV. The general Black Velvet staged-blending process provides context, but exact recipe ratios and reserve-specific barrel allocations are not disclosed. A ten-year label does not imply a single barrel.",
+    "finishing_information": "Oak / bourbon-barrel family maturation; no reserve-specific separate finish authenticated",
+    "identity_note": "Tastings labels its country field USA despite naming Canadian Whisky. The producer’s Canadian label and TAG’s Canada origin establish the whisky’s origin; U.S. importer/bottling context is distinguished from distillation.",
+    "history": [
+      "Both inspected independent panels assessed the ten-year expression in 2024. The producer now features it as the current Reserve, so the discovery ledger’s historical-only status is corrected.",
+      "The eight-year Reserve is retained separately. Its earlier reviews and prices are not reassigned to the ten-year bottle simply because both use the Reserve name."
+    ],
+    "comparables": [
+      {
+        "name": "Black Velvet Reserve 8 Year",
+        "url": "black-velvet-reserve-8-year.html",
+        "reason": "Historical eight-year formulation; no automatic improvement or same-recipe assumption."
+      },
+      {
+        "name": "Black Velvet Original",
+        "url": "black-velvet-original.html",
+        "reason": "Current entry blend and low-cost mixing reference."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "Exceptionally inexpensive for a tested 1.75 L bottle of this age-stated blend.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 25,
+        "maximum_exclusive": 35,
+        "current_band": true,
+        "reason": "The verified NC 1.75 L quote fits a strong-value mixing/sipping budget.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 35,
+        "maximum_exclusive": 45,
+        "current_band": false,
+        "reason": "Fair for a fan who has tried it; all thresholds here are for 1.75 L, not 750 mL.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 45,
+        "maximum_exclusive": 60,
+        "current_band": false,
+        "reason": "Taste first; conflicting finish and wood judgments weaken premium pricing.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 60,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Trade up rather than paying this much for the 1.75 L Reserve.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Check for the richer or drier profile reported by the two panels before deciding on a large-bottle purchase."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try one cube to moderate sweetness and spice; avoid masking an overly dry finish."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "The less enthusiastic panel still favors sweet cocktails; reduce syrup until balance is checked."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Restrained soda or ginger ale can suit the blend while preserving its character."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://blackvelvetwhisky.com/whisky.php",
+        "image_url": "https://blackvelvetwhisky.com/images/bv-reserve-2024-v3.jpg",
+        "scope": "Black Velvet Reserve Select Barrel Stock, current ten-year age-stated Canadian blend at 40% ABV; matched 2024 tasting records.",
+        "sha256": "844259350901580b0787f629ee5f37d746ddbbe69795b93fbcbbe9219906625e",
+        "image_embedded": true,
+        "width": 1981,
+        "height": 1255
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Black Velvet Reserve Select Barrel Stock, current ten-year age-stated Canadian blend at 40% ABV; matched 2024 tasting records.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-007",
+    "editorial": {
+      "id": "black-velvet-reserve-10-year-select-barrel-stock",
+      "category": "Canadian Blended Whisky",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+      "proof": 80,
+      "age": 10,
+      "age_display": "10 Years",
+      "identity": "Black Velvet Reserve Select Barrel Stock, current ten-year age-stated Canadian blend at 40% ABV; matched 2024 tasting records.",
+      "short_version": "An unusually affordable ten-year Canadian blend with mixed panel assessments. One panel finds mature richness and a long ending; another finds dry wood and a brief finish. The age claim is clear, while consistency remains uncertain.",
+      "grain": "Corn / rye / barley family grains; exact ten-year blend proportions undisclosed",
+      "production": "The current producer page and photographed Select Barrel Stock label confirm ten years and 40% ABV. The general Black Velvet staged-blending process provides context, but exact recipe ratios and reserve-specific barrel allocations are not disclosed. A ten-year label does not imply a single barrel.",
+      "finish": "Oak / bourbon-barrel family maturation; no reserve-specific separate finish authenticated",
+      "history": [
+        "Both inspected independent panels assessed the ten-year expression in 2024. The producer now features it as the current Reserve, so the discovery ledger’s historical-only status is corrected.",
+        "The eight-year Reserve is retained separately. Its earlier reviews and prices are not reassigned to the ten-year bottle simply because both use the Reserve name."
+      ],
+      "identity_note": "Tastings labels its country field USA despite naming Canadian Whisky. The producer’s Canadian label and TAG’s Canada origin establish the whisky’s origin; U.S. importer/bottling context is distinguished from distillation.",
+      "reviews": [
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-10-Year-Old-Reserve-Select-Barrel-Stock-Canadian-Whisky-USA-08-01-2024.aspx",
+          "summary": "The July panel describes dry woody aromas, modest body, a tingling short ending and suitability for sweet cocktails. It recommends the sample at Bronze level rather than treating age as excellence.",
+          "scope": "July 12, 2024 exact 10 Year Select Barrel Stock, 40% ABV."
+        },
+        {
+          "reviewer": "TAG judging panel",
+          "publisher": "TAG Global Spirits Awards",
+          "url": "https://tagspiritsawards.com/result/black-velvet-reserve-10-years-old-canadian-blended-whisky/",
+          "summary": "The TAG panel finds richer fruit-and-chocolate development, balanced medium body and a sustained ending. Its detailed notes and maturity praise contrast substantially with the other panel.",
+          "scope": "2024 Reserve 10 Years Old, 40% ABV; award title alone is not the scoring basis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Primary current ten-year identity and exact Select Barrel Stock image."
+        },
+        {
+          "title": "Black Velvet heritage",
+          "url": "https://blackvelvetwhisky.com/about.php",
+          "role": "General grains and maturation context; no exact reserve ratios inferred."
+        },
+        {
+          "title": "Reserve 10 — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-10-Year-Old-Reserve-Select-Barrel-Stock-Canadian-Whisky-USA-08-01-2024.aspx",
+          "role": "Substantive 2024 tasting, with anomalous country field disclosed."
+        },
+        {
+          "title": "Reserve 10 — TAG",
+          "url": "https://tagspiritsawards.com/result/black-velvet-reserve-10-years-old-canadian-blended-whisky/",
+          "role": "Substantive contrasting 2024 panel notes, Canada origin and 40% ABV."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Exact code 38-290: Reserve, 10Y, 80 proof, 1.75 L, USD 29.95 effective August 1, 2026."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Black Velvet Reserve 8 Year",
+          "url": "black-velvet-reserve-8-year.html",
+          "reason": "Historical eight-year formulation; no automatic improvement or same-recipe assumption."
+        },
+        {
+          "name": "Black Velvet Original",
+          "url": "black-velvet-original.html",
+          "reason": "Current entry blend and low-cost mixing reference."
+        }
+      ],
+      "quality": 6.3,
+      "dimensions": [
+        6.5,
+        6.4,
+        6,
+        6.5,
+        6.2,
+        6,
+        5.8
+      ],
+      "quality_rationale": "The contrasting matched panels support good development and adequate maturity, with significant uncertainty about dryness, body and persistence. A provisional good assessment incorporates both records without copying medals or awarding extra points solely for age.",
+      "value": 8,
+      "value_rationale": "The official regular NC quote is USD 29.95 / 1.75 L, or USD 12.84 per 750 mL equivalent. At that budget, the documented good but inconsistent execution is attractive; the large bottle makes a taste-first decision sensible.",
+      "pricing": {
+        "amount": 29.95,
+        "currency": "USD",
+        "size_ml": 1750,
+        "date": "2026-08-01",
+        "effective": "2026-08-01",
+        "basis": "NC ABC regular August–October 2026 price; 1.75 L bottle, checked October 14",
+        "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+        "nc_code": "38-290",
+        "nc_status": "Exact current-quarter NC entry specifies Reserve 10Y, 80 proof and 1.75 L. The photographed official 750 mL presentation is the same expression, not the priced size."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "Exceptionally inexpensive for a tested 1.75 L bottle of this age-stated blend.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 25,
+          "maximum_exclusive": 35,
+          "current_band": true,
+          "reason": "The verified NC 1.75 L quote fits a strong-value mixing/sipping budget.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 35,
+          "maximum_exclusive": 45,
+          "current_band": false,
+          "reason": "Fair for a fan who has tried it; all thresholds here are for 1.75 L, not 750 mL.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 45,
+          "maximum_exclusive": 60,
+          "current_band": false,
+          "reason": "Taste first; conflicting finish and wood judgments weaken premium pricing.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 60,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Trade up rather than paying this much for the 1.75 L Reserve.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Check for the richer or drier profile reported by the two panels before deciding on a large-bottle purchase."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try one cube to moderate sweetness and spice; avoid masking an overly dry finish."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "The less enthusiastic panel still favors sweet cocktails; reduce syrup until balance is checked."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Restrained soda or ginger ale can suit the blend while preserving its character."
+        }
+      ],
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "image_url": "https://blackvelvetwhisky.com/images/bv-reserve-2024-v3.jpg",
+      "image_source": "https://blackvelvetwhisky.com/whisky.php",
+      "calibration_mode": "evidence_limited_provisional"
+    }
+  },
+  {
+    "slug": "black-velvet-reserve-8-year",
+    "filename": "black-velvet-reserve-8-year.html",
+    "name": "Black Velvet Reserve 8 Year",
+    "family": "Black Velvet",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Black Velvet Distillery, Lethbridge, Alberta / Constellation Brands in the reviewed era; Heaven Hill acquired the brand and distillery in 2019",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "8 Years",
+    "age_display": "8 Years",
+    "age_sort_years": 8,
+    "mash_bill_display": "Corn base and corn/rye flavoring components reported for this formulation; exact ratios undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.9,
+    "quality_score": 5.9,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "universal_dimensions": {
+        "integration": 5.8,
+        "flavor_development": 6.4,
+        "finish": 5.2,
+        "technical_cleanliness": 5.8,
+        "texture": 6,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 5.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.835,
+      "editorial_adjustment": 0.065,
+      "adjustment_reason": "Richness and fruit/spice development have meaningful support, but serious aroma and persistence criticism prevents an assured very-good rating. Near-good provisional execution reflects the disagreement rather than averaging reviewer numbers."
+    },
+    "quality_calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+    "quality_rationale": "Richness and fruit/spice development have meaningful support, but serious aroma and persistence criticism prevents an assured very-good rating. Near-good provisional execution reflects the disagreement rather than averaging reviewer numbers.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: inspected historical U.S. references around USD 13 do not explicitly establish a matched bottle size, and today’s NC Reserve price belongs to a ten-year expression. No size or formulation is silently assumed.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No defensible size-matched U.S. quote for the reviewed eight-year identity",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Current NC code 38-290 specifies 10Y; it is not used for this eight-year dossier.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Historical Black Velvet Reserve eight-year Canadian blend at 40% ABV; reviewed independently in 2014–2017.",
+    "availability_note": "Historical reviewed eight-year formulation; residual non-U.S. stock does not prove unchanged current U.S. production.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+      "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+      "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/"
+    ],
+    "review_publishers": [
+      "Canadian Whisky",
+      "Sipology",
+      "WhiskyRant"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+        "summary": "The specialist finds creamy caramel, fruit and vigorous pepper, with wood mostly held in balance. Complexity remains modest and the finish is moderate to brief despite lingering spice.",
+        "scope": "October 2017 page, exact eight-year / 40% ABV."
+      },
+      {
+        "reviewer": "Josh",
+        "publisher": "Sipology",
+        "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+        "summary": "Josh finds more developed sweet fruit, nuts and oak than in the core blend and praises the balance. His sample’s ending persists, though he wishes for a stronger presentation.",
+        "scope": "August 2014 eight-year Reserve head-to-head."
+      },
+      {
+        "reviewer": "Johannes Lindblom",
+        "publisher": "WhiskyRant",
+        "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+        "summary": "Lindblom finds a sharp aroma, heat and a rapidly thinning finish. He regards the sample as merely decent among cheap blends and less pleasant than ordinary Black Velvet.",
+        "scope": "2015-era exact eight-year / 40% ABV sample."
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+      "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+      "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+      "https://blackvelvetwhisky.com/whisky.php",
+      "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/"
+    ],
+    "production_summary": "Davin de Kergommeaux describes a different flavoring-component balance from the ordinary core blend, followed by eight-year maturation. It is not simply the core whisky with five extra years. The verified eight-year label and 40% ABV anchor this historical identity; exact cask allocations remain unknown.",
+    "finishing_information": "Oak maturation; no separate finish authenticated",
+    "identity_note": null,
+    "history": [
+      "The inspected head-to-head is dated August 2014; the specialist Canadian Whisky page is dated October 2017. These establish the eight-year review era, without proving the discovery ledger’s unsourced 1991 first-sale date.",
+      "The current official range now describes a ten-year Reserve. Eight-year bottles may remain in older markets or inventories, but current U.S. production and a precise transition date are not authenticated. Historical treatment preserves the reviewed identity."
+    ],
+    "comparables": [
+      {
+        "name": "Black Velvet Reserve 10 Year",
+        "url": "black-velvet-reserve-10-year-select-barrel-stock.html",
+        "reason": "Current ten-year identity; its 2026 NC price does not establish this older bottle’s Value."
+      },
+      {
+        "name": "Black Velvet Original",
+        "url": "black-velvet-original.html",
+        "reason": "Core style comparison actually tasted in two cited head-to-head records."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A strong buy requires a verified exact eight-year bottle, condition and size-specific price.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Try a small bottle if the older sweet/spicy style is the reason for buying.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the current local cost with the ten-year Reserve before judging fairness.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Divergent reviews make an expensive blind historical purchase difficult to defend.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on collector pricing when a current blend fills the intended drinking role.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Test whether the pepper integrates with the sweetness in your actual bottle."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Use a small amount of water initially; one critic finds the finish already watery."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Let the documented caramel and spice carry the drink and start with little added syrup."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A restrained ginger-ale serve can be a useful fallback if the neat profile is too hot."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484136927-NCT45N0I460WCRVV5XL2/Black-Velvet-Reserve-photo-1.jpg",
+        "scope": "Historical Black Velvet Reserve eight-year Canadian blend at 40% ABV; reviewed independently in 2014–2017.",
+        "sha256": "69bc405b265f6b556d6bc7362700789d5fd0d47f0d9007958281d5bcee4110d0",
+        "image_embedded": true,
+        "width": 800,
+        "height": 505
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Historical Black Velvet Reserve eight-year Canadian blend at 40% ABV; reviewed independently in 2014–2017.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-007",
+    "editorial": {
+      "id": "black-velvet-reserve-8-year",
+      "category": "Canadian Blended Whisky",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Constellation Brands in the reviewed era; Heaven Hill acquired the brand and distillery in 2019",
+      "proof": 80,
+      "age": 8,
+      "age_display": "8 Years",
+      "identity": "Historical Black Velvet Reserve eight-year Canadian blend at 40% ABV; reviewed independently in 2014–2017.",
+      "short_version": "The older eight-year Reserve has substantive but sharply divided reviews. Richer sweetness and spice appeal to some critics; others find rough aromas and a watery finish. Its score stays provisional and its price is not borrowed from today’s ten-year Reserve.",
+      "grain": "Corn base and corn/rye flavoring components reported for this formulation; exact ratios undisclosed",
+      "production": "Davin de Kergommeaux describes a different flavoring-component balance from the ordinary core blend, followed by eight-year maturation. It is not simply the core whisky with five extra years. The verified eight-year label and 40% ABV anchor this historical identity; exact cask allocations remain unknown.",
+      "finish": "Oak maturation; no separate finish authenticated",
+      "history": [
+        "The inspected head-to-head is dated August 2014; the specialist Canadian Whisky page is dated October 2017. These establish the eight-year review era, without proving the discovery ledger’s unsourced 1991 first-sale date.",
+        "The current official range now describes a ten-year Reserve. Eight-year bottles may remain in older markets or inventories, but current U.S. production and a precise transition date are not authenticated. Historical treatment preserves the reviewed identity."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+          "summary": "The specialist finds creamy caramel, fruit and vigorous pepper, with wood mostly held in balance. Complexity remains modest and the finish is moderate to brief despite lingering spice.",
+          "scope": "October 2017 page, exact eight-year / 40% ABV."
+        },
+        {
+          "reviewer": "Josh",
+          "publisher": "Sipology",
+          "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+          "summary": "Josh finds more developed sweet fruit, nuts and oak than in the core blend and praises the balance. His sample’s ending persists, though he wishes for a stronger presentation.",
+          "scope": "August 2014 eight-year Reserve head-to-head."
+        },
+        {
+          "reviewer": "Johannes Lindblom",
+          "publisher": "WhiskyRant",
+          "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+          "summary": "Lindblom finds a sharp aroma, heat and a rapidly thinning finish. He regards the sample as merely decent among cheap blends and less pleasant than ordinary Black Velvet.",
+          "scope": "2015-era exact eight-year / 40% ABV sample."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Reserve eight-year — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+          "role": "Substantive specialist tasting, formulation context and exact label image."
+        },
+        {
+          "title": "Black Velvet vs Reserve — Sipology",
+          "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+          "role": "Independent positive historical head-to-head."
+        },
+        {
+          "title": "Black Velvet comparisons — WhiskyRant",
+          "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+          "role": "Substantive negative counterpoint; source geography claims are not used to override the authenticated distillery context."
+        },
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Current ten-year Reserve is distinct; no present price is transferred."
+        },
+        {
+          "title": "Black Velvet Apple launch — Heaven Hill",
+          "url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/",
+          "role": "2019 ownership transition only."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Black Velvet Reserve 10 Year",
+          "url": "black-velvet-reserve-10-year-select-barrel-stock.html",
+          "reason": "Current ten-year identity; its 2026 NC price does not establish this older bottle’s Value."
+        },
+        {
+          "name": "Black Velvet Original",
+          "url": "black-velvet-original.html",
+          "reason": "Core style comparison actually tasted in two cited head-to-head records."
+        }
+      ],
+      "quality": 5.9,
+      "dimensions": [
+        5.8,
+        6.4,
+        5.2,
+        5.8,
+        6,
+        5.8,
+        5.5
+      ],
+      "quality_rationale": "Richness and fruit/spice development have meaningful support, but serious aroma and persistence criticism prevents an assured very-good rating. Near-good provisional execution reflects the disagreement rather than averaging reviewer numbers.",
+      "value": null,
+      "value_rationale": "N/A: inspected historical U.S. references around USD 13 do not explicitly establish a matched bottle size, and today’s NC Reserve price belongs to a ten-year expression. No size or formulation is silently assumed.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": null,
+        "basis": "No defensible size-matched U.S. quote for the reviewed eight-year identity",
+        "url": null,
+        "nc_status": "Current NC code 38-290 specifies 10Y; it is not used for this eight-year dossier."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A strong buy requires a verified exact eight-year bottle, condition and size-specific price.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Try a small bottle if the older sweet/spicy style is the reason for buying.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the current local cost with the ten-year Reserve before judging fairness.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Divergent reviews make an expensive blind historical purchase difficult to defend.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on collector pricing when a current blend fills the intended drinking role.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Conditional guidance: insufficient matched market evidence for numeric budgets."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Test whether the pepper integrates with the sweetness in your actual bottle."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Use a small amount of water initially; one critic finds the finish already watery."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Let the documented caramel and spice carry the drink and start with little added syrup."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A restrained ginger-ale serve can be a useful fallback if the neat profile is too hot."
+        }
+      ],
+      "calibration_basis": "Native Canadian low/mid/high endpoints are not yet defensible. The established universal execution rubric applies within this expression’s stated category; American bourbon and straight-rye anchors are not borrowed.",
+      "evidence_limit": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "availability": "Historical reviewed eight-year formulation; residual non-U.S. stock does not prove unchanged current U.S. production.",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484136927-NCT45N0I460WCRVV5XL2/Black-Velvet-Reserve-photo-1.jpg",
+      "image_source": "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+      "calibration_mode": "evidence_limited_provisional"
+    }
+  },
+  {
+    "slug": "black-velvet-toasted-caramel",
+    "filename": "black-velvet-toasted-caramel.html",
+    "name": "Black Velvet Toasted Caramel",
+    "family": "Black Velvet",
+    "portfolio": null,
+    "category": "Flavored whiskey",
+    "subcategory": "Flavored whiskey",
+    "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+    "proof": 70,
+    "abv": 35.0,
+    "age": "NAS final bottle; NC catalogue describes 3Y",
+    "age_display": "NAS final bottle; NC catalogue describes 3Y",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian whisky base with natural caramel flavor; complete grain proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.5,
+    "quality_score": 5.5,
+    "value": 7.5,
+    "value_score": 7.5,
+    "overall": 6.422616289332565,
+    "overall_score": 6.422616289332565,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-14",
+      "limitations": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "universal_dimensions": {
+        "integration": 5.1,
+        "flavor_development": 5.4,
+        "finish": 5.8,
+        "technical_cleanliness": 5.8,
+        "texture": 5.7,
+        "maturity_wood_management": 5.2,
+        "distinctiveness": 5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.435,
+      "editorial_adjustment": 0.065,
+      "adjustment_reason": "Documented persistence and useful spice lift the simple sweetness, but poor neat balance and obscured whisky character remain material. Slightly-above-competent flavored-category execution is more defensible than a high score driven by sweetness alone."
+    },
+    "quality_calibration_basis": "Universal execution rubric within flavored whiskey; the Canadian base and added caramel are documented separately.",
+    "quality_rationale": "Documented persistence and useful spice lift the simple sweetness, but poor neat balance and obscured whisky character remain material. Slightly-above-competent flavored-category execution is more defensible than a high score driven by sweetness alone.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "The current-quarter regular NC USD 8.95 / 750 mL price makes a competent caramel cocktail ingredient inexpensive. Value is assessed for its documented mixing role; the low price does not erase the cloying neat-drinking criticism.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 8.95,
+    "price_basis": "NC ABC regular August–October 2026 price, checked October 14",
+    "price_url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+    "price_period": "2026-08-01",
+    "price_effective": "2026-08-01",
+    "price_checked_date": "2026-10-14",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 8.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 8.95,
+    "nc_code": "38-306",
+    "nc_listing_status": "Exact regular NC listing, 70 proof / 750 mL; 3Y appears in the catalogue age column, while the pictured final bottle is NAS.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Black Velvet Toasted Caramel, natural-caramel-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch September 2012.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-14",
+    "score_date": "2026-10-14",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/black-velvet-toasted-caramel-35-alcvol.html",
+      "https://therumhowlerblog.com/other-spirits/black-velvet-toasted-caramel/",
+      "https://www.wineenthusiast.com/buying-guide/black-velvet-toasted-caramel/"
+    ],
+    "review_publishers": [
+      "Canadian Whisky",
+      "The Rum Howler Blog",
+      "Wine Enthusiast"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/black-velvet-toasted-caramel-35-alcvol.html",
+        "summary": "The specialist finds substantial caramel sweetness increasingly balanced by pepper, citrus bitterness and creamy texture. He reports a persistent ending with recognizable whisky spice.",
+        "scope": "September 2012 exact 35% ABV expression."
+      },
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/other-spirits/black-velvet-toasted-caramel/",
+        "summary": "Dykstra finds the flavor cloying and the underlying whisky too subdued for enjoyable neat drinking. Ice and ginger ale improve it; his 75.5-point assessment is chiefly as a mixer.",
+        "scope": "March 28, 2013 exact 35% ABV."
+      },
+      {
+        "reviewer": "Kara Newman",
+        "publisher": "Wine Enthusiast",
+        "url": "https://www.wineenthusiast.com/buying-guide/black-velvet-toasted-caramel/",
+        "summary": "Newman describes a viscous sweet caramel profile with oak and a little finishing spice, suggesting dessert or warming mixed drinks.",
+        "scope": "March 2013 review, September 2012 launch identity."
+      }
+    ],
+    "source_urls": [
+      "https://www.fb101.com/black-velvet-announces-caramel-flavored-whisky",
+      "https://blackvelvetwhisky.com/whisky.php",
+      "https://canadianwhisky.org/blog/reviews/black-velvet-toasted-caramel-35-alcvol.html",
+      "https://therumhowlerblog.com/other-spirits/black-velvet-toasted-caramel/",
+      "https://www.wineenthusiast.com/buying-guide/black-velvet-toasted-caramel/",
+      "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open"
+    ],
+    "production_summary": "The launch announcement confirms natural toasted-caramel flavoring added to Black Velvet whisky and 70 proof. The current photographed label is NAS, while NC lists its SKU as 3Y. That catalogue age is stated explicitly but not converted into a final-label age claim. No distinct toasted-barrel finish is documented.",
+    "finishing_information": "Natural toasted-caramel flavor addition; toasted flavor wording is not a double-oak finish",
+    "identity_note": null,
+    "history": [
+      "The producer announcement places the U.S. debut in September 2012. It was the brand’s first flavor extension and preceded Cinnamon Rush, Apple and Peach.",
+      "Current official range and NC regular-price records retain the expression. Historical reviews remain sample-specific rather than proof of a perfectly unchanged recipe since launch."
+    ],
+    "comparables": [
+      {
+        "name": "Black Velvet Apple",
+        "url": "black-velvet-apple.html",
+        "reason": "Another 70-proof sweet flavor extension with a different fruit profile."
+      },
+      {
+        "name": "Black Velvet Peach",
+        "url": "black-velvet-peach.html",
+        "reason": "Fruit-flavored alternative; incomplete independent detail is not filled with caramel reviews."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 8,
+        "current_band": false,
+        "reason": "A low-cost way to obtain this specific flavor if already tasted.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 8,
+        "maximum_exclusive": 12,
+        "current_band": true,
+        "reason": "The verified NC USD 8.95 quote fits its inexpensive mixing purpose.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 12,
+        "maximum_exclusive": 16,
+        "current_band": false,
+        "reason": "Fair only if caramel-heavy drinks are a specific preference.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 16,
+        "maximum_exclusive": 21,
+        "current_band": false,
+        "reason": "Taste first; stronger sweetening power is not extra drinking Quality.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 21,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Pass on a premium for the simple flavored mixer.",
+        "reference_date": "2026-10-14",
+        "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Taste a little before committing; the full reviews disagree on tolerable sweetness."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Ice is directly supported by the less enthusiastic reviewer as a way to moderate cloying character."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a small flavored fraction with ordinary whisky and skip syrup initially."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Try ginger ale with plenty of ice, or less-sweet soda if the caramel is already dominant."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://blackvelvetwhisky.com/whisky.php",
+        "image_url": "https://blackvelvetwhisky.com/images/bv-toasted-caramel.jpg",
+        "scope": "Black Velvet Toasted Caramel, natural-caramel-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch September 2012.",
+        "sha256": "4530b1bed1f3e4cbb4559f2003faa4cf5a2e370adf676599a8e062d3dc02cc95",
+        "image_embedded": true,
+        "width": 1981,
+        "height": 1255
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Black Velvet Toasted Caramel, natural-caramel-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch September 2012.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-007",
+    "editorial": {
+      "id": "black-velvet-toasted-caramel",
+      "category": "Flavored whiskey",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+      "proof": 70,
+      "age": null,
+      "age_display": "NAS final bottle; NC catalogue describes 3Y",
+      "identity": "Black Velvet Toasted Caramel, natural-caramel-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch September 2012.",
+      "short_version": "An inexpensive, thick caramel flavor extension with useful mixing potential. Critics agree on sweetness; they disagree on whether the whisky and spice balance it sufficiently for neat drinking.",
+      "grain": "Canadian whisky base with natural caramel flavor; complete grain proportions undisclosed",
+      "production": "The launch announcement confirms natural toasted-caramel flavoring added to Black Velvet whisky and 70 proof. The current photographed label is NAS, while NC lists its SKU as 3Y. That catalogue age is stated explicitly but not converted into a final-label age claim. No distinct toasted-barrel finish is documented.",
+      "finish": "Natural toasted-caramel flavor addition; toasted flavor wording is not a double-oak finish",
+      "history": [
+        "The producer announcement places the U.S. debut in September 2012. It was the brand’s first flavor extension and preceded Cinnamon Rush, Apple and Peach.",
+        "Current official range and NC regular-price records retain the expression. Historical reviews remain sample-specific rather than proof of a perfectly unchanged recipe since launch."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/black-velvet-toasted-caramel-35-alcvol.html",
+          "summary": "The specialist finds substantial caramel sweetness increasingly balanced by pepper, citrus bitterness and creamy texture. He reports a persistent ending with recognizable whisky spice.",
+          "scope": "September 2012 exact 35% ABV expression."
+        },
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/other-spirits/black-velvet-toasted-caramel/",
+          "summary": "Dykstra finds the flavor cloying and the underlying whisky too subdued for enjoyable neat drinking. Ice and ginger ale improve it; his 75.5-point assessment is chiefly as a mixer.",
+          "scope": "March 28, 2013 exact 35% ABV."
+        },
+        {
+          "reviewer": "Kara Newman",
+          "publisher": "Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/black-velvet-toasted-caramel/",
+          "summary": "Newman describes a viscous sweet caramel profile with oak and a little finishing spice, suggesting dessert or warming mixed drinks.",
+          "scope": "March 2013 review, September 2012 launch identity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Toasted Caramel launch — producer announcement via F&B Magazine",
+          "url": "https://www.fb101.com/black-velvet-announces-caramel-flavored-whisky",
+          "role": "September 2012 U.S. launch, natural flavoring, 70 proof and historical SRP."
+        },
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Current exact 70-proof label and expression photograph."
+        },
+        {
+          "title": "Toasted Caramel — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/black-velvet-toasted-caramel-35-alcvol.html",
+          "role": "Substantive positive independent tasting."
+        },
+        {
+          "title": "Toasted Caramel — The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/other-spirits/black-velvet-toasted-caramel/",
+          "role": "Substantive sweetness and neat-drinking limitations."
+        },
+        {
+          "title": "Toasted Caramel — Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/black-velvet-toasted-caramel/",
+          "role": "Independent texture and mixed-drink assessment."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Exact code 38-306, 3Y catalogue notation, 70 proof / 750 mL, USD 8.95 regular price."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Black Velvet Apple",
+          "url": "black-velvet-apple.html",
+          "reason": "Another 70-proof sweet flavor extension with a different fruit profile."
+        },
+        {
+          "name": "Black Velvet Peach",
+          "url": "black-velvet-peach.html",
+          "reason": "Fruit-flavored alternative; incomplete independent detail is not filled with caramel reviews."
+        }
+      ],
+      "quality": 5.5,
+      "dimensions": [
+        5.1,
+        5.4,
+        5.8,
+        5.8,
+        5.7,
+        5.2,
+        5
+      ],
+      "quality_rationale": "Documented persistence and useful spice lift the simple sweetness, but poor neat balance and obscured whisky character remain material. Slightly-above-competent flavored-category execution is more defensible than a high score driven by sweetness alone.",
+      "value": 7.5,
+      "value_rationale": "The current-quarter regular NC USD 8.95 / 750 mL price makes a competent caramel cocktail ingredient inexpensive. Value is assessed for its documented mixing role; the low price does not erase the cloying neat-drinking criticism.",
+      "pricing": {
+        "amount": 8.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-08-01",
+        "effective": "2026-08-01",
+        "basis": "NC ABC regular August–October 2026 price, checked October 14",
+        "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+        "nc_code": "38-306",
+        "nc_status": "Exact regular NC listing, 70 proof / 750 mL; 3Y appears in the catalogue age column, while the pictured final bottle is NAS."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 8,
+          "current_band": false,
+          "reason": "A low-cost way to obtain this specific flavor if already tasted.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 8,
+          "maximum_exclusive": 12,
+          "current_band": true,
+          "reason": "The verified NC USD 8.95 quote fits its inexpensive mixing purpose.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 12,
+          "maximum_exclusive": 16,
+          "current_band": false,
+          "reason": "Fair only if caramel-heavy drinks are a specific preference.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 16,
+          "maximum_exclusive": 21,
+          "current_band": false,
+          "reason": "Taste first; stronger sweetening power is not extra drinking Quality.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 21,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Pass on a premium for the simple flavored mixer.",
+          "reference_date": "2026-10-14",
+          "boundary_basis": "Expression-specific editorial purchasing budgets in the stated USD market; historical quotes retain their dates."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Taste a little before committing; the full reviews disagree on tolerable sweetness."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Ice is directly supported by the less enthusiastic reviewer as a way to moderate cloying character."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a small flavored fraction with ordinary whisky and skip syrup initially."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Try ginger ale with plenty of ice, or less-sweet soda if the caramel is already dominant."
+        }
+      ],
+      "calibration_basis": "Universal execution rubric within flavored whiskey; the Canadian base and added caramel are documented separately.",
+      "evidence_limit": "Editorial interpretation of the attributed published samples, not first-person tasting or a new panel. Conflicting judgments remain explicit; recipe and batch consistency are not assumed.",
+      "image_url": "https://blackvelvetwhisky.com/images/bv-toasted-caramel.jpg",
+      "image_source": "https://blackvelvetwhisky.com/whisky.php",
+      "calibration_mode": "evidence_limited_provisional"
+    }
   }
 ]

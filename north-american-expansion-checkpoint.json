@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 6,
+  "checkpoint": 7,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -889,11 +889,16 @@
     "bearface-wilderness-matsutake.html",
     "black-velvet-apple.html",
     "black-velvet-cinnamon-rush.html",
-    "black-velvet-onyx-12-year.html"
+    "black-velvet-onyx-12-year.html",
+    "black-velvet-original.html",
+    "black-velvet-peach.html",
+    "black-velvet-reserve-10-year-select-barrel-stock.html",
+    "black-velvet-reserve-8-year.html",
+    "black-velvet-toasted-caramel.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 21,
-  "dossier_count": 874,
+  "canadian_added": 26,
+  "dossier_count": 879,
   "history": [
     {
       "checkpoint": 1,
@@ -1077,9 +1082,41 @@
         "Onyx label says contains 12-year-aged whisky; minimum blend age and numeric Age sorting left unknown."
       ],
       "additional_preservation": "All 42 previously accepted expansion dossier files byte-preserved; every immutable candidate id/order pair unchanged."
+    },
+    {
+      "checkpoint": 7,
+      "files": [
+        "black-velvet-original.html",
+        "black-velvet-peach.html",
+        "black-velvet-reserve-10-year-select-barrel-stock.html",
+        "black-velvet-reserve-8-year.html",
+        "black-velvet-toasted-caramel.html"
+      ],
+      "parent_commit": "89feb62a316a38abea5b696c178d491e496e918f",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 5147,
+        "functional_cases_passed": 425,
+        "responsive_pages_rendered": 165,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 36,
+        "failures": 0
+      },
+      "additional_preservation": "All 49 earlier expansion dossiers and all 874 prior index rows byte-preserved; complete candidate ordering unchanged.",
+      "identity_resolutions": [
+        "Current producer range and exact Select Barrel Stock label authenticate Reserve 10Y as current, correcting historical-only discovery status.",
+        "Eight-year Reserve retained as a historical reviewed formulation; no unsourced 1991 first-sale date or current ten-year price transferred.",
+        "Peach discovery source corrected; exact 70-proof identity accepted, but brief award/calendar notes remain insufficient for numeric Quality and Value.",
+        "NC current-quarter prices are verified for Original 750 mL, Reserve 10Y 1.75 L and Toasted Caramel 750 mL; sizes and normalization remain explicit.",
+        "Toasted Caramel final photographed label is NAS; NC 3Y catalogue notation retained as context without inventing a final-label age statement."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: black-velvet-original",
+  "next_action": "Research next pending expression in deterministic order: canadian-club-100-rye",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1087,24 +1124,24 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 6,
+      "checkpoint": 7,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 874,
-      "new_dossiers": 49,
-      "html_files_structurally_checked": 50,
+      "dossiers": 879,
+      "new_dossiers": 54,
+      "html_files_structurally_checked": 55,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 4975,
-      "local_references_checked": 1329,
-      "embedded_image_occurrences_decoded": 31,
-      "unique_image_payloads_decoded": 31,
-      "image_dossiers_added": 31,
+      "checks": 5147,
+      "local_references_checked": 1379,
+      "embedded_image_occurrences_decoded": 36,
+      "unique_image_payloads_decoded": 36,
+      "image_dossiers_added": 36,
       "numeric_counts": {
-        "quality": 41,
-        "value": 37,
-        "overall": 37
+        "quality": 45,
+        "value": 40,
+        "overall": 40
       },
       "failure_count": 0,
       "failures": []
@@ -1114,7 +1151,7 @@
       "browser": "Chromium",
       "browser_version": "141.0.7390.37",
       "functional_cases_passed": 425,
-      "responsive_cases": 150,
+      "responsive_cases": 165,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1122,5 +1159,5 @@
     }
   },
   "updated_at": "2026-10-14",
-  "last_parent_commit": "a1d42771260eb1306e195695ffc0ce5064fd60c0"
+  "last_parent_commit": "89feb62a316a38abea5b696c178d491e496e918f"
 }

@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 176,
-    "accepted": 49
+    "pending": 171,
+    "accepted": 54
   },
   "entries": [
     {
@@ -3278,21 +3278,21 @@
       "canonical_expression_name": "Black Velvet Original",
       "filename": "black-velvet-original.html",
       "brand_family": "Black Velvet",
-      "producer": "Black Velvet Distilling, Lethbridge / Heaven Hill",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian blend; proportions undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "age_information": "NAS; about 3 years reported for the core blend",
+      "grain_information": "Corn, rye and barley identified by the producer; complete proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Bourbon-barrel maturation; no separate finish documented",
       "release_year_or_era": "1951 lineage",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Black Velvet (whisky)",
@@ -3300,36 +3300,102 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://en.wikipedia.org/wiki/Black_Velvet_%28whisky%29",
+      "potential_image_source": "https://blackvelvetwhisky.com/whisky.php",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Mark Gillespie",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/black-velvet/",
+            "summary": "Gillespie describes a clean sweet aroma, buttery entry and cinnamon that recedes into licorice and honey. He finds good balance and a sustained ending, awarding 89 points after encountering it blind.",
+            "scope": "Undated 40% ABV core blend record; original page HTML inspected when text retrieval was blocked."
+          },
+          {
+            "reviewer": "Johannes Lindblom",
+            "publisher": "WhiskyRant",
+            "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+            "summary": "Lindblom finds a spirit-led aroma, faint fruit and caramel, and a quick dry ending. He prefers it to his eight-year Reserve sample but regards both as modest blends.",
+            "scope": "2015-era core 40% ABV sample; vintage not equated to every current bottle."
+          },
+          {
+            "reviewer": "Josh",
+            "publisher": "Sipology",
+            "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+            "summary": "Josh finds sweet fruit and a light ending, some rough edges, and useful performance in an Old Fashioned or with ginger ale. His enthusiasm is stronger for the eight-year Reserve.",
+            "scope": "August 22, 2014 head-to-head; historical core sample."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 52
+      "deterministic_order": 52,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-007",
+      "publication_sources": [
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Primary current expression, 80-proof label and exact image."
+        },
+        {
+          "title": "Black Velvet heritage",
+          "url": "https://blackvelvetwhisky.com/about.php",
+          "role": "Producer 1951 account, grain identities and staged blending/maturation."
+        },
+        {
+          "title": "Black Velvet — WhiskyCast",
+          "url": "https://whiskycast.com/ratings/black-velvet/",
+          "role": "Substantive positive independent tasting."
+        },
+        {
+          "title": "Black Velvet comparisons — WhiskyRant",
+          "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+          "role": "Substantive less favorable matched core tasting."
+        },
+        {
+          "title": "Black Velvet vs Reserve — Sipology",
+          "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+          "role": "Independent historical head-to-head and mixed-drink observations."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Exact regular Black Velvet code 38-300, 80 proof, 750 mL, USD 10.95 effective August 1, 2026."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://blackvelvetwhisky.com/whisky.php",
+        "image_url": "https://blackvelvetwhisky.com/images/black-velvet-originial.jpg?ver=2",
+        "scope": "Current Black Velvet Original Canadian blend, 40% ABV / 80 proof; brand lineage begins in 1951.",
+        "sha256": "cfb37c50ef932a142f51f608448830eb753b605bc4d5c688c063d20964dbdc72",
+        "image_embedded": true,
+        "width": 2880,
+        "height": 1146
+      }
     },
     {
       "id": "black-velvet-peach",
       "canonical_expression_name": "Black Velvet Peach",
       "filename": "black-velvet-peach.html",
       "brand_family": "Black Velvet",
-      "producer": "Black Velvet Distilling, Lethbridge / Heaven Hill",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
       "status": "current",
       "whisky_category": "Flavored whiskey",
-      "proof": null,
-      "abv": null,
+      "proof": 70,
+      "abv": 35.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky with peach flavor",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "age_information": "NAS",
+      "grain_information": "Canadian blended whisky base with natural peach flavor; complete grain ratios undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Natural peach flavor addition; no separate cask finish documented",
+      "release_year_or_era": "August 2022 onward",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Black Velvet Toasted Caramel Whisky - 1.75 LT - albertsons",
@@ -3337,36 +3403,97 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://www.albertsons.com/shop/pd/black-velvet-toasted-caramel-whisky-1-75-lt/971286372",
+      "potential_image_source": "https://blackvelvetwhisky.com/whisky.php",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient_for_numeric_scoring",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": [
+          {
+            "reviewer": "Dawn Davies MW, Molly Horn, Reece Sims and Tristan Stephenson",
+            "publisher": "IWSC",
+            "url": "https://www.iwsc.net/results/detail/175463/black-velvet-peach-flavoured-whisky",
+            "summary": "The brief 2026 panel note identifies candied peach aroma, soft tropical fruit and spice. It offers little detail about finish, texture or balance across the tasting.",
+            "scope": "2026 Bronze entry; exact 35% ABV / 750 mL, NAS."
+          },
+          {
+            "reviewer": "Beverage Testing Institute panel",
+            "publisher": "Tastings",
+            "url": "https://www.tastings.com/Calendar-Spirits/Review-2023-08-01-North-American-Whiskey.aspx",
+            "summary": "The 2023 calendar’s short assessment emphasizes sweet floral peach and little overt whisky character. The original full review is now an archive entry without accessible detailed sensory notes.",
+            "scope": "July 19, 2023 record, 86 points; teaser is not a full seven-dimension assessment."
+          }
+        ],
+        "notes": "Inspected independent notes are brief award/calendar summaries; historical full Tastings notes are no longer displayed. They do not establish finish and execution well enough to support numeric dimensions."
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 53
+      "deterministic_order": 53,
+      "discovery_source_correction": "Original caramel retailer link was not a Peach source; exact producer launch, label and independent panel records authenticate Peach.",
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-007",
+      "publication_sources": [
+        {
+          "title": "Black Velvet Peach launch — Heaven Hill",
+          "url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-announces-launch-of-black-velvet-peach/",
+          "role": "Primary August 2022 launch, 70 proof and USD 10.99 / 750 mL SRP; the ancillary 175 mL size text is not used to invent a bottle size."
+        },
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Exact current Peach label and image."
+        },
+        {
+          "title": "Peach — IWSC",
+          "url": "https://www.iwsc.net/results/detail/175463/black-velvet-peach-flavoured-whisky",
+          "role": "Named 2026 judges, 35% ABV / 750 mL / NAS and brief independent note."
+        },
+        {
+          "title": "Peach 2022 — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-Peach-Flavored-Canadian-Whiskey-Canada-08-01-2022.aspx",
+          "role": "Verified 93-point historical award, with detailed notes currently unavailable."
+        },
+        {
+          "title": "Peach 2023 — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-Peach-Flavored-Canadian-Whisky-Canada-08-01-2023.aspx",
+          "role": "Verified 86-point later award, not substituted for an inspected full tasting."
+        },
+        {
+          "title": "August 2023 tasting calendar",
+          "url": "https://www.tastings.com/Calendar-Spirits/Review-2023-08-01-North-American-Whiskey.aspx",
+          "role": "Inspected short sensory summary only."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://blackvelvetwhisky.com/whisky.php",
+        "image_url": "https://blackvelvetwhisky.com/images/bv-peach.jpg",
+        "scope": "Black Velvet Peach, natural-peach-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch August 2022.",
+        "sha256": "1b5f3fa6c76b499c163cbce4cc647384ceec4830bc6c9d5d6e8f3e229063b0cc",
+        "image_embedded": true,
+        "width": 1981,
+        "height": 1255
+      }
     },
     {
       "id": "black-velvet-reserve-10-year-select-barrel-stock",
       "canonical_expression_name": "Black Velvet Reserve 10 Year Select Barrel Stock",
       "filename": "black-velvet-reserve-10-year-select-barrel-stock.html",
       "brand_family": "Black Velvet",
-      "producer": "Black Velvet Distilling, Lethbridge / Heaven Hill",
-      "status": "historical",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
+      "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
-      "grain_information": "Canadian blend; proportions undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "2024 reviewed bottling",
+      "age_statement_years": 10,
+      "age_information": "10 Years",
+      "grain_information": "Corn / rye / barley family grains; exact ten-year blend proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Oak / bourbon-barrel family maturation; no reserve-specific separate finish authenticated",
+      "release_year_or_era": "Current ten-year expression; exact 2024 independent records",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Black Velvet 10 Year Old Reserve Select Barrel Stock Canadian Whisky USA Spirits Review | Tastings",
@@ -3374,36 +3501,91 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://www.tastings.com/Spirits-Review/Black-Velvet-10-Year-Old-Reserve-Select-Barrel-Stock-Canadian-Whisky-USA-08-01-2024.aspx",
+      "potential_image_source": "https://blackvelvetwhisky.com/whisky.php",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Beverage Testing Institute panel",
+            "publisher": "Tastings",
+            "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-10-Year-Old-Reserve-Select-Barrel-Stock-Canadian-Whisky-USA-08-01-2024.aspx",
+            "summary": "The July panel describes dry woody aromas, modest body, a tingling short ending and suitability for sweet cocktails. It recommends the sample at Bronze level rather than treating age as excellence.",
+            "scope": "July 12, 2024 exact 10 Year Select Barrel Stock, 40% ABV."
+          },
+          {
+            "reviewer": "TAG judging panel",
+            "publisher": "TAG Global Spirits Awards",
+            "url": "https://tagspiritsawards.com/result/black-velvet-reserve-10-years-old-canadian-blended-whisky/",
+            "summary": "The TAG panel finds richer fruit-and-chocolate development, balanced medium body and a sustained ending. Its detailed notes and maturity praise contrast substantially with the other panel.",
+            "scope": "2024 Reserve 10 Years Old, 40% ABV; award title alone is not the scoring basis."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 54
+      "deterministic_order": 54,
+      "status_verification": "Current primary producer range and exact photographed ten-year Select Barrel Stock label.",
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-007",
+      "publication_sources": [
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Primary current ten-year identity and exact Select Barrel Stock image."
+        },
+        {
+          "title": "Black Velvet heritage",
+          "url": "https://blackvelvetwhisky.com/about.php",
+          "role": "General grains and maturation context; no exact reserve ratios inferred."
+        },
+        {
+          "title": "Reserve 10 — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Black-Velvet-10-Year-Old-Reserve-Select-Barrel-Stock-Canadian-Whisky-USA-08-01-2024.aspx",
+          "role": "Substantive 2024 tasting, with anomalous country field disclosed."
+        },
+        {
+          "title": "Reserve 10 — TAG",
+          "url": "https://tagspiritsawards.com/result/black-velvet-reserve-10-years-old-canadian-blended-whisky/",
+          "role": "Substantive contrasting 2024 panel notes, Canada origin and 40% ABV."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Exact code 38-290: Reserve, 10Y, 80 proof, 1.75 L, USD 29.95 effective August 1, 2026."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://blackvelvetwhisky.com/whisky.php",
+        "image_url": "https://blackvelvetwhisky.com/images/bv-reserve-2024-v3.jpg",
+        "scope": "Black Velvet Reserve Select Barrel Stock, current ten-year age-stated Canadian blend at 40% ABV; matched 2024 tasting records.",
+        "sha256": "844259350901580b0787f629ee5f37d746ddbbe69795b93fbcbbe9219906625e",
+        "image_embedded": true,
+        "width": 1981,
+        "height": 1255
+      }
     },
     {
       "id": "black-velvet-reserve-8-year",
       "canonical_expression_name": "Black Velvet Reserve 8 Year",
       "filename": "black-velvet-reserve-8-year.html",
       "brand_family": "Black Velvet",
-      "producer": "Black Velvet Distilling, Lethbridge / Heaven Hill",
-      "status": "current",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Constellation Brands in the reviewed era; Heaven Hill acquired the brand and distillery in 2019",
+      "status": "historical",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 8.0,
-      "age_information": "8 years",
-      "grain_information": "Canadian blend; proportions undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "1991 lineage",
+      "age_statement_years": 8,
+      "age_information": "8 Years",
+      "grain_information": "Corn base and corn/rye flavoring components reported for this formulation; exact ratios undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Oak maturation; no separate finish authenticated",
+      "release_year_or_era": "Reviewed 2014–2017 eight-year formulation; first-sale date and exact transition date unverified",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Black Velvet (whisky)",
@@ -3411,36 +3593,98 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://en.wikipedia.org/wiki/Black_Velvet_%28whisky%29",
+      "potential_image_source": "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+            "summary": "The specialist finds creamy caramel, fruit and vigorous pepper, with wood mostly held in balance. Complexity remains modest and the finish is moderate to brief despite lingering spice.",
+            "scope": "October 2017 page, exact eight-year / 40% ABV."
+          },
+          {
+            "reviewer": "Josh",
+            "publisher": "Sipology",
+            "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+            "summary": "Josh finds more developed sweet fruit, nuts and oak than in the core blend and praises the balance. His sample’s ending persists, though he wishes for a stronger presentation.",
+            "scope": "August 2014 eight-year Reserve head-to-head."
+          },
+          {
+            "reviewer": "Johannes Lindblom",
+            "publisher": "WhiskyRant",
+            "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+            "summary": "Lindblom finds a sharp aroma, heat and a rapidly thinning finish. He regards the sample as merely decent among cheap blends and less pleasant than ordinary Black Velvet.",
+            "scope": "2015-era exact eight-year / 40% ABV sample."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 55
+      "deterministic_order": 55,
+      "status_verification": "Current producer range is ten-year; no automatic current U.S. status for the distinct eight-year formulation.",
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-007",
+      "publication_sources": [
+        {
+          "title": "Reserve eight-year — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+          "role": "Substantive specialist tasting, formulation context and exact label image."
+        },
+        {
+          "title": "Black Velvet vs Reserve — Sipology",
+          "url": "https://sipologyblog.com/2014/08/22/head-to-head-black-velvet-vs-black-velvet-reserve/",
+          "role": "Independent positive historical head-to-head."
+        },
+        {
+          "title": "Black Velvet comparisons — WhiskyRant",
+          "url": "https://www.whiskyrant.com/black-velvet-reserve-8-year-old-review/",
+          "role": "Substantive negative counterpoint; source geography claims are not used to override the authenticated distillery context."
+        },
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Current ten-year Reserve is distinct; no present price is transferred."
+        },
+        {
+          "title": "Black Velvet Apple launch — Heaven Hill",
+          "url": "https://heavenhill.com/news-and-notes/black-velvet-whisky-introduces-black-velvet-apple/",
+          "role": "2019 ownership transition only."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://canadianwhisky.org/blog/reviews/black-velvet-reserve-8-years-old-40-abv-80-proof.html",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484136927-NCT45N0I460WCRVV5XL2/Black-Velvet-Reserve-photo-1.jpg",
+        "scope": "Historical Black Velvet Reserve eight-year Canadian blend at 40% ABV; reviewed independently in 2014–2017.",
+        "sha256": "69bc405b265f6b556d6bc7362700789d5fd0d47f0d9007958281d5bcee4110d0",
+        "image_embedded": true,
+        "width": 800,
+        "height": 505
+      }
     },
     {
       "id": "black-velvet-toasted-caramel",
       "canonical_expression_name": "Black Velvet Toasted Caramel",
       "filename": "black-velvet-toasted-caramel.html",
       "brand_family": "Black Velvet",
-      "producer": "Black Velvet Distilling, Lethbridge / Heaven Hill",
+      "producer": "Black Velvet Distillery, Lethbridge, Alberta / Heaven Hill Brands; imported and bottled by Black Velvet Import Co., Bardstown, Kentucky",
       "status": "current",
       "whisky_category": "Flavored whiskey",
-      "proof": 70.0,
+      "proof": 70,
       "abv": 35.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky with caramel flavor",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring",
+      "age_information": "NAS final bottle; NC catalogue describes 3Y",
+      "grain_information": "Canadian whisky base with natural caramel flavor; complete grain proportions undisclosed",
+      "grain_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+      "finishing_information": "Natural toasted-caramel flavor addition; toasted flavor wording is not a double-oak finish",
       "release_year_or_era": "2012",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression authenticated; distinct documented age, grain, recipe, finish or release scope. Scoring and market evidence limitations recorded independently.",
+      "available_evidence_level": "Primary producer/control-state and/or exact photographed label identity; inspected independent tasting evidence separately gated.",
       "discovery_sources": [
         {
           "title": "Black Velvet Toasted Caramel Flavored Whisky - F&B Magazine — Food & Beverage Magazine",
@@ -3448,15 +3692,81 @@
           "retrieved_date": "2026-10-14"
         }
       ],
-      "potential_image_source": "https://www.fb101.com/black-velvet-announces-caramel-flavored-whisky",
+      "potential_image_source": "https://blackvelvetwhisky.com/whisky.php",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/black-velvet-toasted-caramel-35-alcvol.html",
+            "summary": "The specialist finds substantial caramel sweetness increasingly balanced by pepper, citrus bitterness and creamy texture. He reports a persistent ending with recognizable whisky spice.",
+            "scope": "September 2012 exact 35% ABV expression."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/other-spirits/black-velvet-toasted-caramel/",
+            "summary": "Dykstra finds the flavor cloying and the underlying whisky too subdued for enjoyable neat drinking. Ice and ginger ale improve it; his 75.5-point assessment is chiefly as a mixer.",
+            "scope": "March 28, 2013 exact 35% ABV."
+          },
+          {
+            "reviewer": "Kara Newman",
+            "publisher": "Wine Enthusiast",
+            "url": "https://www.wineenthusiast.com/buying-guide/black-velvet-toasted-caramel/",
+            "summary": "Newman describes a viscous sweet caramel profile with oak and a little finishing spice, suggesting dessert or warming mixed drinks.",
+            "scope": "March 2013 review, September 2012 launch identity."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 56
+      "deterministic_order": 56,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-007",
+      "publication_sources": [
+        {
+          "title": "Toasted Caramel launch — producer announcement via F&B Magazine",
+          "url": "https://www.fb101.com/black-velvet-announces-caramel-flavored-whisky",
+          "role": "September 2012 U.S. launch, natural flavoring, 70 proof and historical SRP."
+        },
+        {
+          "title": "Black Velvet current range",
+          "url": "https://blackvelvetwhisky.com/whisky.php",
+          "role": "Current exact 70-proof label and expression photograph."
+        },
+        {
+          "title": "Toasted Caramel — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/black-velvet-toasted-caramel-35-alcvol.html",
+          "role": "Substantive positive independent tasting."
+        },
+        {
+          "title": "Toasted Caramel — The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/other-spirits/black-velvet-toasted-caramel/",
+          "role": "Substantive sweetness and neat-drinking limitations."
+        },
+        {
+          "title": "Toasted Caramel — Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/black-velvet-toasted-caramel/",
+          "role": "Independent texture and mixed-drink assessment."
+        },
+        {
+          "title": "NC August–October 2026 price list",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "Exact code 38-306, 3Y catalogue notation, 70 proof / 750 mL, USD 8.95 regular price."
+        }
+      ],
+      "exact_image_verification": {
+        "source_url": "https://blackvelvetwhisky.com/whisky.php",
+        "image_url": "https://blackvelvetwhisky.com/images/bv-toasted-caramel.jpg",
+        "scope": "Black Velvet Toasted Caramel, natural-caramel-flavored Canadian whisky at 35% ABV / 70 proof; U.S. launch September 2012.",
+        "sha256": "4530b1bed1f3e4cbb4559f2003faa4cf5a2e370adf676599a8e062d3dc02cc95",
+        "image_embedded": true,
+        "width": 1981,
+        "height": 1255
+      }
     },
     {
       "id": "canadian-club-100-rye",
