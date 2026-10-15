@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 51,
-    "accepted": 174
+    "pending": 46,
+    "accepted": 179
   },
   "entries": [
     {
@@ -13558,17 +13558,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "discontinued",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Rye, corn, barley; proportions undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "age_information": "NAS",
+      "grain_information": "Original issuer names rye, malted rye and malted barley; a corn base appears in attributed blender-class/community accounts. Complete recipe and ratios not authenticated.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "New white-oak maturation; no separate secondary finish established for the original expression.",
       "release_year_or_era": "2010",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13579,13 +13579,58 @@
       ],
       "potential_image_source": "https://canadianwhisky.org/blog/news-views/introducing-the-new-wiser%E2%80%99s-legacy-canadian-rye-whisky-45-alc-vol.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2017/02/13/j-p-wisers-legacy/",
+            "summary": "Selfbuilt finds a bold, creamy, characterful palate with persistent sweet/spicy detail. Faint solvent-like aromas and a dry, somewhat bitter initial finish limit elegance.",
+            "scope": "February 13, 2017 review of original range, bottle purchased June 2015; sensory solvent wording is not a chemical finding."
+          },
+          {
+            "reviewer": "cricklewood",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/j-p-wisers-legacy-whisky-review-12685",
+            "summary": "The later original-range bottle offers an appealing silky entry and assertive spice, but also drying astringency and only medium finish length.",
+            "scope": "March 18, 2019 review; reviewer identifies post-2015 label in comments. Does not establish unchanged 2010 recipe."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 180
+      "deterministic_order": 180,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-029",
+      "publication_sources": [
+        {
+          "title": "Original issuer record via Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/news-views/wisers-legacy-super-premium-canadian-whisky-press-release.html",
+          "role": "Original blue-label pack, named grains, pot-distillation/new-oak claims; syndicated date metadata and 2009 award make precise launch-day inference unsafe."
+        },
+        {
+          "title": "Davin de Kergommeaux — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/j-p-wisers-legacy-canadian-whisky-review.html",
+          "role": "2011 original-era 45% tasting and historical CAD 50 context."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2017/02/13/j-p-wisers-legacy/",
+          "role": "February 13, 2017 review; comment identifies a bottle bought June 2015. Simplified grain account not silently treated as complete final blend."
+        },
+        {
+          "title": "cricklewood — Whisky Connosr",
+          "url": "https://www.connosr.com/j-p-wisers-legacy-whisky-review-12685",
+          "role": "March 18, 2019 original-range sample; later comment identifies post-2015 pack and batch variation."
+        },
+        {
+          "title": "Producer 2025 revival identity",
+          "url": "https://www.jpwisers.com/en-ca/blog/j-p-wisers-legacy-edition-the-legend-turns-200-years-old/",
+          "role": "October 2, 2025 separate Legacy Edition; no transfer of its recipe, price or photograph."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-master-blender-series-2026",
@@ -13594,18 +13639,18 @@
       "brand_family": "J.P. Wiser's",
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "annual",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "whisky_category": "Canadian Rye Whisky",
+      "proof": 92.2,
+      "abv": 46.1,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Rye and corn; undisclosed ratios",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Black Sea oak, Speyside malt, port and dark oak casks",
+      "age_information": "NAS",
+      "grain_information": "Rye and corn; issuer says the same grain composition as Dissertation. 87% rye / 13% corn is an attributed matched community/Dissertation account, not a newly published exact percentage on this pack.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Multi-cask finishing involving Black Sea oak, ex-Speyside malt, port and heavily charred white oak; sequence, proportions and durations unknown.",
       "release_year_or_era": "2026",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13616,13 +13661,48 @@
       ],
       "potential_image_source": "https://barandbeverage.com/news-releases/2565-j-p-wiser-s-reimagines-the-art-of-the-blend-with-exclusive-master-blender-series",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "muaddib99",
+            "publisher": "Reddit r/canadawhisky",
+            "url": "https://www.reddit.com/r/canadawhisky/comments/1u53f1y/new_wisers_master_blender_series_2026_release_vs/",
+            "summary": "A side-by-side with an opened old Dissertation bottle finds the new release more layered and wood-spicy, with less dill/mint emphasis and a long spicy ending. The writer discloses strong prior affection for Dissertation and does not claim a blind test.",
+            "scope": "June 13, 2026 exact named 2026 release; expectations and nostalgia explicit."
+          },
+          {
+            "reviewer": "Ellicrom",
+            "publisher": "Reddit r/canadawhisky",
+            "url": "https://www.reddit.com/r/canadawhisky/comments/1u53f1y/new_wisers_master_blender_series_2026_release_vs/",
+            "summary": "A separate reply enjoys the flavor but finds the 46.1% release thin relative to a preference for cask-strength rye; the original writer explicitly disagrees on thinness.",
+            "scope": "Same June 13, 2026 thread; memory-based Dissertation comparison, not a second controlled side-by-side."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 181
+      "deterministic_order": 181,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-029",
+      "publication_sources": [
+        {
+          "title": "Producer exact 2026 pack and offer",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-master-blender-series",
+          "role": "NAS / 46.1% / 2026 named photograph and current CAD offer."
+        },
+        {
+          "title": "Corby May 25, 2026 announcement via Bar & Beverage",
+          "url": "https://barandbeverage.com/news-releases/2565-j-p-wiser-s-reimagines-the-art-of-the-blend-with-exclusive-master-blender-series",
+          "role": "Issuer chronology, 1,500 bottles, four cask regimes and distillation; not independent tasting."
+        },
+        {
+          "title": "muaddib99 and replies — r/canadawhisky",
+          "url": "https://www.reddit.com/r/canadawhisky/comments/1u53f1y/new_wisers_master_blender_series_2026_release_vs/",
+          "role": "June 13, 2026 substantive bottle comparison; two named drinkers disagree on thinness. One platform, not a representative consensus."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-old-fashioned-manhattan-premixed-cocktails",
@@ -13663,17 +13743,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 86.8,
+      "abv": 43.4,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed; expression-specific specification verification required",
-      "grain_confidence": "unknown",
-      "finishing_information": "No separate finish",
+      "age_information": "NAS",
+      "grain_information": "Corn and rye primary-confirmed; proportions undisclosed. Wheat-like tasting notes do not add wheat to the recipe.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "New oak and used Canadian-whisky maturation; no separate sequential finish authenticated.",
       "release_year_or_era": "2017",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13684,13 +13764,60 @@
       ],
       "potential_image_source": "https://www.adnews.com/36644",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "TOModera",
+            "publisher": "TOModera Whisky Reviews",
+            "url": "https://tomoderawhisky.wordpress.com/2017/07/21/wisers-one-fifty/",
+            "summary": "TOModera finds some aromatic growth with air but excessive sweetness and a late arrival of spice. A rough cardboard-like note weakens the finish.",
+            "scope": "July 21, 2017 supplied TWS bottle 7793 / 43.4%; sensory cardboard is not a material contamination finding."
+          },
+          {
+            "reviewer": "talexander",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/wisers-one-fifty-whisky-review-11392",
+            "summary": "The reviewer enjoys a creamy sweet/spicy profile but finds the spice forceful and the sweetness nearly cloying, with a medium finish.",
+            "scope": "June 29, 2017 exact One Fifty / 43.4%."
+          },
+          {
+            "reviewer": "WhiskyNeighbour",
+            "publisher": "Whisky Neighbour",
+            "url": "https://www.whiskyneighbour.ca/?p=26",
+            "summary": "The written account is more favorable, praising fullness, a longer ending and balanced oak/spice; its collecting-uniqueness bonus is excluded from Quality.",
+            "scope": "2017 written review; a correction acknowledges new oak. Producer’s two-cask account remains the production authority."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 183
+      "deterministic_order": 183,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-029",
+      "publication_sources": [
+        {
+          "title": "Corby exact One Fifty announcement",
+          "url": "https://www.newswire.ca/news-releases/jp-wisers-releases-limited-edition-one-fifty-bottle-for-canadas-150th-anniversary-623826264.html",
+          "role": "May 23, 2017, 7,827 labels, corn/rye and new-oak plus Canadian-whisky casks since 2000."
+        },
+        {
+          "title": "TOModera Whisky Reviews",
+          "url": "https://tomoderawhisky.wordpress.com/2017/07/21/wisers-one-fifty/",
+          "role": "July 21, 2017 supplied TWS bottle 7793 / 43.4%; reblog is not another independent tasting."
+        },
+        {
+          "title": "talexander — Whisky Connosr",
+          "url": "https://www.connosr.com/wisers-one-fifty-whisky-review-11392",
+          "role": "June 29, 2017 exact 43.4% review; speculative interpretation of commemorated date not adopted."
+        },
+        {
+          "title": "Whisky Neighbour written review",
+          "url": "https://www.whiskyneighbour.ca/?p=26",
+          "role": "2017 exact One Fifty written account and explicit cask correction; video itself not counted as inspected."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-red-letter-2007-release",
@@ -13700,17 +13827,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "historical",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 18.0,
-      "age_information": "18 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Virgin oak secondary maturation",
+      "proof": 90,
+      "abv": 45.0,
+      "age_statement_years": null,
+      "age_information": "NAS",
+      "grain_information": "Complete grain recipe not authenticated. Contemporary accounts describe a Canadian blend with rye character and corn-like sweetness, without reliable proportions.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "150-day virgin white-oak secondary maturation reported in the original Corby-context account; not 150 years of age.",
       "release_year_or_era": "2007",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13721,13 +13848,48 @@
       ],
       "potential_image_source": "https://canadianwhisky.org/blog/news-views/introducing-the-new-wiser%E2%80%99s-legacy-canadian-rye-whisky-45-alc-vol.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/wisers-red-letter-canadian-whiskey/",
+            "summary": "Dykstra praises oily richness and an energetic, lingering vanilla/spice finish, while explicitly noting heavy heat and fresh-oak tannin.",
+            "scope": "November 11, 2009 original 150th edition, including numbered original bottles; packaging grade excluded."
+          },
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/wiser%E2%80%99s-red-letter-150th-anniversary-45-alc-vol.html",
+            "summary": "The original-edition account finds complex fruit, wood and rye-like spice with a creamy palate and a long pepper-to-citrus ending. Hot mint and rubber-like notes remain part of the character, not a laboratory defect claim.",
+            "scope": "November 9, 2011 page dateline, exact 2007 anniversary edition; later release reviews excluded."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 184
+      "deterministic_order": 184,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-029",
+      "publication_sources": [
+        {
+          "title": "Dykstra — original 150th Anniversary review",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/wisers-red-letter-canadian-whiskey/",
+          "role": "November 11, 2009 exact original pack, 45%, direct Corby age/finish account and substantial heat reservation."
+        },
+        {
+          "title": "Davin de Kergommeaux — original Anniversary review",
+          "url": "https://canadianwhisky.org/blog/reviews/wiser%E2%80%99s-red-letter-150th-anniversary-45-alc-vol.html",
+          "role": "2011 exact 2007 edition, rich/spicy sensory account, 6,000 bottles and historical Canadian price. A 125th cross-link typo is not its anniversary identity."
+        },
+        {
+          "title": "Dykstra — explicit 2013 comparison",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/wisers-red-letter-2013-release/",
+          "role": "Retrospective separation of 2007 wooden-case edition from later 2013 release; later tasting not counted for original Quality."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-red-letter-2013-release",
@@ -13737,17 +13899,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "historical",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Virgin oak secondary maturation",
-      "release_year_or_era": "2013–2015",
+      "age_information": "NAS",
+      "grain_information": "Predominantly corn according to Dykstra’s attributed Corby ambassador account; complete recipe and grain ratios undisclosed. Rye-like flavor does not establish a percentage.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Virgin white-oak secondary maturation confirmed; exact 2013 duration not established.",
+      "release_year_or_era": "2013",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13758,13 +13920,48 @@
       ],
       "potential_image_source": "https://www.whiskybase.com/whiskies/distillery/346/whiskies",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/wisers-red-letter-2013-release/",
+            "summary": "Dykstra finds a silky delivery under assertive orange and wood spice, with persistent chocolate-like richness. Sharp heat remains explicit despite his very favorable conclusion.",
+            "scope": "December 24, 2014 exact 2013 release, bottle 0693 / bond 0006075; packaging score excluded."
+          },
+          {
+            "reviewer": "TOModera",
+            "publisher": "TOModera Whisky Reviews",
+            "url": "https://tomoderawhisky.wordpress.com/2016/08/05/wisers-red-letter-2013-cask-strength/",
+            "summary": "TOModera finds the 45% 2013 sample gentle and balanced but light on aroma and limited in complexity. Creamy development makes the finish its strongest feature.",
+            "scope": "August 5, 2016, sample 1052 / bond 0006075. Separate cask-strength sample in the same article not scored here."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 185
+      "deterministic_order": 185,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-029",
+      "publication_sources": [
+        {
+          "title": "Davin de Kergommeaux — exact 2013 release",
+          "url": "https://canadianwhisky.org/blog/reviews/wisers-red-letter-2013-release-45-alcvol.html",
+          "role": "January 8, 2014 exact 45% record, photograph and Canadian price; label-release identity controls."
+        },
+        {
+          "title": "Chip Dykstra — 2013 Release review",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/wisers-red-letter-2013-release/",
+          "role": "December 24, 2014, bottle 0693 / bond 0006075; corn-led account attributed to brand ambassador."
+        },
+        {
+          "title": "TOModera — 2013 and separate cask strength",
+          "url": "https://tomoderawhisky.wordpress.com/2016/08/05/wisers-red-letter-2013-cask-strength/",
+          "role": "August 5, 2016, only 2013 45% sample 1052 / bond 0006075 used; later cask-strength portion excluded."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-red-letter-2025-edition",

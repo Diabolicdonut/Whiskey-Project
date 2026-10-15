@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 28,
+  "checkpoint": 29,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -1014,11 +1014,16 @@
     "j-p-wiser-s-decades-28-year-2024.html",
     "j-p-wiser-s-decades-42-year-2024.html",
     "j-p-wiser-s-deluxe.html",
-    "j-p-wiser-s-dissertation-2017.html"
+    "j-p-wiser-s-dissertation-2017.html",
+    "j-p-wiser-s-legacy.html",
+    "j-p-wiser-s-master-blender-series-2026.html",
+    "j-p-wiser-s-one-fifty-2017.html",
+    "j-p-wiser-s-red-letter-2007-release.html",
+    "j-p-wiser-s-red-letter-2013-release.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 146,
-  "dossier_count": 999,
+  "canadian_added": 151,
+  "dossier_count": 1004,
   "history": [
     {
       "checkpoint": 1,
@@ -2024,9 +2029,45 @@
         "Dissertation Selfbuilt's developed fruit, spice and silky texture retained beside his persistence reservation and Whisky Lassie's shorter-finish purchased-bottle account. No aggregate reviewer grades silently converted. Historical June 6, 2017 LCBO CAD 64.95 not made USD; no authenticated exact dated U.S. offer, so Value/Overall N/A. Scientific pedigree adds no Quality points.",
         "All 825 original dossier hashes/rows, completed image/final ledgers, 169 earlier expansion pages/data and 994 prior index rows byte-preserved. The 238 immutable id/order pairs remain unchanged. Dedicated categorical UI normalization stays deferred until ledger exhaustion."
       ]
+    },
+    {
+      "checkpoint": 29,
+      "files": [
+        "j-p-wiser-s-legacy.html",
+        "j-p-wiser-s-master-blender-series-2026.html",
+        "j-p-wiser-s-one-fifty-2017.html",
+        "j-p-wiser-s-red-letter-2007-release.html",
+        "j-p-wiser-s-red-letter-2013-release.html"
+      ],
+      "parent_commit": "d7a55f757bce20644ab25616b58d810ea77694b9",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 9504,
+        "functional_cases_passed": 459,
+        "responsive_pages_rendered": 540,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 161,
+        "failures": 0
+      },
+      "additional_preservation": "All 174 earlier expansion dossiers and all 999 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Candidates 180, 181, 183, 184 and 185 processed in exact pending-ledger order; previously excluded 182 remains excluded. Added original Legacy, Master Blender 2026, One Fifty 2017, Red Letter 2007 and Red Letter 2013. Five exact expression photographs visually inspected, with original Legacy issuer pack rather than sibling-containing collage. A corrupt alternative original Red Letter image was rejected; the decoded exact wooden-case original photograph was used.",
+        "Legacy dossier explicitly scopes the discontinued circa-2010 range and excludes October 2025 revival. Original issuer pot-distilled rye/rye-malt/barley-malt wording conflicts with later corn-base and mixed-stream technical recollections; no exact ratio or universal all-pot recipe forced. The 2009 award in syndicated text prevents a false exact first-sale date. NAS / 45% retained, original blue-label photograph verified. Selfbuilt's 2015-purchased sample and cricklewood's post-2015 pack retain aromatic roughness, dryness/astringency and medium-finish limits rather than silently equating every original batch.",
+        "Master Blender primary May 25, 2026 announcement and 2026-labeled pack verify NAS / 46.1% / 750 mL / 1,500 bottles, rye/corn and column/pot streams, plus Black Sea, Speyside, port and heavily charred white-oak finishing. Four regimes do not prove sequential finishes or a twelve-year age. Same composition as Dissertation is primary wording; 87/13 remains attributed matched specialist/community context. Canadian Rye editorial group preserves category boundaries, not American straight rye.",
+        "Master Blender numeric Quality uses substantive June 13, 2026 muaddib99 side-by-side comparison with explicitly disclosed prior enthusiasm and non-blind scope. Wood-spicy layered development and long ending retained beside Ellicrom's thinness criticism and the author's contrary texture report. Same Reddit thread is one platform, not a broad consensus. No producer notes, pedigree or source grade used as independent tasting.",
+        "One Fifty primary May 23, 2017 issuer announcement verifies corn/rye aged since 2000 in new oak AND used Canadian-whisky casks, 7,827 differently dated labels. NAS retained rather than importing eighteen-year or historical-week age. Pack/matched reviewers confirm 43.4%. TOModera's stray Double Rye wording and wheat-like flavor are not expression identity or grain specification. Supplied TWS sample/reblog counted once; rough cardboard finish and near-cloying sweetness retained beside Whisky Neighbour's more favorable written fullness/balance account. Video itself not inspected or scored.",
+        "Red Letter 2007 original 150th distillery-anniversary pack verified as 45% / 750 mL, heavy wooden case. Discovery eighteen-year age is unsupported and corrected to NAS. Dykstra's November 2009 direct Corby account says at least ten-year components plus 150-day virgin-oak finish; no invented eighteen-year label or 150-year age. Original Dykstra/de Kergommeaux richness and complexity praise retains substantial heat and fresh-oak tannin. Later 2013/2015/2025 sensory accounts excluded; 125th cross-link typo not adopted.",
+        "Red Letter 2013 matched photographed 45% decanter and bond 0006075 samples authenticated. Dykstra December 2014 sample 0693 strong silky/chocolate/spice praise retained beside TOModera August 2016 exact 2013 45% sample 1052: light aroma and modest complexity, creamy developing finish. Separate cask-strength section excluded. Predecessor age/150-day details, separately dated 2014 sample age and 2015 rebrand not made universal 2013 facts. Corn predominance remains attributed Corby ambassador account, complete grain ratios unknown.",
+        "Dated price contexts remain currency-correct: Legacy historical CAD 50 (2011), Master Blender producer current Ontario CAD 89.95 (October 15, 2026), One Fifty historical CAD 49.95 (July 2017), original Red Letter historical Canadian CAD 150 (2011), 2013 Red Letter CAD 115 (January 2014). Targeted U.S. research found no defensible regular exact offer; unavailable/backordered collector ask not a drinking-Value anchor. All five USD Cost/Value/Overall N/A.",
+        "Five provisional Quality judgments retain seven universal dimensions within intended Canadian categories and average=5. No native Canadian endpoint claims or unrelated American edits. All baseline hashes/rows, completed ledgers, 174 previous expansion pages/data and 999 prior rows preserved; 238 immutable id/order pairs unchanged. Categorical normalization deferred until full ledger exhaustion."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: j-p-wiser-s-legacy",
+  "next_action": "Research next pending expression in deterministic order: j-p-wiser-s-red-letter-2025-edition",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -2034,22 +2075,22 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 28,
+      "checkpoint": 29,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 999,
-      "new_dossiers": 174,
-      "html_files_structurally_checked": 175,
+      "dossiers": 1004,
+      "new_dossiers": 179,
+      "html_files_structurally_checked": 180,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 9329,
-      "local_references_checked": 2579,
-      "embedded_image_occurrences_decoded": 156,
-      "unique_image_payloads_decoded": 156,
-      "image_dossiers_added": 156,
+      "checks": 9504,
+      "local_references_checked": 2629,
+      "embedded_image_occurrences_decoded": 161,
+      "unique_image_payloads_decoded": 161,
+      "image_dossiers_added": 161,
       "numeric_counts": {
-        "quality": 159,
+        "quality": 164,
         "value": 101,
         "overall": 101
       },
@@ -2061,7 +2102,7 @@
       "browser": "Chromium",
       "browser_version": "140.0.7339.186",
       "functional_cases_passed": 459,
-      "responsive_cases": 525,
+      "responsive_cases": 540,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -2069,7 +2110,7 @@
     }
   },
   "updated_at": "2026-10-15",
-  "last_parent_commit": "97e34d857403f6c1e367c7b95cbdef764a89174f",
+  "last_parent_commit": "d7a55f757bce20644ab25616b58d810ea77694b9",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",
