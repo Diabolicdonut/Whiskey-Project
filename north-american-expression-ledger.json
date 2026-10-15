@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 76,
-    "accepted": 149
+    "pending": 71,
+    "accepted": 154
   },
   "entries": [
     {
@@ -11600,21 +11600,21 @@
       "canonical_expression_name": "Gooderham & Worts 49 Wellington 19 Year (2019)",
       "filename": "gooderham-worts-49-wellington-19-year-2019.html",
       "brand_family": "Gooderham & Worts",
-      "producer": "Hiram Walker & Sons / Corby; revived historic Toronto name",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 98.0,
+      "proof": 98,
       "abv": 49.0,
-      "age_statement_years": 19.0,
-      "age_information": "19 years",
-      "grain_information": "Corn, rye, red winter wheat, barley",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak maturation",
-      "release_year_or_era": "2019",
+      "age_statement_years": 19,
+      "age_information": "19 Years",
+      "grain_information": "Corn, rye including malted/unmalted streams, malted barley and red winter wheat; proportions undisclosed",
+      "grain_confidence": "Exact expression documentation; unknown grain proportions and component recipes remain undisclosed.",
+      "finishing_information": "Red-oak-insert treatment of mature whisky stock, with six further years reported directly by the master blender; whole-blend age remains nineteen years.",
+      "release_year_or_era": "Gooderham & Worts 49 Wellington, 2019 Northern Border Collection Rare Release, nineteen-year Canadian blend at 49% ABV / 98 proof.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact identity, grain, maturation and era authenticated within the stated source limits; review, image and price gates applied separately.",
+      "available_evidence_level": "Authenticated identity with separately documented matched tasting/price/image evidence or explicit limitations.",
       "discovery_sources": [
         {
           "title": "The rise and rise of a scion | Whisky Magazine",
@@ -11624,34 +11624,87 @@
       ],
       "potential_image_source": "https://whiskymag.com/articles/the-rise-and-rise-of-a-scion/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Mark Gillespie",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/gooderham-worts-49-wellington/",
+            "summary": "Gillespie finds a warmly integrated, gently spicy whisky with sweetness and soft wood supporting a persistent finish. It is the most uniformly favorable reading in the inspected set.",
+            "scope": "January 2020, exact 2019 release / 49% / nineteen years."
+          },
+          {
+            "reviewer": "Mark Bylok",
+            "publisher": "Whisky Buzz",
+            "url": "https://whisky.buzz/blog/gooderham-49-wellington-winter-wheat",
+            "summary": "Bylok especially values the sustained finish and layered development, while finding the whisky somewhat sharp, sweet and lighter in body than the flavor range suggests.",
+            "scope": "October 10, 2019; exact release. Corby supplied samples and accommodations, as disclosed by the author."
+          },
+          {
+            "reviewer": "Eric Burke",
+            "publisher": "BOURBON GUY",
+            "url": "https://www.bourbonguy.com/blog/2022/5/26/b4hh5ubra3o96ywvs1tetz6x15o4my",
+            "summary": "Burke likes its silky delivery and growing spice but finds a comparatively modest finish length. His enthusiasm remains a discretionary splurge rather than proof of universal bargain status.",
+            "scope": "May 26, 2022; purchased exact 49% / nineteen-year / 750 mL bottle."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 155
+      "deterministic_order": 155,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-024",
+      "publication_sources": [
+        {
+          "title": "Direct Livermore interview",
+          "url": "https://whiskymag.com/articles/the-rise-and-rise-of-a-scion/",
+          "role": "October 18, 2019: nineteen-year / 49%, wheat component and red-oak inserts with six-year treated-stock stage."
+        },
+        {
+          "title": "Historical U.S. ordinary-blend comparison",
+          "url": "https://scotchnoob.com/2020/06/21/gooderham-and-worts-four-grain/",
+          "role": "June 2020 U.S. USD 35 purchase used only as a near-era budget comparator; the 2026 offer is not substituted."
+        },
+        {
+          "title": "WhiskyCast — matched tasting",
+          "url": "https://whiskycast.com/ratings/gooderham-worts-49-wellington/",
+          "role": "January 2020, exact 2019 release / 49% / nineteen years."
+        },
+        {
+          "title": "Whisky Buzz — matched tasting",
+          "url": "https://whisky.buzz/blog/gooderham-49-wellington-winter-wheat",
+          "role": "October 10, 2019; exact release. Corby supplied samples and accommodations, as disclosed by the author."
+        },
+        {
+          "title": "BOURBON GUY — matched tasting",
+          "url": "https://www.bourbonguy.com/blog/2022/5/26/b4hh5ubra3o96ywvs1tetz6x15o4my",
+          "role": "May 26, 2022; purchased exact 49% / nineteen-year / 750 mL bottle."
+        }
+      ],
+      "accepted_checkpoint": 24
     },
     {
       "id": "gooderham-worts-eleven-souls-2018",
       "canonical_expression_name": "Gooderham & Worts Eleven Souls (2018)",
       "filename": "gooderham-worts-eleven-souls-2018.html",
       "brand_family": "Gooderham & Worts",
-      "producer": "Hiram Walker & Sons / Corby; revived historic Toronto name",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 98.0,
+      "proof": 98,
       "abv": 49.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Eleven components from four grains",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak maturation",
-      "release_year_or_era": "2018",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn, rye including Brasetto and malted/unmalted forms, red winter wheat, and barley in malted/unmalted forms; exact proportions undisclosed",
+      "grain_confidence": "Exact expression documentation; unknown grain proportions and component recipes remain undisclosed.",
+      "finishing_information": "Mixed oak maturation; no separate secondary finish authenticated.",
+      "release_year_or_era": "Gooderham & Worts Eleven Souls, 2018 Northern Border Collection release, 49% ABV / 98 proof, NAS; eleven selected components/casks, not eleven years.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact identity, grain, maturation and era authenticated within the stated source limits; review, image and price gates applied separately.",
+      "available_evidence_level": "Authenticated identity with separately documented matched tasting/price/image evidence or explicit limitations.",
       "discovery_sources": [
         {
           "title": "Gooderham and Worts Eleven Souls « The Rum Howler Blog",
@@ -11661,34 +11714,82 @@
       ],
       "potential_image_source": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/gooderham-and-worts-eleven-souls/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/gooderham-worts-eleven-souls",
+            "summary": "Phillips praises the coherence of distinct grain voices, a developed fruit-and-spice core and energetic complexity. His high recommendation is used as sensory evidence, not converted into a native category endpoint.",
+            "scope": "Exact 2018 Eleven Souls / 49% / NAS review."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/gooderham-and-worts-eleven-souls/",
+            "summary": "Dykstra finds richness, repeated balance and a comfortable substantial texture through the ending. His packaging dissatisfaction is separate from the liquid assessment, and rum-like flavor does not prove rum addition.",
+            "scope": "September 24, 2019, exact 2018 release; sensory sections rather than presentation points."
+          },
+          {
+            "reviewer": "Drams of Whisky reviewer",
+            "publisher": "Drams of Whisky",
+            "url": "https://dramsofwhisky.com/reviews/gooderham-worts-eleven-souls.html",
+            "summary": "The taster finds an appealing creamy, sweet-spicy blend that fills a useful place in the collection, but personally prefers other bottles in the 2018 series. This more measured reaction is retained.",
+            "scope": "Tasted November 8, 2018; exact 49% Eleven Souls, not an assumed Little Trinity review."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 156
+      "deterministic_order": 156,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-024",
+      "publication_sources": [
+        {
+          "title": "Corby 2019 annual report",
+          "url": "https://corby.ca/wp-content/uploads/Corby-2019-Annual-Report.pdf",
+          "role": "Primary second-series release chronology; no current ownership percentage assumed from old reports."
+        },
+        {
+          "title": "Distiller — matched tasting",
+          "url": "https://distiller.com/spirits/gooderham-worts-eleven-souls",
+          "role": "Exact 2018 Eleven Souls / 49% / NAS review."
+        },
+        {
+          "title": "The Rum Howler Blog — matched tasting",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/gooderham-and-worts-eleven-souls/",
+          "role": "September 24, 2019, exact 2018 release; sensory sections rather than presentation points."
+        },
+        {
+          "title": "Drams of Whisky — matched tasting",
+          "url": "https://dramsofwhisky.com/reviews/gooderham-worts-eleven-souls.html",
+          "role": "Tasted November 8, 2018; exact 49% Eleven Souls, not an assumed Little Trinity review."
+        }
+      ],
+      "accepted_checkpoint": 24
     },
     {
       "id": "gooderham-worts-four-grain",
       "canonical_expression_name": "Gooderham & Worts Four Grain",
       "filename": "gooderham-worts-four-grain.html",
       "brand_family": "Gooderham & Worts",
-      "producer": "Hiram Walker & Sons / Corby; revived historic Toronto name",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
       "proof": 88.8,
       "abv": 44.4,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye, wheat, barley; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Multiple oak regimes",
-      "release_year_or_era": "2015 revival",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn, rye, wheat and barley; exact ratios undisclosed",
+      "grain_confidence": "Exact expression documentation; unknown grain proportions and component recipes remain undisclosed.",
+      "finishing_information": "Mixed oak maturation; no separate secondary finish authenticated.",
+      "release_year_or_era": "Gooderham & Worts Four Grain, modern 2015-revival NAS Canadian blend, 44.4% ABV / 88.8 proof, 750 mL; current exact producer photograph reads 44.4%.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact identity, grain, maturation and era authenticated within the stated source limits; review, image and price gates applied separately.",
+      "available_evidence_level": "Authenticated identity with separately documented matched tasting/price/image evidence or explicit limitations.",
       "discovery_sources": [
         {
           "title": "Canadian Whisky – JP Wiser's Experience",
@@ -11698,34 +11799,80 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/collections/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2016/01/13/gooderham-worts-four-grain-whisky/",
+            "summary": "Selfbuilt likes the persistent grain spice and comparatively satisfying ending, but notes a solvent-like initial aroma that improves with rest and limited visibility of some grains beneath the rye character.",
+            "scope": "January 13, 2016, exact Four Grain / 44.4%; direct notes, not the worldwide meta-score."
+          },
+          {
+            "reviewer": "The Scotch Noob",
+            "publisher": "The Scotch Noob",
+            "url": "https://scotchnoob.com/2020/06/21/gooderham-and-worts-four-grain/",
+            "summary": "The reviewer finds the sweetness poorly integrated with simple grain/spice development and an abruptly fading, solvent-like ending. Water offers little improvement in this sample.",
+            "scope": "June 21, 2020, exact blend A.A1129 / 44.4%, personally purchased in California."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 157
+      "deterministic_order": 157,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-024",
+      "publication_sources": [
+        {
+          "title": "Producer current Four Grain product",
+          "url": "https://shop.jpwisers.com/products/gooderham-worts-canadian-whisky",
+          "role": "Current exact image visibly states 44.4% / 750 mL; rounded 44% body text distinguished."
+        },
+        {
+          "title": "Livermore on the 2015 revival",
+          "url": "https://whiskymag.com/articles/the-rise-and-rise-of-a-scion/",
+          "role": "Primary interview confirms four grain identities and revival chronology."
+        },
+        {
+          "title": "Exact current U.S. offer",
+          "url": "https://www.caskers.com/gooderham-worts-four-grain-whisky/",
+          "role": "October 15, 2026 retrieved page: USD 23.99 / 750 mL / 88.8 proof; retailer sensory copy is not an independent review."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis — matched tasting",
+          "url": "https://whiskyanalysis.com/index.php/2016/01/13/gooderham-worts-four-grain-whisky/",
+          "role": "January 13, 2016, exact Four Grain / 44.4%; direct notes, not the worldwide meta-score."
+        },
+        {
+          "title": "The Scotch Noob — matched tasting",
+          "url": "https://scotchnoob.com/2020/06/21/gooderham-and-worts-four-grain/",
+          "role": "June 21, 2020, exact blend A.A1129 / 44.4%, personally purchased in California."
+        }
+      ],
+      "accepted_checkpoint": 24
     },
     {
       "id": "gooderham-worts-little-trinity-17-year-2017",
       "canonical_expression_name": "Gooderham & Worts Little Trinity 17 Year (2017)",
       "filename": "gooderham-worts-little-trinity-17-year-2017.html",
       "brand_family": "Gooderham & Worts",
-      "producer": "Hiram Walker & Sons / Corby; revived historic Toronto name",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
-      "age_statement_years": 17.0,
-      "age_information": "17 years",
-      "grain_information": "Corn, rye and wheat",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
-      "release_year_or_era": "2017",
+      "age_statement_years": 17,
+      "age_information": "17 Years",
+      "grain_information": "Corn, rye and wheat; barley absent from the documented three-grain formulation",
+      "grain_confidence": "Exact expression documentation; unknown grain proportions and component recipes remain undisclosed.",
+      "finishing_information": "Mixed oak maturation; no separate secondary finish authenticated.",
+      "release_year_or_era": "Gooderham & Worts Little Trinity Three Grain, 2017 Rare Release, seventeen-year Canadian blend at 45% ABV / 90 proof, 750 mL.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact identity, grain, maturation and era authenticated within the stated source limits; review, image and price gates applied separately.",
+      "available_evidence_level": "Authenticated identity with separately documented matched tasting/price/image evidence or explicit limitations.",
       "discovery_sources": [
         {
           "title": "Gooderham & Worts Little Trinity 17yo — Canadian Whisky",
@@ -11735,34 +11882,87 @@
       ],
       "potential_image_source": "https://canadianwhisky.org/blog/reviews/gooderham-worts-little-trinity-17yo.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/gooderham-worts-little-trinity-17yo.html",
+            "summary": "De Kergommeaux finds depth and mature wood structure with well-controlled tannins, allowing the grain voices and creamy sweetness to coexist.",
+            "scope": "August 29, 2017 preview, exact Little Trinity / 17 / 45%; quoted pre-release price was then provisional."
+          },
+          {
+            "reviewer": "Mark Gillespie",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/gooderham-worts-little-trinity-2017-edition/",
+            "summary": "Gillespie finds fresh tartness and sweet supporting structure that persist through a long finish. His account is more emphatic about length than the Connosr sample.",
+            "scope": "November 2017, exact seventeen-year / 45% annual release."
+          },
+          {
+            "reviewer": "OdysseusUnbound",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/gooderham-and-worts-little-trinity-17-year-old-whisky-review-11977",
+            "summary": "The taster values the thick texture and developed harmony after resting or slight dilution, yet finds the nose restrained and the ending only medium with some tannic dryness. Personal excitement is separated from perceived execution.",
+            "scope": "April 11, 2018, exact 45% Little Trinity; the related blog version is not a second independent vote."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 158
+      "deterministic_order": 158,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-024",
+      "publication_sources": [
+        {
+          "title": "Original Corby announcement",
+          "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+          "role": "September 19, 2017 primary release identity, October availability, grains and CAD 79.95 / 750 mL."
+        },
+        {
+          "title": "Unavailable U.S. marketplace reference",
+          "url": "https://caskcartel.com/products/gooderham-worts-17-year-old-little-trinity-ltd-release-canadian-whisky",
+          "role": "Unavailable/backordered premium excluded from regular Value; not treated as a current consumer shelf alternative."
+        },
+        {
+          "title": "Canadian Whisky — matched tasting",
+          "url": "https://canadianwhisky.org/blog/reviews/gooderham-worts-little-trinity-17yo.html",
+          "role": "August 29, 2017 preview, exact Little Trinity / 17 / 45%; quoted pre-release price was then provisional."
+        },
+        {
+          "title": "WhiskyCast — matched tasting",
+          "url": "https://whiskycast.com/ratings/gooderham-worts-little-trinity-2017-edition/",
+          "role": "November 2017, exact seventeen-year / 45% annual release."
+        },
+        {
+          "title": "Whisky Connosr — matched tasting",
+          "url": "https://www.connosr.com/gooderham-and-worts-little-trinity-17-year-old-whisky-review-11977",
+          "role": "April 11, 2018, exact 45% Little Trinity; the related blog version is not a second independent vote."
+        }
+      ],
+      "accepted_checkpoint": 24
     },
     {
       "id": "j-p-wiser-s-10-year",
       "canonical_expression_name": "J.P. Wiser's 10 Year",
       "filename": "j-p-wiser-s-10-year.html",
       "brand_family": "J.P. Wiser's",
-      "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "age_statement_years": 10,
+      "age_information": "10 Years",
+      "grain_information": "Corn and rye distillates; exact proportions undisclosed",
+      "grain_confidence": "Exact expression documentation; unknown grain proportions and component recipes remain undisclosed.",
+      "finishing_information": "Mixed oak maturation; no separate secondary finish authenticated.",
+      "release_year_or_era": "J.P. Wiser’s 10 Year Old / age-stated Triple Barrel, Canadian corn-and-rye blend, 40% ABV / 80 proof, 750 mL; current producer age-bearing photograph.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact identity, grain, maturation and era authenticated within the stated source limits; review, image and price gates applied separately.",
+      "available_evidence_level": "Authenticated identity with separately documented matched tasting/price/image evidence or explicit limitations.",
       "discovery_sources": [
         {
           "title": "Whisky Family - J.P. Wiser's",
@@ -11772,13 +11972,59 @@
       ],
       "potential_image_source": "https://www.jpwisers.com/en-us/whisky-family/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Jason Hambrey",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/j-p-wisers-10-year-old-triple-barrel-whisky-review-14647",
+            "summary": "Hambrey’s blind sample climbs across repeat tastings, showing harmonious corn-and-rye development and mature texture. He stresses subtlety rather than immediate force.",
+            "scope": "January 31, 2023, exact age-stated ten-year / 40%; not older NAS Triple Barrel."
+          },
+          {
+            "reviewer": "Josh",
+            "publisher": "Sipology",
+            "url": "https://sipologyblog.com/2024/07/01/wisers-10-year-old-triple-barrel/",
+            "summary": "Josh finds a creamy, balanced sipper with a little heat, but notes that strong mixers and even bitters can dominate it. His strongest recommendation is neat or on ice.",
+            "scope": "July 1, 2024, exact corn/rye ten-year / 40%; historical Michigan minimum is not the current offer."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 159
+      "deterministic_order": 159,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-024",
+      "publication_sources": [
+        {
+          "title": "Producer exact ten-year record",
+          "url": "https://www.jpwisers.com/en-us/product/jp-wisers-10-year-old-canadian-whisky/",
+          "role": "Primary ten years / 40% / corn-rye / three cask types; Ontario shipping context remains explicit."
+        },
+        {
+          "title": "Producer current exact pack",
+          "url": "https://shop.jpwisers.com/products/jp-wisers-10-year-old-canadian-whisky",
+          "role": "Current age-bearing 750 mL / 40% Triple Barrel image; not a hockey edition."
+        },
+        {
+          "title": "Exact retrieved U.S. price",
+          "url": "https://www.caskers.com/j-p-wiser-s-10-year-old-blended-canadian-whisky/",
+          "role": "October 15, 2026 rendered page shows USD 30.99, size 750 mL, 80 proof; retailer recipe copy is not used to invent ratios."
+        },
+        {
+          "title": "Whisky Connosr — matched tasting",
+          "url": "https://www.connosr.com/j-p-wisers-10-year-old-triple-barrel-whisky-review-14647",
+          "role": "January 31, 2023, exact age-stated ten-year / 40%; not older NAS Triple Barrel."
+        },
+        {
+          "title": "Sipology — matched tasting",
+          "url": "https://sipologyblog.com/2024/07/01/wisers-10-year-old-triple-barrel/",
+          "role": "July 1, 2024, exact corn/rye ten-year / 40%; historical Michigan minimum is not the current offer."
+        }
+      ],
+      "accepted_checkpoint": 24
     },
     {
       "id": "j-p-wiser-s-12-year-overproof",
