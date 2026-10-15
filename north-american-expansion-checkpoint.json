@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 20,
+  "checkpoint": 21,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -975,11 +975,15 @@
     "forty-creek-small-batch-reserve-2007.html",
     "forty-creek-taproom-2021.html",
     "forty-creek-the-forager-botanical-whisky.html",
-    "forty-creek-three-grain-harmony-2015.html"
+    "forty-creek-three-grain-harmony-2015.html",
+    "forty-creek-three-grain-20th-anniversary-2020.html",
+    "forty-creek-unity-2018.html",
+    "forty-creek-victory-2019.html",
+    "forty-creek-xx-legacy-2026.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 107,
-  "dossier_count": 960,
+  "canadian_added": 111,
+  "dossier_count": 964,
   "history": [
     {
       "checkpoint": 1,
@@ -1688,9 +1692,46 @@
         "Three Grain Harmony authenticated as 2015 Lot 2015 / forty-three percent / 9,000 bottles, distinct from original Three Grain and the 2020 reprise. Attributed four-year corn and older grain stocks do not establish a numeric whole-blend age. Divergent older rye ages stay unresolved; no wine-cask finish inferred from flavor notes.",
         "Harmony favorable de Kergommeaux/Burke accounts retained alongside substantive Vanderkruk and Quebec counterevidence; adjacent Port Wood and Founder's reviews are not merged. CAD 69.95 original LCBO context stays Canadian, with U.S. Value N/A. All baseline, completed ledger and prior expansion bytes remain preserved; categorical UI normalization stays deferred."
       ]
+    },
+    {
+      "checkpoint": 21,
+      "files": [
+        "forty-creek-three-grain-20th-anniversary-2020.html",
+        "forty-creek-unity-2018.html",
+        "forty-creek-victory-2019.html",
+        "forty-creek-xx-legacy-2026.html"
+      ],
+      "parent_commit": "89da1a7e3993d66652dd65eb190472512fd7f829",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 8113,
+        "functional_cases_passed": 447,
+        "responsive_pages_rendered": 420,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 121,
+        "failures": 0
+      },
+      "additional_preservation": "All 135 earlier expansion dossiers and all 960 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Final four pending Forty Creek candidates 141–144 processed in unchanged order. Family-boundary batch deliberately contains four dossiers; next family is not researched before acceptance/push. Exact photographs visually inspected and embedded for all four.",
+        "Three Grain 20th Anniversary authenticated as distinct 2020 forty-percent / 9,200-bottle commemorative reprise of original 2000 whisky, not the 2015 Harmony or twenty-year-aged liquid. July independent account predates October producer announcement; exact first sale not invented. Original Ontario-only CAD 59.95 remains separate from U.S. Value N/A.",
+        "Three Grain matched de Kergommeaux and Women's Whisky World sensory accounts inspected; producer interview and tasting roles remain separate. Component grain proportions, complete ages and distinct finish remain unknown; wine-like flavor does not establish wine addition.",
+        "Unity verified 2018 Lot 012 / forty-three percent. High-mocha stave treatment and Starboard wine addition distinguished from an exotic wood species, coffee infusion or proven port-cask finish. Four-year subset, ten-year corn and fifteen-year wine are attributed components, never a whole-blend age.",
+        "Unity Dykstra favorable integration/persistence and talexander more reserved sweetness/medium-finish accounts retained. Michigan Unity 2018 eighty-proof listing conflicts with authenticated eighty-six-proof identity; Virginia PDF URLs returned 404 and unavailable retail was-prices lacked a reliable historical offer date. USD Cost and Value remain N/A rather than forcing a match.",
+        "Victory authenticated as 2019 Lot 013 / forty-three percent, high-vanilla treatment plus local Starboard fortified wine. Dykstra older-corn component account and direct Ashburn interview's absence of Unity's old-corn centerpiece are explicitly unresolved, not harmonized into a fabricated recipe. Unsupported Chilean provenance remark excluded.",
+        "Victory independent Advocate praise retained beside Dykstra youthful heat/short-finish and talexander wine-tannin counterevidence. Commemorative title and imprecise anniversary arithmetic in secondary reviews do not become a whisky age or vintage.",
+        "Victory exact historical U.S. consumer context visually verified in official Michigan price book: printed page 25 / PDF page 32, code 21350, 86 proof, 750 mL, USD 74.99 minimum shelf, effective August 1–October 30, 2021. Consumer shelf column distinguished from wholesale/licensee and excludes sales tax. Provisional Value uses this historical period, not current NC.",
+        "XX Legacy producer and LCBO authenticate 2026 twentieth annual release / fifty-one percent / 750 mL, American-oak then stout-seasoned Canadian-oak then European-oak process, no label age, and CAD 99.95. Verified bottle/box image shows 2007–2026. Twenty is a series count, not age. Exact grain set/stage durations unknown and direct beer addition not inferred.",
+        "XX Legacy identity is sufficient for inclusion but no substantive matched independent tasting was authenticated after two-engine targeted review research. Producer sensory copy, official retail flavor notes, event marketing and availability discussions are not substituted; Quality, Value and Overall all remain N/A with explicit limitation.",
+        "Forty Creek queue exhausted at 29 accepted / 1 excluded / 0 pending; Crown Royal remains complete and untouched. Category-conscious universal calibration, full-precision Overall sorting, immutable baseline and all prior bytes preserved. Dedicated categorical UI normalization remains deferred until the entire expansion ledger is exhausted."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: forty-creek-three-grain-20th-anniversary-2020",
+  "next_action": "Research next pending expression in deterministic order: gibson-s-finest-bold-8-year",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1698,24 +1739,24 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 20,
+      "checkpoint": 21,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 960,
-      "new_dossiers": 135,
-      "html_files_structurally_checked": 136,
+      "dossiers": 964,
+      "new_dossiers": 139,
+      "html_files_structurally_checked": 140,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 7975,
-      "local_references_checked": 2189,
-      "embedded_image_occurrences_decoded": 117,
-      "unique_image_payloads_decoded": 117,
-      "image_dossiers_added": 117,
+      "checks": 8113,
+      "local_references_checked": 2229,
+      "embedded_image_occurrences_decoded": 121,
+      "unique_image_payloads_decoded": 121,
+      "image_dossiers_added": 121,
       "numeric_counts": {
-        "quality": 125,
-        "value": 91,
-        "overall": 91
+        "quality": 128,
+        "value": 92,
+        "overall": 92
       },
       "failure_count": 0,
       "failures": []
@@ -1725,7 +1766,7 @@
       "browser": "Chromium",
       "browser_version": "141.0.7390.0",
       "functional_cases_passed": 447,
-      "responsive_cases": 408,
+      "responsive_cases": 420,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1733,7 +1774,7 @@
     }
   },
   "updated_at": "2026-10-15",
-  "last_parent_commit": "1195c3a9c27633e0efa4905a0fe0fdd597a7cb70",
+  "last_parent_commit": "89da1a7e3993d66652dd65eb190472512fd7f829",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",

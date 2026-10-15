@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 90,
-    "accepted": 135
+    "pending": 86,
+    "accepted": 139
   },
   "entries": [
     {
@@ -10474,19 +10474,19 @@
       "canonical_expression_name": "Forty Creek Three Grain — 20th Anniversary (2020)",
       "filename": "forty-creek-three-grain-20th-anniversary-2020.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and barley",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn, rye and barley grain-whisky blend; exact percentages and component ages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak",
+      "finishing_information": "Oak-matured three-grain blend; no distinct secondary finish authenticated.",
       "release_year_or_era": "2020",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -10498,32 +10498,72 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/3432-ywwlc",
+            "summary": "De Kergommeaux finds generous texture, fruit and barley character with expressive heat and rye spice. His assessment favors the revived profile, without establishing a native reference-class endpoint.",
+            "scope": "July 21, 2020; explicit Twentieth Anniversary / 40%, not original Three Grain."
+          },
+          {
+            "reviewer": "Women’s Whisky World tasting writer",
+            "publisher": "Women’s Whisky World",
+            "url": "https://womenswhiskyworld.blog/2021/06/14/forty-creek-the-ontario-distillery-that-put-canadian-whisky-back-into-the-limelight/",
+            "summary": "The writer finds an involved combination of spice, corn sweetness and barley character, with a dry-sweet ending. Water changes the emphasis, and slow assessment is preferred.",
+            "scope": "June 14, 2021 feature; exact Three Grain 20th Anniversary / 40% tasting section, separated from the accompanying producer interview."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 141
+      "deterministic_order": 141,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-021",
+      "publication_sources": [
+        {
+          "title": "2020 Three Grain and Resolve — producer",
+          "url": "https://www.newswire.ca/news-releases/award-winning-whisky-distillery-forty-creek-welcomes-two-limited-releases-three-grain-and-resolve-866050380.html",
+          "role": "Primary 2000 origin, Ontario-only commemorative release, bottle count and CAD price."
+        },
+        {
+          "title": "Three Grain 2020 — de Kergommeaux",
+          "url": "https://canadianwhisky.org/blog/3432-ywwlc",
+          "role": "Complete independent exact-edition account and early 2020 review date."
+        },
+        {
+          "title": "Three Grain 20th Anniversary — Women’s Whisky World",
+          "url": "https://womenswhiskyworld.blog/2021/06/14/forty-creek-the-ontario-distillery-that-put-canadian-whisky-back-into-the-limelight/",
+          "role": "Full exact-expression independent tasting section, distinct from adjacent interview and other bottles."
+        },
+        {
+          "title": "Producer release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact commemorative front label / forty-percent photograph; anniversary is not liquid age."
+        }
+      ]
     },
     {
       "id": "forty-creek-unity-2018",
       "canonical_expression_name": "Forty Creek Unity (2018)",
       "filename": "forty-creek-unity-2018.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 86,
+      "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian grain-whisky blend including an attributed ten-year corn component; exact full recipe and ratios undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Wood treatment and port",
+      "finishing_information": "High-mocha stave treatment and Starboard fortified-wine blending addition; exact percentages and contact durations undisclosed.",
       "release_year_or_era": "2018",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -10535,32 +10575,72 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-unity/",
+            "summary": "Dykstra finds harmonious aroma-to-palate development, full texture and a long spicy ending, with enjoyable results neat, on ice and in an Old Fashioned.",
+            "scope": "November 23, 2018; exact Unity; sensory sections used without converting packaging-inclusive points."
+          },
+          {
+            "reviewer": "talexander",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/forty-creek-unity-whisky-review-12460",
+            "summary": "The taster finds pleasant fruit development and a medium chocolate-and-fruit ending, but the sweetness and wine emphasis keep it from being a favorite. Water increases the syrupy feel.",
+            "scope": "November 24, 2018; explicitly Lot 012 / 43%. Flavor preference and execution remain distinct."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 142
+      "deterministic_order": 142,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-021",
+      "publication_sources": [
+        {
+          "title": "Unity — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-unity/",
+          "role": "Contemporary exact production account and full favorable independent tasting."
+        },
+        {
+          "title": "Unity Lot 012 — talexander",
+          "url": "https://www.connosr.com/forty-creek-unity-whisky-review-12460",
+          "role": "Full more-reserved exact-lot review; production claims are not silently promoted from commenter guesses."
+        },
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact 2018 / Lot 012 / forty-three-percent photograph and treatment."
+        },
+        {
+          "title": "Michigan 2021 price book",
+          "url": "https://www.michigan.gov/documents/lara/8-1-21_PRICE_BOOK_731050_7.pdf",
+          "role": "Printed page 25 / PDF page 32; Unity record has eighty-proof conflict and is not assigned as price for this authenticated eighty-six-proof dossier."
+        }
+      ]
     },
     {
       "id": "forty-creek-victory-2019",
       "canonical_expression_name": "Forty Creek Victory (2019)",
       "filename": "forty-creek-victory-2019.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 86,
+      "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn and rye documented in the contemporary Advocate account; Dykstra also reports barley in a four-year base subset. Exact complete grain recipe and ratios remain unverified.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Wood treatment and port",
+      "finishing_information": "High-vanilla wood-stave treatment plus the producer’s Starboard fortified-wine addition; specific treated-stock accounts remain attributed.",
       "release_year_or_era": "2019",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -10572,32 +10652,89 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Whisky Advocate",
+            "url": "https://whiskyadvocate.com/Forty-Creek-Victory-43",
+            "summary": "De Kergommeaux finds creamy, fruit-rich development with sweetness keeping drying wood in check and good peppery activity. It is the strongest favorable interpretation in the inspected set.",
+            "scope": "Fall 2019, exact Victory / 43%; source separately reports U.S. allocation."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-victory/",
+            "summary": "Dykstra finds attractive sweet-spice elements but youthful astringency and an unexpectedly short ending. Ice improves comfort without fully resolving the heat; he questions the premium.",
+            "scope": "November 30, 2019; exact annual Victory, sensory sections rather than packaging points."
+          },
+          {
+            "reviewer": "talexander",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/forty-creek-victory-whisky-review-13149",
+            "summary": "The taster finds substantial sweet corn and body, but enveloping wine and a rough tannic ending reduce coherence. Water provides some improvement.",
+            "scope": "December 24, 2019; exact 43% release. The reviewer’s unsupported Chilean-wine remark is not adopted as provenance."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 143
+      "deterministic_order": 143,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-021",
+      "publication_sources": [
+        {
+          "title": "Victory — Whisky Advocate",
+          "url": "https://whiskyadvocate.com/Forty-Creek-Victory-43",
+          "role": "Exact 2019 / forty-three-percent independent review and attributed process."
+        },
+        {
+          "title": "Victory — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-victory/",
+          "role": "Complete contrary sensory assessment and attributed component recipe."
+        },
+        {
+          "title": "Victory — talexander",
+          "url": "https://www.connosr.com/forty-creek-victory-whisky-review-13149",
+          "role": "Substantive wine/tannin counterpoint; speculative provenance excluded."
+        },
+        {
+          "title": "Ashburn interview — Blair Phillips",
+          "url": "https://whiskymag.com/articles/superstition-aint-the-way/",
+          "role": "Direct 2019 interview component/treatment account, retained beside conflicting Dykstra component detail."
+        },
+        {
+          "title": "Michigan 2021 price book",
+          "url": "https://www.michigan.gov/documents/lara/8-1-21_PRICE_BOOK_731050_7.pdf",
+          "role": "Visually inspected printed page 25 / PDF page 32: code 21350, 86 proof, 750 mL and USD 74.99 minimum shelf; effective dates on cover."
+        },
+        {
+          "title": "Producer release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact Lot 013 photograph, 2019 identity and high-vanilla treatment."
+        }
+      ]
     },
     {
       "id": "forty-creek-xx-legacy-2026",
       "canonical_expression_name": "Forty Creek XX Legacy (2026)",
       "filename": "forty-creek-xx-legacy-2026.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 102,
+      "abv": 51.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian grain-whisky blend; exact grain set, component ages and proportions undisclosed. Producer tasting notes naming corn or malt do not establish a complete recipe.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Cask strength; exact regime to verify",
+      "finishing_information": "American oak, stout-seasoned Canadian oak, then European oak; durations undisclosed.",
       "release_year_or_era": "2026",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -10609,13 +10746,33 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/whisky-weekend-2026/",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 144
+      "deterministic_order": 144,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-021",
+      "publication_sources": [
+        {
+          "title": "XX Legacy — producer",
+          "url": "https://fortycreekwhisky.com/product/xx-legacy/",
+          "role": "Exact identity, strength, size, three oak stages, current Canadian price and bottle/box photograph."
+        },
+        {
+          "title": "Whisky Weekend 2026 — producer",
+          "url": "https://fortycreekwhisky.com/whisky-weekend-2026/",
+          "role": "2026 introduction context, September 19–20, third cask-strength and twentieth annual-series position."
+        },
+        {
+          "title": "XX Legacy — LCBO 52327",
+          "url": "https://www.lcbo.com/en/forty-creek-xx-legacy-cask-strength-52327",
+          "role": "Independent official retailer identity check, 51%, 750 mL and CAD 99.95; flavor copy not treated as sensory review."
+        }
+      ]
     },
     {
       "id": "gibson-s-finest-bold-8-year",
