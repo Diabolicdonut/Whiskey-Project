@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 61,
-    "accepted": 164
+    "pending": 56,
+    "accepted": 169
   },
   "entries": [
     {
@@ -12814,17 +12814,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 6.0,
-      "age_information": "6 years",
-      "grain_information": "Two-grain blend",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Six barrel types",
+      "proof": 80,
+      "abv": 40.0,
+      "age_statement_years": 6,
+      "age_information": "6 Years",
+      "grain_information": "Corn and rye; contemporary technical account reports 19% rye, not a disclosed co-fermented mash bill.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Six cask types in a blend; sequence, durations and proportions are not authenticated.",
       "release_year_or_era": "2019",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -12835,13 +12835,48 @@
       ],
       "potential_image_source": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Toronto Whisky Society panel",
+            "publisher": "Toronto Whisky Society",
+            "url": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+            "summary": "The panel praises depth, sweet/spice balance and cask variety, placing Robinson among its preferred Alumni bottles. Cola, fruit and oak remain prominent.",
+            "scope": "Exact 2019 six-year / 40% blend; panel counted as one publisher."
+          },
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2019/11/14/j-p-wisers-alumni-series-larry-robinson-6-year-old/",
+            "summary": "Selfbuilt finds a layered fruity nose but unexpectedly sharp spice and youthful heat. Dry paper-like oak and bitterness weaken the finish; the enthusiasm is qualified.",
+            "scope": "Exact six-year / 40% November 2019 review; sensory paper language is not a contaminant finding."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 170
+      "deterministic_order": 170,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-027",
+      "publication_sources": [
+        {
+          "title": "Producer named record and verified label",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-larry-robinson",
+          "role": "Exact player, age, strength, photograph and current Ontario CAD offer."
+        },
+        {
+          "title": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+          "role": "August 22, 2019 blender-context component reporting and panel tasting; ratios are attributed."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/14/j-p-wisers-alumni-series-larry-robinson-6-year-old/",
+          "role": "November 14, 2019 matched six-year / 40% sample; aggregate table is not additional tasting evidence."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-alumni-wendel-clark",
@@ -12853,15 +12888,15 @@
       "whisky_category": "Canadian Single Grain / 100% Rye",
       "proof": 83.2,
       "abv": 41.6,
-      "age_statement_years": 11.0,
-      "age_information": "11 years",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Ex-bourbon maturation",
+      "age_statement_years": 11,
+      "age_information": "11 Years",
+      "grain_information": "100% rye; documented technical accounts identify unmalted rye and both column-only and column/pot-distilled components.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Bourbon-cask maturation primary-confirmed; virgin-oak rye component reported independently. No whole-blend secondary finishing sequence established.",
       "release_year_or_era": "2018",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -12872,13 +12907,53 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/alumni-whisky-series-wendel-clark",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2018/12/19/j-p-wisers-alumni-series-wendel-clark-100-rye-11-years-old/",
+            "summary": "Selfbuilt enjoys rich caramel-fruit character, creaminess and controlled spice, but finds less complexity and a less persistent finish than Lot 40. Sweetness and slight bitterness remain visible.",
+            "scope": "December 19, 2018 eleven-year / 41.6%; no aggregate score conversion."
+          },
+          {
+            "reviewer": "OdysseusUnbound",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/wisers-alumni-series-wendel-clark-11-year-old-rye-whisky-review-12493",
+            "summary": "The purchased-bottle account praises a round palate, citrus, warm spice and a medium finish; a few drops of water improve expression. The reviewer still finds Lot 40 broader in flavor.",
+            "scope": "December 8, 2018 exact eleven-year / 41.6%; one individual account."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 171
+      "deterministic_order": 171,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-027",
+      "publication_sources": [
+        {
+          "title": "Producer named record and verified label",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-wendel-clark",
+          "role": "Exact eleven-year / 41.6% / all-rye photograph resolves rounded shop strength."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2018/12/19/j-p-wisers-alumni-series-wendel-clark-100-rye-11-years-old/",
+          "role": "December 19, 2018 matched sample; component account and moderate-finish reservation."
+        },
+        {
+          "title": "OdysseusUnbound — Whisky Connosr",
+          "url": "https://www.connosr.com/wisers-alumni-series-wendel-clark-11-year-old-rye-whisky-review-12493",
+          "role": "December 8, 2018 exact 41.6% sample; recipe phrasing includes an explicit reviewer uncertainty."
+        },
+        {
+          "title": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+          "role": "Conflicting component proportions/narrative not silently harmonized into a precise recipe."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-alumni-yvan-cournoyer",
@@ -12888,17 +12963,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 12.0,
-      "age_information": "12 years",
-      "grain_information": "Three-grain blend",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
+      "proof": 80,
+      "abv": 40.0,
+      "age_statement_years": 12,
+      "age_information": "12 Years",
+      "grain_information": "Corn, rye and malted barley; proportions undisclosed. Multiple rye distillation streams are not extra grains.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Used Canadian-whisky, bourbon and virgin-oak component casks reported; no authenticated separate sequential finish.",
       "release_year_or_era": "2019",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -12909,13 +12984,53 @@
       ],
       "potential_image_source": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2020/07/30/j-p-wisers-alumni-series-yvan-cournoyer-12-year-old/",
+            "summary": "Selfbuilt describes refined dried-fruit and floral character over sweet corn, but a light mouthfeel and quick, mildly bitter ending. A request for higher strength qualifies the praise.",
+            "scope": "July 30, 2020 exact twelve-year / 40%."
+          },
+          {
+            "reviewer": "André, Patrick and Martin",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/j-p-wisers-the-alumni-collection-yvan-cournoyer-12-ans/",
+            "summary": "The panel finds appealing fruit and forceful rye spice. André and Martin specifically criticize diluted or weak texture; Patrick finds useful intensity and a medium spicy finish.",
+            "scope": "2019–2020 twelve-year / 40%; differences within the panel retained."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 172
+      "deterministic_order": 172,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-027",
+      "publication_sources": [
+        {
+          "title": "Producer named record and verified label",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-yvan-cournoyer-1",
+          "role": "Exact twelve-year / 40% label and dated Ontario price; 42% shop field conflicts."
+        },
+        {
+          "title": "Corby Captains release",
+          "url": "https://www.newswire.ca/news-releases/meet-the-captains-j-p-wiser-s-latest-release-of-the-alumni-whisky-series-873125983.html",
+          "role": "September 24, 2019 primary release identity and three-grain age statement."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2020/07/30/j-p-wisers-alumni-series-yvan-cournoyer-12-year-old/",
+          "role": "July 30, 2020 matched 40% sample and attributed technical account."
+        },
+        {
+          "title": "Québec Whisky",
+          "url": "https://quebecwhisky.com/j-p-wisers-the-alumni-collection-yvan-cournoyer-12-ans/",
+          "role": "January 14, 2020 account with later June 2022 page update; three named panel voices, not three publishers."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-apple",
@@ -12924,18 +13039,18 @@
       "brand_family": "J.P. Wiser's",
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "current",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": 70.0,
+      "whisky_category": "Flavored whiskey",
+      "proof": 70,
       "abv": 35.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky with apple flavor",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "age_information": "NAS",
+      "grain_information": "Canadian-whisky base with natural apple flavor; exact base grains, ratios and sweetening formula undisclosed.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Natural apple flavoring; no applewood cask finish authenticated.",
+      "release_year_or_era": "2017",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -12946,13 +13061,46 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/collections/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/other-spirits/j-p-wisers-review-j-p-wisers-apple-whisky/",
+            "summary": "In a blind comparison with Crown Royal Regal Apple, Dykstra prefers Wiser’s crisper fruit and more evident whisky character. He finds the sweetness excessive, with medium body and a middling-length sugary/spicy finish.",
+            "scope": "May 6, 2018 exact 35% sample. One reviewer; packaging points in the source grade are not used as liquid Quality."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 173
+      "deterministic_order": 173,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-027",
+      "publication_sources": [
+        {
+          "title": "Producer exact Apple record",
+          "url": "https://shop.jpwisers.com/products/jp-wisers-apple-canadian-whisky",
+          "role": "Natural flavor, 35%, NAS named pack and current CAD sale offer."
+        },
+        {
+          "title": "LCBO Apple 474585",
+          "url": "https://www.lcbo.com/en/j-p-wiser-s-apple-whisky-474585",
+          "role": "Control-state expression/strength corroboration; not an independent tasting."
+        },
+        {
+          "title": "Chip Dykstra — full review",
+          "url": "https://therumhowlerblog.com/other-spirits/j-p-wisers-review-j-p-wisers-apple-whisky/",
+          "role": "May 6, 2018 exact 35% tasting, including blind comparison and sweetness reservation."
+        },
+        {
+          "title": "Launch-era review notice",
+          "url": "https://therumhowlerblog.com/2018/05/06/review-j-p-wisers-apple-whisky/",
+          "role": "Same reviewer, not a second tasting; reports nationwide release the previous year."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-canada-2018",
@@ -12962,17 +13110,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 86.6,
-      "abv": 43.3,
+      "proof": 86.8,
+      "abv": 43.4,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed; expression-specific specification verification required",
-      "grain_confidence": "unknown",
-      "finishing_information": "No separate finish",
+      "age_information": "NAS",
+      "grain_information": "Corn and rye; exact proportions undisclosed. Reported older components do not establish a label age.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "No separate secondary finish authenticated; new-oak and Canadian-whisky casks reported in the blend.",
       "release_year_or_era": "2018",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -12983,13 +13131,58 @@
       ],
       "potential_image_source": "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2018/07/14/j-p-wisers-canada-2018/",
+            "summary": "Selfbuilt finds a clean, representative Canadian corn-led profile with acceptable body and a medium, mildly bitter finish, but little depth or surprise. His competent-average conclusion tempers stronger praise.",
+            "scope": "July 14, 2018 exact 43.4% Canada 2018; faint solvent-like sensory language is not a contamination claim."
+          },
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html",
+            "summary": "The favorable account emphasizes wood, caramel, fruit and warming spice, with a long pepper-to-citrus ending. That stronger finish impression differs from Selfbuilt.",
+            "scope": "June 30, 2018 named Canada 2018 review; its 43.3% specification is explicitly disputed."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 174
+      "deterministic_order": 174,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-027",
+      "publication_sources": [
+        {
+          "title": "Corby 2018 issuer announcement",
+          "url": "https://www.newswire.ca/news-releases/jp-wisers-releases-limited-edition-bottles-seasoned-oak-and-canada-2018-686433791.html",
+          "role": "June 25, 2018 primary identity, producer and exact photographed commemorative pack."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2018/07/14/j-p-wisers-canada-2018/",
+          "role": "July 14, 2018 exact 43.4% sample; moderate assessment and NAS scope."
+        },
+        {
+          "title": "Davin de Kergommeaux — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html",
+          "role": "June 30, 2018 favorable review and historical CAD price; 43.3% text conflicts with other matched records."
+        },
+        {
+          "title": "Whiskybase exact release",
+          "url": "https://www.whiskybase.com/whiskies/whisky/113685/jp-wisers-canada-2018",
+          "role": "2018 / 43.4% / 750 mL metadata corroboration; star aggregate is not sensory evidence."
+        },
+        {
+          "title": "Distiller exact Canada 2018 record",
+          "url": "https://distiller.com/spirits/j-p-wiser-s-commemorative-series-canada-2018",
+          "role": "43.4%, NAS and attributed cask/bottle-count account; not used to invent a label age."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-decades-24-year",

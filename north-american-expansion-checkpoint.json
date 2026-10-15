@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 26,
+  "checkpoint": 27,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -1004,11 +1004,16 @@
     "j-p-wiser-s-alumni-darryl-sittler.html",
     "j-p-wiser-s-alumni-dave-keon.html",
     "j-p-wiser-s-alumni-guy-lafleur.html",
-    "j-p-wiser-s-alumni-lanny-mcdonald.html"
+    "j-p-wiser-s-alumni-lanny-mcdonald.html",
+    "j-p-wiser-s-alumni-larry-robinson.html",
+    "j-p-wiser-s-alumni-wendel-clark.html",
+    "j-p-wiser-s-alumni-yvan-cournoyer.html",
+    "j-p-wiser-s-apple.html",
+    "j-p-wiser-s-canada-2018.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 136,
-  "dossier_count": 989,
+  "canadian_added": 141,
+  "dossier_count": 994,
   "history": [
     {
       "checkpoint": 1,
@@ -1940,9 +1945,45 @@
         "Producer Ontario sale offers for Sittler, Keon and McDonald CAD 39.99 / 750 mL checked October 15, 2026; displayed regular CAD 44.95/45.20 distinguished. No dated exact U.S. offer established for the five; all USD Cost, Value and Overall remain N/A. Historical Canadian prices stay explicitly Canadian.",
         "All five numeric Quality assessments carry category-conscious seven-dimension universal diagnostics with thin evidence and dissent explicit. Native Canadian extrema remain unestablished; no U.S. bourbon or straight-rye anchors borrowed. All 825 original hashes and raw rows, 159 prior expansion pages and 984 prior rows, completed image/final ledgers and 238 immutable candidate order pairs preserved. Categorical normalization remains deferred until full ledger exhaustion."
       ]
+    },
+    {
+      "checkpoint": 27,
+      "files": [
+        "j-p-wiser-s-alumni-larry-robinson.html",
+        "j-p-wiser-s-alumni-wendel-clark.html",
+        "j-p-wiser-s-alumni-yvan-cournoyer.html",
+        "j-p-wiser-s-apple.html",
+        "j-p-wiser-s-canada-2018.html"
+      ],
+      "parent_commit": "b6ca1c2d9256631d273860b5c524819309bc5a61",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 9158,
+        "functional_cases_passed": 459,
+        "responsive_pages_rendered": 510,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 151,
+        "failures": 0
+      },
+      "additional_preservation": "All 164 earlier expansion dossiers and all 989 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Candidates 170–174 processed in immutable order: Larry Robinson, Wendel Clark, Yvan Cournoyer, Apple and Canada 2018. Four producer pack photographs and the issuer's exact Canada 2018 promotional photograph visually inspected and embedded; no sibling or standalone assets.",
+        "Robinson verified as 2019 second installment / six years / 40% / corn and rye. Six cask types are component regimes, not six sequential six-year finishes. Reported 19% rye remains an attributed component account. Favorable Toronto Whisky Society complexity/balance is retained beside Selfbuilt's youthful heat and dry/papery/bitter finish criticism.",
+        "Clark exact label verifies eleven years / 41.6% / 100% rye, overriding rounded producer-shop 42%. Predominantly column-distilled bourbon-cask rye and a column/pot virgin-oak component are independently reported; TWS proportions and narrative conflict, so no exact ratio is asserted. Corn-like flavor is not corn grain and casual straight-rye wording is not an American legal/scoring classification.",
+        "Clark Selfbuilt and OdysseusUnbound matched 2018 samples support creamy texture, balanced fruit/spice and moderate finish; both retain reservations versus Lot 40 breadth/persistence. TWS rank is not converted into another independent scored panel or a Canadian native endpoint.",
+        "Cournoyer primary September 24, 2019 Captains release verifies twelve years and three grains. Named producer photograph visibly states 40%, correcting shop specification 42%. Corn, rye and malted barley and multiple rye streams remain distinguished; Carleton Tower 1972 inspiration is not a 1972 distillation date. Light texture and short-finish criticism from Selfbuilt and named Quebec panel voices retained.",
+        "Apple verified as recurring NAS / 35% naturally flavored product; category corrected to established Flavored whiskey rather than unmodified Canadian blend. May 2018 launch notice supports a 2017 Canadian release at secondary confidence. No artificial sweeteners does not mean sugar-free; sensory sweetness does not establish laboratory sugar concentration. Dykstra's blind comparison and sweetness reservation inspected; packaging points/awards are not liquid Quality evidence.",
+        "Canada 2018 issuer June 25, 2018 identity and exact photograph verified. Selfbuilt, Distiller and Whiskybase agree 43.4%, correcting discovery/de Kergommeaux 43.3%. NAS retained despite attributed extra-year-over-2017 account; no invented nineteen-year label. de Kergommeaux's favorable peppery long ending is retained beside Selfbuilt's competent-average, modest-depth and medium-finish account.",
+        "Exact fetched Ontario CAD prices October 15, 2026: Robinson 32.00 (regular 35.00), Clark 39.99 (44.95), Cournoyer 39.99 (45.25), Apple 31.45 (32.95). Canada 2018 CAD 49.95 is explicitly historical June 30, 2018 LCBO context. Targeted two-engine U.S. research did not authenticate exact dated offers; all five USD Cost, Value and Overall remain N/A. Address-gated/strength-mismatched Apple marketplace headline not adopted.",
+        "All five numeric Quality judgments use seven category-conscious universal dimensions with provisional scope and full-spectrum average=5. No Canadian native low/high endpoints invented, and no American scores changed. Fresh environment Chromium 140.0.7339.186 restored for final-byte regression. All baseline hashes/rows, previous expansion pages/data/rows, completed ledgers and immutable candidate order preserved. Dedicated categorical normalization remains deferred until full ledger exhaustion."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: j-p-wiser-s-alumni-larry-robinson",
+  "next_action": "Research next pending expression in deterministic order: j-p-wiser-s-decades-24-year",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1950,22 +1991,22 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 26,
+      "checkpoint": 27,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 989,
-      "new_dossiers": 164,
-      "html_files_structurally_checked": 165,
+      "dossiers": 994,
+      "new_dossiers": 169,
+      "html_files_structurally_checked": 170,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 8984,
-      "local_references_checked": 2479,
-      "embedded_image_occurrences_decoded": 146,
-      "unique_image_payloads_decoded": 146,
-      "image_dossiers_added": 146,
+      "checks": 9158,
+      "local_references_checked": 2529,
+      "embedded_image_occurrences_decoded": 151,
+      "unique_image_payloads_decoded": 151,
+      "image_dossiers_added": 151,
       "numeric_counts": {
-        "quality": 151,
+        "quality": 156,
         "value": 100,
         "overall": 100
       },
@@ -1977,7 +2018,7 @@
       "browser": "Chromium",
       "browser_version": "140.0.7339.186",
       "functional_cases_passed": 459,
-      "responsive_cases": 495,
+      "responsive_cases": 510,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1985,7 +2026,7 @@
     }
   },
   "updated_at": "2026-10-15",
-  "last_parent_commit": "8da4aecef768f2fbed92f3e300feebd01ca6052b",
+  "last_parent_commit": "b6ca1c2d9256631d273860b5c524819309bc5a61",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",

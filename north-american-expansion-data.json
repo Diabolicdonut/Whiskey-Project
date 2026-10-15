@@ -58909,5 +58909,1859 @@
         "nc_status": "No exact dated U.S./NC offer authenticated; CAD sale and comparison price kept separate."
       }
     }
+  },
+  {
+    "slug": "j-p-wiser-s-alumni-larry-robinson",
+    "filename": "j-p-wiser-s-alumni-larry-robinson.html",
+    "name": "J.P. Wiser's Alumni Larry Robinson",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "6 Years",
+    "age_display": "6 Years",
+    "age_sort_years": 6,
+    "mash_bill_display": "Corn and rye; contemporary technical account reports 19% rye, not a disclosed co-fermented mash bill.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.4,
+    "quality_score": 6.4,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.4,
+        "flavor_development": 7.3,
+        "finish": 5.4,
+        "technical_cleanliness": 6.5,
+        "texture": 6.1,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 7.1
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.39,
+      "editorial_adjustment": 0.01,
+      "adjustment_reason": "Good provisional execution: complex aromas and distinctive cask interplay, moderated by inconsistent finish quality, youthful heat and assertive drying oak. Price, celebrity and cask count add no Quality points."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional execution: complex aromas and distinctive cask interplay, moderated by inconsistent finish quality, youthful heat and assertive drying oak. Price, celebrity and cask count add no Quality points.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer Ontario sale CAD 32.00; regular CAD 35.00; not a USD quote",
+    "price_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-larry-robinson",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 32,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2019,
+    "release_scope": "J.P. Wiser’s Alumni Larry Robinson, 2019–2020 edition, six years, 40% ABV / 80 proof, 750 mL.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+      "https://whiskyanalysis.com/index.php/2019/11/14/j-p-wisers-alumni-series-larry-robinson-6-year-old/"
+    ],
+    "review_publishers": [
+      "Toronto Whisky Society",
+      "Selfbuilt’s Whisky Analysis"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Toronto Whisky Society panel",
+        "publisher": "Toronto Whisky Society",
+        "url": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+        "summary": "The panel praises depth, sweet/spice balance and cask variety, placing Robinson among its preferred Alumni bottles. Cola, fruit and oak remain prominent.",
+        "scope": "Exact 2019 six-year / 40% blend; panel counted as one publisher."
+      },
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2019/11/14/j-p-wisers-alumni-series-larry-robinson-6-year-old/",
+        "summary": "Selfbuilt finds a layered fruity nose but unexpectedly sharp spice and youthful heat. Dry paper-like oak and bitterness weaken the finish; the enthusiasm is qualified.",
+        "scope": "Exact six-year / 40% November 2019 review; sensory paper language is not a contaminant finding."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-larry-robinson",
+      "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+      "https://whiskyanalysis.com/index.php/2019/11/14/j-p-wisers-alumni-series-larry-robinson-6-year-old/"
+    ],
+    "production_summary": "The verified producer label confirms six years, two grains and 40%. Contemporary blender-context reporting identifies column-distilled corn and rye, with six cask types: used Canadian whisky, double-charred, bourbon, rum, port and French oak. The 19% rye figure is an attributed component account. Neither the number of casks nor six years proves six sequential finishes or thirty-six total years.",
+    "finishing_information": "Six cask types in a blend; sequence, durations and proportions are not authenticated.",
+    "identity_note": null,
+    "history": [
+      "The second Alumni installment appeared in spring 2019. The six-year age commemorates Robinson’s championship wins. This is a distinct recipe rather than a relabeled sibling.",
+      "The current named producer photograph still carries the 2019–2020 edition. Continued shop availability does not establish a new annual release or identical liquid across every later stock bottle."
+    ],
+    "comparables": [
+      {
+        "url": "j-p-wiser-s-alumni-darryl-sittler.html",
+        "name": "J.P. Wiser’s Alumni Darryl Sittler",
+        "reason": "Another 2019 installment with a different four-grain recipe and quieter execution."
+      },
+      {
+        "url": "j-p-wiser-s-10-year.html",
+        "name": "J.P. Wiser’s 10 Year",
+        "reason": "Recurring Canadian blend for a practical purchase comparison; reviews and images are not interchangeable."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Rest a small neat pour to assess fruit, spice, texture and the drying finish in the published accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-larry-robinson",
+        "image_url": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Alumni_LarryRobinson_1200x1200.jpg?v=1742995483",
+        "scope": "J.P. Wiser’s Alumni Larry Robinson, 2019–2020 edition, six years, 40% ABV / 80 proof, 750 mL.",
+        "sha256": "d10712b9110e361511e04f286dbc050bf45fef498f67cb8135c5188fce350231",
+        "image_embedded": true,
+        "width": 686,
+        "height": 1200
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s Alumni Larry Robinson, 2019–2020 edition, six years, 40% ABV / 80 proof, 750 mL.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-027",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Rest a small neat pour to assess fruit, spice, texture and the drying finish in the published accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "j-p-wiser-s-alumni-larry-robinson",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "proof": 80,
+      "age": 6,
+      "age_display": "6 Years",
+      "release_year": 2019,
+      "quality": 6.4,
+      "value": null,
+      "dimensions": [
+        6.4,
+        7.3,
+        5.4,
+        6.5,
+        6.1,
+        5.8,
+        7.1
+      ],
+      "identity": "J.P. Wiser’s Alumni Larry Robinson, 2019–2020 edition, six years, 40% ABV / 80 proof, 750 mL.",
+      "short_version": "A varied, fruit-and-spice Canadian blend whose elaborate cask recipe earns praise; youthful heat and a dry, bitter ending divide reviewers.",
+      "grain": "Corn and rye; contemporary technical account reports 19% rye, not a disclosed co-fermented mash bill.",
+      "production": "The verified producer label confirms six years, two grains and 40%. Contemporary blender-context reporting identifies column-distilled corn and rye, with six cask types: used Canadian whisky, double-charred, bourbon, rum, port and French oak. The 19% rye figure is an attributed component account. Neither the number of casks nor six years proves six sequential finishes or thirty-six total years.",
+      "finish": "Six cask types in a blend; sequence, durations and proportions are not authenticated.",
+      "history": [
+        "The second Alumni installment appeared in spring 2019. The six-year age commemorates Robinson’s championship wins. This is a distinct recipe rather than a relabeled sibling.",
+        "The current named producer photograph still carries the 2019–2020 edition. Continued shop availability does not establish a new annual release or identical liquid across every later stock bottle."
+      ],
+      "quality_rationale": "Good provisional execution: complex aromas and distinctive cask interplay, moderated by inconsistent finish quality, youthful heat and assertive drying oak. Price, celebrity and cask count add no Quality points.",
+      "pricing": {
+        "amount": 32,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-larry-robinson",
+        "basis": "Producer Ontario sale CAD 32.00; regular CAD 35.00; not a USD quote",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Producer named record and verified label",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-larry-robinson",
+          "role": "Exact player, age, strength, photograph and current Ontario CAD offer."
+        },
+        {
+          "title": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+          "role": "August 22, 2019 blender-context component reporting and panel tasting; ratios are attributed."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/14/j-p-wisers-alumni-series-larry-robinson-6-year-old/",
+          "role": "November 14, 2019 matched six-year / 40% sample; aggregate table is not additional tasting evidence."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Toronto Whisky Society panel",
+          "publisher": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+          "summary": "The panel praises depth, sweet/spice balance and cask variety, placing Robinson among its preferred Alumni bottles. Cola, fruit and oak remain prominent.",
+          "scope": "Exact 2019 six-year / 40% blend; panel counted as one publisher."
+        },
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/14/j-p-wisers-alumni-series-larry-robinson-6-year-old/",
+          "summary": "Selfbuilt finds a layered fruity nose but unexpectedly sharp spice and youthful heat. Dry paper-like oak and bitterness weaken the finish; the enthusiasm is qualified.",
+          "scope": "Exact six-year / 40% November 2019 review; sensory paper language is not a contaminant finding."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "j-p-wiser-s-alumni-darryl-sittler.html",
+          "name": "J.P. Wiser’s Alumni Darryl Sittler",
+          "reason": "Another 2019 installment with a different four-grain recipe and quieter execution."
+        },
+        {
+          "url": "j-p-wiser-s-10-year.html",
+          "name": "J.P. Wiser’s 10 Year",
+          "reason": "Recurring Canadian blend for a practical purchase comparison; reviews and images are not interchangeable."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-larry-robinson",
+      "image_url": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Alumni_LarryRobinson_1200x1200.jpg?v=1742995483"
+    }
+  },
+  {
+    "slug": "j-p-wiser-s-alumni-wendel-clark",
+    "filename": "j-p-wiser-s-alumni-wendel-clark.html",
+    "name": "J.P. Wiser's Alumni Wendel Clark",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 83.2,
+    "abv": 41.6,
+    "age": "11 Years",
+    "age_display": "11 Years",
+    "age_sort_years": 11,
+    "mash_bill_display": "100% rye; documented technical accounts identify unmalted rye and both column-only and column/pot-distilled components.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 7.4,
+    "quality_score": 7.4,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.6,
+        "flavor_development": 7.5,
+        "finish": 6.9,
+        "technical_cleanliness": 7.6,
+        "texture": 7.7,
+        "maturity_wood_management": 7.3,
+        "distinctiveness": 7.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.44,
+      "editorial_adjustment": -0.04,
+      "adjustment_reason": "Very good provisional all-rye execution: convincing integration, creamy texture and fruit/spice detail. Moderate length and narrower complexity than some familiar Canadian rye references keep it below an excellent or reference-class claim."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional all-rye execution: convincing integration, creamy texture and fruit/spice detail. Moderate length and narrower complexity than some familiar Canadian rye references keep it below an excellent or reference-class claim.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer Ontario sale CAD 39.99; regular CAD 44.95; not a USD quote",
+    "price_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-wendel-clark",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 39.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2018,
+    "release_scope": "J.P. Wiser’s Alumni Wendel Clark, inaugural 2018–2019 edition, eleven years, 41.6% ABV / 83.2 proof, 100% rye, 750 mL.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2018/12/19/j-p-wisers-alumni-series-wendel-clark-100-rye-11-years-old/",
+      "https://www.connosr.com/wisers-alumni-series-wendel-clark-11-year-old-rye-whisky-review-12493"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2018/12/19/j-p-wisers-alumni-series-wendel-clark-100-rye-11-years-old/",
+        "summary": "Selfbuilt enjoys rich caramel-fruit character, creaminess and controlled spice, but finds less complexity and a less persistent finish than Lot 40. Sweetness and slight bitterness remain visible.",
+        "scope": "December 19, 2018 eleven-year / 41.6%; no aggregate score conversion."
+      },
+      {
+        "reviewer": "OdysseusUnbound",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/wisers-alumni-series-wendel-clark-11-year-old-rye-whisky-review-12493",
+        "summary": "The purchased-bottle account praises a round palate, citrus, warm spice and a medium finish; a few drops of water improve expression. The reviewer still finds Lot 40 broader in flavor.",
+        "scope": "December 8, 2018 exact eleven-year / 41.6%; one individual account."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-wendel-clark",
+      "https://whiskyanalysis.com/index.php/2018/12/19/j-p-wisers-alumni-series-wendel-clark-100-rye-11-years-old/",
+      "https://www.connosr.com/wisers-alumni-series-wendel-clark-11-year-old-rye-whisky-review-12493",
+      "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/"
+    ],
+    "production_summary": "The producer photograph states 41.6%, eleven years and 100% rye. The shop prose confirms bourbon-cask maturation; its rounded 42% specification does not authenticate a second strength. Selfbuilt describes a predominantly column-distilled bourbon-cask component plus some column/pot-distilled rye in charred virgin oak. Toronto Whisky Society’s listed proportions and narrative do not agree; exact ratios are therefore withheld. Corn-like flavor is not proof of corn grain.",
+    "finishing_information": "Bourbon-cask maturation primary-confirmed; virgin-oak rye component reported independently. No whole-blend secondary finishing sequence established.",
+    "identity_note": null,
+    "history": [
+      "Clark belongs to the inaugural late-October 2018 Alumni installment, initially Ontario-focused. The strength references Toronto’s 416 area code; the eleven years is a real stated age.",
+      "This is Canadian all-rye whisky. A reviewer’s casual straight-rye wording does not establish American straight-rye production rules or a shared American scoring category."
+    ],
+    "comparables": [
+      {
+        "url": "alberta-premium-100-rye.html",
+        "name": "Alberta Premium 100% Rye",
+        "reason": "Different Canadian all-rye production and price tier; shared grain alone does not imply the same style."
+      },
+      {
+        "url": "j-p-wiser-s-alumni-dave-keon.html",
+        "name": "J.P. Wiser’s Alumni Dave Keon",
+        "reason": "A contrasting blended-grain Alumni recipe; a style comparison across explicitly different editorial groups."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Rest a small neat pour to assess fruit, spice, texture and the drying finish in the published accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-wendel-clark",
+        "image_url": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Alumni_WendelClark_1200x1200.jpg?v=1742995428",
+        "scope": "J.P. Wiser’s Alumni Wendel Clark, inaugural 2018–2019 edition, eleven years, 41.6% ABV / 83.2 proof, 100% rye, 750 mL.",
+        "sha256": "ddc32b5d727539743f0977c6bb0c3796e10fab2b1dd325aaa487b4ebf6bc21dd",
+        "image_embedded": true,
+        "width": 686,
+        "height": 1200
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s Alumni Wendel Clark, inaugural 2018–2019 edition, eleven years, 41.6% ABV / 83.2 proof, 100% rye, 750 mL.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-027",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Rest a small neat pour to assess fruit, spice, texture and the drying finish in the published accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "j-p-wiser-s-alumni-wendel-clark",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 83.2,
+      "age": 11,
+      "age_display": "11 Years",
+      "release_year": 2018,
+      "quality": 7.4,
+      "value": null,
+      "dimensions": [
+        7.6,
+        7.5,
+        6.9,
+        7.6,
+        7.7,
+        7.3,
+        7.3
+      ],
+      "identity": "J.P. Wiser’s Alumni Wendel Clark, inaugural 2018–2019 edition, eleven years, 41.6% ABV / 83.2 proof, 100% rye, 750 mL.",
+      "short_version": "A creamy, fruity all-rye Canadian whisky with favorable balance and texture evidence. Its moderate finish and sweetness remain meaningful limits.",
+      "grain": "100% rye; documented technical accounts identify unmalted rye and both column-only and column/pot-distilled components.",
+      "production": "The producer photograph states 41.6%, eleven years and 100% rye. The shop prose confirms bourbon-cask maturation; its rounded 42% specification does not authenticate a second strength. Selfbuilt describes a predominantly column-distilled bourbon-cask component plus some column/pot-distilled rye in charred virgin oak. Toronto Whisky Society’s listed proportions and narrative do not agree; exact ratios are therefore withheld. Corn-like flavor is not proof of corn grain.",
+      "finish": "Bourbon-cask maturation primary-confirmed; virgin-oak rye component reported independently. No whole-blend secondary finishing sequence established.",
+      "history": [
+        "Clark belongs to the inaugural late-October 2018 Alumni installment, initially Ontario-focused. The strength references Toronto’s 416 area code; the eleven years is a real stated age.",
+        "This is Canadian all-rye whisky. A reviewer’s casual straight-rye wording does not establish American straight-rye production rules or a shared American scoring category."
+      ],
+      "quality_rationale": "Very good provisional all-rye execution: convincing integration, creamy texture and fruit/spice detail. Moderate length and narrower complexity than some familiar Canadian rye references keep it below an excellent or reference-class claim.",
+      "pricing": {
+        "amount": 39.99,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-wendel-clark",
+        "basis": "Producer Ontario sale CAD 39.99; regular CAD 44.95; not a USD quote",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Producer named record and verified label",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-wendel-clark",
+          "role": "Exact eleven-year / 41.6% / all-rye photograph resolves rounded shop strength."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2018/12/19/j-p-wisers-alumni-series-wendel-clark-100-rye-11-years-old/",
+          "role": "December 19, 2018 matched sample; component account and moderate-finish reservation."
+        },
+        {
+          "title": "OdysseusUnbound — Whisky Connosr",
+          "url": "https://www.connosr.com/wisers-alumni-series-wendel-clark-11-year-old-rye-whisky-review-12493",
+          "role": "December 8, 2018 exact 41.6% sample; recipe phrasing includes an explicit reviewer uncertainty."
+        },
+        {
+          "title": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+          "role": "Conflicting component proportions/narrative not silently harmonized into a precise recipe."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2018/12/19/j-p-wisers-alumni-series-wendel-clark-100-rye-11-years-old/",
+          "summary": "Selfbuilt enjoys rich caramel-fruit character, creaminess and controlled spice, but finds less complexity and a less persistent finish than Lot 40. Sweetness and slight bitterness remain visible.",
+          "scope": "December 19, 2018 eleven-year / 41.6%; no aggregate score conversion."
+        },
+        {
+          "reviewer": "OdysseusUnbound",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/wisers-alumni-series-wendel-clark-11-year-old-rye-whisky-review-12493",
+          "summary": "The purchased-bottle account praises a round palate, citrus, warm spice and a medium finish; a few drops of water improve expression. The reviewer still finds Lot 40 broader in flavor.",
+          "scope": "December 8, 2018 exact eleven-year / 41.6%; one individual account."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "alberta-premium-100-rye.html",
+          "name": "Alberta Premium 100% Rye",
+          "reason": "Different Canadian all-rye production and price tier; shared grain alone does not imply the same style."
+        },
+        {
+          "url": "j-p-wiser-s-alumni-dave-keon.html",
+          "name": "J.P. Wiser’s Alumni Dave Keon",
+          "reason": "A contrasting blended-grain Alumni recipe; a style comparison across explicitly different editorial groups."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-wendel-clark",
+      "image_url": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Alumni_WendelClark_1200x1200.jpg?v=1742995428"
+    }
+  },
+  {
+    "slug": "j-p-wiser-s-alumni-yvan-cournoyer",
+    "filename": "j-p-wiser-s-alumni-yvan-cournoyer.html",
+    "name": "J.P. Wiser's Alumni Yvan Cournoyer",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "12 Years",
+    "age_display": "12 Years",
+    "age_sort_years": 12,
+    "mash_bill_display": "Corn, rye and malted barley; proportions undisclosed. Multiple rye distillation streams are not extra grains.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.3,
+    "quality_score": 6.3,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.4,
+        "flavor_development": 6.8,
+        "finish": 5.7,
+        "technical_cleanliness": 6.7,
+        "texture": 5.4,
+        "maturity_wood_management": 6.3,
+        "distinctiveness": 6.1
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.295,
+      "editorial_adjustment": 0.005,
+      "adjustment_reason": "Good provisional Canadian blend execution. Fruit, floral detail and balanced spice support a score above competent average, while repeated light/dilute texture and brief-finish reservations limit it."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional Canadian blend execution. Fruit, floral detail and balanced spice support a score above competent average, while repeated light/dilute texture and brief-finish reservations limit it.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer Ontario sale CAD 39.99; regular CAD 45.25; not a USD quote",
+    "price_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-yvan-cournoyer-1",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 39.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2019,
+    "release_scope": "J.P. Wiser’s Alumni Yvan Cournoyer, 2019–2020 Captains edition, twelve years, 40% ABV / 80 proof, three grains, 750 mL.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2020/07/30/j-p-wisers-alumni-series-yvan-cournoyer-12-year-old/",
+      "https://quebecwhisky.com/j-p-wisers-the-alumni-collection-yvan-cournoyer-12-ans/"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "Québec Whisky"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2020/07/30/j-p-wisers-alumni-series-yvan-cournoyer-12-year-old/",
+        "summary": "Selfbuilt describes refined dried-fruit and floral character over sweet corn, but a light mouthfeel and quick, mildly bitter ending. A request for higher strength qualifies the praise.",
+        "scope": "July 30, 2020 exact twelve-year / 40%."
+      },
+      {
+        "reviewer": "André, Patrick and Martin",
+        "publisher": "Québec Whisky",
+        "url": "https://quebecwhisky.com/j-p-wisers-the-alumni-collection-yvan-cournoyer-12-ans/",
+        "summary": "The panel finds appealing fruit and forceful rye spice. André and Martin specifically criticize diluted or weak texture; Patrick finds useful intensity and a medium spicy finish.",
+        "scope": "2019–2020 twelve-year / 40%; differences within the panel retained."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-yvan-cournoyer-1",
+      "https://www.newswire.ca/news-releases/meet-the-captains-j-p-wiser-s-latest-release-of-the-alumni-whisky-series-873125983.html",
+      "https://whiskyanalysis.com/index.php/2020/07/30/j-p-wisers-alumni-series-yvan-cournoyer-12-year-old/",
+      "https://quebecwhisky.com/j-p-wisers-the-alumni-collection-yvan-cournoyer-12-ans/"
+    ],
+    "production_summary": "The verified named label and matched 2020 reviews identify 40%, correcting the shop’s unsupported 42% specification. Contemporary technical reporting lists double-distilled corn, column-distilled malt, and both column and column/pot rye, with Canadian-whisky, bourbon and virgin-oak casks. The label simplifies this to bourbon/virgin barrels. Exact proportions, chronology and finish durations remain undisclosed.",
+    "finishing_information": "Used Canadian-whisky, bourbon and virgin-oak component casks reported; no authenticated separate sequential finish.",
+    "identity_note": null,
+    "history": [
+      "Corby’s September 24, 2019 Captains announcement identifies the twelve-year three-grain Cournoyer release. The recipe is described as inspired by the 1972 Carleton Tower blend; it is not whisky distilled in 1972.",
+      "The age honors the player’s number. Current producer stock imagery authenticates this expression, while the label rather than a generic shop field controls its strength."
+    ],
+    "comparables": [
+      {
+        "url": "j-p-wiser-s-alumni-dave-keon.html",
+        "name": "J.P. Wiser’s Alumni Dave Keon",
+        "reason": "A stronger Captains blend with a different age and cask recipe."
+      },
+      {
+        "url": "j-p-wiser-s-10-year.html",
+        "name": "J.P. Wiser’s 10 Year",
+        "reason": "Recurring corn/rye family reference; no assumed equivalence of recipe or age."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Rest a small neat pour to assess fruit, spice, texture and the drying finish in the published accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-yvan-cournoyer-1",
+        "image_url": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Alumn_YvanCournoyer_1200x1200.jpg?v=1742995560",
+        "scope": "J.P. Wiser’s Alumni Yvan Cournoyer, 2019–2020 Captains edition, twelve years, 40% ABV / 80 proof, three grains, 750 mL.",
+        "sha256": "f53cc98c202580f5d144eba6ed41ffe2d59c55e2c13af30035f51c7a4a397bca",
+        "image_embedded": true,
+        "width": 686,
+        "height": 1200
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s Alumni Yvan Cournoyer, 2019–2020 Captains edition, twelve years, 40% ABV / 80 proof, three grains, 750 mL.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-027",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Rest a small neat pour to assess fruit, spice, texture and the drying finish in the published accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "j-p-wiser-s-alumni-yvan-cournoyer",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "proof": 80,
+      "age": 12,
+      "age_display": "12 Years",
+      "release_year": 2019,
+      "quality": 6.3,
+      "value": null,
+      "dimensions": [
+        6.4,
+        6.8,
+        5.7,
+        6.7,
+        5.4,
+        6.3,
+        6.1
+      ],
+      "identity": "J.P. Wiser’s Alumni Yvan Cournoyer, 2019–2020 Captains edition, twelve years, 40% ABV / 80 proof, three grains, 750 mL.",
+      "short_version": "A gentle corn-led blend with floral fruit and rye spice. Reviewers find worthwhile flavor but repeatedly question body and finish length.",
+      "grain": "Corn, rye and malted barley; proportions undisclosed. Multiple rye distillation streams are not extra grains.",
+      "production": "The verified named label and matched 2020 reviews identify 40%, correcting the shop’s unsupported 42% specification. Contemporary technical reporting lists double-distilled corn, column-distilled malt, and both column and column/pot rye, with Canadian-whisky, bourbon and virgin-oak casks. The label simplifies this to bourbon/virgin barrels. Exact proportions, chronology and finish durations remain undisclosed.",
+      "finish": "Used Canadian-whisky, bourbon and virgin-oak component casks reported; no authenticated separate sequential finish.",
+      "history": [
+        "Corby’s September 24, 2019 Captains announcement identifies the twelve-year three-grain Cournoyer release. The recipe is described as inspired by the 1972 Carleton Tower blend; it is not whisky distilled in 1972.",
+        "The age honors the player’s number. Current producer stock imagery authenticates this expression, while the label rather than a generic shop field controls its strength."
+      ],
+      "quality_rationale": "Good provisional Canadian blend execution. Fruit, floral detail and balanced spice support a score above competent average, while repeated light/dilute texture and brief-finish reservations limit it.",
+      "pricing": {
+        "amount": 39.99,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-yvan-cournoyer-1",
+        "basis": "Producer Ontario sale CAD 39.99; regular CAD 45.25; not a USD quote",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Producer named record and verified label",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-yvan-cournoyer-1",
+          "role": "Exact twelve-year / 40% label and dated Ontario price; 42% shop field conflicts."
+        },
+        {
+          "title": "Corby Captains release",
+          "url": "https://www.newswire.ca/news-releases/meet-the-captains-j-p-wiser-s-latest-release-of-the-alumni-whisky-series-873125983.html",
+          "role": "September 24, 2019 primary release identity and three-grain age statement."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2020/07/30/j-p-wisers-alumni-series-yvan-cournoyer-12-year-old/",
+          "role": "July 30, 2020 matched 40% sample and attributed technical account."
+        },
+        {
+          "title": "Québec Whisky",
+          "url": "https://quebecwhisky.com/j-p-wisers-the-alumni-collection-yvan-cournoyer-12-ans/",
+          "role": "January 14, 2020 account with later June 2022 page update; three named panel voices, not three publishers."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2020/07/30/j-p-wisers-alumni-series-yvan-cournoyer-12-year-old/",
+          "summary": "Selfbuilt describes refined dried-fruit and floral character over sweet corn, but a light mouthfeel and quick, mildly bitter ending. A request for higher strength qualifies the praise.",
+          "scope": "July 30, 2020 exact twelve-year / 40%."
+        },
+        {
+          "reviewer": "André, Patrick and Martin",
+          "publisher": "Québec Whisky",
+          "url": "https://quebecwhisky.com/j-p-wisers-the-alumni-collection-yvan-cournoyer-12-ans/",
+          "summary": "The panel finds appealing fruit and forceful rye spice. André and Martin specifically criticize diluted or weak texture; Patrick finds useful intensity and a medium spicy finish.",
+          "scope": "2019–2020 twelve-year / 40%; differences within the panel retained."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "j-p-wiser-s-alumni-dave-keon.html",
+          "name": "J.P. Wiser’s Alumni Dave Keon",
+          "reason": "A stronger Captains blend with a different age and cask recipe."
+        },
+        {
+          "url": "j-p-wiser-s-10-year.html",
+          "name": "J.P. Wiser’s 10 Year",
+          "reason": "Recurring corn/rye family reference; no assumed equivalence of recipe or age."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-yvan-cournoyer-1",
+      "image_url": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Alumn_YvanCournoyer_1200x1200.jpg?v=1742995560"
+    }
+  },
+  {
+    "slug": "j-p-wiser-s-apple",
+    "filename": "j-p-wiser-s-apple.html",
+    "name": "J.P. Wiser's Apple",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Flavored whiskey",
+    "subcategory": "Flavored whiskey",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 70,
+    "abv": 35.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian-whisky base with natural apple flavor; exact base grains, ratios and sweetening formula undisclosed.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.1,
+    "quality_score": 6.1,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.1,
+        "flavor_development": 5.8,
+        "finish": 5.8,
+        "technical_cleanliness": 6.5,
+        "texture": 6.2,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 6.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.04,
+      "editorial_adjustment": 0.06,
+      "adjustment_reason": "Good provisional execution for an apple-flavored whisky: a convincing fruit/whisky relationship in the inspected review, restrained by excess sweetness and modest depth. Scored within the flavored group, without an unmodified Canadian blend penalty or award bonus."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Flavored whiskey; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional execution for an apple-flavored whisky: a convincing fruit/whisky relationship in the inspected review, restrained by excess sweetness and modest depth. Scored within the flavored group, without an unmodified Canadian blend penalty or award bonus.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer Ontario sale CAD 31.45; regular CAD 32.95; exact fetched offer supersedes older indexed regular price",
+    "price_url": "https://shop.jpwisers.com/products/jp-wisers-apple-canadian-whisky",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 31.45,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2017,
+    "release_scope": "J.P. Wiser’s Apple, Canadian whisky with natural apple flavor, NAS, 35% ABV / 70 proof, 750 mL; recurring current product.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://therumhowlerblog.com/other-spirits/j-p-wisers-review-j-p-wisers-apple-whisky/"
+    ],
+    "review_publishers": [
+      "The Rum Howler Blog"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/other-spirits/j-p-wisers-review-j-p-wisers-apple-whisky/",
+        "summary": "In a blind comparison with Crown Royal Regal Apple, Dykstra prefers Wiser’s crisper fruit and more evident whisky character. He finds the sweetness excessive, with medium body and a middling-length sugary/spicy finish.",
+        "scope": "May 6, 2018 exact 35% sample. One reviewer; packaging points in the source grade are not used as liquid Quality."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/jp-wisers-apple-canadian-whisky",
+      "https://www.lcbo.com/en/j-p-wiser-s-apple-whisky-474585",
+      "https://therumhowlerblog.com/other-spirits/j-p-wisers-review-j-p-wisers-apple-whisky/",
+      "https://therumhowlerblog.com/2018/05/06/review-j-p-wisers-apple-whisky/"
+    ],
+    "production_summary": "The producer and LCBO verify 35%, natural flavors and Ontario origin. The flavoring is an addition, not merely a tasting note or proof of applewood maturation. No exact base mash, cask schedule or label age is authenticated. Statements excluding artificial sweeteners do not mean sugar-free: Dykstra perceives sweetness, but his sensory interpretation does not establish a laboratory sugar measurement.",
+    "finishing_information": "Natural apple flavoring; no applewood cask finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "Dykstra’s May 6, 2018 launch-era notice reports a Canadian release the previous year, supporting 2017 at secondary-source confidence. A precise first sale date is not established.",
+      "The current green-label producer pack remains NAS / 35%. Awards are background, not an independent sensory review or evidence of an unchanged recipe since 2018."
+    ],
+    "comparables": [
+      {
+        "url": "crown-royal-regal-apple.html",
+        "name": "Crown Royal Regal Apple",
+        "reason": "Exact flavored peer in the reviewer’s blind comparison; source opinion is not a controlled population study."
+      },
+      {
+        "url": "black-velvet-apple.html",
+        "name": "Black Velvet Apple",
+        "reason": "Another documented flavored Canadian product for sweetness and mixing comparison."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat / rocks",
+        "recommendation": "Try a small chilled or rested pour first; sweetness is a documented limitation."
+      },
+      {
+        "name": "Apple highball",
+        "recommendation": "Use soda and lemon with little or no added syrup; adjust to the actual sweetness."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Start without sugar; add bitters and taste before adding any syrup."
+      },
+      {
+        "name": "Cider serve",
+        "recommendation": "Use a small measure with dry cider; the producer suggests cider and lemon/soda uses."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/jp-wisers-apple-canadian-whisky",
+        "image_url": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Apple_1200x1200.jpg?v=1742995013",
+        "scope": "J.P. Wiser’s Apple, Canadian whisky with natural apple flavor, NAS, 35% ABV / 70 proof, 750 mL; recurring current product.",
+        "sha256": "56faa162889f8267fa96f22f5e6eb112de7d833322432dd5a2fdb794006b28d8",
+        "image_embedded": true,
+        "width": 686,
+        "height": 1200
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s Apple, Canadian whisky with natural apple flavor, NAS, 35% ABV / 70 proof, 750 mL; recurring current product.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-027",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat / rocks",
+          "recommendation": "Try a small chilled or rested pour first; sweetness is a documented limitation."
+        },
+        {
+          "name": "Apple highball",
+          "recommendation": "Use soda and lemon with little or no added syrup; adjust to the actual sweetness."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Start without sugar; add bitters and taste before adding any syrup."
+        },
+        {
+          "name": "Cider serve",
+          "recommendation": "Use a small measure with dry cider; the producer suggests cider and lemon/soda uses."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "j-p-wiser-s-apple",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Flavored whiskey",
+      "proof": 70,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2017,
+      "quality": 6.1,
+      "value": null,
+      "dimensions": [
+        6.1,
+        5.8,
+        5.8,
+        6.5,
+        6.2,
+        5.8,
+        6.2
+      ],
+      "identity": "J.P. Wiser’s Apple, Canadian whisky with natural apple flavor, NAS, 35% ABV / 70 proof, 750 mL; recurring current product.",
+      "short_version": "A sweet apple-flavored spirit with a credible whisky-spice backbone. Its intended mixing style and added flavor place it in the flavored group.",
+      "grain": "Canadian-whisky base with natural apple flavor; exact base grains, ratios and sweetening formula undisclosed.",
+      "production": "The producer and LCBO verify 35%, natural flavors and Ontario origin. The flavoring is an addition, not merely a tasting note or proof of applewood maturation. No exact base mash, cask schedule or label age is authenticated. Statements excluding artificial sweeteners do not mean sugar-free: Dykstra perceives sweetness, but his sensory interpretation does not establish a laboratory sugar measurement.",
+      "finish": "Natural apple flavoring; no applewood cask finish authenticated.",
+      "history": [
+        "Dykstra’s May 6, 2018 launch-era notice reports a Canadian release the previous year, supporting 2017 at secondary-source confidence. A precise first sale date is not established.",
+        "The current green-label producer pack remains NAS / 35%. Awards are background, not an independent sensory review or evidence of an unchanged recipe since 2018."
+      ],
+      "quality_rationale": "Good provisional execution for an apple-flavored whisky: a convincing fruit/whisky relationship in the inspected review, restrained by excess sweetness and modest depth. Scored within the flavored group, without an unmodified Canadian blend penalty or award bonus.",
+      "pricing": {
+        "amount": 31.45,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://shop.jpwisers.com/products/jp-wisers-apple-canadian-whisky",
+        "basis": "Producer Ontario sale CAD 31.45; regular CAD 32.95; exact fetched offer supersedes older indexed regular price",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Producer exact Apple record",
+          "url": "https://shop.jpwisers.com/products/jp-wisers-apple-canadian-whisky",
+          "role": "Natural flavor, 35%, NAS named pack and current CAD sale offer."
+        },
+        {
+          "title": "LCBO Apple 474585",
+          "url": "https://www.lcbo.com/en/j-p-wiser-s-apple-whisky-474585",
+          "role": "Control-state expression/strength corroboration; not an independent tasting."
+        },
+        {
+          "title": "Chip Dykstra — full review",
+          "url": "https://therumhowlerblog.com/other-spirits/j-p-wisers-review-j-p-wisers-apple-whisky/",
+          "role": "May 6, 2018 exact 35% tasting, including blind comparison and sweetness reservation."
+        },
+        {
+          "title": "Launch-era review notice",
+          "url": "https://therumhowlerblog.com/2018/05/06/review-j-p-wisers-apple-whisky/",
+          "role": "Same reviewer, not a second tasting; reports nationwide release the previous year."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/other-spirits/j-p-wisers-review-j-p-wisers-apple-whisky/",
+          "summary": "In a blind comparison with Crown Royal Regal Apple, Dykstra prefers Wiser’s crisper fruit and more evident whisky character. He finds the sweetness excessive, with medium body and a middling-length sugary/spicy finish.",
+          "scope": "May 6, 2018 exact 35% sample. One reviewer; packaging points in the source grade are not used as liquid Quality."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "crown-royal-regal-apple.html",
+          "name": "Crown Royal Regal Apple",
+          "reason": "Exact flavored peer in the reviewer’s blind comparison; source opinion is not a controlled population study."
+        },
+        {
+          "url": "black-velvet-apple.html",
+          "name": "Black Velvet Apple",
+          "reason": "Another documented flavored Canadian product for sweetness and mixing comparison."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Flavored whiskey; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/jp-wisers-apple-canadian-whisky",
+      "image_url": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Apple_1200x1200.jpg?v=1742995013"
+    }
+  },
+  {
+    "slug": "j-p-wiser-s-canada-2018",
+    "filename": "j-p-wiser-s-canada-2018.html",
+    "name": "J.P. Wiser's Canada 2018",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 86.8,
+    "abv": 43.4,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Corn and rye; exact proportions undisclosed. Reported older components do not establish a label age.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.0,
+    "quality_score": 6.0,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.2,
+        "flavor_development": 5.8,
+        "finish": 5.8,
+        "technical_cleanliness": 6.4,
+        "texture": 5.8,
+        "maturity_wood_management": 6.2,
+        "distinctiveness": 5.6
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.02,
+      "editorial_adjustment": -0.02,
+      "adjustment_reason": "Good but cautious provisional Canadian blend assessment. Harmony, adequate texture and a clean sweet/spice core support modest merit above average; ordinary complexity, variable finish impressions and limited critical agreement restrain the result."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good but cautious provisional Canadian blend assessment. Harmony, adequate texture and a clean sweet/spice core support modest merit above average; ordinary complexity, variable finish impressions and limited critical agreement restrain the result.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Ontario LCBO CAD 49.95 in the June 30, 2018 review; not a current or USD offer",
+    "price_url": "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html",
+    "price_period": "2018-06-30",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 49.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2018,
+    "release_scope": "J.P. Wiser’s Canada 2018 Commemorative Series, NAS label, 43.4% ABV / 86.8 proof, 750 mL, 2018 limited release.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2018/07/14/j-p-wisers-canada-2018/",
+      "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "Canadian Whisky"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2018/07/14/j-p-wisers-canada-2018/",
+        "summary": "Selfbuilt finds a clean, representative Canadian corn-led profile with acceptable body and a medium, mildly bitter finish, but little depth or surprise. His competent-average conclusion tempers stronger praise.",
+        "scope": "July 14, 2018 exact 43.4% Canada 2018; faint solvent-like sensory language is not a contamination claim."
+      },
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html",
+        "summary": "The favorable account emphasizes wood, caramel, fruit and warming spice, with a long pepper-to-citrus ending. That stronger finish impression differs from Selfbuilt.",
+        "scope": "June 30, 2018 named Canada 2018 review; its 43.3% specification is explicitly disputed."
+      }
+    ],
+    "source_urls": [
+      "https://www.newswire.ca/news-releases/jp-wisers-releases-limited-edition-bottles-seasoned-oak-and-canada-2018-686433791.html",
+      "https://whiskyanalysis.com/index.php/2018/07/14/j-p-wisers-canada-2018/",
+      "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html",
+      "https://www.whiskybase.com/whiskies/whisky/113685/jp-wisers-canada-2018",
+      "https://distiller.com/spirits/j-p-wiser-s-commemorative-series-canada-2018"
+    ],
+    "production_summary": "Corby’s June 25, 2018 announcement authenticates the Canada 2018 release and Windsor producer. Matched Selfbuilt, Distiller and Whiskybase records identify 43.4%, correcting the discovery’s 43.3% copied from de Kergommeaux’s review. The latter reports an extra year over 2017’s eighteen-year blend, but no verified nineteen-year label statement exists. Used Canadian-whisky and new-oak casks are reported by Distiller; complete regime and proportions remain source-limited.",
+    "finishing_information": "No separate secondary finish authenticated; new-oak and Canadian-whisky casks reported in the blend.",
+    "identity_note": null,
+    "history": [
+      "Released in June 2018 to commemorate the Treaty of 1818 boundary anniversary. The issuer distinguishes it from the prior One Fifty bottle and simultaneous Seasoned Oak release.",
+      "Contemporary specialist accounts report 16,000 Canadian-market bottles. NAS is retained: an inferred component age and the commemorative date are not a bottle age statement."
+    ],
+    "comparables": [
+      {
+        "url": "j-p-wiser-s-18-year.html",
+        "name": "J.P. Wiser’s 18 Year",
+        "reason": "Recurring mature family context; not evidence that Canada 2018 carries an eighteen- or nineteen-year label."
+      },
+      {
+        "url": "j-p-wiser-s-10-year.html",
+        "name": "J.P. Wiser’s 10 Year",
+        "reason": "An ordinary family purchase alternative with established U.S. context."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Rest a small neat pour to assess fruit, spice, texture and the drying finish in the published accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.newswire.ca/news-releases/jp-wisers-releases-limited-edition-bottles-seasoned-oak-and-canada-2018-686433791.html",
+        "image_url": "https://mma.prnewswire.com/media/709809/Corby_Spirit_and_Wine_Communications_J_P__Wiser_s_releases_limit.jpg",
+        "scope": "J.P. Wiser’s Canada 2018 Commemorative Series, NAS label, 43.4% ABV / 86.8 proof, 750 mL, 2018 limited release.",
+        "sha256": "460164c9de6357ff7ed8384e9c3652dbfc78c2abbf11fe7d86a98e73e57505d9",
+        "image_embedded": true,
+        "width": 400,
+        "height": 400
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s Canada 2018 Commemorative Series, NAS label, 43.4% ABV / 86.8 proof, 750 mL, 2018 limited release.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-027",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Rest a small neat pour to assess fruit, spice, texture and the drying finish in the published accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "j-p-wiser-s-canada-2018",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "proof": 86.8,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2018,
+      "quality": 6.0,
+      "value": null,
+      "dimensions": [
+        6.2,
+        5.8,
+        5.8,
+        6.4,
+        5.8,
+        6.2,
+        5.6
+      ],
+      "identity": "J.P. Wiser’s Canada 2018 Commemorative Series, NAS label, 43.4% ABV / 86.8 proof, 750 mL, 2018 limited release.",
+      "short_version": "A historically distinct corn-and-rye commemorative blend with divided assessment: some praise its spice and harmony; another finds competent but ordinary depth.",
+      "grain": "Corn and rye; exact proportions undisclosed. Reported older components do not establish a label age.",
+      "production": "Corby’s June 25, 2018 announcement authenticates the Canada 2018 release and Windsor producer. Matched Selfbuilt, Distiller and Whiskybase records identify 43.4%, correcting the discovery’s 43.3% copied from de Kergommeaux’s review. The latter reports an extra year over 2017’s eighteen-year blend, but no verified nineteen-year label statement exists. Used Canadian-whisky and new-oak casks are reported by Distiller; complete regime and proportions remain source-limited.",
+      "finish": "No separate secondary finish authenticated; new-oak and Canadian-whisky casks reported in the blend.",
+      "history": [
+        "Released in June 2018 to commemorate the Treaty of 1818 boundary anniversary. The issuer distinguishes it from the prior One Fifty bottle and simultaneous Seasoned Oak release.",
+        "Contemporary specialist accounts report 16,000 Canadian-market bottles. NAS is retained: an inferred component age and the commemorative date are not a bottle age statement."
+      ],
+      "quality_rationale": "Good but cautious provisional Canadian blend assessment. Harmony, adequate texture and a clean sweet/spice core support modest merit above average; ordinary complexity, variable finish impressions and limited critical agreement restrain the result.",
+      "pricing": {
+        "amount": 49.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2018-06-30",
+        "url": "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html",
+        "basis": "Historical Ontario LCBO CAD 49.95 in the June 30, 2018 review; not a current or USD offer",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Corby 2018 issuer announcement",
+          "url": "https://www.newswire.ca/news-releases/jp-wisers-releases-limited-edition-bottles-seasoned-oak-and-canada-2018-686433791.html",
+          "role": "June 25, 2018 primary identity, producer and exact photographed commemorative pack."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2018/07/14/j-p-wisers-canada-2018/",
+          "role": "July 14, 2018 exact 43.4% sample; moderate assessment and NAS scope."
+        },
+        {
+          "title": "Davin de Kergommeaux — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html",
+          "role": "June 30, 2018 favorable review and historical CAD price; 43.3% text conflicts with other matched records."
+        },
+        {
+          "title": "Whiskybase exact release",
+          "url": "https://www.whiskybase.com/whiskies/whisky/113685/jp-wisers-canada-2018",
+          "role": "2018 / 43.4% / 750 mL metadata corroboration; star aggregate is not sensory evidence."
+        },
+        {
+          "title": "Distiller exact Canada 2018 record",
+          "url": "https://distiller.com/spirits/j-p-wiser-s-commemorative-series-canada-2018",
+          "role": "43.4%, NAS and attributed cask/bottle-count account; not used to invent a label age."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2018/07/14/j-p-wisers-canada-2018/",
+          "summary": "Selfbuilt finds a clean, representative Canadian corn-led profile with acceptable body and a medium, mildly bitter finish, but little depth or surprise. His competent-average conclusion tempers stronger praise.",
+          "scope": "July 14, 2018 exact 43.4% Canada 2018; faint solvent-like sensory language is not a contamination claim."
+        },
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/jp-wisers-canada-2018-43-3.html",
+          "summary": "The favorable account emphasizes wood, caramel, fruit and warming spice, with a long pepper-to-citrus ending. That stronger finish impression differs from Selfbuilt.",
+          "scope": "June 30, 2018 named Canada 2018 review; its 43.3% specification is explicitly disputed."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "j-p-wiser-s-18-year.html",
+          "name": "J.P. Wiser’s 18 Year",
+          "reason": "Recurring mature family context; not evidence that Canada 2018 carries an eighteen- or nineteen-year label."
+        },
+        {
+          "url": "j-p-wiser-s-10-year.html",
+          "name": "J.P. Wiser’s 10 Year",
+          "reason": "An ordinary family purchase alternative with established U.S. context."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://www.newswire.ca/news-releases/jp-wisers-releases-limited-edition-bottles-seasoned-oak-and-canada-2018-686433791.html",
+      "image_url": "https://mma.prnewswire.com/media/709809/Corby_Spirit_and_Wine_Communications_J_P__Wiser_s_releases_limit.jpg"
+    }
   }
 ]
