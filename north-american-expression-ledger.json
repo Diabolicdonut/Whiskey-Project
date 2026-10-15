@@ -2,7 +2,7 @@
   "schema": "old-oak-north-american-expression-ledger-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
   "created_date": "2026-10-14",
-  "updated_date": "2026-10-14",
+  "updated_date": "2026-10-15",
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
   "discovery_scope": "Producer catalogues, archived producer releases, specialist reviews, control-state listings, historical museum material and archival retail/auction identity records. This ledger is a defensible selection, not a count-maximizing catalogue of all bottle variants.",
   "ordering": "Widow Jane first, then Canadian family alphabetically, canonical expression alphabetically. Immutable deterministic_order for this discovery set; append later authenticated discoveries.",
@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 120,
-    "accepted": 105
+    "pending": 115,
+    "accepted": 110
   },
   "entries": [
     {
@@ -8007,17 +8007,17 @@
       "brand_family": "Crown Royal",
       "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
       "status": "discontinued",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "whisky_category": "Flavored whiskey",
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky; smoke infusion",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Crown Royal De Luxe Canadian whisky base with mesquite smoke flavor; final grain percentages and flavoring formula undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mesquite smoke treatment",
+      "finishing_information": "Mesquite smoky-flavor infusion; no separate mesquite-cask finish authenticated.",
       "release_year_or_era": "2018",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -8029,13 +8029,48 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/crown-royal-texas-mesquite-40.html",
+            "summary": "De Kergommeaux finds the smoke controlled enough for sweetness, spice and wood to remain perceptible, though the initial presentation is fairly simple.",
+            "scope": "May 26, 2018; exact forty-percent Texas Mesquite; full independent account."
+          },
+          {
+            "reviewer": "Forrest C. Price",
+            "publisher": "The Whiskey Wash",
+            "url": "https://thewhiskeywash.com/canadian-whiskey/whisky-review-crown-royal-texas-mesquite/",
+            "summary": "Price finds a less sweet, more savory and saline profile than the aroma suggests, with useful texture and a lingering smoky-spicy ending. He sees a practical cocktail role.",
+            "scope": "October 30, 2018; exact Texas Mesquite, USD 25 / 750 mL reference; the infusion method remains unresolved."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 110
+      "deterministic_order": 110,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-015",
+      "publication_sources": [
+        {
+          "title": "May 2018 producer launch",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-goes-big-with-the-launch-of-limited-edition-crown-royal-texas-mesquite-300652888.html",
+          "role": "De Luxe base, flavor addition, strength, limited rollout and exact original USD 24.99 / 750 mL MSRP."
+        },
+        {
+          "title": "Texas Mesquite — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/crown-royal-texas-mesquite-40.html",
+          "role": "Independent integration assessment and visually verified exact photograph."
+        },
+        {
+          "title": "Texas Mesquite — Whiskey Wash",
+          "url": "https://thewhiskeywash.com/canadian-whiskey/whisky-review-crown-royal-texas-mesquite/",
+          "role": "Second full sensory account; undefined infusion language is retained."
+        }
+      ]
     },
     {
       "id": "crown-royal-vanilla",
@@ -8045,16 +8080,16 @@
       "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
       "status": "current",
       "whisky_category": "Flavored whiskey",
-      "proof": 70.0,
+      "proof": 70,
       "abv": 35.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky with vanilla flavor",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian whisky blend infused with Madagascar Bourbon vanilla flavor; final grain percentages and sugar quantity undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring",
+      "finishing_information": "Vanilla flavor infusion; no distinct cask finish authenticated.",
       "release_year_or_era": "2016",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -8066,13 +8101,63 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2016/12/05/review-crown-royal-vanilla-canadian-whisky/",
+            "summary": "Null finds overwhelmingly sweet vanilla with only modest additional development. He considers it serviceable for simple mixed drinks, rather than an especially rewarding neat pour.",
+            "scope": "December 5, 2016; exact 70-proof Vanilla."
+          },
+          {
+            "reviewer": "G-LO and Limpd",
+            "publisher": "It’s Just the Booze Dancing",
+            "url": "https://boozedancing.com/2016/12/27/crown-royal-vanilla/",
+            "summary": "The two tasters find convincing vanilla and useful spice but differ on heat and sweetness. G-LO finds a bitter cocktail improves balance; both place it closer to dessert drinking than bold whisky.",
+            "scope": "December 27, 2016; exact 35% Vanilla, disclosed supplied sample; one publisher with two tasters, not two independent publications."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 111
+      "deterministic_order": 111,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-015",
+      "publication_sources": [
+        {
+          "title": "Current Vanilla producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-vanilla",
+          "role": "Exact label image, Madagascar Bourbon vanilla flavor and 35% strength."
+        },
+        {
+          "title": "October 2016 producer announcement",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-introduces-vanilla-flavored-whisky-and-its-so-good-300339998.html",
+          "role": "Nationwide announcement and original USD 24.99 / 750 mL price."
+        },
+        {
+          "title": "Vanilla — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2016/12/05/review-crown-royal-vanilla-canadian-whisky/",
+          "role": "Full independent exact-release sensory review."
+        },
+        {
+          "title": "Vanilla — Booze Dancing",
+          "url": "https://boozedancing.com/2016/12/27/crown-royal-vanilla/",
+          "role": "Two substantive sensory accounts and tested bitter-cocktail use."
+        },
+        {
+          "title": "Vanilla — Distiller",
+          "url": "https://distiller.com/spirits/crown-royal-vanilla",
+          "role": "Earlier August 2016 launch-era record; not used to invent a first-sale day."
+        },
+        {
+          "title": "NC August–October 2026 catalogue",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "37-918, 70 proof, 750 mL, regular USD 32.95."
+        }
+      ]
     },
     {
       "id": "crown-royal-xo",
@@ -8082,16 +8167,16 @@
       "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Blend of more than fifty Crown Royal whiskies; final corn/rye/barley proportions undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Cognac casks",
+      "finishing_information": "Finish in ex-Cognac casks made from French Limousin oak; duration undisclosed.",
       "release_year_or_era": "2014",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -8103,13 +8188,58 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/crown-royal-x-o.html",
+            "summary": "De Kergommeaux finds substantial creamy body, mature wood and layered fruit/spice development, with a persistent ending. His sample supplies the strongest depth evidence.",
+            "scope": "June 19, 2014; exact XO at 40%, separate from Cask No. 16."
+          },
+          {
+            "reviewer": "Bobby",
+            "publisher": "Adventures in Whiskey",
+            "url": "https://adventuresinwhiskey.com/2016/02/03/crown-royal-xo-and-xr-canadian-whisky-reviews/",
+            "summary": "Bobby finds a step up in flavor from the flagship but too light in weight and short in the finish for his preference, contrasting with the richer specialist sample.",
+            "scope": "February 3, 2016; exact XO section at 40%, disclosed Diageo sample; XR section kept separate."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 112
+      "deterministic_order": 112,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-015",
+      "publication_sources": [
+        {
+          "title": "Current XO producer record",
+          "url": "https://www.crownroyal.com/canadian-whisky/crown-royal-xo",
+          "role": "Exact image, 40% strength and Cognac-cask finish."
+        },
+        {
+          "title": "January 2014 XO producer launch",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-introduces-extraordinary-new-member-to-the-family-240527631.html",
+          "role": "Blend scope, Limousin Cognac casks, timing and original USD 49.99 / 750 mL MSRP."
+        },
+        {
+          "title": "XO — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/crown-royal-x-o.html",
+          "role": "Full favorable exact XO sample."
+        },
+        {
+          "title": "XO and XR — Adventures in Whiskey",
+          "url": "https://adventuresinwhiskey.com/2016/02/03/crown-royal-xo-and-xr-canadian-whisky-reviews/",
+          "role": "Full lighter-profile XO counterevidence; separate bottle sections."
+        },
+        {
+          "title": "NC August–October 2026 catalogue",
+          "url": "https://www.abc.nc.gov/pricing/august-october-2026-printer-friendly/open",
+          "role": "37-905, 80 proof, 750 mL, regular USD 49.95."
+        }
+      ]
     },
     {
       "id": "crown-royal-xr-blue-lasalle",
@@ -8119,16 +8249,16 @@
       "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
       "status": "discontinued",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian blend incorporating LaSalle flavoring-whisky stocks with other Crown Royal whiskies; complete final grain percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "Oak maturation; no separate secondary cask finish authenticated.",
       "release_year_or_era": "2012",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -8140,13 +8270,60 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/crown-royal-xr-lasalle-canadian-whisky.html",
+            "summary": "De Kergommeaux finds a broad fruit-led profile with substantial texture and an extended spicy ending, while noting less crisp wood definition than the earlier XR.",
+            "scope": "August 4, 2012; exact LaSalle edition, directly distinguished from Waterloo."
+          },
+          {
+            "reviewer": "Stephanie Moreno",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/crown-royal-xr",
+            "summary": "Moreno instead finds an aggressive, young-grain impression and an ending that turns overly drying, raising a material integration concern.",
+            "scope": "Professional tasting section explicitly identifies blue LaSalle; mixed user reviews of red and blue are not aggregated."
+          },
+          {
+            "reviewer": "Bobby",
+            "publisher": "Adventures in Whiskey",
+            "url": "https://adventuresinwhiskey.com/2016/02/03/crown-royal-xo-and-xr-canadian-whisky-reviews/",
+            "summary": "Bobby finds worthwhile complexity and a longer sweet/spicy ending than XO, although the grain-led entry is initially sharp.",
+            "scope": "February 3, 2016; LaSalle XR section, 40%, disclosed brand sample; XO evidence kept separate."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 113
+      "deterministic_order": 113,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-015",
+      "publication_sources": [
+        {
+          "title": "2012 LaSalle producer launch",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-unveils-new-whisky-creating-extra-rare-whisky-series-151744185.html",
+          "role": "Second-edition identity, 2006 predecessor, June U.S. availability and exact USD 129.99 / 750 mL MSRP."
+        },
+        {
+          "title": "XR LaSalle — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/crown-royal-xr-lasalle-canadian-whisky.html",
+          "role": "Full expression-specific production/sensory account and visually verified blue image."
+        },
+        {
+          "title": "XR — Distiller professional review",
+          "url": "https://distiller.com/spirits/crown-royal-xr",
+          "role": "Blue-specific unfavorable integration evidence; mixed community identities excluded."
+        },
+        {
+          "title": "XO and XR — Adventures in Whiskey",
+          "url": "https://adventuresinwhiskey.com/2016/02/03/crown-royal-xo-and-xr-canadian-whisky-reviews/",
+          "role": "Separate substantive blue XR sample."
+        }
+      ]
     },
     {
       "id": "crown-royal-xr-red-waterloo",
@@ -8156,16 +8333,16 @@
       "producer": "Crown Royal / Diageo; Canadian distillation, maturity and blend identity",
       "status": "discontinued",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Blend of Waterloo and other Crown Royal whiskies, including Gimli stocks; exact grain percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "Oak maturation; no separate secondary cask finish authenticated.",
       "release_year_or_era": "2006",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -8177,13 +8354,65 @@
       ],
       "potential_image_source": "https://www.crownroyal.com/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/crown-royal-xr-extra-rare-40-alc-vol.html",
+            "summary": "De Kergommeaux finds unusually coherent structure, substantial body and an extended finish, with mature wood supporting rather than swamping the grain and fruit.",
+            "scope": "February 14, 2012; original Waterloo XR, exact red-label photo; not the later LaSalle blend."
+          },
+          {
+            "reviewer": "P.P. (Paul Pacult)",
+            "publisher": "Wine Enthusiast",
+            "url": "https://www.wineenthusiast.com/buying-guide/crown-royal-xr-extra-rare-blended-canadian-whisky/",
+            "summary": "Pacult finds a refined, well-developed and lively whisky, with a textured middle and an elegant, drier ending.",
+            "scope": "October 1, 2007; pre-LaSalle original XR at 40%; original score band not converted mechanically."
+          },
+          {
+            "reviewer": "Sku",
+            "publisher": "L.A. Whisk(E)y Society",
+            "url": "https://www.lawhiskeysociety.com/whiskey/2365/Crown-Royal-XR-Waterloo",
+            "summary": "Sku finds a notably rye-like profile and a sweet, thick palate that works together, but considers the asking price difficult to justify.",
+            "scope": "Database entry added July 16, 2012 explicitly named XR Waterloo; one substantive member account, not a representative community consensus."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 114
+      "deterministic_order": 114,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-015",
+      "publication_sources": [
+        {
+          "title": "2012 producer confirmation of original edition",
+          "url": "https://www.prnewswire.com/news-releases/crown-royal-unveils-new-whisky-creating-extra-rare-whisky-series-151744185.html",
+          "role": "Primary retrospective dating of Waterloo XR to 2006 and distinction from new LaSalle edition."
+        },
+        {
+          "title": "Waterloo XR — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/crown-royal-xr-extra-rare-40-alc-vol.html",
+          "role": "Exact red bottle image, full independent sensory record and attributed stock chronology."
+        },
+        {
+          "title": "Waterloo museum red XR object",
+          "url": "https://www.waterloo.ca/museum/explore-the-collection/crown-royal-extra-xr-rare-whisky-bottle-with-red-bag-and-box/",
+          "role": "2006 introduction, 2007 collection object and contradictory component chronology; no numeric blend age inferred."
+        },
+        {
+          "title": "2007 XR — Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/crown-royal-xr-extra-rare-blended-canadian-whisky/",
+          "role": "Independent full tasting, date, 40% strength and USD 150 context without stated bottle size."
+        },
+        {
+          "title": "XR Waterloo — L.A. society",
+          "url": "https://www.lawhiskeysociety.com/whiskey/2365/Crown-Royal-XR-Waterloo",
+          "role": "Explicit edition identity, sensory counterweight and historical price context without package size."
+        }
+      ]
     },
     {
       "id": "forty-creek-22-year-rye-2019",

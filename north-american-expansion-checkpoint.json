@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 14,
+  "checkpoint": 15,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -945,11 +945,16 @@
     "crown-royal-reserve-12-year.html",
     "crown-royal-reserve-legacy-nas.html",
     "crown-royal-salted-caramel.html",
-    "crown-royal-single-malt.html"
+    "crown-royal-single-malt.html",
+    "crown-royal-texas-mesquite.html",
+    "crown-royal-vanilla.html",
+    "crown-royal-xo.html",
+    "crown-royal-xr-blue-lasalle.html",
+    "crown-royal-xr-red-waterloo.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 77,
-  "dossier_count": 930,
+  "canadian_added": 82,
+  "dossier_count": 935,
   "history": [
     {
       "checkpoint": 1,
@@ -1433,9 +1438,45 @@
         "Salted Caramel authenticated by September 2017 distributor record and current winter-seasonal producer identity; 2019 holiday sample era is not first launch. Severe exact-sample integration critique and more moderate independent use-case evidence retained. Not declared a native catastrophic anchor.",
         "Single Malt uses producer-confirmed Valleyfield, 100% malted barley and copper distillation; specialist short-column/new-oak detail is attributed, other reviewers’ cask guesses excluded. Canadian Single Malt category remains separate from Scotch and American single malt. Exact current NC USD 59.95 / 750 mL retained."
       ]
+    },
+    {
+      "checkpoint": 15,
+      "files": [
+        "crown-royal-texas-mesquite.html",
+        "crown-royal-vanilla.html",
+        "crown-royal-xo.html",
+        "crown-royal-xr-blue-lasalle.html",
+        "crown-royal-xr-red-waterloo.html"
+      ],
+      "parent_commit": "c82ad21b805b3797d40a7febf1a68c15ae6db413",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 7102,
+        "functional_cases_passed": 444,
+        "responsive_pages_rendered": 333,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 92,
+        "failures": 0
+      },
+      "additional_preservation": "All 105 earlier expansion dossiers and all 930 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Candidates 110–114 resolved in exact deterministic order; all final five pending Crown Royal expressions accepted with exact visually inspected images embedded and no standalone assets.",
+        "Texas Mesquite primary May 2018 release verifies De Luxe plus mesquite smoky flavor, eighty proof and USD 24.99 / 750 mL MSRP. Editorial category corrected from seed Canadian blend to Flavored whiskey; no unverified direct-smoking, mesquite-cask or infusion-duration method invented.",
+        "Vanilla primary October 2016 nationwide announcement distinguished from an earlier August launch-era record; exact first-sale day unresolved. Madagascar Bourbon vanilla is not an authenticated American bourbon component. Two independent publishers inspected, with both Booze Dancing tasters counted under one publisher.",
+        "XO primary January 2014 launch authenticates more than fifty-whisky blend and Limousin Cognac-cask finish; finish duration and full recipe remain unknown. Independent rich/long and light/short sample disagreement retained.",
+        "Vanilla and XO exact current NC regular 750 mL prices authenticated from freshly retrieved August–October 2026 catalogue: USD 32.95 / code 37-918 and USD 49.95 / code 37-905.",
+        "LaSalle Blue authenticated as second XR in 2012, with original USD 129.99 / 750 mL U.S. MSRP. Remaining LaSalle stocks are components, not the whole blend. Distiller professional blue-specific criticism retained; user ratings mixing red and blue excluded from consensus.",
+        "Waterloo Red authenticated as original 2006 XR. Contradictory final-distillation/filling histories remain attributed and never become a numeric complete-blend age. Museum 2007 object date and royal Heritage Blend are not substituted for the ordinary red XR identity.",
+        "Red XR has three substantive independent sensory accounts and provisional Quality. Historical U.S. USD 150 records lack an authenticated matching package size, so numeric Cost and Value remain N/A rather than borrowing the blue edition price.",
+        "All numeric Canadian assessments retain the established universal execution rubric pending a defensible complete native anchor framework; no unrelated American endpoints imported. Categorical UI normalization remains deferred until ledger exhaustion."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: crown-royal-texas-mesquite",
+  "next_action": "Research next pending expression in deterministic order: forty-creek-22-year-rye-2019",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1443,24 +1484,24 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 14,
+      "checkpoint": 15,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 930,
-      "new_dossiers": 105,
-      "html_files_structurally_checked": 106,
+      "dossiers": 935,
+      "new_dossiers": 110,
+      "html_files_structurally_checked": 111,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 6929,
-      "local_references_checked": 1889,
-      "embedded_image_occurrences_decoded": 87,
-      "unique_image_payloads_decoded": 87,
-      "image_dossiers_added": 87,
+      "checks": 7102,
+      "local_references_checked": 1939,
+      "embedded_image_occurrences_decoded": 92,
+      "unique_image_payloads_decoded": 92,
+      "image_dossiers_added": 92,
       "numeric_counts": {
-        "quality": 95,
-        "value": 83,
-        "overall": 83
+        "quality": 100,
+        "value": 87,
+        "overall": 87
       },
       "failure_count": 0,
       "failures": []
@@ -1470,15 +1511,15 @@
       "browser": "Chromium",
       "browser_version": "141.0.7390.0",
       "functional_cases_passed": 444,
-      "responsive_cases": 318,
+      "responsive_cases": 333,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
       "failures": 0
     }
   },
-  "updated_at": "2026-10-14",
-  "last_parent_commit": "dc31b37bde3c07688760ffa4736e57b5b244fdd5",
+  "updated_at": "2026-10-15",
+  "last_parent_commit": "c82ad21b805b3797d40a7febf1a68c15ae6db413",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",
