@@ -66197,5 +66197,1870 @@
       "image_source": "https://shop.jpwisers.com/products/jp-wisers-vanilla-canadian-whisky",
       "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Vanilla.jpg?v=1742993783"
     }
+  },
+  {
+    "slug": "lot-no-40-100-pot-still-rye",
+    "filename": "lot-no-40-100-pot-still-rye.html",
+    "name": "Lot No. 40 100% Pot Still Rye",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% rye; current unmalted-rye production is documented in blender-visit reporting and the matched current retailer account. Older malted-rye percentages are not its formula.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 7.3,
+    "quality_score": 7.3,
+    "value": 7.0,
+    "value_score": 7.0,
+    "overall": 7.148426400264607,
+    "overall_score": 7.148426400264607,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.5,
+        "flavor_development": 7.4,
+        "finish": 7.0,
+        "technical_cleanliness": 7.1,
+        "texture": 7.0,
+        "maturity_wood_management": 7.3,
+        "distinctiveness": 7.7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.285,
+      "editorial_adjustment": 0.015,
+      "adjustment_reason": "Very good provisional Canadian all-rye execution. Substantive matched accounts support layered development, sweetness/spice balance and persistence; occasional sulfur-like aromatic description and batch-era limits temper exceptional claims. No American straight-rye endpoints are used."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional Canadian all-rye execution. Substantive matched accounts support layered development, sweetness/spice balance and persistence; occasional sulfur-like aromatic description and batch-era limits temper exceptional claims. No American straight-rye endpoints are used.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "Good drinking Value at the checked USD 39.99 / 750 mL offer: a very good, versatile Canadian all-rye with a premium over the accepted Alberta Premium historical USD 26 reference. That older peer price is context, not a simultaneous shopping offer. No NC stock claim or scarcity bonus.",
+    "value_confidence": "Provisional; exact current U.S. advertised offer, tax/shipping and recipe-era limitations",
+    "value_na_reason": null,
+    "price": 39.99,
+    "price_basis": "Dated exact 86-proof U.S. Caskers offer, USD 39.99 / 750 mL, before tax/shipping",
+    "price_url": "https://www.caskers.com/lot-no-40-100-rye-whisky/",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 39.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Historical NC code 37770 listed USD 39.95 effective May 1, 2024; a current NC listing was not authenticated. Supplier field is not the actual distillery.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2012,
+    "release_scope": "Lot No. 40 modern recurring 100% Pot Still Rye, NAS, 43% ABV / 86 proof, 750 mL; current unmalted-rye formulation, distinct from the 1998 Guild predecessor.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://thebourbonculture.com/whiskey-reviews/lot-40-rye-whiskey-review/",
+      "https://www.wineenthusiast.com/buying-guide/lot-no-40-canadian-rye-whiskey/"
+    ],
+    "review_publishers": [
+      "Bourbon Culture",
+      "Wine Enthusiast"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Bourbon Culture",
+        "publisher": "Bourbon Culture",
+        "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-rye-whiskey-review/",
+        "summary": "The 86-proof bottle develops several sweet, herbal and floral layers with a pleasing finish. A small burned-match aroma qualifies an otherwise favorable account.",
+        "scope": "January 2020 core bottle; rumored age and American cross-category ranking are not adopted."
+      },
+      {
+        "reviewer": "Kara Newman",
+        "publisher": "Wine Enthusiast",
+        "url": "https://www.wineenthusiast.com/buying-guide/lot-no-40-canadian-rye-whiskey/",
+        "summary": "Newman finds a full-bodied caramel/oak profile, developed baking spice and a persistent, oily ending.",
+        "scope": "November 1, 2015, 43% / 750 mL recurring range; current-batch continuity is not independently certified."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/lot-no-40-100-pot-still-rye-whisky",
+      "https://whisky.buzz/blog/the-insider-story-of-the-evolving-lot-no-40-canadian-rye-whisky",
+      "https://thebourbonculture.com/whiskey-reviews/lot-40-rye-whiskey-review/",
+      "https://www.wineenthusiast.com/buying-guide/lot-no-40-canadian-rye-whiskey/",
+      "https://www.caskers.com/lot-no-40-100-rye-whisky/",
+      "https://abc2.nc.gov/Pricing/ViewItemDetails/155144"
+    ],
+    "production_summary": "Current producer confirms all rye, copper-pot distillation and virgin white-oak maturation. Bylok’s blender-visit account describes a column pass followed by pot distillation, and a 2013 switch to unmalted rye with commercial enzymes. Pot Still in the name does not mean there was no first column distillation. Six-to-eight-year stock estimates are not a label age; a specific rye cultivar is not inferred for every current batch.",
+    "finishing_information": "Virgin white-oak maturation, with charred American oak documented in specialist reporting; no separate finish established.",
+    "identity_note": null,
+    "history": [
+      "The brand first appeared in the 1998 Canadian Whisky Guild and was relaunched in 2012. Modern recurring all-rye production is scoped separately from the original reused-cask recipe.",
+      "The current producer photograph verifies the modern core, rather than a Cask Strength or Dark Oak sibling. Earlier 2012 malt-including stock is not asserted identical to every later bottle."
+    ],
+    "comparables": [
+      {
+        "url": "alberta-premium-100-rye.html",
+        "name": "Alberta Premium 100% Rye",
+        "reason": "Another Canadian all-rye with different distillation, style and dated U.S. price context."
+      },
+      {
+        "url": "lot-no-40-cask-strength-12-year-2017.html",
+        "name": "Lot No. 40 Cask Strength 2017",
+        "reason": "Age-stated limited alternative; strength and rarity do not automatically add Quality."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 30,
+        "current_band": false,
+        "reason": "Strong price for this documented modern core if identity and full delivered cost match.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 30,
+        "maximum_exclusive": 40,
+        "current_band": true,
+        "reason": "A useful sipping and mixing purchase if the rye-forward style appeals.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 40,
+        "maximum_exclusive": 50,
+        "current_band": false,
+        "reason": "Reasonable for the verified core; compare delivered cost with recurring Canadian rye alternatives.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 50,
+        "maximum_exclusive": 60,
+        "current_band": false,
+        "reason": "The premium starts to weaken Value for a recurring NAS bottling.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 60,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Seek a lower-priced core offer or a sampled alternative rather than paying a scarcity premium.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/lot-no-40-100-pot-still-rye-whisky",
+        "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Lot40.png?v=1748439339",
+        "scope": "Lot No. 40 modern recurring 100% Pot Still Rye, NAS, 43% ABV / 86 proof, 750 mL; current unmalted-rye formulation, distinct from the 1998 Guild predecessor.",
+        "sha256": "da8e7bae497c7cdd9c075826748e688b65cff9e738723a8c02f63e3566947add",
+        "image_embedded": true,
+        "width": 1080,
+        "height": 1890
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 modern recurring 100% Pot Still Rye, NAS, 43% ABV / 86 proof, 750 mL; current unmalted-rye formulation, distinct from the 1998 Guild predecessor.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-031",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 30,
+          "current_band": false,
+          "reason": "Strong price for this documented modern core if identity and full delivered cost match.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 30,
+          "maximum_exclusive": 40,
+          "current_band": true,
+          "reason": "A useful sipping and mixing purchase if the rye-forward style appeals.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 40,
+          "maximum_exclusive": 50,
+          "current_band": false,
+          "reason": "Reasonable for the verified core; compare delivered cost with recurring Canadian rye alternatives.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 50,
+          "maximum_exclusive": 60,
+          "current_band": false,
+          "reason": "The premium starts to weaken Value for a recurring NAS bottling.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 60,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Seek a lower-priced core offer or a sampled alternative rather than paying a scarcity premium.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds around the dated USD 39.99 offer; no automated market valuation."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "Good drinking Value at the checked USD 39.99 / 750 mL offer: a very good, versatile Canadian all-rye with a premium over the accepted Alberta Premium historical USD 26 reference. That older peer price is context, not a simultaneous shopping offer. No NC stock claim or scarcity bonus.",
+      "id": "lot-no-40-100-pot-still-rye",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 86,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2012,
+      "quality": 7.3,
+      "value": 7.0,
+      "dimensions": [
+        7.5,
+        7.4,
+        7.0,
+        7.1,
+        7.0,
+        7.3,
+        7.7
+      ],
+      "identity": "Lot No. 40 modern recurring 100% Pot Still Rye, NAS, 43% ABV / 86 proof, 750 mL; current unmalted-rye formulation, distinct from the 1998 Guild predecessor.",
+      "short_version": "A characterful Canadian all-rye with layered bread, spice and floral character. Matched accounts support sipping and cocktails without an age statement or high-proof bonus.",
+      "grain": "100% rye; current unmalted-rye production is documented in blender-visit reporting and the matched current retailer account. Older malted-rye percentages are not its formula.",
+      "production": "Current producer confirms all rye, copper-pot distillation and virgin white-oak maturation. Bylok’s blender-visit account describes a column pass followed by pot distillation, and a 2013 switch to unmalted rye with commercial enzymes. Pot Still in the name does not mean there was no first column distillation. Six-to-eight-year stock estimates are not a label age; a specific rye cultivar is not inferred for every current batch.",
+      "finish": "Virgin white-oak maturation, with charred American oak documented in specialist reporting; no separate finish established.",
+      "history": [
+        "The brand first appeared in the 1998 Canadian Whisky Guild and was relaunched in 2012. Modern recurring all-rye production is scoped separately from the original reused-cask recipe.",
+        "The current producer photograph verifies the modern core, rather than a Cask Strength or Dark Oak sibling. Earlier 2012 malt-including stock is not asserted identical to every later bottle."
+      ],
+      "quality_rationale": "Very good provisional Canadian all-rye execution. Substantive matched accounts support layered development, sweetness/spice balance and persistence; occasional sulfur-like aromatic description and batch-era limits temper exceptional claims. No American straight-rye endpoints are used.",
+      "pricing": {
+        "amount": 39.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://www.caskers.com/lot-no-40-100-rye-whisky/",
+        "basis": "Dated exact 86-proof U.S. Caskers offer, USD 39.99 / 750 mL, before tax/shipping",
+        "nc_status": "Historical NC code 37770 listed USD 39.95 effective May 1, 2024; a current NC listing was not authenticated. Supplier field is not the actual distillery."
+      },
+      "sources": [
+        {
+          "title": "Producer — modern Lot No. 40",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-100-pot-still-rye-whisky",
+          "role": "Current 43% exact pack, rye grain, pot-still stage and virgin white oak; Ontario CAD 42.45 separately."
+        },
+        {
+          "title": "Mark Bylok — blender-visit recipe history",
+          "url": "https://whisky.buzz/blog/the-insider-story-of-the-evolving-lot-no-40-canadian-rye-whisky",
+          "role": "October 2017 technical history, used versus virgin oak, reported 2013 enzyme/malted-rye change; future cultivar plans not assumed completed."
+        },
+        {
+          "title": "Bourbon Culture — core 86-proof review",
+          "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-rye-whiskey-review/",
+          "role": "January 2020 matched core account; U.S. comparisons are reviewer preference, not Canadian scoring endpoints."
+        },
+        {
+          "title": "Kara Newman — Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/lot-no-40-canadian-rye-whiskey/",
+          "role": "November 1, 2015 exact 43% independent sensory account; grade not converted."
+        },
+        {
+          "title": "Caskers — exact modern 100% rye offer",
+          "url": "https://www.caskers.com/lot-no-40-100-rye-whisky/",
+          "role": "USD 39.99 / 750 mL / 86 proof checked October 15, 2026. Tax, shipping and destination availability are separate."
+        },
+        {
+          "title": "NC ABC — historical core listing",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/155144",
+          "role": "Code 37770, USD 39.95 effective May 1, 2024; not presented as current 2026 NC retail."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Bourbon Culture",
+          "publisher": "Bourbon Culture",
+          "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-rye-whiskey-review/",
+          "summary": "The 86-proof bottle develops several sweet, herbal and floral layers with a pleasing finish. A small burned-match aroma qualifies an otherwise favorable account.",
+          "scope": "January 2020 core bottle; rumored age and American cross-category ranking are not adopted."
+        },
+        {
+          "reviewer": "Kara Newman",
+          "publisher": "Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/lot-no-40-canadian-rye-whiskey/",
+          "summary": "Newman finds a full-bodied caramel/oak profile, developed baking spice and a persistent, oily ending.",
+          "scope": "November 1, 2015, 43% / 750 mL recurring range; current-batch continuity is not independently certified."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "alberta-premium-100-rye.html",
+          "name": "Alberta Premium 100% Rye",
+          "reason": "Another Canadian all-rye with different distillation, style and dated U.S. price context."
+        },
+        {
+          "url": "lot-no-40-cask-strength-12-year-2017.html",
+          "name": "Lot No. 40 Cask Strength 2017",
+          "reason": "Age-stated limited alternative; strength and rarity do not automatically add Quality."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/lot-no-40-100-pot-still-rye-whisky",
+      "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Lot40.png?v=1748439339",
+      "value_confidence": "Provisional; exact current U.S. advertised offer, tax/shipping and recipe-era limitations"
+    }
+  },
+  {
+    "slug": "lot-no-40-1998-original-recipe",
+    "filename": "lot-no-40-1998-original-recipe.html",
+    "name": "Lot No. 40 1998 Original Recipe",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Rye and malted rye, the same cereal. Bylok reports 95% unmalted / 5% malted rye; differing retrospective 90/10 claims prevent treating a ratio as a verified universal label specification.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 7.7,
+    "quality_score": 7.7,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.8,
+        "flavor_development": 8.0,
+        "finish": 8.0,
+        "technical_cleanliness": 7.0,
+        "texture": 7.5,
+        "maturity_wood_management": 7.0,
+        "distinctiveness": 8.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.66,
+      "editorial_adjustment": 0.04,
+      "adjustment_reason": "Very good provisional historical Canadian all-rye execution. Developing complexity, rich body and long persistence support the score, balanced by tannic astringency, grain bitterness and unconventional aromas. One detailed old-stock account limits confidence; collectible status adds no points."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional historical Canadian all-rye execution. Developing complexity, rich body and long persistence support the score, balanced by tannic astringency, grain bitterness and unconventional aromas. One detailed old-stock account limits confidence; collectible status adds no points.",
+    "quality_confidence": "Low, provisional; one detailed original-era old-stock tasting, no representative batch survey",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Alberta old-stock CAD 38 quoted in October 18, 2011 account; not present U.S. retail",
+    "price_url": "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+    "price_period": "2011-10-18",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 38,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 1998,
+    "release_scope": "Lot No. 40 original Canadian Whisky Guild-era recipe introduced in 1998, NAS, 43% ABV / 86 proof; original diagonal-label pack, reviewed as old stock in 2011.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html"
+    ],
+    "review_publishers": [
+      "Canadian Whisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+        "summary": "The old-stock review describes an initially bread-led profile that opens into fruit and spice, with rich texture and a long peppery finish. Woody astringency, bitterness and unusual watery/pool-like aromas qualify its strong praise.",
+        "scope": "October 18, 2011 site dateline, explicitly original Guild range before the 2012 release; aromatic language is not a contamination diagnosis."
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+      "https://whisky.buzz/blog/the-insider-story-of-the-evolving-lot-no-40-canadian-rye-whisky"
+    ],
+    "production_summary": "The original Guild-era whisky was made at Hiram Walker with rye and rye malt and matured in reused American oak according to the detailed blender-visit history. The contemporary old-stock account also explicitly contrasts its lack of new-wood influence. This corrects discovery’s provisional new-oak description. Modern unmalted-only production and virgin-oak recipes are not transferred backwards. No numerical label age is authenticated.",
+    "finishing_information": "Reused American-oak maturation; no verified distinct secondary finish. Modern new-oak treatment is excluded from this original scope.",
+    "identity_note": null,
+    "history": [
+      "Introduced in 1998 under the Canadian Whisky Guild and discontinued before the modern 2012 revival. The 2011 old-stock review explicitly predates and links separately to the new edition.",
+      "Recipe and cask differences support a historical dossier. Classification is corrected to Canadian all-rye/single-grain: malted and unmalted rye do not imply different cereals."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "name": "Modern Lot No. 40 core",
+        "reason": "Different cask regime and later unmalted-rye recipe; the shared name is not unchanged liquid."
+      },
+      {
+        "url": "lot-no-40-cask-strength-12-year-2017.html",
+        "name": "Lot No. 40 Cask Strength 2017",
+        "reason": "A later age-stated, new-oak release rather than original Guild stock."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a scarcity or presentation premium; age and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484130392-H2LE0P8GE8XZKHNXSV1P/Lot40.jpg",
+        "scope": "Lot No. 40 original Canadian Whisky Guild-era recipe introduced in 1998, NAS, 43% ABV / 86 proof; original diagonal-label pack, reviewed as old stock in 2011.",
+        "sha256": "abeaf98c8c00e9c3b84dd5584e6362f84bf68460c3de3937e33fe4ca38053720",
+        "image_embedded": true,
+        "width": 800,
+        "height": 505
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 original Canadian Whisky Guild-era recipe introduced in 1998, NAS, 43% ABV / 86 proof; original diagonal-label pack, reviewed as old stock in 2011.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-031",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a scarcity or presentation premium; age and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "lot-no-40-1998-original-recipe",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 86,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 1998,
+      "quality": 7.7,
+      "value": null,
+      "dimensions": [
+        7.8,
+        8.0,
+        8.0,
+        7.0,
+        7.5,
+        7.0,
+        8.2
+      ],
+      "identity": "Lot No. 40 original Canadian Whisky Guild-era recipe introduced in 1998, NAS, 43% ABV / 86 proof; original diagonal-label pack, reviewed as old stock in 2011.",
+      "short_version": "The original rye-and-rye-malt recipe is a separate historical whisky with powerful bread-like character, developing fruit and a long ending. Dryness and astringency remain part of the record.",
+      "grain": "Rye and malted rye, the same cereal. Bylok reports 95% unmalted / 5% malted rye; differing retrospective 90/10 claims prevent treating a ratio as a verified universal label specification.",
+      "production": "The original Guild-era whisky was made at Hiram Walker with rye and rye malt and matured in reused American oak according to the detailed blender-visit history. The contemporary old-stock account also explicitly contrasts its lack of new-wood influence. This corrects discovery’s provisional new-oak description. Modern unmalted-only production and virgin-oak recipes are not transferred backwards. No numerical label age is authenticated.",
+      "finish": "Reused American-oak maturation; no verified distinct secondary finish. Modern new-oak treatment is excluded from this original scope.",
+      "history": [
+        "Introduced in 1998 under the Canadian Whisky Guild and discontinued before the modern 2012 revival. The 2011 old-stock review explicitly predates and links separately to the new edition.",
+        "Recipe and cask differences support a historical dossier. Classification is corrected to Canadian all-rye/single-grain: malted and unmalted rye do not imply different cereals."
+      ],
+      "quality_rationale": "Very good provisional historical Canadian all-rye execution. Developing complexity, rich body and long persistence support the score, balanced by tannic astringency, grain bitterness and unconventional aromas. One detailed old-stock account limits confidence; collectible status adds no points.",
+      "pricing": {
+        "amount": 38,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2011-10-18",
+        "url": "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+        "basis": "Historical Alberta old-stock CAD 38 quoted in October 18, 2011 account; not present U.S. retail",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Canadian Whisky — original pre-2012 account",
+          "url": "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+          "role": "Exact 43% old-stock expression, original label photograph, mature sensory detail and historical Alberta CAD 38 context."
+        },
+        {
+          "title": "Whisky Buzz — blender-visit recipe evolution",
+          "url": "https://whisky.buzz/blog/the-insider-story-of-the-evolving-lot-no-40-canadian-rye-whisky",
+          "role": "Original used-cask recipe and attributed 95/5 rye/rye-malt account, distinct from 2012 new oak and 2013 unmalted change."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+          "summary": "The old-stock review describes an initially bread-led profile that opens into fruit and spice, with rich texture and a long peppery finish. Woody astringency, bitterness and unusual watery/pool-like aromas qualify its strong praise.",
+          "scope": "October 18, 2011 site dateline, explicitly original Guild range before the 2012 release; aromatic language is not a contamination diagnosis."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "name": "Modern Lot No. 40 core",
+          "reason": "Different cask regime and later unmalted-rye recipe; the shared name is not unchanged liquid."
+        },
+        {
+          "url": "lot-no-40-cask-strength-12-year-2017.html",
+          "name": "Lot No. 40 Cask Strength 2017",
+          "reason": "A later age-stated, new-oak release rather than original Guild stock."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Low, provisional; one detailed original-era old-stock tasting, no representative batch survey",
+      "image_source": "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5d12445761132800012080ba/1561484130392-H2LE0P8GE8XZKHNXSV1P/Lot40.jpg"
+    }
+  },
+  {
+    "slug": "lot-no-40-cask-strength-11-year-2018",
+    "filename": "lot-no-40-cask-strength-11-year-2018.html",
+    "name": "Lot No. 40 Cask Strength 11 Year (2018)",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 116.8,
+    "abv": 58.4,
+    "age": "11 Years",
+    "age_display": "11 Years",
+    "age_sort_years": 11,
+    "mash_bill_display": "100% rye; matched technical reporting describes column then copper-pot distillation. No malted-rye percentage is imported from the original Guild recipe.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 8.0,
+    "quality_score": 8.0,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.8,
+        "flavor_development": 8.4,
+        "finish": 8.0,
+        "technical_cleanliness": 7.6,
+        "texture": 8.1,
+        "maturity_wood_management": 7.7,
+        "distinctiveness": 8.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.965,
+      "editorial_adjustment": 0.035,
+      "adjustment_reason": "Excellent provisional Canadian all-rye execution: strong development, fullness and persistence, with heat and dry wood limiting integration. Comparisons disagree on whether 2017 or 2018 is preferable. Age and cask strength are specifications, not scoring bonuses."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Excellent provisional Canadian all-rye execution: strong development, fullness and persistence, with heat and dry wood limiting integration. Comparisons disagree on whether 2017 or 2018 is preferable. Age and cask strength are specifications, not scoring bonuses.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Canadian CAD 99 in October 2018 matched review; not a current U.S. offer",
+    "price_url": "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+    "price_period": "2018-10-30",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2018,
+    "release_scope": "Lot No. 40 Cask Strength Second Edition (2018), eleven years, 58.4% ABV / 116.8 proof, 750 mL; distinct from the twelve-year 2017 release.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+      "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/"
+    ],
+    "review_publishers": [
+      "Whisky Buzz",
+      "Toronto Whisky Society"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Mark Bylok",
+        "publisher": "Whisky Buzz",
+        "url": "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+        "summary": "Bylok praises focused rye, caramel and fruit, but calls the palate hot and boozy and less approachable than the 2017 edition.",
+        "scope": "October 30, 2018 Corby-supplied bottle; later purchases disclosed. Neither advocacy nor the original grade becomes Quality points."
+      },
+      {
+        "reviewer": "Devoz",
+        "publisher": "Toronto Whisky Society",
+        "url": "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/",
+        "summary": "The head-to-head finds stronger spice/oak and a long ending in the 2018, with drying late wood. The reviewer prefers the lighter herbal balance of 2017.",
+        "scope": "October 10, 2018, exact eleven-year 58.4% versus twelve-year 55%; an individual comparison, not a representative vote."
+      }
+    ],
+    "source_urls": [
+      "https://www.whiskybase.com/whiskies/whisky/121477/lot-no-40-cask-strength",
+      "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+      "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/"
+    ],
+    "production_summary": "Exact second-edition label records and contemporary reviews agree on eleven years and 58.4%, matured in new charred oak. The lower age than 2017 represents a different release, not a typo to repair to twelve. The reporter’s expectation of a future return to twelve years is not treated as what actually happened in 2019. No separate finish is authenticated.",
+    "finishing_information": "New charred-oak maturation; no separate secondary finish documented for the 2018 Second Edition.",
+    "identity_note": null,
+    "history": [
+      "Released in autumn 2018 following the inaugural 2017 age-stated edition. The matched second-edition record identifies 4,020 bottles.",
+      "A supplied-bottle review and a separate head-to-head tasting give both support and constraints. The eclipse barrel anecdote does not establish a flavor effect or an astronomical production process."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-cask-strength-12-year-2017.html",
+        "name": "Cask Strength 2017",
+        "reason": "Direct comparison with a lower proof, older, more herbal release."
+      },
+      {
+        "url": "lot-no-40-cask-strength-third-edition-2019.html",
+        "name": "Cask Strength Third Edition 2019",
+        "reason": "Separate NAS French-oak experiment, not an eleven-year refill."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a scarcity or presentation premium; age and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5334951ae4b0ecb20d5c1d1b/1540839223838-6Y8QDRZ76DXP7IYVFBJJ/LRG_DSC00314.jpg",
+        "scope": "Lot No. 40 Cask Strength Second Edition (2018), eleven years, 58.4% ABV / 116.8 proof, 750 mL; distinct from the twelve-year 2017 release.",
+        "sha256": "b06f8aaa0b98df9bb5f75696db0a189702f35cb0cf6ff5747cd92cd4fc3ba841",
+        "image_embedded": true,
+        "width": 1616,
+        "height": 1080
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 Cask Strength Second Edition (2018), eleven years, 58.4% ABV / 116.8 proof, 750 mL; distinct from the twelve-year 2017 release.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-031",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a scarcity or presentation premium; age and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "lot-no-40-cask-strength-11-year-2018",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 116.8,
+      "age": 11,
+      "age_display": "11 Years",
+      "release_year": 2018,
+      "quality": 8.0,
+      "value": null,
+      "dimensions": [
+        7.8,
+        8.4,
+        8.0,
+        7.6,
+        8.1,
+        7.7,
+        8.3
+      ],
+      "identity": "Lot No. 40 Cask Strength Second Edition (2018), eleven years, 58.4% ABV / 116.8 proof, 750 mL; distinct from the twelve-year 2017 release.",
+      "short_version": "An intense, rich Canadian all-rye with broad support for spice, body and persistence. Greater heat and a drying edge qualify comparisons with its predecessor.",
+      "grain": "100% rye; matched technical reporting describes column then copper-pot distillation. No malted-rye percentage is imported from the original Guild recipe.",
+      "production": "Exact second-edition label records and contemporary reviews agree on eleven years and 58.4%, matured in new charred oak. The lower age than 2017 represents a different release, not a typo to repair to twelve. The reporter’s expectation of a future return to twelve years is not treated as what actually happened in 2019. No separate finish is authenticated.",
+      "finish": "New charred-oak maturation; no separate secondary finish documented for the 2018 Second Edition.",
+      "history": [
+        "Released in autumn 2018 following the inaugural 2017 age-stated edition. The matched second-edition record identifies 4,020 bottles.",
+        "A supplied-bottle review and a separate head-to-head tasting give both support and constraints. The eclipse barrel anecdote does not establish a flavor effect or an astronomical production process."
+      ],
+      "quality_rationale": "Excellent provisional Canadian all-rye execution: strong development, fullness and persistence, with heat and dry wood limiting integration. Comparisons disagree on whether 2017 or 2018 is preferable. Age and cask strength are specifications, not scoring bonuses.",
+      "pricing": {
+        "amount": 99,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2018-10-30",
+        "url": "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+        "basis": "Historical Canadian CAD 99 in October 2018 matched review; not a current U.S. offer",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Whiskybase exact Second Edition label record",
+          "url": "https://www.whiskybase.com/whiskies/whisky/121477/lot-no-40-cask-strength",
+          "role": "2018, eleven years, 58.4%, 750 mL, 4,020 bottles; original label outranks retrospective proof typo."
+        },
+        {
+          "title": "Mark Bylok — exact 2018 review",
+          "url": "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+          "role": "October 2018 Corby-supplied bottle, subsequent purchases disclosed; 58.4% and hot, less versatile style."
+        },
+        {
+          "title": "TWS 2018 versus 2017 head-to-head",
+          "url": "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/",
+          "role": "October 10, 2018 exact ages/proofs and separate sweet/herbal versus spice/oak observations; source grades not converted."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Mark Bylok",
+          "publisher": "Whisky Buzz",
+          "url": "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+          "summary": "Bylok praises focused rye, caramel and fruit, but calls the palate hot and boozy and less approachable than the 2017 edition.",
+          "scope": "October 30, 2018 Corby-supplied bottle; later purchases disclosed. Neither advocacy nor the original grade becomes Quality points."
+        },
+        {
+          "reviewer": "Devoz",
+          "publisher": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/",
+          "summary": "The head-to-head finds stronger spice/oak and a long ending in the 2018, with drying late wood. The reviewer prefers the lighter herbal balance of 2017.",
+          "scope": "October 10, 2018, exact eleven-year 58.4% versus twelve-year 55%; an individual comparison, not a representative vote."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-cask-strength-12-year-2017.html",
+          "name": "Cask Strength 2017",
+          "reason": "Direct comparison with a lower proof, older, more herbal release."
+        },
+        {
+          "url": "lot-no-40-cask-strength-third-edition-2019.html",
+          "name": "Cask Strength Third Edition 2019",
+          "reason": "Separate NAS French-oak experiment, not an eleven-year refill."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5334951ae4b0ecb20d5c1d1b/1540839223838-6Y8QDRZ76DXP7IYVFBJJ/LRG_DSC00314.jpg"
+    }
+  },
+  {
+    "slug": "lot-no-40-cask-strength-12-year-2017",
+    "filename": "lot-no-40-cask-strength-12-year-2017.html",
+    "name": "Lot No. 40 Cask Strength 12 Year (2017)",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 110,
+    "abv": 55.0,
+    "age": "12 Years",
+    "age_display": "12 Years",
+    "age_sort_years": 12,
+    "mash_bill_display": "100% rye, primary-confirmed; no corn or malted-barley recipe imported from generic retailer copy.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 8.1,
+    "quality_score": 8.1,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 8.2,
+        "flavor_development": 8.2,
+        "finish": 8.1,
+        "technical_cleanliness": 7.7,
+        "texture": 8.3,
+        "maturity_wood_management": 7.8,
+        "distinctiveness": 8.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 8.08,
+      "editorial_adjustment": 0.02,
+      "adjustment_reason": "Excellent provisional Canadian all-rye execution supported by developed flavor, integrated heat, substantial texture and long persistence. The favorable assessments are sample-bound, and cask strength, age, rarity and review value bonuses are excluded."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Excellent provisional Canadian all-rye execution supported by developed flavor, integrated heat, substantial texture and long persistence. The favorable assessments are sample-bound, and cask strength, age, rarity and review value bonuses are excluded.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Canadian producer release price CAD 69.95 / 750 mL announced September 19, 2017; not USD",
+    "price_url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+    "price_period": "2017-09-19",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 69.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2017,
+    "release_scope": "Lot No. 40 Cask Strength First Edition, 2017 Northern Border Rare Release, twelve years, 55% ABV / 110 proof, 750 mL; 4,968 numbered bottles.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whisky.buzz/blog/lot-no-40-100-rye-cask-strength-12-year-old-review",
+      "https://torontowhiskysociety.ca/2017/10/27/lot-40-vs-lot-40-cask-strength/"
+    ],
+    "review_publishers": [
+      "Whisky Buzz",
+      "Toronto Whisky Society"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Mark Bylok",
+        "publisher": "Whisky Buzz",
+        "url": "https://whisky.buzz/blog/lot-no-40-100-rye-cask-strength-12-year-old-review",
+        "summary": "The commercial bottle has a vivid aromatic opening and layered sweet, herbal and peppery development. Intensity remains controlled in his strongly favorable assessment.",
+        "scope": "October 14, 2017 bottled twelve-year 55% edition; earlier unattainable barrel-sample review is excluded."
+      },
+      {
+        "reviewer": "Toronto Whisky Society reviewer",
+        "publisher": "Toronto Whisky Society",
+        "url": "https://torontowhiskysociety.ca/2017/10/27/lot-40-vs-lot-40-cask-strength/",
+        "summary": "The exact head-to-head finds a round, viscous palate with more developed fruit/bread character than the core and a long ending.",
+        "scope": "October 27, 2017. The review adds value points to its grade; neither those points nor collecting appeal are used for Quality."
+      }
+    ],
+    "source_urls": [
+      "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+      "https://whisky.buzz/blog/lot-no-40-100-rye-cask-strength-12-year-old-review",
+      "https://torontowhiskysociety.ca/2017/10/27/lot-40-vs-lot-40-cask-strength/",
+      "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/"
+    ],
+    "production_summary": "Corby’s September 19, 2017 announcement authenticates twelve years, 55%, 100% rye and new white oak, with October Canadian availability. Matched technical reporting describes column distillation followed by copper-pot distillation. The public release is separated from earlier unbottled distillery samples. No second cask finish is documented.",
+    "finishing_information": "New white-oak maturation; no separate secondary finish authenticated for this first edition.",
+    "identity_note": null,
+    "history": [
+      "The inaugural 2017 Northern Border Collection Rare Release was announced alongside three other distinct Canadian whiskies. Its producer original price was CAD 69.95 / 750 mL.",
+      "Later eleven-year 2018 and NAS 2019 versions remain separate. The name First Edition is not evidence that no stronger private samples previously existed."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "name": "Modern Lot No. 40 core",
+        "reason": "Recurring 43% alternative with an actual dated U.S. offer, avoiding scarcity premiums."
+      },
+      {
+        "url": "lot-no-40-cask-strength-11-year-2018.html",
+        "name": "Cask Strength 2018",
+        "reason": "A separate eleven-year, higher-proof release with a more spice/oak-led comparison profile."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a scarcity or presentation premium; age and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://whisky.buzz/blog/lot-no-40-100-rye-cask-strength-12-year-old-review",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5334951ae4b0ecb20d5c1d1b/1507998891869-VLD7B865323VDYIV4M4V/7518819968_IMG_4261.jpg",
+        "scope": "Lot No. 40 Cask Strength First Edition, 2017 Northern Border Rare Release, twelve years, 55% ABV / 110 proof, 750 mL; 4,968 numbered bottles.",
+        "sha256": "ec4e73ef418ccc1572bbc22e6be24dbf42d16d0c6e38f7c7ffb85619ad89c33c",
+        "image_embedded": true,
+        "width": 1214,
+        "height": 809
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 Cask Strength First Edition, 2017 Northern Border Rare Release, twelve years, 55% ABV / 110 proof, 750 mL; 4,968 numbered bottles.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-031",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a scarcity or presentation premium; age and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "lot-no-40-cask-strength-12-year-2017",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 110,
+      "age": 12,
+      "age_display": "12 Years",
+      "release_year": 2017,
+      "quality": 8.1,
+      "value": null,
+      "dimensions": [
+        8.2,
+        8.2,
+        8.1,
+        7.7,
+        8.3,
+        7.8,
+        8.2
+      ],
+      "identity": "Lot No. 40 Cask Strength First Edition, 2017 Northern Border Rare Release, twelve years, 55% ABV / 110 proof, 750 mL; 4,968 numbered bottles.",
+      "short_version": "A full-bodied, layered inaugural cask-strength release with strong balance and persistent rye/fruit character. It is scored for execution within Canadian all-rye, not its collector reputation.",
+      "grain": "100% rye, primary-confirmed; no corn or malted-barley recipe imported from generic retailer copy.",
+      "production": "Corby’s September 19, 2017 announcement authenticates twelve years, 55%, 100% rye and new white oak, with October Canadian availability. Matched technical reporting describes column distillation followed by copper-pot distillation. The public release is separated from earlier unbottled distillery samples. No second cask finish is documented.",
+      "finish": "New white-oak maturation; no separate secondary finish authenticated for this first edition.",
+      "history": [
+        "The inaugural 2017 Northern Border Collection Rare Release was announced alongside three other distinct Canadian whiskies. Its producer original price was CAD 69.95 / 750 mL.",
+        "Later eleven-year 2018 and NAS 2019 versions remain separate. The name First Edition is not evidence that no stronger private samples previously existed."
+      ],
+      "quality_rationale": "Excellent provisional Canadian all-rye execution supported by developed flavor, integrated heat, substantial texture and long persistence. The favorable assessments are sample-bound, and cask strength, age, rarity and review value bonuses are excluded.",
+      "pricing": {
+        "amount": 69.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2017-09-19",
+        "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+        "basis": "Historical Canadian producer release price CAD 69.95 / 750 mL announced September 19, 2017; not USD",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Corby original 2017 announcement",
+          "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+          "role": "Primary twelve-year / 55% / all-rye / new-white-oak specifications, October launch and CAD 69.95."
+        },
+        {
+          "title": "Mark Bylok — bottled twelve-year review",
+          "url": "https://whisky.buzz/blog/lot-no-40-100-rye-cask-strength-12-year-old-review",
+          "role": "October 14, 2017 actual commercial 55% release separated from earlier barrel samples."
+        },
+        {
+          "title": "TWS core versus twelve-year",
+          "url": "https://torontowhiskysociety.ca/2017/10/27/lot-40-vs-lot-40-cask-strength/",
+          "role": "October 27, 2017 matched sensory comparison; explicitly added value points excluded."
+        },
+        {
+          "title": "TWS later head-to-head",
+          "url": "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/",
+          "role": "October 2018 comparison supports release separation and herbal/sweet balance; one TWS publisher, not two independent platforms."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Mark Bylok",
+          "publisher": "Whisky Buzz",
+          "url": "https://whisky.buzz/blog/lot-no-40-100-rye-cask-strength-12-year-old-review",
+          "summary": "The commercial bottle has a vivid aromatic opening and layered sweet, herbal and peppery development. Intensity remains controlled in his strongly favorable assessment.",
+          "scope": "October 14, 2017 bottled twelve-year 55% edition; earlier unattainable barrel-sample review is excluded."
+        },
+        {
+          "reviewer": "Toronto Whisky Society reviewer",
+          "publisher": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2017/10/27/lot-40-vs-lot-40-cask-strength/",
+          "summary": "The exact head-to-head finds a round, viscous palate with more developed fruit/bread character than the core and a long ending.",
+          "scope": "October 27, 2017. The review adds value points to its grade; neither those points nor collecting appeal are used for Quality."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "name": "Modern Lot No. 40 core",
+          "reason": "Recurring 43% alternative with an actual dated U.S. offer, avoiding scarcity premiums."
+        },
+        {
+          "url": "lot-no-40-cask-strength-11-year-2018.html",
+          "name": "Cask Strength 2018",
+          "reason": "A separate eleven-year, higher-proof release with a more spice/oak-led comparison profile."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://whisky.buzz/blog/lot-no-40-100-rye-cask-strength-12-year-old-review",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5334951ae4b0ecb20d5c1d1b/1507998891869-VLD7B865323VDYIV4M4V/7518819968_IMG_4261.jpg"
+    }
+  },
+  {
+    "slug": "lot-no-40-cask-strength-third-edition-2019",
+    "filename": "lot-no-40-cask-strength-third-edition-2019.html",
+    "name": "Lot No. 40 Cask Strength Third Edition (2019)",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 114,
+    "abv": 57.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% rye; no exact whole-blend age established. An absence of age statement is not evidence of a specific younger age.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 7.1,
+    "quality_score": 7.1,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.8,
+        "flavor_development": 7.3,
+        "finish": 6.4,
+        "technical_cleanliness": 7.5,
+        "texture": 7.7,
+        "maturity_wood_management": 6.2,
+        "distinctiveness": 8.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.035,
+      "editorial_adjustment": 0.065,
+      "adjustment_reason": "Very good provisional Canadian all-rye execution with distinctive sweet/oak development and substantial body. Reduced floral/grain definition, wood dominance, bitterness and shorter finish evidence prevent inheriting the earlier editions’ excellence."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional Canadian all-rye execution with distinctive sweet/oak development and substantial body. Reduced floral/grain definition, wood dominance, bitterness and shorter finish evidence prevent inheriting the earlier editions’ excellence.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Ontario LCBO approximately CAD 90 in November 27, 2019 exact-release review; not current USD",
+    "price_url": "https://whiskyanalysis.com/index.php/2019/11/27/lot-40-cask-strength-third-edition-2019/",
+    "price_period": "2019-11-27",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 90,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2019,
+    "release_scope": "Lot No. 40 Cask Strength Third Edition (2019), NAS, verified 57% ABV / 114 proof, 750 mL; new-French-oak-finished blend.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2019/11/27/lot-40-cask-strength-third-edition-2019/",
+      "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/",
+      "https://distiller.com/spirits/lot-no-40-cask-strength-third-edition"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "Bourbon Culture",
+      "Distiller"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2019/11/27/lot-40-cask-strength-third-edition-2019/",
+        "summary": "The bottle has a thick, sweet/spicy palate, but oak masks some familiar grain/floral detail. Slight bitterness and a quicker ending improve with a few drops of water; excess dilution quickly thins it.",
+        "scope": "November 27, 2019 exact 57% purchased Third Edition; younger-stock speculation is not an age statement."
+      },
+      {
+        "reviewer": "Bourbon Culture",
+        "publisher": "Bourbon Culture",
+        "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/",
+        "summary": "The 114-proof bottle gives a distinctive creamy coffee-like profile with controlled heat and a softer rye ending. The reviewer likes its execution while finding it unlike the earlier rye-led editions.",
+        "scope": "June 9, 2020. Expectations about rye style do not automatically become faults in the Canadian calibration."
+      },
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/lot-no-40-cask-strength-third-edition",
+        "summary": "Phillips finds polished spice and floral/grassy character beneath notably powerful wood, a more favorable reading of the oak-led change.",
+        "scope": "Exact 57% Third Edition; no grade conversion or generalization to an unverified 57.4% sample."
+      }
+    ],
+    "source_urls": [
+      "https://www.whiskybase.com/whiskies/whisky/140177/lot-no-40-cask-strength",
+      "https://distiller.com/spirits/lot-no-40-cask-strength-third-edition",
+      "https://whiskyanalysis.com/index.php/2019/11/27/lot-40-cask-strength-third-edition-2019/",
+      "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/"
+    ],
+    "production_summary": "The verified 57% Third Edition label describes initial American-oak maturation and a 75% portion finished in new French oak. Some retailer/review prose calls those casks used, contradicted by the label. Finish duration and ages of all components remain unknown here. A separate 57.4% online sample description is not used to alter this pack’s verified 57%. Conflicting reported bottle totals, 3,554 versus 5,460, are not resolved by inventing a single global number.",
+    "finishing_information": "75% of the whisky finished in new French-oak barrels after initial American-oak maturation; duration unspecified in this verified scope.",
+    "identity_note": null,
+    "history": [
+      "The 2019 Third Edition drops the previous releases’ numerical age statement and adds a different cask programme. It remains a distinct accepted expression rather than a renamed 2018 bottle.",
+      "The exact 57% pack and matching substantive reviews anchor this dossier; uncertain sample strengths and regional counts stay explicit."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-cask-strength-11-year-2018.html",
+        "name": "Cask Strength 2018",
+        "reason": "Different age-stated new-oak expression before the French-oak change."
+      },
+      {
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "name": "Modern Lot No. 40 core",
+        "reason": "A recurring lower-strength alternative with a different balance of grain and wood."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a scarcity or presentation premium; age and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/",
+        "image_url": "https://thebourbonculture.com/wp-content/uploads/2020/07/20200218_091045-scaled.jpg",
+        "scope": "Lot No. 40 Cask Strength Third Edition (2019), NAS, verified 57% ABV / 114 proof, 750 mL; new-French-oak-finished blend.",
+        "sha256": "ee7ed9505a55a136f806afc726d67b4b77830ebcf1ef8ced6e8bd4ebffbf589e",
+        "image_embedded": true,
+        "width": 2560,
+        "height": 1438
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 Cask Strength Third Edition (2019), NAS, verified 57% ABV / 114 proof, 750 mL; new-French-oak-finished blend.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-031",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a scarcity or presentation premium; age and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour first and assess balance, texture and development against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually, comparing aroma and body; cask-strength releases can change markedly with dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained. For historical bottles, compare cost with the recurring core before choosing a mixing pour."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Use a small trial serve with vermouth or soda, adjusting dilution so the rye character remains clear."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "lot-no-40-cask-strength-third-edition-2019",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 114,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2019,
+      "quality": 7.1,
+      "value": null,
+      "dimensions": [
+        6.8,
+        7.3,
+        6.4,
+        7.5,
+        7.7,
+        6.2,
+        8.0
+      ],
+      "identity": "Lot No. 40 Cask Strength Third Edition (2019), NAS, verified 57% ABV / 114 proof, 750 mL; new-French-oak-finished blend.",
+      "short_version": "A rich, oak-led departure from the first two cask-strength releases, with creaminess and sweet spice supported by mixed reviews. Wood dominance and reduced finish development qualify it.",
+      "grain": "100% rye; no exact whole-blend age established. An absence of age statement is not evidence of a specific younger age.",
+      "production": "The verified 57% Third Edition label describes initial American-oak maturation and a 75% portion finished in new French oak. Some retailer/review prose calls those casks used, contradicted by the label. Finish duration and ages of all components remain unknown here. A separate 57.4% online sample description is not used to alter this pack’s verified 57%. Conflicting reported bottle totals, 3,554 versus 5,460, are not resolved by inventing a single global number.",
+      "finish": "75% of the whisky finished in new French-oak barrels after initial American-oak maturation; duration unspecified in this verified scope.",
+      "history": [
+        "The 2019 Third Edition drops the previous releases’ numerical age statement and adds a different cask programme. It remains a distinct accepted expression rather than a renamed 2018 bottle.",
+        "The exact 57% pack and matching substantive reviews anchor this dossier; uncertain sample strengths and regional counts stay explicit."
+      ],
+      "quality_rationale": "Very good provisional Canadian all-rye execution with distinctive sweet/oak development and substantial body. Reduced floral/grain definition, wood dominance, bitterness and shorter finish evidence prevent inheriting the earlier editions’ excellence.",
+      "pricing": {
+        "amount": 90,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2019-11-27",
+        "url": "https://whiskyanalysis.com/index.php/2019/11/27/lot-40-cask-strength-third-edition-2019/",
+        "basis": "Historical Ontario LCBO approximately CAD 90 in November 27, 2019 exact-release review; not current USD",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Whiskybase exact 57% label record",
+          "url": "https://www.whiskybase.com/whiskies/whisky/140177/lot-no-40-cask-strength",
+          "role": "2019 Third Edition, NAS, 57%, 750 mL and 75% new-French-oak wording; 5,460-bottle label report."
+        },
+        {
+          "title": "Blair Phillips — Distiller",
+          "url": "https://distiller.com/spirits/lot-no-40-cask-strength-third-edition",
+          "role": "Matched 57% technical/sensory record; differing 3,554-bottle total retained as disagreement, not a verified universal total."
+        },
+        {
+          "title": "Selfbuilt — exact Third Edition",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/27/lot-40-cask-strength-third-edition-2019/",
+          "role": "November 27, 2019 purchased Alberta bottle, primary-label production detail and dilution-sensitive sensory limits."
+        },
+        {
+          "title": "Bourbon Culture — Third Edition",
+          "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/",
+          "role": "June 9, 2020 exact 114-proof review and photograph; used-French-oak shorthand not adopted."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/27/lot-40-cask-strength-third-edition-2019/",
+          "summary": "The bottle has a thick, sweet/spicy palate, but oak masks some familiar grain/floral detail. Slight bitterness and a quicker ending improve with a few drops of water; excess dilution quickly thins it.",
+          "scope": "November 27, 2019 exact 57% purchased Third Edition; younger-stock speculation is not an age statement."
+        },
+        {
+          "reviewer": "Bourbon Culture",
+          "publisher": "Bourbon Culture",
+          "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/",
+          "summary": "The 114-proof bottle gives a distinctive creamy coffee-like profile with controlled heat and a softer rye ending. The reviewer likes its execution while finding it unlike the earlier rye-led editions.",
+          "scope": "June 9, 2020. Expectations about rye style do not automatically become faults in the Canadian calibration."
+        },
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/lot-no-40-cask-strength-third-edition",
+          "summary": "Phillips finds polished spice and floral/grassy character beneath notably powerful wood, a more favorable reading of the oak-led change.",
+          "scope": "Exact 57% Third Edition; no grade conversion or generalization to an unverified 57.4% sample."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-cask-strength-11-year-2018.html",
+          "name": "Cask Strength 2018",
+          "reason": "Different age-stated new-oak expression before the French-oak change."
+        },
+        {
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "name": "Modern Lot No. 40 core",
+          "reason": "A recurring lower-strength alternative with a different balance of grain and wood."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/",
+      "image_url": "https://thebourbonculture.com/wp-content/uploads/2020/07/20200218_091045-scaled.jpg"
+    }
   }
 ]

@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 41,
-    "accepted": 184
+    "pending": 36,
+    "accepted": 189
   },
   "entries": [
     {
@@ -14336,17 +14336,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "current",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 86.0,
+      "proof": 86,
       "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "New white oak",
-      "release_year_or_era": "Modern core release; 1998 predecessor distinguished",
+      "age_information": "NAS",
+      "grain_information": "100% rye; current unmalted-rye production is documented in blender-visit reporting and the matched current retailer account. Older malted-rye percentages are not its formula.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Virgin white-oak maturation, with charred American oak documented in specialist reporting; no separate finish established.",
+      "release_year_or_era": "2012",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14357,13 +14357,63 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/collections/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Bourbon Culture",
+            "publisher": "Bourbon Culture",
+            "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-rye-whiskey-review/",
+            "summary": "The 86-proof bottle develops several sweet, herbal and floral layers with a pleasing finish. A small burned-match aroma qualifies an otherwise favorable account.",
+            "scope": "January 2020 core bottle; rumored age and American cross-category ranking are not adopted."
+          },
+          {
+            "reviewer": "Kara Newman",
+            "publisher": "Wine Enthusiast",
+            "url": "https://www.wineenthusiast.com/buying-guide/lot-no-40-canadian-rye-whiskey/",
+            "summary": "Newman finds a full-bodied caramel/oak profile, developed baking spice and a persistent, oily ending.",
+            "scope": "November 1, 2015, 43% / 750 mL recurring range; current-batch continuity is not independently certified."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 191
+      "deterministic_order": 191,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-031",
+      "publication_sources": [
+        {
+          "title": "Producer — modern Lot No. 40",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-100-pot-still-rye-whisky",
+          "role": "Current 43% exact pack, rye grain, pot-still stage and virgin white oak; Ontario CAD 42.45 separately."
+        },
+        {
+          "title": "Mark Bylok — blender-visit recipe history",
+          "url": "https://whisky.buzz/blog/the-insider-story-of-the-evolving-lot-no-40-canadian-rye-whisky",
+          "role": "October 2017 technical history, used versus virgin oak, reported 2013 enzyme/malted-rye change; future cultivar plans not assumed completed."
+        },
+        {
+          "title": "Bourbon Culture — core 86-proof review",
+          "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-rye-whiskey-review/",
+          "role": "January 2020 matched core account; U.S. comparisons are reviewer preference, not Canadian scoring endpoints."
+        },
+        {
+          "title": "Kara Newman — Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/lot-no-40-canadian-rye-whiskey/",
+          "role": "November 1, 2015 exact 43% independent sensory account; grade not converted."
+        },
+        {
+          "title": "Caskers — exact modern 100% rye offer",
+          "url": "https://www.caskers.com/lot-no-40-100-rye-whisky/",
+          "role": "USD 39.99 / 750 mL / 86 proof checked October 15, 2026. Tax, shipping and destination availability are separate."
+        },
+        {
+          "title": "NC ABC — historical core listing",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/155144",
+          "role": "Code 37770, USD 39.95 effective May 1, 2024; not presented as current 2026 NC retail."
+        }
+      ]
     },
     {
       "id": "lot-no-40-1998-original-recipe",
@@ -14372,18 +14422,18 @@
       "brand_family": "Lot No. 40",
       "producer": "Hiram Walker & Sons / Corby",
       "status": "historical",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "whisky_category": "Canadian Single Grain / 100% Rye",
+      "proof": 86,
+      "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Rye including malted rye; proportions to verify",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "New oak",
+      "age_information": "NAS",
+      "grain_information": "Rye and malted rye, the same cereal. Bylok reports 95% unmalted / 5% malted rye; differing retrospective 90/10 claims prevent treating a ratio as a verified universal label specification.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Reused American-oak maturation; no verified distinct secondary finish. Modern new-oak treatment is excluded from this original scope.",
       "release_year_or_era": "1998",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14394,13 +14444,36 @@
       ],
       "potential_image_source": "https://whiskyauctioneer.com/learn/explore-whisky/brands/pike-creek",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+            "summary": "The old-stock review describes an initially bread-led profile that opens into fruit and spice, with rich texture and a long peppery finish. Woody astringency, bitterness and unusual watery/pool-like aromas qualify its strong praise.",
+            "scope": "October 18, 2011 site dateline, explicitly original Guild range before the 2012 release; aromatic language is not a contamination diagnosis."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 192
+      "deterministic_order": 192,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-031",
+      "publication_sources": [
+        {
+          "title": "Canadian Whisky — original pre-2012 account",
+          "url": "https://canadianwhisky.org/blog/reviews/lot-40-43-alc-vol.html",
+          "role": "Exact 43% old-stock expression, original label photograph, mature sensory detail and historical Alberta CAD 38 context."
+        },
+        {
+          "title": "Whisky Buzz — blender-visit recipe evolution",
+          "url": "https://whisky.buzz/blog/the-insider-story-of-the-evolving-lot-no-40-canadian-rye-whisky",
+          "role": "Original used-cask recipe and attributed 95/5 rye/rye-malt account, distinct from 2012 new oak and 2013 unmalted change."
+        }
+      ]
     },
     {
       "id": "lot-no-40-cask-strength-11-year-2018",
@@ -14412,15 +14485,15 @@
       "whisky_category": "Canadian Single Grain / 100% Rye",
       "proof": 116.8,
       "abv": 58.4,
-      "age_statement_years": 11.0,
-      "age_information": "11 years",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "New oak",
+      "age_statement_years": 11,
+      "age_information": "11 Years",
+      "grain_information": "100% rye; matched technical reporting describes column then copper-pot distillation. No malted-rye percentage is imported from the original Guild recipe.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "New charred-oak maturation; no separate secondary finish documented for the 2018 Second Edition.",
       "release_year_or_era": "2018",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14431,13 +14504,48 @@
       ],
       "potential_image_source": "https://www.scotchology.com/foreign/lot-40-11-year-cask-strength",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Mark Bylok",
+            "publisher": "Whisky Buzz",
+            "url": "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+            "summary": "Bylok praises focused rye, caramel and fruit, but calls the palate hot and boozy and less approachable than the 2017 edition.",
+            "scope": "October 30, 2018 Corby-supplied bottle; later purchases disclosed. Neither advocacy nor the original grade becomes Quality points."
+          },
+          {
+            "reviewer": "Devoz",
+            "publisher": "Toronto Whisky Society",
+            "url": "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/",
+            "summary": "The head-to-head finds stronger spice/oak and a long ending in the 2018, with drying late wood. The reviewer prefers the lighter herbal balance of 2017.",
+            "scope": "October 10, 2018, exact eleven-year 58.4% versus twelve-year 55%; an individual comparison, not a representative vote."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 193
+      "deterministic_order": 193,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-031",
+      "publication_sources": [
+        {
+          "title": "Whiskybase exact Second Edition label record",
+          "url": "https://www.whiskybase.com/whiskies/whisky/121477/lot-no-40-cask-strength",
+          "role": "2018, eleven years, 58.4%, 750 mL, 4,020 bottles; original label outranks retrospective proof typo."
+        },
+        {
+          "title": "Mark Bylok — exact 2018 review",
+          "url": "https://whisky.buzz/blog/lot-no-40-cask-strength-11-year-old-2018-review-and-comparison-with-2017",
+          "role": "October 2018 Corby-supplied bottle, subsequent purchases disclosed; 58.4% and hot, less versatile style."
+        },
+        {
+          "title": "TWS 2018 versus 2017 head-to-head",
+          "url": "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/",
+          "role": "October 10, 2018 exact ages/proofs and separate sweet/herbal versus spice/oak observations; source grades not converted."
+        }
+      ]
     },
     {
       "id": "lot-no-40-cask-strength-12-year-2017",
@@ -14447,17 +14555,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "limited",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 110.0,
+      "proof": 110,
       "abv": 55.0,
-      "age_statement_years": 12.0,
-      "age_information": "12 years",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "New oak",
+      "age_statement_years": 12,
+      "age_information": "12 Years",
+      "grain_information": "100% rye, primary-confirmed; no corn or malted-barley recipe imported from generic retailer copy.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "New white-oak maturation; no separate secondary finish authenticated for this first edition.",
       "release_year_or_era": "2017",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14468,13 +14576,53 @@
       ],
       "potential_image_source": "https://torontowhiskysociety.ca/2017/10/27/lot-40-vs-lot-40-cask-strength/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Mark Bylok",
+            "publisher": "Whisky Buzz",
+            "url": "https://whisky.buzz/blog/lot-no-40-100-rye-cask-strength-12-year-old-review",
+            "summary": "The commercial bottle has a vivid aromatic opening and layered sweet, herbal and peppery development. Intensity remains controlled in his strongly favorable assessment.",
+            "scope": "October 14, 2017 bottled twelve-year 55% edition; earlier unattainable barrel-sample review is excluded."
+          },
+          {
+            "reviewer": "Toronto Whisky Society reviewer",
+            "publisher": "Toronto Whisky Society",
+            "url": "https://torontowhiskysociety.ca/2017/10/27/lot-40-vs-lot-40-cask-strength/",
+            "summary": "The exact head-to-head finds a round, viscous palate with more developed fruit/bread character than the core and a long ending.",
+            "scope": "October 27, 2017. The review adds value points to its grade; neither those points nor collecting appeal are used for Quality."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 194
+      "deterministic_order": 194,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-031",
+      "publication_sources": [
+        {
+          "title": "Corby original 2017 announcement",
+          "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+          "role": "Primary twelve-year / 55% / all-rye / new-white-oak specifications, October launch and CAD 69.95."
+        },
+        {
+          "title": "Mark Bylok — bottled twelve-year review",
+          "url": "https://whisky.buzz/blog/lot-no-40-100-rye-cask-strength-12-year-old-review",
+          "role": "October 14, 2017 actual commercial 55% release separated from earlier barrel samples."
+        },
+        {
+          "title": "TWS core versus twelve-year",
+          "url": "https://torontowhiskysociety.ca/2017/10/27/lot-40-vs-lot-40-cask-strength/",
+          "role": "October 27, 2017 matched sensory comparison; explicitly added value points excluded."
+        },
+        {
+          "title": "TWS later head-to-head",
+          "url": "https://torontowhiskysociety.ca/2018/10/10/head-to-head-lot-40-cask-strength-11yr-2018-vs-lot-40-cask-strength-12yr-2017-review/",
+          "role": "October 2018 comparison supports release separation and herbal/sweet balance; one TWS publisher, not two independent platforms."
+        }
+      ]
     },
     {
       "id": "lot-no-40-cask-strength-third-edition-2019",
@@ -14484,17 +14632,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "limited",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 114.0,
+      "proof": 114,
       "abv": 57.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "French oak",
+      "age_information": "NAS",
+      "grain_information": "100% rye; no exact whole-blend age established. An absence of age statement is not evidence of a specific younger age.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "75% of the whisky finished in new French-oak barrels after initial American-oak maturation; duration unspecified in this verified scope.",
       "release_year_or_era": "2019",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14505,13 +14653,60 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/lot-no-40-cask-strength-third-edition",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2019/11/27/lot-40-cask-strength-third-edition-2019/",
+            "summary": "The bottle has a thick, sweet/spicy palate, but oak masks some familiar grain/floral detail. Slight bitterness and a quicker ending improve with a few drops of water; excess dilution quickly thins it.",
+            "scope": "November 27, 2019 exact 57% purchased Third Edition; younger-stock speculation is not an age statement."
+          },
+          {
+            "reviewer": "Bourbon Culture",
+            "publisher": "Bourbon Culture",
+            "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/",
+            "summary": "The 114-proof bottle gives a distinctive creamy coffee-like profile with controlled heat and a softer rye ending. The reviewer likes its execution while finding it unlike the earlier rye-led editions.",
+            "scope": "June 9, 2020. Expectations about rye style do not automatically become faults in the Canadian calibration."
+          },
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/lot-no-40-cask-strength-third-edition",
+            "summary": "Phillips finds polished spice and floral/grassy character beneath notably powerful wood, a more favorable reading of the oak-led change.",
+            "scope": "Exact 57% Third Edition; no grade conversion or generalization to an unverified 57.4% sample."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 195
+      "deterministic_order": 195,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-031",
+      "publication_sources": [
+        {
+          "title": "Whiskybase exact 57% label record",
+          "url": "https://www.whiskybase.com/whiskies/whisky/140177/lot-no-40-cask-strength",
+          "role": "2019 Third Edition, NAS, 57%, 750 mL and 75% new-French-oak wording; 5,460-bottle label report."
+        },
+        {
+          "title": "Blair Phillips — Distiller",
+          "url": "https://distiller.com/spirits/lot-no-40-cask-strength-third-edition",
+          "role": "Matched 57% technical/sensory record; differing 3,554-bottle total retained as disagreement, not a verified universal total."
+        },
+        {
+          "title": "Selfbuilt — exact Third Edition",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/27/lot-40-cask-strength-third-edition-2019/",
+          "role": "November 27, 2019 purchased Alberta bottle, primary-label production detail and dilution-sensitive sensory limits."
+        },
+        {
+          "title": "Bourbon Culture — Third Edition",
+          "url": "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/",
+          "role": "June 9, 2020 exact 114-proof review and photograph; used-French-oak shorthand not adopted."
+        }
+      ]
     },
     {
       "id": "lot-no-40-dark-oak",
