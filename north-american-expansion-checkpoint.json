@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 19,
+  "checkpoint": 20,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -970,11 +970,16 @@
     "forty-creek-masters-cut-2021.html",
     "forty-creek-niagara-triple-reserve-2025.html",
     "forty-creek-port-wood-reserve-2009.html",
-    "forty-creek-port-wood-reserve-2012.html"
+    "forty-creek-port-wood-reserve-2012.html",
+    "forty-creek-resolve-2020.html",
+    "forty-creek-small-batch-reserve-2007.html",
+    "forty-creek-taproom-2021.html",
+    "forty-creek-the-forager-botanical-whisky.html",
+    "forty-creek-three-grain-harmony-2015.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 102,
-  "dossier_count": 955,
+  "canadian_added": 107,
+  "dossier_count": 960,
   "history": [
     {
       "checkpoint": 1,
@@ -1645,9 +1650,47 @@
         "Port Wood two-year finishing stage is not a complete-whisky age. Hall's contemporaneous 2012 statement verifies Niagara port-style wine, separate grain maturation, 6,600 bottles, September sales and CAD 69.95. Portuguese Port provenance and complete blend ages not invented.",
         "All five retain U.S. Value N/A after targeted U.S. price research. Canadian-dollar retail, converted headlines, competition references with contradictory proof, unverified package references and collector premiums are not forced into U.S. drinking Value. Canadian category boundaries, full-precision Overall behavior, baseline dossiers, completed ledgers and all prior expansion bytes preserved."
       ]
+    },
+    {
+      "checkpoint": 20,
+      "files": [
+        "forty-creek-resolve-2020.html",
+        "forty-creek-small-batch-reserve-2007.html",
+        "forty-creek-taproom-2021.html",
+        "forty-creek-the-forager-botanical-whisky.html",
+        "forty-creek-three-grain-harmony-2015.html"
+      ],
+      "parent_commit": "1195c3a9c27633e0efa4905a0fe0fdd597a7cb70",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 7975,
+        "functional_cases_passed": 447,
+        "responsive_pages_rendered": 408,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 117,
+        "failures": 0
+      },
+      "additional_preservation": "All 130 earlier expansion dossiers and all 955 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Candidates 136–140 accepted in exact deterministic order; all five exact verified expression images visually inspected and embedded. No existing dossier or index row rewritten.",
+        "Resolve primary/specialist evidence distinguishes high-spice stave treatment and vintage Villard Noir port-style wine addition from a proven port-cask finish. The wine's 1999 vintage is not whisky age. Producer retrospective 6,400 and contemporary 6,500 bottle counts remain explicitly unresolved.",
+        "Resolve matched de Kergommeaux praise and Dykstra integration criticism both retained. Dykstra's allowance for personal wine preference, ice response and Old Fashioned use remain explicit; same reviewer's Advocate and Canadian Whisky accounts are not counted as independent votes.",
+        "Resolve exact New York Suhag consumer listing authenticated at 43%, 750ML and USD 69.99 on October 15, 2026, with matching structured Product offer priceCurrency USD. It supports provisional alternate-U.S. Value; no NC or converted-CAD price substituted. Full-precision Overall remains 5.869412236331675.",
+        "Small Batch Reserve original 2007 / forty-percent / NAS identity verified against exact producer photograph and Whisky Magazine year-bottled record; original Lot 104 is not merged with separately named forty-five-percent 2016 Founder's Reserve. Exact grain set/cooperage schedule remains unknown rather than importing a brand-wide recipe.",
+        "Small Batch has one complete accessible exact independent taster account, supporting low-confidence below-average balance due to excessive oak. An award age bracket is not a label age; persistence alone is not high Quality. No hidden second taster or current collector-price Value inferred.",
+        "Taproom primary September 2021 statement confirms former Confederation Oak barrels used for Bench Fortified Amber Sour Ale then returned for whisky secondary aging, explicitly without direct beer blending. Exact contact durations, grain recipe and final age remain unverified. Three complete Quebec accounts preserve favorable hop integration beside thin/disjointed counterevidence.",
+        "The Forager remains one botanical-infused expression, with 2019 prototype history, March 2020 early review and May 2020 broader producer launch distinguished. Producer initially three-year-aged base before additional aging is not promoted to a final-label age; exact verified front label is NAS. All five botanicals documented, final grain recipe unknown.",
+        "Forager editorial category is Flavored whiskey, preserving direct botanical infusion rather than classifying it as an unmodified Canadian blend or gin. Dykstra's favorable gin-aware mixing account and Andre's texture/sipping reservations support a category-conscious universal provisional assessment. Current CAD 33.95 / 750 mL marked out of stock is not U.S. Value.",
+        "Three Grain Harmony authenticated as 2015 Lot 2015 / forty-three percent / 9,000 bottles, distinct from original Three Grain and the 2020 reprise. Attributed four-year corn and older grain stocks do not establish a numeric whole-blend age. Divergent older rye ages stay unresolved; no wine-cask finish inferred from flavor notes.",
+        "Harmony favorable de Kergommeaux/Burke accounts retained alongside substantive Vanderkruk and Quebec counterevidence; adjacent Port Wood and Founder's reviews are not merged. CAD 69.95 original LCBO context stays Canadian, with U.S. Value N/A. All baseline, completed ledger and prior expansion bytes remain preserved; categorical UI normalization stays deferred."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: forty-creek-resolve-2020",
+  "next_action": "Research next pending expression in deterministic order: forty-creek-three-grain-20th-anniversary-2020",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1655,24 +1698,24 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 19,
+      "checkpoint": 20,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 955,
-      "new_dossiers": 130,
-      "html_files_structurally_checked": 131,
+      "dossiers": 960,
+      "new_dossiers": 135,
+      "html_files_structurally_checked": 136,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 7801,
-      "local_references_checked": 2139,
-      "embedded_image_occurrences_decoded": 112,
-      "unique_image_payloads_decoded": 112,
-      "image_dossiers_added": 112,
+      "checks": 7975,
+      "local_references_checked": 2189,
+      "embedded_image_occurrences_decoded": 117,
+      "unique_image_payloads_decoded": 117,
+      "image_dossiers_added": 117,
       "numeric_counts": {
-        "quality": 120,
-        "value": 90,
-        "overall": 90
+        "quality": 125,
+        "value": 91,
+        "overall": 91
       },
       "failure_count": 0,
       "failures": []
@@ -1682,7 +1725,7 @@
       "browser": "Chromium",
       "browser_version": "141.0.7390.0",
       "functional_cases_passed": 447,
-      "responsive_cases": 393,
+      "responsive_cases": 408,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1690,7 +1733,7 @@
     }
   },
   "updated_at": "2026-10-15",
-  "last_parent_commit": "200ade4086a58475f6a890eef0ab47e03021ea18",
+  "last_parent_commit": "1195c3a9c27633e0efa4905a0fe0fdd597a7cb70",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",

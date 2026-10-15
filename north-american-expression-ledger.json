@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 95,
-    "accepted": 130
+    "pending": 90,
+    "accepted": 135
   },
   "entries": [
     {
@@ -10077,19 +10077,19 @@
       "canonical_expression_name": "Forty Creek Resolve (2020)",
       "filename": "forty-creek-resolve-2020.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 86,
+      "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and barley",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn, barley and rye whiskies; percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Wood treatment and port",
+      "finishing_information": "High-spice oak-stave treatment plus vintage Villard Noir port-style wine addition; precise quantities and durations undisclosed.",
       "release_year_or_era": "2020",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -10101,32 +10101,77 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/forty-creek-resolve",
+            "summary": "De Kergommeaux finds generous fruit and spice with substantial texture and developed complexity. His review describes the body changing through the sip into a peppery, moderately persistent ending.",
+            "scope": "August 13, 2020; exact annual Resolve. His separate Advocate review is the same reviewer, not an independent second vote."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/review-forty-creek-resolve-2020-limited-release/",
+            "summary": "Dykstra praises the aroma and flavor range but finds the wine addition in conflict with the whisky. Ice improves the balance, and he favors an Old Fashioned. He allows that personal preference may influence that criticism.",
+            "scope": "December 5, 2020; exact 43% Resolve; sensory sections used without mechanically converting packaging points."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 136
+      "deterministic_order": 136,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-020",
+      "publication_sources": [
+        {
+          "title": "Resolve — contemporary specialist record",
+          "url": "https://canadianwhisky.org/blog/forty-creek-resolve",
+          "role": "Exact process, independent sensory account and 6,500-bottle report."
+        },
+        {
+          "title": "Resolve — Chip Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/review-forty-creek-resolve-2020-limited-release/",
+          "role": "Exact strength, named wine and substantive contrary integration assessment."
+        },
+        {
+          "title": "Producer release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact Lot 014 image and 2020 identity."
+        },
+        {
+          "title": "Producer blender timeline",
+          "url": "https://fortycreekwhisky.com/master-blender/",
+          "role": "6,400-bottle retrospective count, retained beside the conflicting contemporary account."
+        },
+        {
+          "title": "Resolve 750ML — Suhag Liquor & Wines",
+          "url": "https://suhagliquor.com/products/forty-creek-resolve-limited-edition-blended-canadian-whisky",
+          "role": "New York retailer; exact 43% package and USD 69.99 offer/currency authenticated from displayed listing and structured Product offer on October 15, 2026."
+        }
+      ]
     },
     {
       "id": "forty-creek-small-batch-reserve-2007",
       "canonical_expression_name": "Forty Creek Small Batch Reserve (2007)",
       "filename": "forty-creek-small-batch-reserve-2007.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and barley; ratios undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Exact original-release grain composition not authenticated; no brand-level grain percentages substituted.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak",
+      "finishing_information": "Oak-matured Canadian blend; no exact distinct finish or full cooperage schedule authenticated.",
       "release_year_or_era": "2007",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -10138,32 +10183,60 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Dave Broom, accessible taster section",
+            "publisher": "Whisky Magazine",
+            "url": "https://www.whiskymag.com/tastings/6-forty-creek/",
+            "summary": "The taster finds character and some complexity, but new-wood tannin suppresses the sweetness and leaves an overly oak-led balance. Persistence alone does not remedy that imbalance.",
+            "scope": "Explicit John K. Hall Small Batch Reserve, year bottled 2007 / 40% / NAS. Only the accessible complete Dave section is used; no hidden second taster inferred."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 137
+      "deterministic_order": 137,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-020",
+      "publication_sources": [
+        {
+          "title": "Original Small Batch Reserve — Whisky Magazine",
+          "url": "https://www.whiskymag.com/tastings/6-forty-creek/",
+          "role": "Exact 2007 identity, NAS, forty percent and substantive accessible sensory review."
+        },
+        {
+          "title": "Superstition ain’t the way — Blair Phillips",
+          "url": "https://whiskymag.com/articles/superstition-aint-the-way/",
+          "role": "September 6, 2019 interview feature; attributed inaugural release development and September 2007 timing."
+        },
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact original Small Batch Reserve photograph and 2007 series placement."
+        }
+      ]
     },
     {
       "id": "forty-creek-taproom-2021",
       "canonical_expression_name": "Forty Creek Taproom (2021)",
       "filename": "forty-creek-taproom-2021.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian grain-whisky blend; exact expression grain recipe and percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Beer-washed Confederation Oak barrels",
+      "finishing_information": "Secondary maturation in Bench Brewing beer-washed former Confederation Oak barrels; no direct beer addition documented.",
       "release_year_or_era": "2021",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -10175,32 +10248,67 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Patrick",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/forty-creek-taproom/",
+            "summary": "Patrick finds the hop character controlled enough to coexist with grain, oak and sweetness, producing a rich and original whisky with a medium ending.",
+            "scope": "November 15, 2023; exact Taproom / 40%."
+          },
+          {
+            "reviewer": "André and Martin",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/forty-creek-taproom/",
+            "summary": "André finds watery texture and a rushed, simple ending. Martin likewise wants more body and coherence between the fruit, wood and spice, despite the interesting idea.",
+            "scope": "Two further full exact-expression accounts on the same publisher page; acetone-like impressions are sensory descriptions, not chemical analyses."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 138
+      "deterministic_order": 138,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-020",
+      "publication_sources": [
+        {
+          "title": "Taproom collaboration — primary release",
+          "url": "https://www.newswire.ca/news-releases/forty-creek-debuts-master-s-cut-its-first-ever-cask-strength-whisky-818282306.html",
+          "role": "September 2021 beer-barrel route, express absence of beer blending, Canadian price and September 23 timing."
+        },
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Current exact Taproom photograph, process and forty-percent identity."
+        },
+        {
+          "title": "Taproom — Québec Whisky",
+          "url": "https://quebecwhisky.com/forty-creek-taproom/",
+          "role": "Three full conflicting independent sensory accounts; one publisher."
+        }
+      ]
     },
     {
       "id": "forty-creek-the-forager-botanical-whisky",
       "canonical_expression_name": "Forty Creek The Forager Botanical Whisky",
       "filename": "forty-creek-the-forager-botanical-whisky.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "historical",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "whisky_category": "Flavored whiskey",
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky with botanicals",
+      "age_information": "NAS — producer confirms three-year base before further aging",
+      "grain_information": "Canadian whisky base; exact grains and ratios undisclosed. Juniper berries, Labrador tea, spruce tips, mugwort and sweet fern infused after initial whisky aging.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Botanical infusion",
+      "finishing_information": "Botanical steeping following initial three-year whisky aging, with unspecified additional aging; no separate cask finish authenticated.",
       "release_year_or_era": "2020",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -10212,32 +10320,77 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/other-spirits/the-forager-botanical-whisky/",
+            "summary": "Dykstra finds the whisky remains recognizable while subtle botanicals add useful bitter and cooling accents. He likes both sipping and citrus/ginger mixing, acknowledging his own affinity for gin.",
+            "scope": "March 15, 2020; exact 40% botanical expression; packaging points not converted into Quality."
+          },
+          {
+            "reviewer": "André",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/forty-creek-the-forager/",
+            "summary": "André finds the citrus-and-forest direction interesting but the texture ordinary. He is unconvinced as a whisky drinker while recognizing potential for cocktails.",
+            "scope": "Complete exact Forager / 40% account; flavor preference distinguished from execution."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 139
+      "deterministic_order": 139,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-020",
+      "publication_sources": [
+        {
+          "title": "Forager launch — Campari Canada",
+          "url": "https://www.newswire.ca/news-releases/forty-creek-distillery-launches-the-forager-the-world-s-first-botanical-canadian-whisky-872047312.html",
+          "role": "Primary May 27, 2020 general release, initial three-year stage, five botanicals, subsequent aging and CAD 34.95."
+        },
+        {
+          "title": "The Forager — producer",
+          "url": "https://fortycreekwhisky.com/product/the-forager-botanical-whisky/",
+          "role": "Exact current forty-percent / 750 mL image and CAD 33.95 out-of-stock context."
+        },
+        {
+          "title": "Forager early history — Canadian Distilleries",
+          "url": "https://canadiandistilleries.com/blog/forty-creek-forager-botanical-whisky",
+          "role": "Specialist firsthand 2019 prototype account; not silently equated with a national launch."
+        },
+        {
+          "title": "Forager — Dykstra",
+          "url": "https://therumhowlerblog.com/other-spirits/the-forager-botanical-whisky/",
+          "role": "Complete favorable exact-expression tasting and demonstrated mixing uses."
+        },
+        {
+          "title": "Forager — André",
+          "url": "https://quebecwhisky.com/forty-creek-the-forager/",
+          "role": "Substantive texture/sipping counterpoint."
+        }
+      ]
     },
     {
       "id": "forty-creek-three-grain-harmony-2015",
       "canonical_expression_name": "Forty Creek Three Grain Harmony (2015)",
       "filename": "forty-creek-three-grain-harmony-2015.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 86,
+      "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, barley and rye; 22-year rye component",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn, rye and barley whiskies; final percentages undisclosed. Contemporary specialist attributes four-year corn alongside older rye/barley stocks.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak",
+      "finishing_information": "Blend of separately matured grain whiskies; exact final cooperage schedule and a distinct secondary finish not established.",
       "release_year_or_era": "2015",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -10249,13 +10402,72 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/forty-creek-three-grain-harmony.html",
+            "summary": "De Kergommeaux finds substantial fruit and spice development, a creamy buffer against heat and a long, satisfying conclusion. The assessment is strongly favorable.",
+            "scope": "September 25, 2015; exact Harmony release and attributed Hall component interview."
+          },
+          {
+            "reviewer": "Eric Burke",
+            "publisher": "BOURBON GUY",
+            "url": "https://www.bourbonguy.com/blog/2016/2/18/forty-creek-three-grain-harmony-2015",
+            "summary": "Burke finds unusually coherent blending, soft texture and well-managed spice despite prominent dried fruit, with a medium-length ending.",
+            "scope": "February 18, 2016; exact bottle 3764 / 43%, obtained by bottle swap; price explicitly Canadian."
+          },
+          {
+            "reviewer": "Bryan Vanderkruk",
+            "publisher": "Toronto Whisky Society",
+            "url": "https://torontowhiskysociety.ca/2017/05/21/forty-creek-limited-editions-port-wood-three-grain-harmony-founders-reserve/",
+            "summary": "Vanderkruk finds familiar sweet grain and nutty spice but a short ending and less impressive development than the strongest accounts. His acetone-like aroma impression is not an analytical finding.",
+            "scope": "May 21, 2017; separate 2015 Harmony / 43% section, not adjacent Port Wood or Founder’s Reserve reviews."
+          },
+          {
+            "reviewer": "André, Patrick and Martin",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/forty-creek-three-grain-harmony/",
+            "summary": "Patrick welcomes rich spice and length, while André finds muted development and Martin reports uneven flavor success and limited persistence. This preserves the divided sample record.",
+            "scope": "Three complete exact 2015 / 43% accounts on one publisher page; no pooled population consensus claimed."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 140
+      "deterministic_order": 140,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-020",
+      "publication_sources": [
+        {
+          "title": "Harmony — contemporary specialist account",
+          "url": "https://canadianwhisky.org/blog/reviews/forty-creek-three-grain-harmony.html",
+          "role": "Attributed thirty-barrel/component history, exact 2015 edition, sensory evidence and Canadian price."
+        },
+        {
+          "title": "Harmony — Eric Burke",
+          "url": "https://www.bourbonguy.com/blog/2016/2/18/forty-creek-three-grain-harmony-2015",
+          "role": "Complete favorable bottle-specific independent tasting."
+        },
+        {
+          "title": "Harmony — Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2017/05/21/forty-creek-limited-editions-port-wood-three-grain-harmony-founders-reserve/",
+          "role": "Substantive more-reserved exact section; neighboring reviews are not merged."
+        },
+        {
+          "title": "Harmony — Québec Whisky",
+          "url": "https://quebecwhisky.com/forty-creek-three-grain-harmony/",
+          "role": "Complete contrary sensory accounts."
+        },
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact Lot 2015 / 43% photograph and annual-series placement."
+        }
+      ]
     },
     {
       "id": "forty-creek-three-grain-20th-anniversary-2020",
