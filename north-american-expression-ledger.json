@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 36,
-    "accepted": 189
+    "pending": 31,
+    "accepted": 194
   },
   "entries": [
     {
@@ -14716,17 +14716,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "current",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 96.0,
+      "proof": 96,
       "abv": 48.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Second new oak cask, char level 4",
-      "release_year_or_era": "2020; U.S. 2022",
+      "age_information": "NAS",
+      "grain_information": "100% rye. Matched technical accounts describe unmalted rye, column distillation then copper-pot distillation; no corn or barley percentages inferred.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Second new-oak cask charred to level four after initial new-American-oak maturation; duration undisclosed.",
+      "release_year_or_era": "2020",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14737,13 +14737,58 @@
       ],
       "potential_image_source": "https://www.bevnet.com/spirits/2022/lot-no-40-whisky-releases-dark-oak",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2020/11/26/lot-40-dark-oak/",
+            "summary": "The bottle retains recognizable fruit and spice but adds substantial wood and heat. A medium, drying finish and rapid loss of subtlety with dilution limit its appeal.",
+            "scope": "November 26, 2020 exact 48% sample; spice preference and execution limits distinguished."
+          },
+          {
+            "reviewer": "Bourbon Culture",
+            "publisher": "Bourbon Culture",
+            "url": "https://thebourbonculture.com/whiskey-reviews/lot-no-40-dark-oak-rye-whisky-review/",
+            "summary": "The reviewer enjoys weighted, nearly syrupy texture and unusual fruit/herbal layers, while noting bandage/cleaning-like aromas and a somewhat bitter woody ending.",
+            "scope": "2023 exact Dark Oak bottle brought from Canada; sensory descriptors do not identify additives or contamination."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 196
+      "deterministic_order": 196,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-032",
+      "publication_sources": [
+        {
+          "title": "Producer — exact Dark Oak",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-dark-oak-canadian-whisky",
+          "role": "NAS, 48%, all rye, new American oak then second level-four-char cask and exact current pack."
+        },
+        {
+          "title": "U.S. issuer announcement via BevNET",
+          "url": "https://www.bevnet.com/spirits/2022/lot-no-40-whisky-releases-dark-oak",
+          "role": "October 6, 2022 U.S. introduction; producer sensory language is not independent review."
+        },
+        {
+          "title": "Selfbuilt — Canadian 2020 bottle",
+          "url": "https://whiskyanalysis.com/index.php/2020/11/26/lot-40-dark-oak/",
+          "role": "November 26, 2020, spice/wood, dilution and medium-finish limits."
+        },
+        {
+          "title": "Bourbon Culture — Dark Oak",
+          "url": "https://thebourbonculture.com/whiskey-reviews/lot-no-40-dark-oak-rye-whisky-review/",
+          "role": "2023 exact 48% Canadian bottle, texture praise and aromatic/drying reservations."
+        },
+        {
+          "title": "Caskers dated U.S. reference",
+          "url": "https://www.caskers.com/lot-no-40-dark-oak-100-rye-whisky/",
+          "role": "USD 56.99 / 750 mL / 96 proof but out of stock when checked; 1998 Dark Oak launch claim rejected."
+        }
+      ]
     },
     {
       "id": "lot-no-40-ordinary-private-single-barrels",
@@ -14784,17 +14829,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "limited",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 116.6,
-      "abv": 58.3,
+      "proof": 111,
+      "abv": 55.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Peated single malt quarter casks; 17 months",
+      "age_information": "NAS",
+      "grain_information": "100% rye; peated-single-malt cask influence does not establish malted-barley liquid blended into the whisky.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Seventeen months in 150-litre first-fill peated single-malt quarter casks; Scotch source undisclosed.",
       "release_year_or_era": "2021",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14805,13 +14850,55 @@
       ],
       "potential_image_source": "https://www.connosr.com/lot-no-40-rye-explorations-release-no-01-whisky-review-14239",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "talexander",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/lot-no-40-rye-explorations-release-no-01-whisky-review-14239",
+            "summary": "The reviewer finds unusual fruit and herbal depth with well-integrated peat, spice and oak, and enjoys it without water.",
+            "scope": "2021 exact 55.5% release; comparison bottle’s long-open condition explicitly limits the side-by-side."
+          },
+          {
+            "reviewer": "Nozinan",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/corbys-lot-no-40-rye-explorations-release-no-01-whisky-review-14290",
+            "summary": "Pepper can overpower subtler detail. Water improves balance and complexity, with a long warm ending; enjoyment varies substantially between sessions.",
+            "scope": "January 1, 2022 exact original release; same platform as talexander, not a second publisher."
+          },
+          {
+            "reviewer": "Aengus McCloud",
+            "publisher": "Dramface",
+            "url": "https://www.dramface.com/all-reviews/2022/lot-no-40-peated-quarter-cask-canadian-whisky",
+            "summary": "McCloud finds oily texture and persistent herbal/medicinal spice but an overcomplicated, insufficiently convincing combination. Months after opening improve enjoyment without resolving the conflict.",
+            "scope": "March 2022 exact 55.5%; peat displacing expected rye is a preference, with integration assessed separately."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 198
+      "deterministic_order": 198,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-032",
+      "publication_sources": [
+        {
+          "title": "Dramface exact bottle photograph and review",
+          "url": "https://www.dramface.com/all-reviews/2022/lot-no-40-peated-quarter-cask-canadian-whisky",
+          "role": "March 2022 55.5% bottle; label visually verifies August 2021 and seventeen-month/150 L finish."
+        },
+        {
+          "title": "talexander — original release account",
+          "url": "https://www.connosr.com/lot-no-40-rye-explorations-release-no-01-whisky-review-14239",
+          "role": "2021 exact 55.5% review, favorable balance and development."
+        },
+        {
+          "title": "Nozinan — exact release account",
+          "url": "https://www.connosr.com/corbys-lot-no-40-rye-explorations-release-no-01-whisky-review-14290",
+          "role": "January 1, 2022 independent sample sessions with and without water, pepper/balance limits and CAD 90."
+        }
+      ]
     },
     {
       "id": "lot-no-40-rye-explorations-no-2-port-casks",
@@ -14824,14 +14911,14 @@
       "proof": 106.2,
       "abv": 53.1,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Port",
+      "age_information": "NAS",
+      "grain_information": "All-rye base, described as unmalted rye in matched technical reporting. Complete final composition beyond the cask treatment is not independently disclosed; speculative direct port addition is not asserted.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Port-seasoned French-oak finish; duration undisclosed.",
       "release_year_or_era": "2023",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14842,13 +14929,48 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/collections/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Aengus McCloud",
+            "publisher": "Dramface",
+            "url": "https://www.dramface.com/all-reviews/lot-40-port-casks",
+            "summary": "McCloud enjoys a seamless fruit-and-spice palate and easy drinking at strength, though rye could be more assertive. Water diminishes aroma and introduces a rubber-like note.",
+            "scope": "September 12, 2023 exact 53.1%; speculation about direct port addition is not adopted as production fact."
+          },
+          {
+            "reviewer": "André",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-2-port-casks/",
+            "summary": "André finds waxy texture, fruit and spice but less singularity and balance; air improves the experience.",
+            "scope": "July 17, 2025 exact No. 02 / 53.1%, translated French account; not a separate 2025 formulation."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 199
+      "deterministic_order": 199,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-032",
+      "publication_sources": [
+        {
+          "title": "Whiskybase exact No. 02 label record",
+          "url": "https://www.whiskybase.com/whiskies/whisky/258925/lot-no-40-cask-strength",
+          "role": "July 2023, 53.1%, 750 mL and port-seasoned French oak."
+        },
+        {
+          "title": "Aengus McCloud — Dramface",
+          "url": "https://www.dramface.com/all-reviews/lot-40-port-casks",
+          "role": "September 12, 2023 purchased bottle; developed sensory account and CAD 100 paid."
+        },
+        {
+          "title": "André — Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-2-port-casks/",
+          "role": "July 17, 2025 exact 53.1% review and bottle photograph; different sensory emphasis."
+        }
+      ]
     },
     {
       "id": "lot-no-40-rye-explorations-no-3-cherry-wood",
@@ -14858,17 +14980,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "limited",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 108.0,
-      "abv": 54.0,
+      "proof": 107,
+      "abv": 53.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "European cherry wood",
+      "age_information": "NAS",
+      "grain_information": "100% rye per producer; cherry wood is the finishing material, not proof that cherries, cherry syrup or sherry wine were added.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "European cherry-wood-cask finish after new-white-oak maturation; distinct from sherry casks. Duration not authenticated.",
       "release_year_or_era": "2024",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14879,13 +15001,48 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/collections/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Aengus McCloud",
+            "publisher": "Dramface",
+            "url": "https://www.dramface.com/all-reviews/2024/lot-40-cherry-wood-casks",
+            "summary": "Initially compelling bitter orange/cherry and oily development become less vivid over weeks as wood grows stronger. Musty and cleaner-like aromas remain explicit reservations.",
+            "scope": "November 18, 2024 exact 53.5% bottle; long-term aging hopes are not proven future results."
+          },
+          {
+            "reviewer": "André, Patrick and Kim",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-3-cherry-wood-casks/",
+            "summary": "André and Patrick enjoy textured fruit/spice and a developed ending. Kim instead finds unpleasant floral/earthy dominance and wonders about sample variation.",
+            "scope": "July 2025 / February 2026 exact 53.5% reviews, translated French; one platform with genuine disagreement, not a unanimous panel."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 200
+      "deterministic_order": 200,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-032",
+      "publication_sources": [
+        {
+          "title": "Producer exact No. 03 photograph and product",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-cherry-wood-cask-750ml",
+          "role": "New white oak then European cherry wood; visible April 2024 / 53.5% label overrides 54% product prose."
+        },
+        {
+          "title": "Aengus McCloud — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2024/lot-40-cherry-wood-casks",
+          "role": "November 18, 2024 exact 53.5%, several weeks of evolving impressions and historical CAD 100."
+        },
+        {
+          "title": "André, Patrick and Kim — Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-3-cherry-wood-casks/",
+          "role": "Exact 53.5% accounts published July 2025 and updated February 2026; favorable body/fruit versus marked floral/earthy dissent."
+        }
+      ]
     },
     {
       "id": "lot-no-40-rye-explorations-no-4-oloroso",
@@ -14898,14 +15055,14 @@
       "proof": 106.8,
       "abv": 53.4,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Oloroso sherry",
-      "release_year_or_era": "2026 producer listing",
+      "age_information": "NAS",
+      "grain_information": "Rye base per producer family identity and exact named pack; undisclosed complete component proportions. Oloroso casks do not prove direct wine addition.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Oloroso-sherry-cask finish following new-American-oak maturation; exact duration unspecified.",
+      "release_year_or_era": "2025",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -14916,13 +15073,48 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Patrick and Martin",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/",
+            "summary": "Both find broad fruit/spice development, ample oily texture and a long ending, with the rye character surviving the sherry influence.",
+            "scope": "July 15, 2026 exact 53.4%, translated French; awards discussion excluded from Quality."
+          },
+          {
+            "reviewer": "Kim",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/",
+            "summary": "Kim instead reports dusty, waxed-furniture and minty impressions with deficient balance and an unsatisfying dusty ending. A second pass improves enjoyment without removing the reservation.",
+            "scope": "Same July 15, 2026 page; three individual accounts from one publication, not three independent publishers."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 201
+      "deterministic_order": 201,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-032",
+      "publication_sources": [
+        {
+          "title": "Producer exact No. 04",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength",
+          "role": "53.4%, initial American oak then Oloroso casks, exact photograph and Ontario offer."
+        },
+        {
+          "title": "Producer machine-readable catalogue",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength.js",
+          "role": "Published September 25, 2025, CAD 119.95 and available=false checked October 15, 2026."
+        },
+        {
+          "title": "Patrick, Martin and Kim — Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/",
+          "role": "July 15, 2026 exact 53.4% substantive independent accounts, including strong dissent."
+        }
+      ]
     },
     {
       "id": "pendleton-1910-bourbon",

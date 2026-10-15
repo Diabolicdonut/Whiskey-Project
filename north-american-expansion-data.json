@@ -68062,5 +68062,1871 @@
       "image_source": "https://thebourbonculture.com/whiskey-reviews/lot-40-cask-strength-3rd-release-review/",
       "image_url": "https://thebourbonculture.com/wp-content/uploads/2020/07/20200218_091045-scaled.jpg"
     }
+  },
+  {
+    "slug": "lot-no-40-dark-oak",
+    "filename": "lot-no-40-dark-oak.html",
+    "name": "Lot No. 40 Dark Oak",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 96,
+    "abv": 48.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% rye. Matched technical accounts describe unmalted rye, column distillation then copper-pot distillation; no corn or barley percentages inferred.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.7,
+    "quality_score": 6.7,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.4,
+        "flavor_development": 7.0,
+        "finish": 6.0,
+        "technical_cleanliness": 6.1,
+        "texture": 7.2,
+        "maturity_wood_management": 6.0,
+        "distinctiveness": 7.7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.52,
+      "editorial_adjustment": 0.18,
+      "adjustment_reason": "Good provisional Canadian all-rye execution. Developed fruit/spice and substantial body are supported, while wood dryness, bitterness and reported chemical-like aromas limit balance and cleanliness. Those descriptors are not evidence of laboratory contamination."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional Canadian all-rye execution. Developed fruit/spice and substantial body are supported, while wood dryness, bitterness and reported chemical-like aromas limit balance and cleanliness. Those descriptors are not evidence of laboratory contamination.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: the authenticated USD 56.99 headline is explicitly out of stock and does not establish a regular purchasable offer. The Canadian producer CAD 64.25 reference is a separate currency; no forced U.S. Value or Overall.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": 56.99,
+    "price_basis": "Dated U.S. Caskers USD 56.99 / 750 mL / 96 proof advertised reference, explicitly out of stock",
+    "price_url": "https://www.caskers.com/lot-no-40-dark-oak-100-rye-whisky/",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 56.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No current exact NC retail offer authenticated. Caskers marks this U.S. quote out of stock; it is not a purchasable regular-price or availability guarantee.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2020,
+    "release_scope": "Lot No. 40 Dark Oak, recurring NAS 100% rye, 48% ABV / 96 proof, 750 mL; second heavily charred-oak maturation.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2020/11/26/lot-40-dark-oak/",
+      "https://thebourbonculture.com/whiskey-reviews/lot-no-40-dark-oak-rye-whisky-review/"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "Bourbon Culture"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2020/11/26/lot-40-dark-oak/",
+        "summary": "The bottle retains recognizable fruit and spice but adds substantial wood and heat. A medium, drying finish and rapid loss of subtlety with dilution limit its appeal.",
+        "scope": "November 26, 2020 exact 48% sample; spice preference and execution limits distinguished."
+      },
+      {
+        "reviewer": "Bourbon Culture",
+        "publisher": "Bourbon Culture",
+        "url": "https://thebourbonculture.com/whiskey-reviews/lot-no-40-dark-oak-rye-whisky-review/",
+        "summary": "The reviewer enjoys weighted, nearly syrupy texture and unusual fruit/herbal layers, while noting bandage/cleaning-like aromas and a somewhat bitter woody ending.",
+        "scope": "2023 exact Dark Oak bottle brought from Canada; sensory descriptors do not identify additives or contamination."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/lot-no-40-dark-oak-canadian-whisky",
+      "https://www.bevnet.com/spirits/2022/lot-no-40-whisky-releases-dark-oak",
+      "https://whiskyanalysis.com/index.php/2020/11/26/lot-40-dark-oak/",
+      "https://thebourbonculture.com/whiskey-reviews/lot-no-40-dark-oak-rye-whisky-review/",
+      "https://www.caskers.com/lot-no-40-dark-oak-100-rye-whisky/"
+    ],
+    "production_summary": "Producer verifies new American-oak maturation followed by a second barrel charred to level four. Specialist reporting identifies a number-two initial char. NAS remains NAS; the finish duration and total component ages are not authenticated. Secondary NEW oak is not merely a re-char of the original barrel. Current producer pack confirms 48%.",
+    "finishing_information": "Second new-oak cask charred to level four after initial new-American-oak maturation; duration undisclosed.",
+    "identity_note": null,
+    "history": [
+      "Selfbuilt’s November 26, 2020 review documents the Canadian introduction before wider distribution; producer shop publication in May 2021 is not the first release date.",
+      "A separate October 2022 issuer announcement documents U.S. introduction. Retailer copy assigning Dark Oak itself to 1998 confuses this extension with the parent brand."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "name": "Lot No. 40 modern core",
+        "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+      },
+      {
+        "url": "lot-no-40-cask-strength-third-edition-2019.html",
+        "name": "Third Edition 2019",
+        "reason": "Another oak-led experiment with French oak rather than Dark Oak’s second heavy-char barrel."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/lot-no-40-dark-oak-canadian-whisky",
+        "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Lot40_DarkOak.png?v=1748439323",
+        "scope": "Lot No. 40 Dark Oak, recurring NAS 100% rye, 48% ABV / 96 proof, 750 mL; second heavily charred-oak maturation.",
+        "sha256": "2ada8254a031d62363f38d90bb69e3b2f5573acd29fdaa4e22be7653b3d910fc",
+        "image_embedded": true,
+        "width": 1080,
+        "height": 1890
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 Dark Oak, recurring NAS 100% rye, 48% ABV / 96 proof, 750 mL; second heavily charred-oak maturation.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-032",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: the authenticated USD 56.99 headline is explicitly out of stock and does not establish a regular purchasable offer. The Canadian producer CAD 64.25 reference is a separate currency; no forced U.S. Value or Overall.",
+      "id": "lot-no-40-dark-oak",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 96,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2020,
+      "quality": 6.7,
+      "value": null,
+      "dimensions": [
+        6.4,
+        7.0,
+        6.0,
+        6.1,
+        7.2,
+        6.0,
+        7.7
+      ],
+      "identity": "Lot No. 40 Dark Oak, recurring NAS 100% rye, 48% ABV / 96 proof, 750 mL; second heavily charred-oak maturation.",
+      "short_version": "A rich, spicy double-oak rye with distinctive texture and fruit. Independent reports also identify drying wood, bitterness and aromatic roughness, so darker oak does not automatically mean better execution.",
+      "grain": "100% rye. Matched technical accounts describe unmalted rye, column distillation then copper-pot distillation; no corn or barley percentages inferred.",
+      "production": "Producer verifies new American-oak maturation followed by a second barrel charred to level four. Specialist reporting identifies a number-two initial char. NAS remains NAS; the finish duration and total component ages are not authenticated. Secondary NEW oak is not merely a re-char of the original barrel. Current producer pack confirms 48%.",
+      "finish": "Second new-oak cask charred to level four after initial new-American-oak maturation; duration undisclosed.",
+      "history": [
+        "Selfbuilt’s November 26, 2020 review documents the Canadian introduction before wider distribution; producer shop publication in May 2021 is not the first release date.",
+        "A separate October 2022 issuer announcement documents U.S. introduction. Retailer copy assigning Dark Oak itself to 1998 confuses this extension with the parent brand."
+      ],
+      "quality_rationale": "Good provisional Canadian all-rye execution. Developed fruit/spice and substantial body are supported, while wood dryness, bitterness and reported chemical-like aromas limit balance and cleanliness. Those descriptors are not evidence of laboratory contamination.",
+      "pricing": {
+        "amount": 56.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://www.caskers.com/lot-no-40-dark-oak-100-rye-whisky/",
+        "basis": "Dated U.S. Caskers USD 56.99 / 750 mL / 96 proof advertised reference, explicitly out of stock",
+        "nc_status": "No current exact NC retail offer authenticated. Caskers marks this U.S. quote out of stock; it is not a purchasable regular-price or availability guarantee."
+      },
+      "sources": [
+        {
+          "title": "Producer — exact Dark Oak",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-dark-oak-canadian-whisky",
+          "role": "NAS, 48%, all rye, new American oak then second level-four-char cask and exact current pack."
+        },
+        {
+          "title": "U.S. issuer announcement via BevNET",
+          "url": "https://www.bevnet.com/spirits/2022/lot-no-40-whisky-releases-dark-oak",
+          "role": "October 6, 2022 U.S. introduction; producer sensory language is not independent review."
+        },
+        {
+          "title": "Selfbuilt — Canadian 2020 bottle",
+          "url": "https://whiskyanalysis.com/index.php/2020/11/26/lot-40-dark-oak/",
+          "role": "November 26, 2020, spice/wood, dilution and medium-finish limits."
+        },
+        {
+          "title": "Bourbon Culture — Dark Oak",
+          "url": "https://thebourbonculture.com/whiskey-reviews/lot-no-40-dark-oak-rye-whisky-review/",
+          "role": "2023 exact 48% Canadian bottle, texture praise and aromatic/drying reservations."
+        },
+        {
+          "title": "Caskers dated U.S. reference",
+          "url": "https://www.caskers.com/lot-no-40-dark-oak-100-rye-whisky/",
+          "role": "USD 56.99 / 750 mL / 96 proof but out of stock when checked; 1998 Dark Oak launch claim rejected."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2020/11/26/lot-40-dark-oak/",
+          "summary": "The bottle retains recognizable fruit and spice but adds substantial wood and heat. A medium, drying finish and rapid loss of subtlety with dilution limit its appeal.",
+          "scope": "November 26, 2020 exact 48% sample; spice preference and execution limits distinguished."
+        },
+        {
+          "reviewer": "Bourbon Culture",
+          "publisher": "Bourbon Culture",
+          "url": "https://thebourbonculture.com/whiskey-reviews/lot-no-40-dark-oak-rye-whisky-review/",
+          "summary": "The reviewer enjoys weighted, nearly syrupy texture and unusual fruit/herbal layers, while noting bandage/cleaning-like aromas and a somewhat bitter woody ending.",
+          "scope": "2023 exact Dark Oak bottle brought from Canada; sensory descriptors do not identify additives or contamination."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "name": "Lot No. 40 modern core",
+          "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+        },
+        {
+          "url": "lot-no-40-cask-strength-third-edition-2019.html",
+          "name": "Third Edition 2019",
+          "reason": "Another oak-led experiment with French oak rather than Dark Oak’s second heavy-char barrel."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/lot-no-40-dark-oak-canadian-whisky",
+      "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Lot40_DarkOak.png?v=1748439323"
+    }
+  },
+  {
+    "slug": "lot-no-40-rye-explorations-no-1-peated-quarter-casks",
+    "filename": "lot-no-40-rye-explorations-no-1-peated-quarter-casks.html",
+    "name": "Lot No. 40 Rye Explorations No. 1 — Peated Quarter Casks",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 111,
+    "abv": 55.5,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% rye; peated-single-malt cask influence does not establish malted-barley liquid blended into the whisky.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.6,
+    "quality_score": 6.6,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.0,
+        "flavor_development": 6.8,
+        "finish": 7.0,
+        "technical_cleanliness": 6.4,
+        "texture": 6.8,
+        "maturity_wood_management": 6.2,
+        "distinctiveness": 8.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.57,
+      "editorial_adjustment": 0.03,
+      "adjustment_reason": "Good but polarizing provisional Canadian all-rye execution. Interesting development and persistence coexist with pepper dominance and conflict between medicinal/herbal peat and rye. Reviewer praise for balance is retained beside substantive contrary integration reports."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good but polarizing provisional Canadian all-rye execution. Interesting development and persistence coexist with pepper dominance and conflict between medicinal/herbal peat and rye. Reviewer praise for balance is retained beside substantive contrary integration reports.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Ontario LCBO CAD 90 in January 1, 2022 exact-release review; not current USD",
+    "price_url": "https://www.connosr.com/corbys-lot-no-40-rye-explorations-release-no-01-whisky-review-14290",
+    "price_period": "2022-01-01",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 90,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2021,
+    "release_scope": "Lot No. 40 Rye Explorations Release No. 01, Peated Quarter Casks, bottled August 2021, NAS, 55.5% ABV / 111 proof, 750 mL.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.connosr.com/lot-no-40-rye-explorations-release-no-01-whisky-review-14239",
+      "https://www.connosr.com/corbys-lot-no-40-rye-explorations-release-no-01-whisky-review-14290",
+      "https://www.dramface.com/all-reviews/2022/lot-no-40-peated-quarter-cask-canadian-whisky"
+    ],
+    "review_publishers": [
+      "Whisky Connosr",
+      "Dramface"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "talexander",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/lot-no-40-rye-explorations-release-no-01-whisky-review-14239",
+        "summary": "The reviewer finds unusual fruit and herbal depth with well-integrated peat, spice and oak, and enjoys it without water.",
+        "scope": "2021 exact 55.5% release; comparison bottle’s long-open condition explicitly limits the side-by-side."
+      },
+      {
+        "reviewer": "Nozinan",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/corbys-lot-no-40-rye-explorations-release-no-01-whisky-review-14290",
+        "summary": "Pepper can overpower subtler detail. Water improves balance and complexity, with a long warm ending; enjoyment varies substantially between sessions.",
+        "scope": "January 1, 2022 exact original release; same platform as talexander, not a second publisher."
+      },
+      {
+        "reviewer": "Aengus McCloud",
+        "publisher": "Dramface",
+        "url": "https://www.dramface.com/all-reviews/2022/lot-no-40-peated-quarter-cask-canadian-whisky",
+        "summary": "McCloud finds oily texture and persistent herbal/medicinal spice but an overcomplicated, insufficiently convincing combination. Months after opening improve enjoyment without resolving the conflict.",
+        "scope": "March 2022 exact 55.5%; peat displacing expected rye is a preference, with integration assessed separately."
+      }
+    ],
+    "source_urls": [
+      "https://www.dramface.com/all-reviews/2022/lot-no-40-peated-quarter-cask-canadian-whisky",
+      "https://www.connosr.com/lot-no-40-rye-explorations-release-no-01-whisky-review-14239",
+      "https://www.connosr.com/corbys-lot-no-40-rye-explorations-release-no-01-whisky-review-14290"
+    ],
+    "production_summary": "Exact photographed label verifies August 2021 bottling at 55.5% and seventeen months in 150-litre first-fill peated single-malt casks after the rye’s initial new-oak aging. A specific Scotch distillery is not authenticated. The seventeen months is a finish duration, not the whole whisky age. Discovery’s 58.3% is unsupported for this verified release and is corrected rather than inherited.",
+    "finishing_information": "Seventeen months in 150-litre first-fill peated single-malt quarter casks; Scotch source undisclosed.",
+    "identity_note": null,
+    "history": [
+      "The original 2021 release begins the numbered Rye Explorations series after the earlier cask-strength editions. The photographed 55.5% bottle and multiple matched reviews agree on this identity.",
+      "No numerical age is stated. A small cask, peat influence or the name Cask Strength does not make it a Scotch single malt or an American straight rye."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "name": "Lot No. 40 modern core",
+        "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+      },
+      {
+        "url": "lot-no-40-rye-explorations-no-2-port-casks.html",
+        "name": "Rye Explorations No. 2 Port Casks",
+        "reason": "The next numbered finish, with fortified-wine rather than peated-cask influence."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.dramface.com/all-reviews/2022/lot-no-40-peated-quarter-cask-canadian-whisky",
+        "image_url": "https://static1.squarespace.com/static/61affa9c931dc960c27460a1/t/62320af3333a384f323c3eed/1647446777746/lot+40+peated.jpg?format=1500w",
+        "scope": "Lot No. 40 Rye Explorations Release No. 01, Peated Quarter Casks, bottled August 2021, NAS, 55.5% ABV / 111 proof, 750 mL.",
+        "sha256": "71725083ca7a6aadb30db5da8071b5966713f3122eacf2b098248ecc5cf81cb0",
+        "image_embedded": true,
+        "width": 900,
+        "height": 1368
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 Rye Explorations Release No. 01, Peated Quarter Casks, bottled August 2021, NAS, 55.5% ABV / 111 proof, 750 mL.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-032",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "lot-no-40-rye-explorations-no-1-peated-quarter-casks",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 111,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2021,
+      "quality": 6.6,
+      "value": null,
+      "dimensions": [
+        6.0,
+        6.8,
+        7.0,
+        6.4,
+        6.8,
+        6.2,
+        8.0
+      ],
+      "identity": "Lot No. 40 Rye Explorations Release No. 01, Peated Quarter Casks, bottled August 2021, NAS, 55.5% ABV / 111 proof, 750 mL.",
+      "short_version": "A rye-and-peated-cask experiment with substantial texture and persistent herbal spice, but strongly divided views about integration. The verified bottle corrects the discovery proof.",
+      "grain": "100% rye; peated-single-malt cask influence does not establish malted-barley liquid blended into the whisky.",
+      "production": "Exact photographed label verifies August 2021 bottling at 55.5% and seventeen months in 150-litre first-fill peated single-malt casks after the rye’s initial new-oak aging. A specific Scotch distillery is not authenticated. The seventeen months is a finish duration, not the whole whisky age. Discovery’s 58.3% is unsupported for this verified release and is corrected rather than inherited.",
+      "finish": "Seventeen months in 150-litre first-fill peated single-malt quarter casks; Scotch source undisclosed.",
+      "history": [
+        "The original 2021 release begins the numbered Rye Explorations series after the earlier cask-strength editions. The photographed 55.5% bottle and multiple matched reviews agree on this identity.",
+        "No numerical age is stated. A small cask, peat influence or the name Cask Strength does not make it a Scotch single malt or an American straight rye."
+      ],
+      "quality_rationale": "Good but polarizing provisional Canadian all-rye execution. Interesting development and persistence coexist with pepper dominance and conflict between medicinal/herbal peat and rye. Reviewer praise for balance is retained beside substantive contrary integration reports.",
+      "pricing": {
+        "amount": 90,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2022-01-01",
+        "url": "https://www.connosr.com/corbys-lot-no-40-rye-explorations-release-no-01-whisky-review-14290",
+        "basis": "Historical Ontario LCBO CAD 90 in January 1, 2022 exact-release review; not current USD",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Dramface exact bottle photograph and review",
+          "url": "https://www.dramface.com/all-reviews/2022/lot-no-40-peated-quarter-cask-canadian-whisky",
+          "role": "March 2022 55.5% bottle; label visually verifies August 2021 and seventeen-month/150 L finish."
+        },
+        {
+          "title": "talexander — original release account",
+          "url": "https://www.connosr.com/lot-no-40-rye-explorations-release-no-01-whisky-review-14239",
+          "role": "2021 exact 55.5% review, favorable balance and development."
+        },
+        {
+          "title": "Nozinan — exact release account",
+          "url": "https://www.connosr.com/corbys-lot-no-40-rye-explorations-release-no-01-whisky-review-14290",
+          "role": "January 1, 2022 independent sample sessions with and without water, pepper/balance limits and CAD 90."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "talexander",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/lot-no-40-rye-explorations-release-no-01-whisky-review-14239",
+          "summary": "The reviewer finds unusual fruit and herbal depth with well-integrated peat, spice and oak, and enjoys it without water.",
+          "scope": "2021 exact 55.5% release; comparison bottle’s long-open condition explicitly limits the side-by-side."
+        },
+        {
+          "reviewer": "Nozinan",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/corbys-lot-no-40-rye-explorations-release-no-01-whisky-review-14290",
+          "summary": "Pepper can overpower subtler detail. Water improves balance and complexity, with a long warm ending; enjoyment varies substantially between sessions.",
+          "scope": "January 1, 2022 exact original release; same platform as talexander, not a second publisher."
+        },
+        {
+          "reviewer": "Aengus McCloud",
+          "publisher": "Dramface",
+          "url": "https://www.dramface.com/all-reviews/2022/lot-no-40-peated-quarter-cask-canadian-whisky",
+          "summary": "McCloud finds oily texture and persistent herbal/medicinal spice but an overcomplicated, insufficiently convincing combination. Months after opening improve enjoyment without resolving the conflict.",
+          "scope": "March 2022 exact 55.5%; peat displacing expected rye is a preference, with integration assessed separately."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "name": "Lot No. 40 modern core",
+          "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+        },
+        {
+          "url": "lot-no-40-rye-explorations-no-2-port-casks.html",
+          "name": "Rye Explorations No. 2 Port Casks",
+          "reason": "The next numbered finish, with fortified-wine rather than peated-cask influence."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://www.dramface.com/all-reviews/2022/lot-no-40-peated-quarter-cask-canadian-whisky",
+      "image_url": "https://static1.squarespace.com/static/61affa9c931dc960c27460a1/t/62320af3333a384f323c3eed/1647446777746/lot+40+peated.jpg?format=1500w"
+    }
+  },
+  {
+    "slug": "lot-no-40-rye-explorations-no-2-port-casks",
+    "filename": "lot-no-40-rye-explorations-no-2-port-casks.html",
+    "name": "Lot No. 40 Rye Explorations No. 2 — Port Casks",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 106.2,
+    "abv": 53.1,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "All-rye base, described as unmalted rye in matched technical reporting. Complete final composition beyond the cask treatment is not independently disclosed; speculative direct port addition is not asserted.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 7.1,
+    "quality_score": 7.1,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.3,
+        "flavor_development": 7.2,
+        "finish": 6.7,
+        "technical_cleanliness": 7.0,
+        "texture": 7.3,
+        "maturity_wood_management": 6.8,
+        "distinctiveness": 7.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.095,
+      "editorial_adjustment": 0.005,
+      "adjustment_reason": "Very good provisional Canadian all-rye execution, with integrated fruit/spice and a substantial palate. Grain definition, dilution sensitivity and an independently reported balance limit temper the result; the source grade is not converted."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional Canadian all-rye execution, with integrated fruit/spice and a substantial palate. Grain definition, dilution sensitivity and an independently reported balance limit temper the result; the source grade is not converted.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Canadian CAD 100 paid in September 12, 2023 review; not current USD",
+    "price_url": "https://www.dramface.com/all-reviews/lot-40-port-casks",
+    "price_period": "2023-09-12",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 100,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2023,
+    "release_scope": "Lot No. 40 Rye Explorations Release No. 02 Port Casks, July 2023 bottling, NAS, 53.1% ABV / 106.2 proof, 750 mL.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.dramface.com/all-reviews/lot-40-port-casks",
+      "https://quebecwhisky.com/lot-40-rye-explorations-release-2-port-casks/"
+    ],
+    "review_publishers": [
+      "Dramface",
+      "Québec Whisky"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Aengus McCloud",
+        "publisher": "Dramface",
+        "url": "https://www.dramface.com/all-reviews/lot-40-port-casks",
+        "summary": "McCloud enjoys a seamless fruit-and-spice palate and easy drinking at strength, though rye could be more assertive. Water diminishes aroma and introduces a rubber-like note.",
+        "scope": "September 12, 2023 exact 53.1%; speculation about direct port addition is not adopted as production fact."
+      },
+      {
+        "reviewer": "André",
+        "publisher": "Québec Whisky",
+        "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-2-port-casks/",
+        "summary": "André finds waxy texture, fruit and spice but less singularity and balance; air improves the experience.",
+        "scope": "July 17, 2025 exact No. 02 / 53.1%, translated French account; not a separate 2025 formulation."
+      }
+    ],
+    "source_urls": [
+      "https://www.whiskybase.com/whiskies/whisky/258925/lot-no-40-cask-strength",
+      "https://www.dramface.com/all-reviews/lot-40-port-casks",
+      "https://quebecwhisky.com/lot-40-rye-explorations-release-2-port-casks/"
+    ],
+    "production_summary": "Exact label record verifies July 2023, 53.1% and port-seasoned French-oak casks. Matched reporting describes column then pot distillation and initial new-American-oak maturation. A separate finishing duration and numerical whole-whisky age are not authenticated. The reviewer’s question about wet casks or added port is speculation, not evidence that wine was blended directly into this release.",
+    "finishing_information": "Port-seasoned French-oak finish; duration undisclosed.",
+    "identity_note": null,
+    "history": [
+      "This is the second numbered Rye Explorations release, documented in 2023. Later July 2025 Quebec review is a tasting date, not a new launch year.",
+      "The former producer product URL no longer returns a live product at the research date. The exact photographed pack and contemporary review anchor the historical dossier; no stock is inferred."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "name": "Lot No. 40 modern core",
+        "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+      },
+      {
+        "url": "lot-no-40-rye-explorations-no-4-oloroso.html",
+        "name": "Rye Explorations No. 4 Oloroso",
+        "reason": "A later fortified-wine cask experiment; port and sherry are separate identities."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://quebecwhisky.com/lot-40-rye-explorations-release-2-port-casks/",
+        "image_url": "https://i0.wp.com/quebecwhisky.com/wp-content/uploads/2025/06/lot-40-port.jpg?fit=300%2C450&ssl=1",
+        "scope": "Lot No. 40 Rye Explorations Release No. 02 Port Casks, July 2023 bottling, NAS, 53.1% ABV / 106.2 proof, 750 mL.",
+        "sha256": "e72cf5cfaa24d9ccc2420dbaded1b8d12a07db421e7c0d1758cfa6cc22fe0c6e",
+        "image_embedded": true,
+        "width": 300,
+        "height": 450
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 Rye Explorations Release No. 02 Port Casks, July 2023 bottling, NAS, 53.1% ABV / 106.2 proof, 750 mL.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-032",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "lot-no-40-rye-explorations-no-2-port-casks",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 106.2,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2023,
+      "quality": 7.1,
+      "value": null,
+      "dimensions": [
+        7.3,
+        7.2,
+        6.7,
+        7.0,
+        7.3,
+        6.8,
+        7.3
+      ],
+      "identity": "Lot No. 40 Rye Explorations Release No. 02 Port Casks, July 2023 bottling, NAS, 53.1% ABV / 106.2 proof, 750 mL.",
+      "short_version": "A fruit-led port-cask rye with favorable evidence for integration and body, qualified by muted grain character and a less balanced account. Finish precision remains evidence-limited.",
+      "grain": "All-rye base, described as unmalted rye in matched technical reporting. Complete final composition beyond the cask treatment is not independently disclosed; speculative direct port addition is not asserted.",
+      "production": "Exact label record verifies July 2023, 53.1% and port-seasoned French-oak casks. Matched reporting describes column then pot distillation and initial new-American-oak maturation. A separate finishing duration and numerical whole-whisky age are not authenticated. The reviewer’s question about wet casks or added port is speculation, not evidence that wine was blended directly into this release.",
+      "finish": "Port-seasoned French-oak finish; duration undisclosed.",
+      "history": [
+        "This is the second numbered Rye Explorations release, documented in 2023. Later July 2025 Quebec review is a tasting date, not a new launch year.",
+        "The former producer product URL no longer returns a live product at the research date. The exact photographed pack and contemporary review anchor the historical dossier; no stock is inferred."
+      ],
+      "quality_rationale": "Very good provisional Canadian all-rye execution, with integrated fruit/spice and a substantial palate. Grain definition, dilution sensitivity and an independently reported balance limit temper the result; the source grade is not converted.",
+      "pricing": {
+        "amount": 100,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2023-09-12",
+        "url": "https://www.dramface.com/all-reviews/lot-40-port-casks",
+        "basis": "Historical Canadian CAD 100 paid in September 12, 2023 review; not current USD",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Whiskybase exact No. 02 label record",
+          "url": "https://www.whiskybase.com/whiskies/whisky/258925/lot-no-40-cask-strength",
+          "role": "July 2023, 53.1%, 750 mL and port-seasoned French oak."
+        },
+        {
+          "title": "Aengus McCloud — Dramface",
+          "url": "https://www.dramface.com/all-reviews/lot-40-port-casks",
+          "role": "September 12, 2023 purchased bottle; developed sensory account and CAD 100 paid."
+        },
+        {
+          "title": "André — Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-2-port-casks/",
+          "role": "July 17, 2025 exact 53.1% review and bottle photograph; different sensory emphasis."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Aengus McCloud",
+          "publisher": "Dramface",
+          "url": "https://www.dramface.com/all-reviews/lot-40-port-casks",
+          "summary": "McCloud enjoys a seamless fruit-and-spice palate and easy drinking at strength, though rye could be more assertive. Water diminishes aroma and introduces a rubber-like note.",
+          "scope": "September 12, 2023 exact 53.1%; speculation about direct port addition is not adopted as production fact."
+        },
+        {
+          "reviewer": "André",
+          "publisher": "Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-2-port-casks/",
+          "summary": "André finds waxy texture, fruit and spice but less singularity and balance; air improves the experience.",
+          "scope": "July 17, 2025 exact No. 02 / 53.1%, translated French account; not a separate 2025 formulation."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "name": "Lot No. 40 modern core",
+          "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+        },
+        {
+          "url": "lot-no-40-rye-explorations-no-4-oloroso.html",
+          "name": "Rye Explorations No. 4 Oloroso",
+          "reason": "A later fortified-wine cask experiment; port and sherry are separate identities."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://quebecwhisky.com/lot-40-rye-explorations-release-2-port-casks/",
+      "image_url": "https://i0.wp.com/quebecwhisky.com/wp-content/uploads/2025/06/lot-40-port.jpg?fit=300%2C450&ssl=1"
+    }
+  },
+  {
+    "slug": "lot-no-40-rye-explorations-no-3-cherry-wood",
+    "filename": "lot-no-40-rye-explorations-no-3-cherry-wood.html",
+    "name": "Lot No. 40 Rye Explorations No. 3 — Cherry Wood",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 107,
+    "abv": 53.5,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% rye per producer; cherry wood is the finishing material, not proof that cherries, cherry syrup or sherry wine were added.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.3,
+    "quality_score": 6.3,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.1,
+        "flavor_development": 6.8,
+        "finish": 5.9,
+        "technical_cleanliness": 5.4,
+        "texture": 7.0,
+        "maturity_wood_management": 5.4,
+        "distinctiveness": 8.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.22,
+      "editorial_adjustment": 0.08,
+      "adjustment_reason": "Good but contentious provisional Canadian all-rye execution. Fruit/bitter-herbal development and body receive support; growing wood dominance, rough aromas and markedly unfavorable floral impressions constrain integration and finish. Novel wood and rarity add no points."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good but contentious provisional Canadian all-rye execution. Fruit/bitter-herbal development and body receive support; growing wood dominance, rough aromas and markedly unfavorable floral impressions constrain integration and finish. Novel wood and rarity add no points.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Canadian CAD 100 in November 18, 2024 matched 53.5% review; current CAD 100.25 producer prose has a proof discrepancy",
+    "price_url": "https://www.dramface.com/all-reviews/2024/lot-40-cherry-wood-casks",
+    "price_period": "2024-11-18",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 100,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2024,
+    "release_scope": "Lot No. 40 Rye Explorations Release No. 03 Cherry Wood Casks, photographed April 2024 bottling, NAS, 53.5% ABV / 107 proof, 750 mL.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.dramface.com/all-reviews/2024/lot-40-cherry-wood-casks",
+      "https://quebecwhisky.com/lot-40-rye-explorations-release-no-3-cherry-wood-casks/"
+    ],
+    "review_publishers": [
+      "Dramface",
+      "Québec Whisky"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Aengus McCloud",
+        "publisher": "Dramface",
+        "url": "https://www.dramface.com/all-reviews/2024/lot-40-cherry-wood-casks",
+        "summary": "Initially compelling bitter orange/cherry and oily development become less vivid over weeks as wood grows stronger. Musty and cleaner-like aromas remain explicit reservations.",
+        "scope": "November 18, 2024 exact 53.5% bottle; long-term aging hopes are not proven future results."
+      },
+      {
+        "reviewer": "André, Patrick and Kim",
+        "publisher": "Québec Whisky",
+        "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-3-cherry-wood-casks/",
+        "summary": "André and Patrick enjoy textured fruit/spice and a developed ending. Kim instead finds unpleasant floral/earthy dominance and wonders about sample variation.",
+        "scope": "July 2025 / February 2026 exact 53.5% reviews, translated French; one platform with genuine disagreement, not a unanimous panel."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/lot-no-40-cherry-wood-cask-750ml",
+      "https://www.dramface.com/all-reviews/2024/lot-40-cherry-wood-casks",
+      "https://quebecwhisky.com/lot-40-rye-explorations-release-no-3-cherry-wood-casks/"
+    ],
+    "production_summary": "Producer specifies new white-oak aging then European cherry-wood casks. Its own photograph visibly states April 2024 and 53.5%; this agrees with Dramface and Québec Whisky. Current product prose rounds or misstates strength as 54%, so the verified 53.5% pack controls this dossier. No separate 54% edition is invented. Finish duration and complete component ages remain unknown.",
+    "finishing_information": "European cherry-wood-cask finish after new-white-oak maturation; distinct from sherry casks. Duration not authenticated.",
+    "identity_note": null,
+    "history": [
+      "The producer shop was published October 8, 2024 and the photographed bottle states April 2024. The autumn 2024 independent review documents the original release era.",
+      "Bottle number 1800 in the producer photograph is an individual number, not a verified total production count. Older and newer review sessions show substantial disagreement."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "name": "Lot No. 40 modern core",
+        "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+      },
+      {
+        "url": "lot-no-40-rye-explorations-no-4-oloroso.html",
+        "name": "Rye Explorations No. 4 Oloroso",
+        "reason": "Sherry-cask successor, distinct from cherry wood; similar names do not imply the same finish."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/lot-no-40-cherry-wood-cask-750ml",
+        "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Lot40_CherryCasks.png?v=1748439281",
+        "scope": "Lot No. 40 Rye Explorations Release No. 03 Cherry Wood Casks, photographed April 2024 bottling, NAS, 53.5% ABV / 107 proof, 750 mL.",
+        "sha256": "cb35de93fbc4138b909a1a7b3aef2408b923448d57e95bf570344dad67f84523",
+        "image_embedded": true,
+        "width": 1080,
+        "height": 1890
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 Rye Explorations Release No. 03 Cherry Wood Casks, photographed April 2024 bottling, NAS, 53.5% ABV / 107 proof, 750 mL.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-032",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "lot-no-40-rye-explorations-no-3-cherry-wood",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 107,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2024,
+      "quality": 6.3,
+      "value": null,
+      "dimensions": [
+        6.1,
+        6.8,
+        5.9,
+        5.4,
+        7.0,
+        5.4,
+        8.0
+      ],
+      "identity": "Lot No. 40 Rye Explorations Release No. 03 Cherry Wood Casks, photographed April 2024 bottling, NAS, 53.5% ABV / 107 proof, 750 mL.",
+      "short_version": "A distinctive cherry-wood experiment with attractive bitter-fruit development and strong disagreement about wood and floral character. The actual label controls the strength.",
+      "grain": "100% rye per producer; cherry wood is the finishing material, not proof that cherries, cherry syrup or sherry wine were added.",
+      "production": "Producer specifies new white-oak aging then European cherry-wood casks. Its own photograph visibly states April 2024 and 53.5%; this agrees with Dramface and Québec Whisky. Current product prose rounds or misstates strength as 54%, so the verified 53.5% pack controls this dossier. No separate 54% edition is invented. Finish duration and complete component ages remain unknown.",
+      "finish": "European cherry-wood-cask finish after new-white-oak maturation; distinct from sherry casks. Duration not authenticated.",
+      "history": [
+        "The producer shop was published October 8, 2024 and the photographed bottle states April 2024. The autumn 2024 independent review documents the original release era.",
+        "Bottle number 1800 in the producer photograph is an individual number, not a verified total production count. Older and newer review sessions show substantial disagreement."
+      ],
+      "quality_rationale": "Good but contentious provisional Canadian all-rye execution. Fruit/bitter-herbal development and body receive support; growing wood dominance, rough aromas and markedly unfavorable floral impressions constrain integration and finish. Novel wood and rarity add no points.",
+      "pricing": {
+        "amount": 100,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2024-11-18",
+        "url": "https://www.dramface.com/all-reviews/2024/lot-40-cherry-wood-casks",
+        "basis": "Historical Canadian CAD 100 in November 18, 2024 matched 53.5% review; current CAD 100.25 producer prose has a proof discrepancy",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Producer exact No. 03 photograph and product",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-cherry-wood-cask-750ml",
+          "role": "New white oak then European cherry wood; visible April 2024 / 53.5% label overrides 54% product prose."
+        },
+        {
+          "title": "Aengus McCloud — Dramface",
+          "url": "https://www.dramface.com/all-reviews/2024/lot-40-cherry-wood-casks",
+          "role": "November 18, 2024 exact 53.5%, several weeks of evolving impressions and historical CAD 100."
+        },
+        {
+          "title": "André, Patrick and Kim — Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-3-cherry-wood-casks/",
+          "role": "Exact 53.5% accounts published July 2025 and updated February 2026; favorable body/fruit versus marked floral/earthy dissent."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Aengus McCloud",
+          "publisher": "Dramface",
+          "url": "https://www.dramface.com/all-reviews/2024/lot-40-cherry-wood-casks",
+          "summary": "Initially compelling bitter orange/cherry and oily development become less vivid over weeks as wood grows stronger. Musty and cleaner-like aromas remain explicit reservations.",
+          "scope": "November 18, 2024 exact 53.5% bottle; long-term aging hopes are not proven future results."
+        },
+        {
+          "reviewer": "André, Patrick and Kim",
+          "publisher": "Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-3-cherry-wood-casks/",
+          "summary": "André and Patrick enjoy textured fruit/spice and a developed ending. Kim instead finds unpleasant floral/earthy dominance and wonders about sample variation.",
+          "scope": "July 2025 / February 2026 exact 53.5% reviews, translated French; one platform with genuine disagreement, not a unanimous panel."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "name": "Lot No. 40 modern core",
+          "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+        },
+        {
+          "url": "lot-no-40-rye-explorations-no-4-oloroso.html",
+          "name": "Rye Explorations No. 4 Oloroso",
+          "reason": "Sherry-cask successor, distinct from cherry wood; similar names do not imply the same finish."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/lot-no-40-cherry-wood-cask-750ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Lot40_CherryCasks.png?v=1748439281"
+    }
+  },
+  {
+    "slug": "lot-no-40-rye-explorations-no-4-oloroso",
+    "filename": "lot-no-40-rye-explorations-no-4-oloroso.html",
+    "name": "Lot No. 40 Rye Explorations No. 4 — Oloroso",
+    "family": "Lot No. 40",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 106.8,
+    "abv": 53.4,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Rye base per producer family identity and exact named pack; undisclosed complete component proportions. Oloroso casks do not prove direct wine addition.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 7.2,
+    "quality_score": 7.2,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.1,
+        "flavor_development": 7.6,
+        "finish": 7.5,
+        "technical_cleanliness": 6.3,
+        "texture": 7.8,
+        "maturity_wood_management": 7.3,
+        "distinctiveness": 7.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.25,
+      "editorial_adjustment": -0.05,
+      "adjustment_reason": "Very good provisional Canadian all-rye execution. Rich texture and developed fruit/spice with a persistent ending have substantive support; dusty, furniture-polish-like and imbalanced impressions from a separate reviewer reduce certainty and cleanliness/integration judgments."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional Canadian all-rye execution. Rich texture and developed fruit/spice with a persistent ending have substantive support; dusty, furniture-polish-like and imbalanced impressions from a separate reviewer reduce certainty and cleanliness/integration judgments.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer Ontario CAD 119.95 / 750 mL, sold out when checked; not USD",
+    "price_url": "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 119.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2025,
+    "release_scope": "Lot No. 40 Rye Explorations Release No. 04 Oloroso Casks, 2025-era NAS release, 53.4% ABV / 106.8 proof, 750 mL.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/",
+      "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/"
+    ],
+    "review_publishers": [
+      "Québec Whisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Patrick and Martin",
+        "publisher": "Québec Whisky",
+        "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/",
+        "summary": "Both find broad fruit/spice development, ample oily texture and a long ending, with the rye character surviving the sherry influence.",
+        "scope": "July 15, 2026 exact 53.4%, translated French; awards discussion excluded from Quality."
+      },
+      {
+        "reviewer": "Kim",
+        "publisher": "Québec Whisky",
+        "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/",
+        "summary": "Kim instead reports dusty, waxed-furniture and minty impressions with deficient balance and an unsatisfying dusty ending. A second pass improves enjoyment without removing the reservation.",
+        "scope": "Same July 15, 2026 page; three individual accounts from one publication, not three independent publishers."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength",
+      "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength.js",
+      "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/"
+    ],
+    "production_summary": "Producer verifies column then copper-pot distillation, initial new-American-oak aging and Oloroso-sherry-cask finishing at 53.4%. NAS remains NAS and finish duration is unspecified. Catalogue publication September 25, 2025 establishes the era before 2026 tasting reports, correcting provisional discovery wording that only identified a 2026 listing. Shop title misspells Olorosso; the displayed dossier uses the cask’s standard Oloroso spelling.",
+    "finishing_information": "Oloroso-sherry-cask finish following new-American-oak maturation; exact duration unspecified.",
+    "identity_note": null,
+    "history": [
+      "The producer’s September 2025 catalogue record and 2025 Ontario release material place it before the 2026 independent accounts. A later tasting date is not a first-release date.",
+      "This fourth numbered exploration is distinct from Port Casks and Cherry Wood. Awards and numbered-release status are not sensory evidence."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "name": "Lot No. 40 modern core",
+        "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+      },
+      {
+        "url": "lot-no-40-rye-explorations-no-2-port-casks.html",
+        "name": "Rye Explorations No. 2 Port Casks",
+        "reason": "Fortified-wine finish comparison with its own cask, proof and sensory record."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength",
+        "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/Lot-40-No-4-Exploration-Olorosso_2a6ac04f-e20d-41f5-8a9a-ea62f7483b9c.png?v=1757699714",
+        "scope": "Lot No. 40 Rye Explorations Release No. 04 Oloroso Casks, 2025-era NAS release, 53.4% ABV / 106.8 proof, 750 mL.",
+        "sha256": "a3875fefcfed8d19aa125fba48cb61b7e99cc95d07f7db9cad9d4134a2bb79f4",
+        "image_embedded": true,
+        "width": 1080,
+        "height": 1890
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Lot No. 40 Rye Explorations Release No. 04 Oloroso Casks, 2025-era NAS release, 53.4% ABV / 106.8 proof, 750 mL.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-032",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a scarcity or presentation premium; distinctive cask treatment is not a guarantee of drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small full-strength pour and allow time in the glass; the matched accounts disagree on some finish and cask effects."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add only a few drops at a time and compare texture. Several reviewers find too much dilution reduces definition."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep syrup restrained; a recurring core rye is the price comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the cask influence."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "lot-no-40-rye-explorations-no-4-oloroso",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 106.8,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2025,
+      "quality": 7.2,
+      "value": null,
+      "dimensions": [
+        7.1,
+        7.6,
+        7.5,
+        6.3,
+        7.8,
+        7.3,
+        7.5
+      ],
+      "identity": "Lot No. 40 Rye Explorations Release No. 04 Oloroso Casks, 2025-era NAS release, 53.4% ABV / 106.8 proof, 750 mL.",
+      "short_version": "A rich sherry-cask rye with substantial support for body, development and persistence, alongside a sharply less favorable dusty/chemical-like account. The release predates its 2026 reviews.",
+      "grain": "Rye base per producer family identity and exact named pack; undisclosed complete component proportions. Oloroso casks do not prove direct wine addition.",
+      "production": "Producer verifies column then copper-pot distillation, initial new-American-oak aging and Oloroso-sherry-cask finishing at 53.4%. NAS remains NAS and finish duration is unspecified. Catalogue publication September 25, 2025 establishes the era before 2026 tasting reports, correcting provisional discovery wording that only identified a 2026 listing. Shop title misspells Olorosso; the displayed dossier uses the cask’s standard Oloroso spelling.",
+      "finish": "Oloroso-sherry-cask finish following new-American-oak maturation; exact duration unspecified.",
+      "history": [
+        "The producer’s September 2025 catalogue record and 2025 Ontario release material place it before the 2026 independent accounts. A later tasting date is not a first-release date.",
+        "This fourth numbered exploration is distinct from Port Casks and Cherry Wood. Awards and numbered-release status are not sensory evidence."
+      ],
+      "quality_rationale": "Very good provisional Canadian all-rye execution. Rich texture and developed fruit/spice with a persistent ending have substantive support; dusty, furniture-polish-like and imbalanced impressions from a separate reviewer reduce certainty and cleanliness/integration judgments.",
+      "pricing": {
+        "amount": 119.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength",
+        "basis": "Producer Ontario CAD 119.95 / 750 mL, sold out when checked; not USD",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Producer exact No. 04",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength",
+          "role": "53.4%, initial American oak then Oloroso casks, exact photograph and Ontario offer."
+        },
+        {
+          "title": "Producer machine-readable catalogue",
+          "url": "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength.js",
+          "role": "Published September 25, 2025, CAD 119.95 and available=false checked October 15, 2026."
+        },
+        {
+          "title": "Patrick, Martin and Kim — Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/",
+          "role": "July 15, 2026 exact 53.4% substantive independent accounts, including strong dissent."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Patrick and Martin",
+          "publisher": "Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/",
+          "summary": "Both find broad fruit/spice development, ample oily texture and a long ending, with the rye character surviving the sherry influence.",
+          "scope": "July 15, 2026 exact 53.4%, translated French; awards discussion excluded from Quality."
+        },
+        {
+          "reviewer": "Kim",
+          "publisher": "Québec Whisky",
+          "url": "https://quebecwhisky.com/lot-40-rye-explorations-release-no-4-oloroso-sherry-casks/",
+          "summary": "Kim instead reports dusty, waxed-furniture and minty impressions with deficient balance and an unsatisfying dusty ending. A second pass improves enjoyment without removing the reservation.",
+          "scope": "Same July 15, 2026 page; three individual accounts from one publication, not three independent publishers."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "name": "Lot No. 40 modern core",
+          "reason": "Recurring 43% rye with a different balance and dated U.S. offer, rather than a cask-finish substitute."
+        },
+        {
+          "url": "lot-no-40-rye-explorations-no-2-port-casks.html",
+          "name": "Rye Explorations No. 2 Port Casks",
+          "reason": "Fortified-wine finish comparison with its own cask, proof and sensory record."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength",
+      "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/Lot-40-No-4-Exploration-Olorosso_2a6ac04f-e20d-41f5-8a9a-ea62f7483b9c.png?v=1757699714"
+    }
   }
 ]
