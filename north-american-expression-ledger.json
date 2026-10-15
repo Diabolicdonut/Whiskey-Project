@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 105,
-    "accepted": 120
+    "pending": 100,
+    "accepted": 125
   },
   "entries": [
     {
@@ -9255,16 +9255,16 @@
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian whisky and Caribbean rum",
+      "age_information": "NAS whisky blend — twelve-year statement applies to rum component only",
+      "grain_information": "Canadian whisky base with a small Caribbean-rum addition; exact grain proportions and rum source undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Blending addition",
+      "finishing_information": "Aged Caribbean rum blended into whisky; no separate rum-cask finish authenticated.",
       "release_year_or_era": "2021",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9276,13 +9276,53 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/shop-whisky/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/forty-creek-foxheart",
+            "summary": "De Kergommeaux finds the rum broadens the familiar whisky profile without taking over, supporting a useful sweet/spicy balance and a sustained ending.",
+            "scope": "July 18, 2021; exact Foxheart, full whisky-only sensory account; wider legal comparisons are not adopted."
+          },
+          {
+            "reviewer": "Drams of Whisky reviewer",
+            "publisher": "Drams of Whisky",
+            "url": "https://dramsofwhisky.com/reviews/forty-creek-foxheart.html",
+            "summary": "This taster finds a more obvious contest between rum and whisky, with a more successful palate than aroma or finish. It is interesting but not a bottle they would seek again.",
+            "scope": "Tasted December 16, 2021; posted November 10, 2022, 40%; bottle won in a draw. Grain recipe and exact rum percentage assumptions excluded."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 126
+      "deterministic_order": 126,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-018",
+      "publication_sources": [
+        {
+          "title": "Foxheart producer record",
+          "url": "https://fortycreekwhisky.com/product/foxheart/",
+          "role": "Exact current photograph, forty-percent strength, 750 mL and Ontario CAD 44.95 context."
+        },
+        {
+          "title": "July 2021 producer announcement",
+          "url": "https://www.newswire.ca/news-releases/forty-creek-unveils-foxheart-an-extraordinary-rum-infused-whisky-824269675.html",
+          "role": "Launch, twelve-year Caribbean rum addition, name and Canadian availability scope."
+        },
+        {
+          "title": "Foxheart — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/forty-creek-foxheart",
+          "role": "Full favorable integration account and attributed less-than-9.09% report."
+        },
+        {
+          "title": "Foxheart — Drams of Whisky",
+          "url": "https://dramsofwhisky.com/reviews/forty-creek-foxheart.html",
+          "role": "Substantive more reserved integration account, with exact tasting/posting dates."
+        }
+      ]
     },
     {
       "id": "forty-creek-heart-of-gold-2013",
@@ -9291,17 +9331,17 @@
       "brand_family": "Forty Creek",
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "limited",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "whisky_category": "Canadian Rye Whisky",
+      "proof": 86,
+      "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Producer-authenticated rye-forward blend with corn and barley whisky; percentages undisclosed. Current archive separately mentions a Gewurztraminer-brandy addition, uncorroborated in the contemporary announcement.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak",
+      "finishing_information": "Lightly toasted-oak maturation confirmed contemporaneously; no distinct secondary cask finish established. Retrospective brandy-addition claim remains qualified.",
       "release_year_or_era": "2013",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9313,13 +9353,53 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/forty-creek-heart-of-gold",
+            "summary": "Phillips finds a coherent floral rye thread carrying a developed blend with supporting texture and controlled oak, rather than a merely sweet family variant.",
+            "scope": "Professional exact Heart of Gold tasting section at 43%; grain proportions not inferred from flavor."
+          },
+          {
+            "reviewer": "Jason Hambrey",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/forty-creek-heart-of-gold-whisky-review-9259",
+            "summary": "Hambrey finds unusual grain and savory complexity, a less sweet palate than other family releases, and a particularly persistent ending. The sharp grassy character softens with time in the glass.",
+            "scope": "January 19, 2015; exact 2013 Heart of Gold, 43%; one substantive community sample, no aggregate consensus claimed."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 127
+      "deterministic_order": 127,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-018",
+      "publication_sources": [
+        {
+          "title": "2013 producer announcement reproduced by Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/news-views/forty-creek-heart-of-gold-43.html",
+          "role": "Original rye-forward production account, September release, 9,000 bottles and CAD 69.95 / 750 mL."
+        },
+        {
+          "title": "Current producer release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact Heart of Gold Lot 1972 image and 43%; conflicting retrospective five-year/brandy account explicitly qualified."
+        },
+        {
+          "title": "Heart of Gold — Distiller",
+          "url": "https://distiller.com/spirits/forty-creek-heart-of-gold",
+          "role": "Full matched professional sensory account."
+        },
+        {
+          "title": "Heart of Gold — Hambrey",
+          "url": "https://www.connosr.com/forty-creek-heart-of-gold-whisky-review-9259",
+          "role": "Full independent grain/development/persistence assessment."
+        }
+      ]
     },
     {
       "id": "forty-creek-heritage-2017",
@@ -9329,16 +9409,16 @@
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Individually distilled corn, rye and barley whiskies; final percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Toasted oak",
+      "finishing_information": "After blending, toasted American-oak secondary aging; exact duration and final stock ages undisclosed.",
       "release_year_or_era": "2017",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9350,13 +9430,70 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/forty-creek-heritage",
+            "summary": "Phillips finds layered fruit, creamy texture and nutty/spicy development, with a more tart wood-led ending.",
+            "scope": "Professional exact Heritage section, 40%, NAS; production and sensory sections distinguished."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-heritage/",
+            "summary": "Dykstra finds a successful balance of sweet grain, wood and spice, with substantial texture and a satisfying ending. His strong judgment is not mechanically converted.",
+            "scope": "December 14, 2017; exact 2017 Heritage, full independent review."
+          },
+          {
+            "reviewer": "paddockjudge",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/forty-creek-heritage-ltd-ed-2017-40-abv-bottle-14777-whisky-review-11615",
+            "summary": "This taster finds improved maturity balance and a chewy texture, while a sharp spirit note and warm exit limit the claim of seamlessness.",
+            "scope": "October 29, 2017; Lot 011, bottle 14777, 40%; one detailed community sample, not evidence of every bottle."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 128
+      "deterministic_order": 128,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-018",
+      "publication_sources": [
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact Heritage image, 2017 Lot 011, forty-percent strength and toasted-oak treatment."
+        },
+        {
+          "title": "Producer master-blender timeline",
+          "url": "https://fortycreekwhisky.com/master-blender/",
+          "role": "16,500-bottle 2017 release scope."
+        },
+        {
+          "title": "Heritage — Distiller",
+          "url": "https://distiller.com/spirits/forty-creek-heritage",
+          "role": "Full professional texture/finish account."
+        },
+        {
+          "title": "Heritage — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-heritage/",
+          "role": "Full favorable independent account and contemporary production description."
+        },
+        {
+          "title": "Heritage — paddockjudge",
+          "url": "https://www.connosr.com/forty-creek-heritage-ltd-ed-2017-40-abv-bottle-14777-whisky-review-11615",
+          "role": "Detailed exact lot sample, including sharpness counterevidence."
+        },
+        {
+          "title": "June 2022 U.S. distributor post-off guide",
+          "url": "https://www.brescomebarton.com/storefront/pricechange/bbjunepostoff.pdf",
+          "role": "Wholesale closeout context found, not misrepresented as a consumer retail quote."
+        }
+      ]
     },
     {
       "id": "forty-creek-honey-spiced",
@@ -9366,16 +9503,16 @@
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "current",
       "whisky_category": "Flavored whiskey",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Flavored whisky",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian whisky base, sugar and natural flavors documented on the historical label; honey/spice flavor identity confirmed by current producer; exact grain recipe and quantities undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Flavoring",
+      "finishing_information": "Honey/spice flavor addition; no separate honey-cask or spice-cask finish authenticated.",
       "release_year_or_era": "2014",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9387,13 +9524,58 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/shop-whisky/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Beverage Testing Institute panel",
+            "publisher": "Tastings",
+            "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Honey-Spiced-Flavored-Canadian-Whisky-Canada-08-01-2024.aspx",
+            "summary": "The modern panel finds rounded honey and spice with a medium finish, supporting a useful flavored-drink role. Its bourbon wording is treated as analogy, not production documentation.",
+            "scope": "July 18, 2024; exact forty-percent Honey Spiced; full independent sensory account."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/other-spirits/forty-creek-spike-honey-spiced/",
+            "summary": "Dykstra’s older Spike sample is dominated by syrupy sweetness, with a short finish and limited neat appeal. Ice and ginger ale make a more successful drink for him.",
+            "scope": "August 18, 2015; exact Spike Honey Spiced at 40%, label ingredients quoted separately from assumptions about the base."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 129
+      "deterministic_order": 129,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-018",
+      "publication_sources": [
+        {
+          "title": "Current Honey Spiced producer record",
+          "url": "https://fortycreekwhisky.com/product/honey-spiced/",
+          "role": "Exact current image, 40%, 750 mL, former Spike identity and Ontario CAD price."
+        },
+        {
+          "title": "Producer historical timeline",
+          "url": "https://fortycreekwhisky.com/master-blender/",
+          "role": "2014 general-release lineage under Spike."
+        },
+        {
+          "title": "Producer Last Run name-transition record",
+          "url": "https://fortycreekwhisky.com/product/the-last-run-numbered-bottle-collection-pre-order/",
+          "role": "Explicit 750 mL old Spike / new Honey Spiced same-whisky pairing for the 2022 change."
+        },
+        {
+          "title": "Honey Spiced — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Honey-Spiced-Flavored-Canadian-Whisky-Canada-08-01-2024.aspx",
+          "role": "Full modern flavored-whiskey tasting; USD 26 context lacks stated package size."
+        },
+        {
+          "title": "Spike — Dykstra",
+          "url": "https://therumhowlerblog.com/other-spirits/forty-creek-spike-honey-spiced/",
+          "role": "Full older sweetness/finish counterevidence and historical ingredient-label report."
+        }
+      ]
     },
     {
       "id": "forty-creek-johns-private-cask-no-1-2011",
@@ -9403,16 +9585,16 @@
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Selected corn, rye and barley whisky stocks; final percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak",
+      "finishing_information": "Oak-matured selected stock blend; exact cask specification and distinct final finish not authenticated.",
       "release_year_or_era": "2011",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9424,13 +9606,60 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/forty-creek-john%E2%80%99s-private-cask-no-1-40-alc-vol-review.html",
+            "summary": "De Kergommeaux finds powerful spice and dark-fruit development with substantial body and exceptional persistence for the bottling strength. It is an assertive rather than merely gentle profile.",
+            "scope": "August 14, 2011; exact original No. 1, 40%; barrel-selection information is attributed to his Hall interview."
+          },
+          {
+            "reviewer": "Victor",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/forty-creek-johns-private-cask-no-1-whisky-review-4880",
+            "summary": "Victor finds coherent rye, wood and wine-like flavors with good variety, while wanting more aromatic strength and better refinement of the wine-like element.",
+            "scope": "January 17, 2013; explicit Lot 2011, bottle 3486, opened one month; separate category-relative scores not mechanically converted."
+          },
+          {
+            "reviewer": "Whisky Magazine taster",
+            "publisher": "Whisky Magazine",
+            "url": "https://www.whiskymag.com/tastings/7-forty-creek/",
+            "summary": "The accessible taster finds a fuller palate than the aroma suggests, developed fruit and spice, and an increasingly dry finish. This is a more restrained assessment than the strongest specialist praise.",
+            "scope": "Exact year-bottled 2011 John’s Private Cask, 40%, NAS; accessible complete taster section, no hidden second review inferred."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 130
+      "deterministic_order": 130,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-018",
+      "publication_sources": [
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact No. 1 photograph, 2011 identity and forty-percent strength."
+        },
+        {
+          "title": "Original No. 1 — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/forty-creek-john%E2%80%99s-private-cask-no-1-40-alc-vol-review.html",
+          "role": "Contemporary sensory review, attributed twenty-three-barrel selection, 9,000 bottles, September timing and original CAD price."
+        },
+        {
+          "title": "Lot 2011 — Victor",
+          "url": "https://www.connosr.com/forty-creek-johns-private-cask-no-1-whisky-review-4880",
+          "role": "Substantive exact lot assessment with refinement limits; speculative sherry identity excluded as fact."
+        },
+        {
+          "title": "2011 John’s Private Cask — Whisky Magazine",
+          "url": "https://www.whiskymag.com/tastings/7-forty-creek/",
+          "role": "Independent accessible taster section and explicit NAS/year-bottled identity."
+        }
+      ]
     },
     {
       "id": "forty-creek-maplewood-select-2024",

@@ -42413,5 +42413,1894 @@
       "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
       "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence."
     }
+  },
+  {
+    "slug": "forty-creek-foxheart",
+    "filename": "forty-creek-foxheart.html",
+    "name": "Forty Creek Foxheart",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS whisky blend — twelve-year statement applies to rum component only",
+    "age_display": "NAS whisky blend — twelve-year statement applies to rum component only",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian whisky base with a small Caribbean-rum addition; exact grain proportions and rum source undisclosed.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 6.3,
+    "quality_score": 6.3,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 6.1,
+        "flavor_development": 6.5,
+        "finish": 6,
+        "technical_cleanliness": 6.5,
+        "texture": 6.2,
+        "maturity_wood_management": 6.3,
+        "distinctiveness": 6.9
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.295,
+      "editorial_adjustment": 0.005,
+      "adjustment_reason": "Good provisional Canadian blend execution. Two substantive samples support worthwhile flavor but differ about rum/whisky cohesion. The aged rum and distinctive concept do not establish exceptional Quality."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional Canadian blend execution. Two substantive samples support worthwhile flavor but differ about rum/whisky cohesion. The aged rum and distinctive concept do not establish exceptional Quality.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Current Ontario producer retail context, 750 mL, checked October 15, 2026",
+    "price_url": "https://fortycreekwhisky.com/product/foxheart/",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 44.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2021,
+    "release_scope": "Forty Creek Foxheart, recurring Canadian whisky blend with twelve-year Caribbean rum added, introduced July 2021, 40% ABV / 80 proof; no whole-blend age statement.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/forty-creek-foxheart",
+      "https://dramsofwhisky.com/reviews/forty-creek-foxheart.html"
+    ],
+    "review_publishers": [
+      "Canadian Whisky",
+      "Drams of Whisky"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/forty-creek-foxheart",
+        "summary": "De Kergommeaux finds the rum broadens the familiar whisky profile without taking over, supporting a useful sweet/spicy balance and a sustained ending.",
+        "scope": "July 18, 2021; exact Foxheart, full whisky-only sensory account; wider legal comparisons are not adopted."
+      },
+      {
+        "reviewer": "Drams of Whisky reviewer",
+        "publisher": "Drams of Whisky",
+        "url": "https://dramsofwhisky.com/reviews/forty-creek-foxheart.html",
+        "summary": "This taster finds a more obvious contest between rum and whisky, with a more successful palate than aroma or finish. It is interesting but not a bottle they would seek again.",
+        "scope": "Tasted December 16, 2021; posted November 10, 2022, 40%; bottle won in a draw. Grain recipe and exact rum percentage assumptions excluded."
+      }
+    ],
+    "source_urls": [
+      "https://fortycreekwhisky.com/product/foxheart/",
+      "https://www.newswire.ca/news-releases/forty-creek-unveils-foxheart-an-extraordinary-rum-infused-whisky-824269675.html",
+      "https://canadianwhisky.org/blog/forty-creek-foxheart",
+      "https://dramsofwhisky.com/reviews/forty-creek-foxheart.html"
+    ],
+    "production_summary": "The July 6, 2021 producer release authenticates twelve-year Caribbean rum blended into Canadian whisky. The current product page verifies 40% and 750 mL. De Kergommeaux reports less than 9.09% rum, while Drams states the full percentage; the producer does not publish an exact quantity, so none is fixed here. No whisky-base grain percentages, base age, rum distillery or separate rum-cask stage is established.",
+    "finishing_information": "Aged Caribbean rum blended into whisky; no separate rum-cask finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "The producer announced Foxheart in Ontario on July 6, 2021, with BC and further Canadian rollout planned. The name references Bill Ashburn’s champion wire-haired terrier breeding, not a separate production site.",
+      "The historical Canadian launch reference and the current Ontario producer page both give CAD 44.95, with the current page explicitly showing 750 mL. No exact dated U.S. regular price was authenticated."
+    ],
+    "comparables": [
+      {
+        "name": "Forty Creek Barrel Select",
+        "url": "forty-creek-barrel-select.html",
+        "reason": "The ordinary family-blend reference without an authenticated rum addition."
+      },
+      {
+        "name": "Bearface One Eleven Oaxaca",
+        "url": "bearface-one-eleven-oaxaca.html",
+        "reason": "A different Canadian blend with a disclosed non-whisky spirit component; not an identical recipe or flavor anchor."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numeric stock-up threshold established. Canadian CAD 44.95 is not a U.S. buy threshold.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before deciding on a full bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case is inferred from scarcity or an award alone.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat first makes the reported whisky/rum contrast clear."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "One cube is a producer-supported trial if the rum-led aroma dominates."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Old Fashioned is an editorial option; start with very little sugar."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda highball is an editorial way to retain the whisky and rum interplay."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/product/foxheart/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-FOXHEART-WHISKY_1000x1000-on-600x600.webp",
+        "scope": "Forty Creek Foxheart, recurring Canadian whisky blend with twelve-year Caribbean rum added, introduced July 2021, 40% ABV / 80 proof; no whole-blend age statement.",
+        "sha256": "48d4ee0b1805cf46556a170c766e40c97d7089f834749dac378082a216e38a7a",
+        "image_embedded": true,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek Foxheart, recurring Canadian whisky blend with twelve-year Caribbean rum added, introduced July 2021, 40% ABV / 80 proof; no whole-blend age statement.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-018",
+    "editorial": {
+      "id": "forty-creek-foxheart",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS whisky blend — twelve-year statement applies to rum component only",
+      "release_year": 2021,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek Foxheart, recurring Canadian whisky blend with twelve-year Caribbean rum added, introduced July 2021, 40% ABV / 80 proof; no whole-blend age statement.",
+      "short_version": "A whisky-and-rum blend whose integration attracts differing reactions. The twelve-year statement belongs to the rum component, and the treatment is a blending addition rather than a rum-cask finish.",
+      "grain": "Canadian whisky base with a small Caribbean-rum addition; exact grain proportions and rum source undisclosed.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "The July 6, 2021 producer release authenticates twelve-year Caribbean rum blended into Canadian whisky. The current product page verifies 40% and 750 mL. De Kergommeaux reports less than 9.09% rum, while Drams states the full percentage; the producer does not publish an exact quantity, so none is fixed here. No whisky-base grain percentages, base age, rum distillery or separate rum-cask stage is established.",
+      "finish": "Aged Caribbean rum blended into whisky; no separate rum-cask finish authenticated.",
+      "history": [
+        "The producer announced Foxheart in Ontario on July 6, 2021, with BC and further Canadian rollout planned. The name references Bill Ashburn’s champion wire-haired terrier breeding, not a separate production site.",
+        "The historical Canadian launch reference and the current Ontario producer page both give CAD 44.95, with the current page explicitly showing 750 mL. No exact dated U.S. regular price was authenticated."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/forty-creek-foxheart",
+          "summary": "De Kergommeaux finds the rum broadens the familiar whisky profile without taking over, supporting a useful sweet/spicy balance and a sustained ending.",
+          "scope": "July 18, 2021; exact Foxheart, full whisky-only sensory account; wider legal comparisons are not adopted."
+        },
+        {
+          "reviewer": "Drams of Whisky reviewer",
+          "publisher": "Drams of Whisky",
+          "url": "https://dramsofwhisky.com/reviews/forty-creek-foxheart.html",
+          "summary": "This taster finds a more obvious contest between rum and whisky, with a more successful palate than aroma or finish. It is interesting but not a bottle they would seek again.",
+          "scope": "Tasted December 16, 2021; posted November 10, 2022, 40%; bottle won in a draw. Grain recipe and exact rum percentage assumptions excluded."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Foxheart producer record",
+          "url": "https://fortycreekwhisky.com/product/foxheart/",
+          "role": "Exact current photograph, forty-percent strength, 750 mL and Ontario CAD 44.95 context."
+        },
+        {
+          "title": "July 2021 producer announcement",
+          "url": "https://www.newswire.ca/news-releases/forty-creek-unveils-foxheart-an-extraordinary-rum-infused-whisky-824269675.html",
+          "role": "Launch, twelve-year Caribbean rum addition, name and Canadian availability scope."
+        },
+        {
+          "title": "Foxheart — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/forty-creek-foxheart",
+          "role": "Full favorable integration account and attributed less-than-9.09% report."
+        },
+        {
+          "title": "Foxheart — Drams of Whisky",
+          "url": "https://dramsofwhisky.com/reviews/forty-creek-foxheart.html",
+          "role": "Substantive more reserved integration account, with exact tasting/posting dates."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Forty Creek Barrel Select",
+          "url": "forty-creek-barrel-select.html",
+          "reason": "The ordinary family-blend reference without an authenticated rum addition."
+        },
+        {
+          "name": "Bearface One Eleven Oaxaca",
+          "url": "bearface-one-eleven-oaxaca.html",
+          "reason": "A different Canadian blend with a disclosed non-whisky spirit component; not an identical recipe or flavor anchor."
+        }
+      ],
+      "quality": 6.3,
+      "dimensions": [
+        6.1,
+        6.5,
+        6,
+        6.5,
+        6.2,
+        6.3,
+        6.9
+      ],
+      "quality_rationale": "Good provisional Canadian blend execution. Two substantive samples support worthwhile flavor but differ about rum/whisky cohesion. The aged rum and distinctive concept do not establish exceptional Quality.",
+      "value": null,
+      "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+      "pricing": {
+        "amount": 44.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://fortycreekwhisky.com/product/foxheart/",
+        "basis": "Current Ontario producer retail context, 750 mL, checked October 15, 2026",
+        "nc_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numeric stock-up threshold established. Canadian CAD 44.95 is not a U.S. buy threshold.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before deciding on a full bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case is inferred from scarcity or an award alone.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat first makes the reported whisky/rum contrast clear."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "One cube is a producer-supported trial if the rum-led aroma dominates."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Old Fashioned is an editorial option; start with very little sugar."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda highball is an editorial way to retain the whisky and rum interplay."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-FOXHEART-WHISKY_1000x1000-on-600x600.webp",
+      "image_source": "https://fortycreekwhisky.com/product/foxheart/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence."
+    }
+  },
+  {
+    "slug": "forty-creek-heart-of-gold-2013",
+    "filename": "forty-creek-heart-of-gold-2013.html",
+    "name": "Forty Creek Heart of Gold (2013)",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Canadian Rye Whisky",
+    "subcategory": "Canadian Rye Whisky",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "NAS — no label age statement",
+    "age_display": "NAS — no label age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "Producer-authenticated rye-forward blend with corn and barley whisky; percentages undisclosed. Current archive separately mentions a Gewurztraminer-brandy addition, uncorroborated in the contemporary announcement.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 7.8,
+    "quality_score": 7.8,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 7.8,
+        "flavor_development": 8,
+        "finish": 7.8,
+        "technical_cleanliness": 7.5,
+        "texture": 7.5,
+        "maturity_wood_management": 7.7,
+        "distinctiveness": 8.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.78,
+      "editorial_adjustment": 0.02,
+      "adjustment_reason": "Very good approaching excellent provisional Canadian rye execution. Distinct floral/grain development, useful texture and long persistence are supported by matched accounts. No American straight-rye endpoint or unproven native reference-class anchor is imported."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good approaching excellent provisional Canadian rye execution. Distinct floral/grain development, useful texture and long persistence are supported by matched accounts. No American straight-rye endpoint or unproven native reference-class anchor is imported.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical original Ontario CAD 69.95 / 750 mL reference",
+    "price_url": "https://canadianwhisky.org/blog/news-views/forty-creek-heart-of-gold-43.html",
+    "price_period": "2013-05 (announcement for September release)",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 69.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2013,
+    "release_scope": "Forty Creek Heart of Gold, 2013 Lot 1972 seventh annual limited release, 43% ABV / 86 proof, NAS; documented rye-forward blend.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://distiller.com/spirits/forty-creek-heart-of-gold",
+      "https://www.connosr.com/forty-creek-heart-of-gold-whisky-review-9259"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/forty-creek-heart-of-gold",
+        "summary": "Phillips finds a coherent floral rye thread carrying a developed blend with supporting texture and controlled oak, rather than a merely sweet family variant.",
+        "scope": "Professional exact Heart of Gold tasting section at 43%; grain proportions not inferred from flavor."
+      },
+      {
+        "reviewer": "Jason Hambrey",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/forty-creek-heart-of-gold-whisky-review-9259",
+        "summary": "Hambrey finds unusual grain and savory complexity, a less sweet palate than other family releases, and a particularly persistent ending. The sharp grassy character softens with time in the glass.",
+        "scope": "January 19, 2015; exact 2013 Heart of Gold, 43%; one substantive community sample, no aggregate consensus claimed."
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/news-views/forty-creek-heart-of-gold-43.html",
+      "https://fortycreekwhisky.com/previous-limited-releases/",
+      "https://distiller.com/spirits/forty-creek-heart-of-gold",
+      "https://www.connosr.com/forty-creek-heart-of-gold-whisky-review-9259"
+    ],
+    "production_summary": "The contemporaneous producer announcement describes wine yeast, copper pot distillation with a narrower heart cut, lightly toasted oak, and rye supported by corn and barley. The current archive instead describes selected five-year whisky with a small in-house Gewurztraminer-brandy component. That additional recipe/age account is recorded as an unresolved retrospective claim, not used to invent complete-blend age, component proportions or a brandy-cask finish. The clear original rye-forward intent supports Canadian Rye Whisky editorial classification.",
+    "finishing_information": "Lightly toasted-oak maturation confirmed contemporaneously; no distinct secondary cask finish established. Retrospective brandy-addition claim remains qualified.",
+    "identity_note": null,
+    "history": [
+      "The producer’s original release notice schedules September 28, 2013 availability and 9,000 numbered bottles. Lot 1972 is part of the product’s identifying presentation, not proof of a 1972 vintage.",
+      "The original Ontario price is CAD 69.95 / 750 mL. U.S. delivery-menu and collector listings do not provide a sufficiently reliable exact date/availability reference for numeric Value."
+    ],
+    "comparables": [
+      {
+        "name": "Forty Creek 22 Year Rye",
+        "url": "forty-creek-22-year-rye-2019.html",
+        "reason": "A later authenticated all-rye release; Heart of Gold is neither all rye nor an age-stated twenty-two-year whisky."
+      },
+      {
+        "name": "Crown Royal Northern Harvest Rye",
+        "url": "crown-royal-northern-harvest-rye.html",
+        "reason": "Another documented Canadian rye-forward intended style; final recipes and distillation regimes differ."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numeric stock-up threshold established. Historical CAD 69.95 does not become USD 69.95 or a current-stock quote.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before deciding on a full bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case is inferred from scarcity or an award alone.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat with time in the glass follows the detailed independent account."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try drops after assessing the floral rye; heavy dilution may reduce definition."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Manhattan is an editorial trial for the rye-forward blend."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A recurring Canadian rye is the practical highball alternative."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/previous-limited-releases/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/04/Forty_Creek_Heart-of-Gold-Whisky-Bottle.webp",
+        "scope": "Forty Creek Heart of Gold, 2013 Lot 1972 seventh annual limited release, 43% ABV / 86 proof, NAS; documented rye-forward blend.",
+        "sha256": "fb03b24605ef740957ed6fd285d85a0efd5fceaa1680efe41c9cc24ffdef65e9",
+        "image_embedded": true,
+        "width": 694,
+        "height": 1000
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek Heart of Gold, 2013 Lot 1972 seventh annual limited release, 43% ABV / 86 proof, NAS; documented rye-forward blend.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-018",
+    "editorial": {
+      "id": "forty-creek-heart-of-gold-2013",
+      "proof": 86,
+      "age": null,
+      "age_display": "NAS — no label age statement",
+      "release_year": 2013,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek Heart of Gold, 2013 Lot 1972 seventh annual limited release, 43% ABV / 86 proof, NAS; documented rye-forward blend.",
+      "short_version": "A floral, grain-led Canadian rye expression with strong independent support for distinctive development. It remains a blend with corn and barley, and the lot number is not a distillation year.",
+      "grain": "Producer-authenticated rye-forward blend with corn and barley whisky; percentages undisclosed. Current archive separately mentions a Gewurztraminer-brandy addition, uncorroborated in the contemporary announcement.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "The contemporaneous producer announcement describes wine yeast, copper pot distillation with a narrower heart cut, lightly toasted oak, and rye supported by corn and barley. The current archive instead describes selected five-year whisky with a small in-house Gewurztraminer-brandy component. That additional recipe/age account is recorded as an unresolved retrospective claim, not used to invent complete-blend age, component proportions or a brandy-cask finish. The clear original rye-forward intent supports Canadian Rye Whisky editorial classification.",
+      "finish": "Lightly toasted-oak maturation confirmed contemporaneously; no distinct secondary cask finish established. Retrospective brandy-addition claim remains qualified.",
+      "history": [
+        "The producer’s original release notice schedules September 28, 2013 availability and 9,000 numbered bottles. Lot 1972 is part of the product’s identifying presentation, not proof of a 1972 vintage.",
+        "The original Ontario price is CAD 69.95 / 750 mL. U.S. delivery-menu and collector listings do not provide a sufficiently reliable exact date/availability reference for numeric Value."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/forty-creek-heart-of-gold",
+          "summary": "Phillips finds a coherent floral rye thread carrying a developed blend with supporting texture and controlled oak, rather than a merely sweet family variant.",
+          "scope": "Professional exact Heart of Gold tasting section at 43%; grain proportions not inferred from flavor."
+        },
+        {
+          "reviewer": "Jason Hambrey",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/forty-creek-heart-of-gold-whisky-review-9259",
+          "summary": "Hambrey finds unusual grain and savory complexity, a less sweet palate than other family releases, and a particularly persistent ending. The sharp grassy character softens with time in the glass.",
+          "scope": "January 19, 2015; exact 2013 Heart of Gold, 43%; one substantive community sample, no aggregate consensus claimed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "2013 producer announcement reproduced by Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/news-views/forty-creek-heart-of-gold-43.html",
+          "role": "Original rye-forward production account, September release, 9,000 bottles and CAD 69.95 / 750 mL."
+        },
+        {
+          "title": "Current producer release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact Heart of Gold Lot 1972 image and 43%; conflicting retrospective five-year/brandy account explicitly qualified."
+        },
+        {
+          "title": "Heart of Gold — Distiller",
+          "url": "https://distiller.com/spirits/forty-creek-heart-of-gold",
+          "role": "Full matched professional sensory account."
+        },
+        {
+          "title": "Heart of Gold — Hambrey",
+          "url": "https://www.connosr.com/forty-creek-heart-of-gold-whisky-review-9259",
+          "role": "Full independent grain/development/persistence assessment."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Forty Creek 22 Year Rye",
+          "url": "forty-creek-22-year-rye-2019.html",
+          "reason": "A later authenticated all-rye release; Heart of Gold is neither all rye nor an age-stated twenty-two-year whisky."
+        },
+        {
+          "name": "Crown Royal Northern Harvest Rye",
+          "url": "crown-royal-northern-harvest-rye.html",
+          "reason": "Another documented Canadian rye-forward intended style; final recipes and distillation regimes differ."
+        }
+      ],
+      "quality": 7.8,
+      "dimensions": [
+        7.8,
+        8,
+        7.8,
+        7.5,
+        7.5,
+        7.7,
+        8.3
+      ],
+      "quality_rationale": "Very good approaching excellent provisional Canadian rye execution. Distinct floral/grain development, useful texture and long persistence are supported by matched accounts. No American straight-rye endpoint or unproven native reference-class anchor is imported.",
+      "value": null,
+      "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+      "pricing": {
+        "amount": 69.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2013-05 (announcement for September release)",
+        "url": "https://canadianwhisky.org/blog/news-views/forty-creek-heart-of-gold-43.html",
+        "basis": "Historical original Ontario CAD 69.95 / 750 mL reference",
+        "nc_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numeric stock-up threshold established. Historical CAD 69.95 does not become USD 69.95 or a current-stock quote.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before deciding on a full bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case is inferred from scarcity or an award alone.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat with time in the glass follows the detailed independent account."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try drops after assessing the floral rye; heavy dilution may reduce definition."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Manhattan is an editorial trial for the rye-forward blend."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A recurring Canadian rye is the practical highball alternative."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/04/Forty_Creek_Heart-of-Gold-Whisky-Bottle.webp",
+      "image_source": "https://fortycreekwhisky.com/previous-limited-releases/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "category": "Canadian Rye Whisky"
+    }
+  },
+  {
+    "slug": "forty-creek-heritage-2017",
+    "filename": "forty-creek-heritage-2017.html",
+    "name": "Forty Creek Heritage (2017)",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS — no label age statement",
+    "age_display": "NAS — no label age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "Individually distilled corn, rye and barley whiskies; final percentages undisclosed.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 7.4,
+    "quality_score": 7.4,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 7.5,
+        "flavor_development": 7.5,
+        "finish": 7.1,
+        "technical_cleanliness": 7.2,
+        "texture": 7.6,
+        "maturity_wood_management": 7.2,
+        "distinctiveness": 7.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.365,
+      "editorial_adjustment": 0.035,
+      "adjustment_reason": "Very good provisional Canadian blend execution. Three substantive accounts support texture, layering and useful wood balance, while sharp spirit and tart ending notes prevent an exceptional score. Toasted wood alone is not treated as either a bonus or a fault."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional Canadian blend execution. Three substantive accounts support texture, layering and useful wood balance, while sharp spirit and tart ending notes prevent an exceptional score. Toasted wood alone is not treated as either a bonus or a fault.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Price not established",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2017,
+    "release_scope": "Forty Creek Heritage, 2017 Lot 011 eleventh annual limited release, 40% ABV / 80 proof, NAS, toasted-American-oak-finished blend.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://distiller.com/spirits/forty-creek-heritage",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-heritage/",
+      "https://www.connosr.com/forty-creek-heritage-ltd-ed-2017-40-abv-bottle-14777-whisky-review-11615"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "The Rum Howler Blog",
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/forty-creek-heritage",
+        "summary": "Phillips finds layered fruit, creamy texture and nutty/spicy development, with a more tart wood-led ending.",
+        "scope": "Professional exact Heritage section, 40%, NAS; production and sensory sections distinguished."
+      },
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-heritage/",
+        "summary": "Dykstra finds a successful balance of sweet grain, wood and spice, with substantial texture and a satisfying ending. His strong judgment is not mechanically converted.",
+        "scope": "December 14, 2017; exact 2017 Heritage, full independent review."
+      },
+      {
+        "reviewer": "paddockjudge",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/forty-creek-heritage-ltd-ed-2017-40-abv-bottle-14777-whisky-review-11615",
+        "summary": "This taster finds improved maturity balance and a chewy texture, while a sharp spirit note and warm exit limit the claim of seamlessness.",
+        "scope": "October 29, 2017; Lot 011, bottle 14777, 40%; one detailed community sample, not evidence of every bottle."
+      }
+    ],
+    "source_urls": [
+      "https://fortycreekwhisky.com/previous-limited-releases/",
+      "https://fortycreekwhisky.com/master-blender/",
+      "https://distiller.com/spirits/forty-creek-heritage",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-heritage/",
+      "https://www.connosr.com/forty-creek-heritage-ltd-ed-2017-40-abv-bottle-14777-whisky-review-11615",
+      "https://www.brescomebarton.com/storefront/pricechange/bbjunepostoff.pdf"
+    ],
+    "production_summary": "The producer archive and contemporaneous production account identify selected grain whiskies married in toasted American oak. Toasting is not automatically the same as a heavy char regime. Neither the tribute to early Three Grain whisky nor a reviewer’s perception of older stocks authenticates a final numeric age. The exact Lot 011 image and independent accounts confirm 40% ABV.",
+    "finishing_information": "After blending, toasted American-oak secondary aging; exact duration and final stock ages undisclosed.",
+    "identity_note": null,
+    "history": [
+      "The producer timeline records 16,500 bottles for the 2017 annual release. It is a tribute to early Forty Creek style, not a reissued 1990s bottle or the separate 2015 Three Grain Harmony.",
+      "Canadian contemporary discussion gives approximately CAD 75. A dated U.S. distributor closeout record is wholesale context, and a third-party delivery menu is not a robust exact retail benchmark. Neither is used as consumer Value."
+    ],
+    "comparables": [
+      {
+        "name": "Forty Creek Founder’s Reserve (2016)",
+        "url": "forty-creek-founders-reserve-2016.html",
+        "reason": "A separate barley-forward prior annual identity with conflicting maturity evidence."
+      },
+      {
+        "name": "Forty Creek Confederation Oak",
+        "url": "forty-creek-confederation-oak.html",
+        "reason": "Different Canadian-oak secondary aging; lots and reviews should be assessed individually."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numeric stock-up threshold established. A reliable dated U.S. consumer price remains unverified; wholesale closeout figures are not retail.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before deciding on a full bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case is inferred from scarcity or an award alone.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat first is supported by the independent review use cases."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "A few drops can be tried after assessing the sharp note; record whether texture improves."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Old Fashioned is an editorial option if toasted wood and spice are a preference."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Use a recurring family blend for routine highballs rather than paying a historic-bottle premium."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/previous-limited-releases/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/11/Forty_Creek_Heritage-Whisky-Bottle.webp",
+        "scope": "Forty Creek Heritage, 2017 Lot 011 eleventh annual limited release, 40% ABV / 80 proof, NAS, toasted-American-oak-finished blend.",
+        "sha256": "0327488473fb0192feb79b8e57e1503f326b814190898da033589b77494ea8f9",
+        "image_embedded": true,
+        "width": 694,
+        "height": 1000
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek Heritage, 2017 Lot 011 eleventh annual limited release, 40% ABV / 80 proof, NAS, toasted-American-oak-finished blend.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-018",
+    "editorial": {
+      "id": "forty-creek-heritage-2017",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS — no label age statement",
+      "release_year": 2017,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek Heritage, 2017 Lot 011 eleventh annual limited release, 40% ABV / 80 proof, NAS, toasted-American-oak-finished blend.",
+      "short_version": "A textured, layered Canadian blend with stronger maturity-balance evidence than some neighboring annual releases. Sharp notes and moderate complexity in one sample remain part of the record.",
+      "grain": "Individually distilled corn, rye and barley whiskies; final percentages undisclosed.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "The producer archive and contemporaneous production account identify selected grain whiskies married in toasted American oak. Toasting is not automatically the same as a heavy char regime. Neither the tribute to early Three Grain whisky nor a reviewer’s perception of older stocks authenticates a final numeric age. The exact Lot 011 image and independent accounts confirm 40% ABV.",
+      "finish": "After blending, toasted American-oak secondary aging; exact duration and final stock ages undisclosed.",
+      "history": [
+        "The producer timeline records 16,500 bottles for the 2017 annual release. It is a tribute to early Forty Creek style, not a reissued 1990s bottle or the separate 2015 Three Grain Harmony.",
+        "Canadian contemporary discussion gives approximately CAD 75. A dated U.S. distributor closeout record is wholesale context, and a third-party delivery menu is not a robust exact retail benchmark. Neither is used as consumer Value."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/forty-creek-heritage",
+          "summary": "Phillips finds layered fruit, creamy texture and nutty/spicy development, with a more tart wood-led ending.",
+          "scope": "Professional exact Heritage section, 40%, NAS; production and sensory sections distinguished."
+        },
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-heritage/",
+          "summary": "Dykstra finds a successful balance of sweet grain, wood and spice, with substantial texture and a satisfying ending. His strong judgment is not mechanically converted.",
+          "scope": "December 14, 2017; exact 2017 Heritage, full independent review."
+        },
+        {
+          "reviewer": "paddockjudge",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/forty-creek-heritage-ltd-ed-2017-40-abv-bottle-14777-whisky-review-11615",
+          "summary": "This taster finds improved maturity balance and a chewy texture, while a sharp spirit note and warm exit limit the claim of seamlessness.",
+          "scope": "October 29, 2017; Lot 011, bottle 14777, 40%; one detailed community sample, not evidence of every bottle."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact Heritage image, 2017 Lot 011, forty-percent strength and toasted-oak treatment."
+        },
+        {
+          "title": "Producer master-blender timeline",
+          "url": "https://fortycreekwhisky.com/master-blender/",
+          "role": "16,500-bottle 2017 release scope."
+        },
+        {
+          "title": "Heritage — Distiller",
+          "url": "https://distiller.com/spirits/forty-creek-heritage",
+          "role": "Full professional texture/finish account."
+        },
+        {
+          "title": "Heritage — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-heritage/",
+          "role": "Full favorable independent account and contemporary production description."
+        },
+        {
+          "title": "Heritage — paddockjudge",
+          "url": "https://www.connosr.com/forty-creek-heritage-ltd-ed-2017-40-abv-bottle-14777-whisky-review-11615",
+          "role": "Detailed exact lot sample, including sharpness counterevidence."
+        },
+        {
+          "title": "June 2022 U.S. distributor post-off guide",
+          "url": "https://www.brescomebarton.com/storefront/pricechange/bbjunepostoff.pdf",
+          "role": "Wholesale closeout context found, not misrepresented as a consumer retail quote."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Forty Creek Founder’s Reserve (2016)",
+          "url": "forty-creek-founders-reserve-2016.html",
+          "reason": "A separate barley-forward prior annual identity with conflicting maturity evidence."
+        },
+        {
+          "name": "Forty Creek Confederation Oak",
+          "url": "forty-creek-confederation-oak.html",
+          "reason": "Different Canadian-oak secondary aging; lots and reviews should be assessed individually."
+        }
+      ],
+      "quality": 7.4,
+      "dimensions": [
+        7.5,
+        7.5,
+        7.1,
+        7.2,
+        7.6,
+        7.2,
+        7.3
+      ],
+      "quality_rationale": "Very good provisional Canadian blend execution. Three substantive accounts support texture, layering and useful wood balance, while sharp spirit and tart ending notes prevent an exceptional score. Toasted wood alone is not treated as either a bonus or a fault.",
+      "value": null,
+      "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+      "pricing": {},
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numeric stock-up threshold established. A reliable dated U.S. consumer price remains unverified; wholesale closeout figures are not retail.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before deciding on a full bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case is inferred from scarcity or an award alone.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat first is supported by the independent review use cases."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "A few drops can be tried after assessing the sharp note; record whether texture improves."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Old Fashioned is an editorial option if toasted wood and spice are a preference."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Use a recurring family blend for routine highballs rather than paying a historic-bottle premium."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/11/Forty_Creek_Heritage-Whisky-Bottle.webp",
+      "image_source": "https://fortycreekwhisky.com/previous-limited-releases/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence."
+    }
+  },
+  {
+    "slug": "forty-creek-honey-spiced",
+    "filename": "forty-creek-honey-spiced.html",
+    "name": "Forty Creek Honey Spiced",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Flavored whiskey",
+    "subcategory": "Flavored whiskey",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS — no label age statement",
+    "age_display": "NAS — no label age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian whisky base, sugar and natural flavors documented on the historical label; honey/spice flavor identity confirmed by current producer; exact grain recipe and quantities undisclosed.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 5.7,
+    "quality_score": 5.7,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 5.5,
+        "flavor_development": 5.9,
+        "finish": 5.1,
+        "technical_cleanliness": 6.1,
+        "texture": 5.7,
+        "maturity_wood_management": 5.2,
+        "distinctiveness": 6.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.635,
+      "editorial_adjustment": 0.065,
+      "adjustment_reason": "Above-average provisional flavored-whiskey execution for mixing. A usable modern honey/spice profile is constrained by cloying sweetness and a short ending in the older matched sample. It is not judged against unmodified Canadian rye or bourbon."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Above-average provisional flavored-whiskey execution for mixing. A usable modern honey/spice profile is constrained by cloying sweetness and a short ending in the older matched sample. It is not judged against unmodified Canadian rye or bourbon.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Current Ontario producer retail context, exact 750 mL, checked October 15, 2026",
+    "price_url": "https://fortycreekwhisky.com/product/honey-spiced/",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 32.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2014,
+    "release_scope": "Forty Creek Honey Spiced, formerly Spike, recurring honey-and-spice-flavored whisky, 40% ABV / 80 proof, NAS; original 2014 lineage and 2022 name transition.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.tastings.com/Spirits-Review/Forty-Creek-Honey-Spiced-Flavored-Canadian-Whisky-Canada-08-01-2024.aspx",
+      "https://therumhowlerblog.com/other-spirits/forty-creek-spike-honey-spiced/"
+    ],
+    "review_publishers": [
+      "Tastings",
+      "The Rum Howler Blog"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Honey-Spiced-Flavored-Canadian-Whisky-Canada-08-01-2024.aspx",
+        "summary": "The modern panel finds rounded honey and spice with a medium finish, supporting a useful flavored-drink role. Its bourbon wording is treated as analogy, not production documentation.",
+        "scope": "July 18, 2024; exact forty-percent Honey Spiced; full independent sensory account."
+      },
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/other-spirits/forty-creek-spike-honey-spiced/",
+        "summary": "Dykstra’s older Spike sample is dominated by syrupy sweetness, with a short finish and limited neat appeal. Ice and ginger ale make a more successful drink for him.",
+        "scope": "August 18, 2015; exact Spike Honey Spiced at 40%, label ingredients quoted separately from assumptions about the base."
+      }
+    ],
+    "source_urls": [
+      "https://fortycreekwhisky.com/product/honey-spiced/",
+      "https://fortycreekwhisky.com/master-blender/",
+      "https://fortycreekwhisky.com/product/the-last-run-numbered-bottle-collection-pre-order/",
+      "https://www.tastings.com/Spirits-Review/Forty-Creek-Honey-Spiced-Flavored-Canadian-Whisky-Canada-08-01-2024.aspx",
+      "https://therumhowlerblog.com/other-spirits/forty-creek-spike-honey-spiced/"
+    ],
+    "production_summary": "The current producer record explicitly identifies Honey Spiced as the former Spike at forty percent. The historical label inspected by Dykstra lists whisky, sugar and natural flavors; his assumptions about actual honey and a Barrel Select base are not promoted to a complete formula. Neither producer rhetoric about bourbon-like flavor nor the independent panel’s bourbon analogy authenticates an American bourbon component.",
+    "finishing_information": "Honey/spice flavor addition; no separate honey-cask or spice-cask finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "The producer timeline records the original 2014 general release under Spike; its 2022 numbered Last Run collection explicitly pairs old Spike with new Honey Spiced as the same whisky in new packaging.",
+      "The current Ontario producer page explicitly lists CAD 32.95 / 750 mL. Tastings’ July 2024 record gives a U.S. USD 26 reference without a stated matched package size; it is retained as context but not enough for numeric U.S. Cost or Value."
+    ],
+    "comparables": [
+      {
+        "name": "Crown Royal Honey",
+        "url": "crown-royal-honey.html",
+        "reason": "A separate honey-flavored family expression; neither its grade nor price substitutes for this bottle."
+      },
+      {
+        "name": "Crown Royal Vanilla",
+        "url": "crown-royal-vanilla.html",
+        "reason": "Another sweet mixer with distinct flavor and independently assessed integration."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numeric stock-up threshold established. CAD 32.95 is Canadian context; the size-unspecified U.S. reference is not forced into a Value score.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before deciding on a full bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case is inferred from scarcity or an award alone.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "A small neat sample tests sweetness tolerance; one full review favors mixing."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Ice is directly supported by the older review."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Omit most added sugar in an editorial Old Fashioned trial."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Ginger ale with citrus is the better-supported independent mixing use; cola can intensify sweetness."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/product/honey-spiced/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-HONEY-SPICED-WHISKY_1000x1000-on-600x600.webp",
+        "scope": "Forty Creek Honey Spiced, formerly Spike, recurring honey-and-spice-flavored whisky, 40% ABV / 80 proof, NAS; original 2014 lineage and 2022 name transition.",
+        "sha256": "15d127356be8231ac35fe8f513adbefe0e9d51973101a96b162935a30320d296",
+        "image_embedded": true,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek Honey Spiced, formerly Spike, recurring honey-and-spice-flavored whisky, 40% ABV / 80 proof, NAS; original 2014 lineage and 2022 name transition.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-018",
+    "editorial": {
+      "id": "forty-creek-honey-spiced",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS — no label age statement",
+      "release_year": 2014,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek Honey Spiced, formerly Spike, recurring honey-and-spice-flavored whisky, 40% ABV / 80 proof, NAS; original 2014 lineage and 2022 name transition.",
+      "short_version": "A sweet flavored mixer with conflicting assessments of body and finish. The current Honey Spiced name and older Spike reviews belong to one verified lineage, while flavor descriptions are not treated as ingredient measurements.",
+      "grain": "Canadian whisky base, sugar and natural flavors documented on the historical label; honey/spice flavor identity confirmed by current producer; exact grain recipe and quantities undisclosed.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "The current producer record explicitly identifies Honey Spiced as the former Spike at forty percent. The historical label inspected by Dykstra lists whisky, sugar and natural flavors; his assumptions about actual honey and a Barrel Select base are not promoted to a complete formula. Neither producer rhetoric about bourbon-like flavor nor the independent panel’s bourbon analogy authenticates an American bourbon component.",
+      "finish": "Honey/spice flavor addition; no separate honey-cask or spice-cask finish authenticated.",
+      "history": [
+        "The producer timeline records the original 2014 general release under Spike; its 2022 numbered Last Run collection explicitly pairs old Spike with new Honey Spiced as the same whisky in new packaging.",
+        "The current Ontario producer page explicitly lists CAD 32.95 / 750 mL. Tastings’ July 2024 record gives a U.S. USD 26 reference without a stated matched package size; it is retained as context but not enough for numeric U.S. Cost or Value."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Honey-Spiced-Flavored-Canadian-Whisky-Canada-08-01-2024.aspx",
+          "summary": "The modern panel finds rounded honey and spice with a medium finish, supporting a useful flavored-drink role. Its bourbon wording is treated as analogy, not production documentation.",
+          "scope": "July 18, 2024; exact forty-percent Honey Spiced; full independent sensory account."
+        },
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/other-spirits/forty-creek-spike-honey-spiced/",
+          "summary": "Dykstra’s older Spike sample is dominated by syrupy sweetness, with a short finish and limited neat appeal. Ice and ginger ale make a more successful drink for him.",
+          "scope": "August 18, 2015; exact Spike Honey Spiced at 40%, label ingredients quoted separately from assumptions about the base."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Current Honey Spiced producer record",
+          "url": "https://fortycreekwhisky.com/product/honey-spiced/",
+          "role": "Exact current image, 40%, 750 mL, former Spike identity and Ontario CAD price."
+        },
+        {
+          "title": "Producer historical timeline",
+          "url": "https://fortycreekwhisky.com/master-blender/",
+          "role": "2014 general-release lineage under Spike."
+        },
+        {
+          "title": "Producer Last Run name-transition record",
+          "url": "https://fortycreekwhisky.com/product/the-last-run-numbered-bottle-collection-pre-order/",
+          "role": "Explicit 750 mL old Spike / new Honey Spiced same-whisky pairing for the 2022 change."
+        },
+        {
+          "title": "Honey Spiced — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Honey-Spiced-Flavored-Canadian-Whisky-Canada-08-01-2024.aspx",
+          "role": "Full modern flavored-whiskey tasting; USD 26 context lacks stated package size."
+        },
+        {
+          "title": "Spike — Dykstra",
+          "url": "https://therumhowlerblog.com/other-spirits/forty-creek-spike-honey-spiced/",
+          "role": "Full older sweetness/finish counterevidence and historical ingredient-label report."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Crown Royal Honey",
+          "url": "crown-royal-honey.html",
+          "reason": "A separate honey-flavored family expression; neither its grade nor price substitutes for this bottle."
+        },
+        {
+          "name": "Crown Royal Vanilla",
+          "url": "crown-royal-vanilla.html",
+          "reason": "Another sweet mixer with distinct flavor and independently assessed integration."
+        }
+      ],
+      "quality": 5.7,
+      "dimensions": [
+        5.5,
+        5.9,
+        5.1,
+        6.1,
+        5.7,
+        5.2,
+        6.2
+      ],
+      "quality_rationale": "Above-average provisional flavored-whiskey execution for mixing. A usable modern honey/spice profile is constrained by cloying sweetness and a short ending in the older matched sample. It is not judged against unmodified Canadian rye or bourbon.",
+      "value": null,
+      "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+      "pricing": {
+        "amount": 32.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://fortycreekwhisky.com/product/honey-spiced/",
+        "basis": "Current Ontario producer retail context, exact 750 mL, checked October 15, 2026",
+        "nc_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numeric stock-up threshold established. CAD 32.95 is Canadian context; the size-unspecified U.S. reference is not forced into a Value score.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before deciding on a full bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case is inferred from scarcity or an award alone.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "A small neat sample tests sweetness tolerance; one full review favors mixing."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Ice is directly supported by the older review."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Omit most added sugar in an editorial Old Fashioned trial."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Ginger ale with citrus is the better-supported independent mixing use; cola can intensify sweetness."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-HONEY-SPICED-WHISKY_1000x1000-on-600x600.webp",
+      "image_source": "https://fortycreekwhisky.com/product/honey-spiced/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "category": "Flavored whiskey"
+    }
+  },
+  {
+    "slug": "forty-creek-johns-private-cask-no-1-2011",
+    "filename": "forty-creek-johns-private-cask-no-1-2011.html",
+    "name": "Forty Creek Johns Private Cask No. 1 (2011)",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS — no label age statement",
+    "age_display": "NAS — no label age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "Selected corn, rye and barley whisky stocks; final percentages undisclosed.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 7.6,
+    "quality_score": 7.6,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 7.8,
+        "flavor_development": 7.8,
+        "finish": 7.6,
+        "technical_cleanliness": 7.8,
+        "texture": 7.6,
+        "maturity_wood_management": 7.3,
+        "distinctiveness": 7.8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.7,
+      "editorial_adjustment": -0.1,
+      "adjustment_reason": "Very good approaching excellent provisional Canadian blend execution. Multiple exact accounts support strong development, body and persistence, while refinement and aromatic-strength reservations limit reference-class claims. The name and rarity add no points."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good approaching excellent provisional Canadian blend execution. Multiple exact accounts support strong development, body and persistence, while refinement and aromatic-strength reservations limit reference-class claims. The name and rarity add no points.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical LCBO Ontario price for original No. 1; Canadian dollars, not U.S. retail",
+    "price_url": "https://canadianwhisky.org/blog/reviews/forty-creek-john%E2%80%99s-private-cask-no-1-40-alc-vol-review.html",
+    "price_period": "2011-09-13",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 69.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2011,
+    "release_scope": "Forty Creek John’s Private Cask No. 1, original 2011 Lot 2011 release, 40% ABV / 80 proof, NAS; blend of selected reserve barrels.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/forty-creek-john%E2%80%99s-private-cask-no-1-40-alc-vol-review.html",
+      "https://www.connosr.com/forty-creek-johns-private-cask-no-1-whisky-review-4880",
+      "https://www.whiskymag.com/tastings/7-forty-creek/"
+    ],
+    "review_publishers": [
+      "Canadian Whisky",
+      "Whisky Connosr",
+      "Whisky Magazine"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/forty-creek-john%E2%80%99s-private-cask-no-1-40-alc-vol-review.html",
+        "summary": "De Kergommeaux finds powerful spice and dark-fruit development with substantial body and exceptional persistence for the bottling strength. It is an assertive rather than merely gentle profile.",
+        "scope": "August 14, 2011; exact original No. 1, 40%; barrel-selection information is attributed to his Hall interview."
+      },
+      {
+        "reviewer": "Victor",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/forty-creek-johns-private-cask-no-1-whisky-review-4880",
+        "summary": "Victor finds coherent rye, wood and wine-like flavors with good variety, while wanting more aromatic strength and better refinement of the wine-like element.",
+        "scope": "January 17, 2013; explicit Lot 2011, bottle 3486, opened one month; separate category-relative scores not mechanically converted."
+      },
+      {
+        "reviewer": "Whisky Magazine taster",
+        "publisher": "Whisky Magazine",
+        "url": "https://www.whiskymag.com/tastings/7-forty-creek/",
+        "summary": "The accessible taster finds a fuller palate than the aroma suggests, developed fruit and spice, and an increasingly dry finish. This is a more restrained assessment than the strongest specialist praise.",
+        "scope": "Exact year-bottled 2011 John’s Private Cask, 40%, NAS; accessible complete taster section, no hidden second review inferred."
+      }
+    ],
+    "source_urls": [
+      "https://fortycreekwhisky.com/previous-limited-releases/",
+      "https://canadianwhisky.org/blog/reviews/forty-creek-john%E2%80%99s-private-cask-no-1-40-alc-vol-review.html",
+      "https://www.connosr.com/forty-creek-johns-private-cask-no-1-whisky-review-4880",
+      "https://www.whiskymag.com/tastings/7-forty-creek/"
+    ],
+    "production_summary": "The specialist’s contemporary interview account reports John Hall selecting twenty-three reserve barrels for a 9,000-bottle blend. It is not one cask, a twenty-three-year statement or cask-strength whisky. The exact archive image shows No. 1 and 40%; no numeric label age or specific final secondary finish is established. A reviewer’s sherry speculation remains sensory interpretation.",
+    "finishing_information": "Oak-matured selected stock blend; exact cask specification and distinct final finish not authenticated.",
+    "identity_note": null,
+    "history": [
+      "The August 2011 contemporary account schedules LCBO shelves from September 13, 2011 and the distillery signing weekend later that month. The photographed No. 1 / Lot 2011 identity controls this dossier; a later timeline mention of John’s Private Cask does not establish an identical separate reissue.",
+      "The original quoted Ontario LCBO price is CAD 69.95. No exact dated U.S. regular price was authenticated; rarity and later collector listings do not establish drinking Value."
+    ],
+    "comparables": [
+      {
+        "name": "Forty Creek Heart of Gold (2013)",
+        "url": "forty-creek-heart-of-gold-2013.html",
+        "reason": "A later explicitly rye-forward limited identity with distinct floral-production documentation."
+      },
+      {
+        "name": "Forty Creek Heritage (2017)",
+        "url": "forty-creek-heritage-2017.html",
+        "reason": "A separately identified toasted-oak annual release; not the same selected stock blend."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numeric stock-up threshold established. Original CAD 69.95 is historical Canadian context, not a current U.S. drinking-value benchmark.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before deciding on a full bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case is inferred from scarcity or an award alone.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat first follows the matched review use cases."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try a few drops if the spice feels too assertive; forty-percent strength leaves limited dilution headroom."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A restrained Manhattan is an editorial trial after assessing the spice and wood."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "For routine highballs, choose a readily available recurring Canadian blend."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/previous-limited-releases/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/04/Forty_Creek_Johns-Private-CaskWhisky-Bottle.webp",
+        "scope": "Forty Creek John’s Private Cask No. 1, original 2011 Lot 2011 release, 40% ABV / 80 proof, NAS; blend of selected reserve barrels.",
+        "sha256": "4ec0a08bf8ac9b1380cdabd6b0460037ffa44aa5347c4b9bfffb9b2194d24c3b",
+        "image_embedded": true,
+        "width": 694,
+        "height": 1000
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek John’s Private Cask No. 1, original 2011 Lot 2011 release, 40% ABV / 80 proof, NAS; blend of selected reserve barrels.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-018",
+    "editorial": {
+      "id": "forty-creek-johns-private-cask-no-1-2011",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS — no label age statement",
+      "release_year": 2011,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek John’s Private Cask No. 1, original 2011 Lot 2011 release, 40% ABV / 80 proof, NAS; blend of selected reserve barrels.",
+      "short_version": "A spice-led historical blend with strong matched evidence for development and persistence. The private-cask name is not a single-barrel claim, and perceived wine notes do not authenticate a sherry finish.",
+      "grain": "Selected corn, rye and barley whisky stocks; final percentages undisclosed.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "The specialist’s contemporary interview account reports John Hall selecting twenty-three reserve barrels for a 9,000-bottle blend. It is not one cask, a twenty-three-year statement or cask-strength whisky. The exact archive image shows No. 1 and 40%; no numeric label age or specific final secondary finish is established. A reviewer’s sherry speculation remains sensory interpretation.",
+      "finish": "Oak-matured selected stock blend; exact cask specification and distinct final finish not authenticated.",
+      "history": [
+        "The August 2011 contemporary account schedules LCBO shelves from September 13, 2011 and the distillery signing weekend later that month. The photographed No. 1 / Lot 2011 identity controls this dossier; a later timeline mention of John’s Private Cask does not establish an identical separate reissue.",
+        "The original quoted Ontario LCBO price is CAD 69.95. No exact dated U.S. regular price was authenticated; rarity and later collector listings do not establish drinking Value."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/forty-creek-john%E2%80%99s-private-cask-no-1-40-alc-vol-review.html",
+          "summary": "De Kergommeaux finds powerful spice and dark-fruit development with substantial body and exceptional persistence for the bottling strength. It is an assertive rather than merely gentle profile.",
+          "scope": "August 14, 2011; exact original No. 1, 40%; barrel-selection information is attributed to his Hall interview."
+        },
+        {
+          "reviewer": "Victor",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/forty-creek-johns-private-cask-no-1-whisky-review-4880",
+          "summary": "Victor finds coherent rye, wood and wine-like flavors with good variety, while wanting more aromatic strength and better refinement of the wine-like element.",
+          "scope": "January 17, 2013; explicit Lot 2011, bottle 3486, opened one month; separate category-relative scores not mechanically converted."
+        },
+        {
+          "reviewer": "Whisky Magazine taster",
+          "publisher": "Whisky Magazine",
+          "url": "https://www.whiskymag.com/tastings/7-forty-creek/",
+          "summary": "The accessible taster finds a fuller palate than the aroma suggests, developed fruit and spice, and an increasingly dry finish. This is a more restrained assessment than the strongest specialist praise.",
+          "scope": "Exact year-bottled 2011 John’s Private Cask, 40%, NAS; accessible complete taster section, no hidden second review inferred."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact No. 1 photograph, 2011 identity and forty-percent strength."
+        },
+        {
+          "title": "Original No. 1 — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/forty-creek-john%E2%80%99s-private-cask-no-1-40-alc-vol-review.html",
+          "role": "Contemporary sensory review, attributed twenty-three-barrel selection, 9,000 bottles, September timing and original CAD price."
+        },
+        {
+          "title": "Lot 2011 — Victor",
+          "url": "https://www.connosr.com/forty-creek-johns-private-cask-no-1-whisky-review-4880",
+          "role": "Substantive exact lot assessment with refinement limits; speculative sherry identity excluded as fact."
+        },
+        {
+          "title": "2011 John’s Private Cask — Whisky Magazine",
+          "url": "https://www.whiskymag.com/tastings/7-forty-creek/",
+          "role": "Independent accessible taster section and explicit NAS/year-bottled identity."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Forty Creek Heart of Gold (2013)",
+          "url": "forty-creek-heart-of-gold-2013.html",
+          "reason": "A later explicitly rye-forward limited identity with distinct floral-production documentation."
+        },
+        {
+          "name": "Forty Creek Heritage (2017)",
+          "url": "forty-creek-heritage-2017.html",
+          "reason": "A separately identified toasted-oak annual release; not the same selected stock blend."
+        }
+      ],
+      "quality": 7.6,
+      "dimensions": [
+        7.8,
+        7.8,
+        7.6,
+        7.8,
+        7.6,
+        7.3,
+        7.8
+      ],
+      "quality_rationale": "Very good approaching excellent provisional Canadian blend execution. Multiple exact accounts support strong development, body and persistence, while refinement and aromatic-strength reservations limit reference-class claims. The name and rarity add no points.",
+      "value": null,
+      "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+      "pricing": {
+        "amount": 69.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2011-09-13",
+        "url": "https://canadianwhisky.org/blog/reviews/forty-creek-john%E2%80%99s-private-cask-no-1-40-alc-vol-review.html",
+        "basis": "Historical LCBO Ontario price for original No. 1; Canadian dollars, not U.S. retail",
+        "nc_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numeric stock-up threshold established. Original CAD 69.95 is historical Canadian context, not a current U.S. drinking-value benchmark.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before deciding on a full bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case is inferred from scarcity or an award alone.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat first follows the matched review use cases."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try a few drops if the spice feels too assertive; forty-percent strength leaves limited dilution headroom."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A restrained Manhattan is an editorial trial after assessing the spice and wood."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "For routine highballs, choose a readily available recurring Canadian blend."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/04/Forty_Creek_Johns-Private-CaskWhisky-Bottle.webp",
+      "image_source": "https://fortycreekwhisky.com/previous-limited-releases/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence."
+    }
   }
 ]
