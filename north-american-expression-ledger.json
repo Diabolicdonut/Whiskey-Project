@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 86,
-    "accepted": 139
+    "pending": 81,
+    "accepted": 144
   },
   "entries": [
     {
@@ -10779,21 +10779,21 @@
       "canonical_expression_name": "Gibson's Finest Bold 8 Year",
       "filename": "gibson-s-finest-bold-8-year.html",
       "brand_family": "Gibson's Finest",
-      "producer": "William Grant & Sons; Canadian-sourced whisky",
+      "producer": "William Grant & Sons; Canadian production associated with Hiram Walker, Windsor, Ontario; historical Valleyfield stocks distinguished",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 92.0,
+      "proof": 92,
       "abv": 46.0,
-      "age_statement_years": 8.0,
-      "age_information": "8 years",
-      "grain_information": "Corn, rye and malted barley blend; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "age_statement_years": 8,
+      "age_information": "8 Years",
+      "grain_information": "Corn-based grain whisky blended with rye and malted-barley flavouring whiskies; exact ratios undisclosed",
+      "grain_confidence": "Expression/brand specialist documentation; no percentages or all-rye recipe inferred.",
+      "finishing_information": "Used/new-oak maturation documented; a toasted number-three-char final barrel is attributed to the 2019 ambassador account, with exact duration and batch applicability unverified.",
+      "release_year_or_era": "Gibson’s Finest Bold 8 Year, 46% ABV / 92 proof, Canadian blend; documented June 2016 launch-era release and current age-bearing producer bottle.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression verified; separately scoped historical/current family identity and independent tasting record.",
+      "available_evidence_level": "Authenticated identity and substantive matched independent sensory accounts; provisional universal Canadian-blend assessment.",
       "discovery_sources": [
         {
           "title": "Savour The Ages - Gibson's Finest Whisky",
@@ -10803,34 +10803,85 @@
       ],
       "potential_image_source": "https://www.gibsonsfinest.ca/fr-CA",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/gibsons-finest-bold-canadian-whisky/",
+            "summary": "Dykstra finds substantial sweetness and body with useful mixing strength, but believes the dominant caramel-like impression suppresses subtler flavours. His praise is strongest for cola service.",
+            "scope": "June 6, 2016, exact eight-year / 46% sample; ingredient suspicions remain unverified."
+          },
+          {
+            "reviewer": "Mark Gillespie",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/gibsons-finest-bold/",
+            "summary": "Gillespie finds a more successful balance: energetic spice is supported by fruit, with those elements persisting through the ending. This favorable reading is retained beside Dykstra’s reservations.",
+            "scope": "January 2019, exact eight-year / 46% review."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 145
+      "deterministic_order": 145,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-022",
+      "publication_sources": [
+        {
+          "title": "Producer expression page",
+          "url": "https://www.gibsonsfinest.ca/en/bold-8-year-old/",
+          "role": "Exact current expression identity; JavaScript content authenticated through the public producer content API."
+        },
+        {
+          "title": "Producer public content record",
+          "url": "https://api.gibsonsfinest.ca/api/pages?populate=deep&filters[slug][$eqi]=homepage&locale=en",
+          "role": "Product records and exact pack photographs behind the official site; data upload dates are not release dates."
+        },
+        {
+          "title": "Dykstra — Bold",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/gibsons-finest-bold-canadian-whisky/",
+          "role": "Complete exact-expression sensory account and 2016 chronology; additive speculation is not adopted."
+        },
+        {
+          "title": "Gillespie — Bold",
+          "url": "https://whiskycast.com/ratings/gibsons-finest-bold/",
+          "role": "Matched favorable independent review."
+        },
+        {
+          "title": "Brand-ambassador event report",
+          "url": "https://www.expensivetastekw.org/2019/02/22/an-evening-with-gibsons-finest-february-22-2019/",
+          "role": "Directly attributed number-three-char detail only; guided-event notes are not counted as an extra independent panel."
+        },
+        {
+          "title": "LCBO Bold 457572",
+          "url": "https://www.lcbo.com/en/gibson-s-finest-bold-8-year-old-whisky-457572",
+          "role": "Exact 750 mL Canadian price context."
+        }
+      ],
+      "accepted_checkpoint": 22
     },
     {
       "id": "gibson-s-finest-rare-12-year",
       "canonical_expression_name": "Gibson's Finest Rare 12 Year",
       "filename": "gibson-s-finest-rare-12-year.html",
       "brand_family": "Gibson's Finest",
-      "producer": "William Grant & Sons; Canadian-sourced whisky",
+      "producer": "William Grant & Sons; Canadian production associated with Hiram Walker, Windsor, Ontario; historical Valleyfield stocks distinguished",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 12.0,
-      "age_information": "12 years",
-      "grain_information": "Corn, rye and malted barley blend; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "age_statement_years": 12,
+      "age_information": "12 Years",
+      "grain_information": "Corn-based grain whisky blended with rye and malted-barley flavouring whiskies; exact ratios undisclosed",
+      "grain_confidence": "Expression/brand specialist documentation; no percentages or all-rye recipe inferred.",
+      "finishing_information": "Oak maturation; no distinct secondary finish authenticated.",
+      "release_year_or_era": "Gibson’s Finest Rare 12 Year, 40% ABV / 80 proof; explicit twelve-year age statement, distinct from Rare bottles without that age.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression verified; separately scoped historical/current family identity and independent tasting record.",
+      "available_evidence_level": "Authenticated identity and substantive matched independent sensory accounts; provisional universal Canadian-blend assessment.",
       "discovery_sources": [
         {
           "title": "Heatseeker Whisky: Gibson's Finest Rare (12 year)",
@@ -10840,34 +10891,80 @@
       ],
       "potential_image_source": "https://heatseekerwhisky.blogspot.com/2020/07/gibsons-finest-rare-12-year.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Robbie Raskin",
+            "publisher": "Heatseeker Whisky",
+            "url": "https://heatseekerwhisky.blogspot.com/2020/07/gibsons-finest-rare-12-year.html",
+            "summary": "Raskin values the creamy texture and engaging acidity but finds the spice comparatively brash, the ending short and the refinement less complete than the age might suggest.",
+            "scope": "July 7, 2020, exact Rare 12 / 40%; CAD 38 for 750 mL."
+          },
+          {
+            "reviewer": "Victor",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/gibsons-finest-rare-12-yo-whisky-review-10843",
+            "summary": "Victor finds an appealing aromatic opening and lively delivery, then simpler development and a bitter-to-sour ending. He prefers it more than expected, while retaining the finish limitation.",
+            "scope": "September 16, 2016, exact twelve-year sample; a separate NAS duty-free bottle is discussed, not merged."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 146
+      "deterministic_order": 146,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-022",
+      "publication_sources": [
+        {
+          "title": "Producer expression page",
+          "url": "https://www.gibsonsfinest.ca/en/rare-12-year-old/",
+          "role": "Exact current expression identity; JavaScript content authenticated through the public producer content API."
+        },
+        {
+          "title": "Producer public content record",
+          "url": "https://api.gibsonsfinest.ca/api/pages?populate=deep&filters[slug][$eqi]=homepage&locale=en",
+          "role": "Product records and exact pack photographs behind the official site; data upload dates are not release dates."
+        },
+        {
+          "title": "Heatseeker — Rare 12",
+          "url": "https://heatseekerwhisky.blogspot.com/2020/07/gibsons-finest-rare-12-year.html",
+          "role": "Complete sensory account and historical CAD context."
+        },
+        {
+          "title": "Victor — Rare 12",
+          "url": "https://www.connosr.com/gibsons-finest-rare-12-yo-whisky-review-10843",
+          "role": "Independent finish counterpoint and explicit warning about NAS Rare identity."
+        },
+        {
+          "title": "Craft City titled twelve-year offer",
+          "url": "https://craftcity.com/products/gibson-s-finest-12-year",
+          "role": "Observed October 15, 2026: USD 35.79 / 750 mL, but age absent in displayed Rare photograph; rejected for Value matching."
+        }
+      ],
+      "accepted_checkpoint": 22
     },
     {
       "id": "gibson-s-finest-rare-18-year-legacy",
       "canonical_expression_name": "Gibson's Finest Rare 18 Year — Legacy",
       "filename": "gibson-s-finest-rare-18-year-legacy.html",
       "brand_family": "Gibson's Finest",
-      "producer": "William Grant & Sons; Canadian-sourced whisky",
+      "producer": "William Grant & Sons; historical Gibson’s Canadian stocks from Valleyfield, Quebec",
       "status": "historical",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 18.0,
-      "age_information": "18 years",
-      "grain_information": "Corn, rye and malted barley blend; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "Before Venerable relaunch",
+      "age_statement_years": 18,
+      "age_information": "18 Years",
+      "grain_information": "Corn-based grain whisky blended with rye and malted-barley flavouring whiskies; exact ratios undisclosed",
+      "grain_confidence": "Expression/brand specialist documentation; no percentages or all-rye recipe inferred.",
+      "finishing_information": "Oak maturation; no distinct secondary finish authenticated.",
+      "release_year_or_era": "Gibson’s Finest Rare 18 Year, historical pre-Venerable label, 40% ABV / 80 proof; documented in 2010–2013 reviews.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression verified; separately scoped historical/current family identity and independent tasting record.",
+      "available_evidence_level": "Authenticated identity and substantive matched independent sensory accounts; provisional universal Canadian-blend assessment.",
       "discovery_sources": [
         {
           "title": "Gibson's Finest Rare 18 Year",
@@ -10877,34 +10974,82 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/gibson-s-finest-rare-18-year",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/gibson%E2%80%99s-finest-rare-18-years-old-40-alc-vol.html",
+            "summary": "De Kergommeaux finds mature wood supporting an active, varied grain profile, with substantial spice and a moderately persistent dry ending. His strong recommendation does not establish a native-category maximum.",
+            "scope": "July 13, 2013, explicit Rare 18 / 40%, Valleyfield-era account."
+          },
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/gibson-s-finest-rare-18-year",
+            "summary": "Phillips describes a coherent progression from fruit and vanilla toward assertive oak and citrus dryness, with wood providing the continuing framework.",
+            "scope": "Exact Rare 18 / 40% specialist review; Venerable is not substituted."
+          },
+          {
+            "reviewer": "Jason Debly",
+            "publisher": "Jason’s Scotch Whisky Reviews",
+            "url": "https://jason-scotchreviews.blogspot.com/2010/06/review-gibsons-finest-rare-canadian.html?m=0",
+            "summary": "Debly praises the inviting delivery and sustained transition from sweetness to dryness, while finding the nose restrained. His favorable conclusion is more measured on aromatic complexity.",
+            "scope": "June 14, 2010, historical Rare 18 review."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 147
+      "deterministic_order": 147,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-022",
+      "publication_sources": [
+        {
+          "title": "Rare 18 — contemporary Canadian Whisky account",
+          "url": "https://canadianwhisky.org/blog/reviews/gibson%E2%80%99s-finest-rare-18-years-old-40-alc-vol.html",
+          "role": "Historical identity, Valleyfield scope, sensory evidence and dated Canadian price."
+        },
+        {
+          "title": "Rare 18 — Phillips",
+          "url": "https://distiller.com/spirits/gibson-s-finest-rare-18-year",
+          "role": "Exact legacy label image, strength, component and sensory record."
+        },
+        {
+          "title": "Rare 18 — Debly",
+          "url": "https://jason-scotchreviews.blogspot.com/2010/06/review-gibsons-finest-rare-canadian.html?m=0",
+          "role": "Independent 2010 sensory account; not modern Venerable evidence."
+        },
+        {
+          "title": "2015 Venerable review",
+          "url": "https://whiskyanalysis.com/index.php/2015/07/01/gibsons-finest-venerable-18-year-old/",
+          "role": "Establishes later label chronology; review and comments do not authenticate a recipe change."
+        }
+      ],
+      "accepted_checkpoint": 22
     },
     {
       "id": "gibson-s-finest-sterling",
       "canonical_expression_name": "Gibson's Finest Sterling",
       "filename": "gibson-s-finest-sterling.html",
       "brand_family": "Gibson's Finest",
-      "producer": "William Grant & Sons; Canadian-sourced whisky",
+      "producer": "William Grant & Sons; Canadian production associated with Hiram Walker, Windsor, Ontario; historical Valleyfield stocks distinguished",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and malted barley blend; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "age_information": "NAS — producer currently describes whiskies five years and older",
+      "grain_information": "Corn-based grain whisky blended with rye and malted-barley flavouring whiskies; exact ratios undisclosed",
+      "grain_confidence": "Expression/brand specialist documentation; no percentages or all-rye recipe inferred.",
+      "finishing_information": "Oak maturation; no distinct secondary finish authenticated.",
+      "release_year_or_era": "Gibson’s Finest Sterling, 40% ABV / 80 proof, NAS front label; current producer describes a blend of whiskies five years and older.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression verified; separately scoped historical/current family identity and independent tasting record.",
+      "available_evidence_level": "Authenticated identity and substantive matched independent sensory accounts; provisional universal Canadian-blend assessment.",
       "discovery_sources": [
         {
           "title": "Savour The Ages - Gibson's Finest Whisky",
@@ -10914,34 +11059,75 @@
       ],
       "potential_image_source": "https://www.gibsonsfinest.ca/fr-CA",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/gibsons-finest-sterling-40-alcvol.html",
+            "summary": "De Kergommeaux finds generous texture and fruit with a useful medium-length ending, alongside small synthetic, spirit-like and astringent touches. He considers it useful for both sipping and mixing.",
+            "scope": "November 22, 2011, exact Sterling / 40%; historical recipe context, not a current-batch guarantee."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/gibsons-finest-sterling-canadian-whisky/",
+            "summary": "Dykstra finds useful light body and spice but uncomfortable heat, misplaced bitterness and a short ending. His strongest endorsement is for ginger-ale mixing.",
+            "scope": "August 14, 2011 account, rescored September 2016; exact Sterling / 40%."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 148
+      "deterministic_order": 148,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-022",
+      "publication_sources": [
+        {
+          "title": "Producer expression page",
+          "url": "https://www.gibsonsfinest.ca/en/gibsons-finest-sterling/",
+          "role": "Exact current expression identity; JavaScript content authenticated through the public producer content API."
+        },
+        {
+          "title": "Producer public content record",
+          "url": "https://api.gibsonsfinest.ca/api/pages?populate=deep&filters[slug][$eqi]=homepage&locale=en",
+          "role": "Product records and exact pack photographs behind the official site; data upload dates are not release dates."
+        },
+        {
+          "title": "Sterling — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/gibsons-finest-sterling-40-alcvol.html",
+          "role": "1987 history, historical Canadian price and complete sensory account."
+        },
+        {
+          "title": "Sterling — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/gibsons-finest-sterling-canadian-whisky/",
+          "role": "Full contrary sipping and mixing account; exact grain/still discussion."
+        }
+      ],
+      "accepted_checkpoint": 22
     },
     {
       "id": "gibson-s-finest-venerable-18-year",
       "canonical_expression_name": "Gibson's Finest Venerable 18 Year",
       "filename": "gibson-s-finest-venerable-18-year.html",
       "brand_family": "Gibson's Finest",
-      "producer": "William Grant & Sons; Canadian-sourced whisky",
+      "producer": "William Grant & Sons; Canadian production associated with Hiram Walker, Windsor, Ontario; historical Valleyfield stocks distinguished",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 18.0,
-      "age_information": "18 years",
-      "grain_information": "Corn, rye and malted barley blend; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "age_statement_years": 18,
+      "age_information": "18 Years",
+      "grain_information": "Corn-based grain whisky blended with rye and malted-barley flavouring whiskies; exact ratios undisclosed",
+      "grain_confidence": "Expression/brand specialist documentation; no percentages or all-rye recipe inferred.",
+      "finishing_information": "Oak maturation; no distinct secondary finish authenticated.",
+      "release_year_or_era": "Gibson’s Finest Venerable 18 Year, 40% ABV / 80 proof; later Venerable label documented July 2015 and retained in the producer catalogue.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression verified; separately scoped historical/current family identity and independent tasting record.",
+      "available_evidence_level": "Authenticated identity and substantive matched independent sensory accounts; provisional universal Canadian-blend assessment.",
       "discovery_sources": [
         {
           "title": "Gibson’s Finest 18 Year Old – Selfbuilt's Whisky Analysis",
@@ -10951,13 +11137,59 @@
       ],
       "potential_image_source": "https://whiskyanalysis.com/index.php/2015/07/01/gibsons-finest-venerable-18-year-old/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2015/07/01/gibsons-finest-venerable-18-year-old/",
+            "summary": "Selfbuilt praises the luxurious texture and coherent development, finding the small bitter edge compatible with the surrounding sweetness. His direct Venerable tasting is separated from the page’s legacy Rare meta-score.",
+            "scope": "July 1, 2015, explicitly Venerable-labelled bottle; no implied wheat recipe."
+          },
+          {
+            "reviewer": "Victor",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/gibsons-finest-venerable-18-yo-whisky-review-10973",
+            "summary": "Victor finds an especially harmonious aroma and substantial flavour at 40%, but balance weakens as sourness grows toward the ending. He reports sample variation and still prefers his older Rare bottle.",
+            "scope": "November 22, 2016, bottle code A 78969; several Venerable samples discussed."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 149
+      "deterministic_order": 149,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-022",
+      "publication_sources": [
+        {
+          "title": "Producer expression page",
+          "url": "https://www.gibsonsfinest.ca/en/venerable-18-year-old/",
+          "role": "Exact current expression identity; JavaScript content authenticated through the public producer content API."
+        },
+        {
+          "title": "Producer public content record",
+          "url": "https://api.gibsonsfinest.ca/api/pages?populate=deep&filters[slug][$eqi]=homepage&locale=en",
+          "role": "Product records and exact pack photographs behind the official site; data upload dates are not release dates."
+        },
+        {
+          "title": "Venerable — Selfbuilt",
+          "url": "https://whiskyanalysis.com/index.php/2015/07/01/gibsons-finest-venerable-18-year-old/",
+          "role": "Direct Venerable tasting and July 2015 label evidence; legacy aggregate separated."
+        },
+        {
+          "title": "Venerable — Victor",
+          "url": "https://www.connosr.com/gibsons-finest-venerable-18-yo-whisky-review-10973",
+          "role": "Independent exact-label sensory account and sample variation."
+        },
+        {
+          "title": "Manitoba producer listing",
+          "url": "https://www.liquormarts.ca/producer/william-grant-sons-ltd",
+          "role": "Current Canadian availability context; promotional CAD offer is not used as U.S. Value."
+        }
+      ],
+      "accepted_checkpoint": 22
     },
     {
       "id": "glen-breton-ice-10-year-single-malt",
