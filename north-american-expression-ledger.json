@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 100,
-    "accepted": 125
+    "pending": 95,
+    "accepted": 130
   },
   "entries": [
     {
@@ -9666,19 +9666,19 @@
       "canonical_expression_name": "Forty Creek Maplewood Select (2024)",
       "filename": "forty-creek-maplewood-select-2024.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 90,
+      "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn and rye whiskies; component ratios undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Maple wood; not maple-syrup finishing",
+      "finishing_information": "Maplewood treatment; exact contact method/duration undisclosed. No maple-syrup cask authenticated.",
       "release_year_or_era": "2024",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9690,32 +9690,72 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "André",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/forty-creek-maplewood-select/",
+            "summary": "André finds an unconvincing sweet-fruit aroma, ordinary texture and a short ending despite enjoyable pepper and wood. Perceived artificiality is his sensory impression, not an ingredient finding.",
+            "scope": "June 4, 2025; explicitly the 2024 annual release, 45%."
+          },
+          {
+            "reviewer": "The Gentleman’s Flavor tasting writer",
+            "publisher": "The Gentleman’s Flavor",
+            "url": "https://thegentlemansflavor.com/the-gentlemans-flavor-top-canadian-whiskies-of-2024/",
+            "summary": "This independent annual selection finds easy, polished execution with familiar sweetness, spice and modest added character. It favors accessibility while wanting greater adventurousness.",
+            "scope": "Top Canadian Whiskies of 2024, exact Maplewood Select / 45%; annual-list opinion is not a population consensus."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 131
+      "deterministic_order": 131,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-019",
+      "publication_sources": [
+        {
+          "title": "Maplewood Select launch — Campari Canada",
+          "url": "https://www.newswire.ca/news-releases/forty-creek-launches-maplewood-select-a-limited-edition-release-embodying-the-essence-of-the-fall-season-819355896.html",
+          "role": "Primary dated identity, corn/rye, sugar-maplewood process and original Canadian market."
+        },
+        {
+          "title": "Maplewood Select — LCBO",
+          "url": "https://www.lcbo.com/en/forty-creek-maplewood-select-whisky-39103",
+          "role": "Exact 750 mL, 45%, LCBO 39103 and CAD 90.20 checked October 15, 2026."
+        },
+        {
+          "title": "Maplewood Select — André",
+          "url": "https://quebecwhisky.com/forty-creek-maplewood-select/",
+          "role": "Complete exact-release sensory counterpoint."
+        },
+        {
+          "title": "Top Canadian Whiskies of 2024",
+          "url": "https://thegentlemansflavor.com/the-gentlemans-flavor-top-canadian-whiskies-of-2024/",
+          "role": "Substantive favorable Select section, distinct from producer notes."
+        }
+      ]
     },
     {
       "id": "forty-creek-masters-cut-2021",
       "canonical_expression_name": "Forty Creek Masters Cut (2021)",
       "filename": "forty-creek-masters-cut-2021.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 5.0,
-      "age_information": "5 years",
-      "grain_information": "Pot-distilled; exact composition to verify",
+      "proof": 97,
+      "abv": 48.5,
+      "age_statement_years": 5,
+      "age_information": "5 Years — producer-authenticated",
+      "grain_information": "Blend of grain whiskies; exact authenticated grain set and proportions undisclosed. Québec Whisky reports wheat, corn and rye; this secondary description is not a verified complete recipe.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
+      "finishing_information": "Five-year maturation in used bourbon and Canadian-whisky barrels; no distinct subsequent finish authenticated.",
       "release_year_or_era": "2021",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9727,32 +9767,79 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Megawatt",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/forty-creek-masters-cut-whisky-review-14212",
+            "summary": "Megawatt finds a restrained but developing aroma, substantial body and an unusually persistent, evolving finish. Fruit, nuts and controlled bitter wood contribute to an enthusiastic assessment.",
+            "scope": "October 10, 2021; explicit Lot 5 / 48.5%."
+          },
+          {
+            "reviewer": "André",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/forty-creek-limited-2021-edition-masters-cut-cask-strength/",
+            "summary": "André likes the expressive grain and spice balance after airing, but finds the finish shorter than expected. His judgment is positive without simply rewarding strength.",
+            "scope": "December 31, 2021 page; exact 2021 edition / 48.5%."
+          },
+          {
+            "reviewer": "Patrick and Martin",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/forty-creek-limited-2021-edition-masters-cut-cask-strength/",
+            "summary": "Patrick appreciates the oiliness but finds the balance wanting. Martin hears less aromatic and mid-palate definition than the good ending promises. Their more reserved accounts constrain the enthusiastic sample.",
+            "scope": "Two additional complete accounts on the same publisher page; not counted as separate publishers."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 132
+      "deterministic_order": 132,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-019",
+      "publication_sources": [
+        {
+          "title": "Master’s Cut launch — Campari Canada",
+          "url": "https://www.newswire.ca/news-releases/forty-creek-debuts-master-s-cut-its-first-ever-cask-strength-whisky-818282306.html",
+          "role": "Primary September 2021 process, market and CAD price."
+        },
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact five-year / 48.5% identity and 2021 photograph."
+        },
+        {
+          "title": "Master’s Cut Lot 5 — Megawatt",
+          "url": "https://www.connosr.com/forty-creek-masters-cut-whisky-review-14212",
+          "role": "Complete matched independent assessment; redistillation detail remains attributed."
+        },
+        {
+          "title": "Master’s Cut — Québec Whisky",
+          "url": "https://quebecwhisky.com/forty-creek-limited-2021-edition-masters-cut-cask-strength/",
+          "role": "Three substantive independent accounts; grain claim kept secondary."
+        }
+      ]
     },
     {
       "id": "forty-creek-niagara-triple-reserve-2025",
       "canonical_expression_name": "Forty Creek Niagara Triple Reserve (2025)",
       "filename": "forty-creek-niagara-triple-reserve-2025.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 102,
+      "abv": 51.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Canadian grain-whisky blend; exact component grain set, ages and percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Three-barrel process; Niagara Cabernet finish",
+      "finishing_information": "Triple-barrel process with Niagara Cabernet wine-cask final stage; duration undisclosed.",
       "release_year_or_era": "2025",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9764,32 +9851,79 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/shop-whisky/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Stephen Beaumont",
+            "publisher": "Beaumont Drinks",
+            "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/forty-creek-chronology-triple-reserve-whisky",
+            "summary": "Beaumont finds an attractive chocolate-and-fruit aroma followed by a coherent transition from sweet entry to a dry, tannic ending. He considers the robust Canadian style very successful.",
+            "scope": "November 19, 2025; exact 51% Triple Reserve section; producer-supplied product disclosed."
+          },
+          {
+            "reviewer": "Patrick",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/forty-creek-triple-reserve/",
+            "summary": "Patrick praises aroma and palate but finds the fruit and spice disappear too soon, leaving oak to dominate the long ending.",
+            "scope": "September 5, 2026; exact Niagara Triple Reserve / 51%."
+          },
+          {
+            "reviewer": "Martin and Kim",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/forty-creek-triple-reserve/",
+            "summary": "Martin finds strong wine influence compatible with the body and richness. Kim’s blind sample offers interesting savory impressions but loses coherence at the finish. Those impressions do not authenticate smoke processing.",
+            "scope": "Two further accounts on the same page, including explicitly blind Kim sample; one publisher."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 133
+      "deterministic_order": 133,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-019",
+      "publication_sources": [
+        {
+          "title": "Niagara Triple Reserve — producer",
+          "url": "https://fortycreekwhisky.com/product/niagara-triple-reserve/",
+          "role": "Current exact strength, final cask, CAD price and expression identity."
+        },
+        {
+          "title": "2025 releases — Campari Canada",
+          "url": "https://www.newswire.ca/news-releases/two-new-releases-from-forty-creek-celebrate-relentless-pursuit-of-whisky-innovation-850111557.html",
+          "role": "Dated primary 2025 chronology and second-cask-strength claim."
+        },
+        {
+          "title": "Triple Reserve — Stephen Beaumont",
+          "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/forty-creek-chronology-triple-reserve-whisky",
+          "role": "Substantive independent supplied-sample assessment; comparison is not a verified full recipe."
+        },
+        {
+          "title": "Triple Reserve — Québec Whisky",
+          "url": "https://quebecwhisky.com/forty-creek-triple-reserve/",
+          "role": "Three complete exact-strength accounts, including finish counterevidence."
+        }
+      ]
     },
     {
       "id": "forty-creek-port-wood-reserve-2009",
       "canonical_expression_name": "Forty Creek Port Wood Reserve (2009)",
       "filename": "forty-creek-port-wood-reserve-2009.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 90,
+      "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn, rye and barley whiskies aged separately before blending; proportions undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Port casks",
+      "finishing_information": "Vintage port-wine wood secondary maturation, reported two years; underlying whisky age undisclosed.",
       "release_year_or_era": "2009",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9801,32 +9935,72 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/review-forty-creek-portwood-reserve-canadian-whisky/",
+            "summary": "Dykstra finds evolving berry-and-spice flavors, elegant integration and a lightly oily, sustained finish. He notes day-to-day flavor variation and a small bitter-grape note, while remaining strongly positive.",
+            "scope": "December 29, 2009; personally purchased first edition, 45%; sensory sections used without converting his packaging-inclusive score."
+          },
+          {
+            "reviewer": "MaltMartin",
+            "publisher": "Whiskybase",
+            "url": "https://www.whiskybase.com/whiskies/whisky/57622/forty-creek-port-wood-reserve?language=en",
+            "summary": "MaltMartin’s matched bottle develops from ginger and dried fruit into a syrupy, bittersweet palate, followed by a medium-long fruit-and-spice ending. This offers a less extravagant persistence claim.",
+            "scope": "August 21, 2016 review attached specifically to 2009 Lot 060 / 45%; pooled rating not used."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 134
+      "deterministic_order": 134,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-019",
+      "publication_sources": [
+        {
+          "title": "Original first-edition review — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/review-forty-creek-portwood-reserve-canadian-whisky/",
+          "role": "Contemporary exact-edition sensory evidence and photographed Lot 060."
+        },
+        {
+          "title": "2009 Lot 060 — Whiskybase",
+          "url": "https://www.whiskybase.com/whiskies/whisky/57622/forty-creek-port-wood-reserve?language=en",
+          "role": "Exact bottling year, lot, 3,000-bottle record and complete MaltMartin sensory account."
+        },
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Authenticates separate 2009/2012 releases; shared photo is actually Lot 061."
+        },
+        {
+          "title": "Brand-manager interview — Quench",
+          "url": "https://quench.me/drinks/forty-creek-john-andersen/",
+          "role": "Attributed two-year port-wood stage and two-release history."
+        }
+      ]
     },
     {
       "id": "forty-creek-port-wood-reserve-2012",
       "canonical_expression_name": "Forty Creek Port Wood Reserve (2012)",
       "filename": "forty-creek-port-wood-reserve-2012.html",
       "brand_family": "Forty Creek",
-      "producer": "Forty Creek, Grimsby / Campari",
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 90,
+      "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Separately matured barley, corn and rye whiskies; proportions undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Port casks",
+      "finishing_information": "Two-year secondary stage in the producer’s vintage port-wine wood; whole-blend age unknown.",
       "release_year_or_era": "2012",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9838,13 +10012,65 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Whisky Advocate",
+            "url": "https://whiskyadvocate.com/Forty-Creek-Port-Wood-Reserve-2012-Edition-45",
+            "summary": "De Kergommeaux finds broad, developed dark-fruit and savory complexity with sweet tobacco and spice. His favorable assessment explicitly belongs to the 2012 edition.",
+            "scope": "Spring 2013 issue, 2012 Edition / 45%; C$70 is Canadian price context."
+          },
+          {
+            "reviewer": "Ruben Luyten",
+            "publisher": "WhiskyNotes",
+            "url": "https://www.whiskynotes.be/2013/world/forty-creek-port-wood-reserve/",
+            "summary": "Luyten likes the evolving aroma but finds the wine-led palate less convincing and the long ending insufficiently defined.",
+            "scope": "May 30, 2013; explicit OB 2012 / 45% / 6,600 bottles."
+          },
+          {
+            "reviewer": "TOModera",
+            "publisher": "Malt Runners",
+            "url": "https://maltrunners.com/2014/09/29/forty-creek-2012-port-wood-reserve/",
+            "summary": "TOModera enjoys the changing aroma and simple balanced palate but reports a very weak, brief finish. That directly conflicts with the longer-ending accounts.",
+            "scope": "Original September 29, 2014 review, later migrated; explicitly 2012 rather than 2009, personally purchased at release."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 135
+      "deterministic_order": 135,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-019",
+      "publication_sources": [
+        {
+          "title": "2012 announcement and Hall statement",
+          "url": "https://canadianwhisky.org/blog/news-views/forty-creek-port-wood-reserve.html",
+          "role": "Primary quoted production account, September timing, 6,600 bottles and original CAD 69.95."
+        },
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact Lot 061 / 45% / 750 mL photograph; separate year entries do not validate the same image for Lot 060."
+        },
+        {
+          "title": "2012 edition — Whisky Advocate",
+          "url": "https://whiskyadvocate.com/Forty-Creek-Port-Wood-Reserve-2012-Edition-45",
+          "role": "Complete favorable edition-matched independent review."
+        },
+        {
+          "title": "2012 edition — WhiskyNotes",
+          "url": "https://www.whiskynotes.be/2013/world/forty-creek-port-wood-reserve/",
+          "role": "Substantive wine-integration reservations."
+        },
+        {
+          "title": "2012 edition — TOModera",
+          "url": "https://maltrunners.com/2014/09/29/forty-creek-2012-port-wood-reserve/",
+          "role": "Complete independent short-finish counterpoint; CAD price explicitly labeled."
+        }
+      ]
     },
     {
       "id": "forty-creek-resolve-2020",
