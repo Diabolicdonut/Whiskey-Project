@@ -40523,5 +40523,1895 @@
       "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
       "quality_confidence": "Low; one substantive matched independent exact-release account"
     }
+  },
+  {
+    "slug": "forty-creek-confederation-oak",
+    "filename": "forty-creek-confederation-oak.html",
+    "name": "Forty Creek Confederation Oak",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS — no label age statement",
+    "age_display": "NAS — no label age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "Individually aged corn, rye and barley whiskies; final percentages undisclosed.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 5.8,
+    "quality_score": 5.8,
+    "value": 4.6,
+    "value_score": 4.6,
+    "overall": 5.165268628057983,
+    "overall_score": 5.165268628057983,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 5.3,
+        "flavor_development": 6.3,
+        "finish": 5.2,
+        "technical_cleanliness": 5.4,
+        "texture": 6.4,
+        "maturity_wood_management": 5.3,
+        "distinctiveness": 6
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.645,
+      "editorial_adjustment": 0.155,
+      "adjustment_reason": "Above average but highly provisional across lots. Strong favorable development in one matched sample is materially constrained by two detailed poor-integration accounts. This is not a rating of every historical lot, and a praised launch does not establish current reference-class quality."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Above average but highly provisional across lots. Strong favorable development in one matched sample is materially constrained by two detailed poor-integration accounts. This is not a rating of every historical lot, and a praised launch does not establish current reference-class quality.",
+    "quality_confidence": "Low–medium; substantial but sharply conflicting lot-specific evidence",
+    "quality_na_reason": null,
+    "value_rationale": "At the exact 2015 U.S. USD 55 / 750 mL purchase reported in 2019, the documented Lot D shortcomings make Value conditional. This historical assessment does not claim a current price or guarantee a different lot.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 55.0,
+    "price_basis": "Historical U.S. purchased Lot 1867-D, 750 mL; not current NC pricing",
+    "price_url": "https://scotchnoob.com/2019/12/30/forty-creek-confederation-oak-reserve/",
+    "price_period": "2015 (purchase reported 2019-12-30)",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 55,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2010,
+    "release_scope": "Forty Creek Confederation Oak Reserve / Confederation Oak, recurring 40% ABV / 80-proof Canadian blend introduced in 2010, NAS; current bottle shown.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14023",
+      "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+      "https://scotchnoob.com/2019/12/30/forty-creek-confederation-oak-reserve/"
+    ],
+    "review_publishers": [
+      "Whisky Connosr",
+      "The Scotch Noob"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "talexander",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14023",
+        "summary": "This Lot 1867-M sample is rich, distinctive and fruit-led, with a buttery presentation and useful spice. It provides a favorable counterpoint to the less successful lots.",
+        "scope": "May 15, 2021; explicitly Lot 1867-M, 40%; one detailed community account."
+      },
+      {
+        "reviewer": "Jason Hambrey",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+        "summary": "Hambrey’s comparison finds the 2022 sample raw, poorly balanced and unpleasant at the ending, unlike his cleaner 2015 Lot F. His tasting-based production suspicions are not adopted as facts.",
+        "scope": "February 3, 2023; explicit 2022 versus 2015 Confederation Oak samples; not all products discussed on this page are this whisky."
+      },
+      {
+        "reviewer": "Nathan",
+        "publisher": "The Scotch Noob",
+        "url": "https://scotchnoob.com/2019/12/30/forty-creek-confederation-oak-reserve/",
+        "summary": "Nathan’s Lot D is silky but simple, with distracting alcohol aromas and a bitter, drying ending. His experience challenges an assumption that all older lots were excellent.",
+        "scope": "December 30, 2019; 2015-purchased 750 mL Lot 1867-D, California USD 55; historical bottle, not current packaging."
+      }
+    ],
+    "source_urls": [
+      "https://fortycreekwhisky.com/product/confederation-oak-reserve/",
+      "https://fortycreekwhisky.com/previous-limited-releases/",
+      "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14023",
+      "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+      "https://scotchnoob.com/2019/12/30/forty-creek-confederation-oak-reserve/"
+    ],
+    "production_summary": "The producer identifies three individually aged grain whiskies followed by up to two years in Canadian-oak barrels. This maximum is not an exact duration for every lot. Confederation refers to Canada’s 1867 history and the oak-tree story, not a whisky vintage or age. The current image confirms eighty proof and no numeric label age; the older prominent forty branding was not a forty-year statement.",
+    "finishing_information": "Secondary aging in Canadian-oak barrels for up to two years; total whisky age and exact lot duration undisclosed.",
+    "identity_note": null,
+    "history": [
+      "The producer archive identifies the original 2010 Lot 1867. The ongoing expression subsequently carries lettered lots and current Niagara packaging. No newly invented per-lot dossiers are added to this deterministic candidate.",
+      "Nathan reports buying a 750 mL Lot 1867-D at K&L in California for USD 55 in 2015, in his December 2019 review. That is the precise historical price basis here; current Ontario CAD 74.10 and a sold-out U.S. last-price display are not substituted as current NC retail."
+    ],
+    "comparables": [
+      {
+        "name": "Forty Creek Double Barrel",
+        "url": "forty-creek-double-barrel.html",
+        "reason": "Another separately aged Canadian blend, but with Kentucky bourbon-barrel secondary aging."
+      },
+      {
+        "name": "Forty Creek Barrel Select",
+        "url": "forty-creek-barrel-select.html",
+        "reason": "The lower-cost recurring family reference, with separate evidence for everyday utility."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "Attractive exploratory budget only after verifying lot and condition.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 25,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "Reasonable for a tasted and preferred lot.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 40,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Fair only with a confirmed preference for that bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 55,
+        "maximum_exclusive": 70,
+        "current_band": true,
+        "reason": "At the reported historical purchase, taste before buying; lot variation is material.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 70,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case for a broad premium based on early praise.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat sampling is particularly useful because lot reports diverge."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water cautiously; the Lot D review found it thinner and more irritating."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "An Old Fashioned is an editorial option after checking bitterness; use restrained sweetener."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda highball may suit a preferred bottle, but Barrel Select is the practical low-cost alternative."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/product/confederation-oak-reserve/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-CONFEDERATION-OAK-WHISKY_1000x1000-on-600x600.webp",
+        "scope": "Forty Creek Confederation Oak Reserve / Confederation Oak, recurring 40% ABV / 80-proof Canadian blend introduced in 2010, NAS; current bottle shown.",
+        "sha256": "8107fb6891f80862f8a9cecc15f477937a96163990a54b89b5ce0616965152a9",
+        "image_embedded": true,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek Confederation Oak Reserve / Confederation Oak, recurring 40% ABV / 80-proof Canadian blend introduced in 2010, NAS; current bottle shown.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-017",
+    "editorial": {
+      "id": "forty-creek-confederation-oak",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS — no label age statement",
+      "release_year": 2010,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek Confederation Oak Reserve / Confederation Oak, recurring 40% ABV / 80-proof Canadian blend introduced in 2010, NAS; current bottle shown.",
+      "short_version": "A Canadian-oak-finished blend with pronounced sample and lot variation. Strong praise for some lots is retained alongside detailed criticism of others; the generic dossier does not promise an early-lot experience.",
+      "grain": "Individually aged corn, rye and barley whiskies; final percentages undisclosed.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "The producer identifies three individually aged grain whiskies followed by up to two years in Canadian-oak barrels. This maximum is not an exact duration for every lot. Confederation refers to Canada’s 1867 history and the oak-tree story, not a whisky vintage or age. The current image confirms eighty proof and no numeric label age; the older prominent forty branding was not a forty-year statement.",
+      "finish": "Secondary aging in Canadian-oak barrels for up to two years; total whisky age and exact lot duration undisclosed.",
+      "history": [
+        "The producer archive identifies the original 2010 Lot 1867. The ongoing expression subsequently carries lettered lots and current Niagara packaging. No newly invented per-lot dossiers are added to this deterministic candidate.",
+        "Nathan reports buying a 750 mL Lot 1867-D at K&L in California for USD 55 in 2015, in his December 2019 review. That is the precise historical price basis here; current Ontario CAD 74.10 and a sold-out U.S. last-price display are not substituted as current NC retail."
+      ],
+      "reviews": [
+        {
+          "reviewer": "talexander",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14023",
+          "summary": "This Lot 1867-M sample is rich, distinctive and fruit-led, with a buttery presentation and useful spice. It provides a favorable counterpoint to the less successful lots.",
+          "scope": "May 15, 2021; explicitly Lot 1867-M, 40%; one detailed community account."
+        },
+        {
+          "reviewer": "Jason Hambrey",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+          "summary": "Hambrey’s comparison finds the 2022 sample raw, poorly balanced and unpleasant at the ending, unlike his cleaner 2015 Lot F. His tasting-based production suspicions are not adopted as facts.",
+          "scope": "February 3, 2023; explicit 2022 versus 2015 Confederation Oak samples; not all products discussed on this page are this whisky."
+        },
+        {
+          "reviewer": "Nathan",
+          "publisher": "The Scotch Noob",
+          "url": "https://scotchnoob.com/2019/12/30/forty-creek-confederation-oak-reserve/",
+          "summary": "Nathan’s Lot D is silky but simple, with distracting alcohol aromas and a bitter, drying ending. His experience challenges an assumption that all older lots were excellent.",
+          "scope": "December 30, 2019; 2015-purchased 750 mL Lot 1867-D, California USD 55; historical bottle, not current packaging."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Current Confederation Oak producer record",
+          "url": "https://fortycreekwhisky.com/product/confederation-oak-reserve/",
+          "role": "Exact current image, 40%, grains and up-to-two-year Canadian-oak treatment."
+        },
+        {
+          "title": "Producer release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Original 2010 Lot 1867 context."
+        },
+        {
+          "title": "Confederation Oak Lot M — talexander",
+          "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14023",
+          "role": "Substantive favorable lot-specific evidence."
+        },
+        {
+          "title": "Confederation Oak comparison — Hambrey",
+          "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+          "role": "Full later-lot negative account and older comparison."
+        },
+        {
+          "title": "Confederation Oak Lot D — Scotch Noob",
+          "url": "https://scotchnoob.com/2019/12/30/forty-creek-confederation-oak-reserve/",
+          "role": "Full counterevidence and exact 2015 U.S. purchased-bottle price/size."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Forty Creek Double Barrel",
+          "url": "forty-creek-double-barrel.html",
+          "reason": "Another separately aged Canadian blend, but with Kentucky bourbon-barrel secondary aging."
+        },
+        {
+          "name": "Forty Creek Barrel Select",
+          "url": "forty-creek-barrel-select.html",
+          "reason": "The lower-cost recurring family reference, with separate evidence for everyday utility."
+        }
+      ],
+      "quality": 5.8,
+      "dimensions": [
+        5.3,
+        6.3,
+        5.2,
+        5.4,
+        6.4,
+        5.3,
+        6
+      ],
+      "quality_rationale": "Above average but highly provisional across lots. Strong favorable development in one matched sample is materially constrained by two detailed poor-integration accounts. This is not a rating of every historical lot, and a praised launch does not establish current reference-class quality.",
+      "value": 4.6,
+      "value_rationale": "At the exact 2015 U.S. USD 55 / 750 mL purchase reported in 2019, the documented Lot D shortcomings make Value conditional. This historical assessment does not claim a current price or guarantee a different lot.",
+      "pricing": {
+        "amount": 55,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2015 (purchase reported 2019-12-30)",
+        "basis": "Historical U.S. purchased Lot 1867-D, 750 mL; not current NC pricing",
+        "url": "https://scotchnoob.com/2019/12/30/forty-creek-confederation-oak-reserve/"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "Attractive exploratory budget only after verifying lot and condition.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 25,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "Reasonable for a tasted and preferred lot.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 40,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Fair only with a confirmed preference for that bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 55,
+          "maximum_exclusive": 70,
+          "current_band": true,
+          "reason": "At the reported historical purchase, taste before buying; lot variation is material.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 70,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case for a broad premium based on early praise.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat sampling is particularly useful because lot reports diverge."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water cautiously; the Lot D review found it thinner and more irritating."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "An Old Fashioned is an editorial option after checking bitterness; use restrained sweetener."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda highball may suit a preferred bottle, but Barrel Select is the practical low-cost alternative."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-CONFEDERATION-OAK-WHISKY_1000x1000-on-600x600.webp",
+      "image_source": "https://fortycreekwhisky.com/product/confederation-oak-reserve/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "quality_confidence": "Low–medium; substantial but sharply conflicting lot-specific evidence"
+    }
+  },
+  {
+    "slug": "forty-creek-copper-bold-copper-pot",
+    "filename": "forty-creek-copper-bold-copper-pot.html",
+    "name": "Forty Creek Copper Bold / Copper Pot",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "NAS — no label age statement",
+    "age_display": "NAS — no label age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "Individually aged corn, rye and barley whiskies; final proportions undisclosed.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 6.3,
+    "quality_score": 6.3,
+    "value": 6.5,
+    "value_score": 6.5,
+    "overall": 6.3992187023104625,
+    "overall_score": 6.3992187023104625,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 6,
+        "flavor_development": 6.7,
+        "finish": 6,
+        "technical_cleanliness": 6,
+        "texture": 6.5,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 6.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.195,
+      "editorial_adjustment": 0.105,
+      "adjustment_reason": "Good provisional Canadian blend execution. A complete modern professional sample supports texture and development, while the exact 2022 community comparison raises serious balance concerns. The rename and higher proof do not erase sample variation."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional Canadian blend execution. A complete modern professional sample supports texture and development, while the exact 2022 community comparison raises serious balance concerns. The rename and higher proof do not erase sample variation.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "At Utah’s dated February 2026 USD 28.99 / 750 mL old-name listing, this is a reasonable step-up budget for someone who likes the profile. The discontinued-listing status and sample variation prevent a current-stock or universal-value claim.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 28.99,
+    "price_basis": "Utah official dated Copper Pot 750 mL listing, code 010880, status D; not current stock",
+    "price_url": "https://abs.stage.utah.gov/wp-content/uploads/Feb2026AlphaPriceList.pdf",
+    "price_period": "2026-02-01",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 28.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Forty Creek Copper Bold, formerly Copper Pot Reserve, recurring Canadian blend at 43% ABV / 86 proof, NAS; current name adopted in 2022.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.tastings.com/Spirits-Review/Forty-Creek-Copper-Bold-Reserve-Canadian-Whisky-Canada-86-Proof-08-01-2024.aspx",
+      "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649"
+    ],
+    "review_publishers": [
+      "Tastings",
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Copper-Bold-Reserve-Canadian-Whisky-Canada-86-Proof-08-01-2024.aspx",
+        "summary": "The modern Copper Bold panel finds a layered, rounded and warming profile with useful richness and persistence, suitable for sipping or stirred drinks.",
+        "scope": "July 15, 2024; exact Copper Bold Reserve at 43%, full independent tasting."
+      },
+      {
+        "reviewer": "Jason Hambrey",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+        "summary": "In the separate Copper Pot section, Hambrey finds the 2022 sample raw and oily compared with a cleaner, more structured 2014 sample. That is important contrary evidence, not proof of a specific recipe change.",
+        "scope": "February 3, 2023; exact Copper Pot side-by-side section, distinct from the page’s Confederation Oak and Barrel Select samples."
+      }
+    ],
+    "source_urls": [
+      "https://fortycreekwhisky.com/product/copper-bold/",
+      "https://fortycreekwhisky.com/our-story/",
+      "https://canadianwhisky.org/blog/news-views/forty-creek-distillery.html",
+      "https://www.tastings.com/Spirits-Review/Forty-Creek-Copper-Bold-Reserve-Canadian-Whisky-Canada-86-Proof-08-01-2024.aspx",
+      "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+      "https://abs.stage.utah.gov/wp-content/uploads/Feb2026AlphaPriceList.pdf"
+    ],
+    "production_summary": "The current producer page confirms the same whisky under its new Copper Bold name, with extra oak aging and forty-three-percent strength. Its current story page dates Copper Pot to 2007, but the producer’s July 31, 2012 announcement calls Copper Pot Reserve a new product for that autumn. The exact first commercial introduction is therefore unresolved; the twenty-twenty-two rename is independently clear. No fixed total age, grain ratio or secondary finishing duration is authenticated.",
+    "finishing_information": "Extra oak aging; complete cask sequence and duration undisclosed, no distinct final finish established.",
+    "identity_note": "Introduction chronology remains unresolved: the current brand story says 2007, while the contemporary July 2012 producer notice announces a new Copper Pot Reserve for that fall. The 2022 Copper Bold rename is confirmed.",
+    "history": [
+      "The 2022 brand change is a rename and packaging transition by explicit producer description; it does not by itself justify a separate candidate. The ledger’s 2007 lineage is retained as a qualified brand claim rather than silently erased in favor of the contemporary 2012 launch notice.",
+      "Utah’s official February 1, 2026 list retains the Copper Pot name, code 010880, 750 mL, USD 28.99, status D (discontinued general item). The price is a dated old-name listing and does not establish current Utah stock or producer discontinuation of Copper Bold."
+    ],
+    "comparables": [
+      {
+        "name": "Forty Creek Barrel Select",
+        "url": "forty-creek-barrel-select.html",
+        "reason": "A lower-strength recurring family blend; extra proof alone does not guarantee better integration."
+      },
+      {
+        "name": "Forty Creek Double Barrel",
+        "url": "forty-creek-double-barrel.html",
+        "reason": "A separate bourbon-barrel treatment at forty percent, not another name for Copper Bold."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 18,
+        "current_band": false,
+        "reason": "Low-cost trial for an authenticated bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 18,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "Attractive if a sample confirms the profile.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 25,
+        "maximum_exclusive": 32,
+        "current_band": true,
+        "reason": "Fair around the dated Utah reference.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 32,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "Compare with current Canadian alternatives before paying more.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 40,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case for a rename or old-label premium.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat first tests the competing balance accounts."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try small water additions if the forty-three-percent palate feels hot."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "The modern panel supports stirred after-dinner drinks; start with modest sugar."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda or ginger highball is an editorial way to preserve its added strength."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/product/copper-bold/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-COPPER-BOLD-WHISKY_1000x1000-on-600x600.webp",
+        "scope": "Forty Creek Copper Bold, formerly Copper Pot Reserve, recurring Canadian blend at 43% ABV / 86 proof, NAS; current name adopted in 2022.",
+        "sha256": "b8efc8757372a044e0a0c3028a8402a806795b2aabcb85a8e48c605f36db4038",
+        "image_embedded": true,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek Copper Bold, formerly Copper Pot Reserve, recurring Canadian blend at 43% ABV / 86 proof, NAS; current name adopted in 2022.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-017",
+    "editorial": {
+      "id": "forty-creek-copper-bold-copper-pot",
+      "proof": 86,
+      "age": null,
+      "age_display": "NAS — no label age statement",
+      "release_year": null,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek Copper Bold, formerly Copper Pot Reserve, recurring Canadian blend at 43% ABV / 86 proof, NAS; current name adopted in 2022.",
+      "short_version": "A higher-strength family blend whose modern tasting evidence is divided. The verified rename stays in one dossier; conflicting 2007 and 2012 introduction histories remain explicit.",
+      "grain": "Individually aged corn, rye and barley whiskies; final proportions undisclosed.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "The current producer page confirms the same whisky under its new Copper Bold name, with extra oak aging and forty-three-percent strength. Its current story page dates Copper Pot to 2007, but the producer’s July 31, 2012 announcement calls Copper Pot Reserve a new product for that autumn. The exact first commercial introduction is therefore unresolved; the twenty-twenty-two rename is independently clear. No fixed total age, grain ratio or secondary finishing duration is authenticated.",
+      "finish": "Extra oak aging; complete cask sequence and duration undisclosed, no distinct final finish established.",
+      "history": [
+        "The 2022 brand change is a rename and packaging transition by explicit producer description; it does not by itself justify a separate candidate. The ledger’s 2007 lineage is retained as a qualified brand claim rather than silently erased in favor of the contemporary 2012 launch notice.",
+        "Utah’s official February 1, 2026 list retains the Copper Pot name, code 010880, 750 mL, USD 28.99, status D (discontinued general item). The price is a dated old-name listing and does not establish current Utah stock or producer discontinuation of Copper Bold."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Copper-Bold-Reserve-Canadian-Whisky-Canada-86-Proof-08-01-2024.aspx",
+          "summary": "The modern Copper Bold panel finds a layered, rounded and warming profile with useful richness and persistence, suitable for sipping or stirred drinks.",
+          "scope": "July 15, 2024; exact Copper Bold Reserve at 43%, full independent tasting."
+        },
+        {
+          "reviewer": "Jason Hambrey",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+          "summary": "In the separate Copper Pot section, Hambrey finds the 2022 sample raw and oily compared with a cleaner, more structured 2014 sample. That is important contrary evidence, not proof of a specific recipe change.",
+          "scope": "February 3, 2023; exact Copper Pot side-by-side section, distinct from the page’s Confederation Oak and Barrel Select samples."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Copper Bold producer record",
+          "url": "https://fortycreekwhisky.com/product/copper-bold/",
+          "role": "Exact current image, 43% strength, grains and explicit same-whisky rename."
+        },
+        {
+          "title": "Producer current story",
+          "url": "https://fortycreekwhisky.com/our-story/",
+          "role": "2007 claimed lineage and explicit 2022 naming transition; chronology conflict retained."
+        },
+        {
+          "title": "July 2012 producer announcement, reproduced by Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/news-views/forty-creek-distillery.html",
+          "role": "Contemporary announcement of new Copper Pot Reserve for fall 2012 at 43%; not an independent tasting."
+        },
+        {
+          "title": "Copper Bold — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Copper-Bold-Reserve-Canadian-Whisky-Canada-86-Proof-08-01-2024.aspx",
+          "role": "Full favorable modern sensory account."
+        },
+        {
+          "title": "Copper Pot comparison — Hambrey",
+          "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+          "role": "Separate substantive later-sample negative record; no invented production explanation."
+        },
+        {
+          "title": "Utah February 2026 official price list",
+          "url": "https://abs.stage.utah.gov/wp-content/uploads/Feb2026AlphaPriceList.pdf",
+          "role": "Page 92, code 010880, 750 mL, USD 28.99, status D; old name retained, no stock assertion."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Forty Creek Barrel Select",
+          "url": "forty-creek-barrel-select.html",
+          "reason": "A lower-strength recurring family blend; extra proof alone does not guarantee better integration."
+        },
+        {
+          "name": "Forty Creek Double Barrel",
+          "url": "forty-creek-double-barrel.html",
+          "reason": "A separate bourbon-barrel treatment at forty percent, not another name for Copper Bold."
+        }
+      ],
+      "quality": 6.3,
+      "dimensions": [
+        6,
+        6.7,
+        6,
+        6,
+        6.5,
+        5.8,
+        6.5
+      ],
+      "quality_rationale": "Good provisional Canadian blend execution. A complete modern professional sample supports texture and development, while the exact 2022 community comparison raises serious balance concerns. The rename and higher proof do not erase sample variation.",
+      "value": 6.5,
+      "value_rationale": "At Utah’s dated February 2026 USD 28.99 / 750 mL old-name listing, this is a reasonable step-up budget for someone who likes the profile. The discontinued-listing status and sample variation prevent a current-stock or universal-value claim.",
+      "pricing": {
+        "amount": 28.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-02-01",
+        "basis": "Utah official dated Copper Pot 750 mL listing, code 010880, status D; not current stock",
+        "url": "https://abs.stage.utah.gov/wp-content/uploads/Feb2026AlphaPriceList.pdf"
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 18,
+          "current_band": false,
+          "reason": "Low-cost trial for an authenticated bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 18,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "Attractive if a sample confirms the profile.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 25,
+          "maximum_exclusive": 32,
+          "current_band": true,
+          "reason": "Fair around the dated Utah reference.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 32,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "Compare with current Canadian alternatives before paying more.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 40,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case for a rename or old-label premium.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial drinking budgets in USD per 750 mL; historical prices do not establish current stock."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat first tests the competing balance accounts."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try small water additions if the forty-three-percent palate feels hot."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "The modern panel supports stirred after-dinner drinks; start with modest sugar."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda or ginger highball is an editorial way to preserve its added strength."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-COPPER-BOLD-WHISKY_1000x1000-on-600x600.webp",
+      "image_source": "https://fortycreekwhisky.com/product/copper-bold/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "identity_note": "Introduction chronology remains unresolved: the current brand story says 2007, while the contemporary July 2012 producer notice announces a new Copper Pot Reserve for that fall. The 2022 Copper Bold rename is confirmed."
+    }
+  },
+  {
+    "slug": "forty-creek-double-barrel",
+    "filename": "forty-creek-double-barrel.html",
+    "name": "Forty Creek Double Barrel",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS — no label age statement",
+    "age_display": "NAS — no label age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "Separately aged corn, rye and barley whiskies; final proportions undisclosed.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 7.1,
+    "quality_score": 7.1,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 7.3,
+        "flavor_development": 7,
+        "finish": 6.7,
+        "technical_cleanliness": 7.5,
+        "texture": 6.8,
+        "maturity_wood_management": 7,
+        "distinctiveness": 7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.085,
+      "editorial_adjustment": 0.015,
+      "adjustment_reason": "Very good provisional Canadian blend execution. Modern and historical full accounts support coherent grain, useful texture and controlled secondary oak, with body and sample-era limitations preserved."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional Canadian blend execution. Modern and historical full accounts support coherent grain, useful texture and controlled secondary oak, with body and sample-era limitations preserved.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Current Ontario producer price, 750 mL, checked October 15, 2026; no U.S. quote",
+    "price_url": "https://fortycreekwhisky.com/product/double-barrel-reserve/",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 43.25,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2008,
+    "release_scope": "Forty Creek Double Barrel Reserve / Double Barrel, recurring Canadian blend, 40% ABV / 80 proof, NAS; rooted in the 2008 limited release.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.tastings.com/Spirits-Review/Forty-Creek-Double-Barrel-Reserve-Canadian-Whisky-Canada-08-01-2024.aspx",
+      "https://canadianwhisky.org/blog/reviews/forty-creek-double-barrel-reserve-40-alc-vol.html"
+    ],
+    "review_publishers": [
+      "Tastings",
+      "Canadian Whisky"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Double-Barrel-Reserve-Canadian-Whisky-Canada-08-01-2024.aspx",
+        "summary": "The panel finds a coherent grain-rich profile with a creamy presentation and a moderately persistent warming ending. Its reported body is lighter than the producer’s broad full-bodied claim.",
+        "scope": "July 15, 2024; exact Double Barrel Reserve at 40%, full independent tasting."
+      },
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/forty-creek-double-barrel-reserve-40-alc-vol.html",
+        "summary": "The historical specialist account finds an integrated, textured whisky with substantial grain, spice and wood development. Its production and sample era are not automatically assigned to a 2026 batch.",
+        "scope": "Review explicitly states it was written in 2010; exact forty-percent Double Barrel Reserve, not an American double-oaked whiskey."
+      }
+    ],
+    "source_urls": [
+      "https://fortycreekwhisky.com/product/double-barrel-reserve/",
+      "https://fortycreekwhisky.com/previous-limited-releases/",
+      "https://www.tastings.com/Spirits-Review/Forty-Creek-Double-Barrel-Reserve-Canadian-Whisky-Canada-08-01-2024.aspx",
+      "https://canadianwhisky.org/blog/reviews/forty-creek-double-barrel-reserve-40-alc-vol.html",
+      "https://www.wine.com/product/forty-creek-double-barrel-reserve-canadian-whisky/531424"
+    ],
+    "production_summary": "The producer documents individual grain aging, then blending and up to two further years in hand-selected Kentucky bourbon barrels. Historical accounts describe first-fill barrels and sometimes longer secondary aging; those do not override the current maximum or supply a current label age. A bourbon cask does not turn this into bourbon. The current front label authenticates the ongoing forty-percent expression.",
+    "finishing_information": "After blending, up to two years of secondary aging in Kentucky bourbon barrels; exact current lot duration undisclosed.",
+    "identity_note": null,
+    "history": [
+      "The primary archive identifies 2008 Lot 240. A 2010 specialist account calls the earlier limited release 2009 and says it subsequently became a standard product. The producer archive is used for the origin year, with the historical discrepancy disclosed; the recurring identity is not duplicated.",
+      "The Ontario producer page explicitly pairs 750 mL with CAD 43.25 when checked. A U.S. retailer’s sold-out was-price lacks a reliable sale date; it is not adopted as a current U.S. or NC quote, so Value remains N/A."
+    ],
+    "comparables": [
+      {
+        "name": "Forty Creek Confederation Oak",
+        "url": "forty-creek-confederation-oak.html",
+        "reason": "A different Canadian-oak secondary-aging choice, with substantial lot variation."
+      },
+      {
+        "name": "Forty Creek Barrel Select",
+        "url": "forty-creek-barrel-select.html",
+        "reason": "The everyday family blend; current cask details and sample evidence are recorded separately."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numeric stock-up threshold established. Current Ontario CAD 43.25 is not an authenticated U.S. benchmark.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before deciding on a full bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case is inferred from scarcity or an award alone.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat follows the producer and modern panel use cases."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "A cube is a reasonable trial after assessing grain texture neat."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A Manhattan is explicitly supported by the independent panel; adjust vermouth to retain the whisky."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short highball is an editorial option if the creamy grain profile is preferred."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/product/double-barrel-reserve/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-DOUBLE-BARREL_1000x1000-on-2-600x600.webp",
+        "scope": "Forty Creek Double Barrel Reserve / Double Barrel, recurring Canadian blend, 40% ABV / 80 proof, NAS; rooted in the 2008 limited release.",
+        "sha256": "bd8b692ec9059099f70b051cfb2fccd9d1d5690e8c4a577040c2fde1543fc543",
+        "image_embedded": true,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek Double Barrel Reserve / Double Barrel, recurring Canadian blend, 40% ABV / 80 proof, NAS; rooted in the 2008 limited release.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-017",
+    "editorial": {
+      "id": "forty-creek-double-barrel",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS — no label age statement",
+      "release_year": 2008,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek Double Barrel Reserve / Double Barrel, recurring Canadian blend, 40% ABV / 80 proof, NAS; rooted in the 2008 limited release.",
+      "short_version": "A grain-rich Canadian blend with verified Kentucky bourbon-barrel secondary aging. Its history and current treatment remain distinct from an excluded duplicate launch-era ledger entry.",
+      "grain": "Separately aged corn, rye and barley whiskies; final proportions undisclosed.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "The producer documents individual grain aging, then blending and up to two further years in hand-selected Kentucky bourbon barrels. Historical accounts describe first-fill barrels and sometimes longer secondary aging; those do not override the current maximum or supply a current label age. A bourbon cask does not turn this into bourbon. The current front label authenticates the ongoing forty-percent expression.",
+      "finish": "After blending, up to two years of secondary aging in Kentucky bourbon barrels; exact current lot duration undisclosed.",
+      "history": [
+        "The primary archive identifies 2008 Lot 240. A 2010 specialist account calls the earlier limited release 2009 and says it subsequently became a standard product. The producer archive is used for the origin year, with the historical discrepancy disclosed; the recurring identity is not duplicated.",
+        "The Ontario producer page explicitly pairs 750 mL with CAD 43.25 when checked. A U.S. retailer’s sold-out was-price lacks a reliable sale date; it is not adopted as a current U.S. or NC quote, so Value remains N/A."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Double-Barrel-Reserve-Canadian-Whisky-Canada-08-01-2024.aspx",
+          "summary": "The panel finds a coherent grain-rich profile with a creamy presentation and a moderately persistent warming ending. Its reported body is lighter than the producer’s broad full-bodied claim.",
+          "scope": "July 15, 2024; exact Double Barrel Reserve at 40%, full independent tasting."
+        },
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/forty-creek-double-barrel-reserve-40-alc-vol.html",
+          "summary": "The historical specialist account finds an integrated, textured whisky with substantial grain, spice and wood development. Its production and sample era are not automatically assigned to a 2026 batch.",
+          "scope": "Review explicitly states it was written in 2010; exact forty-percent Double Barrel Reserve, not an American double-oaked whiskey."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Current Double Barrel producer record",
+          "url": "https://fortycreekwhisky.com/product/double-barrel-reserve/",
+          "role": "Exact current image, grain components, 40% and up-to-two-year bourbon-barrel secondary aging."
+        },
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Original 2008 Lot 240; distinct duplicate launch-era ledger entry remains excluded."
+        },
+        {
+          "title": "Double Barrel — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Double-Barrel-Reserve-Canadian-Whisky-Canada-08-01-2024.aspx",
+          "role": "Full modern independent grain/body/finish account; price listing not silently size-assumed."
+        },
+        {
+          "title": "Double Barrel — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/forty-creek-double-barrel-reserve-40-alc-vol.html",
+          "role": "Full 2010 exact-expression review and explicitly differing introduction-year account."
+        },
+        {
+          "title": "U.S. Wine.com sold-out reference",
+          "url": "https://www.wine.com/product/forty-creek-double-barrel-reserve-canadian-whisky/531424",
+          "role": "Exact 750 mL identity inspected; undated last-price display rejected as current regular pricing."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Forty Creek Confederation Oak",
+          "url": "forty-creek-confederation-oak.html",
+          "reason": "A different Canadian-oak secondary-aging choice, with substantial lot variation."
+        },
+        {
+          "name": "Forty Creek Barrel Select",
+          "url": "forty-creek-barrel-select.html",
+          "reason": "The everyday family blend; current cask details and sample evidence are recorded separately."
+        }
+      ],
+      "quality": 7.1,
+      "dimensions": [
+        7.3,
+        7,
+        6.7,
+        7.5,
+        6.8,
+        7,
+        7
+      ],
+      "quality_rationale": "Very good provisional Canadian blend execution. Modern and historical full accounts support coherent grain, useful texture and controlled secondary oak, with body and sample-era limitations preserved.",
+      "value": null,
+      "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+      "pricing": {
+        "amount": 43.25,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://fortycreekwhisky.com/product/double-barrel-reserve/",
+        "basis": "Current Ontario producer price, 750 mL, checked October 15, 2026; no U.S. quote",
+        "nc_status": "No authenticated current exact-expression NC listing or date-tied U.S. price; Canadian context only."
+      },
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numeric stock-up threshold established. Current Ontario CAD 43.25 is not an authenticated U.S. benchmark.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before deciding on a full bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case is inferred from scarcity or an award alone.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat follows the producer and modern panel use cases."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "A cube is a reasonable trial after assessing grain texture neat."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A Manhattan is explicitly supported by the independent panel; adjust vermouth to retain the whisky."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short highball is an editorial option if the creamy grain profile is preferred."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-DOUBLE-BARREL_1000x1000-on-2-600x600.webp",
+      "image_source": "https://fortycreekwhisky.com/product/double-barrel-reserve/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence."
+    }
+  },
+  {
+    "slug": "forty-creek-evolution-2014",
+    "filename": "forty-creek-evolution-2014.html",
+    "name": "Forty Creek Evolution (2014)",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "NAS — no label age statement",
+    "age_display": "NAS — no label age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "Corn, barley and rye whisky components reported in matched contemporary documentation; final blend percentages undisclosed.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 4.8,
+    "quality_score": 4.8,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 4.1,
+        "flavor_development": 6,
+        "finish": 4.4,
+        "technical_cleanliness": 4.2,
+        "texture": 4.9,
+        "maturity_wood_management": 4,
+        "distinctiveness": 6.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 4.72,
+      "editorial_adjustment": 0.08,
+      "adjustment_reason": "Slightly below the true category average on provisional execution evidence. Interesting complexity in one account is outweighed by substantive wood/body imbalance and sour-wine counterevidence in two others. Novel process and age impressions do not erase those faults."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Slightly below the true category average on provisional execution evidence. Interesting complexity in one account is outweighed by substantive wood/body imbalance and sour-wine counterevidence in two others. Novel process and age impressions do not erase those faults.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Price not established",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2014,
+    "release_scope": "Forty Creek Evolution, 2014 Lot 2014 eighth annual limited release, 43% ABV / 86 proof, NAS; French-oak Cabernet Sauvignon influence.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://distiller.com/spirits/forty-creek-evolution",
+      "https://whiskymag.com/tastings/3-forty-creek/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-evolution-2014-release/"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "Whisky Magazine",
+      "The Rum Howler Blog"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/forty-creek-evolution",
+        "summary": "Phillips finds substantial changing fruit, floral and savory detail, with an assertive pepper-and-tannin ending. His account supplies positive complexity evidence.",
+        "scope": "Professional exact Evolution tasting section, 43%, NAS; community ratings not used as a substitute."
+      },
+      {
+        "reviewer": "Chris Martine",
+        "publisher": "Whisky Magazine",
+        "url": "https://whiskymag.com/tastings/3-forty-creek/",
+        "summary": "Martine finds insufficient body for the dense oak, with prominent tannins and grain-spirit impressions. His sample is a direct challenge to an assumption of successful maturity.",
+        "scope": "Exact Evolution, year bottled 2014, 43%, explicitly NAS; accessible full taster section."
+      },
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-evolution-2014-release/",
+        "summary": "Dykstra finds initially appealing sweetness and spice undermined by intrusive sour, oxidized-wine and possible sulfur impressions. The specific defect evidence materially limits the score.",
+        "scope": "Exact 2014 Evolution, 43%; page shows April 10, 2014. Sensory impressions are not a laboratory finding or proof every bottle shares a fault."
+      }
+    ],
+    "source_urls": [
+      "https://fortycreekwhisky.com/previous-limited-releases/",
+      "https://whiskycast.com/forty-creek-evolves-with-2014-limited-edition/",
+      "https://distiller.com/spirits/forty-creek-evolution",
+      "https://whiskymag.com/tastings/3-forty-creek/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-evolution-2014-release/"
+    ],
+    "production_summary": "In a May 2014 direct interview, John Hall describes three years in American white oak, redistillation, then about nine years in his former Cabernet Sauvignon French-oak barrels, followed by other selected stocks in contemporary accounts. The current producer archive instead says half the blend spent five years in Cabernet barrels. These incompatible accounts remain attributed; no single exact whole-blend cask schedule is asserted. Redistillation also prevents simply adding the pre- and post-distillation periods into a final age statement.",
+    "finishing_information": "Cabernet Sauvignon French-oak maturation reported contemporaneously; current archive gives a differing five-year partial-blend account. Exact final recipe and duration unresolved.",
+    "identity_note": null,
+    "history": [
+      "Contemporary WhiskyCast documents planned September 27–28, 2014 release weekend and approximately 9,000 numbered bottles. The exact archive photograph shows 2014 Evolution, not another annual bottle.",
+      "The label remains NAS. Dykstra’s page displays an April 2014 date, while the later May interview describes a coming autumn release; sample/review timing does not by itself establish retail availability. A dated, exact U.S. regular price was not authenticated."
+    ],
+    "comparables": [
+      {
+        "name": "Forty Creek Founder’s Reserve (2016)",
+        "url": "forty-creek-founders-reserve-2016.html",
+        "reason": "A later barley-forward limited blend with different production and integration evidence."
+      },
+      {
+        "name": "Crown Royal Noble Collection Wine Barrel Finished (2017)",
+        "url": "crown-royal-noble-collection-wine-barrel-finished-2017.html",
+        "reason": "A distinctly documented Cabernet-cask Canadian blend; no recipe, duration or score borrowed."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numeric stock-up threshold established. No defensible U.S. regular quote was authenticated for the exact historical release.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before deciding on a full bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case is inferred from scarcity or an award alone.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "A small neat sample helps test whether a bottle shows the reported sour or tannic imbalance."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "Try water cautiously; one professional account already finds the body weak."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "A cocktail is an editorial experiment only after assessing the bottle; mixing is not evidence of improved underlying Quality."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A recurring blend is a more practical highball purchase than an unverified old bottle."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/previous-limited-releases/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/04/Forty_Creek_Evolution-Whisky-Bottle.webp",
+        "scope": "Forty Creek Evolution, 2014 Lot 2014 eighth annual limited release, 43% ABV / 86 proof, NAS; French-oak Cabernet Sauvignon influence.",
+        "sha256": "5684ed5827fabaaaf79fd55f81232ed4410d4900d226c71c283b801fe140461c",
+        "image_embedded": true,
+        "width": 694,
+        "height": 1000
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek Evolution, 2014 Lot 2014 eighth annual limited release, 43% ABV / 86 proof, NAS; French-oak Cabernet Sauvignon influence.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-017",
+    "editorial": {
+      "id": "forty-creek-evolution-2014",
+      "proof": 86,
+      "age": null,
+      "age_display": "NAS — no label age statement",
+      "release_year": 2014,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek Evolution, 2014 Lot 2014 eighth annual limited release, 43% ABV / 86 proof, NAS; French-oak Cabernet Sauvignon influence.",
+      "short_version": "A technically unusual historical release with strongly opposed sensory evidence. Its redistillation and Cabernet-cask accounts are attributed, and neither the process nor the bottle’s forty branding supplies a label age.",
+      "grain": "Corn, barley and rye whisky components reported in matched contemporary documentation; final blend percentages undisclosed.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "In a May 2014 direct interview, John Hall describes three years in American white oak, redistillation, then about nine years in his former Cabernet Sauvignon French-oak barrels, followed by other selected stocks in contemporary accounts. The current producer archive instead says half the blend spent five years in Cabernet barrels. These incompatible accounts remain attributed; no single exact whole-blend cask schedule is asserted. Redistillation also prevents simply adding the pre- and post-distillation periods into a final age statement.",
+      "finish": "Cabernet Sauvignon French-oak maturation reported contemporaneously; current archive gives a differing five-year partial-blend account. Exact final recipe and duration unresolved.",
+      "history": [
+        "Contemporary WhiskyCast documents planned September 27–28, 2014 release weekend and approximately 9,000 numbered bottles. The exact archive photograph shows 2014 Evolution, not another annual bottle.",
+        "The label remains NAS. Dykstra’s page displays an April 2014 date, while the later May interview describes a coming autumn release; sample/review timing does not by itself establish retail availability. A dated, exact U.S. regular price was not authenticated."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/forty-creek-evolution",
+          "summary": "Phillips finds substantial changing fruit, floral and savory detail, with an assertive pepper-and-tannin ending. His account supplies positive complexity evidence.",
+          "scope": "Professional exact Evolution tasting section, 43%, NAS; community ratings not used as a substitute."
+        },
+        {
+          "reviewer": "Chris Martine",
+          "publisher": "Whisky Magazine",
+          "url": "https://whiskymag.com/tastings/3-forty-creek/",
+          "summary": "Martine finds insufficient body for the dense oak, with prominent tannins and grain-spirit impressions. His sample is a direct challenge to an assumption of successful maturity.",
+          "scope": "Exact Evolution, year bottled 2014, 43%, explicitly NAS; accessible full taster section."
+        },
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-evolution-2014-release/",
+          "summary": "Dykstra finds initially appealing sweetness and spice undermined by intrusive sour, oxidized-wine and possible sulfur impressions. The specific defect evidence materially limits the score.",
+          "scope": "Exact 2014 Evolution, 43%; page shows April 10, 2014. Sensory impressions are not a laboratory finding or proof every bottle shares a fault."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact 2014 photograph, 43% and current partial-blend five-year Cabernet account."
+        },
+        {
+          "title": "John Hall direct interview via WhiskyCast",
+          "url": "https://whiskycast.com/forty-creek-evolves-with-2014-limited-edition/",
+          "role": "Primary attributed redistillation and approximately nine-year Cabernet-barrel account; September 2014 rollout and 9,000 bottles."
+        },
+        {
+          "title": "Evolution — Distiller",
+          "url": "https://distiller.com/spirits/forty-creek-evolution",
+          "role": "Full favorable complexity account."
+        },
+        {
+          "title": "Evolution — Whisky Magazine",
+          "url": "https://whiskymag.com/tastings/3-forty-creek/",
+          "role": "Full tannin/body/wood-management criticism."
+        },
+        {
+          "title": "Evolution — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-evolution-2014-release/",
+          "role": "Full sour/oxidized-wine counterevidence; not a blanket defect claim."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Forty Creek Founder’s Reserve (2016)",
+          "url": "forty-creek-founders-reserve-2016.html",
+          "reason": "A later barley-forward limited blend with different production and integration evidence."
+        },
+        {
+          "name": "Crown Royal Noble Collection Wine Barrel Finished (2017)",
+          "url": "crown-royal-noble-collection-wine-barrel-finished-2017.html",
+          "reason": "A distinctly documented Cabernet-cask Canadian blend; no recipe, duration or score borrowed."
+        }
+      ],
+      "quality": 4.8,
+      "dimensions": [
+        4.1,
+        6,
+        4.4,
+        4.2,
+        4.9,
+        4,
+        6.3
+      ],
+      "quality_rationale": "Slightly below the true category average on provisional execution evidence. Interesting complexity in one account is outweighed by substantive wood/body imbalance and sour-wine counterevidence in two others. Novel process and age impressions do not erase those faults.",
+      "value": null,
+      "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+      "pricing": {},
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numeric stock-up threshold established. No defensible U.S. regular quote was authenticated for the exact historical release.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before deciding on a full bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case is inferred from scarcity or an award alone.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "A small neat sample helps test whether a bottle shows the reported sour or tannic imbalance."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "Try water cautiously; one professional account already finds the body weak."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "A cocktail is an editorial experiment only after assessing the bottle; mixing is not evidence of improved underlying Quality."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A recurring blend is a more practical highball purchase than an unverified old bottle."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/04/Forty_Creek_Evolution-Whisky-Bottle.webp",
+      "image_source": "https://fortycreekwhisky.com/previous-limited-releases/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence."
+    }
+  },
+  {
+    "slug": "forty-creek-founders-reserve-2016",
+    "filename": "forty-creek-founders-reserve-2016.html",
+    "name": "Forty Creek Founders Reserve (2016)",
+    "family": "Forty Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "NAS — no label age statement",
+    "age_display": "NAS — no label age statement",
+    "age_sort_years": null,
+    "mash_bill_display": "Barley-dominant whisky blend with rye and corn stocks; exact percentages undisclosed.",
+    "mash_bill_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+    "quality": 6.2,
+    "quality_score": 6.2,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence.",
+      "universal_dimensions": {
+        "integration": 6.1,
+        "flavor_development": 6.5,
+        "finish": 5.8,
+        "technical_cleanliness": 5.9,
+        "texture": 6.3,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 6.6
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.12,
+      "editorial_adjustment": 0.08,
+      "adjustment_reason": "Good but provisional Canadian blend execution. One full account supports successful balance and development, while another finds harsh youth and limited distinctiveness. The tribute name and barley emphasis are not Quality bonuses."
+    },
+    "quality_calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good but provisional Canadian blend execution. One full account supports successful balance and development, while another finds harsh youth and limited distinctiveness. The tribute name and barley emphasis are not Quality bonuses.",
+    "quality_confidence": "Low–medium; matched published sample",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Price not established",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2016,
+    "release_scope": "Forty Creek Founder’s Reserve, 2016 Lot 104 tenth annual limited release, 45% ABV / 90 proof, NAS, barley-dominant Canadian blend.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-founders-reserve-canadian-whisky/",
+      "https://torontowhiskysociety.ca/2017/05/21/forty-creek-limited-editions-port-wood-three-grain-harmony-founders-reserve/"
+    ],
+    "review_publishers": [
+      "The Rum Howler Blog",
+      "Toronto Whisky Society"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-founders-reserve-canadian-whisky/",
+        "summary": "Dykstra finds a coherent grain-and-wood profile with enough development to offset some youth, and useful flavors emerge over ice. He considers it a successful return to balance.",
+        "scope": "December 15, 2016 stated publication date; exact Founder’s Reserve at 45%, producer specifications quoted separately from tasting."
+      },
+      {
+        "reviewer": "Bryan Vanderkruk",
+        "publisher": "Toronto Whisky Society",
+        "url": "https://torontowhiskysociety.ca/2017/05/21/forty-creek-limited-editions-port-wood-three-grain-harmony-founders-reserve/",
+        "summary": "Vanderkruk finds a harsh aroma and young, relatively ordinary palate, with the advertised barley character less distinctive than expected. He notes that the distillery sample glass may have limited the experience.",
+        "scope": "May 21, 2017; exact Founder’s Reserve section at 45%, distillery sample; sibling sections not counted as this whisky’s evidence."
+      }
+    ],
+    "source_urls": [
+      "https://fortycreekwhisky.com/previous-limited-releases/",
+      "https://fortycreekwhisky.com/master-blender/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-founders-reserve-canadian-whisky/",
+      "https://torontowhiskysociety.ca/2017/05/21/forty-creek-limited-editions-port-wood-three-grain-harmony-founders-reserve/"
+    ],
+    "production_summary": "The producer archive authenticates the 2016 Lot 104 identity and 45% strength. Contemporary producer specifications reproduced in Dykstra’s exact review describe four-to-nine-year stocks in lightly toasted and heavily charred American white oak, with barley dominant. Those stock ages do not create an exact numeric final-label age, and no separate final finish is authenticated.",
+    "finishing_information": "Mixture of lightly toasted and heavily charred American white-oak stock maturation; exact final finishing stage not established.",
+    "identity_note": null,
+    "history": [
+      "The producer timeline identifies 12,000 bottles for the 2016 Founder’s Reserve, honoring John K. Hall. Similar founder-related wording on older products does not justify merging a 2014 review of another bottling into this record.",
+      "Dykstra’s December 2016 account and Vanderkruk’s May 2017 tasting cover this exact annual release. No authenticated size- and date-matched U.S. regular quote supports Value; Canadian collector references are not substituted."
+    ],
+    "comparables": [
+      {
+        "name": "Forty Creek Evolution (2014)",
+        "url": "forty-creek-evolution-2014.html",
+        "reason": "A separately documented redistilled/Cabernet-influenced annual release."
+      },
+      {
+        "name": "Crown Royal Noble Collection Barley Edition (2023)",
+        "url": "crown-royal-noble-collection-barley-edition-2023.html",
+        "reason": "A different mostly unmalted-barley Canadian single-grain identity; useful grain context, not the same scoring category or recipe."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numeric stock-up threshold established. U.S. price/size evidence remains insufficient for numeric buying bands.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before deciding on a full bottle.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No drinking case is inferred from scarcity or an award alone.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat first is useful because the published samples disagree sharply."
+      },
+      {
+        "name": "Rocks / water",
+        "recommendation": "The favorable reviewer finds added interest with ice; try one cube."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "An Old Fashioned or Manhattan is an explicitly suggested independent-review use case."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A recurring family blend is the practical lower-cost highball reference."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://fortycreekwhisky.com/previous-limited-releases/",
+        "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/04/Forty_Creek_Founders-Reserve-Whisky-Bottle.webp",
+        "scope": "Forty Creek Founder’s Reserve, 2016 Lot 104 tenth annual limited release, 45% ABV / 90 proof, NAS, barley-dominant Canadian blend.",
+        "sha256": "698386c22bf4121e1c36f5642189cefdc9d86e89b65ade355b78d0ea3c649816",
+        "image_embedded": true,
+        "width": 694,
+        "height": 1000
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Forty Creek Founder’s Reserve, 2016 Lot 104 tenth annual limited release, 45% ABV / 90 proof, NAS, barley-dominant Canadian blend.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-017",
+    "editorial": {
+      "id": "forty-creek-founders-reserve-2016",
+      "proof": 90,
+      "age": null,
+      "age_display": "NAS — no label age statement",
+      "release_year": 2016,
+      "producer": "Forty Creek Distillery, Grimsby, Ontario / Campari Group",
+      "identity": "Forty Creek Founder’s Reserve, 2016 Lot 104 tenth annual limited release, 45% ABV / 90 proof, NAS, barley-dominant Canadian blend.",
+      "short_version": "A barley-led tribute blend with useful development in one review and harsh youthful notes in another. It is the 2016 annual identity, not a relabelled 2007 Small Batch release.",
+      "grain": "Barley-dominant whisky blend with rye and corn stocks; exact percentages undisclosed.",
+      "grain_confidence": "Exact-expression evidence is distinguished from brand-level recipes; no undisclosed ratios inferred.",
+      "production": "The producer archive authenticates the 2016 Lot 104 identity and 45% strength. Contemporary producer specifications reproduced in Dykstra’s exact review describe four-to-nine-year stocks in lightly toasted and heavily charred American white oak, with barley dominant. Those stock ages do not create an exact numeric final-label age, and no separate final finish is authenticated.",
+      "finish": "Mixture of lightly toasted and heavily charred American white-oak stock maturation; exact final finishing stage not established.",
+      "history": [
+        "The producer timeline identifies 12,000 bottles for the 2016 Founder’s Reserve, honoring John K. Hall. Similar founder-related wording on older products does not justify merging a 2014 review of another bottling into this record.",
+        "Dykstra’s December 2016 account and Vanderkruk’s May 2017 tasting cover this exact annual release. No authenticated size- and date-matched U.S. regular quote supports Value; Canadian collector references are not substituted."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-founders-reserve-canadian-whisky/",
+          "summary": "Dykstra finds a coherent grain-and-wood profile with enough development to offset some youth, and useful flavors emerge over ice. He considers it a successful return to balance.",
+          "scope": "December 15, 2016 stated publication date; exact Founder’s Reserve at 45%, producer specifications quoted separately from tasting."
+        },
+        {
+          "reviewer": "Bryan Vanderkruk",
+          "publisher": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2017/05/21/forty-creek-limited-editions-port-wood-three-grain-harmony-founders-reserve/",
+          "summary": "Vanderkruk finds a harsh aroma and young, relatively ordinary palate, with the advertised barley character less distinctive than expected. He notes that the distillery sample glass may have limited the experience.",
+          "scope": "May 21, 2017; exact Founder’s Reserve section at 45%, distillery sample; sibling sections not counted as this whisky’s evidence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Producer annual-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "2016 Lot 104, 45% strength, exact bottle image and commemorative scope."
+        },
+        {
+          "title": "Producer master-blender timeline",
+          "url": "https://fortycreekwhisky.com/master-blender/",
+          "role": "2016 barley-forward release and 12,000-bottle scope."
+        },
+        {
+          "title": "Founder’s Reserve — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-founders-reserve-canadian-whisky/",
+          "role": "Full favorable qualified tasting and reproduced exact stock/grain/oak specifications."
+        },
+        {
+          "title": "Founder’s Reserve — Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2017/05/21/forty-creek-limited-editions-port-wood-three-grain-harmony-founders-reserve/",
+          "role": "Full harsher exact-release counterevidence, with sample-glass limitation."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Forty Creek Evolution (2014)",
+          "url": "forty-creek-evolution-2014.html",
+          "reason": "A separately documented redistilled/Cabernet-influenced annual release."
+        },
+        {
+          "name": "Crown Royal Noble Collection Barley Edition (2023)",
+          "url": "crown-royal-noble-collection-barley-edition-2023.html",
+          "reason": "A different mostly unmalted-barley Canadian single-grain identity; useful grain context, not the same scoring category or recipe."
+        }
+      ],
+      "quality": 6.2,
+      "dimensions": [
+        6.1,
+        6.5,
+        5.8,
+        5.9,
+        6.3,
+        5.8,
+        6.6
+      ],
+      "quality_rationale": "Good but provisional Canadian blend execution. One full account supports successful balance and development, while another finds harsh youth and limited distinctiveness. The tribute name and barley emphasis are not Quality bonuses.",
+      "value": null,
+      "value_rationale": "N/A: no defensible exact-expression dated U.S. price was authenticated. Canadian-dollar context is not converted into U.S. Cost or Value.",
+      "pricing": {},
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numeric stock-up threshold established. U.S. price/size evidence remains insufficient for numeric buying bands.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before deciding on a full bottle.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare with an authenticated regular Canadian-whisky alternative in your own market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Canadian and U.S. dollars are not interchangeable; verify package size and currency.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No drinking case is inferred from scarcity or an award alone.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Conditional drinking guidance; a reliable dated U.S. market quote is not established."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat first is useful because the published samples disagree sharply."
+        },
+        {
+          "name": "Rocks / water",
+          "recommendation": "The favorable reviewer finds added interest with ice; try one cube."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "An Old Fashioned or Manhattan is an explicitly suggested independent-review use case."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A recurring family blend is the practical lower-cost highball reference."
+        }
+      ],
+      "image_url": "https://fortycreekwhisky.com/wp-content/uploads/2023/04/Forty_Creek_Founders-Reserve-Whisky-Bottle.webp",
+      "image_source": "https://fortycreekwhisky.com/previous-limited-releases/",
+      "calibration_basis": "A complete Canadian native low/mid/high anchor framework remains unsupported. The universal execution rubric is interpreted within the stated category; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Editorial interpretation of inspected independent samples, not first-person tasting. Conflicting sensory judgments and historical sample eras remain explicit. Publisher grades are not mechanically converted; ratings and producer descriptions alone are not sensory evidence."
+    }
   }
 ]

@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 16,
+  "checkpoint": 17,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -955,11 +955,16 @@
     "forty-creek-art-of-the-blend-2022.html",
     "forty-creek-barrel-select.html",
     "forty-creek-cherrywood-reserve-2023.html",
-    "forty-creek-chronology-2025.html"
+    "forty-creek-chronology-2025.html",
+    "forty-creek-confederation-oak.html",
+    "forty-creek-copper-bold-copper-pot.html",
+    "forty-creek-double-barrel.html",
+    "forty-creek-evolution-2014.html",
+    "forty-creek-founders-reserve-2016.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 87,
-  "dossier_count": 940,
+  "canadian_added": 92,
+  "dossier_count": 945,
   "history": [
     {
       "checkpoint": 1,
@@ -1516,9 +1521,48 @@
         "Chronology authenticated at 45%, 2,208 bottles and four displayed component years. October 2025 presale/review distinguished from November producer announcement. Component-year subtraction is not treated as proven continuous maturation; producer component ages remain attributed and numeric whole-blend age stays unknown.",
         "Art, Cherrywood and Chronology Canadian-dollar references remain explicitly CAD without USD Cost or Value. 22 Year Rye also retains Value N/A absent a defensible U.S. quote. Canadian universal calibration and deferred final UI normalization remain unchanged."
       ]
+    },
+    {
+      "checkpoint": 17,
+      "files": [
+        "forty-creek-confederation-oak.html",
+        "forty-creek-copper-bold-copper-pot.html",
+        "forty-creek-double-barrel.html",
+        "forty-creek-evolution-2014.html",
+        "forty-creek-founders-reserve-2016.html"
+      ],
+      "parent_commit": "007a0fe950f9cf8161025151e8f9f35422f46fd6",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 7452,
+        "functional_cases_passed": 447,
+        "responsive_pages_rendered": 363,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 102,
+        "failures": 0
+      },
+      "additional_preservation": "All 115 earlier expansion dossiers and all 940 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Next five pending candidates 120, 121, 123–125 accepted in unchanged deterministic order; excluded duplicate candidate 122 remains excluded. All five exact expression images visually inspected and embedded.",
+        "Confederation Oak retains 2010 origin, NAS and producer up-to-two-year Canadian-oak stage. Canadian Confederation year, older forty branding and oak-tree age never become whisky ages. Lot M praise, Lot D criticism and 2022 versus Lot F comparison remain distinctly scoped.",
+        "Confederation Oak Value uses exact 2015 U.S. USD 55 / 750 mL purchased Lot D record published in December 2019; not current NC or a guarantee about another lot.",
+        "Copper Bold and Copper Pot remain one candidate based on explicit producer same-whisky 2022 rename. Current brand story claims 2007; contemporary July 2012 producer announcement calls Copper Pot new for that fall. Exact first introduction left unresolved rather than silently choosing either account.",
+        "Copper current forty-three-percent image and complete modern Tastings account inspected. Exact 2022 Copper Pot criticism retained from the distinct section of Hambrey’s comparison; production suspicions are not facts.",
+        "Copper dated official Utah February 2026 750 mL USD 28.99 record visually checked on PDF page 92, code 010880, status D. Local discontinued-listing status is not producer discontinuation or a current-stock claim.",
+        "Double Barrel uses primary 2008 Lot 240 origin, noting the older specialist’s conflicting 2009 account. Current up-to-two-year Kentucky bourbon-barrel stage is not overwritten by historical longer-stage accounts; it remains Canadian blend, not bourbon. Modern and 2010 exact sensory evidence retained.",
+        "Double Barrel current CAD 43.25 / 750 mL context kept separate from a U.S. sold-out was-price with no reliable sale date. USD Cost and Value remain N/A.",
+        "Evolution exact 2014 Lot 2014 / 43% / NAS image verified. Direct Hall interview describes three-year oak, redistillation and approximately nine-year Cabernet maturation; current archive instead describes half the blend with five-year Cabernet aging. Both attributed without a fabricated complete-blend schedule or summed age.",
+        "Evolution favorable complexity evidence retained beside two substantive wood/body and sour-wine critiques. Specific sensory fault impressions are not laboratory findings or a claim about every bottle; full-spectrum Quality can fall below average despite a special-release pedigree.",
+        "Founder’s Reserve authenticated as 2016 Lot 104 / 45%, barley-dominant, four-to-nine-year stocks and 12,000 bottles. No exact final label age inferred, no earlier founder-named release substituted. Opposed Dykstra and Vanderkruk samples retained, including sample-glass limitation.",
+        "Evolution and Founder’s Reserve retain Value N/A without defensible dated U.S. pricing. Native Canadian category boundaries, immutable baseline and deferred final selector normalization remain preserved."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: forty-creek-confederation-oak",
+  "next_action": "Research next pending expression in deterministic order: forty-creek-foxheart",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1526,24 +1570,24 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 16,
+      "checkpoint": 17,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 940,
-      "new_dossiers": 115,
-      "html_files_structurally_checked": 116,
+      "dossiers": 945,
+      "new_dossiers": 120,
+      "html_files_structurally_checked": 121,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 7277,
-      "local_references_checked": 1989,
-      "embedded_image_occurrences_decoded": 97,
-      "unique_image_payloads_decoded": 97,
-      "image_dossiers_added": 97,
+      "checks": 7452,
+      "local_references_checked": 2039,
+      "embedded_image_occurrences_decoded": 102,
+      "unique_image_payloads_decoded": 102,
+      "image_dossiers_added": 102,
       "numeric_counts": {
-        "quality": 105,
-        "value": 88,
-        "overall": 88
+        "quality": 110,
+        "value": 90,
+        "overall": 90
       },
       "failure_count": 0,
       "failures": []
@@ -1553,7 +1597,7 @@
       "browser": "Chromium",
       "browser_version": "141.0.7390.0",
       "functional_cases_passed": 447,
-      "responsive_cases": 348,
+      "responsive_cases": 363,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1561,7 +1605,7 @@
     }
   },
   "updated_at": "2026-10-15",
-  "last_parent_commit": "dccee4bb82b9b8d5efa456f85f206191a8c52459",
+  "last_parent_commit": "007a0fe950f9cf8161025151e8f9f35422f46fd6",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",

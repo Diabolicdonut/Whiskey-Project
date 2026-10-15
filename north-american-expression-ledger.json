@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 110,
-    "accepted": 115
+    "pending": 105,
+    "accepted": 120
   },
   "entries": [
     {
@@ -8800,16 +8800,16 @@
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and barley; ratios undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Individually aged corn, rye and barley whiskies; final percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Canadian oak",
+      "finishing_information": "Secondary aging in Canadian-oak barrels for up to two years; total whisky age and exact lot duration undisclosed.",
       "release_year_or_era": "2010",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -8821,13 +8821,65 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/shop-whisky/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "talexander",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14023",
+            "summary": "This Lot 1867-M sample is rich, distinctive and fruit-led, with a buttery presentation and useful spice. It provides a favorable counterpoint to the less successful lots.",
+            "scope": "May 15, 2021; explicitly Lot 1867-M, 40%; one detailed community account."
+          },
+          {
+            "reviewer": "Jason Hambrey",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+            "summary": "Hambrey’s comparison finds the 2022 sample raw, poorly balanced and unpleasant at the ending, unlike his cleaner 2015 Lot F. His tasting-based production suspicions are not adopted as facts.",
+            "scope": "February 3, 2023; explicit 2022 versus 2015 Confederation Oak samples; not all products discussed on this page are this whisky."
+          },
+          {
+            "reviewer": "Nathan",
+            "publisher": "The Scotch Noob",
+            "url": "https://scotchnoob.com/2019/12/30/forty-creek-confederation-oak-reserve/",
+            "summary": "Nathan’s Lot D is silky but simple, with distracting alcohol aromas and a bitter, drying ending. His experience challenges an assumption that all older lots were excellent.",
+            "scope": "December 30, 2019; 2015-purchased 750 mL Lot 1867-D, California USD 55; historical bottle, not current packaging."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 120
+      "deterministic_order": 120,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-017",
+      "publication_sources": [
+        {
+          "title": "Current Confederation Oak producer record",
+          "url": "https://fortycreekwhisky.com/product/confederation-oak-reserve/",
+          "role": "Exact current image, 40%, grains and up-to-two-year Canadian-oak treatment."
+        },
+        {
+          "title": "Producer release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Original 2010 Lot 1867 context."
+        },
+        {
+          "title": "Confederation Oak Lot M — talexander",
+          "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14023",
+          "role": "Substantive favorable lot-specific evidence."
+        },
+        {
+          "title": "Confederation Oak comparison — Hambrey",
+          "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+          "role": "Full later-lot negative account and older comparison."
+        },
+        {
+          "title": "Confederation Oak Lot D — Scotch Noob",
+          "url": "https://scotchnoob.com/2019/12/30/forty-creek-confederation-oak-reserve/",
+          "role": "Full counterevidence and exact 2015 U.S. purchased-bottle price/size."
+        }
+      ]
     },
     {
       "id": "forty-creek-copper-bold-copper-pot",
@@ -8837,16 +8889,16 @@
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 86.0,
+      "proof": 86,
       "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and barley; ratios undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Individually aged corn, rye and barley whiskies; final proportions undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak maturation",
+      "finishing_information": "Extra oak aging; complete cask sequence and duration undisclosed, no distinct final finish established.",
       "release_year_or_era": "2007 lineage; renamed Copper Bold",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -8858,13 +8910,63 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/shop-whisky/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Beverage Testing Institute panel",
+            "publisher": "Tastings",
+            "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Copper-Bold-Reserve-Canadian-Whisky-Canada-86-Proof-08-01-2024.aspx",
+            "summary": "The modern Copper Bold panel finds a layered, rounded and warming profile with useful richness and persistence, suitable for sipping or stirred drinks.",
+            "scope": "July 15, 2024; exact Copper Bold Reserve at 43%, full independent tasting."
+          },
+          {
+            "reviewer": "Jason Hambrey",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+            "summary": "In the separate Copper Pot section, Hambrey finds the 2022 sample raw and oily compared with a cleaner, more structured 2014 sample. That is important contrary evidence, not proof of a specific recipe change.",
+            "scope": "February 3, 2023; exact Copper Pot side-by-side section, distinct from the page’s Confederation Oak and Barrel Select samples."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 121
+      "deterministic_order": 121,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-017",
+      "publication_sources": [
+        {
+          "title": "Copper Bold producer record",
+          "url": "https://fortycreekwhisky.com/product/copper-bold/",
+          "role": "Exact current image, 43% strength, grains and explicit same-whisky rename."
+        },
+        {
+          "title": "Producer current story",
+          "url": "https://fortycreekwhisky.com/our-story/",
+          "role": "2007 claimed lineage and explicit 2022 naming transition; chronology conflict retained."
+        },
+        {
+          "title": "July 2012 producer announcement, reproduced by Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/news-views/forty-creek-distillery.html",
+          "role": "Contemporary announcement of new Copper Pot Reserve for fall 2012 at 43%; not an independent tasting."
+        },
+        {
+          "title": "Copper Bold — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Copper-Bold-Reserve-Canadian-Whisky-Canada-86-Proof-08-01-2024.aspx",
+          "role": "Full favorable modern sensory account."
+        },
+        {
+          "title": "Copper Pot comparison — Hambrey",
+          "url": "https://www.connosr.com/forty-creek-confederation-oak-reserve-whisky-review-14649",
+          "role": "Separate substantive later-sample negative record; no invented production explanation."
+        },
+        {
+          "title": "Utah February 2026 official price list",
+          "url": "https://abs.stage.utah.gov/wp-content/uploads/Feb2026AlphaPriceList.pdf",
+          "role": "Page 92, code 010880, 750 mL, USD 28.99, status D; old name retained, no stock assertion."
+        }
+      ]
     },
     {
       "id": "forty-creek-cream-liqueurs-cocktail-kits",
@@ -8905,16 +9007,16 @@
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Corn, rye and barley; ratios undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Separately aged corn, rye and barley whiskies; final proportions undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Ex-bourbon secondary aging",
+      "finishing_information": "After blending, up to two years of secondary aging in Kentucky bourbon barrels; exact current lot duration undisclosed.",
       "release_year_or_era": "2008",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -8926,13 +9028,58 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/shop-whisky/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Beverage Testing Institute panel",
+            "publisher": "Tastings",
+            "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Double-Barrel-Reserve-Canadian-Whisky-Canada-08-01-2024.aspx",
+            "summary": "The panel finds a coherent grain-rich profile with a creamy presentation and a moderately persistent warming ending. Its reported body is lighter than the producer’s broad full-bodied claim.",
+            "scope": "July 15, 2024; exact Double Barrel Reserve at 40%, full independent tasting."
+          },
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/forty-creek-double-barrel-reserve-40-alc-vol.html",
+            "summary": "The historical specialist account finds an integrated, textured whisky with substantial grain, spice and wood development. Its production and sample era are not automatically assigned to a 2026 batch.",
+            "scope": "Review explicitly states it was written in 2010; exact forty-percent Double Barrel Reserve, not an American double-oaked whiskey."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 123
+      "deterministic_order": 123,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-017",
+      "publication_sources": [
+        {
+          "title": "Current Double Barrel producer record",
+          "url": "https://fortycreekwhisky.com/product/double-barrel-reserve/",
+          "role": "Exact current image, grain components, 40% and up-to-two-year bourbon-barrel secondary aging."
+        },
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Original 2008 Lot 240; distinct duplicate launch-era ledger entry remains excluded."
+        },
+        {
+          "title": "Double Barrel — Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Forty-Creek-Double-Barrel-Reserve-Canadian-Whisky-Canada-08-01-2024.aspx",
+          "role": "Full modern independent grain/body/finish account; price listing not silently size-assumed."
+        },
+        {
+          "title": "Double Barrel — Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/forty-creek-double-barrel-reserve-40-alc-vol.html",
+          "role": "Full 2010 exact-expression review and explicitly differing introduction-year account."
+        },
+        {
+          "title": "U.S. Wine.com sold-out reference",
+          "url": "https://www.wine.com/product/forty-creek-double-barrel-reserve-canadian-whisky/531424",
+          "role": "Exact 750 mL identity inspected; undated last-price display rejected as current regular pricing."
+        }
+      ]
     },
     {
       "id": "forty-creek-evolution-2014",
@@ -8942,16 +9089,16 @@
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 86,
+      "abv": 43.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Corn, barley and rye whisky components reported in matched contemporary documentation; final blend percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "French oak Cabernet Sauvignon",
+      "finishing_information": "Cabernet Sauvignon French-oak maturation reported contemporaneously; current archive gives a differing five-year partial-blend account. Exact final recipe and duration unresolved.",
       "release_year_or_era": "2014",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -8963,13 +9110,65 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/forty-creek-evolution",
+            "summary": "Phillips finds substantial changing fruit, floral and savory detail, with an assertive pepper-and-tannin ending. His account supplies positive complexity evidence.",
+            "scope": "Professional exact Evolution tasting section, 43%, NAS; community ratings not used as a substitute."
+          },
+          {
+            "reviewer": "Chris Martine",
+            "publisher": "Whisky Magazine",
+            "url": "https://whiskymag.com/tastings/3-forty-creek/",
+            "summary": "Martine finds insufficient body for the dense oak, with prominent tannins and grain-spirit impressions. His sample is a direct challenge to an assumption of successful maturity.",
+            "scope": "Exact Evolution, year bottled 2014, 43%, explicitly NAS; accessible full taster section."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-evolution-2014-release/",
+            "summary": "Dykstra finds initially appealing sweetness and spice undermined by intrusive sour, oxidized-wine and possible sulfur impressions. The specific defect evidence materially limits the score.",
+            "scope": "Exact 2014 Evolution, 43%; page shows April 10, 2014. Sensory impressions are not a laboratory finding or proof every bottle shares a fault."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 124
+      "deterministic_order": 124,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-017",
+      "publication_sources": [
+        {
+          "title": "Producer previous-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "Exact 2014 photograph, 43% and current partial-blend five-year Cabernet account."
+        },
+        {
+          "title": "John Hall direct interview via WhiskyCast",
+          "url": "https://whiskycast.com/forty-creek-evolves-with-2014-limited-edition/",
+          "role": "Primary attributed redistillation and approximately nine-year Cabernet-barrel account; September 2014 rollout and 9,000 bottles."
+        },
+        {
+          "title": "Evolution — Distiller",
+          "url": "https://distiller.com/spirits/forty-creek-evolution",
+          "role": "Full favorable complexity account."
+        },
+        {
+          "title": "Evolution — Whisky Magazine",
+          "url": "https://whiskymag.com/tastings/3-forty-creek/",
+          "role": "Full tannin/body/wood-management criticism."
+        },
+        {
+          "title": "Evolution — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-evolution-2014-release/",
+          "role": "Full sour/oxidized-wine counterevidence; not a blanket defect claim."
+        }
+      ]
     },
     {
       "id": "forty-creek-founders-reserve-2016",
@@ -8979,16 +9178,16 @@
       "producer": "Forty Creek, Grimsby / Campari",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 90,
+      "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Barley-forward blend; percentages undisclosed",
+      "age_information": "NAS — no label age statement",
+      "grain_information": "Barley-dominant whisky blend with rye and corn stocks; exact percentages undisclosed.",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak",
+      "finishing_information": "Mixture of lightly toasted and heavily charred American white-oak stock maturation; exact final finishing stage not established.",
       "release_year_or_era": "2016",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -9000,13 +9199,53 @@
       ],
       "potential_image_source": "https://fortycreekwhisky.com/master-blender/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-founders-reserve-canadian-whisky/",
+            "summary": "Dykstra finds a coherent grain-and-wood profile with enough development to offset some youth, and useful flavors emerge over ice. He considers it a successful return to balance.",
+            "scope": "December 15, 2016 stated publication date; exact Founder’s Reserve at 45%, producer specifications quoted separately from tasting."
+          },
+          {
+            "reviewer": "Bryan Vanderkruk",
+            "publisher": "Toronto Whisky Society",
+            "url": "https://torontowhiskysociety.ca/2017/05/21/forty-creek-limited-editions-port-wood-three-grain-harmony-founders-reserve/",
+            "summary": "Vanderkruk finds a harsh aroma and young, relatively ordinary palate, with the advertised barley character less distinctive than expected. He notes that the distillery sample glass may have limited the experience.",
+            "scope": "May 21, 2017; exact Founder’s Reserve section at 45%, distillery sample; sibling sections not counted as this whisky’s evidence."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 125
+      "deterministic_order": 125,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-017",
+      "publication_sources": [
+        {
+          "title": "Producer annual-release archive",
+          "url": "https://fortycreekwhisky.com/previous-limited-releases/",
+          "role": "2016 Lot 104, 45% strength, exact bottle image and commemorative scope."
+        },
+        {
+          "title": "Producer master-blender timeline",
+          "url": "https://fortycreekwhisky.com/master-blender/",
+          "role": "2016 barley-forward release and 12,000-bottle scope."
+        },
+        {
+          "title": "Founder’s Reserve — Dykstra",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/forty-creek-founders-reserve-canadian-whisky/",
+          "role": "Full favorable qualified tasting and reproduced exact stock/grain/oak specifications."
+        },
+        {
+          "title": "Founder’s Reserve — Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2017/05/21/forty-creek-limited-editions-port-wood-three-grain-harmony-founders-reserve/",
+          "role": "Full harsher exact-release counterevidence, with sample-glass limitation."
+        }
+      ]
     },
     {
       "id": "forty-creek-foxheart",
