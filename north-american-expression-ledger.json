@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 81,
-    "accepted": 144
+    "pending": 76,
+    "accepted": 149
   },
   "entries": [
     {
@@ -11196,21 +11196,21 @@
       "canonical_expression_name": "Glen Breton Ice 10 Year Single Malt",
       "filename": "glen-breton-ice-10-year-single-malt.html",
       "brand_family": "Glen Breton",
-      "producer": "Glenora Distillers, Cape Breton, Nova Scotia",
-      "status": "current",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+      "status": "historical",
       "whisky_category": "Canadian Single Malt",
       "proof": 114.4,
       "abv": 57.2,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
-      "grain_information": "100% malted barley",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Ice-wine casks",
-      "release_year_or_era": "Core range",
+      "age_statement_years": 10,
+      "age_information": "10 Years",
+      "grain_information": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "finishing_information": "Ice-wine-barrel treatment; exact historical vessel provenance and contact duration unverified.",
+      "release_year_or_era": "Glen Breton Ice 10 Year at 57.2% ABV / 114.4 proof, historical high-strength bottling; the matched specialist photograph is a 250 mL bottle. Lower-strength Ice 10 is excluded from this assessment.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression, age and strength authenticated; review, era, price and image scopes distinguished.",
+      "available_evidence_level": "Producer identity verified; independent review and price gates applied separately.",
       "discovery_sources": [
         {
           "title": "Glen Breton Ice 10 Year",
@@ -11220,34 +11220,90 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/glen-breton-ice-10-year-old",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Charles",
+            "publisher": "Whisky Magazine",
+            "url": "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+            "summary": "The taster finds a relatively inviting aroma but rubber-like, solvent-like and astringent delivery that remains difficult to interpret after dilution. These are reported sensory impressions, not a chemical contamination finding.",
+            "scope": "Exact 57.2%, 2015 bottling field; the visible Charles account is used, not an assumed second tab."
+          },
+          {
+            "reviewer": "Chris Goodrum",
+            "publisher": "Whisky According to Chris Whiskyman",
+            "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+            "summary": "Goodrum’s earlier assessment finds excessive wood and weak integration under water. The July 2015 retaste is more receptive to the lively oily character, while retaining dryness and limited complexity.",
+            "scope": "Exact 57.2% notes labelled August 2010 and July 2015. One taster with two assessments, not two independent votes."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 150
+      "deterministic_order": 150,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-023",
+      "publication_sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+          "role": "Exact label, age, strength and photograph scope."
+        },
+        {
+          "title": "Goodrum exact-strength tasting notes",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "role": "Full matched account and dated retaste, not double-counted as independent sources."
+        },
+        {
+          "title": "2010 Gauntleys contemporary record",
+          "url": "https://www.whiskyintelligence.com/2010/07/gauntleys-whisky-newsletter-number-43-part-4-scotch-whisky-news/",
+          "role": "Independent retailer’s exact-strength chronology; same earlier tasting is not counted twice."
+        },
+        {
+          "title": "Current 43% U.S. Ice 10",
+          "url": "https://usa.glenbreton.com/products/glen-breton-10-year-old-ice-single-malt-whisky",
+          "role": "Different strength; offer and modern process not transferred to the historical assessment."
+        },
+        {
+          "title": "Whisky Magazine — matched tasting",
+          "url": "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+          "role": "Exact 57.2%, 2015 bottling field; the visible Charles account is used, not an assumed second tab."
+        },
+        {
+          "title": "Whisky According to Chris Whiskyman — matched tasting",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "role": "Exact 57.2% notes labelled August 2010 and July 2015. One taster with two assessments, not two independent votes."
+        }
+      ],
+      "accepted_checkpoint": 23
     },
     {
       "id": "glen-breton-ice-18-year-single-malt",
       "canonical_expression_name": "Glen Breton Ice 18 Year Single Malt",
       "filename": "glen-breton-ice-18-year-single-malt.html",
       "brand_family": "Glen Breton",
-      "producer": "Glenora Distillers, Cape Breton, Nova Scotia",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
       "status": "current",
       "whisky_category": "Canadian Single Malt",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 18.0,
-      "age_information": "18 years",
-      "grain_information": "100% malted barley",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Ice-wine casks",
-      "release_year_or_era": "Core range",
+      "proof": 86,
+      "abv": 43.0,
+      "age_statement_years": 18,
+      "age_information": "18 Years",
+      "grain_information": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "finishing_information": "Producer-documented four months in a former Nova Scotia Ortega ice-wine barrel after initial maturation; exact winery and preceding cask schedule remain unverified.",
+      "release_year_or_era": "Glen Breton Ice 18 Year, 43% ABV / 86 proof, 750 mL; current producer bottle and box explicitly identify eighteen years and ice-wine-barrel treatment.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression, age and strength authenticated; review, era, price and image scopes distinguished.",
+      "available_evidence_level": "Producer identity verified; independent review and price gates applied separately.",
       "discovery_sources": [
         {
           "title": "Glen Breton ICE 18 Year Old Single Malt Whisky",
@@ -11257,34 +11313,50 @@
       ],
       "potential_image_source": "https://glenbreton.com/product/ice-18-year-old-single-malt-whisky/",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 151
+      "deterministic_order": 151,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-023",
+      "publication_sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://glenbreton.com/product/ice-18-year-old-single-malt-whisky/",
+          "role": "Exact label, age, strength and photograph scope."
+        }
+      ],
+      "accepted_checkpoint": 23
     },
     {
       "id": "glen-breton-rare-10-year-single-malt",
       "canonical_expression_name": "Glen Breton Rare 10 Year Single Malt",
       "filename": "glen-breton-rare-10-year-single-malt.html",
       "brand_family": "Glen Breton",
-      "producer": "Glenora Distillers, Cape Breton, Nova Scotia",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
       "status": "current",
       "whisky_category": "Canadian Single Malt",
-      "proof": 86.0,
+      "proof": 86,
       "abv": 43.0,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
-      "grain_information": "100% malted barley",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Ex-bourbon",
-      "release_year_or_era": "Core range",
+      "age_statement_years": 10,
+      "age_information": "10 Years",
+      "grain_information": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "finishing_information": "Oak maturation; no separate secondary finish authenticated.",
+      "release_year_or_era": "Glen Breton Rare 10 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression, age and strength authenticated; review, era, price and image scopes distinguished.",
+      "available_evidence_level": "Producer identity verified; independent review and price gates applied separately.",
       "discovery_sources": [
         {
           "title": "Glen Breton Single Malt Whisky - Glen Breton Distillery",
@@ -11294,34 +11366,75 @@
       ],
       "potential_image_source": "https://glenbreton.com/product-category/glen-breton-single-malt-whisky/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Adam, Kate, Meghan and Henry",
+            "publisher": "Scotchology",
+            "url": "https://www.scotchology.com/foreign/glen-breton-rare-10-year",
+            "summary": "Adam and Kate value the lively malt and fruit; Meghan is unmoved, and Henry finds the development confused with an excessively hot, dry wood-led ending. The group’s disagreement is retained rather than flattened into unanimous praise.",
+            "scope": "July 23, 2015, exact Rare 10 / 43%; one group tasting with four distinct voices."
+          },
+          {
+            "reviewer": "Chris Goodrum",
+            "publisher": "Whisky According to Chris Whiskyman",
+            "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+            "summary": "Goodrum finds a malt-led, earthy profile with more energy on the palate than the aroma and useful persistence. Rye-like spice describes flavour, not a rye recipe.",
+            "scope": "November 2016 tasting of ten-year / 43%, separate from the page’s Ice 10."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 152
+      "deterministic_order": 152,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-023",
+      "publication_sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://usa.glenbreton.com/products/10-year-old-glen-breton-rare-single-malt-whisky",
+          "role": "Exact label, age, strength and photograph scope."
+        },
+        {
+          "title": "Scotchology — matched tasting",
+          "url": "https://www.scotchology.com/foreign/glen-breton-rare-10-year",
+          "role": "July 23, 2015, exact Rare 10 / 43%; one group tasting with four distinct voices."
+        },
+        {
+          "title": "Whisky According to Chris Whiskyman — matched tasting",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "role": "November 2016 tasting of ten-year / 43%, separate from the page’s Ice 10."
+        }
+      ],
+      "accepted_checkpoint": 23
     },
     {
       "id": "glen-breton-rare-14-year-single-malt",
       "canonical_expression_name": "Glen Breton Rare 14 Year Single Malt",
       "filename": "glen-breton-rare-14-year-single-malt.html",
       "brand_family": "Glen Breton",
-      "producer": "Glenora Distillers, Cape Breton, Nova Scotia",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
       "status": "current",
       "whisky_category": "Canadian Single Malt",
-      "proof": 86.0,
+      "proof": 86,
       "abv": 43.0,
-      "age_statement_years": 14.0,
-      "age_information": "14 years",
-      "grain_information": "100% malted barley",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Oak; exact regime to verify",
-      "release_year_or_era": "Core range",
+      "age_statement_years": 14,
+      "age_information": "14 Years",
+      "grain_information": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "finishing_information": "Oak maturation; no separate secondary finish authenticated.",
+      "release_year_or_era": "Glen Breton Rare 14 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression, age and strength authenticated; review, era, price and image scopes distinguished.",
+      "available_evidence_level": "Producer identity verified; independent review and price gates applied separately.",
       "discovery_sources": [
         {
           "title": "14 Year Old Glen Breton Rare Single Malt Whisky",
@@ -11331,34 +11444,87 @@
       ],
       "potential_image_source": "https://usa.glenbreton.com/products/14-year-old-glen-breton-rare-single-malt-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Beverage Testing Institute panel",
+            "publisher": "Tastings",
+            "url": "https://www.tastings.com/Spirits-Review/Glen-Breton-14-Year-Old-Canadian-Single-Malt-Whisky-Canada-86-Proof-07-01-2024.aspx",
+            "summary": "The panel finds an animated, grain-led whisky with a pleasant dry texture and refreshing medium ending. Its description remains youthful rather than treating fourteen years as proof of deep maturity.",
+            "scope": "Tasted June 18, 2024, exact 43% fourteen-year; panel grade is not mechanically converted."
+          },
+          {
+            "reviewer": "Bryan Vanderkruk",
+            "publisher": "Toronto Whisky Society",
+            "url": "https://torontowhiskysociety.ca/2017/12/19/glenora-distillery-multi-review/",
+            "summary": "Vanderkruk praises the delicate but coherent interplay of malt and wood, with creamy texture. His listed short ending remains a limitation alongside the favorable conclusion.",
+            "scope": "December 19, 2017, exact Rare 14 / 43%; adjacent 40% Ice review is excluded."
+          },
+          {
+            "reviewer": "Johanne McInnis",
+            "publisher": "Whisky Lassie",
+            "url": "https://whiskylassie.blogspot.com/2015/07/glen-breton-14-lucky-number-7-perhaps.html",
+            "summary": "McInnis experiences an intensely unpleasant perfume/soap character on repeated attempts. She also reports that other tasters did not share that perception, so it is preserved as a serious personal response rather than a universal contamination claim.",
+            "scope": "July 2015, exact fourteen-year experience; contrary reactions are explicit."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 153
+      "deterministic_order": 153,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-023",
+      "publication_sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://usa.glenbreton.com/products/14-year-old-glen-breton-rare-single-malt-whisky",
+          "role": "Exact label, age, strength and photograph scope."
+        },
+        {
+          "title": "Tastings — matched tasting",
+          "url": "https://www.tastings.com/Spirits-Review/Glen-Breton-14-Year-Old-Canadian-Single-Malt-Whisky-Canada-86-Proof-07-01-2024.aspx",
+          "role": "Tasted June 18, 2024, exact 43% fourteen-year; panel grade is not mechanically converted."
+        },
+        {
+          "title": "Toronto Whisky Society — matched tasting",
+          "url": "https://torontowhiskysociety.ca/2017/12/19/glenora-distillery-multi-review/",
+          "role": "December 19, 2017, exact Rare 14 / 43%; adjacent 40% Ice review is excluded."
+        },
+        {
+          "title": "Whisky Lassie — matched tasting",
+          "url": "https://whiskylassie.blogspot.com/2015/07/glen-breton-14-lucky-number-7-perhaps.html",
+          "role": "July 2015, exact fourteen-year experience; contrary reactions are explicit."
+        }
+      ],
+      "accepted_checkpoint": 23
     },
     {
       "id": "glen-breton-rare-19-year-single-malt",
       "canonical_expression_name": "Glen Breton Rare 19 Year Single Malt",
       "filename": "glen-breton-rare-19-year-single-malt.html",
       "brand_family": "Glen Breton",
-      "producer": "Glenora Distillers, Cape Breton, Nova Scotia",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
       "status": "current",
       "whisky_category": "Canadian Single Malt",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 19.0,
-      "age_information": "19 years",
-      "grain_information": "100% malted barley",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Oak; exact regime to verify",
-      "release_year_or_era": "Documented 2026 range",
+      "proof": 86,
+      "abv": 43.0,
+      "age_statement_years": 19,
+      "age_information": "19 Years",
+      "grain_information": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "finishing_information": "Oak maturation; no separate secondary finish authenticated.",
+      "release_year_or_era": "Glen Breton Rare 19 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
-      "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Exact expression, age and strength authenticated; review, era, price and image scopes distinguished.",
+      "available_evidence_level": "Producer identity verified; independent review and price gates applied separately.",
       "discovery_sources": [
         {
           "title": "Triple Triumph - 3 awards for Glen Breton Rare - Glen Breton Distillery & Glenora Inn",
@@ -11368,13 +11534,66 @@
       ],
       "potential_image_source": "https://glenoradistillery.com/news/triple-triumph-3-awards-for-glen-breton-rare/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Alwynne",
+            "publisher": "Whisky Magazine",
+            "url": "https://whiskymag.com/tastings/glen-breton-rare-19-years-old-single-malt-whisky/",
+            "summary": "The visible account values refinement and a lively mix of sweet and fresh flavours, but wants more force at 43%. This favorable sample is retained beside less enthusiastic findings.",
+            "scope": "Exact 43% nineteen-year; record identifies a 2015 bottling. Unopened second tab is not invented."
+          },
+          {
+            "reviewer": "Chris Goodrum",
+            "publisher": "Whisky According to Chris Whiskyman",
+            "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+            "summary": "Goodrum finds the sample clean but dulled by prominent oiliness, with an understated aroma. Good persistence does not resolve his overall lack of interest.",
+            "scope": "April 2015 exact nineteen-year / 43%; same reviewer’s other expressions remain separately scoped."
+          },
+          {
+            "reviewer": "World Whiskies Awards panel",
+            "publisher": "World Whiskies Awards",
+            "url": "https://worldwhiskiesawards.com/winner-whisky/silver-49241-world-whiskies-awards-2024",
+            "summary": "The published panel note is restrained: weak aromatic projection and a light, brief ending around an earthy malt core. The sensory note is used; the medal alone is not a Quality anchor.",
+            "scope": "2024, exact Rare 19 / 43% panel record."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 154
+      "deterministic_order": 154,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-023",
+      "publication_sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://usa.glenbreton.com/products/19-year-old-glen-breton-rare-single-malt-whisky",
+          "role": "Exact label, age, strength and photograph scope."
+        },
+        {
+          "title": "Whisky Magazine — matched tasting",
+          "url": "https://whiskymag.com/tastings/glen-breton-rare-19-years-old-single-malt-whisky/",
+          "role": "Exact 43% nineteen-year; record identifies a 2015 bottling. Unopened second tab is not invented."
+        },
+        {
+          "title": "Whisky According to Chris Whiskyman — matched tasting",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "role": "April 2015 exact nineteen-year / 43%; same reviewer’s other expressions remain separately scoped."
+        },
+        {
+          "title": "World Whiskies Awards — matched tasting",
+          "url": "https://worldwhiskiesawards.com/winner-whisky/silver-49241-world-whiskies-awards-2024",
+          "role": "2024, exact Rare 19 / 43% panel record."
+        }
+      ],
+      "accepted_checkpoint": 23
     },
     {
       "id": "gooderham-worts-49-wellington-19-year-2019",

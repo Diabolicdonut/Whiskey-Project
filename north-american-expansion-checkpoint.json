@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 22,
+  "checkpoint": 23,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -984,11 +984,16 @@
     "gibson-s-finest-rare-12-year.html",
     "gibson-s-finest-rare-18-year-legacy.html",
     "gibson-s-finest-sterling.html",
-    "gibson-s-finest-venerable-18-year.html"
+    "gibson-s-finest-venerable-18-year.html",
+    "glen-breton-ice-10-year-single-malt.html",
+    "glen-breton-ice-18-year-single-malt.html",
+    "glen-breton-rare-10-year-single-malt.html",
+    "glen-breton-rare-14-year-single-malt.html",
+    "glen-breton-rare-19-year-single-malt.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 116,
-  "dossier_count": 969,
+  "canadian_added": 121,
+  "dossier_count": 974,
   "history": [
     {
       "checkpoint": 1,
@@ -1769,9 +1774,46 @@
         "Venerable eighteen-year / forty-percent producer identity and exact modern photograph verified. Selfbuilt’s direct July 2015 Venerable tasting is distinct from the same page’s legacy Rare meta-score. Victor’s November 2016 bottle-code sample and weaker sour-ending balance retained. Label chronology establishes no proven recipe or distillery-stock discontinuity, and wheat-like sensory language proves no wheat ingredient.",
         "All five Quality assessments use the documented category-conscious universal dimensions provisionally; neither American bourbon nor American straight-rye endpoints are imported. All five U.S. Value and Overall remain N/A after targeted price research. Canadian price context stays CAD. Crown Royal, Forty Creek, all 825 baseline files and completed validation/image ledgers remain unchanged. Final categorical UI normalization stays deferred until expansion-ledger exhaustion."
       ]
+    },
+    {
+      "checkpoint": 23,
+      "files": [
+        "glen-breton-ice-10-year-single-malt.html",
+        "glen-breton-ice-18-year-single-malt.html",
+        "glen-breton-rare-10-year-single-malt.html",
+        "glen-breton-rare-14-year-single-malt.html",
+        "glen-breton-rare-19-year-single-malt.html"
+      ],
+      "parent_commit": "aaef29505dc47db2d7e01a6d8abb6baf97478d9b",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 8461,
+        "functional_cases_passed": 453,
+        "responsive_pages_rendered": 450,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 131,
+        "failures": 0
+      },
+      "additional_preservation": "All 144 earlier expansion dossiers and all 969 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Candidates 150–154 processed in unchanged deterministic order; five exact expression photographs visually inspected and embedded after format/size optimization. All prior dossier bytes and index rows remain preserved; no standalone assets or early selector normalization.",
+        "Ice 10 discovery proof 57.2% is authenticated by the 2010 Gauntleys record, Goodrum’s matched notes and specialist 2015-bottling record. Its verified specialist photograph visibly states 57.2% and 250 mL. The dossier is explicitly scoped as historical high-strength Ice 10, not automatically merged with 40% and 43% bottlings. Current production/discontinuation of that exact strength remains unestablished.",
+        "Ice 10 Charles sensory concerns retained beside Goodrum’s more receptive 2015 retaste. Earlier Goodrum/Gauntleys text is not double-counted. Distiller’s conflicting 40%-prose / 57%-field record, current USD 136.99 / 750 mL 43% offer, and 40% UK retail are rejected as strength matches. Historical winery/contact duration not imported from modern producer copy. Rubber/solvent sensory terms are not chemical contamination findings.",
+        "Ice 18 producer identity and exact bottle/box verify eighteen years, 43% and 750 mL. Exact primary account gives four months in a former Nova Scotia Ortega ice-wine barrel, without a named winery. No 18.33-year label age or Alexander Keith’s recipe inferred. Displayed June 2026 owner star, September image upload and indexing dates do not establish a first release date.",
+        "Ice 18 targeted two-engine research did not authenticate a substantive matched independent tasting. Producer notes, star-only owner feedback, destination testimonials, Ice 10/12/17 and Alexander Keith’s 18 reviews do not substitute. Quality, Value and Overall remain N/A. Current CAD 201.75 / 750 mL producer offer is explicitly Canadian.",
+        "Rare 10, 14 and 19 producer U.S. product pages, exact current photographs and structured Product/Offer records inspected: all 43% / 750 mL, USD 119.99, 151.99 and 254.99 respectively on October 15, 2026. These are alternate U.S. offers, not NC, with tax/delivery and current-batch limitations explicit.",
+        "Rare 10 preserves four Scotchology group voices rather than unanimous praise, plus Goodrum’s exact 43% sample. Rye-like spice is not rye grain. Rare 14 retains the June 18, 2024 panel, Vanderkruk’s favorable 2017 balance/short-finish account and McInnis’s severe 2015 perfume/soap response, explicitly noting other tasters did not share that perception.",
+        "Rare 19 retains Alwynne’s favorable refined sample, Goodrum’s muted/oily criticism and 2024 panel’s light/short ending. The record’s 2015 bottling field is not invented publication chronology. Only visible matched specialist tab text is used; uninspected second-tab reviews are not fabricated. Nineteen-year American oak is primary-confirmed, smoke-like flavor does not prove peat or a secondary finish.",
+        "Rare 19 U.S. category sold-out text conflicts with product-detail and structured InStock. Its USD 254.99 price is consistent but availability is unresolved; Value remains provisional with no stock or scarcity bonus. U.S. family comparisons and explicitly editorial budgets support cautious low Value without importing American bourbon Quality endpoints.",
+        "All supported Quality judgments retain seven category-conscious universal dimensions and full-spectrum average=5; no unsupported Canadian native endpoints declared. All original 825 pages, completed ledgers, earlier expansion files and prior index rows remain unchanged. Categorical normalization remains pending until entire ledger exhaustion."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: glen-breton-ice-10-year-single-malt",
+  "next_action": "Research next pending expression in deterministic order: gooderham-worts-49-wellington-19-year-2019",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1779,24 +1821,24 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 22,
+      "checkpoint": 23,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 969,
-      "new_dossiers": 144,
-      "html_files_structurally_checked": 145,
+      "dossiers": 974,
+      "new_dossiers": 149,
+      "html_files_structurally_checked": 150,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 8288,
-      "local_references_checked": 2279,
-      "embedded_image_occurrences_decoded": 126,
-      "unique_image_payloads_decoded": 126,
-      "image_dossiers_added": 126,
+      "checks": 8461,
+      "local_references_checked": 2329,
+      "embedded_image_occurrences_decoded": 131,
+      "unique_image_payloads_decoded": 131,
+      "image_dossiers_added": 131,
       "numeric_counts": {
-        "quality": 133,
-        "value": 92,
-        "overall": 92
+        "quality": 137,
+        "value": 95,
+        "overall": 95
       },
       "failure_count": 0,
       "failures": []
@@ -1805,8 +1847,8 @@
       "status": "passed",
       "browser": "Chromium",
       "browser_version": "141.0.7390.0",
-      "functional_cases_passed": 450,
-      "responsive_cases": 435,
+      "functional_cases_passed": 453,
+      "responsive_cases": 450,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1814,7 +1856,7 @@
     }
   },
   "updated_at": "2026-10-15",
-  "last_parent_commit": "3be3f297bbc1db6ebe1e5b68a2bcc18be0f079a6",
+  "last_parent_commit": "aaef29505dc47db2d7e01a6d8abb6baf97478d9b",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",

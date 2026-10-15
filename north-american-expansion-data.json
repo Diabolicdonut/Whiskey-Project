@@ -51410,5 +51410,1867 @@
         }
       ]
     }
+  },
+  {
+    "slug": "glen-breton-ice-10-year-single-malt",
+    "filename": "glen-breton-ice-10-year-single-malt.html",
+    "name": "Glen Breton Ice 10 Year Single Malt",
+    "family": "Glen Breton",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+    "proof": 114.4,
+    "abv": 57.2,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "100% malted barley; one-distillery malt identity",
+    "mash_bill_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+    "quality": 4.5,
+    "quality_score": 4.5,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor.",
+      "universal_dimensions": {
+        "integration": 4.0,
+        "flavor_development": 5.2,
+        "finish": 4.2,
+        "technical_cleanliness": 4.3,
+        "texture": 5.4,
+        "maturity_wood_management": 4.0,
+        "distinctiveness": 4.7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 4.49,
+      "editorial_adjustment": 0.01,
+      "adjustment_reason": "Below-average provisional Canadian single-malt execution. Texture and some fruit are credible, but matched accounts repeatedly question integration, wood management and the dry ending; intensity alone is not Quality."
+    },
+    "quality_calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+    "quality_rationale": "Below-average provisional Canadian single-malt execution. Texture and some fruit are credible, but matched accounts repeatedly question integration, wood management and the dry ending; intensity alone is not Quality.",
+    "quality_confidence": "Low–medium; exact strength verified, contrary retaste retained",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no authenticated dated U.S. offer for the exact 57.2% bottling. The producer’s current 43% Ice 10 and a 40% UK listing are not price matches.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No authenticated U.S. price; 250 mL is the verified photographed format",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 250,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Glen Breton Ice 10 Year at 57.2% ABV / 114.4 proof, historical high-strength bottling; the matched specialist photograph is a 250 mL bottle. Lower-strength Ice 10 is excluded from this assessment.",
+    "availability_note": "Prices checked October 15, 2026; tax, delivery and location eligibility can change the final cost. An offer is not proof of stock or an unchanged recipe.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+      "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/"
+    ],
+    "review_publishers": [
+      "Whisky Magazine",
+      "Whisky According to Chris Whiskyman"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Charles",
+        "publisher": "Whisky Magazine",
+        "url": "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+        "summary": "The taster finds a relatively inviting aroma but rubber-like, solvent-like and astringent delivery that remains difficult to interpret after dilution. These are reported sensory impressions, not a chemical contamination finding.",
+        "scope": "Exact 57.2%, 2015 bottling field; the visible Charles account is used, not an assumed second tab."
+      },
+      {
+        "reviewer": "Chris Goodrum",
+        "publisher": "Whisky According to Chris Whiskyman",
+        "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+        "summary": "Goodrum’s earlier assessment finds excessive wood and weak integration under water. The July 2015 retaste is more receptive to the lively oily character, while retaining dryness and limited complexity.",
+        "scope": "Exact 57.2% notes labelled August 2010 and July 2015. One taster with two assessments, not two independent votes."
+      }
+    ],
+    "source_urls": [
+      "https://glenbreton.com/frequently-asked-questions/",
+      "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+      "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+      "https://www.whiskyintelligence.com/2010/07/gauntleys-whisky-newsletter-number-43-part-4-scotch-whisky-news/",
+      "https://usa.glenbreton.com/products/glen-breton-10-year-old-ice-single-malt-whisky"
+    ],
+    "production_summary": "The exact ten-year / 57.2% ice-wine-barrel single malt is authenticated by contemporary specialist records. Ice-wine treatment is verified, but the exact winery, duration and initial cask schedule of this historical bottle were not authenticated. The current 43% producer story about four months in a finishing barrel is not automatically applied backward.",
+    "finishing_information": "Ice-wine-barrel treatment; exact historical vessel provenance and contact duration unverified.",
+    "identity_note": null,
+    "history": [
+      "The 57.2% version is documented in a July 2010 Gauntleys newsletter and in a specialist record identifying a 2015 bottling. First sale date remains unknown.",
+      "The current U.S. producer offer is explicitly 43%, at USD 136.99 / 750 mL. It is an identity comparator, not a price for this 57.2% bottle. Distiller’s conflicting 40%-prose / 57%-field record is not a reliable substitute."
+    ],
+    "comparables": [
+      {
+        "name": "Glen Breton Ice 18 Year",
+        "url": "glen-breton-ice-18-year-single-malt.html",
+        "reason": "A distinct 43% ice-wine-finished expression with its own evidence gap."
+      },
+      {
+        "name": "Glen Breton Rare 10 Year",
+        "url": "glen-breton-rare-10-year-single-malt.html",
+        "reason": "Non-Ice ten-year family malt; current 43% identity and different tasting record."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+        "image_url": "https://whiskymag.com/media/4ttd5ufe/11590.png?height=700&v=1d96d76254297b0",
+        "scope": "Glen Breton Ice 10 Year at 57.2% ABV / 114.4 proof, historical high-strength bottling; the matched specialist photograph is a 250 mL bottle. Lower-strength Ice 10 is excluded from this assessment.",
+        "sha256": "f51083133f95657b7882cb8a84508033dd30db0b0db2dfaa05a73d85efde964b",
+        "image_embedded": true,
+        "width": 343,
+        "height": 700
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Glen Breton Ice 10 Year at 57.2% ABV / 114.4 proof, historical high-strength bottling; the matched specialist photograph is a 250 mL bottle. Lower-strength Ice 10 is excluded from this assessment.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-023",
+    "editorial": {
+      "id": "glen-breton-ice-10-year-single-malt",
+      "category": "Canadian Single Malt",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+      "proof": 114.4,
+      "age": 10,
+      "age_display": "10 Years",
+      "release_year": null,
+      "grain": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "production": "The exact ten-year / 57.2% ice-wine-barrel single malt is authenticated by contemporary specialist records. Ice-wine treatment is verified, but the exact winery, duration and initial cask schedule of this historical bottle were not authenticated. The current 43% producer story about four months in a finishing barrel is not automatically applied backward.",
+      "finish": "Ice-wine-barrel treatment; exact historical vessel provenance and contact duration unverified.",
+      "sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+          "role": "Exact label, age, strength and photograph scope."
+        },
+        {
+          "title": "Goodrum exact-strength tasting notes",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "role": "Full matched account and dated retaste, not double-counted as independent sources."
+        },
+        {
+          "title": "2010 Gauntleys contemporary record",
+          "url": "https://www.whiskyintelligence.com/2010/07/gauntleys-whisky-newsletter-number-43-part-4-scotch-whisky-news/",
+          "role": "Independent retailer’s exact-strength chronology; same earlier tasting is not counted twice."
+        },
+        {
+          "title": "Current 43% U.S. Ice 10",
+          "url": "https://usa.glenbreton.com/products/glen-breton-10-year-old-ice-single-malt-whisky",
+          "role": "Different strength; offer and modern process not transferred to the historical assessment."
+        },
+        {
+          "title": "Whisky Magazine — matched tasting",
+          "url": "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+          "role": "Exact 57.2%, 2015 bottling field; the visible Charles account is used, not an assumed second tab."
+        },
+        {
+          "title": "Whisky According to Chris Whiskyman — matched tasting",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "role": "Exact 57.2% notes labelled August 2010 and July 2015. One taster with two assessments, not two independent votes."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Charles",
+          "publisher": "Whisky Magazine",
+          "url": "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+          "summary": "The taster finds a relatively inviting aroma but rubber-like, solvent-like and astringent delivery that remains difficult to interpret after dilution. These are reported sensory impressions, not a chemical contamination finding.",
+          "scope": "Exact 57.2%, 2015 bottling field; the visible Charles account is used, not an assumed second tab."
+        },
+        {
+          "reviewer": "Chris Goodrum",
+          "publisher": "Whisky According to Chris Whiskyman",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "summary": "Goodrum’s earlier assessment finds excessive wood and weak integration under water. The July 2015 retaste is more receptive to the lively oily character, while retaining dryness and limited complexity.",
+          "scope": "Exact 57.2% notes labelled August 2010 and July 2015. One taster with two assessments, not two independent votes."
+        }
+      ],
+      "quality": 4.5,
+      "value": null,
+      "quality_confidence": "Low–medium; exact strength verified, contrary retaste retained",
+      "calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+      "evidence_limit": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor.",
+      "community": "No representative crowd consensus is claimed. Producer-hosted destination reviews and ratings without sensory text are not used to score an expression.",
+      "availability": "Prices checked October 15, 2026; tax, delivery and location eligibility can change the final cost. An offer is not proof of stock or an unchanged recipe.",
+      "image_source": "https://whiskymag.com/tastings/glen-breton-ice-10-years-old-single-malt-whisky/",
+      "image_url": "https://whiskymag.com/media/4ttd5ufe/11590.png?height=700&v=1d96d76254297b0",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Glen Breton Ice 18 Year",
+          "url": "glen-breton-ice-18-year-single-malt.html",
+          "reason": "A distinct 43% ice-wine-finished expression with its own evidence gap."
+        },
+        {
+          "name": "Glen Breton Rare 10 Year",
+          "url": "glen-breton-rare-10-year-single-malt.html",
+          "reason": "Non-Ice ten-year family malt; current 43% identity and different tasting record."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+        }
+      ],
+      "status": "historical",
+      "identity": "Glen Breton Ice 10 Year at 57.2% ABV / 114.4 proof, historical high-strength bottling; the matched specialist photograph is a 250 mL bottle. Lower-strength Ice 10 is excluded from this assessment.",
+      "short_version": "The high-strength Ice 10 has a genuine matched review record, with recurring integration and dry-ending concerns. It must not inherit scores or prices from the differently bottled 40% and 43% versions.",
+      "history": [
+        "The 57.2% version is documented in a July 2010 Gauntleys newsletter and in a specialist record identifying a 2015 bottling. First sale date remains unknown.",
+        "The current U.S. producer offer is explicitly 43%, at USD 136.99 / 750 mL. It is an identity comparator, not a price for this 57.2% bottle. Distiller’s conflicting 40%-prose / 57%-field record is not a reliable substitute."
+      ],
+      "dimensions": [
+        4.0,
+        5.2,
+        4.2,
+        4.3,
+        5.4,
+        4.0,
+        4.7
+      ],
+      "quality_rationale": "Below-average provisional Canadian single-malt execution. Texture and some fruit are credible, but matched accounts repeatedly question integration, wood management and the dry ending; intensity alone is not Quality.",
+      "value_rationale": "N/A: no authenticated dated U.S. offer for the exact 57.2% bottling. The producer’s current 43% Ice 10 and a 40% UK listing are not price matches.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 250,
+        "date": null,
+        "basis": "No authenticated U.S. price; 250 mL is the verified photographed format"
+      }
+    }
+  },
+  {
+    "slug": "glen-breton-ice-18-year-single-malt",
+    "filename": "glen-breton-ice-18-year-single-malt.html",
+    "name": "Glen Breton Ice 18 Year Single Malt",
+    "family": "Glen Breton",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "18 Years",
+    "age_display": "18 Years",
+    "age_sort_years": 18,
+    "mash_bill_display": "100% malted barley; one-distillery malt identity",
+    "mash_bill_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor."
+    },
+    "quality_calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+    "quality_rationale": "N/A: exact identity is established, but no substantive matched independent sensory account was authenticated after targeted two-engine research.",
+    "quality_confidence": "Unscored pending matched independent tasting evidence",
+    "quality_na_reason": "Producer tasting text and a star-only owner rating do not supply substantive independent tasting evidence.",
+    "value_rationale": "N/A: there is no defensible sensory basis or exact U.S. price reference. The authenticated producer Canadian offer remains CAD.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Canadian producer-store offer, GBIce18; not USD or NC pricing",
+    "price_url": "https://glenbreton.com/product/ice-18-year-old-single-malt-whisky/",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 201.75,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Glen Breton Ice 18 Year, 43% ABV / 86 proof, 750 mL; current producer bottle and box explicitly identify eighteen years and ice-wine-barrel treatment.",
+    "availability_note": "Prices checked October 15, 2026; tax, delivery and location eligibility can change the final cost. An offer is not proof of stock or an unchanged recipe.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [],
+    "review_publishers": [],
+    "critical_source_count": 0,
+    "review_evidence": [],
+    "source_urls": [
+      "https://glenbreton.com/frequently-asked-questions/",
+      "https://glenbreton.com/product/ice-18-year-old-single-malt-whisky/"
+    ],
+    "production_summary": "The producer describes eighteen-year single malt transferred to an oak vessel that previously held Nova Scotia Ortega ice wine, then monitored for a four-month finish. The winery is not named in this exact account. That stage is not nineteen years, an added eighteen-year finish or a numerical age of 18.33 years.",
+    "finishing_information": "Producer-documented four months in a former Nova Scotia Ortega ice-wine barrel after initial maturation; exact winery and preceding cask schedule remain unverified.",
+    "identity_note": null,
+    "history": [
+      "This exact eighteen-year expression is documented in the 2026 producer catalogue; a displayed verified-owner star rating is dated June 4, 2026. Neither the site’s September image upload nor recent indexing establishes a first release date.",
+      "It is distinct from the ten-year Ice versions and from Alexander Keith’s eighteen-year release. Related-bottle tasting notes and producer-hosted general reviews are not transferred."
+    ],
+    "comparables": [
+      {
+        "name": "Glen Breton Ice 10 Year — 57.2% scope",
+        "url": "glen-breton-ice-10-year-single-malt.html",
+        "reason": "Related ice-wine concept, different age and strength; sensory results cannot be inherited."
+      },
+      {
+        "name": "Glen Breton Rare 19 Year",
+        "url": "glen-breton-rare-19-year-single-malt.html",
+        "reason": "Mature non-Ice family alternative with matched independent reviews."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Evidence-limited conditional guidance."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://glenbreton.com/product/ice-18-year-old-single-malt-whisky/",
+        "image_url": "https://glenbreton.com/wp-content/uploads/2026/09/glen-breton-ice-18-year-old-single-malt-whisky-bottle-and-box-front-600x600.webp",
+        "scope": "Glen Breton Ice 18 Year, 43% ABV / 86 proof, 750 mL; current producer bottle and box explicitly identify eighteen years and ice-wine-barrel treatment.",
+        "sha256": "e51ef066128d40afab213d1eff540293ddda66c918a459fde2722304f6b1fa80",
+        "image_embedded": true,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Glen Breton Ice 18 Year, 43% ABV / 86 proof, 750 mL; current producer bottle and box explicitly identify eighteen years and ice-wine-barrel treatment.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-023",
+    "editorial": {
+      "id": "glen-breton-ice-18-year-single-malt",
+      "category": "Canadian Single Malt",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+      "proof": 86,
+      "age": 18,
+      "age_display": "18 Years",
+      "release_year": null,
+      "grain": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "production": "The producer describes eighteen-year single malt transferred to an oak vessel that previously held Nova Scotia Ortega ice wine, then monitored for a four-month finish. The winery is not named in this exact account. That stage is not nineteen years, an added eighteen-year finish or a numerical age of 18.33 years.",
+      "finish": "Producer-documented four months in a former Nova Scotia Ortega ice-wine barrel after initial maturation; exact winery and preceding cask schedule remain unverified.",
+      "sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://glenbreton.com/product/ice-18-year-old-single-malt-whisky/",
+          "role": "Exact label, age, strength and photograph scope."
+        }
+      ],
+      "reviews": [],
+      "quality": null,
+      "value": null,
+      "quality_confidence": "Unscored pending matched independent tasting evidence",
+      "calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+      "evidence_limit": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor.",
+      "community": "No representative crowd consensus is claimed. Producer-hosted destination reviews and ratings without sensory text are not used to score an expression.",
+      "availability": "Prices checked October 15, 2026; tax, delivery and location eligibility can change the final cost. An offer is not proof of stock or an unchanged recipe.",
+      "image_source": "https://glenbreton.com/product/ice-18-year-old-single-malt-whisky/",
+      "image_url": "https://glenbreton.com/wp-content/uploads/2026/09/glen-breton-ice-18-year-old-single-malt-whisky-bottle-and-box-front-600x600.webp",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No defensible numeric U.S. threshold for this exact identity; obtain a matched offer and taste before committing.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Evidence-limited conditional guidance."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Glen Breton Ice 10 Year — 57.2% scope",
+          "url": "glen-breton-ice-10-year-single-malt.html",
+          "reason": "Related ice-wine concept, different age and strength; sensory results cannot be inherited."
+        },
+        {
+          "name": "Glen Breton Rare 19 Year",
+          "url": "glen-breton-rare-19-year-single-malt.html",
+          "reason": "Mature non-Ice family alternative with matched independent reviews."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+        }
+      ],
+      "identity": "Glen Breton Ice 18 Year, 43% ABV / 86 proof, 750 mL; current producer bottle and box explicitly identify eighteen years and ice-wine-barrel treatment.",
+      "short_version": "An authenticated eighteen-year Canadian single malt with an Ortega ice-wine finish, but insufficient matched independent tasting evidence for Quality or Value.",
+      "history": [
+        "This exact eighteen-year expression is documented in the 2026 producer catalogue; a displayed verified-owner star rating is dated June 4, 2026. Neither the site’s September image upload nor recent indexing establishes a first release date.",
+        "It is distinct from the ten-year Ice versions and from Alexander Keith’s eighteen-year release. Related-bottle tasting notes and producer-hosted general reviews are not transferred."
+      ],
+      "quality_rationale": "N/A: exact identity is established, but no substantive matched independent sensory account was authenticated after targeted two-engine research.",
+      "na_reason": "Producer tasting text and a star-only owner rating do not supply substantive independent tasting evidence.",
+      "value_rationale": "N/A: there is no defensible sensory basis or exact U.S. price reference. The authenticated producer Canadian offer remains CAD.",
+      "pricing": {
+        "amount": 201.75,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://glenbreton.com/product/ice-18-year-old-single-malt-whisky/",
+        "basis": "Canadian producer-store offer, GBIce18; not USD or NC pricing"
+      }
+    }
+  },
+  {
+    "slug": "glen-breton-rare-10-year-single-malt",
+    "filename": "glen-breton-rare-10-year-single-malt.html",
+    "name": "Glen Breton Rare 10 Year Single Malt",
+    "family": "Glen Breton",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "100% malted barley; one-distillery malt identity",
+    "mash_bill_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+    "quality": 5.8,
+    "quality_score": 5.8,
+    "value": 4.0,
+    "value_score": 4.0,
+    "overall": 4.8166378315169185,
+    "overall_score": 4.8166378315169185,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor.",
+      "universal_dimensions": {
+        "integration": 5.8,
+        "flavor_development": 6.0,
+        "finish": 5.5,
+        "technical_cleanliness": 5.5,
+        "texture": 6.2,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 6.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.8,
+      "editorial_adjustment": 0.0,
+      "adjustment_reason": "Good-edge provisional Canadian malt: engaging grain and fruit with useful texture, offset by documented dry heat, wood balance concerns and limited enthusiasm from part of the group."
+    },
+    "quality_calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+    "quality_rationale": "Good-edge provisional Canadian malt: engaging grain and fruit with useful texture, offset by documented dry heat, wood balance concerns and limited enthusiasm from part of the group.",
+    "quality_confidence": "Provisional; matched historical samples with contrary sensory evidence retained",
+    "quality_na_reason": null,
+    "value_rationale": "At the exact current USD 119.99 offer, mixed execution makes this a conditional exploration purchase. The same store’s fourteen-year is USD 151.99, while nineteen-year is USD 254.99; age and regional novelty receive no automatic Value bonus.",
+    "value_confidence": "Provisional; exact dated USD offer and family comparisons, with limited current-batch evidence",
+    "value_na_reason": null,
+    "price": 119.99,
+    "price_basis": "Exact producer U.S. store consumer offer; Product/Offer structured data explicitly USD, tax and delivery extra",
+    "price_url": "https://usa.glenbreton.com/products/10-year-old-glen-breton-rare-single-malt-whisky",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 119.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Alternate U.S. producer-store context; no exact current NC price authenticated.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Glen Breton Rare 10 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+    "availability_note": "Prices checked October 15, 2026; tax, delivery and location eligibility can change the final cost. An offer is not proof of stock or an unchanged recipe.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.scotchology.com/foreign/glen-breton-rare-10-year",
+      "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/"
+    ],
+    "review_publishers": [
+      "Scotchology",
+      "Whisky According to Chris Whiskyman"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Adam, Kate, Meghan and Henry",
+        "publisher": "Scotchology",
+        "url": "https://www.scotchology.com/foreign/glen-breton-rare-10-year",
+        "summary": "Adam and Kate value the lively malt and fruit; Meghan is unmoved, and Henry finds the development confused with an excessively hot, dry wood-led ending. The group’s disagreement is retained rather than flattened into unanimous praise.",
+        "scope": "July 23, 2015, exact Rare 10 / 43%; one group tasting with four distinct voices."
+      },
+      {
+        "reviewer": "Chris Goodrum",
+        "publisher": "Whisky According to Chris Whiskyman",
+        "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+        "summary": "Goodrum finds a malt-led, earthy profile with more energy on the palate than the aroma and useful persistence. Rye-like spice describes flavour, not a rye recipe.",
+        "scope": "November 2016 tasting of ten-year / 43%, separate from the page’s Ice 10."
+      }
+    ],
+    "source_urls": [
+      "https://glenbreton.com/frequently-asked-questions/",
+      "https://usa.glenbreton.com/products/10-year-old-glen-breton-rare-single-malt-whisky",
+      "https://www.scotchology.com/foreign/glen-breton-rare-10-year",
+      "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/"
+    ],
+    "production_summary": "Producer confirms 10 years at 43% ABV in an age-bearing Canadian single malt from Glenora. Oak maturation is documented. Scotchology identifies American oak for its 2015 ten-year sample; an exact present-day cask schedule is not inferred. No separate secondary finish was established.",
+    "finishing_information": "Oak maturation; no separate secondary finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "The 10-year age identifies maturation, not a vintage or first release year. Historical independent samples are distinguished from the current 2026 pack and offer.",
+      "The official U.S. Product/Offer record confirms the stated 750 mL USD price. Awards and age do not by themselves establish Quality or drinking Value."
+    ],
+    "comparables": [
+      {
+        "name": "Glen Breton Rare 14 Year",
+        "url": "glen-breton-rare-14-year-single-malt.html",
+        "reason": "Same-category U.S. family alternative at USD 151.99; its evidence is more favorable in some accounts but also divided."
+      },
+      {
+        "name": "Glen Breton Rare 19 Year",
+        "url": "glen-breton-rare-19-year-single-malt.html",
+        "reason": "Much larger U.S. premium at USD 254.99 without an equally secure sensory improvement."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 50,
+        "current_band": false,
+        "reason": "A substantial discount would justify exploring the exact Canadian malt despite sample variation.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 50,
+        "maximum_exclusive": 75,
+        "current_band": false,
+        "reason": "An accessible exploration budget relative to the family’s authenticated U.S. offers.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 75,
+        "maximum_exclusive": 110,
+        "current_band": false,
+        "reason": "Reasonable only if the documented style suits your taste; these are editorial budgets, not observed offers.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 110,
+        "maximum_exclusive": 150,
+        "current_band": true,
+        "reason": "Taste first: the historical review disagreement weakens the case for a premium.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 150,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a less expensive family malt for drinking unless you specifically prize this expression.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://usa.glenbreton.com/products/10-year-old-glen-breton-rare-single-malt-whisky",
+        "image_url": "https://usa.glenbreton.com/cdn/shop/files/Rare10_01_transparent.png?width=700",
+        "scope": "Glen Breton Rare 10 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+        "sha256": "9b0308f04e5866a18c6aedbd6831522cfb4e0e645a148c18b5e01dbebd47af36",
+        "image_embedded": true,
+        "width": 700,
+        "height": 700
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Glen Breton Rare 10 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-023",
+    "editorial": {
+      "id": "glen-breton-rare-10-year-single-malt",
+      "category": "Canadian Single Malt",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+      "proof": 86,
+      "age": 10,
+      "age_display": "10 Years",
+      "release_year": null,
+      "grain": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "production": "Producer confirms 10 years at 43% ABV in an age-bearing Canadian single malt from Glenora. Oak maturation is documented. Scotchology identifies American oak for its 2015 ten-year sample; an exact present-day cask schedule is not inferred. No separate secondary finish was established.",
+      "finish": "Oak maturation; no separate secondary finish authenticated.",
+      "sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://usa.glenbreton.com/products/10-year-old-glen-breton-rare-single-malt-whisky",
+          "role": "Exact label, age, strength and photograph scope."
+        },
+        {
+          "title": "Scotchology — matched tasting",
+          "url": "https://www.scotchology.com/foreign/glen-breton-rare-10-year",
+          "role": "July 23, 2015, exact Rare 10 / 43%; one group tasting with four distinct voices."
+        },
+        {
+          "title": "Whisky According to Chris Whiskyman — matched tasting",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "role": "November 2016 tasting of ten-year / 43%, separate from the page’s Ice 10."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Adam, Kate, Meghan and Henry",
+          "publisher": "Scotchology",
+          "url": "https://www.scotchology.com/foreign/glen-breton-rare-10-year",
+          "summary": "Adam and Kate value the lively malt and fruit; Meghan is unmoved, and Henry finds the development confused with an excessively hot, dry wood-led ending. The group’s disagreement is retained rather than flattened into unanimous praise.",
+          "scope": "July 23, 2015, exact Rare 10 / 43%; one group tasting with four distinct voices."
+        },
+        {
+          "reviewer": "Chris Goodrum",
+          "publisher": "Whisky According to Chris Whiskyman",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "summary": "Goodrum finds a malt-led, earthy profile with more energy on the palate than the aroma and useful persistence. Rye-like spice describes flavour, not a rye recipe.",
+          "scope": "November 2016 tasting of ten-year / 43%, separate from the page’s Ice 10."
+        }
+      ],
+      "quality": 5.8,
+      "value": 4.0,
+      "quality_confidence": "Provisional; matched historical samples with contrary sensory evidence retained",
+      "calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+      "evidence_limit": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor.",
+      "community": "No representative crowd consensus is claimed. Producer-hosted destination reviews and ratings without sensory text are not used to score an expression.",
+      "availability": "Prices checked October 15, 2026; tax, delivery and location eligibility can change the final cost. An offer is not proof of stock or an unchanged recipe.",
+      "image_source": "https://usa.glenbreton.com/products/10-year-old-glen-breton-rare-single-malt-whisky",
+      "image_url": "https://usa.glenbreton.com/cdn/shop/files/Rare10_01_transparent.png?width=700",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 50,
+          "current_band": false,
+          "reason": "A substantial discount would justify exploring the exact Canadian malt despite sample variation.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 50,
+          "maximum_exclusive": 75,
+          "current_band": false,
+          "reason": "An accessible exploration budget relative to the family’s authenticated U.S. offers.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 75,
+          "maximum_exclusive": 110,
+          "current_band": false,
+          "reason": "Reasonable only if the documented style suits your taste; these are editorial budgets, not observed offers.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 110,
+          "maximum_exclusive": 150,
+          "current_band": true,
+          "reason": "Taste first: the historical review disagreement weakens the case for a premium.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 150,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a less expensive family malt for drinking unless you specifically prize this expression.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Glen Breton Rare 14 Year",
+          "url": "glen-breton-rare-14-year-single-malt.html",
+          "reason": "Same-category U.S. family alternative at USD 151.99; its evidence is more favorable in some accounts but also divided."
+        },
+        {
+          "name": "Glen Breton Rare 19 Year",
+          "url": "glen-breton-rare-19-year-single-malt.html",
+          "reason": "Much larger U.S. premium at USD 254.99 without an equally secure sensory improvement."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+        }
+      ],
+      "identity": "Glen Breton Rare 10 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+      "dimensions": [
+        5.8,
+        6.0,
+        5.5,
+        5.5,
+        6.2,
+        5.8,
+        6.0
+      ],
+      "pricing": {
+        "amount": 119.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://usa.glenbreton.com/products/10-year-old-glen-breton-rare-single-malt-whisky",
+        "basis": "Exact producer U.S. store consumer offer; Product/Offer structured data explicitly USD, tax and delivery extra",
+        "nc_status": "Alternate U.S. producer-store context; no exact current NC price authenticated."
+      },
+      "value_confidence": "Provisional; exact dated USD offer and family comparisons, with limited current-batch evidence",
+      "history": [
+        "The 10-year age identifies maturation, not a vintage or first release year. Historical independent samples are distinguished from the current 2026 pack and offer.",
+        "The official U.S. Product/Offer record confirms the stated 750 mL USD price. Awards and age do not by themselves establish Quality or drinking Value."
+      ],
+      "short_version": "A distinctive malty, fruit-led Canadian single malt with divided group reactions: some find engaging grain character, while others find the hot, dry ending less convincing.",
+      "quality_rationale": "Good-edge provisional Canadian malt: engaging grain and fruit with useful texture, offset by documented dry heat, wood balance concerns and limited enthusiasm from part of the group.",
+      "value_rationale": "At the exact current USD 119.99 offer, mixed execution makes this a conditional exploration purchase. The same store’s fourteen-year is USD 151.99, while nineteen-year is USD 254.99; age and regional novelty receive no automatic Value bonus."
+    }
+  },
+  {
+    "slug": "glen-breton-rare-14-year-single-malt",
+    "filename": "glen-breton-rare-14-year-single-malt.html",
+    "name": "Glen Breton Rare 14 Year Single Malt",
+    "family": "Glen Breton",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "14 Years",
+    "age_display": "14 Years",
+    "age_sort_years": 14,
+    "mash_bill_display": "100% malted barley; one-distillery malt identity",
+    "mash_bill_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+    "quality": 6.0,
+    "quality_score": 6.0,
+    "value": 3.6,
+    "value_score": 3.6,
+    "overall": 4.6475800154489,
+    "overall_score": 4.6475800154489,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor.",
+      "universal_dimensions": {
+        "integration": 6.0,
+        "flavor_development": 6.3,
+        "finish": 5.2,
+        "technical_cleanliness": 5.6,
+        "texture": 6.1,
+        "maturity_wood_management": 6.1,
+        "distinctiveness": 6.1
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.905,
+      "editorial_adjustment": 0.095,
+      "adjustment_reason": "Good provisional Canadian malt execution: panel and specialist support is credible, but limited finish depth and a sharply contrary perfume/soap response reduce confidence and prevent an excellent consensus claim."
+    },
+    "quality_calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+    "quality_rationale": "Good provisional Canadian malt execution: panel and specialist support is credible, but limited finish depth and a sharply contrary perfume/soap response reduce confidence and prevent an excellent consensus claim.",
+    "quality_confidence": "Provisional; matched historical samples with contrary sensory evidence retained",
+    "quality_na_reason": null,
+    "value_rationale": "At USD 151.99 / 750 mL, the favorable evidence supports interest but the divided execution makes the premium difficult to endorse broadly. The authenticated ten-year offer at USD 119.99 is the lower-budget same-category family option; a nineteen-year premium is not required to explore the style.",
+    "value_confidence": "Provisional; exact dated USD offer and family comparisons, with limited current-batch evidence",
+    "value_na_reason": null,
+    "price": 151.99,
+    "price_basis": "Exact producer U.S. store consumer offer; Product/Offer structured data explicitly USD, tax and delivery extra",
+    "price_url": "https://usa.glenbreton.com/products/14-year-old-glen-breton-rare-single-malt-whisky",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 151.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Alternate U.S. producer-store context; no exact current NC price authenticated.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Glen Breton Rare 14 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+    "availability_note": "Prices checked October 15, 2026; tax, delivery and location eligibility can change the final cost. An offer is not proof of stock or an unchanged recipe.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.tastings.com/Spirits-Review/Glen-Breton-14-Year-Old-Canadian-Single-Malt-Whisky-Canada-86-Proof-07-01-2024.aspx",
+      "https://torontowhiskysociety.ca/2017/12/19/glenora-distillery-multi-review/",
+      "https://whiskylassie.blogspot.com/2015/07/glen-breton-14-lucky-number-7-perhaps.html"
+    ],
+    "review_publishers": [
+      "Tastings",
+      "Toronto Whisky Society",
+      "Whisky Lassie"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Spirits-Review/Glen-Breton-14-Year-Old-Canadian-Single-Malt-Whisky-Canada-86-Proof-07-01-2024.aspx",
+        "summary": "The panel finds an animated, grain-led whisky with a pleasant dry texture and refreshing medium ending. Its description remains youthful rather than treating fourteen years as proof of deep maturity.",
+        "scope": "Tasted June 18, 2024, exact 43% fourteen-year; panel grade is not mechanically converted."
+      },
+      {
+        "reviewer": "Bryan Vanderkruk",
+        "publisher": "Toronto Whisky Society",
+        "url": "https://torontowhiskysociety.ca/2017/12/19/glenora-distillery-multi-review/",
+        "summary": "Vanderkruk praises the delicate but coherent interplay of malt and wood, with creamy texture. His listed short ending remains a limitation alongside the favorable conclusion.",
+        "scope": "December 19, 2017, exact Rare 14 / 43%; adjacent 40% Ice review is excluded."
+      },
+      {
+        "reviewer": "Johanne McInnis",
+        "publisher": "Whisky Lassie",
+        "url": "https://whiskylassie.blogspot.com/2015/07/glen-breton-14-lucky-number-7-perhaps.html",
+        "summary": "McInnis experiences an intensely unpleasant perfume/soap character on repeated attempts. She also reports that other tasters did not share that perception, so it is preserved as a serious personal response rather than a universal contamination claim.",
+        "scope": "July 2015, exact fourteen-year experience; contrary reactions are explicit."
+      }
+    ],
+    "source_urls": [
+      "https://glenbreton.com/frequently-asked-questions/",
+      "https://usa.glenbreton.com/products/14-year-old-glen-breton-rare-single-malt-whisky",
+      "https://www.tastings.com/Spirits-Review/Glen-Breton-14-Year-Old-Canadian-Single-Malt-Whisky-Canada-86-Proof-07-01-2024.aspx",
+      "https://torontowhiskysociety.ca/2017/12/19/glenora-distillery-multi-review/",
+      "https://whiskylassie.blogspot.com/2015/07/glen-breton-14-lucky-number-7-perhaps.html"
+    ],
+    "production_summary": "Producer confirms 14 years at 43% ABV in an age-bearing Canadian single malt from Glenora. Oak maturation is documented. The exact American-oak source, previous-fill mix and cask schedule were not authenticated for this fourteen-year bottle. No separate secondary finish was established.",
+    "finishing_information": "Oak maturation; no separate secondary finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "The 14-year age identifies maturation, not a vintage or first release year. Historical independent samples are distinguished from the current 2026 pack and offer.",
+      "The official U.S. Product/Offer record confirms the stated 750 mL USD price. Awards and age do not by themselves establish Quality or drinking Value."
+    ],
+    "comparables": [
+      {
+        "name": "Glen Breton Rare 10 Year",
+        "url": "glen-breton-rare-10-year-single-malt.html",
+        "reason": "Lower U.S. family offer at USD 119.99 provides the practical entry comparison."
+      },
+      {
+        "name": "Glen Breton Rare 19 Year",
+        "url": "glen-breton-rare-19-year-single-malt.html",
+        "reason": "USD 254.99 mature family alternative; extra age does not guarantee better execution."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 60,
+        "current_band": false,
+        "reason": "A substantial discount would justify exploring the exact Canadian malt despite sample variation.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 60,
+        "maximum_exclusive": 90,
+        "current_band": false,
+        "reason": "An accessible exploration budget relative to the family’s authenticated U.S. offers.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 90,
+        "maximum_exclusive": 130,
+        "current_band": false,
+        "reason": "Reasonable only if the documented style suits your taste; these are editorial budgets, not observed offers.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 130,
+        "maximum_exclusive": 180,
+        "current_band": true,
+        "reason": "Taste first: the historical review disagreement weakens the case for a premium.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 180,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a less expensive family malt for drinking unless you specifically prize this expression.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+      }
+    ],
+    "review_video_sources": [
+      {
+        "title": "Whisky.com — Glen Breton 14 years",
+        "url": "https://www.youtube.com/watch?v=gIXFwui5QsY",
+        "scope": "Matched further viewing; publicly supplied description inspected, complete video not used as an additional scored tasting."
+      }
+    ],
+    "image_credits": [
+      {
+        "source_url": "https://usa.glenbreton.com/products/14-year-old-glen-breton-rare-single-malt-whisky",
+        "image_url": "https://usa.glenbreton.com/cdn/shop/files/Rare14_01_transparent.png?width=700",
+        "scope": "Glen Breton Rare 14 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+        "sha256": "79b7fdd7d4d31c4ce87ef66b6f1d71f9a33e25df21bd2562dea2a2565392547a",
+        "image_embedded": true,
+        "width": 700,
+        "height": 700
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Glen Breton Rare 14 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-023",
+    "editorial": {
+      "id": "glen-breton-rare-14-year-single-malt",
+      "category": "Canadian Single Malt",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+      "proof": 86,
+      "age": 14,
+      "age_display": "14 Years",
+      "release_year": null,
+      "grain": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "production": "Producer confirms 14 years at 43% ABV in an age-bearing Canadian single malt from Glenora. Oak maturation is documented. The exact American-oak source, previous-fill mix and cask schedule were not authenticated for this fourteen-year bottle. No separate secondary finish was established.",
+      "finish": "Oak maturation; no separate secondary finish authenticated.",
+      "sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://usa.glenbreton.com/products/14-year-old-glen-breton-rare-single-malt-whisky",
+          "role": "Exact label, age, strength and photograph scope."
+        },
+        {
+          "title": "Tastings — matched tasting",
+          "url": "https://www.tastings.com/Spirits-Review/Glen-Breton-14-Year-Old-Canadian-Single-Malt-Whisky-Canada-86-Proof-07-01-2024.aspx",
+          "role": "Tasted June 18, 2024, exact 43% fourteen-year; panel grade is not mechanically converted."
+        },
+        {
+          "title": "Toronto Whisky Society — matched tasting",
+          "url": "https://torontowhiskysociety.ca/2017/12/19/glenora-distillery-multi-review/",
+          "role": "December 19, 2017, exact Rare 14 / 43%; adjacent 40% Ice review is excluded."
+        },
+        {
+          "title": "Whisky Lassie — matched tasting",
+          "url": "https://whiskylassie.blogspot.com/2015/07/glen-breton-14-lucky-number-7-perhaps.html",
+          "role": "July 2015, exact fourteen-year experience; contrary reactions are explicit."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Glen-Breton-14-Year-Old-Canadian-Single-Malt-Whisky-Canada-86-Proof-07-01-2024.aspx",
+          "summary": "The panel finds an animated, grain-led whisky with a pleasant dry texture and refreshing medium ending. Its description remains youthful rather than treating fourteen years as proof of deep maturity.",
+          "scope": "Tasted June 18, 2024, exact 43% fourteen-year; panel grade is not mechanically converted."
+        },
+        {
+          "reviewer": "Bryan Vanderkruk",
+          "publisher": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2017/12/19/glenora-distillery-multi-review/",
+          "summary": "Vanderkruk praises the delicate but coherent interplay of malt and wood, with creamy texture. His listed short ending remains a limitation alongside the favorable conclusion.",
+          "scope": "December 19, 2017, exact Rare 14 / 43%; adjacent 40% Ice review is excluded."
+        },
+        {
+          "reviewer": "Johanne McInnis",
+          "publisher": "Whisky Lassie",
+          "url": "https://whiskylassie.blogspot.com/2015/07/glen-breton-14-lucky-number-7-perhaps.html",
+          "summary": "McInnis experiences an intensely unpleasant perfume/soap character on repeated attempts. She also reports that other tasters did not share that perception, so it is preserved as a serious personal response rather than a universal contamination claim.",
+          "scope": "July 2015, exact fourteen-year experience; contrary reactions are explicit."
+        }
+      ],
+      "quality": 6.0,
+      "value": 3.6,
+      "quality_confidence": "Provisional; matched historical samples with contrary sensory evidence retained",
+      "calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+      "evidence_limit": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor.",
+      "community": "No representative crowd consensus is claimed. Producer-hosted destination reviews and ratings without sensory text are not used to score an expression.",
+      "availability": "Prices checked October 15, 2026; tax, delivery and location eligibility can change the final cost. An offer is not proof of stock or an unchanged recipe.",
+      "image_source": "https://usa.glenbreton.com/products/14-year-old-glen-breton-rare-single-malt-whisky",
+      "image_url": "https://usa.glenbreton.com/cdn/shop/files/Rare14_01_transparent.png?width=700",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 60,
+          "current_band": false,
+          "reason": "A substantial discount would justify exploring the exact Canadian malt despite sample variation.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 60,
+          "maximum_exclusive": 90,
+          "current_band": false,
+          "reason": "An accessible exploration budget relative to the family’s authenticated U.S. offers.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 90,
+          "maximum_exclusive": 130,
+          "current_band": false,
+          "reason": "Reasonable only if the documented style suits your taste; these are editorial budgets, not observed offers.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 130,
+          "maximum_exclusive": 180,
+          "current_band": true,
+          "reason": "Taste first: the historical review disagreement weakens the case for a premium.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 180,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a less expensive family malt for drinking unless you specifically prize this expression.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Glen Breton Rare 10 Year",
+          "url": "glen-breton-rare-10-year-single-malt.html",
+          "reason": "Lower U.S. family offer at USD 119.99 provides the practical entry comparison."
+        },
+        {
+          "name": "Glen Breton Rare 19 Year",
+          "url": "glen-breton-rare-19-year-single-malt.html",
+          "reason": "USD 254.99 mature family alternative; extra age does not guarantee better execution."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+        }
+      ],
+      "identity": "Glen Breton Rare 14 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+      "dimensions": [
+        6.0,
+        6.3,
+        5.2,
+        5.6,
+        6.1,
+        6.1,
+        6.1
+      ],
+      "pricing": {
+        "amount": 151.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://usa.glenbreton.com/products/14-year-old-glen-breton-rare-single-malt-whisky",
+        "basis": "Exact producer U.S. store consumer offer; Product/Offer structured data explicitly USD, tax and delivery extra",
+        "nc_status": "Alternate U.S. producer-store context; no exact current NC price authenticated."
+      },
+      "value_confidence": "Provisional; exact dated USD offer and family comparisons, with limited current-batch evidence",
+      "history": [
+        "The 14-year age identifies maturation, not a vintage or first release year. Historical independent samples are distinguished from the current 2026 pack and offer.",
+        "The official U.S. Product/Offer record confirms the stated 750 mL USD price. Awards and age do not by themselves establish Quality or drinking Value."
+      ],
+      "short_version": "The fourteen-year has credible positive panel and specialist evidence, but an important personal soap/perfume response and some short-finish criticism remain part of the buying decision.",
+      "quality_rationale": "Good provisional Canadian malt execution: panel and specialist support is credible, but limited finish depth and a sharply contrary perfume/soap response reduce confidence and prevent an excellent consensus claim.",
+      "value_rationale": "At USD 151.99 / 750 mL, the favorable evidence supports interest but the divided execution makes the premium difficult to endorse broadly. The authenticated ten-year offer at USD 119.99 is the lower-budget same-category family option; a nineteen-year premium is not required to explore the style.",
+      "videos": [
+        {
+          "title": "Whisky.com — Glen Breton 14 years",
+          "url": "https://www.youtube.com/watch?v=gIXFwui5QsY",
+          "scope": "Matched further viewing; publicly supplied description inspected, complete video not used as an additional scored tasting."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "glen-breton-rare-19-year-single-malt",
+    "filename": "glen-breton-rare-19-year-single-malt.html",
+    "name": "Glen Breton Rare 19 Year Single Malt",
+    "family": "Glen Breton",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+    "proof": 86,
+    "abv": 43.0,
+    "age": "19 Years",
+    "age_display": "19 Years",
+    "age_sort_years": 19,
+    "mash_bill_display": "100% malted barley; one-distillery malt identity",
+    "mash_bill_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+    "quality": 5.8,
+    "quality_score": 5.8,
+    "value": 2.7,
+    "value_score": 2.7,
+    "overall": 3.9572717874818757,
+    "overall_score": 3.9572717874818757,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor.",
+      "universal_dimensions": {
+        "integration": 5.7,
+        "flavor_development": 5.8,
+        "finish": 5.2,
+        "technical_cleanliness": 6.7,
+        "texture": 5.8,
+        "maturity_wood_management": 5.4,
+        "distinctiveness": 5.7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.775,
+      "editorial_adjustment": 0.025,
+      "adjustment_reason": "Good-edge provisional Canadian malt, with freshness and cleanliness supported but recurring muted-development or finish reservations. Nineteen years is not an automatic improvement over the younger family."
+    },
+    "quality_calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+    "quality_rationale": "Good-edge provisional Canadian malt, with freshness and cleanliness supported but recurring muted-development or finish reservations. Nineteen years is not an automatic improvement over the younger family.",
+    "quality_confidence": "Provisional; matched historical samples with contrary sensory evidence retained",
+    "quality_na_reason": null,
+    "value_rationale": "The dated USD 254.99 offer is difficult drinking Value with only modest and divided execution evidence. Exact same-store Canadian single-malt alternatives cost USD 119.99 and USD 151.99. The category page says sold out while the product detail/structured offer says in stock; availability is unresolved and scarcity adds no score.",
+    "value_confidence": "Provisional; exact dated USD offer and family comparisons, with limited current-batch evidence",
+    "value_na_reason": null,
+    "price": 254.99,
+    "price_basis": "Exact producer U.S. store consumer offer; Product/Offer structured data explicitly USD, tax and delivery extra",
+    "price_url": "https://usa.glenbreton.com/products/19-year-old-glen-breton-rare-single-malt-whisky",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 254.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Alternate U.S. producer-store context; no exact current NC price authenticated.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Glen Breton Rare 19 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+    "availability_note": "October 15, 2026 U.S. catalogue price is consistent at USD 254.99, but category sold-out text conflicts with product-detail/structured InStock. Confirm availability and final delivered price; no stock guarantee is made.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskymag.com/tastings/glen-breton-rare-19-years-old-single-malt-whisky/",
+      "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+      "https://worldwhiskiesawards.com/winner-whisky/silver-49241-world-whiskies-awards-2024"
+    ],
+    "review_publishers": [
+      "Whisky Magazine",
+      "Whisky According to Chris Whiskyman",
+      "World Whiskies Awards"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Alwynne",
+        "publisher": "Whisky Magazine",
+        "url": "https://whiskymag.com/tastings/glen-breton-rare-19-years-old-single-malt-whisky/",
+        "summary": "The visible account values refinement and a lively mix of sweet and fresh flavours, but wants more force at 43%. This favorable sample is retained beside less enthusiastic findings.",
+        "scope": "Exact 43% nineteen-year; record identifies a 2015 bottling. Unopened second tab is not invented."
+      },
+      {
+        "reviewer": "Chris Goodrum",
+        "publisher": "Whisky According to Chris Whiskyman",
+        "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+        "summary": "Goodrum finds the sample clean but dulled by prominent oiliness, with an understated aroma. Good persistence does not resolve his overall lack of interest.",
+        "scope": "April 2015 exact nineteen-year / 43%; same reviewer’s other expressions remain separately scoped."
+      },
+      {
+        "reviewer": "World Whiskies Awards panel",
+        "publisher": "World Whiskies Awards",
+        "url": "https://worldwhiskiesawards.com/winner-whisky/silver-49241-world-whiskies-awards-2024",
+        "summary": "The published panel note is restrained: weak aromatic projection and a light, brief ending around an earthy malt core. The sensory note is used; the medal alone is not a Quality anchor.",
+        "scope": "2024, exact Rare 19 / 43% panel record."
+      }
+    ],
+    "source_urls": [
+      "https://glenbreton.com/frequently-asked-questions/",
+      "https://usa.glenbreton.com/products/19-year-old-glen-breton-rare-single-malt-whisky",
+      "https://whiskymag.com/tastings/glen-breton-rare-19-years-old-single-malt-whisky/",
+      "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+      "https://worldwhiskiesawards.com/winner-whisky/silver-49241-world-whiskies-awards-2024"
+    ],
+    "production_summary": "Producer confirms 19 years at 43% ABV in an age-bearing Canadian single malt from Glenora. The current nineteen-year description explicitly identifies selected American-oak casks. A smoke-like producer flavor note does not prove peated malt or a smoky finish. No separate secondary finish was established.",
+    "finishing_information": "Oak maturation; no separate secondary finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "The 19-year age identifies maturation, not a vintage or first release year. Historical independent samples are distinguished from the current 2026 pack and offer.",
+      "The official U.S. Product/Offer record confirms the stated 750 mL USD price. Awards and age do not by themselves establish Quality or drinking Value."
+    ],
+    "comparables": [
+      {
+        "name": "Glen Breton Rare 10 Year",
+        "url": "glen-breton-rare-10-year-single-malt.html",
+        "reason": "USD 119.99 family entry reduces the purchase budget substantially."
+      },
+      {
+        "name": "Glen Breton Rare 14 Year",
+        "url": "glen-breton-rare-14-year-single-malt.html",
+        "reason": "USD 151.99 family alternative with its own matched panel evidence."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 70,
+        "current_band": false,
+        "reason": "A substantial discount would justify exploring the exact Canadian malt despite sample variation.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 70,
+        "maximum_exclusive": 105,
+        "current_band": false,
+        "reason": "An accessible exploration budget relative to the family’s authenticated U.S. offers.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 105,
+        "maximum_exclusive": 155,
+        "current_band": false,
+        "reason": "Reasonable only if the documented style suits your taste; these are editorial budgets, not observed offers.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 155,
+        "maximum_exclusive": 230,
+        "current_band": false,
+        "reason": "Taste first: the historical review disagreement weakens the case for a premium.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 230,
+        "maximum_exclusive": null,
+        "current_band": true,
+        "reason": "Prefer a less expensive family malt for drinking unless you specifically prize this expression.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+      },
+      {
+        "name": "Old Fashioned / Manhattan",
+        "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://usa.glenbreton.com/products/19-year-old-glen-breton-rare-single-malt-whisky",
+        "image_url": "https://usa.glenbreton.com/cdn/shop/files/Rare19_01_transparent.png?width=700",
+        "scope": "Glen Breton Rare 19 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+        "sha256": "f1be3b5ee2e7dbf41274f31f18851bf7802b502612faf6921c199f0b9ee9ef99",
+        "image_embedded": true,
+        "width": 700,
+        "height": 700
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Glen Breton Rare 19 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-023",
+    "editorial": {
+      "id": "glen-breton-rare-19-year-single-malt",
+      "category": "Canadian Single Malt",
+      "producer": "Glenora Distillers International / Glenora Distillery, Cape Breton, Nova Scotia",
+      "proof": 86,
+      "age": 19,
+      "age_display": "19 Years",
+      "release_year": null,
+      "grain": "100% malted barley; one-distillery malt identity",
+      "grain_confidence": "Producer identifies malted barley and copper pot distillation; no rye grain inferred from a rye-like tasting note.",
+      "production": "Producer confirms 19 years at 43% ABV in an age-bearing Canadian single malt from Glenora. The current nineteen-year description explicitly identifies selected American-oak casks. A smoke-like producer flavor note does not prove peated malt or a smoky finish. No separate secondary finish was established.",
+      "finish": "Oak maturation; no separate secondary finish authenticated.",
+      "sources": [
+        {
+          "title": "Producer production FAQ",
+          "url": "https://glenbreton.com/frequently-asked-questions/",
+          "role": "One-distillery malted-barley identity and copper-pot production; not independent tasting evidence."
+        },
+        {
+          "title": "Exact producer / specialist expression record",
+          "url": "https://usa.glenbreton.com/products/19-year-old-glen-breton-rare-single-malt-whisky",
+          "role": "Exact label, age, strength and photograph scope."
+        },
+        {
+          "title": "Whisky Magazine — matched tasting",
+          "url": "https://whiskymag.com/tastings/glen-breton-rare-19-years-old-single-malt-whisky/",
+          "role": "Exact 43% nineteen-year; record identifies a 2015 bottling. Unopened second tab is not invented."
+        },
+        {
+          "title": "Whisky According to Chris Whiskyman — matched tasting",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "role": "April 2015 exact nineteen-year / 43%; same reviewer’s other expressions remain separately scoped."
+        },
+        {
+          "title": "World Whiskies Awards — matched tasting",
+          "url": "https://worldwhiskiesawards.com/winner-whisky/silver-49241-world-whiskies-awards-2024",
+          "role": "2024, exact Rare 19 / 43% panel record."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Alwynne",
+          "publisher": "Whisky Magazine",
+          "url": "https://whiskymag.com/tastings/glen-breton-rare-19-years-old-single-malt-whisky/",
+          "summary": "The visible account values refinement and a lively mix of sweet and fresh flavours, but wants more force at 43%. This favorable sample is retained beside less enthusiastic findings.",
+          "scope": "Exact 43% nineteen-year; record identifies a 2015 bottling. Unopened second tab is not invented."
+        },
+        {
+          "reviewer": "Chris Goodrum",
+          "publisher": "Whisky According to Chris Whiskyman",
+          "url": "https://chriswhiskyman.wordpress.com/2011/09/29/glenora-distillery-tasting-notes/",
+          "summary": "Goodrum finds the sample clean but dulled by prominent oiliness, with an understated aroma. Good persistence does not resolve his overall lack of interest.",
+          "scope": "April 2015 exact nineteen-year / 43%; same reviewer’s other expressions remain separately scoped."
+        },
+        {
+          "reviewer": "World Whiskies Awards panel",
+          "publisher": "World Whiskies Awards",
+          "url": "https://worldwhiskiesawards.com/winner-whisky/silver-49241-world-whiskies-awards-2024",
+          "summary": "The published panel note is restrained: weak aromatic projection and a light, brief ending around an earthy malt core. The sensory note is used; the medal alone is not a Quality anchor.",
+          "scope": "2024, exact Rare 19 / 43% panel record."
+        }
+      ],
+      "quality": 5.8,
+      "value": 2.7,
+      "quality_confidence": "Provisional; matched historical samples with contrary sensory evidence retained",
+      "calibration_basis": "A complete native Canadian single-malt low/mid/high framework is not yet defensible. Numeric assessments use the established universal execution rubric within Canadian single malt; neither Scotch nor American whiskey endpoints are imported.",
+      "evidence_limit": "Editorial synthesis of inspected published samples, not a new tasting. Publisher grades are not converted mechanically. Review and photograph eras remain explicit; awards alone are not a sensory consensus or native anchor.",
+      "community": "No representative crowd consensus is claimed. Producer-hosted destination reviews and ratings without sensory text are not used to score an expression.",
+      "availability": "October 15, 2026 U.S. catalogue price is consistent at USD 254.99, but category sold-out text conflicts with product-detail/structured InStock. Confirm availability and final delivered price; no stock guarantee is made.",
+      "image_source": "https://usa.glenbreton.com/products/19-year-old-glen-breton-rare-single-malt-whisky",
+      "image_url": "https://usa.glenbreton.com/cdn/shop/files/Rare19_01_transparent.png?width=700",
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 70,
+          "current_band": false,
+          "reason": "A substantial discount would justify exploring the exact Canadian malt despite sample variation.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 70,
+          "maximum_exclusive": 105,
+          "current_band": false,
+          "reason": "An accessible exploration budget relative to the family’s authenticated U.S. offers.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 105,
+          "maximum_exclusive": 155,
+          "current_band": false,
+          "reason": "Reasonable only if the documented style suits your taste; these are editorial budgets, not observed offers.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 155,
+          "maximum_exclusive": 230,
+          "current_band": false,
+          "reason": "Taste first: the historical review disagreement weakens the case for a premium.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 230,
+          "maximum_exclusive": null,
+          "current_band": true,
+          "reason": "Prefer a less expensive family malt for drinking unless you specifically prize this expression.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial U.S. exploration budgets informed by exact family offers and sensory execution; not a formula or a claimed available discount."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Glen Breton Rare 10 Year",
+          "url": "glen-breton-rare-10-year-single-malt.html",
+          "reason": "USD 119.99 family entry reduces the purchase budget substantially."
+        },
+        {
+          "name": "Glen Breton Rare 14 Year",
+          "url": "glen-breton-rare-14-year-single-malt.html",
+          "reason": "USD 151.99 family alternative with its own matched panel evidence."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a small rested pour to assess malt character, texture and the ending."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add water a few drops at a time; sample reports show that dilution can expose wood or reduce body."
+        },
+        {
+          "name": "Old Fashioned / Manhattan",
+          "recommendation": "Use a small trial with restrained sweetness; these are editorial suggestions rather than proof of better value in cocktails."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Compare the final cost with a recurring Canadian malt; reserve expensive bottles for occasions when their specific character matters."
+        }
+      ],
+      "identity": "Glen Breton Rare 19 Year, 43% ABV / 86 proof, 750 mL; current producer U.S. offer and exact age-bearing photograph.",
+      "dimensions": [
+        5.7,
+        5.8,
+        5.2,
+        6.7,
+        5.8,
+        5.4,
+        5.7
+      ],
+      "pricing": {
+        "amount": 254.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://usa.glenbreton.com/products/19-year-old-glen-breton-rare-single-malt-whisky",
+        "basis": "Exact producer U.S. store consumer offer; Product/Offer structured data explicitly USD, tax and delivery extra",
+        "nc_status": "Alternate U.S. producer-store context; no exact current NC price authenticated."
+      },
+      "value_confidence": "Provisional; exact dated USD offer and family comparisons, with limited current-batch evidence",
+      "history": [
+        "The 19-year age identifies maturation, not a vintage or first release year. Historical independent samples are distinguished from the current 2026 pack and offer.",
+        "The official U.S. Product/Offer record confirms the stated 750 mL USD price. Awards and age do not by themselves establish Quality or drinking Value."
+      ],
+      "short_version": "A mature Canadian single malt whose extra age has mixed sensory returns: one reviewer finds refined fruit and freshness, while others find a muted nose, excessive oiliness or a short ending.",
+      "quality_rationale": "Good-edge provisional Canadian malt, with freshness and cleanliness supported but recurring muted-development or finish reservations. Nineteen years is not an automatic improvement over the younger family.",
+      "value_rationale": "The dated USD 254.99 offer is difficult drinking Value with only modest and divided execution evidence. Exact same-store Canadian single-malt alternatives cost USD 119.99 and USD 151.99. The category page says sold out while the product detail/structured offer says in stock; availability is unresolved and scarcity adds no score."
+    }
   }
 ]
