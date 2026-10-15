@@ -69928,5 +69928,3400 @@
       "image_source": "https://shop.jpwisers.com/products/lot-no-40-rye-explorations-no-4-olorosso-cask-strength",
       "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/Lot-40-No-4-Exploration-Olorosso_2a6ac04f-e20d-41f5-8a9a-ea62f7483b9c.png?v=1757699714"
     }
+  },
+  {
+    "slug": "pendleton-1910-rye-12-year",
+    "filename": "pendleton-1910-rye-12-year.html",
+    "name": "Pendleton 1910 Rye 12 Year",
+    "family": "Pendleton",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Undisclosed Canadian distillery/distilleries; Hood River Distillers, Oregon bottling/importing for Proximo Spirits (Becle)",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "12 Years",
+    "age_display": "12 Years",
+    "age_sort_years": 12,
+    "mash_bill_display": "100% rye, producer-confirmed; malted/unmalted breakdown and named Canadian source distillery undisclosed.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.7,
+    "quality_score": 6.7,
+    "value": 5.1,
+    "value_score": 5.1,
+    "overall": 5.845511098270193,
+    "overall_score": 5.845511098270193,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.9,
+        "flavor_development": 6.3,
+        "finish": 6.6,
+        "technical_cleanliness": 7.0,
+        "texture": 6.8,
+        "maturity_wood_management": 6.8,
+        "distinctiveness": 6.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.685,
+      "editorial_adjustment": 0.015,
+      "adjustment_reason": "Good provisional Canadian all-rye execution. Recent developed spice, silky texture and a medium-long ending support the assessment; the earlier muted, tea-led account restrains exceptional claims. American rye rubric text on the review site is not imported as Canadian calibration."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional Canadian all-rye execution. Recent developed spice, silky texture and a medium-long ending support the assessment; the earlier muted, tea-led account restrains exceptional claims. American rye rubric text on the review site is not imported as Canadian calibration.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "Fair-to-modest Value at the exact current USD 50 offer. It has useful age assurance and a gentle profile, but the accepted Lot No. 40 core offers stronger matched development at USD 39.99. Age, the 1910 name and embossed glass do not add drinking Value.",
+    "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping",
+    "value_na_reason": null,
+    "price": 50.0,
+    "price_basis": "Producer storefront U.S. retail-network offer USD 50.00 / 750 mL",
+    "price_url": "https://store.pendletonwhisky.com/products/pendleton-whisky-1910-rye",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 50,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2011,
+    "release_scope": "Pendleton 1910 Rye, twelve years, 100% Canadian rye, 40% ABV / 80 proof, 750 mL; excludes Pendleton 1910 ten-year American bourbon.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.tastings.com/Spirits-Review/Pendleton-1910-12-Year-Old-Canadian-Rye-Whiskey-Canada-08-04-2026.aspx",
+      "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/"
+    ],
+    "review_publishers": [
+      "Tastings",
+      "Drinkhacker"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Spirits-Review/Pendleton-1910-12-Year-Old-Canadian-Rye-Whiskey-Canada-08-04-2026.aspx",
+        "summary": "The current sample has developed toasted/spicy character, medium body and a warming, medium-long herb/vanilla ending.",
+        "scope": "Tasted July 28, 2026, exact twelve-year / 40%; grade not mechanically converted."
+      },
+      {
+        "reviewer": "Christopher Null",
+        "publisher": "Drinkhacker",
+        "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+        "summary": "The 2022 rye is pleasant but muted and relatively simple, centered on tea and restrained spice.",
+        "scope": "June 13, 2022, exact 1910 twelve-year section; sample-era difference explicit."
+      }
+    ],
+    "source_urls": [
+      "https://pendletonwhisky.com/whiskies/pendleton-1910-rye/",
+      "https://store.pendletonwhisky.com/products/pendleton-whisky-1910-rye",
+      "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+      "https://www.tastings.com/Spirits-Review/Pendleton-1910-12-Year-Old-Canadian-Rye-Whiskey-Canada-08-04-2026.aspx",
+      "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+      "https://www.shankennewsdaily.com/2011/07/19/1180/news-briefs-for-july-19-2011/"
+    ],
+    "production_summary": "Producer verifies distillation and at least twelve years of oak maturation in Canada, 40% and 750 mL. The named source distillery and complete cask history are not disclosed. Pendleton is imported and bottled in Hood River, Oregon for Proximo; Oregon dilution water does not change the Canadian distillation origin. No separate barrel finish is authenticated.",
+    "finishing_information": "Oak maturation; no separately documented secondary finish.",
+    "identity_note": null,
+    "history": [
+      "Launched in 2011 as the 1910 Rye extension, named for the rodeo’s 1910 beginning. The name is not a distillation vintage.",
+      "The separately marketed ten-year 1910 Bourbon is an American expression and is outside this dossier."
+    ],
+    "comparables": [
+      {
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "name": "Lot No. 40 core",
+        "reason": "A different Canadian all-rye with a dated USD 39.99 offer; age alone does not decide execution."
+      },
+      {
+        "url": "pendleton-midnight.html",
+        "name": "Pendleton Midnight",
+        "reason": "A Canadian blend with brandy-barrel influence, separate from all-rye calibration."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 30,
+        "current_band": false,
+        "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 30,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "A comfortable budget for this exact expression if its style appeals.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 40,
+        "maximum_exclusive": 45,
+        "current_band": false,
+        "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 45,
+        "maximum_exclusive": 55,
+        "current_band": true,
+        "reason": "The price premium needs a personal preference for this exact style; sample first.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 55,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://pendletonwhisky.com/whiskies/pendleton-1910-rye/",
+        "image_url": "https://store.pendletonwhisky.com/cdn/shop/products/pendleton-whisky-rye-1.jpg?v=1679335611",
+        "scope": "Pendleton 1910 Rye, twelve years, 100% Canadian rye, 40% ABV / 80 proof, 750 mL; excludes Pendleton 1910 ten-year American bourbon.",
+        "sha256": "e695a92f6bb6ba424264c73cc5361b1998200c6a71732b30db1f695ded8bc80c",
+        "image_embedded": true,
+        "width": 1600,
+        "height": 1600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Pendleton 1910 Rye, twelve years, 100% Canadian rye, 40% ABV / 80 proof, 750 mL; excludes Pendleton 1910 ten-year American bourbon.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-033",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 30,
+          "current_band": false,
+          "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 30,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "A comfortable budget for this exact expression if its style appeals.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 40,
+          "maximum_exclusive": 45,
+          "current_band": false,
+          "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 45,
+          "maximum_exclusive": 55,
+          "current_band": true,
+          "reason": "The price premium needs a personal preference for this exact style; sample first.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 55,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "Fair-to-modest Value at the exact current USD 50 offer. It has useful age assurance and a gentle profile, but the accepted Lot No. 40 core offers stronger matched development at USD 39.99. Age, the 1910 name and embossed glass do not add drinking Value.",
+      "id": "pendleton-1910-rye-12-year",
+      "producer": "Undisclosed Canadian distillery/distilleries; Hood River Distillers, Oregon bottling/importing for Proximo Spirits (Becle)",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 80,
+      "age": 12,
+      "age_display": "12 Years",
+      "release_year": 2011,
+      "quality": 6.7,
+      "value": 5.1,
+      "dimensions": [
+        6.9,
+        6.3,
+        6.6,
+        7.0,
+        6.8,
+        6.8,
+        6.0
+      ],
+      "identity": "Pendleton 1910 Rye, twelve years, 100% Canadian rye, 40% ABV / 80 proof, 750 mL; excludes Pendleton 1910 ten-year American bourbon.",
+      "short_version": "A gentle, mature all-rye with recent support for texture and balanced spice, qualified by an older account of muted development. Its age is not a Quality bonus.",
+      "grain": "100% rye, producer-confirmed; malted/unmalted breakdown and named Canadian source distillery undisclosed.",
+      "production": "Producer verifies distillation and at least twelve years of oak maturation in Canada, 40% and 750 mL. The named source distillery and complete cask history are not disclosed. Pendleton is imported and bottled in Hood River, Oregon for Proximo; Oregon dilution water does not change the Canadian distillation origin. No separate barrel finish is authenticated.",
+      "finish": "Oak maturation; no separately documented secondary finish.",
+      "history": [
+        "Launched in 2011 as the 1910 Rye extension, named for the rodeo’s 1910 beginning. The name is not a distillation vintage.",
+        "The separately marketed ten-year 1910 Bourbon is an American expression and is outside this dossier."
+      ],
+      "quality_rationale": "Good provisional Canadian all-rye execution. Recent developed spice, silky texture and a medium-long ending support the assessment; the earlier muted, tea-led account restrains exceptional claims. American rye rubric text on the review site is not imported as Canadian calibration.",
+      "pricing": {
+        "amount": 50,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-1910-rye",
+        "basis": "Producer storefront U.S. retail-network offer USD 50.00 / 750 mL",
+        "nc_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate."
+      },
+      "sources": [
+        {
+          "title": "Producer 1910 Rye specifications",
+          "url": "https://pendletonwhisky.com/whiskies/pendleton-1910-rye/",
+          "role": "Twelve-year / all-rye / Canada / 40% exact identity; distinct from ten-year bourbon."
+        },
+        {
+          "title": "Producer exact U.S. store",
+          "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-1910-rye",
+          "role": "USD 50 / 750 mL and exact pack; licensed third-party retail fulfillment."
+        },
+        {
+          "title": "Proximo ownership/importing record",
+          "url": "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+          "role": "Canadian whisky imported and bottled in Hood River for Proximo."
+        },
+        {
+          "title": "Tastings July 28, 2026",
+          "url": "https://www.tastings.com/Spirits-Review/Pendleton-1910-12-Year-Old-Canadian-Rye-Whiskey-Canada-08-04-2026.aspx",
+          "role": "Matched 40% sensory description; publisher grade and American rye boilerplate are not calibration endpoints."
+        },
+        {
+          "title": "Drinkhacker 2022 retrospective",
+          "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+          "role": "Only exact 1910 twelve-year section used here; neighboring Original and Midnight are separate expressions."
+        },
+        {
+          "title": "Contemporary 2011 release record",
+          "url": "https://www.shankennewsdaily.com/2011/07/19/1180/news-briefs-for-july-19-2011/",
+          "role": "September local introduction and October national roll-out announced in July 2011."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Pendleton-1910-12-Year-Old-Canadian-Rye-Whiskey-Canada-08-04-2026.aspx",
+          "summary": "The current sample has developed toasted/spicy character, medium body and a warming, medium-long herb/vanilla ending.",
+          "scope": "Tasted July 28, 2026, exact twelve-year / 40%; grade not mechanically converted."
+        },
+        {
+          "reviewer": "Christopher Null",
+          "publisher": "Drinkhacker",
+          "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+          "summary": "The 2022 rye is pleasant but muted and relatively simple, centered on tea and restrained spice.",
+          "scope": "June 13, 2022, exact 1910 twelve-year section; sample-era difference explicit."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "name": "Lot No. 40 core",
+          "reason": "A different Canadian all-rye with a dated USD 39.99 offer; age alone does not decide execution."
+        },
+        {
+          "url": "pendleton-midnight.html",
+          "name": "Pendleton Midnight",
+          "reason": "A Canadian blend with brandy-barrel influence, separate from all-rye calibration."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain / 100% Rye; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://pendletonwhisky.com/whiskies/pendleton-1910-rye/",
+      "image_url": "https://store.pendletonwhisky.com/cdn/shop/products/pendleton-whisky-rye-1.jpg?v=1679335611",
+      "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping"
+    }
+  },
+  {
+    "slug": "pendleton-directors-reserve-20-year",
+    "filename": "pendleton-directors-reserve-20-year.html",
+    "name": "Pendleton Directors Reserve 20 Year",
+    "family": "Pendleton",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Undisclosed Canadian distillery/distilleries; Hood River Distillers, Oregon bottling/importing for Proximo Spirits (Becle)",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "20 Years",
+    "age_display": "20 Years",
+    "age_sort_years": 20,
+    "mash_bill_display": "Canadian blended whisky; exact cereals, blend ratios and Canadian source distillery undisclosed.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 7.0,
+    "quality_score": 7.0,
+    "value": 3.4,
+    "value_score": 3.4,
+    "overall": 4.878524367060187,
+    "overall_score": 4.878524367060187,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.2,
+        "flavor_development": 6.8,
+        "finish": 6.8,
+        "technical_cleanliness": 7.3,
+        "texture": 7.4,
+        "maturity_wood_management": 7.0,
+        "distinctiveness": 6.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.03,
+      "editorial_adjustment": -0.03,
+      "adjustment_reason": "Very good provisional Canadian blend execution, with recent silky texture, balanced fruit/wood and medium-long persistence. The older review finds only modest additional depth, so the strong recent account is not treated as universal batch consistency."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional Canadian blend execution, with recent silky texture, balanced fruit/wood and medium-long persistence. The older review finds only modest additional depth, so the strong recent account is not treated as universal batch consistency.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "Weak drinking Value at the checked USD 214.99 offer. The matched evidence supports a very good gentle blend, but not a proportionate sensory improvement over current lower-priced Canadian alternatives such as Midnight. Age and handcrafted presentation may matter personally, but are excluded from this drinking-Value score.",
+    "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping",
+    "value_na_reason": null,
+    "price": 214.99,
+    "price_basis": "Producer storefront U.S. retail-network offer USD 214.99 / 750 mL",
+    "price_url": "https://store.pendletonwhisky.com/products/pendleton-whisky-directors-reserve",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 214.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2016,
+    "release_scope": "Pendleton Directors’ Reserve, recurring twenty-year Canadian blend, 40% ABV / 80 proof, 750 mL; edition-specific leather neck presentation.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.tastings.com/Spirits-Review/Pendleton-20-Year-Old-Directors-Reserve-Blended-Canadian-Whisky-Canada-08-01-2026.aspx",
+      "https://thewhiskeywash.com/reviews/whisky-review-pendleton-directors-reserve-20-year-old-whisky/"
+    ],
+    "review_publishers": [
+      "Tastings",
+      "The Whiskey Wash"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Spirits-Review/Pendleton-20-Year-Old-Directors-Reserve-Blended-Canadian-Whisky-Canada-08-01-2026.aspx",
+        "summary": "The 2026 sample combines silky pastry-like richness with a balancing fruit-skin edge and a medium-long warm ending.",
+        "scope": "Tasted July 22, 2026; published award/grade is not converted."
+      },
+      {
+        "reviewer": "Talia Gragg",
+        "publisher": "The Whiskey Wash",
+        "url": "https://thewhiskeywash.com/reviews/whisky-review-pendleton-directors-reserve-20-year-old-whisky/",
+        "summary": "Gragg finds a developing oak/toast/nut-to-molasses progression with more depth than other Pendletons, but less distinction than expected at its age and price.",
+        "scope": "December 15, 2020, exact twenty-year / 40%; unknown purchased versus supplied sample, and no detailed separate finish note."
+      }
+    ],
+    "source_urls": [
+      "https://pendletonwhisky.com/whiskies/directors-reserve/",
+      "https://store.pendletonwhisky.com/products/pendleton-whisky-directors-reserve",
+      "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+      "https://www.tastings.com/Spirits-Review/Pendleton-20-Year-Old-Directors-Reserve-Blended-Canadian-Whisky-Canada-08-01-2026.aspx",
+      "https://thewhiskeywash.com/reviews/whisky-review-pendleton-directors-reserve-20-year-old-whisky/"
+    ],
+    "production_summary": "Producer confirms twenty years in American oak and proofing with glacier-fed Oregon water before bottling. The twenty-year statement is the youngest whisky, not an average. Specific cooperage previous contents, full recipe and any separate finishing stage are not authenticated. Hood River bottling and Proximo ownership are distinct from the undisclosed Canadian distillation source.",
+    "finishing_information": "American-oak maturation; no separately verified secondary finish.",
+    "identity_note": null,
+    "history": [
+      "The 2016 introduction is documented before later annual presentation editions. The current recurring twenty-year scope does not claim every leather-cuffed edition tastes identical.",
+      "Packaging craftsmanship and rodeo history are background, with no contribution to Quality or drinking Value."
+    ],
+    "comparables": [
+      {
+        "url": "pendleton-midnight.html",
+        "name": "Pendleton Midnight",
+        "reason": "A much less expensive current Canadian blend for checking the price of incremental sensory detail."
+      },
+      {
+        "url": "j-p-wiser-s-18-year.html",
+        "name": "J.P. Wiser’s 18 Year",
+        "reason": "Different mature Canadian blend, without transferring its recipe or historical price to this offer."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 90,
+        "current_band": false,
+        "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 90,
+        "maximum_exclusive": 125,
+        "current_band": false,
+        "reason": "A comfortable budget for this exact expression if its style appeals.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 125,
+        "maximum_exclusive": 160,
+        "current_band": false,
+        "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 160,
+        "maximum_exclusive": 200,
+        "current_band": false,
+        "reason": "The price premium needs a personal preference for this exact style; sample first.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 200,
+        "maximum_exclusive": null,
+        "current_band": true,
+        "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://pendletonwhisky.com/whiskies/directors-reserve/",
+        "image_url": "https://store.pendletonwhisky.com/cdn/shop/products/pendleton-whisky-directors-reserve-1.jpg?v=1679336523",
+        "scope": "Pendleton Directors’ Reserve, recurring twenty-year Canadian blend, 40% ABV / 80 proof, 750 mL; edition-specific leather neck presentation.",
+        "sha256": "d96babd1901514558d0e99bc301aeeba0220a1afd58e584ca417be52c6da7979",
+        "image_embedded": true,
+        "width": 1600,
+        "height": 1600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Pendleton Directors’ Reserve, recurring twenty-year Canadian blend, 40% ABV / 80 proof, 750 mL; edition-specific leather neck presentation.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-033",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 90,
+          "current_band": false,
+          "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 90,
+          "maximum_exclusive": 125,
+          "current_band": false,
+          "reason": "A comfortable budget for this exact expression if its style appeals.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 125,
+          "maximum_exclusive": 160,
+          "current_band": false,
+          "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 160,
+          "maximum_exclusive": 200,
+          "current_band": false,
+          "reason": "The price premium needs a personal preference for this exact style; sample first.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 200,
+          "maximum_exclusive": null,
+          "current_band": true,
+          "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "Weak drinking Value at the checked USD 214.99 offer. The matched evidence supports a very good gentle blend, but not a proportionate sensory improvement over current lower-priced Canadian alternatives such as Midnight. Age and handcrafted presentation may matter personally, but are excluded from this drinking-Value score.",
+      "id": "pendleton-directors-reserve-20-year",
+      "producer": "Undisclosed Canadian distillery/distilleries; Hood River Distillers, Oregon bottling/importing for Proximo Spirits (Becle)",
+      "category": "Canadian Blended Whisky",
+      "proof": 80,
+      "age": 20,
+      "age_display": "20 Years",
+      "release_year": 2016,
+      "quality": 7.0,
+      "value": 3.4,
+      "dimensions": [
+        7.2,
+        6.8,
+        6.8,
+        7.3,
+        7.4,
+        7.0,
+        6.3
+      ],
+      "identity": "Pendleton Directors’ Reserve, recurring twenty-year Canadian blend, 40% ABV / 80 proof, 750 mL; edition-specific leather neck presentation.",
+      "short_version": "A mature, silky Canadian blend with recent favorable sensory evidence and a more reserved older review. The expensive presentation and twenty-year label are separate from execution.",
+      "grain": "Canadian blended whisky; exact cereals, blend ratios and Canadian source distillery undisclosed.",
+      "production": "Producer confirms twenty years in American oak and proofing with glacier-fed Oregon water before bottling. The twenty-year statement is the youngest whisky, not an average. Specific cooperage previous contents, full recipe and any separate finishing stage are not authenticated. Hood River bottling and Proximo ownership are distinct from the undisclosed Canadian distillation source.",
+      "finish": "American-oak maturation; no separately verified secondary finish.",
+      "history": [
+        "The 2016 introduction is documented before later annual presentation editions. The current recurring twenty-year scope does not claim every leather-cuffed edition tastes identical.",
+        "Packaging craftsmanship and rodeo history are background, with no contribution to Quality or drinking Value."
+      ],
+      "quality_rationale": "Very good provisional Canadian blend execution, with recent silky texture, balanced fruit/wood and medium-long persistence. The older review finds only modest additional depth, so the strong recent account is not treated as universal batch consistency.",
+      "pricing": {
+        "amount": 214.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-directors-reserve",
+        "basis": "Producer storefront U.S. retail-network offer USD 214.99 / 750 mL",
+        "nc_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate."
+      },
+      "sources": [
+        {
+          "title": "Producer exact twenty-year identity",
+          "url": "https://pendletonwhisky.com/whiskies/directors-reserve/",
+          "role": "Twenty years, American oak, 40%, current presentation."
+        },
+        {
+          "title": "Producer exact U.S. store",
+          "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-directors-reserve",
+          "role": "USD 214.99 / 750 mL current advertised offer; retail-network fulfillment."
+        },
+        {
+          "title": "Proximo ownership/importing record",
+          "url": "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+          "role": "Hood River bottling and Proximo distribution; Canadian source not disclosed."
+        },
+        {
+          "title": "Tastings July 22, 2026",
+          "url": "https://www.tastings.com/Spirits-Review/Pendleton-20-Year-Old-Directors-Reserve-Blended-Canadian-Whisky-Canada-08-01-2026.aspx",
+          "role": "Matched recent 40% / twenty-year sensory assessment."
+        },
+        {
+          "title": "Talia Gragg — The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/reviews/whisky-review-pendleton-directors-reserve-20-year-old-whisky/",
+          "role": "December 15, 2020 exact 40% / twenty-year older sample and USD 154 historical context; sample acquisition ambiguity disclosed by publisher."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Pendleton-20-Year-Old-Directors-Reserve-Blended-Canadian-Whisky-Canada-08-01-2026.aspx",
+          "summary": "The 2026 sample combines silky pastry-like richness with a balancing fruit-skin edge and a medium-long warm ending.",
+          "scope": "Tasted July 22, 2026; published award/grade is not converted."
+        },
+        {
+          "reviewer": "Talia Gragg",
+          "publisher": "The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/reviews/whisky-review-pendleton-directors-reserve-20-year-old-whisky/",
+          "summary": "Gragg finds a developing oak/toast/nut-to-molasses progression with more depth than other Pendletons, but less distinction than expected at its age and price.",
+          "scope": "December 15, 2020, exact twenty-year / 40%; unknown purchased versus supplied sample, and no detailed separate finish note."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "pendleton-midnight.html",
+          "name": "Pendleton Midnight",
+          "reason": "A much less expensive current Canadian blend for checking the price of incremental sensory detail."
+        },
+        {
+          "url": "j-p-wiser-s-18-year.html",
+          "name": "J.P. Wiser’s 18 Year",
+          "reason": "Different mature Canadian blend, without transferring its recipe or historical price to this offer."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://pendletonwhisky.com/whiskies/directors-reserve/",
+      "image_url": "https://store.pendletonwhisky.com/cdn/shop/products/pendleton-whisky-directors-reserve-1.jpg?v=1679336523",
+      "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping"
+    }
+  },
+  {
+    "slug": "pendleton-midnight",
+    "filename": "pendleton-midnight.html",
+    "name": "Pendleton Midnight",
+    "family": "Pendleton",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Undisclosed Canadian distillery/distilleries; Hood River Distillers, Oregon bottling/importing for Proximo Spirits (Becle)",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Complete Canadian blend cereals, proportions and source distillery undisclosed. Brandy-barrel influence does not prove brandy liquid was added.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.8,
+    "quality_score": 6.8,
+    "value": 5.4,
+    "value_score": 5.4,
+    "overall": 6.059702963017247,
+    "overall_score": 6.059702963017247,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.0,
+        "flavor_development": 6.7,
+        "finish": 6.5,
+        "technical_cleanliness": 7.0,
+        "texture": 7.0,
+        "maturity_wood_management": 6.5,
+        "distinctiveness": 6.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.78,
+      "editorial_adjustment": 0.02,
+      "adjustment_reason": "Good provisional Canadian blend execution: balanced fruit/spice, useful texture and a comfortable finish receive support. Pronounced sweetness and moderate rather than exceptional development keep it below the top Canadian blends."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional Canadian blend execution: balanced fruit/spice, useful texture and a comfortable finish receive support. Pronounced sweetness and moderate rather than exceptional development keep it below the top Canadian blends.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "Moderate Value at USD 45.99, with evidence for better balance/detail than Original but a substantial premium over its historical USD 28 review context. The exact current Pike Creek Rum USD 41.99 and core Lot No. 40 USD 39.99 offers provide alternative Canadian styles; no historical price is presented as currently purchasable.",
+    "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping",
+    "value_na_reason": null,
+    "price": 45.99,
+    "price_basis": "Producer storefront U.S. retail-network offer USD 45.99 / 750 mL",
+    "price_url": "https://store.pendletonwhisky.com/products/pendleton-whisky-midnight",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 45.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2015,
+    "release_scope": "Pendleton Midnight Canadian blend, NAS, 45% ABV / 90 proof, 750 mL; a portion matured in American brandy barrels.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://www.tastings.com/Spirits-Review/Pendleton-Midnight-Brandy-Barrel-Finished-Whisky-Canada-90-Proof-08-01-2026.aspx",
+      "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/"
+    ],
+    "review_publishers": [
+      "Tastings",
+      "Drinkhacker"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Beverage Testing Institute panel",
+        "publisher": "Tastings",
+        "url": "https://www.tastings.com/Spirits-Review/Pendleton-Midnight-Brandy-Barrel-Finished-Whisky-Canada-90-Proof-08-01-2026.aspx",
+        "summary": "The current sample is soft and silky, with sweet aromatic development and a peppery nut/fruit ending.",
+        "scope": "Tasted July 22, 2026 exact 45%; grade not converted."
+      },
+      {
+        "reviewer": "Christopher Null",
+        "publisher": "Drinkhacker",
+        "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+        "summary": "Null prefers its fruit and balance to Original, finding restrained heat and a soothing sweet finish.",
+        "scope": "June 13, 2022 Midnight section only; separate batches and old USD 28 reference not current offer."
+      }
+    ],
+    "source_urls": [
+      "https://store.pendletonwhisky.com/products/pendleton-whisky-midnight",
+      "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+      "https://www.tastings.com/Spirits-Review/Pendleton-Midnight-Brandy-Barrel-Finished-Whisky-Canada-90-Proof-08-01-2026.aspx",
+      "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/"
+    ],
+    "production_summary": "Current producer explicitly identifies a portion of the blend aged in AMERICAN BRANDY barrels, correcting discovery’s provisional port description. The whole blend is NAS. An older report of six-plus years applies to the brandy-barrel portion and is not a six-year whole-bottle statement. The brand does not disclose the treated proportion, full maturation schedule or separate added-brandy component.",
+    "finishing_information": "American-brandy-barrel-aged portion; not a verified port finish or a whole-blend six-year age statement.",
+    "identity_note": null,
+    "history": [
+      "Documented since the 2015 release era, with a 2022 retrospective and a fresh July 2026 panel account.",
+      "Canadian distillation/aging, Oregon proofing/bottling and Proximo ownership are separate producer roles."
+    ],
+    "comparables": [
+      {
+        "url": "pendleton-original.html",
+        "name": "Pendleton Original",
+        "reason": "Current lower-strength family entry; independent comparison favors Midnight’s added fruit/detail."
+      },
+      {
+        "url": "pike-creek-10-year-rum-barrel-finish.html",
+        "name": "Pike Creek 10 Rum Finish",
+        "reason": "Different Canadian cask-influenced blend with a separate dated U.S. offer."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 25,
+        "maximum_exclusive": 32,
+        "current_band": false,
+        "reason": "A comfortable budget for this exact expression if its style appeals.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 32,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 40,
+        "maximum_exclusive": 50,
+        "current_band": true,
+        "reason": "The price premium needs a personal preference for this exact style; sample first.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 50,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://store.pendletonwhisky.com/products/pendleton-whisky-midnight",
+        "image_url": "https://store.pendletonwhisky.com/cdn/shop/products/pendleton-whisky-midnight-1.jpg?v=1679334190",
+        "scope": "Pendleton Midnight Canadian blend, NAS, 45% ABV / 90 proof, 750 mL; a portion matured in American brandy barrels.",
+        "sha256": "8da249e40817e0c65eb071d61d67909bf9e7f0860549eeb48445899da6b62ccc",
+        "image_embedded": true,
+        "width": 1600,
+        "height": 1600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Pendleton Midnight Canadian blend, NAS, 45% ABV / 90 proof, 750 mL; a portion matured in American brandy barrels.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-033",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 25,
+          "maximum_exclusive": 32,
+          "current_band": false,
+          "reason": "A comfortable budget for this exact expression if its style appeals.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 32,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 40,
+          "maximum_exclusive": 50,
+          "current_band": true,
+          "reason": "The price premium needs a personal preference for this exact style; sample first.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 50,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "Moderate Value at USD 45.99, with evidence for better balance/detail than Original but a substantial premium over its historical USD 28 review context. The exact current Pike Creek Rum USD 41.99 and core Lot No. 40 USD 39.99 offers provide alternative Canadian styles; no historical price is presented as currently purchasable.",
+      "id": "pendleton-midnight",
+      "producer": "Undisclosed Canadian distillery/distilleries; Hood River Distillers, Oregon bottling/importing for Proximo Spirits (Becle)",
+      "category": "Canadian Blended Whisky",
+      "proof": 90,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2015,
+      "quality": 6.8,
+      "value": 5.4,
+      "dimensions": [
+        7.0,
+        6.7,
+        6.5,
+        7.0,
+        7.0,
+        6.5,
+        6.3
+      ],
+      "identity": "Pendleton Midnight Canadian blend, NAS, 45% ABV / 90 proof, 750 mL; a portion matured in American brandy barrels.",
+      "short_version": "A sweeter, fruit-led Canadian blend with supportive recent evidence for balance and silky texture. American brandy barrels, rather than port, define the verified cask treatment.",
+      "grain": "Complete Canadian blend cereals, proportions and source distillery undisclosed. Brandy-barrel influence does not prove brandy liquid was added.",
+      "production": "Current producer explicitly identifies a portion of the blend aged in AMERICAN BRANDY barrels, correcting discovery’s provisional port description. The whole blend is NAS. An older report of six-plus years applies to the brandy-barrel portion and is not a six-year whole-bottle statement. The brand does not disclose the treated proportion, full maturation schedule or separate added-brandy component.",
+      "finish": "American-brandy-barrel-aged portion; not a verified port finish or a whole-blend six-year age statement.",
+      "history": [
+        "Documented since the 2015 release era, with a 2022 retrospective and a fresh July 2026 panel account.",
+        "Canadian distillation/aging, Oregon proofing/bottling and Proximo ownership are separate producer roles."
+      ],
+      "quality_rationale": "Good provisional Canadian blend execution: balanced fruit/spice, useful texture and a comfortable finish receive support. Pronounced sweetness and moderate rather than exceptional development keep it below the top Canadian blends.",
+      "pricing": {
+        "amount": 45.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-midnight",
+        "basis": "Producer storefront U.S. retail-network offer USD 45.99 / 750 mL",
+        "nc_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate."
+      },
+      "sources": [
+        {
+          "title": "Producer exact Midnight offer",
+          "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-midnight",
+          "role": "NAS, 45%, American brandy-barrel portion, exact pack and current USD 45.99."
+        },
+        {
+          "title": "Proximo ownership/importing record",
+          "url": "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+          "role": "Hood River bottling of Canadian whisky for Proximo."
+        },
+        {
+          "title": "Tastings July 22, 2026",
+          "url": "https://www.tastings.com/Spirits-Review/Pendleton-Midnight-Brandy-Barrel-Finished-Whisky-Canada-90-Proof-08-01-2026.aspx",
+          "role": "Exact 45% current sample with body and finish description."
+        },
+        {
+          "title": "Christopher Null — 2022 retrospective",
+          "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+          "role": "Matched Midnight section; six-plus-year report is component-specific, not label age."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Beverage Testing Institute panel",
+          "publisher": "Tastings",
+          "url": "https://www.tastings.com/Spirits-Review/Pendleton-Midnight-Brandy-Barrel-Finished-Whisky-Canada-90-Proof-08-01-2026.aspx",
+          "summary": "The current sample is soft and silky, with sweet aromatic development and a peppery nut/fruit ending.",
+          "scope": "Tasted July 22, 2026 exact 45%; grade not converted."
+        },
+        {
+          "reviewer": "Christopher Null",
+          "publisher": "Drinkhacker",
+          "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+          "summary": "Null prefers its fruit and balance to Original, finding restrained heat and a soothing sweet finish.",
+          "scope": "June 13, 2022 Midnight section only; separate batches and old USD 28 reference not current offer."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "pendleton-original.html",
+          "name": "Pendleton Original",
+          "reason": "Current lower-strength family entry; independent comparison favors Midnight’s added fruit/detail."
+        },
+        {
+          "url": "pike-creek-10-year-rum-barrel-finish.html",
+          "name": "Pike Creek 10 Rum Finish",
+          "reason": "Different Canadian cask-influenced blend with a separate dated U.S. offer."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://store.pendletonwhisky.com/products/pendleton-whisky-midnight",
+      "image_url": "https://store.pendletonwhisky.com/cdn/shop/products/pendleton-whisky-midnight-1.jpg?v=1679334190",
+      "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping"
+    }
+  },
+  {
+    "slug": "pendleton-original",
+    "filename": "pendleton-original.html",
+    "name": "Pendleton Original",
+    "family": "Pendleton",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Undisclosed Canadian distillery/distilleries; Hood River Distillers, Oregon bottling/importing for Proximo Spirits (Becle)",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Exact Canadian cereals, blend ratios and source distillery undisclosed; no presumed corn/rye formula forced.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 4.6,
+    "quality_score": 4.6,
+    "value": 4.6,
+    "value_score": 4.6,
+    "overall": 4.6,
+    "overall_score": 4.6,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 4.4,
+        "flavor_development": 4.5,
+        "finish": 3.8,
+        "technical_cleanliness": 4.4,
+        "texture": 5.0,
+        "maturity_wood_management": 4.8,
+        "distinctiveness": 4.1
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 4.415,
+      "editorial_adjustment": 0.185,
+      "adjustment_reason": "Below-average provisional Canadian blend execution. Extreme sweetness can mask light body and heat; limited development and minimal finish constrain the judgment. Sweet style alone is not a fault, and no bourbon endpoints are used."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Below-average provisional Canadian blend execution. Extreme sweetness can mask light body and heat; limited development and minimal finish constrain the judgment. Sweet style alone is not a fault, and no bourbon endpoints are used.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "Below-average-to-modest Value at USD 32.99 for this limited execution. The accepted Deluxe NC handle normalizes to USD 11.55 / 750 mL and has a stronger assessment, although its actual purchase is 1.75 L. Current Pendleton packaging and rodeo branding do not improve drinking Value.",
+    "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping",
+    "value_na_reason": null,
+    "price": 32.99,
+    "price_basis": "Producer storefront U.S. retail-network offer USD 32.99 / 750 mL",
+    "price_url": "https://store.pendletonwhisky.com/products/pendleton-whisky-original-recipe",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 32.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2003,
+    "release_scope": "Pendleton Original / Original Recipe Canadian blend, current NAS formulation, 40% ABV / 80 proof, 750 mL; excludes earlier ten-year-labeled stock.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://distiller.com/spirits/pendleton-blended-canadian-whisky",
+      "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "Drinkhacker"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Keith Allison",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/pendleton-blended-canadian-whisky",
+        "summary": "An initial glue-like aroma fades into dominant sweetness, with light body and little lasting finish.",
+        "scope": "Exact NAS / 40% range record, not an authenticated current batch; descriptor is not a chemical diagnosis."
+      },
+      {
+        "reviewer": "Christopher Null",
+        "publisher": "Drinkhacker",
+        "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+        "summary": "The NAS Original is intensely sweet and hot, with modest spice development; Null recommends mixing with less added sweetener.",
+        "scope": "June 13, 2022 Original section; ten-year predecessor and site-generated numerical grade excluded."
+      }
+    ],
+    "source_urls": [
+      "https://store.pendletonwhisky.com/products/pendleton-whisky-original-recipe",
+      "https://www.hrdspirits.com/news/hood-river-distillers-celebrates-90th-anniversary",
+      "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+      "https://distiller.com/spirits/pendleton-blended-canadian-whisky",
+      "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/"
+    ],
+    "production_summary": "Producer verifies oak aging, 40% and proofing with Oregon spring water. Current Original has no numerical age statement; Drinkhacker documents that the earlier ten-year statement disappeared. Neither that old label nor Canadian legal minimum establishes the age of this bottle. Pendleton is imported and bottled in Oregon for Proximo, rather than distilled there.",
+    "finishing_information": "Oak maturation; no separately documented secondary finish.",
+    "identity_note": null,
+    "history": [
+      "The brand was introduced in 2003, as confirmed in the original owner’s later corporate account. Rodeo origin imagery does not make it an American-distilled whiskey.",
+      "This dossier assesses the recurring NAS range, with older ten-year reviews excluded as exact current tasting evidence."
+    ],
+    "comparables": [
+      {
+        "url": "pendleton-midnight.html",
+        "name": "Pendleton Midnight",
+        "reason": "Different strength and brandy-barrel portion with better matched balance evidence."
+      },
+      {
+        "url": "j-p-wiser-s-deluxe.html",
+        "name": "J.P. Wiser’s Deluxe",
+        "reason": "Canadian mixing alternative with a verified NC 1.75 L offer; compare actual bottle sizes before shopping."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 15,
+        "current_band": false,
+        "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 15,
+        "maximum_exclusive": 22,
+        "current_band": false,
+        "reason": "A comfortable budget for this exact expression if its style appeals.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 22,
+        "maximum_exclusive": 28,
+        "current_band": false,
+        "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 28,
+        "maximum_exclusive": 35,
+        "current_band": true,
+        "reason": "The price premium needs a personal preference for this exact style; sample first.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 35,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://store.pendletonwhisky.com/products/pendleton-whisky-original-recipe",
+        "image_url": "https://store.pendletonwhisky.com/cdn/shop/products/pendleton-whisky-original-1.jpg?v=1679333124",
+        "scope": "Pendleton Original / Original Recipe Canadian blend, current NAS formulation, 40% ABV / 80 proof, 750 mL; excludes earlier ten-year-labeled stock.",
+        "sha256": "bb697a5bd816072b617a9ec01bf616a2f101248b0539fa28b03a6293f026d028",
+        "image_embedded": true,
+        "width": 1600,
+        "height": 1600
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Pendleton Original / Original Recipe Canadian blend, current NAS formulation, 40% ABV / 80 proof, 750 mL; excludes earlier ten-year-labeled stock.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-033",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 15,
+          "current_band": false,
+          "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 15,
+          "maximum_exclusive": 22,
+          "current_band": false,
+          "reason": "A comfortable budget for this exact expression if its style appeals.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 22,
+          "maximum_exclusive": 28,
+          "current_band": false,
+          "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 28,
+          "maximum_exclusive": 35,
+          "current_band": true,
+          "reason": "The price premium needs a personal preference for this exact style; sample first.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 35,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "Below-average-to-modest Value at USD 32.99 for this limited execution. The accepted Deluxe NC handle normalizes to USD 11.55 / 750 mL and has a stronger assessment, although its actual purchase is 1.75 L. Current Pendleton packaging and rodeo branding do not improve drinking Value.",
+      "id": "pendleton-original",
+      "producer": "Undisclosed Canadian distillery/distilleries; Hood River Distillers, Oregon bottling/importing for Proximo Spirits (Becle)",
+      "category": "Canadian Blended Whisky",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2003,
+      "quality": 4.6,
+      "value": 4.6,
+      "dimensions": [
+        4.4,
+        4.5,
+        3.8,
+        4.4,
+        5.0,
+        4.8,
+        4.1
+      ],
+      "identity": "Pendleton Original / Original Recipe Canadian blend, current NAS formulation, 40% ABV / 80 proof, 750 mL; excludes earlier ten-year-labeled stock.",
+      "short_version": "A sweet mixing blend with documented heat, limited development and a weak finish in independent accounts. Current NAS identity is preserved rather than inheriting its old ten-year label.",
+      "grain": "Exact Canadian cereals, blend ratios and source distillery undisclosed; no presumed corn/rye formula forced.",
+      "production": "Producer verifies oak aging, 40% and proofing with Oregon spring water. Current Original has no numerical age statement; Drinkhacker documents that the earlier ten-year statement disappeared. Neither that old label nor Canadian legal minimum establishes the age of this bottle. Pendleton is imported and bottled in Oregon for Proximo, rather than distilled there.",
+      "finish": "Oak maturation; no separately documented secondary finish.",
+      "history": [
+        "The brand was introduced in 2003, as confirmed in the original owner’s later corporate account. Rodeo origin imagery does not make it an American-distilled whiskey.",
+        "This dossier assesses the recurring NAS range, with older ten-year reviews excluded as exact current tasting evidence."
+      ],
+      "quality_rationale": "Below-average provisional Canadian blend execution. Extreme sweetness can mask light body and heat; limited development and minimal finish constrain the judgment. Sweet style alone is not a fault, and no bourbon endpoints are used.",
+      "pricing": {
+        "amount": 32.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-original-recipe",
+        "basis": "Producer storefront U.S. retail-network offer USD 32.99 / 750 mL",
+        "nc_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate."
+      },
+      "sources": [
+        {
+          "title": "Producer exact Original offer",
+          "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-original-recipe",
+          "role": "Current NAS / 40% pack and USD 32.99 U.S. retail-network offer."
+        },
+        {
+          "title": "Hood River corporate history",
+          "url": "https://www.hrdspirits.com/news/hood-river-distillers-celebrates-90th-anniversary",
+          "role": "Original owner dates launch to 2003 and completed Proximo sale to 2018."
+        },
+        {
+          "title": "Proximo ownership/importing record",
+          "url": "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+          "role": "Canadian whisky imported/bottled in Hood River; brand ownership separate."
+        },
+        {
+          "title": "Keith Allison — Distiller",
+          "url": "https://distiller.com/spirits/pendleton-blended-canadian-whisky",
+          "role": "Matched NAS / 40% independent sensory record, including light body and weak finish."
+        },
+        {
+          "title": "Christopher Null — 2022 retrospective",
+          "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+          "role": "Original NAS section only; historical age-statement removal and sweet/hot mixing assessment."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Keith Allison",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/pendleton-blended-canadian-whisky",
+          "summary": "An initial glue-like aroma fades into dominant sweetness, with light body and little lasting finish.",
+          "scope": "Exact NAS / 40% range record, not an authenticated current batch; descriptor is not a chemical diagnosis."
+        },
+        {
+          "reviewer": "Christopher Null",
+          "publisher": "Drinkhacker",
+          "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+          "summary": "The NAS Original is intensely sweet and hot, with modest spice development; Null recommends mixing with less added sweetener.",
+          "scope": "June 13, 2022 Original section; ten-year predecessor and site-generated numerical grade excluded."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "pendleton-midnight.html",
+          "name": "Pendleton Midnight",
+          "reason": "Different strength and brandy-barrel portion with better matched balance evidence."
+        },
+        {
+          "url": "j-p-wiser-s-deluxe.html",
+          "name": "J.P. Wiser’s Deluxe",
+          "reason": "Canadian mixing alternative with a verified NC 1.75 L offer; compare actual bottle sizes before shopping."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://store.pendletonwhisky.com/products/pendleton-whisky-original-recipe",
+      "image_url": "https://store.pendletonwhisky.com/cdn/shop/products/pendleton-whisky-original-1.jpg?v=1679333124",
+      "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping"
+    }
+  },
+  {
+    "slug": "pike-creek-10-year-port-barrel-finish",
+    "filename": "pike-creek-10-year-port-barrel-finish.html",
+    "name": "Pike Creek 10 Year Port Barrel Finish",
+    "family": "Pike Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "Complete exact-era cereal recipe and ratios not authenticated. Broader family corn/rye reporting is not treated as a precise historical mash bill.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.3,
+    "quality_score": 6.3,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.5,
+        "flavor_development": 6.5,
+        "finish": 5.5,
+        "technical_cleanliness": 6.7,
+        "texture": 5.4,
+        "maturity_wood_management": 6.4,
+        "distinctiveness": 6.4
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.255,
+      "editorial_adjustment": 0.045,
+      "adjustment_reason": "Good provisional Canadian blend execution. Attractive fruit/spice and generally clean balance support the result; conflicting persistence reports and Selfbuilt’s watery texture limit stronger claims."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional Canadian blend execution. Attractive fruit/spice and generally clean balance support the result; conflicting persistence reports and Selfbuilt’s watery texture limit stronger claims.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Ontario LCBO CAD 39.90 in March 6, 2013 ten-year domestic review; not USD",
+    "price_url": "https://canadianwhisky.org/blog/reviews/pike-creek-10-year-old-40-alcvol.html",
+    "price_period": "2013-03-06",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 39.9,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2012,
+    "release_scope": "Pike Creek ten-year Port Barrel / Vintage Port Finish, Canadian 2012 revival-era domestic release, 40% ABV / 80 proof; excludes the younger NAS U.S. export and later rum finish.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/pike-creek-10-year-old-40-alcvol.html",
+      "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-port-finish/"
+    ],
+    "review_publishers": [
+      "Canadian Whisky",
+      "Selfbuilt’s Whisky Analysis"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/pike-creek-10-year-old-40-alcvol.html",
+        "summary": "The ten-year domestic bottle is fruit-led and gently spicy, with rising warmth and a long citrus-edged finish.",
+        "scope": "March 6, 2013 ten-year / 40% scope; NAS export account excluded."
+      },
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-port-finish/",
+        "summary": "A later domestic bottle has an inviting fruit/spice nose, but a thinner, less fruity palate and a surprisingly short ending.",
+        "scope": "November 8, 2016 exact ten-year Port, purchased at LCBO; speculation about color is not a verified additive formula."
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/reviews/pike-creek-10-year-old-40-alcvol.html",
+      "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-port-finish/",
+      "https://canadianwhisky.org/blog/reviews/pike-creek-export-edition-40-alcvol.html"
+    ],
+    "production_summary": "The contemporary ten-year account identifies small copper-column double distillation, initial first-use ex-bourbon casks, then vintage port pipes. First-use bourbon here means once previously used for bourbon, not virgin oak. The ten-year Canadian statement is distinct from a seven/eight-year stock estimate for the NAS U.S. export. Finish duration and any direct port addition are unverified.",
+    "finishing_information": "Vintage-port-pipe finish after once-used bourbon barrels; duration not established.",
+    "identity_note": null,
+    "history": [
+      "Revived in late 2012 after the earlier Canadian Whisky Guild range disappeared. The Canadian ten-year / 40% bottle was followed by a separate NAS export, then the rum-finished ten-year in 2016.",
+      "The authenticated embedded image is an exact ten-year/vintage-port label detail, not a generic multi-bottle promotional collage."
+    ],
+    "comparables": [
+      {
+        "url": "pike-creek-10-year-rum-barrel-finish.html",
+        "name": "Pike Creek ten-year Rum Finish",
+        "reason": "The later 42% recipe uses rum casks; same age does not make it unchanged liquid."
+      },
+      {
+        "url": "pike-creek-22-year-px-cask-finish.html",
+        "name": "Pike Creek 22 PX",
+        "reason": "A later, distinct sherry-cask expression rather than evidence for this port release."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before paying a scarcity or age premium; a dated exact U.S. offer is required before numerical buying thresholds.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-port-finish/",
+        "image_url": "https://whiskyanalysis.com/wp/wp-content/uploads/2016/11/Pike.Creek_.Port_.Large_.jpg",
+        "scope": "Pike Creek ten-year Port Barrel / Vintage Port Finish, Canadian 2012 revival-era domestic release, 40% ABV / 80 proof; excludes the younger NAS U.S. export and later rum finish.",
+        "sha256": "0661c590f02324383735c90691b5a14b507d3b92dd84f71cac4a5cc8b81721af",
+        "image_embedded": true,
+        "width": 420,
+        "height": 229
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Pike Creek ten-year Port Barrel / Vintage Port Finish, Canadian 2012 revival-era domestic release, 40% ABV / 80 proof; excludes the younger NAS U.S. export and later rum finish.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-033",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before paying a scarcity or age premium; a dated exact U.S. offer is required before numerical buying thresholds.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "pike-creek-10-year-port-barrel-finish",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "proof": 80,
+      "age": 10,
+      "age_display": "10 Years",
+      "release_year": 2012,
+      "quality": 6.3,
+      "value": null,
+      "dimensions": [
+        6.5,
+        6.5,
+        5.5,
+        6.7,
+        5.4,
+        6.4,
+        6.4
+      ],
+      "identity": "Pike Creek ten-year Port Barrel / Vintage Port Finish, Canadian 2012 revival-era domestic release, 40% ABV / 80 proof; excludes the younger NAS U.S. export and later rum finish.",
+      "short_version": "A fruit-and-spice port-finished Canadian whisky with mixed evidence on body and persistence. The exact ten-year domestic release is separated from the NAS export.",
+      "grain": "Complete exact-era cereal recipe and ratios not authenticated. Broader family corn/rye reporting is not treated as a precise historical mash bill.",
+      "production": "The contemporary ten-year account identifies small copper-column double distillation, initial first-use ex-bourbon casks, then vintage port pipes. First-use bourbon here means once previously used for bourbon, not virgin oak. The ten-year Canadian statement is distinct from a seven/eight-year stock estimate for the NAS U.S. export. Finish duration and any direct port addition are unverified.",
+      "finish": "Vintage-port-pipe finish after once-used bourbon barrels; duration not established.",
+      "history": [
+        "Revived in late 2012 after the earlier Canadian Whisky Guild range disappeared. The Canadian ten-year / 40% bottle was followed by a separate NAS export, then the rum-finished ten-year in 2016.",
+        "The authenticated embedded image is an exact ten-year/vintage-port label detail, not a generic multi-bottle promotional collage."
+      ],
+      "quality_rationale": "Good provisional Canadian blend execution. Attractive fruit/spice and generally clean balance support the result; conflicting persistence reports and Selfbuilt’s watery texture limit stronger claims.",
+      "pricing": {
+        "amount": 39.9,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2013-03-06",
+        "url": "https://canadianwhisky.org/blog/reviews/pike-creek-10-year-old-40-alcvol.html",
+        "basis": "Historical Ontario LCBO CAD 39.90 in March 6, 2013 ten-year domestic review; not USD",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Canadian Whisky — exact ten-year domestic",
+          "url": "https://canadianwhisky.org/blog/reviews/pike-creek-10-year-old-40-alcvol.html",
+          "role": "March 6, 2013, 40%, ten years, once-used bourbon then port pipes and Canadian price."
+        },
+        {
+          "title": "Selfbuilt — exact ten-year Port",
+          "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-port-finish/",
+          "role": "November 8, 2016 late domestic batch, substantive sensory account and label-detail photograph."
+        },
+        {
+          "title": "Canadian Whisky — distinct NAS export",
+          "url": "https://canadianwhisky.org/blog/reviews/pike-creek-export-edition-40-alcvol.html",
+          "role": "June 2013 U.S. NAS identity and USD 32 are excluded from the ten-year dossier’s price and tasting assessment."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/pike-creek-10-year-old-40-alcvol.html",
+          "summary": "The ten-year domestic bottle is fruit-led and gently spicy, with rising warmth and a long citrus-edged finish.",
+          "scope": "March 6, 2013 ten-year / 40% scope; NAS export account excluded."
+        },
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-port-finish/",
+          "summary": "A later domestic bottle has an inviting fruit/spice nose, but a thinner, less fruity palate and a surprisingly short ending.",
+          "scope": "November 8, 2016 exact ten-year Port, purchased at LCBO; speculation about color is not a verified additive formula."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "pike-creek-10-year-rum-barrel-finish.html",
+          "name": "Pike Creek ten-year Rum Finish",
+          "reason": "The later 42% recipe uses rum casks; same age does not make it unchanged liquid."
+        },
+        {
+          "url": "pike-creek-22-year-px-cask-finish.html",
+          "name": "Pike Creek 22 PX",
+          "reason": "A later, distinct sherry-cask expression rather than evidence for this port release."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-port-finish/",
+      "image_url": "https://whiskyanalysis.com/wp/wp-content/uploads/2016/11/Pike.Creek_.Port_.Large_.jpg"
+    }
+  },
+  {
+    "slug": "pike-creek-10-year-rum-barrel-finish",
+    "filename": "pike-creek-10-year-rum-barrel-finish.html",
+    "name": "Pike Creek 10 Year Rum Barrel Finish",
+    "family": "Pike Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 84,
+    "abv": 42.0,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "Corn and rye; matched brand-representative reporting gives approximately 3% rye, not a universal ratio established for every current batch.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 5.5,
+    "quality_score": 5.5,
+    "value": 5.2,
+    "value_score": 5.2,
+    "overall": 5.347896782848375,
+    "overall_score": 5.347896782848375,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 5.8,
+        "flavor_development": 5.3,
+        "finish": 4.5,
+        "technical_cleanliness": 5.6,
+        "texture": 4.7,
+        "maturity_wood_management": 5.7,
+        "distinctiveness": 5.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.33,
+      "editorial_adjustment": 0.17,
+      "adjustment_reason": "Above-average but modest provisional Canadian blend execution. Comfortable sweetness and some spice/body have support, but short persistence, watery texture and occasional bitterness reduce development and finish scores."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Above-average but modest provisional Canadian blend execution. Comfortable sweetness and some spice/body have support, but short persistence, watery texture and occasional bitterness reduce development and finish scores.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "Modest Value at USD 41.99. The documented ten-year and rum treatment are useful specifications, but short finish and limited development weaken the proposition beside the current USD 39.99 Lot No. 40 core. A preference for softer, sweeter Canadian blends may still justify it.",
+    "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping",
+    "value_na_reason": null,
+    "price": 41.99,
+    "price_basis": "Exact ten-year / 84-proof Caskers U.S. offer USD 41.99 / 750 mL",
+    "price_url": "https://www.caskers.com/pike-creek-10-year-old-rum-barrel-finish-canadian-whisky/",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 41.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2016,
+    "release_scope": "Pike Creek ten-year Rum Barrel Finish / Double Barreled, 42% ABV / 84 proof, 750 mL; recurring rum-finished range introduced in 2016.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-rum-finish/",
+      "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "Toronto Whisky Society"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-rum-finish/",
+        "summary": "The initial rum batch has spice but less aromatic fruit than port, a watery body and a quick, slightly bitter ending.",
+        "scope": "November 8, 2016 purchased ten-year / 42%; single batch, not certified current consistency."
+      },
+      {
+        "reviewer": "Bryan Vanderkruk",
+        "publisher": "Toronto Whisky Society",
+        "url": "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/",
+        "summary": "The 2017 rum bottle is sweet and oaky with a short ending; the reviewer nevertheless prefers it to port.",
+        "scope": "September 21, 2017 exact rum section; adjacent 21-year Speyside is separate evidence."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/pike-creek-double-barreled-canadian-whisky",
+      "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-rum-finish/",
+      "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/",
+      "https://www.caskers.com/pike-creek-10-year-old-rum-barrel-finish-canadian-whisky/"
+    ],
+    "production_summary": "Current exact producer pack confirms ten years and 42%, with rum finishing after oak aging. Matched technical reporting describes double-column corn and once-column rye, initially ex-bourbon matured. TWS’s 2017 brand-session report names Guyana casks and 120 days; those details are attributed to that era, not claimed as an unchanged current schedule. No direct rum addition is authenticated.",
+    "finishing_information": "Rum-cask finish after ex-bourbon maturation; 120-day Guyana-cask account attributed to 2017 reporting, current duration undisclosed.",
+    "identity_note": null,
+    "history": [
+      "Selfbuilt documents the switch from port to rum in September 2016 batches and the rise from 40% to 42%. Modern Double Barreled is the named pack, not a separate age-inferred product.",
+      "The verified producer photograph visibly carries the ten-year label despite a shorter catalogue title."
+    ],
+    "comparables": [
+      {
+        "url": "pike-creek-10-year-port-barrel-finish.html",
+        "name": "Pike Creek ten-year Port Finish",
+        "reason": "The predecessor’s different strength and casks explain why its reviews are not substitutes."
+      },
+      {
+        "url": "pendleton-midnight.html",
+        "name": "Pendleton Midnight",
+        "reason": "Current U.S. Canadian blend alternative using a brandy-barrel portion, not rum."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": 0,
+        "maximum_exclusive": 25,
+        "current_band": false,
+        "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": 25,
+        "maximum_exclusive": 32,
+        "current_band": false,
+        "reason": "A comfortable budget for this exact expression if its style appeals.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 32,
+        "maximum_exclusive": 40,
+        "current_band": false,
+        "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": 40,
+        "maximum_exclusive": 50,
+        "current_band": true,
+        "reason": "The price premium needs a personal preference for this exact style; sample first.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": 50,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/pike-creek-double-barreled-canadian-whisky",
+        "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_PikeCreek.png?v=1748439386",
+        "scope": "Pike Creek ten-year Rum Barrel Finish / Double Barreled, 42% ABV / 84 proof, 750 mL; recurring rum-finished range introduced in 2016.",
+        "sha256": "4a201120a9fc06824812b953032fda08aab0e9ccf55eff47b5cf69b79fbfa94a",
+        "image_embedded": true,
+        "width": 1080,
+        "height": 1890
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Pike Creek ten-year Rum Barrel Finish / Double Barreled, 42% ABV / 84 proof, 750 mL; recurring rum-finished range introduced in 2016.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-033",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": 0,
+          "maximum_exclusive": 25,
+          "current_band": false,
+          "reason": "At this price, the documented style could justify a replenishment purchase after tasting.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": 25,
+          "maximum_exclusive": 32,
+          "current_band": false,
+          "reason": "A comfortable budget for this exact expression if its style appeals.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 32,
+          "maximum_exclusive": 40,
+          "current_band": false,
+          "reason": "Compare the full delivered cost with the linked Canadian alternatives.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": 40,
+          "maximum_exclusive": 50,
+          "current_band": true,
+          "reason": "The price premium needs a personal preference for this exact style; sample first.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": 50,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Seek a lower offer or a sampled Canadian alternative; age and presentation do not guarantee better drinking.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "Editorial USD 750 mL budget thresholds, tied to the exact dated offer and category-specific sensory evidence."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "Modest Value at USD 41.99. The documented ten-year and rum treatment are useful specifications, but short finish and limited development weaken the proposition beside the current USD 39.99 Lot No. 40 core. A preference for softer, sweeter Canadian blends may still justify it.",
+      "id": "pike-creek-10-year-rum-barrel-finish",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "proof": 84,
+      "age": 10,
+      "age_display": "10 Years",
+      "release_year": 2016,
+      "quality": 5.5,
+      "value": 5.2,
+      "dimensions": [
+        5.8,
+        5.3,
+        4.5,
+        5.6,
+        4.7,
+        5.7,
+        5.3
+      ],
+      "identity": "Pike Creek ten-year Rum Barrel Finish / Double Barreled, 42% ABV / 84 proof, 750 mL; recurring rum-finished range introduced in 2016.",
+      "short_version": "A light, sweet cask-influenced blend with a useful initial spice lift. Independent reports differ on improvement over port, while thinness and a short finish recur.",
+      "grain": "Corn and rye; matched brand-representative reporting gives approximately 3% rye, not a universal ratio established for every current batch.",
+      "production": "Current exact producer pack confirms ten years and 42%, with rum finishing after oak aging. Matched technical reporting describes double-column corn and once-column rye, initially ex-bourbon matured. TWS’s 2017 brand-session report names Guyana casks and 120 days; those details are attributed to that era, not claimed as an unchanged current schedule. No direct rum addition is authenticated.",
+      "finish": "Rum-cask finish after ex-bourbon maturation; 120-day Guyana-cask account attributed to 2017 reporting, current duration undisclosed.",
+      "history": [
+        "Selfbuilt documents the switch from port to rum in September 2016 batches and the rise from 40% to 42%. Modern Double Barreled is the named pack, not a separate age-inferred product.",
+        "The verified producer photograph visibly carries the ten-year label despite a shorter catalogue title."
+      ],
+      "quality_rationale": "Above-average but modest provisional Canadian blend execution. Comfortable sweetness and some spice/body have support, but short persistence, watery texture and occasional bitterness reduce development and finish scores.",
+      "pricing": {
+        "amount": 41.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://www.caskers.com/pike-creek-10-year-old-rum-barrel-finish-canadian-whisky/",
+        "basis": "Exact ten-year / 84-proof Caskers U.S. offer USD 41.99 / 750 mL",
+        "nc_status": "Exact dated U.S. advertised consumer offer; no current NC ABC price or local stock claim. Tax, shipping and destination restrictions are separate."
+      },
+      "sources": [
+        {
+          "title": "Producer exact rum-finished pack",
+          "url": "https://shop.jpwisers.com/products/pike-creek-double-barreled-canadian-whisky",
+          "role": "Current ten-year label, 42%, rum finish and Ontario CAD 40.95 separately."
+        },
+        {
+          "title": "Selfbuilt 2016 rum release",
+          "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-rum-finish/",
+          "role": "November 8, 2016 purchased initial batch, September recipe change, thinness and bitter/short ending."
+        },
+        {
+          "title": "TWS 2017 brand-session report",
+          "url": "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/",
+          "role": "Exact 42% rum section: Guyana casks and 120 days, differing view versus old port release."
+        },
+        {
+          "title": "Caskers exact current U.S. offer",
+          "url": "https://www.caskers.com/pike-creek-10-year-old-rum-barrel-finish-canadian-whisky/",
+          "role": "USD 41.99 / 750 mL / 84 proof checked October 15, 2026. Old seven/eight-year export prose on the same page does not override the exact ten-year product identity."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-rum-finish/",
+          "summary": "The initial rum batch has spice but less aromatic fruit than port, a watery body and a quick, slightly bitter ending.",
+          "scope": "November 8, 2016 purchased ten-year / 42%; single batch, not certified current consistency."
+        },
+        {
+          "reviewer": "Bryan Vanderkruk",
+          "publisher": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/",
+          "summary": "The 2017 rum bottle is sweet and oaky with a short ending; the reviewer nevertheless prefers it to port.",
+          "scope": "September 21, 2017 exact rum section; adjacent 21-year Speyside is separate evidence."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "pike-creek-10-year-port-barrel-finish.html",
+          "name": "Pike Creek ten-year Port Finish",
+          "reason": "The predecessor’s different strength and casks explain why its reviews are not substitutes."
+        },
+        {
+          "url": "pendleton-midnight.html",
+          "name": "Pendleton Midnight",
+          "reason": "Current U.S. Canadian blend alternative using a brandy-barrel portion, not rum."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/pike-creek-double-barreled-canadian-whisky",
+      "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_PikeCreek.png?v=1748439386",
+      "value_confidence": "Provisional; exact dated U.S. offer and matched sensory scope, before tax/shipping"
+    }
+  },
+  {
+    "slug": "pike-creek-21-year-european-oak-2018",
+    "filename": "pike-creek-21-year-european-oak-2018.html",
+    "name": "Pike Creek 21 Year European Oak (2018)",
+    "family": "Pike Creek",
+    "portfolio": null,
+    "category": "Canadian Single Grain",
+    "subcategory": "Canadian Single Grain",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "21 Years",
+    "age_display": "21 Years",
+    "age_sort_years": 21,
+    "mash_bill_display": "Double-column-distilled corn whisky according to the matched technical record. Rye-like tasting descriptors do not add rye to the documented recipe.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.3,
+    "quality_score": 6.3,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 6.5,
+        "flavor_development": 6.0,
+        "finish": 5.8,
+        "technical_cleanliness": 6.9,
+        "texture": 5.8,
+        "maturity_wood_management": 6.5,
+        "distinctiveness": 6.1
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.265,
+      "editorial_adjustment": 0.035,
+      "adjustment_reason": "Good provisional Canadian single-grain execution. Some reviewers praise buttery texture and wood management, while several matched group accounts find a shy nose, thin body and restrained development. Age and wood variety receive no automatic points."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good provisional Canadian single-grain execution. Some reviewers praise buttery texture and wood management, while several matched group accounts find a shy nose, thin body and restrained development. Age and wood variety receive no automatic points.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No sufficiently authenticated exact dated retail offer; an owner’s 80 quote lacks reliable purchase date/currency context",
+    "price_url": "https://www.nicesipper.com/reviews/pikecreek21european",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No current exact U.S./NC offer authenticated; owner-paid and undated historical prices are not forced into Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2018,
+    "release_scope": "Pike Creek 21 Year Finished in European Oak, 2018 Northern Borders Rare Collection, 45% ABV / 90 proof, 750 mL; French/Hungarian-oak expression.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://distiller.com/spirits/pike-creek-21-year-finished-in-european-oak",
+      "https://torontowhiskysociety.ca/2018/10/23/2018-northern-border-collection-review-rare-series/"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "Toronto Whisky Society"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/pike-creek-21-year-finished-in-european-oak",
+        "summary": "Phillips praises rich buttery texture and controlled wood-led development, with a drying spicy finish.",
+        "scope": "Exact 2018 twenty-one-year / 45% release; grade is not converted."
+      },
+      {
+        "reviewer": "Toronto Whisky Society members",
+        "publisher": "Toronto Whisky Society",
+        "url": "https://torontowhiskysociety.ca/2018/10/23/2018-northern-border-collection-review-rare-series/",
+        "summary": "Several accounts find restrained aromas, modest development and medium finish; others enjoy clean spice, chocolate/citrus detail and approachable balance.",
+        "scope": "October 23, 2018 brand-supplied group samples; one platform, not a count of independent publishers."
+      }
+    ],
+    "source_urls": [
+      "https://www.newswire.ca/news-releases/corby-spirit-and-wine-announces-full-year-results-and-quarterly-dividend-874860629.html",
+      "https://distiller.com/spirits/pike-creek-21-year-finished-in-european-oak",
+      "https://torontowhiskysociety.ca/2018/10/23/2018-northern-border-collection-review-rare-series/",
+      "https://www.nicesipper.com/reviews/pikecreek21european"
+    ],
+    "production_summary": "Distiller’s exact record describes a blend of corn-whisky streams: 50% ex-bourbon, 25% French oak and 25% Hungarian oak, at twenty-one years and 45%. The shares are attributed technical reporting. Those cask portions do not prove three sequential whole-blend finishes. Corby’s 2019 results confirm the named 2018 European Oak release. The established Canadian Single Grain group is appropriate for the documented corn identity.",
+    "finishing_information": "Ex-bourbon plus French- and Hungarian-oak component treatment; exact sequence/durations not established for every stream.",
+    "identity_note": null,
+    "history": [
+      "This is the 2018 twenty-one-year European Oak edition, not the 2017 Speyside finish. The exact label photograph and contemporary 2018 group review distinguish it.",
+      "An owner’s USD-unspecified 80 price and later private prices are not made a current U.S. retail offer."
+    ],
+    "comparables": [
+      {
+        "url": "pike-creek-21-year-speyside-cask-finish-2017.html",
+        "name": "Pike Creek 21 Speyside 2017",
+        "reason": "A corn/rye blend and different cask treatment rather than this documented corn stream blend."
+      },
+      {
+        "url": "bearface-triple-oak-7-year.html",
+        "name": "Bearface 7 Year Triple Oak",
+        "reason": "Another Canadian single-grain/corn cask study; age does not define equal execution."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before paying a scarcity or age premium; a dated exact U.S. offer is required before numerical buying thresholds.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://torontowhiskysociety.ca/2018/10/23/2018-northern-border-collection-review-rare-series/",
+        "image_url": "https://i0.wp.com/torontowhiskysociety.ca/wp-content/uploads/2018/10/20180928135415.jpg?resize=650%2C974&ssl=1",
+        "scope": "Pike Creek 21 Year Finished in European Oak, 2018 Northern Borders Rare Collection, 45% ABV / 90 proof, 750 mL; French/Hungarian-oak expression.",
+        "sha256": "71652ff92db3d2235d7246cbb28402b7343438931d32b94dc74bb34e800cfe88",
+        "image_embedded": true,
+        "width": 650,
+        "height": 974
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Pike Creek 21 Year Finished in European Oak, 2018 Northern Borders Rare Collection, 45% ABV / 90 proof, 750 mL; French/Hungarian-oak expression.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-033",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before paying a scarcity or age premium; a dated exact U.S. offer is required before numerical buying thresholds.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "pike-creek-21-year-european-oak-2018",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain",
+      "proof": 90,
+      "age": 21,
+      "age_display": "21 Years",
+      "release_year": 2018,
+      "quality": 6.3,
+      "value": null,
+      "dimensions": [
+        6.5,
+        6.0,
+        5.8,
+        6.9,
+        5.8,
+        6.5,
+        6.1
+      ],
+      "identity": "Pike Creek 21 Year Finished in European Oak, 2018 Northern Borders Rare Collection, 45% ABV / 90 proof, 750 mL; French/Hungarian-oak expression.",
+      "short_version": "A subtle corn-whisky cask study with mixed evidence for depth and body. The European-oak release is separate from the 2017 Speyside and later sherry bottles.",
+      "grain": "Double-column-distilled corn whisky according to the matched technical record. Rye-like tasting descriptors do not add rye to the documented recipe.",
+      "production": "Distiller’s exact record describes a blend of corn-whisky streams: 50% ex-bourbon, 25% French oak and 25% Hungarian oak, at twenty-one years and 45%. The shares are attributed technical reporting. Those cask portions do not prove three sequential whole-blend finishes. Corby’s 2019 results confirm the named 2018 European Oak release. The established Canadian Single Grain group is appropriate for the documented corn identity.",
+      "finish": "Ex-bourbon plus French- and Hungarian-oak component treatment; exact sequence/durations not established for every stream.",
+      "history": [
+        "This is the 2018 twenty-one-year European Oak edition, not the 2017 Speyside finish. The exact label photograph and contemporary 2018 group review distinguish it.",
+        "An owner’s USD-unspecified 80 price and later private prices are not made a current U.S. retail offer."
+      ],
+      "quality_rationale": "Good provisional Canadian single-grain execution. Some reviewers praise buttery texture and wood management, while several matched group accounts find a shy nose, thin body and restrained development. Age and wood variety receive no automatic points.",
+      "pricing": {
+        "amount": null,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://www.nicesipper.com/reviews/pikecreek21european",
+        "basis": "No sufficiently authenticated exact dated retail offer; an owner’s 80 quote lacks reliable purchase date/currency context",
+        "nc_status": "No current exact U.S./NC offer authenticated; owner-paid and undated historical prices are not forced into Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Corby corporate record",
+          "url": "https://www.newswire.ca/news-releases/corby-spirit-and-wine-announces-full-year-results-and-quarterly-dividend-874860629.html",
+          "role": "Issuer confirms 2018 European Oak release as a separate Rare Collection expression."
+        },
+        {
+          "title": "Blair Phillips — Distiller exact European Oak",
+          "url": "https://distiller.com/spirits/pike-creek-21-year-finished-in-european-oak",
+          "role": "Twenty-one years / 45%, double-distilled corn and attributed 50/25/25 cask shares; favorable sensory account."
+        },
+        {
+          "title": "TWS 2018 group review",
+          "url": "https://torontowhiskysociety.ca/2018/10/23/2018-northern-border-collection-review-rare-series/",
+          "role": "October 23, 2018 supplied samples, divergent depth/body/finish accounts and exact label photograph."
+        },
+        {
+          "title": "Nice Sipper purchased bottle",
+          "url": "https://www.nicesipper.com/reviews/pikecreek21european",
+          "role": "Exact twenty-one-year / 45% owner account; 80 price lacks sufficient dated currency context for a U.S. Value."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/pike-creek-21-year-finished-in-european-oak",
+          "summary": "Phillips praises rich buttery texture and controlled wood-led development, with a drying spicy finish.",
+          "scope": "Exact 2018 twenty-one-year / 45% release; grade is not converted."
+        },
+        {
+          "reviewer": "Toronto Whisky Society members",
+          "publisher": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2018/10/23/2018-northern-border-collection-review-rare-series/",
+          "summary": "Several accounts find restrained aromas, modest development and medium finish; others enjoy clean spice, chocolate/citrus detail and approachable balance.",
+          "scope": "October 23, 2018 brand-supplied group samples; one platform, not a count of independent publishers."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "pike-creek-21-year-speyside-cask-finish-2017.html",
+          "name": "Pike Creek 21 Speyside 2017",
+          "reason": "A corn/rye blend and different cask treatment rather than this documented corn stream blend."
+        },
+        {
+          "url": "bearface-triple-oak-7-year.html",
+          "name": "Bearface 7 Year Triple Oak",
+          "reason": "Another Canadian single-grain/corn cask study; age does not define equal execution."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Single Grain; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://torontowhiskysociety.ca/2018/10/23/2018-northern-border-collection-review-rare-series/",
+      "image_url": "https://i0.wp.com/torontowhiskysociety.ca/wp-content/uploads/2018/10/20180928135415.jpg?resize=650%2C974&ssl=1"
+    }
+  },
+  {
+    "slug": "pike-creek-21-year-speyside-cask-finish-2017",
+    "filename": "pike-creek-21-year-speyside-cask-finish-2017.html",
+    "name": "Pike Creek 21 Year Speyside Cask Finish (2017)",
+    "family": "Pike Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "21 Years",
+    "age_display": "21 Years",
+    "age_sort_years": 21,
+    "mash_bill_display": "Corn-led Canadian blend with rye; approximately 3% rye appears in matched brand-session reporting. Complete ratio and source Scotch distillery not primary-authenticated.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 6.9,
+    "quality_score": 6.9,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.0,
+        "flavor_development": 6.8,
+        "finish": 6.8,
+        "technical_cleanliness": 7.5,
+        "texture": 7.1,
+        "maturity_wood_management": 6.8,
+        "distinctiveness": 7.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.995,
+      "editorial_adjustment": -0.095,
+      "adjustment_reason": "Good-to-very-good provisional Canadian blend execution. Buttery texture and balanced sweet/spice development are supported; modest definition, cloying sweetness in one account and only medium persistence in another restrain the score."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Good-to-very-good provisional Canadian blend execution. Buttery texture and balanced sweet/spice development are supported; modest definition, cloying sweetness in one account and only medium persistence in another restrain the score.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Canadian producer launch price CAD 89.95 / 750 mL, September 19, 2017; not USD",
+    "price_url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+    "price_period": "2017-09-19",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 89.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2017,
+    "release_scope": "Pike Creek 21 Year Speyside Single Malt Cask Finish, 2017 Northern Border Rare Release, 45% ABV / 90 proof, 750 mL.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whisky.buzz/blog/pike-creek-21-year-old-finished-in-speyside-single-malt-casks-review",
+      "https://whiskyanalysis.com/index.php/2017/11/09/pike-creek-21-year-old-speyside-cask-finish/"
+    ],
+    "review_publishers": [
+      "Whisky Buzz",
+      "Selfbuilt’s Whisky Analysis"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Mark Bylok",
+        "publisher": "Whisky Buzz",
+        "url": "https://whisky.buzz/blog/pike-creek-21-year-old-finished-in-speyside-single-malt-casks-review",
+        "summary": "The rich sweet/spicy palate has a buttery, persistent ending, but initially becomes cloying. Air improves its balance.",
+        "scope": "November 2017 exact 21-year Speyside bottle; brand background speculation about direct port addition does not apply here."
+      },
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2017/11/09/pike-creek-21-year-old-speyside-cask-finish/",
+        "summary": "The bottle is clean, gently balanced and somewhat buttery, with a medium ending; its subtle hints never develop a sharply defined character.",
+        "scope": "November 9, 2017 exact 45% Speyside; differs from the very-long-finish account rather than being silently reconciled."
+      }
+    ],
+    "source_urls": [
+      "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+      "https://whisky.buzz/blog/pike-creek-21-year-old-finished-in-speyside-single-malt-casks-review",
+      "https://whiskyanalysis.com/index.php/2017/11/09/pike-creek-21-year-old-speyside-cask-finish/",
+      "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/"
+    ],
+    "production_summary": "Corby’s September 19, 2017 issuer announcement verifies twenty-one years and a Speyside-malt-cask finish. Label and matched reviews verify 45%. Canadian-whisky maturation precedes the Scotch-cask stage; finish duration is not established here. Reporting associates the casks with Chivas Brothers but does not authenticate a named distillery. A previous malt cask does not prove Scotch liquid was added.",
+    "finishing_information": "Speyside single-malt-whisky cask finish; Scotch distillery and duration undisclosed.",
+    "identity_note": null,
+    "history": [
+      "Announced September 2017 for October Canadian availability at CAD 89.95 / 750 mL. A later European Oak twenty-one-year is a separate expression.",
+      "The cask source is a production detail, not permission to calibrate this Canadian blend as Scotch single malt."
+    ],
+    "comparables": [
+      {
+        "url": "pike-creek-21-year-european-oak-2018.html",
+        "name": "Pike Creek 21 European Oak 2018",
+        "reason": "Different grain/cask evidence and a separate twenty-one-year release."
+      },
+      {
+        "url": "pike-creek-22-year-px-cask-finish.html",
+        "name": "Pike Creek 22 PX",
+        "reason": "Later sherry-cask study with its own exact review and price context."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before paying a scarcity or age premium; a dated exact U.S. offer is required before numerical buying thresholds.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://whisky.buzz/blog/pike-creek-21-year-old-finished-in-speyside-single-malt-casks-review",
+        "image_url": "https://static1.squarespace.com/static/5334951ae4b0ecb20d5c1d1b/53acb632e4b07d14da711472/5a20a2f8f9619acc4f4eedde/1512088564210/DSC05681.jpg?format=1500w",
+        "scope": "Pike Creek 21 Year Speyside Single Malt Cask Finish, 2017 Northern Border Rare Release, 45% ABV / 90 proof, 750 mL.",
+        "sha256": "cc0dca0a9f4717bed978a94a82ca4a47d69f82555519261da61b3225c02732c9",
+        "image_embedded": true,
+        "width": 1280,
+        "height": 1067
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Pike Creek 21 Year Speyside Single Malt Cask Finish, 2017 Northern Border Rare Release, 45% ABV / 90 proof, 750 mL.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-033",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before paying a scarcity or age premium; a dated exact U.S. offer is required before numerical buying thresholds.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "pike-creek-21-year-speyside-cask-finish-2017",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "proof": 90,
+      "age": 21,
+      "age_display": "21 Years",
+      "release_year": 2017,
+      "quality": 6.9,
+      "value": null,
+      "dimensions": [
+        7.0,
+        6.8,
+        6.8,
+        7.5,
+        7.1,
+        6.8,
+        7.0
+      ],
+      "identity": "Pike Creek 21 Year Speyside Single Malt Cask Finish, 2017 Northern Border Rare Release, 45% ABV / 90 proof, 750 mL.",
+      "short_version": "A gentle, buttery Canadian blend with an unusual malt-cask accent. Independent accounts support balance but disagree on sweetness and finish length.",
+      "grain": "Corn-led Canadian blend with rye; approximately 3% rye appears in matched brand-session reporting. Complete ratio and source Scotch distillery not primary-authenticated.",
+      "production": "Corby’s September 19, 2017 issuer announcement verifies twenty-one years and a Speyside-malt-cask finish. Label and matched reviews verify 45%. Canadian-whisky maturation precedes the Scotch-cask stage; finish duration is not established here. Reporting associates the casks with Chivas Brothers but does not authenticate a named distillery. A previous malt cask does not prove Scotch liquid was added.",
+      "finish": "Speyside single-malt-whisky cask finish; Scotch distillery and duration undisclosed.",
+      "history": [
+        "Announced September 2017 for October Canadian availability at CAD 89.95 / 750 mL. A later European Oak twenty-one-year is a separate expression.",
+        "The cask source is a production detail, not permission to calibrate this Canadian blend as Scotch single malt."
+      ],
+      "quality_rationale": "Good-to-very-good provisional Canadian blend execution. Buttery texture and balanced sweet/spice development are supported; modest definition, cloying sweetness in one account and only medium persistence in another restrain the score.",
+      "pricing": {
+        "amount": 89.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2017-09-19",
+        "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+        "basis": "Historical Canadian producer launch price CAD 89.95 / 750 mL, September 19, 2017; not USD",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Corby 2017 exact announcement",
+          "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+          "role": "Twenty-one years, Speyside finish, October Canadian launch and CAD 89.95."
+        },
+        {
+          "title": "Mark Bylok — Whisky Buzz",
+          "url": "https://whisky.buzz/blog/pike-creek-21-year-old-finished-in-speyside-single-malt-casks-review",
+          "role": "November 2017 exact release, rich texture and persistent spice but cloying sweetness reservation."
+        },
+        {
+          "title": "Selfbuilt exact Speyside",
+          "url": "https://whiskyanalysis.com/index.php/2017/11/09/pike-creek-21-year-old-speyside-cask-finish/",
+          "role": "November 9, 2017, gentle balanced palate but subdued definition and medium finish."
+        },
+        {
+          "title": "TWS 2017 brand session",
+          "url": "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/",
+          "role": "Exact 45% Speyside section; approximately 3% rye attributed, neighboring ten-year rum not merged."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Mark Bylok",
+          "publisher": "Whisky Buzz",
+          "url": "https://whisky.buzz/blog/pike-creek-21-year-old-finished-in-speyside-single-malt-casks-review",
+          "summary": "The rich sweet/spicy palate has a buttery, persistent ending, but initially becomes cloying. Air improves its balance.",
+          "scope": "November 2017 exact 21-year Speyside bottle; brand background speculation about direct port addition does not apply here."
+        },
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2017/11/09/pike-creek-21-year-old-speyside-cask-finish/",
+          "summary": "The bottle is clean, gently balanced and somewhat buttery, with a medium ending; its subtle hints never develop a sharply defined character.",
+          "scope": "November 9, 2017 exact 45% Speyside; differs from the very-long-finish account rather than being silently reconciled."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "pike-creek-21-year-european-oak-2018.html",
+          "name": "Pike Creek 21 European Oak 2018",
+          "reason": "Different grain/cask evidence and a separate twenty-one-year release."
+        },
+        {
+          "url": "pike-creek-22-year-px-cask-finish.html",
+          "name": "Pike Creek 22 PX",
+          "reason": "Later sherry-cask study with its own exact review and price context."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://whisky.buzz/blog/pike-creek-21-year-old-finished-in-speyside-single-malt-casks-review",
+      "image_url": "https://static1.squarespace.com/static/5334951ae4b0ecb20d5c1d1b/53acb632e4b07d14da711472/5a20a2f8f9619acc4f4eedde/1512088564210/DSC05681.jpg?format=1500w"
+    }
+  },
+  {
+    "slug": "pike-creek-22-year-px-cask-finish",
+    "filename": "pike-creek-22-year-px-cask-finish.html",
+    "name": "Pike Creek 22 Year PX Cask Finish",
+    "family": "Pike Creek",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "22 Years",
+    "age_display": "22 Years",
+    "age_sort_years": 22,
+    "mash_bill_display": "Corn and rye, current producer-confirmed; component percentages undisclosed.",
+    "mash_bill_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+    "quality": 7.1,
+    "quality_score": 7.1,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "universal_dimensions": {
+        "integration": 7.3,
+        "flavor_development": 6.9,
+        "finish": 7.3,
+        "technical_cleanliness": 6.6,
+        "texture": 7.7,
+        "maturity_wood_management": 6.8,
+        "distinctiveness": 6.7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.075,
+      "editorial_adjustment": 0.025,
+      "adjustment_reason": "Very good provisional Canadian blend execution. Creamy weight, complementary fruit/sweet development and a persistent warm finish have independent support. Moderate complexity and dominant sweetness constrain stronger claims; twenty-two years adds no points."
+    },
+    "quality_calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very good provisional Canadian blend execution. Creamy weight, complementary fruit/sweet development and a persistent warm finish have independent support. Moderate complexity and dominant sweetness constrain stronger claims; twenty-two years adds no points.",
+    "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Current Ontario producer CAD 199.95 / 750 mL reoffer; original 2021-era review CAD 90 is separate",
+    "price_url": "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 199.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2021,
+    "release_scope": "Pike Creek 22 Year Pedro Ximénez / PX Cask Finish, 2021-introduced limited range reoffered in 2024, 45% ABV / 90 proof, 750 mL.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://thegentlemansflavor.com/canadian-whisky-reviews-pike-creek-px-cask-finish-22-yo/",
+      "https://www.worldwhiskiesawards.com/winner-whisky/best-canadian-blended-limited-release-35021-world-whiskies-awards-2022"
+    ],
+    "review_publishers": [
+      "The Gentleman’s Flavor",
+      "World Whiskies Awards"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Kurt Bradley",
+        "publisher": "The Gentleman’s Flavor",
+        "url": "https://thegentlemansflavor.com/canadian-whisky-reviews-pike-creek-px-cask-finish-22-yo/",
+        "summary": "Bradley finds a creamy/syrupy palate, complementary dark-fruit/sweetness and a medium-long warm ending. He calls it very pleasant but not highly complex.",
+        "scope": "Original 2021-introduced twenty-two-year / 45% range; page updated May 2023, exact tasting day unspecified. Current-batch identity limits explicit."
+      },
+      {
+        "reviewer": "Judging panel",
+        "publisher": "World Whiskies Awards",
+        "url": "https://www.worldwhiskiesawards.com/winner-whisky/best-canadian-blended-limited-release-35021-world-whiskies-awards-2022",
+        "summary": "The exact 2022 entry describes a notably sweet palate, developed fruit/nut/grain notes and lingering sweetness, with unusual leafy/polish-like aromatic detail.",
+        "scope": "2022 exact twenty-two-year / 45% PX entry; paraphrased sensory account, no award-to-score conversion."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky",
+      "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky.js",
+      "https://thegentlemansflavor.com/canadian-whisky-reviews-pike-creek-px-cask-finish-22-yo/",
+      "https://www.worldwhiskiesawards.com/winner-whisky/best-canadian-blended-limited-release-35021-world-whiskies-awards-2022",
+      "https://thedropcollective.ca/blog/pike-creek-22-year-old-pedro-ximenez-cask/"
+    ],
+    "production_summary": "Producer verifies twenty-two years, 45%, corn/rye and sweet Pedro Ximénez sherry casks. Complete initial cask history and finish duration are not authenticated. The old original November 2021 review and 2024 catalogue reoffer share the exact named age/finish, but recipe continuity across batches is not independently proven. A twenty-one-year Oloroso predecessor is not this twenty-two-year PX expression.",
+    "finishing_information": "Pedro Ximénez-sherry-cask finish; duration undisclosed.",
+    "identity_note": null,
+    "history": [
+      "Original 2021 release is documented by the dated launch record and independent account. Producer catalogue publication November 26, 2024 records a later reoffer, not the first launch.",
+      "Historical CAD 90 review context is distinct from the checked current CAD 199.95 producer offer. Awards are supporting identity records, not numerical Quality inputs."
+    ],
+    "comparables": [
+      {
+        "url": "pike-creek-21-year-speyside-cask-finish-2017.html",
+        "name": "Pike Creek 21 Speyside",
+        "reason": "Different age and malt-cask finish; related family style without inherited score."
+      },
+      {
+        "url": "pike-creek-10-year-rum-barrel-finish.html",
+        "name": "Pike Creek ten-year Rum",
+        "reason": "Current recurring lower-priced family alternative, with separate strength and U.S. price."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Sample before paying a scarcity or age premium; a dated exact U.S. offer is required before numerical buying thresholds.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky",
+        "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_PikeCreek_22.png?v=1748439368",
+        "scope": "Pike Creek 22 Year Pedro Ximénez / PX Cask Finish, 2021-introduced limited range reoffered in 2024, 45% ABV / 90 proof, 750 mL.",
+        "sha256": "45ba1a524cffb084589beeb74c773a004db97ea5ab260d18aaa1b951126b7a38",
+        "image_embedded": true,
+        "width": 1080,
+        "height": 1890
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Pike Creek 22 Year Pedro Ximénez / PX Cask Finish, 2021-introduced limited range reoffered in 2024, 45% ABV / 90 proof, 750 mL.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-033",
+    "editorial": {
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Sample before paying a scarcity or age premium; a dated exact U.S. offer is required before numerical buying thresholds.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start with a small neat pour and assess development and texture against the attributed accounts."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops or one small cube gradually; compare texture before adding more dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Taste before adding syrup, especially with sweet or wine-influenced expressions; recurring blends can be the cost comparison."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with vermouth or soda, adjusting sweetness and dilution to the documented style."
+        }
+      ],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "id": "pike-creek-22-year-px-cask-finish",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "proof": 90,
+      "age": 22,
+      "age_display": "22 Years",
+      "release_year": 2021,
+      "quality": 7.1,
+      "value": null,
+      "dimensions": [
+        7.3,
+        6.9,
+        7.3,
+        6.6,
+        7.7,
+        6.8,
+        6.7
+      ],
+      "identity": "Pike Creek 22 Year Pedro Ximénez / PX Cask Finish, 2021-introduced limited range reoffered in 2024, 45% ABV / 90 proof, 750 mL.",
+      "short_version": "A rich, sweet sherry-cask Canadian blend with good evidence for texture and persistence, but moderate complexity. Its original and reoffer prices are kept distinct.",
+      "grain": "Corn and rye, current producer-confirmed; component percentages undisclosed.",
+      "production": "Producer verifies twenty-two years, 45%, corn/rye and sweet Pedro Ximénez sherry casks. Complete initial cask history and finish duration are not authenticated. The old original November 2021 review and 2024 catalogue reoffer share the exact named age/finish, but recipe continuity across batches is not independently proven. A twenty-one-year Oloroso predecessor is not this twenty-two-year PX expression.",
+      "finish": "Pedro Ximénez-sherry-cask finish; duration undisclosed.",
+      "history": [
+        "Original 2021 release is documented by the dated launch record and independent account. Producer catalogue publication November 26, 2024 records a later reoffer, not the first launch.",
+        "Historical CAD 90 review context is distinct from the checked current CAD 199.95 producer offer. Awards are supporting identity records, not numerical Quality inputs."
+      ],
+      "quality_rationale": "Very good provisional Canadian blend execution. Creamy weight, complementary fruit/sweet development and a persistent warm finish have independent support. Moderate complexity and dominant sweetness constrain stronger claims; twenty-two years adds no points.",
+      "pricing": {
+        "amount": 199.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky",
+        "basis": "Current Ontario producer CAD 199.95 / 750 mL reoffer; original 2021-era review CAD 90 is separate",
+        "nc_status": "No exact dated U.S./NC consumer offer authenticated; Canadian prices do not establish USD Cost or Value."
+      },
+      "sources": [
+        {
+          "title": "Producer exact twenty-two-year PX",
+          "url": "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky",
+          "role": "Twenty-two years / 45% / corn and rye, PX finish, exact photograph and current CAD 199.95 offer."
+        },
+        {
+          "title": "Producer machine-readable product",
+          "url": "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky.js",
+          "role": "November 26, 2024 catalogue publication is later reoffer, not initial release date."
+        },
+        {
+          "title": "Kurt Bradley — The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/canadian-whisky-reviews-pike-creek-px-cask-finish-22-yo/",
+          "role": "Substantive exact 45% twenty-two-year account identifies November 2021 release, texture/finish detail and moderate complexity."
+        },
+        {
+          "title": "World Whiskies Awards 2022 exact entry",
+          "url": "https://www.worldwhiskiesawards.com/winner-whisky/best-canadian-blended-limited-release-35021-world-whiskies-awards-2022",
+          "role": "Named 22-year PX / 45% independent descriptive tasting inspected; award result itself not scored."
+        },
+        {
+          "title": "Original November 2021 release record",
+          "url": "https://thedropcollective.ca/blog/pike-creek-22-year-old-pedro-ximenez-cask/",
+          "role": "Indexed November 8, 2021 issuer-associated record; current page retrieval intermittent, not a live stock offer."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Kurt Bradley",
+          "publisher": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/canadian-whisky-reviews-pike-creek-px-cask-finish-22-yo/",
+          "summary": "Bradley finds a creamy/syrupy palate, complementary dark-fruit/sweetness and a medium-long warm ending. He calls it very pleasant but not highly complex.",
+          "scope": "Original 2021-introduced twenty-two-year / 45% range; page updated May 2023, exact tasting day unspecified. Current-batch identity limits explicit."
+        },
+        {
+          "reviewer": "Judging panel",
+          "publisher": "World Whiskies Awards",
+          "url": "https://www.worldwhiskiesawards.com/winner-whisky/best-canadian-blended-limited-release-35021-world-whiskies-awards-2022",
+          "summary": "The exact 2022 entry describes a notably sweet palate, developed fruit/nut/grain notes and lingering sweetness, with unusual leafy/polish-like aromatic detail.",
+          "scope": "2022 exact twenty-two-year / 45% PX entry; paraphrased sensory account, no award-to-score conversion."
+        }
+      ],
+      "comparables": [
+        {
+          "url": "pike-creek-21-year-speyside-cask-finish-2017.html",
+          "name": "Pike Creek 21 Speyside",
+          "reason": "Different age and malt-cask finish; related family style without inherited score."
+        },
+        {
+          "url": "pike-creek-10-year-rum-barrel-finish.html",
+          "name": "Pike Creek ten-year Rum",
+          "reason": "Current recurring lower-priced family alternative, with separate strength and U.S. price."
+        }
+      ],
+      "videos": [],
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "calibration_basis": "No defensible complete Canadian native 1/5/10 framework is established for this comparison group. Seven universal execution dimensions are assessed within Canadian Blended Whisky; unrelated American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "Published sample evidence, not first-person tasting or a representative survey. Reviewer disagreement and recipe-era limitations remain explicit; publisher grades are not mechanically converted.",
+      "quality_confidence": "Evidence-limited provisional; matched independent tasting with sample and era limitations",
+      "image_source": "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky",
+      "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_PikeCreek_22.png?v=1748439368"
+    }
   }
 ]

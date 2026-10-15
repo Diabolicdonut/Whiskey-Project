@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 31,
-    "accepted": 194
+    "pending": 22,
+    "accepted": 203
   },
   "entries": [
     {
@@ -15155,17 +15155,17 @@
       "producer": "U.S. Pendleton brand / Proximo; Canadian whisky sourcing, U.S. proofing and bottling",
       "status": "current",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 12.0,
-      "age_information": "12 years",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "age_statement_years": 12,
+      "age_information": "12 Years",
+      "grain_information": "100% rye, producer-confirmed; malted/unmalted breakdown and named Canadian source distillery undisclosed.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Oak maturation; no separately documented secondary finish.",
       "release_year_or_era": "2011",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -15176,13 +15176,63 @@
       ],
       "potential_image_source": "https://store.pendletonwhisky.com/collections/whiskies",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Beverage Testing Institute panel",
+            "publisher": "Tastings",
+            "url": "https://www.tastings.com/Spirits-Review/Pendleton-1910-12-Year-Old-Canadian-Rye-Whiskey-Canada-08-04-2026.aspx",
+            "summary": "The current sample has developed toasted/spicy character, medium body and a warming, medium-long herb/vanilla ending.",
+            "scope": "Tasted July 28, 2026, exact twelve-year / 40%; grade not mechanically converted."
+          },
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+            "summary": "The 2022 rye is pleasant but muted and relatively simple, centered on tea and restrained spice.",
+            "scope": "June 13, 2022, exact 1910 twelve-year section; sample-era difference explicit."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 203
+      "deterministic_order": 203,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-033",
+      "publication_sources": [
+        {
+          "title": "Producer 1910 Rye specifications",
+          "url": "https://pendletonwhisky.com/whiskies/pendleton-1910-rye/",
+          "role": "Twelve-year / all-rye / Canada / 40% exact identity; distinct from ten-year bourbon."
+        },
+        {
+          "title": "Producer exact U.S. store",
+          "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-1910-rye",
+          "role": "USD 50 / 750 mL and exact pack; licensed third-party retail fulfillment."
+        },
+        {
+          "title": "Proximo ownership/importing record",
+          "url": "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+          "role": "Canadian whisky imported and bottled in Hood River for Proximo."
+        },
+        {
+          "title": "Tastings July 28, 2026",
+          "url": "https://www.tastings.com/Spirits-Review/Pendleton-1910-12-Year-Old-Canadian-Rye-Whiskey-Canada-08-04-2026.aspx",
+          "role": "Matched 40% sensory description; publisher grade and American rye boilerplate are not calibration endpoints."
+        },
+        {
+          "title": "Drinkhacker 2022 retrospective",
+          "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+          "role": "Only exact 1910 twelve-year section used here; neighboring Original and Midnight are separate expressions."
+        },
+        {
+          "title": "Contemporary 2011 release record",
+          "url": "https://www.shankennewsdaily.com/2011/07/19/1180/news-briefs-for-july-19-2011/",
+          "role": "September local introduction and October national roll-out announced in July 2011."
+        }
+      ]
     },
     {
       "id": "pendleton-directors-reserve-20-year",
@@ -15192,17 +15242,17 @@
       "producer": "U.S. Pendleton brand / Proximo; Canadian whisky sourcing, U.S. proofing and bottling",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 20.0,
-      "age_information": "20 years",
-      "grain_information": "Undisclosed Canadian blend",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "age_statement_years": 20,
+      "age_information": "20 Years",
+      "grain_information": "Canadian blended whisky; exact cereals, blend ratios and Canadian source distillery undisclosed.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "American-oak maturation; no separately verified secondary finish.",
       "release_year_or_era": "2016",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -15213,13 +15263,58 @@
       ],
       "potential_image_source": "https://pendletonwhisky.com/whiskies/directors-reserve/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Beverage Testing Institute panel",
+            "publisher": "Tastings",
+            "url": "https://www.tastings.com/Spirits-Review/Pendleton-20-Year-Old-Directors-Reserve-Blended-Canadian-Whisky-Canada-08-01-2026.aspx",
+            "summary": "The 2026 sample combines silky pastry-like richness with a balancing fruit-skin edge and a medium-long warm ending.",
+            "scope": "Tasted July 22, 2026; published award/grade is not converted."
+          },
+          {
+            "reviewer": "Talia Gragg",
+            "publisher": "The Whiskey Wash",
+            "url": "https://thewhiskeywash.com/reviews/whisky-review-pendleton-directors-reserve-20-year-old-whisky/",
+            "summary": "Gragg finds a developing oak/toast/nut-to-molasses progression with more depth than other Pendletons, but less distinction than expected at its age and price.",
+            "scope": "December 15, 2020, exact twenty-year / 40%; unknown purchased versus supplied sample, and no detailed separate finish note."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 204
+      "deterministic_order": 204,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-033",
+      "publication_sources": [
+        {
+          "title": "Producer exact twenty-year identity",
+          "url": "https://pendletonwhisky.com/whiskies/directors-reserve/",
+          "role": "Twenty years, American oak, 40%, current presentation."
+        },
+        {
+          "title": "Producer exact U.S. store",
+          "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-directors-reserve",
+          "role": "USD 214.99 / 750 mL current advertised offer; retail-network fulfillment."
+        },
+        {
+          "title": "Proximo ownership/importing record",
+          "url": "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+          "role": "Hood River bottling and Proximo distribution; Canadian source not disclosed."
+        },
+        {
+          "title": "Tastings July 22, 2026",
+          "url": "https://www.tastings.com/Spirits-Review/Pendleton-20-Year-Old-Directors-Reserve-Blended-Canadian-Whisky-Canada-08-01-2026.aspx",
+          "role": "Matched recent 40% / twenty-year sensory assessment."
+        },
+        {
+          "title": "Talia Gragg — The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/reviews/whisky-review-pendleton-directors-reserve-20-year-old-whisky/",
+          "role": "December 15, 2020 exact 40% / twenty-year older sample and USD 154 historical context; sample acquisition ambiguity disclosed by publisher."
+        }
+      ]
     },
     {
       "id": "pendleton-midnight",
@@ -15229,17 +15324,17 @@
       "producer": "U.S. Pendleton brand / Proximo; Canadian whisky sourcing, U.S. proofing and bottling",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed Canadian blend",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Port wine barrel-aged component",
+      "age_information": "NAS",
+      "grain_information": "Complete Canadian blend cereals, proportions and source distillery undisclosed. Brandy-barrel influence does not prove brandy liquid was added.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "American-brandy-barrel-aged portion; not a verified port finish or a whole-blend six-year age statement.",
       "release_year_or_era": "2015",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -15250,13 +15345,53 @@
       ],
       "potential_image_source": "https://pendletonwhisky.com/whiskies/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Beverage Testing Institute panel",
+            "publisher": "Tastings",
+            "url": "https://www.tastings.com/Spirits-Review/Pendleton-Midnight-Brandy-Barrel-Finished-Whisky-Canada-90-Proof-08-01-2026.aspx",
+            "summary": "The current sample is soft and silky, with sweet aromatic development and a peppery nut/fruit ending.",
+            "scope": "Tasted July 22, 2026 exact 45%; grade not converted."
+          },
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+            "summary": "Null prefers its fruit and balance to Original, finding restrained heat and a soothing sweet finish.",
+            "scope": "June 13, 2022 Midnight section only; separate batches and old USD 28 reference not current offer."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 205
+      "deterministic_order": 205,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-033",
+      "publication_sources": [
+        {
+          "title": "Producer exact Midnight offer",
+          "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-midnight",
+          "role": "NAS, 45%, American brandy-barrel portion, exact pack and current USD 45.99."
+        },
+        {
+          "title": "Proximo ownership/importing record",
+          "url": "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+          "role": "Hood River bottling of Canadian whisky for Proximo."
+        },
+        {
+          "title": "Tastings July 22, 2026",
+          "url": "https://www.tastings.com/Spirits-Review/Pendleton-Midnight-Brandy-Barrel-Finished-Whisky-Canada-90-Proof-08-01-2026.aspx",
+          "role": "Exact 45% current sample with body and finish description."
+        },
+        {
+          "title": "Christopher Null — 2022 retrospective",
+          "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+          "role": "Matched Midnight section; six-plus-year report is component-specific, not label age."
+        }
+      ]
     },
     {
       "id": "pendleton-ordinary-military-rodeo-packaging-editions",
@@ -15297,17 +15432,17 @@
       "producer": "U.S. Pendleton brand / Proximo; Canadian whisky sourcing, U.S. proofing and bottling",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed Canadian blend",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "age_information": "NAS",
+      "grain_information": "Exact Canadian cereals, blend ratios and source distillery undisclosed; no presumed corn/rye formula forced.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Oak maturation; no separately documented secondary finish.",
       "release_year_or_era": "2003",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -15318,13 +15453,58 @@
       ],
       "potential_image_source": "https://pendletonwhisky.com/whiskies/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Keith Allison",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/pendleton-blended-canadian-whisky",
+            "summary": "An initial glue-like aroma fades into dominant sweetness, with light body and little lasting finish.",
+            "scope": "Exact NAS / 40% range record, not an authenticated current batch; descriptor is not a chemical diagnosis."
+          },
+          {
+            "reviewer": "Christopher Null",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+            "summary": "The NAS Original is intensely sweet and hot, with modest spice development; Null recommends mixing with less added sweetener.",
+            "scope": "June 13, 2022 Original section; ten-year predecessor and site-generated numerical grade excluded."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 207
+      "deterministic_order": 207,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-033",
+      "publication_sources": [
+        {
+          "title": "Producer exact Original offer",
+          "url": "https://store.pendletonwhisky.com/products/pendleton-whisky-original-recipe",
+          "role": "Current NAS / 40% pack and USD 32.99 U.S. retail-network offer."
+        },
+        {
+          "title": "Hood River corporate history",
+          "url": "https://www.hrdspirits.com/news/hood-river-distillers-celebrates-90th-anniversary",
+          "role": "Original owner dates launch to 2003 and completed Proximo sale to 2018."
+        },
+        {
+          "title": "Proximo ownership/importing record",
+          "url": "https://proximospirits.com/news-and-press/pendleton-whisky-scores-with-minnesota-vikings-in-new-partnership/",
+          "role": "Canadian whisky imported/bottled in Hood River; brand ownership separate."
+        },
+        {
+          "title": "Keith Allison — Distiller",
+          "url": "https://distiller.com/spirits/pendleton-blended-canadian-whisky",
+          "role": "Matched NAS / 40% independent sensory record, including light body and weak finish."
+        },
+        {
+          "title": "Christopher Null — 2022 retrospective",
+          "url": "https://www.drinkhacker.com/2022/06/13/review-pendleton-canadian-whisky-original-midnight-and-rye-12-years-old-2022/",
+          "role": "Original NAS section only; historical age-statement removal and sweet/hot mixing assessment."
+        }
+      ]
     },
     {
       "id": "pike-creek-10-year-port-barrel-finish",
@@ -15334,17 +15514,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "historical",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
-      "grain_information": "Corn and rye; proportions undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Port casks",
-      "release_year_or_era": "2012–2016 revival",
+      "age_statement_years": 10,
+      "age_information": "10 Years",
+      "grain_information": "Complete exact-era cereal recipe and ratios not authenticated. Broader family corn/rye reporting is not treated as a precise historical mash bill.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Vintage-port-pipe finish after once-used bourbon barrels; duration not established.",
+      "release_year_or_era": "2012",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -15355,13 +15535,48 @@
       ],
       "potential_image_source": "https://whiskyauctioneer.com/learn/explore-whisky/brands/pike-creek",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/pike-creek-10-year-old-40-alcvol.html",
+            "summary": "The ten-year domestic bottle is fruit-led and gently spicy, with rising warmth and a long citrus-edged finish.",
+            "scope": "March 6, 2013 ten-year / 40% scope; NAS export account excluded."
+          },
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-port-finish/",
+            "summary": "A later domestic bottle has an inviting fruit/spice nose, but a thinner, less fruity palate and a surprisingly short ending.",
+            "scope": "November 8, 2016 exact ten-year Port, purchased at LCBO; speculation about color is not a verified additive formula."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 208
+      "deterministic_order": 208,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-033",
+      "publication_sources": [
+        {
+          "title": "Canadian Whisky — exact ten-year domestic",
+          "url": "https://canadianwhisky.org/blog/reviews/pike-creek-10-year-old-40-alcvol.html",
+          "role": "March 6, 2013, 40%, ten years, once-used bourbon then port pipes and Canadian price."
+        },
+        {
+          "title": "Selfbuilt — exact ten-year Port",
+          "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-port-finish/",
+          "role": "November 8, 2016 late domestic batch, substantive sensory account and label-detail photograph."
+        },
+        {
+          "title": "Canadian Whisky — distinct NAS export",
+          "url": "https://canadianwhisky.org/blog/reviews/pike-creek-export-edition-40-alcvol.html",
+          "role": "June 2013 U.S. NAS identity and USD 32 are excluded from the ten-year dossier’s price and tasting assessment."
+        }
+      ]
     },
     {
       "id": "pike-creek-10-year-rum-barrel-finish",
@@ -15371,17 +15586,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 84.0,
+      "proof": 84,
       "abv": 42.0,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
-      "grain_information": "Corn and rye; proportions undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Rum casks",
-      "release_year_or_era": "2016 onward",
+      "age_statement_years": 10,
+      "age_information": "10 Years",
+      "grain_information": "Corn and rye; matched brand-representative reporting gives approximately 3% rye, not a universal ratio established for every current batch.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Rum-cask finish after ex-bourbon maturation; 120-day Guyana-cask account attributed to 2017 reporting, current duration undisclosed.",
+      "release_year_or_era": "2016",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -15392,13 +15607,53 @@
       ],
       "potential_image_source": "https://whiskyauctioneer.com/learn/explore-whisky/brands/pike-creek",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-rum-finish/",
+            "summary": "The initial rum batch has spice but less aromatic fruit than port, a watery body and a quick, slightly bitter ending.",
+            "scope": "November 8, 2016 purchased ten-year / 42%; single batch, not certified current consistency."
+          },
+          {
+            "reviewer": "Bryan Vanderkruk",
+            "publisher": "Toronto Whisky Society",
+            "url": "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/",
+            "summary": "The 2017 rum bottle is sweet and oaky with a short ending; the reviewer nevertheless prefers it to port.",
+            "scope": "September 21, 2017 exact rum section; adjacent 21-year Speyside is separate evidence."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 209
+      "deterministic_order": 209,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-033",
+      "publication_sources": [
+        {
+          "title": "Producer exact rum-finished pack",
+          "url": "https://shop.jpwisers.com/products/pike-creek-double-barreled-canadian-whisky",
+          "role": "Current ten-year label, 42%, rum finish and Ontario CAD 40.95 separately."
+        },
+        {
+          "title": "Selfbuilt 2016 rum release",
+          "url": "https://whiskyanalysis.com/index.php/2016/11/08/pike-creek-10-year-old-rum-finish/",
+          "role": "November 8, 2016 purchased initial batch, September recipe change, thinness and bitter/short ending."
+        },
+        {
+          "title": "TWS 2017 brand-session report",
+          "url": "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/",
+          "role": "Exact 42% rum section: Guyana casks and 120 days, differing view versus old port release."
+        },
+        {
+          "title": "Caskers exact current U.S. offer",
+          "url": "https://www.caskers.com/pike-creek-10-year-old-rum-barrel-finish-canadian-whisky/",
+          "role": "USD 41.99 / 750 mL / 84 proof checked October 15, 2026. Old seven/eight-year export prose on the same page does not override the exact ten-year product identity."
+        }
+      ]
     },
     {
       "id": "pike-creek-21-year-european-oak-2018",
@@ -15407,18 +15662,18 @@
       "brand_family": "Pike Creek",
       "producer": "Hiram Walker & Sons / Corby",
       "status": "limited",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 21.0,
-      "age_information": "21 years",
-      "grain_information": "Corn-led; exact recipe undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "European oak",
+      "whisky_category": "Canadian Single Grain",
+      "proof": 90,
+      "abv": 45.0,
+      "age_statement_years": 21,
+      "age_information": "21 Years",
+      "grain_information": "Double-column-distilled corn whisky according to the matched technical record. Rye-like tasting descriptors do not add rye to the documented recipe.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Ex-bourbon plus French- and Hungarian-oak component treatment; exact sequence/durations not established for every stream.",
       "release_year_or_era": "2018",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -15429,13 +15684,53 @@
       ],
       "potential_image_source": "https://www.newswire.ca/news-releases/corby-spirit-and-wine-announces-full-year-results-and-quarterly-dividend-874860629.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/pike-creek-21-year-finished-in-european-oak",
+            "summary": "Phillips praises rich buttery texture and controlled wood-led development, with a drying spicy finish.",
+            "scope": "Exact 2018 twenty-one-year / 45% release; grade is not converted."
+          },
+          {
+            "reviewer": "Toronto Whisky Society members",
+            "publisher": "Toronto Whisky Society",
+            "url": "https://torontowhiskysociety.ca/2018/10/23/2018-northern-border-collection-review-rare-series/",
+            "summary": "Several accounts find restrained aromas, modest development and medium finish; others enjoy clean spice, chocolate/citrus detail and approachable balance.",
+            "scope": "October 23, 2018 brand-supplied group samples; one platform, not a count of independent publishers."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 210
+      "deterministic_order": 210,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-033",
+      "publication_sources": [
+        {
+          "title": "Corby corporate record",
+          "url": "https://www.newswire.ca/news-releases/corby-spirit-and-wine-announces-full-year-results-and-quarterly-dividend-874860629.html",
+          "role": "Issuer confirms 2018 European Oak release as a separate Rare Collection expression."
+        },
+        {
+          "title": "Blair Phillips — Distiller exact European Oak",
+          "url": "https://distiller.com/spirits/pike-creek-21-year-finished-in-european-oak",
+          "role": "Twenty-one years / 45%, double-distilled corn and attributed 50/25/25 cask shares; favorable sensory account."
+        },
+        {
+          "title": "TWS 2018 group review",
+          "url": "https://torontowhiskysociety.ca/2018/10/23/2018-northern-border-collection-review-rare-series/",
+          "role": "October 23, 2018 supplied samples, divergent depth/body/finish accounts and exact label photograph."
+        },
+        {
+          "title": "Nice Sipper purchased bottle",
+          "url": "https://www.nicesipper.com/reviews/pikecreek21european",
+          "role": "Exact twenty-one-year / 45% owner account; 80 price lacks sufficient dated currency context for a U.S. Value."
+        }
+      ]
     },
     {
       "id": "pike-creek-21-year-speyside-cask-finish-2017",
@@ -15445,17 +15740,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 21.0,
-      "age_information": "21 years",
-      "grain_information": "Corn-led; exact recipe undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Speyside malt casks",
+      "proof": 90,
+      "abv": 45.0,
+      "age_statement_years": 21,
+      "age_information": "21 Years",
+      "grain_information": "Corn-led Canadian blend with rye; approximately 3% rye appears in matched brand-session reporting. Complete ratio and source Scotch distillery not primary-authenticated.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Speyside single-malt-whisky cask finish; Scotch distillery and duration undisclosed.",
       "release_year_or_era": "2017",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -15466,13 +15761,53 @@
       ],
       "potential_image_source": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Mark Bylok",
+            "publisher": "Whisky Buzz",
+            "url": "https://whisky.buzz/blog/pike-creek-21-year-old-finished-in-speyside-single-malt-casks-review",
+            "summary": "The rich sweet/spicy palate has a buttery, persistent ending, but initially becomes cloying. Air improves its balance.",
+            "scope": "November 2017 exact 21-year Speyside bottle; brand background speculation about direct port addition does not apply here."
+          },
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2017/11/09/pike-creek-21-year-old-speyside-cask-finish/",
+            "summary": "The bottle is clean, gently balanced and somewhat buttery, with a medium ending; its subtle hints never develop a sharply defined character.",
+            "scope": "November 9, 2017 exact 45% Speyside; differs from the very-long-finish account rather than being silently reconciled."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 211
+      "deterministic_order": 211,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-033",
+      "publication_sources": [
+        {
+          "title": "Corby 2017 exact announcement",
+          "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+          "role": "Twenty-one years, Speyside finish, October Canadian launch and CAD 89.95."
+        },
+        {
+          "title": "Mark Bylok — Whisky Buzz",
+          "url": "https://whisky.buzz/blog/pike-creek-21-year-old-finished-in-speyside-single-malt-casks-review",
+          "role": "November 2017 exact release, rich texture and persistent spice but cloying sweetness reservation."
+        },
+        {
+          "title": "Selfbuilt exact Speyside",
+          "url": "https://whiskyanalysis.com/index.php/2017/11/09/pike-creek-21-year-old-speyside-cask-finish/",
+          "role": "November 9, 2017, gentle balanced palate but subdued definition and medium finish."
+        },
+        {
+          "title": "TWS 2017 brand session",
+          "url": "https://torontowhiskysociety.ca/2017/09/21/corbys-northern-border-collection-reviews-of-all-8-expressions/",
+          "role": "Exact 45% Speyside section; approximately 3% rye attributed, neighboring ten-year rum not merged."
+        }
+      ]
     },
     {
       "id": "pike-creek-22-year-px-cask-finish",
@@ -15482,17 +15817,17 @@
       "producer": "Hiram Walker & Sons / Corby",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 22.0,
-      "age_information": "22 years",
-      "grain_information": "Corn and rye; proportions undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Pedro Ximenez sherry",
-      "release_year_or_era": "Producer listing",
+      "proof": 90,
+      "abv": 45.0,
+      "age_statement_years": 22,
+      "age_information": "22 Years",
+      "grain_information": "Corn and rye, current producer-confirmed; component percentages undisclosed.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Pedro Ximénez-sherry-cask finish; duration undisclosed.",
+      "release_year_or_era": "2021",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -15503,13 +15838,58 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/collections/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Kurt Bradley",
+            "publisher": "The Gentleman’s Flavor",
+            "url": "https://thegentlemansflavor.com/canadian-whisky-reviews-pike-creek-px-cask-finish-22-yo/",
+            "summary": "Bradley finds a creamy/syrupy palate, complementary dark-fruit/sweetness and a medium-long warm ending. He calls it very pleasant but not highly complex.",
+            "scope": "Original 2021-introduced twenty-two-year / 45% range; page updated May 2023, exact tasting day unspecified. Current-batch identity limits explicit."
+          },
+          {
+            "reviewer": "Judging panel",
+            "publisher": "World Whiskies Awards",
+            "url": "https://www.worldwhiskiesawards.com/winner-whisky/best-canadian-blended-limited-release-35021-world-whiskies-awards-2022",
+            "summary": "The exact 2022 entry describes a notably sweet palate, developed fruit/nut/grain notes and lingering sweetness, with unusual leafy/polish-like aromatic detail.",
+            "scope": "2022 exact twenty-two-year / 45% PX entry; paraphrased sensory account, no award-to-score conversion."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 212
+      "deterministic_order": 212,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-033",
+      "publication_sources": [
+        {
+          "title": "Producer exact twenty-two-year PX",
+          "url": "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky",
+          "role": "Twenty-two years / 45% / corn and rye, PX finish, exact photograph and current CAD 199.95 offer."
+        },
+        {
+          "title": "Producer machine-readable product",
+          "url": "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky.js",
+          "role": "November 26, 2024 catalogue publication is later reoffer, not initial release date."
+        },
+        {
+          "title": "Kurt Bradley — The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/canadian-whisky-reviews-pike-creek-px-cask-finish-22-yo/",
+          "role": "Substantive exact 45% twenty-two-year account identifies November 2021 release, texture/finish detail and moderate complexity."
+        },
+        {
+          "title": "World Whiskies Awards 2022 exact entry",
+          "url": "https://www.worldwhiskiesawards.com/winner-whisky/best-canadian-blended-limited-release-35021-world-whiskies-awards-2022",
+          "role": "Named 22-year PX / 45% independent descriptive tasting inspected; award result itself not scored."
+        },
+        {
+          "title": "Original November 2021 release record",
+          "url": "https://thedropcollective.ca/blog/pike-creek-22-year-old-pedro-ximenez-cask/",
+          "role": "Indexed November 8, 2021 issuer-associated record; current page retrieval intermittent, not a live stock offer."
+        }
+      ]
     },
     {
       "id": "royal-canadian-small-batch",
