@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 25,
+  "checkpoint": 26,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -999,11 +999,16 @@
     "j-p-wiser-s-15-year.html",
     "j-p-wiser-s-18-year.html",
     "j-p-wiser-s-23-year-cask-strength.html",
-    "j-p-wiser-s-27-year-mizunara-oak.html"
+    "j-p-wiser-s-27-year-mizunara-oak.html",
+    "j-p-wiser-s-35-year-2017.html",
+    "j-p-wiser-s-alumni-darryl-sittler.html",
+    "j-p-wiser-s-alumni-dave-keon.html",
+    "j-p-wiser-s-alumni-guy-lafleur.html",
+    "j-p-wiser-s-alumni-lanny-mcdonald.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 131,
-  "dossier_count": 984,
+  "canadian_added": 136,
+  "dossier_count": 989,
   "history": [
     {
       "checkpoint": 1,
@@ -1898,9 +1903,46 @@
         "Mizunara Beaumont review metadata authenticates December 17, 2025. One substantive supplied-sample tasting supports evidence-limited provisional Quality with neat heat and water improvement explicit. Awards/producer sensory copy are not extra tasters. CAD 599.95 only; U.S. Cost, Value and Overall N/A.",
         "Recovery baseline and final accepted bytes pass structural/data/link/image plus Chromium regression at 390/768/1440; browser 140.0.7339.186 headless shell used after default browser unavailable in fresh environment. No console, page or network errors. All 825 original hashes, 825 original raw rows, prior expansion bytes and completed ledgers preserved; categorical UI normalization remains deferred until ledger exhaustion."
       ]
+    },
+    {
+      "checkpoint": 26,
+      "files": [
+        "j-p-wiser-s-35-year-2017.html",
+        "j-p-wiser-s-alumni-darryl-sittler.html",
+        "j-p-wiser-s-alumni-dave-keon.html",
+        "j-p-wiser-s-alumni-guy-lafleur.html",
+        "j-p-wiser-s-alumni-lanny-mcdonald.html"
+      ],
+      "parent_commit": "8da4aecef768f2fbed92f3e300feebd01ca6052b",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 8984,
+        "functional_cases_passed": 459,
+        "responsive_pages_rendered": 495,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 146,
+        "failures": 0
+      },
+      "additional_preservation": "All 159 earlier expansion dossiers and all 984 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Candidates 165–169 processed in immutable order. Exact producer photographs for Sittler, Keon and McDonald and matched historical label photographs for 2017 thirty-five-year and Lafleur visually verified and embedded. No sibling assets or standalone image directory.",
+        "Thirty-five-year scoped to inaugural 2017 Northern Border Collection; September 19 issuer announcement verifies 750 mL, CAD 164.95 and Canadian October distribution. Matched fifty-percent reviews and contemporaneous label distinguish it from the separate 2018 annual repeat. Corn-led/approximately ten-percent rye account remains attributed secondary evidence, not a new mash-bill fact.",
+        "Thirty-five-year Selfbuilt texture/complexity praise and shorter-finish/glue-like reservations retained beside Dykstra’s revised April 2018 account: earlier mold-like sample impression absent from later lab/blind/new samples, continuing musty grain still disliked. No blanket contamination diagnosis or uninspected aggregate grade substituted.",
+        "Sittler authenticated as 2019 second Alumni installment, ten years / forty percent / four grains, Canadian-whisky and bourbon casks. Rye/wheat/barley percentages retained as attributed component figures, not a single co-fermented mash. Selfbuilt’s familiar/limited-development account and Gentleman’s Flavor thin/short ending support cautious above-average execution.",
+        "Keon primary September 24, 2019 Captains release verifies fourteen years / forty-five percent / four cask types. Three grains and four distillation streams explicitly distinguished; barrel mix not invented as four sequential finishes. Matched Selfbuilt and Gentleman’s Flavor favorable balance/texture evidence retains lighter nose, slight solvent-like aroma and tea-like tannin limits.",
+        "Lafleur exact French 2018–2019 label and matched records verify ten years / forty percent / one-hundred-percent corn. Editorial category corrected from preliminary multi-grain blend to Canadian Single Grain, without inventing a new native anchor. Ex-Speyside/rum/bourbon provenance supplies no malt or rye grain. Competing maturation/finishing wording remains source-limited with no fabricated sequence/duration or added age.",
+        "Lafleur Selfbuilt sweetness reservation retained beside Blair Phillips’s integrated-corn/refined-spice account. Gentleman’s Flavor expressly lacked this bottle and is not included as an independent tasting. Scarcity rumors and undated auction asks do not become U.S. price evidence.",
+        "McDonald exact nine-year / forty-percent 2018-era release authenticated. Contemporary direct-blender-context record identifies corn majority, substantial pot-distilled wheat and little rye, correcting discovery’s wheat-forward shorthand. Producer Canadian-whisky/virgin-oak component account not overwritten by a later simplified bourbon label. Favorable distinctive/anise account remains beside panel criticism of integration and thin/short finish.",
+        "Producer Ontario sale offers for Sittler, Keon and McDonald CAD 39.99 / 750 mL checked October 15, 2026; displayed regular CAD 44.95/45.20 distinguished. No dated exact U.S. offer established for the five; all USD Cost, Value and Overall remain N/A. Historical Canadian prices stay explicitly Canadian.",
+        "All five numeric Quality assessments carry category-conscious seven-dimension universal diagnostics with thin evidence and dissent explicit. Native Canadian extrema remain unestablished; no U.S. bourbon or straight-rye anchors borrowed. All 825 original hashes and raw rows, 159 prior expansion pages and 984 prior rows, completed image/final ledgers and 238 immutable candidate order pairs preserved. Categorical normalization remains deferred until full ledger exhaustion."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: j-p-wiser-s-35-year-2017",
+  "next_action": "Research next pending expression in deterministic order: j-p-wiser-s-alumni-larry-robinson",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1908,22 +1950,22 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 25,
+      "checkpoint": 26,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 984,
-      "new_dossiers": 159,
-      "html_files_structurally_checked": 160,
+      "dossiers": 989,
+      "new_dossiers": 164,
+      "html_files_structurally_checked": 165,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 8809,
-      "local_references_checked": 2429,
-      "embedded_image_occurrences_decoded": 141,
-      "unique_image_payloads_decoded": 141,
-      "image_dossiers_added": 141,
+      "checks": 8984,
+      "local_references_checked": 2479,
+      "embedded_image_occurrences_decoded": 146,
+      "unique_image_payloads_decoded": 146,
+      "image_dossiers_added": 146,
       "numeric_counts": {
-        "quality": 146,
+        "quality": 151,
         "value": 100,
         "overall": 100
       },
@@ -1935,7 +1977,7 @@
       "browser": "Chromium",
       "browser_version": "140.0.7339.186",
       "functional_cases_passed": 459,
-      "responsive_cases": 480,
+      "responsive_cases": 495,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1943,7 +1985,7 @@
     }
   },
   "updated_at": "2026-10-15",
-  "last_parent_commit": "58fc5c02efdb0f50553b5b32b490b847b9ec2de6",
+  "last_parent_commit": "8da4aecef768f2fbed92f3e300feebd01ca6052b",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",

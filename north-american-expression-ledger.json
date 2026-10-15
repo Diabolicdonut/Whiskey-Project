@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 66,
-    "accepted": 159
+    "pending": 61,
+    "accepted": 164
   },
   "entries": [
     {
@@ -12434,16 +12434,16 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 100.0,
+      "proof": 100,
       "abv": 50.0,
-      "age_statement_years": 35.0,
-      "age_information": "35 years",
-      "grain_information": "Undisclosed",
+      "age_statement_years": 35,
+      "age_information": "35 Years",
+      "grain_information": "Predominantly corn with rye; exact primary recipe proportions not authenticated",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "Reported blend of reused ex-bourbon corn whisky and virgin-oak rye; no separate secondary finish authenticated.",
       "release_year_or_era": "2017",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -12455,13 +12455,49 @@
       ],
       "potential_image_source": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2017/12/06/j-p-wisers-35-year-old/",
+            "summary": "Selfbuilt praises developed sweetness, floral complexity and rich texture without oppressive oak. Persistent adhesive-like aroma and a comparatively short, simpler finish temper the enthusiasm; water quickly reduces the body.",
+            "scope": "December 6, 2017, exact inaugural collection / 50%; direct article inspected, not just its meta-score."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-triple-35-year-old/",
+            "summary": "Dykstra recognizes deep spice and sweet complexity but finds musty grain distracting across samples. He clarifies that an earlier mold-like impression was absent from later lab, blind and fresh samples; the broader musty note persisted. This is reported tasting experience, not a contamination diagnosis.",
+            "scope": "April 5, 2018, explicitly the release introduced in 2017; revised sensory caveat retained rather than repeating an outdated taint claim."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 165
+      "deterministic_order": 165,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-026",
+      "publication_sources": [
+        {
+          "title": "Corby inaugural-collection announcement",
+          "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+          "role": "September 19, 2017 issuer identity, October Canadian distribution, 750 mL and CAD 164.95; launch praise not independent sensory evidence."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2017/12/06/j-p-wisers-35-year-old/",
+          "role": "December 6, 2017, exact inaugural collection / 50%; direct article inspected, not just its meta-score."
+        },
+        {
+          "title": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-triple-35-year-old/",
+          "role": "April 5, 2018, explicitly the release introduced in 2017; revised sensory caveat retained rather than repeating an outdated taint claim."
+        }
+      ],
+      "accepted_checkpoint": 26
     },
     {
       "id": "j-p-wiser-s-alumni-darryl-sittler",
@@ -12471,16 +12507,16 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
-      "grain_information": "Four-grain blend",
+      "proof": 80,
+      "abv": 40.0,
+      "age_statement_years": 10,
+      "age_information": "10 Years",
+      "grain_information": "Corn-led four-grain blend: corn, rye, wheat and malted barley; detailed ratios remain attributed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Canadian whisky and bourbon barrels",
+      "finishing_information": "Used Canadian-whisky and ex-bourbon casks; no separate secondary finish authenticated.",
       "release_year_or_era": "2019",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -12492,13 +12528,54 @@
       ],
       "potential_image_source": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-darryl-sittler-10-year-old/",
+            "summary": "Selfbuilt finds familiar corn sweetness, dry rye and earthy notes with little burn, but restrained complexity and lingering artificial-sweetness/tannic impressions. He sees a recognizable, useful traditional blend rather than a standout.",
+            "scope": "November 13, 2019, exact ten-year / 40%; sensory sweetener/acetone comparisons do not prove additives or contamination."
+          },
+          {
+            "reviewer": "The Gentleman’s Flavor panel",
+            "publisher": "The Gentleman’s Flavor",
+            "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+            "summary": "The panel finds an agreeable fruit-and-maple nose but a thin palate and an almost immediate falloff on the finish. This reinforces the texture and persistence limitations.",
+            "scope": "Exact Sittler ten-year / 40% sample; article’s Daryl heading spelling does not change the producer’s Darryl identity."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 166
+      "deterministic_order": 166,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-026",
+      "publication_sources": [
+        {
+          "title": "Producer exact named Alumni record",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-darryl-sittler",
+          "role": "Visually inspected exact age/player/strength pack and current Ontario CAD price; catalogue timestamps are not original-release dates."
+        },
+        {
+          "title": "Corby exact release announcement",
+          "url": "https://www.newswire.ca/news-releases/j-p-wiser-s-goes-back-to-back-with-its-second-release-of-the-alumni-whisky-series-847123868.html",
+          "role": "Issuer chronology and exact named player specification; marketing tasting text is not independent review evidence."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-darryl-sittler-10-year-old/",
+          "role": "November 13, 2019, exact ten-year / 40%; sensory sweetener/acetone comparisons do not prove additives or contamination."
+        },
+        {
+          "title": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+          "role": "Exact Sittler ten-year / 40% sample; article’s Daryl heading spelling does not change the producer’s Darryl identity."
+        }
+      ],
+      "accepted_checkpoint": 26
     },
     {
       "id": "j-p-wiser-s-alumni-dave-keon",
@@ -12508,16 +12585,16 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 90.0,
+      "proof": 90,
       "abv": 45.0,
-      "age_statement_years": 14.0,
-      "age_information": "14 years",
-      "grain_information": "Undisclosed",
+      "age_statement_years": 14,
+      "age_information": "14 Years",
+      "grain_information": "Corn, rye and malted barley; component proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Four barrel types",
+      "finishing_information": "Blend across used Canadian-whisky, ex-bourbon, virgin oak and ex-Speyside cask regimes; sequence and durations unknown.",
       "release_year_or_era": "2019",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -12529,13 +12606,54 @@
       ],
       "potential_image_source": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2020/07/29/j-p-wisers-alumni-series-dave-keon-14-year-old/",
+            "summary": "Selfbuilt finds good balance and a buttery mouthfeel, with fruit and baking spice continuing into a medium-long ending. A modest nose, slight acetone-like note and a persistent tea-like tannin prevent his highest assessment.",
+            "scope": "July 29, 2020, exact fourteen-year / 45%; meta-review grades are not extra independent tastings."
+          },
+          {
+            "reviewer": "The Gentleman’s Flavor panel",
+            "publisher": "The Gentleman’s Flavor",
+            "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+            "summary": "The panel finds layered orchard fruit, pepper and soft char across a coherent palate, followed by a genuinely medium, warming finish. Its favorable balance account supports the sipper emphasis.",
+            "scope": "Exact fourteen-year / 45% Keon tasting; Scotch-like description is a flavor analogy, not a change of category."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 167
+      "deterministic_order": 167,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-026",
+      "publication_sources": [
+        {
+          "title": "Producer exact named Alumni record",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-dave-keon",
+          "role": "Visually inspected exact age/player/strength pack and current Ontario CAD price; catalogue timestamps are not original-release dates."
+        },
+        {
+          "title": "Corby exact release announcement",
+          "url": "https://www.newswire.ca/news-releases/meet-the-captains-j-p-wiser-s-latest-release-of-the-alumni-whisky-series-873125983.html",
+          "role": "Issuer chronology and exact named player specification; marketing tasting text is not independent review evidence."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2020/07/29/j-p-wisers-alumni-series-dave-keon-14-year-old/",
+          "role": "July 29, 2020, exact fourteen-year / 45%; meta-review grades are not extra independent tastings."
+        },
+        {
+          "title": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+          "role": "Exact fourteen-year / 45% Keon tasting; Scotch-like description is a flavor analogy, not a change of category."
+        }
+      ],
+      "accepted_checkpoint": 26
     },
     {
       "id": "j-p-wiser-s-alumni-guy-lafleur",
@@ -12544,17 +12662,17 @@
       "brand_family": "J.P. Wiser's",
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
-      "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "whisky_category": "Canadian Single Grain",
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 10.0,
-      "age_information": "10 years",
-      "grain_information": "100% corn",
+      "age_statement_years": 10,
+      "age_information": "10 Years",
+      "grain_information": "100% corn whisky; no rye or malt grain inferred from cask provenance",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
+      "finishing_information": "Speyside, bourbon and rum-cask involvement; exact durations and sequencing not authenticated.",
       "release_year_or_era": "2018",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -12566,13 +12684,49 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2019/11/12/j-p-wisers-alumni-series-guy-lafleur-10-year-old/",
+            "summary": "Selfbuilt finds a remarkably rum-like profile, gentle sweet corn, fruit and soft spice without burn. He finds it easy to enjoy but too sweet for his preference, with a faint saccharine edge at the end.",
+            "scope": "November 12, 2019, exact ten-year / 40% Lafleur; personal preference is kept distinct from demonstrated execution."
+          },
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur",
+            "summary": "Phillips finds fused corn sweetness and gentle wood, followed by refined grain character and a rising rum-fruit/spice ending. His positive integration account complements the sweetness reservation.",
+            "scope": "Exact ten-year / 40% / 100%-corn entry; publication date not established, crowd average not used."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 168
+      "deterministic_order": 168,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-026",
+      "publication_sources": [
+        {
+          "title": "Distiller exact Lafleur identity",
+          "url": "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur",
+          "role": "Ten years / 40% / 100% corn; cask finish description kept source-limited."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/12/j-p-wisers-alumni-series-guy-lafleur-10-year-old/",
+          "role": "November 12, 2019, exact ten-year / 40% Lafleur; personal preference is kept distinct from demonstrated execution."
+        },
+        {
+          "title": "Distiller",
+          "url": "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur",
+          "role": "Exact ten-year / 40% / 100%-corn entry; publication date not established, crowd average not used."
+        }
+      ],
+      "accepted_checkpoint": 26
     },
     {
       "id": "j-p-wiser-s-alumni-lanny-mcdonald",
@@ -12582,16 +12736,16 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 9.0,
-      "age_information": "9 years",
-      "grain_information": "Wheat-forward blend",
+      "age_statement_years": 9,
+      "age_information": "9 Years",
+      "grain_information": "Corn-led blend with substantial pot-distilled wheat and a little rye; proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
+      "finishing_information": "Used Canadian-whisky casks plus virgin-oak wheat component; no separate whole-blend secondary finish authenticated.",
       "release_year_or_era": "2018",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -12603,13 +12757,54 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-lanny-mcdonald",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-lanny-mcdonald-9-year-old/",
+            "summary": "Selfbuilt enjoys a soft, distinctive combination of anise, sweet grain, nut and tobacco-like notes, with manageable bitter wood. He also records faint solvent-like and stale-nut impressions, without treating these as chemical findings.",
+            "scope": "November 13, 2019, exact nine-year / 40% sample; identifying a wheat component does not prove every flavor originates from wheat."
+          },
+          {
+            "reviewer": "The Gentleman’s Flavor panel",
+            "publisher": "The Gentleman’s Flavor",
+            "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+            "summary": "The panel finds an agreeable creamy nose but a palate whose pine, fruit and honey do not form a coherent whole, followed by a short and thin finish. This is meaningful dissent from the favorable character assessment.",
+            "scope": "Exact McDonald nine-year / 40%; its simplified cask shorthand is not used to overwrite the producer/contemporary recipe record."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 169
+      "deterministic_order": 169,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-026",
+      "publication_sources": [
+        {
+          "title": "Producer exact named Alumni record",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-lanny-mcdonald",
+          "role": "Visually inspected exact age/player/strength pack and current Ontario CAD price; catalogue timestamps are not original-release dates."
+        },
+        {
+          "title": "Toronto Whisky Society — contemporary record",
+          "url": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+          "role": "2019 direct blender-context account identifies corn majority, significant pot-distilled wheat and a little rye; used/virgin casks remain component-specific."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-lanny-mcdonald-9-year-old/",
+          "role": "November 13, 2019, exact nine-year / 40% sample; identifying a wheat component does not prove every flavor originates from wheat."
+        },
+        {
+          "title": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+          "role": "Exact McDonald nine-year / 40%; its simplified cask shorthand is not used to overwrite the producer/contemporary recipe record."
+        }
+      ],
+      "accepted_checkpoint": 26
     },
     {
       "id": "j-p-wiser-s-alumni-larry-robinson",

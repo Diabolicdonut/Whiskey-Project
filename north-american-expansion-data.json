@@ -57052,5 +57052,1862 @@
         }
       ]
     }
+  },
+  {
+    "slug": "j-p-wiser-s-35-year-2017",
+    "filename": "j-p-wiser-s-35-year-2017.html",
+    "name": "J.P. Wiser's 35 Year (2017)",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 100,
+    "abv": 50.0,
+    "age": "35 Years",
+    "age_display": "35 Years",
+    "age_sort_years": 35,
+    "mash_bill_display": "Predominantly corn with rye; exact primary recipe proportions not authenticated",
+    "mash_bill_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+    "quality": 7.6,
+    "quality_score": 7.6,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "universal_dimensions": {
+        "integration": 7.4,
+        "flavor_development": 8.3,
+        "finish": 6.3,
+        "technical_cleanliness": 6.7,
+        "texture": 8.5,
+        "maturity_wood_management": 7.6,
+        "distinctiveness": 8.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.47,
+      "editorial_adjustment": 0.13,
+      "adjustment_reason": "Very-good provisional Canadian-blend execution: complex sweetness and full texture justify a strong assessment. A shorter, simpler finish for Selfbuilt and persistent musty grain for Dykstra materially limit finish, cleanliness and balance. Advanced age and awards supply no additional points."
+    },
+    "quality_calibration_basis": "No complete evidence-supported Canadian native low/mid/high framework is established. The universal execution rubric is applied within Canadian blended whisky; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very-good provisional Canadian-blend execution: complex sweetness and full texture justify a strong assessment. A shorter, simpler finish for Selfbuilt and persistent musty grain for Dykstra materially limit finish, cleanliness and balance. Advanced age and awards supply no additional points.",
+    "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Exact issuer-announced Canadian launch price, availability beginning October 2017",
+    "price_url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+    "price_period": "2017-09-19",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 164.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Historical Canadian context; no exact dated U.S./NC consumer quote authenticated.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2017,
+    "release_scope": "J.P. Wiser’s 35 Year Old, inaugural 2017 Northern Border Collection, 50% ABV / 100 proof, 750 mL; 2018 repeat releases are not silently merged.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2017/12/06/j-p-wisers-35-year-old/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-triple-35-year-old/"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "The Rum Howler Blog"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2017/12/06/j-p-wisers-35-year-old/",
+        "summary": "Selfbuilt praises developed sweetness, floral complexity and rich texture without oppressive oak. Persistent adhesive-like aroma and a comparatively short, simpler finish temper the enthusiasm; water quickly reduces the body.",
+        "scope": "December 6, 2017, exact inaugural collection / 50%; direct article inspected, not just its meta-score."
+      },
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-triple-35-year-old/",
+        "summary": "Dykstra recognizes deep spice and sweet complexity but finds musty grain distracting across samples. He clarifies that an earlier mold-like impression was absent from later lab, blind and fresh samples; the broader musty note persisted. This is reported tasting experience, not a contamination diagnosis.",
+        "scope": "April 5, 2018, explicitly the release introduced in 2017; revised sensory caveat retained rather than repeating an outdated taint claim."
+      }
+    ],
+    "source_urls": [
+      "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+      "https://whiskyanalysis.com/index.php/2017/12/06/j-p-wisers-35-year-old/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-triple-35-year-old/"
+    ],
+    "production_summary": "The 2017 issuer announcement verifies the thirty-five-year blended identity and 750 mL. Selfbuilt’s contemporary exact-release account reports predominantly double-distilled high-strength corn aged in reused ex-bourbon casks, with about 10% column-and-pot rye aged in virgin oak. That approximate recipe remains a secondary-source report, not a new verified mash bill or a rule for all Wiser’s whiskies. Matched reviews authenticate 50% ABV.",
+    "finishing_information": "Reported blend of reused ex-bourbon corn whisky and virgin-oak rye; no separate secondary finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "Corby announced the first annual Northern Border Collection on September 19, 2017, with Canadian store availability beginning in October. Its exact thirty-five-year / 750 mL Canadian price was CAD 164.95.",
+      "Selfbuilt’s December 2017 review explicitly covers the inaugural collection. Dykstra’s April 2018 review likewise identifies the 2017 release; its publication year does not turn it into the separate 2018 annual bottling. A later repeat, generic current listing or award does not establish identity or price for this dossier."
+    ],
+    "comparables": [
+      {
+        "url": "j-p-wiser-s-23-year-cask-strength.html",
+        "name": "J.P. Wiser’s 23 Year Cask Strength",
+        "reason": "The 2019 collection successor uses higher strength and a different maturity/texture balance; no age-only upgrade assumed."
+      },
+      {
+        "url": "j-p-wiser-s-18-year.html",
+        "name": "J.P. Wiser’s 18 Year",
+        "reason": "Lower-proof recurring corn-led reference, also with conflicting independent sensory experiences."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add only a few drops initially: Selfbuilt specifically finds that water quickly thins its rich texture. Compare before adding a large cube."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://whiskyanalysis.com/index.php/2017/12/06/j-p-wisers-35-year-old/",
+        "image_url": "https://whiskyanalysis.com/wp/wp-content/uploads/2017/11/Wisers.35.Large_.jpg",
+        "scope": "J.P. Wiser’s 35 Year Old, inaugural 2017 Northern Border Collection, 50% ABV / 100 proof, 750 mL; 2018 repeat releases are not silently merged.",
+        "sha256": "bb637061f9b6e139087db3eeb0727861ddebbf4a91790922841ecea959d351d8",
+        "image_embedded": true,
+        "width": 420,
+        "height": 230
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s 35 Year Old, inaugural 2017 Northern Border Collection, 50% ABV / 100 proof, 750 mL; 2018 repeat releases are not silently merged.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-026",
+    "editorial": {
+      "id": "j-p-wiser-s-35-year-2017",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "quality": 7.6,
+      "value": null,
+      "calibration_basis": "No complete evidence-supported Canadian native low/mid/high framework is established. The universal execution rubric is applied within Canadian blended whisky; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+      "sources": [
+        {
+          "title": "Corby inaugural-collection announcement",
+          "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+          "role": "September 19, 2017 issuer identity, October Canadian distribution, 750 mL and CAD 164.95; launch praise not independent sensory evidence."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2017/12/06/j-p-wisers-35-year-old/",
+          "role": "December 6, 2017, exact inaugural collection / 50%; direct article inspected, not just its meta-score."
+        },
+        {
+          "title": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-triple-35-year-old/",
+          "role": "April 5, 2018, explicitly the release introduced in 2017; revised sensory caveat retained rather than repeating an outdated taint claim."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2017/12/06/j-p-wisers-35-year-old/",
+          "summary": "Selfbuilt praises developed sweetness, floral complexity and rich texture without oppressive oak. Persistent adhesive-like aroma and a comparatively short, simpler finish temper the enthusiasm; water quickly reduces the body.",
+          "scope": "December 6, 2017, exact inaugural collection / 50%; direct article inspected, not just its meta-score."
+        },
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-triple-35-year-old/",
+          "summary": "Dykstra recognizes deep spice and sweet complexity but finds musty grain distracting across samples. He clarifies that an earlier mold-like impression was absent from later lab, blind and fresh samples; the broader musty note persisted. This is reported tasting experience, not a contamination diagnosis.",
+          "scope": "April 5, 2018, explicitly the release introduced in 2017; revised sensory caveat retained rather than repeating an outdated taint claim."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "videos": [],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "grain_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+      "image_source": "https://whiskyanalysis.com/index.php/2017/12/06/j-p-wisers-35-year-old/",
+      "image_url": "https://whiskyanalysis.com/wp/wp-content/uploads/2017/11/Wisers.35.Large_.jpg",
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add only a few drops initially: Selfbuilt specifically finds that water quickly thins its rich texture. Compare before adding a large cube."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+        }
+      ],
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "proof": 100,
+      "age": 35,
+      "age_display": "35 Years",
+      "release_year": 2017,
+      "dimensions": [
+        7.4,
+        8.3,
+        6.3,
+        6.7,
+        8.5,
+        7.6,
+        8.0
+      ],
+      "identity": "J.P. Wiser’s 35 Year Old, inaugural 2017 Northern Border Collection, 50% ABV / 100 proof, 750 mL; 2018 repeat releases are not silently merged.",
+      "short_version": "A mature, textured Canadian blend whose complexity and restrained wood earn substantial praise, with real dissent over mustiness and the ending. The thirty-five-year statement is identity evidence, not an automatic top score.",
+      "grain": "Predominantly corn with rye; exact primary recipe proportions not authenticated",
+      "production": "The 2017 issuer announcement verifies the thirty-five-year blended identity and 750 mL. Selfbuilt’s contemporary exact-release account reports predominantly double-distilled high-strength corn aged in reused ex-bourbon casks, with about 10% column-and-pot rye aged in virgin oak. That approximate recipe remains a secondary-source report, not a new verified mash bill or a rule for all Wiser’s whiskies. Matched reviews authenticate 50% ABV.",
+      "finish": "Reported blend of reused ex-bourbon corn whisky and virgin-oak rye; no separate secondary finish authenticated.",
+      "history": [
+        "Corby announced the first annual Northern Border Collection on September 19, 2017, with Canadian store availability beginning in October. Its exact thirty-five-year / 750 mL Canadian price was CAD 164.95.",
+        "Selfbuilt’s December 2017 review explicitly covers the inaugural collection. Dykstra’s April 2018 review likewise identifies the 2017 release; its publication year does not turn it into the separate 2018 annual bottling. A later repeat, generic current listing or award does not establish identity or price for this dossier."
+      ],
+      "quality_rationale": "Very-good provisional Canadian-blend execution: complex sweetness and full texture justify a strong assessment. A shorter, simpler finish for Selfbuilt and persistent musty grain for Dykstra materially limit finish, cleanliness and balance. Advanced age and awards supply no additional points.",
+      "pricing": {
+        "amount": 164.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2017-09-19",
+        "url": "https://www.newswire.ca/news-releases/corby-showcases-canadian-whisky-with-the-northern-border-collection-rare-release-645682073.html",
+        "basis": "Exact issuer-announced Canadian launch price, availability beginning October 2017",
+        "nc_status": "Historical Canadian context; no exact dated U.S./NC consumer quote authenticated."
+      },
+      "comparables": [
+        {
+          "url": "j-p-wiser-s-23-year-cask-strength.html",
+          "name": "J.P. Wiser’s 23 Year Cask Strength",
+          "reason": "The 2019 collection successor uses higher strength and a different maturity/texture balance; no age-only upgrade assumed."
+        },
+        {
+          "url": "j-p-wiser-s-18-year.html",
+          "name": "J.P. Wiser’s 18 Year",
+          "reason": "Lower-proof recurring corn-led reference, also with conflicting independent sensory experiences."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "j-p-wiser-s-alumni-darryl-sittler",
+    "filename": "j-p-wiser-s-alumni-darryl-sittler.html",
+    "name": "J.P. Wiser's Alumni Darryl Sittler",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "Corn-led four-grain blend: corn, rye, wheat and malted barley; detailed ratios remain attributed",
+    "mash_bill_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+    "quality": 5.4,
+    "quality_score": 5.4,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "universal_dimensions": {
+        "integration": 5.6,
+        "flavor_development": 5.4,
+        "finish": 4.6,
+        "technical_cleanliness": 5.6,
+        "texture": 5.0,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 4.9
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.335,
+      "editorial_adjustment": 0.065,
+      "adjustment_reason": "Above-average/competent provisional Canadian-blend execution. Accessible sweetness and low burn support usability, while limited development, thinness and short finish constrain texture, finish and distinctiveness."
+    },
+    "quality_calibration_basis": "No complete evidence-supported Canadian native low/mid/high framework is established. The universal execution rubric is applied within Canadian blended whisky; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Above-average/competent provisional Canadian-blend execution. Accessible sweetness and low burn support usability, while limited development, thinness and short finish constrain texture, finish and distinctiveness.",
+    "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer Ontario sale offer CAD 39.99; displayed regular 44.95 CAD; not a U.S. quote",
+    "price_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-darryl-sittler",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 39.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC offer authenticated; CAD sale and comparison price kept separate.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2019,
+    "release_scope": "J.P. Wiser’s Alumni Whisky Series — Darryl Sittler, 2019 release era, 10 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-darryl-sittler-10-year-old/",
+      "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "The Gentleman’s Flavor"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-darryl-sittler-10-year-old/",
+        "summary": "Selfbuilt finds familiar corn sweetness, dry rye and earthy notes with little burn, but restrained complexity and lingering artificial-sweetness/tannic impressions. He sees a recognizable, useful traditional blend rather than a standout.",
+        "scope": "November 13, 2019, exact ten-year / 40%; sensory sweetener/acetone comparisons do not prove additives or contamination."
+      },
+      {
+        "reviewer": "The Gentleman’s Flavor panel",
+        "publisher": "The Gentleman’s Flavor",
+        "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+        "summary": "The panel finds an agreeable fruit-and-maple nose but a thin palate and an almost immediate falloff on the finish. This reinforces the texture and persistence limitations.",
+        "scope": "Exact Sittler ten-year / 40% sample; article’s Daryl heading spelling does not change the producer’s Darryl identity."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-darryl-sittler",
+      "https://www.newswire.ca/news-releases/j-p-wiser-s-goes-back-to-back-with-its-second-release-of-the-alumni-whisky-series-847123868.html",
+      "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-darryl-sittler-10-year-old/",
+      "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/"
+    ],
+    "production_summary": "The producer confirms ten years, 40%, four grains and Canadian-whisky/bourbon barrels. Selfbuilt reports column-distilled components and rye 6%, wheat 4%, malted barley 4%, with corn dominant. Those are attributed component-blend figures, not a combined fermentation mash bill. The number ten is an actual age statement as well as a career reference.",
+    "finishing_information": "Used Canadian-whisky and ex-bourbon casks; no separate secondary finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "Corby’s May 2, 2019 second-release announcement names Sittler alongside Robinson and Coffey and specifies ten years and four grains. This is separate from the inaugural late-2018 set and the later Captains line.",
+      "A later producer shop photograph and sale offer authenticate the exact named expression, not a new annual formulation. Player-specific recipes are not interchangeable. Historical stock and asking premiums do not establish current U.S. availability or drinking Value."
+    ],
+    "comparables": [
+      {
+        "url": "j-p-wiser-s-alumni-dave-keon.html",
+        "name": "J.P. Wiser’s Alumni Dave Keon",
+        "reason": "A different player recipe and balance/texture evidence; the shared label series does not imply the same liquid."
+      },
+      {
+        "url": "j-p-wiser-s-10-year.html",
+        "name": "J.P. Wiser’s 10 Year",
+        "reason": "Recurring family alternative with an exact U.S. offer; not a substitute image or review for this Alumni bottle."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-darryl-sittler",
+        "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Alumni_DarrylSittler.jpg?v=1742995447",
+        "scope": "J.P. Wiser’s Alumni Whisky Series — Darryl Sittler, 2019 release era, 10 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+        "sha256": "afa4708a13b9273f6d00ba90b09d23a41f36d7ff14a8dc48d46d0b8d901fd728",
+        "image_embedded": true,
+        "width": 571,
+        "height": 1000
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s Alumni Whisky Series — Darryl Sittler, 2019 release era, 10 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-026",
+    "editorial": {
+      "id": "j-p-wiser-s-alumni-darryl-sittler",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "quality": 5.4,
+      "value": null,
+      "calibration_basis": "No complete evidence-supported Canadian native low/mid/high framework is established. The universal execution rubric is applied within Canadian blended whisky; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+      "sources": [
+        {
+          "title": "Producer exact named Alumni record",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-darryl-sittler",
+          "role": "Visually inspected exact age/player/strength pack and current Ontario CAD price; catalogue timestamps are not original-release dates."
+        },
+        {
+          "title": "Corby exact release announcement",
+          "url": "https://www.newswire.ca/news-releases/j-p-wiser-s-goes-back-to-back-with-its-second-release-of-the-alumni-whisky-series-847123868.html",
+          "role": "Issuer chronology and exact named player specification; marketing tasting text is not independent review evidence."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-darryl-sittler-10-year-old/",
+          "role": "November 13, 2019, exact ten-year / 40%; sensory sweetener/acetone comparisons do not prove additives or contamination."
+        },
+        {
+          "title": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+          "role": "Exact Sittler ten-year / 40% sample; article’s Daryl heading spelling does not change the producer’s Darryl identity."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-darryl-sittler-10-year-old/",
+          "summary": "Selfbuilt finds familiar corn sweetness, dry rye and earthy notes with little burn, but restrained complexity and lingering artificial-sweetness/tannic impressions. He sees a recognizable, useful traditional blend rather than a standout.",
+          "scope": "November 13, 2019, exact ten-year / 40%; sensory sweetener/acetone comparisons do not prove additives or contamination."
+        },
+        {
+          "reviewer": "The Gentleman’s Flavor panel",
+          "publisher": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+          "summary": "The panel finds an agreeable fruit-and-maple nose but a thin palate and an almost immediate falloff on the finish. This reinforces the texture and persistence limitations.",
+          "scope": "Exact Sittler ten-year / 40% sample; article’s Daryl heading spelling does not change the producer’s Darryl identity."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "videos": [],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "grain_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+      "image_source": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-darryl-sittler",
+      "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Alumni_DarrylSittler.jpg?v=1742995447",
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+        }
+      ],
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "proof": 80,
+      "age": 10,
+      "age_display": "10 Years",
+      "release_year": 2019,
+      "dimensions": [
+        5.6,
+        5.4,
+        4.6,
+        5.6,
+        5.0,
+        5.8,
+        4.9
+      ],
+      "identity": "J.P. Wiser’s Alumni Whisky Series — Darryl Sittler, 2019 release era, 10 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+      "short_version": "A competent traditional Canadian blend with some dry rye character, but modest complexity and a brief ending. The sporting association does not turn its familiar profile into a higher scoring whisky.",
+      "grain": "Corn-led four-grain blend: corn, rye, wheat and malted barley; detailed ratios remain attributed",
+      "production": "The producer confirms ten years, 40%, four grains and Canadian-whisky/bourbon barrels. Selfbuilt reports column-distilled components and rye 6%, wheat 4%, malted barley 4%, with corn dominant. Those are attributed component-blend figures, not a combined fermentation mash bill. The number ten is an actual age statement as well as a career reference.",
+      "finish": "Used Canadian-whisky and ex-bourbon casks; no separate secondary finish authenticated.",
+      "history": [
+        "Corby’s May 2, 2019 second-release announcement names Sittler alongside Robinson and Coffey and specifies ten years and four grains. This is separate from the inaugural late-2018 set and the later Captains line.",
+        "A later producer shop photograph and sale offer authenticate the exact named expression, not a new annual formulation. Player-specific recipes are not interchangeable. Historical stock and asking premiums do not establish current U.S. availability or drinking Value."
+      ],
+      "quality_rationale": "Above-average/competent provisional Canadian-blend execution. Accessible sweetness and low burn support usability, while limited development, thinness and short finish constrain texture, finish and distinctiveness.",
+      "comparables": [
+        {
+          "url": "j-p-wiser-s-alumni-dave-keon.html",
+          "name": "J.P. Wiser’s Alumni Dave Keon",
+          "reason": "A different player recipe and balance/texture evidence; the shared label series does not imply the same liquid."
+        },
+        {
+          "url": "j-p-wiser-s-10-year.html",
+          "name": "J.P. Wiser’s 10 Year",
+          "reason": "Recurring family alternative with an exact U.S. offer; not a substitute image or review for this Alumni bottle."
+        }
+      ],
+      "pricing": {
+        "amount": 39.99,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-darryl-sittler",
+        "basis": "Producer Ontario sale offer CAD 39.99; displayed regular 44.95 CAD; not a U.S. quote",
+        "nc_status": "No exact dated U.S./NC offer authenticated; CAD sale and comparison price kept separate."
+      }
+    }
+  },
+  {
+    "slug": "j-p-wiser-s-alumni-dave-keon",
+    "filename": "j-p-wiser-s-alumni-dave-keon.html",
+    "name": "J.P. Wiser's Alumni Dave Keon",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "14 Years",
+    "age_display": "14 Years",
+    "age_sort_years": 14,
+    "mash_bill_display": "Corn, rye and malted barley; component proportions undisclosed",
+    "mash_bill_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+    "quality": 7.6,
+    "quality_score": 7.6,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "universal_dimensions": {
+        "integration": 8.0,
+        "flavor_development": 7.5,
+        "finish": 7.0,
+        "technical_cleanliness": 7.0,
+        "texture": 8.0,
+        "maturity_wood_management": 7.5,
+        "distinctiveness": 7.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.525,
+      "editorial_adjustment": 0.075,
+      "adjustment_reason": "Very-good, approaching excellent provisional Canadian-blend execution. Repeated balance and texture support the result; a less full nose, slight solvent-like aroma and tannic tail limit cleanliness and finish. Fourteen years and forty-five-percent strength are not independent bonuses."
+    },
+    "quality_calibration_basis": "No complete evidence-supported Canadian native low/mid/high framework is established. The universal execution rubric is applied within Canadian blended whisky; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Very-good, approaching excellent provisional Canadian-blend execution. Repeated balance and texture support the result; a less full nose, slight solvent-like aroma and tannic tail limit cleanliness and finish. Fourteen years and forty-five-percent strength are not independent bonuses.",
+    "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer Ontario sale offer CAD 39.99; displayed regular 45.20 CAD; not a U.S. quote",
+    "price_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-dave-keon",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 39.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC offer authenticated; CAD sale and comparison price kept separate.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2019,
+    "release_scope": "J.P. Wiser’s Alumni Whisky Series — Dave Keon, 2019 release era, 14 years, 45% ABV / 90 proof, 750 mL; exact named player and label.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2020/07/29/j-p-wisers-alumni-series-dave-keon-14-year-old/",
+      "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "The Gentleman’s Flavor"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2020/07/29/j-p-wisers-alumni-series-dave-keon-14-year-old/",
+        "summary": "Selfbuilt finds good balance and a buttery mouthfeel, with fruit and baking spice continuing into a medium-long ending. A modest nose, slight acetone-like note and a persistent tea-like tannin prevent his highest assessment.",
+        "scope": "July 29, 2020, exact fourteen-year / 45%; meta-review grades are not extra independent tastings."
+      },
+      {
+        "reviewer": "The Gentleman’s Flavor panel",
+        "publisher": "The Gentleman’s Flavor",
+        "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+        "summary": "The panel finds layered orchard fruit, pepper and soft char across a coherent palate, followed by a genuinely medium, warming finish. Its favorable balance account supports the sipper emphasis.",
+        "scope": "Exact fourteen-year / 45% Keon tasting; Scotch-like description is a flavor analogy, not a change of category."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-dave-keon",
+      "https://www.newswire.ca/news-releases/meet-the-captains-j-p-wiser-s-latest-release-of-the-alumni-whisky-series-873125983.html",
+      "https://whiskyanalysis.com/index.php/2020/07/29/j-p-wisers-alumni-series-dave-keon-14-year-old/",
+      "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/"
+    ],
+    "production_summary": "The producer confirms fourteen years, 45%, and four barrel types. Selfbuilt documents corn, rye and malted barley through double-column corn, single-column rye, column-and-pot rye, and single-column malt streams. The cask set is used Canadian-whisky, ex-bourbon, virgin oak and ex-Speyside. Three grains do not mean only three distillate streams, and four casks do not establish four sequential finishes.",
+    "finishing_information": "Blend across used Canadian-whisky, ex-bourbon, virgin oak and ex-Speyside cask regimes; sequence and durations unknown.",
+    "identity_note": null,
+    "history": [
+      "Corby’s September 24, 2019 Captains-line announcement identifies Keon alongside Cournoyer and Messier, with fourteen years, 45% and four barrel types. The producer’s later catalogue publication timestamp is not a new launch.",
+      "A later producer shop photograph and sale offer authenticate the exact named expression, not a new annual formulation. Player-specific recipes are not interchangeable. Historical stock and asking premiums do not establish current U.S. availability or drinking Value."
+    ],
+    "comparables": [
+      {
+        "url": "j-p-wiser-s-alumni-darryl-sittler.html",
+        "name": "J.P. Wiser’s Alumni Darryl Sittler",
+        "reason": "A different player recipe and balance/texture evidence; the shared label series does not imply the same liquid."
+      },
+      {
+        "url": "j-p-wiser-s-10-year.html",
+        "name": "J.P. Wiser’s 10 Year",
+        "reason": "Recurring family alternative with an exact U.S. offer; not a substitute image or review for this Alumni bottle."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-dave-keon",
+        "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Alumni_DaveKeon.jpg?v=1742995500",
+        "scope": "J.P. Wiser’s Alumni Whisky Series — Dave Keon, 2019 release era, 14 years, 45% ABV / 90 proof, 750 mL; exact named player and label.",
+        "sha256": "2268aaa890aa53e1ed936654d3ed98045fc59a846dfbe229ca19bb642e08e452",
+        "image_embedded": true,
+        "width": 571,
+        "height": 1000
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s Alumni Whisky Series — Dave Keon, 2019 release era, 14 years, 45% ABV / 90 proof, 750 mL; exact named player and label.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-026",
+    "editorial": {
+      "id": "j-p-wiser-s-alumni-dave-keon",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "quality": 7.6,
+      "value": null,
+      "calibration_basis": "No complete evidence-supported Canadian native low/mid/high framework is established. The universal execution rubric is applied within Canadian blended whisky; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+      "sources": [
+        {
+          "title": "Producer exact named Alumni record",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-dave-keon",
+          "role": "Visually inspected exact age/player/strength pack and current Ontario CAD price; catalogue timestamps are not original-release dates."
+        },
+        {
+          "title": "Corby exact release announcement",
+          "url": "https://www.newswire.ca/news-releases/meet-the-captains-j-p-wiser-s-latest-release-of-the-alumni-whisky-series-873125983.html",
+          "role": "Issuer chronology and exact named player specification; marketing tasting text is not independent review evidence."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2020/07/29/j-p-wisers-alumni-series-dave-keon-14-year-old/",
+          "role": "July 29, 2020, exact fourteen-year / 45%; meta-review grades are not extra independent tastings."
+        },
+        {
+          "title": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+          "role": "Exact fourteen-year / 45% Keon tasting; Scotch-like description is a flavor analogy, not a change of category."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2020/07/29/j-p-wisers-alumni-series-dave-keon-14-year-old/",
+          "summary": "Selfbuilt finds good balance and a buttery mouthfeel, with fruit and baking spice continuing into a medium-long ending. A modest nose, slight acetone-like note and a persistent tea-like tannin prevent his highest assessment.",
+          "scope": "July 29, 2020, exact fourteen-year / 45%; meta-review grades are not extra independent tastings."
+        },
+        {
+          "reviewer": "The Gentleman’s Flavor panel",
+          "publisher": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+          "summary": "The panel finds layered orchard fruit, pepper and soft char across a coherent palate, followed by a genuinely medium, warming finish. Its favorable balance account supports the sipper emphasis.",
+          "scope": "Exact fourteen-year / 45% Keon tasting; Scotch-like description is a flavor analogy, not a change of category."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "videos": [],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "grain_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+      "image_source": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-dave-keon",
+      "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Alumni_DaveKeon.jpg?v=1742995500",
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+        }
+      ],
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "proof": 90,
+      "age": 14,
+      "age_display": "14 Years",
+      "release_year": 2019,
+      "dimensions": [
+        8.0,
+        7.5,
+        7.0,
+        7.0,
+        8.0,
+        7.5,
+        7.5
+      ],
+      "identity": "J.P. Wiser’s Alumni Whisky Series — Dave Keon, 2019 release era, 14 years, 45% ABV / 90 proof, 750 mL; exact named player and label.",
+      "short_version": "One of the better-supported Alumni blends for balance, buttery texture and a lasting spice-and-fruit profile. A lighter nose and tannic ending restrain an otherwise strong Canadian-category assessment.",
+      "grain": "Corn, rye and malted barley; component proportions undisclosed",
+      "production": "The producer confirms fourteen years, 45%, and four barrel types. Selfbuilt documents corn, rye and malted barley through double-column corn, single-column rye, column-and-pot rye, and single-column malt streams. The cask set is used Canadian-whisky, ex-bourbon, virgin oak and ex-Speyside. Three grains do not mean only three distillate streams, and four casks do not establish four sequential finishes.",
+      "finish": "Blend across used Canadian-whisky, ex-bourbon, virgin oak and ex-Speyside cask regimes; sequence and durations unknown.",
+      "history": [
+        "Corby’s September 24, 2019 Captains-line announcement identifies Keon alongside Cournoyer and Messier, with fourteen years, 45% and four barrel types. The producer’s later catalogue publication timestamp is not a new launch.",
+        "A later producer shop photograph and sale offer authenticate the exact named expression, not a new annual formulation. Player-specific recipes are not interchangeable. Historical stock and asking premiums do not establish current U.S. availability or drinking Value."
+      ],
+      "quality_rationale": "Very-good, approaching excellent provisional Canadian-blend execution. Repeated balance and texture support the result; a less full nose, slight solvent-like aroma and tannic tail limit cleanliness and finish. Fourteen years and forty-five-percent strength are not independent bonuses.",
+      "comparables": [
+        {
+          "url": "j-p-wiser-s-alumni-darryl-sittler.html",
+          "name": "J.P. Wiser’s Alumni Darryl Sittler",
+          "reason": "A different player recipe and balance/texture evidence; the shared label series does not imply the same liquid."
+        },
+        {
+          "url": "j-p-wiser-s-10-year.html",
+          "name": "J.P. Wiser’s 10 Year",
+          "reason": "Recurring family alternative with an exact U.S. offer; not a substitute image or review for this Alumni bottle."
+        }
+      ],
+      "pricing": {
+        "amount": 39.99,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-dave-keon",
+        "basis": "Producer Ontario sale offer CAD 39.99; displayed regular 45.20 CAD; not a U.S. quote",
+        "nc_status": "No exact dated U.S./NC offer authenticated; CAD sale and comparison price kept separate."
+      }
+    }
+  },
+  {
+    "slug": "j-p-wiser-s-alumni-guy-lafleur",
+    "filename": "j-p-wiser-s-alumni-guy-lafleur.html",
+    "name": "J.P. Wiser's Alumni Guy Lafleur",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Canadian Single Grain",
+    "subcategory": "Canadian Single Grain",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "100% corn whisky; no rye or malt grain inferred from cask provenance",
+    "mash_bill_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+    "quality": 6.4,
+    "quality_score": 6.4,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "universal_dimensions": {
+        "integration": 6.4,
+        "flavor_development": 6.5,
+        "finish": 5.8,
+        "technical_cleanliness": 6.6,
+        "texture": 6.6,
+        "maturity_wood_management": 6.5,
+        "distinctiveness": 6.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.385,
+      "editorial_adjustment": 0.015,
+      "adjustment_reason": "Good provisional Canadian single-grain execution. Integrated sweet corn and accessible texture support the result; pronounced rum sweetness and a less distinguished ending limit balance and finish. The blend rubric is not treated as a native single-grain anchor."
+    },
+    "quality_calibration_basis": "The verified 100%-corn recipe belongs to Canadian Single Grain. No complete native Canadian single-grain endpoint framework is established, so universal execution dimensions apply within that category; Canadian multi-grain blend and American whiskey endpoints are not imported.",
+    "quality_rationale": "Good provisional Canadian single-grain execution. Integrated sweet corn and accessible texture support the result; pronounced rum sweetness and a less distinguished ending limit balance and finish. The blend rubric is not treated as a native single-grain anchor.",
+    "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No exact dated U.S. consumer price established",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "Historical approximate CAD 45 is not an authenticated current U.S./NC offer.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2018,
+    "release_scope": "J.P. Wiser’s Alumni Whisky Series — Guy Lafleur, 2018 release era, 10 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2019/11/12/j-p-wisers-alumni-series-guy-lafleur-10-year-old/",
+      "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "Distiller"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2019/11/12/j-p-wisers-alumni-series-guy-lafleur-10-year-old/",
+        "summary": "Selfbuilt finds a remarkably rum-like profile, gentle sweet corn, fruit and soft spice without burn. He finds it easy to enjoy but too sweet for his preference, with a faint saccharine edge at the end.",
+        "scope": "November 12, 2019, exact ten-year / 40% Lafleur; personal preference is kept distinct from demonstrated execution."
+      },
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur",
+        "summary": "Phillips finds fused corn sweetness and gentle wood, followed by refined grain character and a rising rum-fruit/spice ending. His positive integration account complements the sweetness reservation.",
+        "scope": "Exact ten-year / 40% / 100%-corn entry; publication date not established, crowd average not used."
+      }
+    ],
+    "source_urls": [
+      "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur",
+      "https://whiskyanalysis.com/index.php/2019/11/12/j-p-wisers-alumni-series-guy-lafleur-10-year-old/"
+    ],
+    "production_summary": "The exact specialist record and matched label authenticate 100% corn, ten years and 40%. Ex-Speyside, ex-bourbon and ex-rum casks are documented. Distiller describes finishing after ten years; Selfbuilt describes the casks as maturation components. Their timing is therefore left source-limited: neither a precise three-stage schedule nor an added age is established. Ex-Speyside casks do not make the grain whisky malt whisky.",
+    "finishing_information": "Speyside, bourbon and rum-cask involvement; exact durations and sequencing not authenticated.",
+    "identity_note": null,
+    "history": [
+      "The inaugural 2018–2019 Alumni edition was introduced in late 2018, initially by province, with Lafleur associated with Quebec. The verified French label explicitly names Guy Lafleur and the 2018–2019 edition; later scarcity discussion does not date the original release.",
+      "The exact photographed French label is tied to Selfbuilt’s matched review. The Gentleman’s Flavor explicitly did not obtain this bottle; its Lafleur paragraph is not counted as first-hand sensory evidence. Rum-like flavor is consistent with documented cask involvement but does not establish rum addition."
+    ],
+    "comparables": [
+      {
+        "url": "j-p-wiser-s-alumni-dave-keon.html",
+        "name": "J.P. Wiser’s Alumni Dave Keon",
+        "reason": "A different player recipe and balance/texture evidence; the shared label series does not imply the same liquid."
+      },
+      {
+        "url": "j-p-wiser-s-10-year.html",
+        "name": "J.P. Wiser’s 10 Year",
+        "reason": "Recurring family alternative with an exact U.S. offer; not a substitute image or review for this Alumni bottle."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://whiskyanalysis.com/index.php/2019/11/12/j-p-wisers-alumni-series-guy-lafleur-10-year-old/",
+        "image_url": "https://whiskyanalysis.com/wp/wp-content/uploads/2019/11/Guy.jpg",
+        "scope": "J.P. Wiser’s Alumni Whisky Series — Guy Lafleur, 2018 release era, 10 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+        "sha256": "989ecfce9ec155e987afc3dbc3f4843fc0ea414e685d25f2e02c8a3af705cb84",
+        "image_embedded": true,
+        "width": 420,
+        "height": 272
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s Alumni Whisky Series — Guy Lafleur, 2018 release era, 10 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-026",
+    "editorial": {
+      "id": "j-p-wiser-s-alumni-guy-lafleur",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Single Grain",
+      "quality": 6.4,
+      "value": null,
+      "calibration_basis": "The verified 100%-corn recipe belongs to Canadian Single Grain. No complete native Canadian single-grain endpoint framework is established, so universal execution dimensions apply within that category; Canadian multi-grain blend and American whiskey endpoints are not imported.",
+      "evidence_limit": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+      "sources": [
+        {
+          "title": "Distiller exact Lafleur identity",
+          "url": "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur",
+          "role": "Ten years / 40% / 100% corn; cask finish description kept source-limited."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/12/j-p-wisers-alumni-series-guy-lafleur-10-year-old/",
+          "role": "November 12, 2019, exact ten-year / 40% Lafleur; personal preference is kept distinct from demonstrated execution."
+        },
+        {
+          "title": "Distiller",
+          "url": "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur",
+          "role": "Exact ten-year / 40% / 100%-corn entry; publication date not established, crowd average not used."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/12/j-p-wisers-alumni-series-guy-lafleur-10-year-old/",
+          "summary": "Selfbuilt finds a remarkably rum-like profile, gentle sweet corn, fruit and soft spice without burn. He finds it easy to enjoy but too sweet for his preference, with a faint saccharine edge at the end.",
+          "scope": "November 12, 2019, exact ten-year / 40% Lafleur; personal preference is kept distinct from demonstrated execution."
+        },
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/alumni-whisky-series-guy-lafleur",
+          "summary": "Phillips finds fused corn sweetness and gentle wood, followed by refined grain character and a rising rum-fruit/spice ending. His positive integration account complements the sweetness reservation.",
+          "scope": "Exact ten-year / 40% / 100%-corn entry; publication date not established, crowd average not used."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "videos": [],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "grain_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+      "image_source": "https://whiskyanalysis.com/index.php/2019/11/12/j-p-wisers-alumni-series-guy-lafleur-10-year-old/",
+      "image_url": "https://whiskyanalysis.com/wp/wp-content/uploads/2019/11/Guy.jpg",
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+        }
+      ],
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "proof": 80,
+      "age": 10,
+      "age_display": "10 Years",
+      "release_year": 2018,
+      "dimensions": [
+        6.4,
+        6.5,
+        5.8,
+        6.6,
+        6.6,
+        6.5,
+        6.3
+      ],
+      "identity": "J.P. Wiser’s Alumni Whisky Series — Guy Lafleur, 2018 release era, 10 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+      "short_version": "A sweet, rum-influenced ten-year all-corn Canadian whisky with a gentle delivery and some refined spice. Its documented single-grain identity belongs outside the multi-grain Canadian blend group.",
+      "grain": "100% corn whisky; no rye or malt grain inferred from cask provenance",
+      "production": "The exact specialist record and matched label authenticate 100% corn, ten years and 40%. Ex-Speyside, ex-bourbon and ex-rum casks are documented. Distiller describes finishing after ten years; Selfbuilt describes the casks as maturation components. Their timing is therefore left source-limited: neither a precise three-stage schedule nor an added age is established. Ex-Speyside casks do not make the grain whisky malt whisky.",
+      "finish": "Speyside, bourbon and rum-cask involvement; exact durations and sequencing not authenticated.",
+      "history": [
+        "The inaugural 2018–2019 Alumni edition was introduced in late 2018, initially by province, with Lafleur associated with Quebec. The verified French label explicitly names Guy Lafleur and the 2018–2019 edition; later scarcity discussion does not date the original release.",
+        "The exact photographed French label is tied to Selfbuilt’s matched review. The Gentleman’s Flavor explicitly did not obtain this bottle; its Lafleur paragraph is not counted as first-hand sensory evidence. Rum-like flavor is consistent with documented cask involvement but does not establish rum addition."
+      ],
+      "quality_rationale": "Good provisional Canadian single-grain execution. Integrated sweet corn and accessible texture support the result; pronounced rum sweetness and a less distinguished ending limit balance and finish. The blend rubric is not treated as a native single-grain anchor.",
+      "comparables": [
+        {
+          "url": "j-p-wiser-s-alumni-dave-keon.html",
+          "name": "J.P. Wiser’s Alumni Dave Keon",
+          "reason": "A different player recipe and balance/texture evidence; the shared label series does not imply the same liquid."
+        },
+        {
+          "url": "j-p-wiser-s-10-year.html",
+          "name": "J.P. Wiser’s 10 Year",
+          "reason": "Recurring family alternative with an exact U.S. offer; not a substitute image or review for this Alumni bottle."
+        }
+      ],
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": null,
+        "url": null,
+        "basis": "No exact dated U.S. consumer price established",
+        "nc_status": "Historical approximate CAD 45 is not an authenticated current U.S./NC offer."
+      }
+    }
+  },
+  {
+    "slug": "j-p-wiser-s-alumni-lanny-mcdonald",
+    "filename": "j-p-wiser-s-alumni-lanny-mcdonald.html",
+    "name": "J.P. Wiser's Alumni Lanny McDonald",
+    "family": "J.P. Wiser's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "9 Years",
+    "age_display": "9 Years",
+    "age_sort_years": 9,
+    "mash_bill_display": "Corn-led blend with substantial pot-distilled wheat and a little rye; proportions undisclosed",
+    "mash_bill_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+    "quality": 5.8,
+    "quality_score": 5.8,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-15",
+      "limitations": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "universal_dimensions": {
+        "integration": 5.7,
+        "flavor_development": 6.1,
+        "finish": 5.2,
+        "technical_cleanliness": 5.7,
+        "texture": 5.7,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 6.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.755,
+      "editorial_adjustment": 0.045,
+      "adjustment_reason": "Average-to-good provisional Canadian blend execution. A distinctive flavor profile and low-burn approachability help, while conflicting integration accounts, short/thin finish evidence and bitter or musty impressions restrain the score."
+    },
+    "quality_calibration_basis": "No complete evidence-supported Canadian native low/mid/high framework is established. The universal execution rubric is applied within Canadian blended whisky; American bourbon and straight-rye endpoints are not imported.",
+    "quality_rationale": "Average-to-good provisional Canadian blend execution. A distinctive flavor profile and low-burn approachability help, while conflicting integration accounts, short/thin finish evidence and bitter or musty impressions restrain the score.",
+    "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Producer Ontario sale offer CAD 39.99; displayed regular 44.95 CAD; not a U.S. quote",
+    "price_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-lanny-mcdonald",
+    "price_period": "2026-10-15",
+    "price_effective": null,
+    "price_checked_date": "2026-10-15",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 39.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact dated U.S./NC offer authenticated; CAD sale and comparison price kept separate.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2018,
+    "release_scope": "J.P. Wiser’s Alumni Whisky Series — Lanny McDonald, 2018 release era, 9 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+    "availability_note": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+    "research_date": "2026-10-15",
+    "score_date": "2026-10-15",
+    "review_sources": [
+      "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-lanny-mcdonald-9-year-old/",
+      "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/"
+    ],
+    "review_publishers": [
+      "Selfbuilt’s Whisky Analysis",
+      "The Gentleman’s Flavor"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Selfbuilt",
+        "publisher": "Selfbuilt’s Whisky Analysis",
+        "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-lanny-mcdonald-9-year-old/",
+        "summary": "Selfbuilt enjoys a soft, distinctive combination of anise, sweet grain, nut and tobacco-like notes, with manageable bitter wood. He also records faint solvent-like and stale-nut impressions, without treating these as chemical findings.",
+        "scope": "November 13, 2019, exact nine-year / 40% sample; identifying a wheat component does not prove every flavor originates from wheat."
+      },
+      {
+        "reviewer": "The Gentleman’s Flavor panel",
+        "publisher": "The Gentleman’s Flavor",
+        "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+        "summary": "The panel finds an agreeable creamy nose but a palate whose pine, fruit and honey do not form a coherent whole, followed by a short and thin finish. This is meaningful dissent from the favorable character assessment.",
+        "scope": "Exact McDonald nine-year / 40%; its simplified cask shorthand is not used to overwrite the producer/contemporary recipe record."
+      }
+    ],
+    "source_urls": [
+      "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-lanny-mcdonald",
+      "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+      "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-lanny-mcdonald-9-year-old/",
+      "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/"
+    ],
+    "production_summary": "The current producer record confirms Canadian-whisky and virgin-oak casks at 40%. Contemporary Selfbuilt and Toronto Whisky Society accounts identify corn as the majority, substantial pot-distilled wheat, and a little column rye. Wheat is linked to virgin oak and the corn/rye to used Canadian-whisky casks. This resolves the discovery’s wheat-forward shorthand without inventing majority wheat or a percentage.",
+    "finishing_information": "Used Canadian-whisky casks plus virgin-oak wheat component; no separate whole-blend secondary finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "McDonald belongs to the original 2018–2019 Alumni edition, initially associated with Alberta before wider availability. The verified label states nine years and 40%; this is an actual age, not merely a jersey reference.",
+      "A later producer shop photograph and sale offer authenticate the exact named expression, not a new annual formulation. Player-specific recipes are not interchangeable. Historical stock and asking premiums do not establish current U.S. availability or drinking Value."
+    ],
+    "comparables": [
+      {
+        "url": "j-p-wiser-s-alumni-dave-keon.html",
+        "name": "J.P. Wiser’s Alumni Dave Keon",
+        "reason": "A different player recipe and balance/texture evidence; the shared label series does not imply the same liquid."
+      },
+      {
+        "url": "j-p-wiser-s-10-year.html",
+        "name": "J.P. Wiser’s 10 Year",
+        "reason": "Recurring family alternative with an exact U.S. offer; not a substitute image or review for this Alumni bottle."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Exceptional buy / stock-up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Easy buy / sweet spot",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Think twice / conditional",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      },
+      {
+        "label": "Pass / trade up",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+        "reference_date": "2026-10-15",
+        "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+      },
+      {
+        "name": "Water / rocks",
+        "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+      },
+      {
+        "name": "Manhattan / highball",
+        "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-lanny-mcdonald",
+        "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Alumni_LannyMcDonald.jpg?v=1742995409",
+        "scope": "J.P. Wiser’s Alumni Whisky Series — Lanny McDonald, 2018 release era, 9 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+        "sha256": "29f90672b5c408e31e74edcec4ea46116d35b56df3b1abecffee7dc41a578f62",
+        "image_embedded": true,
+        "width": 571,
+        "height": 1000
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "J.P. Wiser’s Alumni Whisky Series — Lanny McDonald, 2018 release era, 9 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-026",
+    "editorial": {
+      "id": "j-p-wiser-s-alumni-lanny-mcdonald",
+      "producer": "Hiram Walker & Sons, Windsor, Ontario / Pernod Ricard; Corby Spirit & Wine brand stewardship",
+      "category": "Canadian Blended Whisky",
+      "quality": 5.8,
+      "value": null,
+      "calibration_basis": "No complete evidence-supported Canadian native low/mid/high framework is established. The universal execution rubric is applied within Canadian blended whisky; American bourbon and straight-rye endpoints are not imported.",
+      "evidence_limit": "A synthesis of inspected published samples, not first-person tasting. Conflicting opinions and sample eras remain explicit. Publisher grades are not converted mechanically. The current pack photograph does not prove an unchanged recipe across years.",
+      "quality_confidence": "Provisional; attributed matched samples with era and disagreement limitations",
+      "sources": [
+        {
+          "title": "Producer exact named Alumni record",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-lanny-mcdonald",
+          "role": "Visually inspected exact age/player/strength pack and current Ontario CAD price; catalogue timestamps are not original-release dates."
+        },
+        {
+          "title": "Toronto Whisky Society — contemporary record",
+          "url": "https://torontowhiskysociety.ca/2019/08/22/j-p-wisers-nhl-alumni-series/",
+          "role": "2019 direct blender-context account identifies corn majority, significant pot-distilled wheat and a little rye; used/virgin casks remain component-specific."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-lanny-mcdonald-9-year-old/",
+          "role": "November 13, 2019, exact nine-year / 40% sample; identifying a wheat component does not prove every flavor originates from wheat."
+        },
+        {
+          "title": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+          "role": "Exact McDonald nine-year / 40%; its simplified cask shorthand is not used to overwrite the producer/contemporary recipe record."
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Selfbuilt",
+          "publisher": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2019/11/13/j-p-wisers-alumni-series-lanny-mcdonald-9-year-old/",
+          "summary": "Selfbuilt enjoys a soft, distinctive combination of anise, sweet grain, nut and tobacco-like notes, with manageable bitter wood. He also records faint solvent-like and stale-nut impressions, without treating these as chemical findings.",
+          "scope": "November 13, 2019, exact nine-year / 40% sample; identifying a wheat component does not prove every flavor originates from wheat."
+        },
+        {
+          "reviewer": "The Gentleman’s Flavor panel",
+          "publisher": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/j-p-wisers-nhl-alumni-series-whisky-reviews/",
+          "summary": "The panel finds an agreeable creamy nose but a palate whose pine, fruit and honey do not form a coherent whole, followed by a short and thin finish. This is meaningful dissent from the favorable character assessment.",
+          "scope": "Exact McDonald nine-year / 40%; its simplified cask shorthand is not used to overwrite the producer/contemporary recipe record."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Exceptional buy / stock-up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "No numerical U.S. stock-up threshold: establish an exact dated offer before treating a low headline as a bargain.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Easy buy / sweet spot",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "A sample is the useful first step if the documented style or batch is unfamiliar.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Compare the exact bottle with a recurring Canadian alternative available in the same currency and market.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Think twice / conditional",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Taste before paying a collector premium; age, a famous player and rarity do not measure drinking Value.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        },
+        {
+          "label": "Pass / trade up",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Prefer a documented, less expensive alternative when the exact release identity or offer cannot be established.",
+          "reference_date": "2026-10-15",
+          "boundary_basis": "No authenticated exact U.S. price and/or independent sensory assessment; dollar thresholds withheld."
+        }
+      ],
+      "videos": [],
+      "community": "No representative crowd consensus is claimed. Attributed individual tasting reports are not a survey of drinkers.",
+      "availability": "Checked October 15, 2026. Prices are dated consumer references, not stock guarantees. Tax and delivery may change final cost. Canadian dollars are not converted into U.S. Cost.",
+      "grain_confidence": "Only expression-matched grain evidence is used; exact proportions remain undisclosed.",
+      "image_source": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-lanny-mcdonald",
+      "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_Alumni_LannyMcDonald.jpg?v=1742995409",
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Begin with a small rested pour; assess sweetness, texture and the drying finish before choosing a serving."
+        },
+        {
+          "name": "Water / rocks",
+          "recommendation": "Add drops gradually or one small cube, comparing aroma and texture as it dilutes."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and bitters. A recurring Canadian blend is the cost comparison before mixing a limited bottle."
+        },
+        {
+          "name": "Manhattan / highball",
+          "recommendation": "Try a small serve with restrained vermouth or soda; a softer whisky can lose definition under assertive mixers."
+        }
+      ],
+      "value_rationale": "N/A: targeted research did not authenticate an exact dated U.S. consumer offer. Canadian-dollar prices and undated or release-ambiguous collector listings do not establish U.S. drinking Value.",
+      "proof": 80,
+      "age": 9,
+      "age_display": "9 Years",
+      "release_year": 2018,
+      "dimensions": [
+        5.7,
+        6.1,
+        5.2,
+        5.7,
+        5.7,
+        5.8,
+        6.5
+      ],
+      "identity": "J.P. Wiser’s Alumni Whisky Series — Lanny McDonald, 2018 release era, 9 years, 40% ABV / 80 proof, 750 mL; exact named player and label.",
+      "short_version": "A distinctive, easygoing nine-year blend with substantial wheat character, but uneven support for integration and finish. Licorice and nutty/dusty impressions in favorable tasting accounts will not suit every palate.",
+      "grain": "Corn-led blend with substantial pot-distilled wheat and a little rye; proportions undisclosed",
+      "production": "The current producer record confirms Canadian-whisky and virgin-oak casks at 40%. Contemporary Selfbuilt and Toronto Whisky Society accounts identify corn as the majority, substantial pot-distilled wheat, and a little column rye. Wheat is linked to virgin oak and the corn/rye to used Canadian-whisky casks. This resolves the discovery’s wheat-forward shorthand without inventing majority wheat or a percentage.",
+      "finish": "Used Canadian-whisky casks plus virgin-oak wheat component; no separate whole-blend secondary finish authenticated.",
+      "history": [
+        "McDonald belongs to the original 2018–2019 Alumni edition, initially associated with Alberta before wider availability. The verified label states nine years and 40%; this is an actual age, not merely a jersey reference.",
+        "A later producer shop photograph and sale offer authenticate the exact named expression, not a new annual formulation. Player-specific recipes are not interchangeable. Historical stock and asking premiums do not establish current U.S. availability or drinking Value."
+      ],
+      "quality_rationale": "Average-to-good provisional Canadian blend execution. A distinctive flavor profile and low-burn approachability help, while conflicting integration accounts, short/thin finish evidence and bitter or musty impressions restrain the score.",
+      "comparables": [
+        {
+          "url": "j-p-wiser-s-alumni-dave-keon.html",
+          "name": "J.P. Wiser’s Alumni Dave Keon",
+          "reason": "A different player recipe and balance/texture evidence; the shared label series does not imply the same liquid."
+        },
+        {
+          "url": "j-p-wiser-s-10-year.html",
+          "name": "J.P. Wiser’s 10 Year",
+          "reason": "Recurring family alternative with an exact U.S. offer; not a substitute image or review for this Alumni bottle."
+        }
+      ],
+      "pricing": {
+        "amount": 39.99,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2026-10-15",
+        "url": "https://shop.jpwisers.com/products/j-p-wisers-alumni-whisky-series-lanny-mcdonald",
+        "basis": "Producer Ontario sale offer CAD 39.99; displayed regular 44.95 CAD; not a U.S. quote",
+        "nc_status": "No exact dated U.S./NC offer authenticated; CAD sale and comparison price kept separate."
+      }
+    }
   }
 ]
