@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 56,
-    "accepted": 169
+    "pending": 51,
+    "accepted": 174
   },
   "entries": [
     {
@@ -13192,17 +13192,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 24.0,
-      "age_information": "24 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Multi-cask maturation; exact regime to verify",
+      "proof": 100,
+      "abv": 50.0,
+      "age_statement_years": 24,
+      "age_information": "24 Years",
+      "grain_information": "Exact component grains and proportions not authenticated; flavor descriptors such as rye bread are not a grain recipe.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Multiple-cask maturation, details undisclosed; no verified sequential finishing regime.",
       "release_year_or_era": "2025",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13213,13 +13213,38 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/collections/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 175
+      "deterministic_order": 175,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-028",
+      "publication_sources": [
+        {
+          "title": "Producer exact Decades 24 record",
+          "url": "https://shop.jpwisers.com/products/j-p-wisers-24-year-old-canadian-whisky",
+          "role": "Exact pack, 50% / twenty-four-year specification, CAD price and April 2025 catalogue metadata."
+        },
+        {
+          "title": "LCBO 43771",
+          "url": "https://www.lcbo.com/en/j-p-wiser-s-24-year-old-canadian-whisky-43771",
+          "role": "Control-state 2000 distillation / 50% confirmation; tasting copy is commercial description."
+        },
+        {
+          "title": "Drams of Whisky statistics",
+          "url": "https://dramsofwhisky.com/stats.html",
+          "role": "Exact named numerical row inspected; no linked substantive review in the inspected Canadian/brand archives, so no grade conversion."
+        },
+        {
+          "title": "Producer 2024 series introduction",
+          "url": "https://www.jpwisers.com/en-ca/blog/meet-jp-wisers-42-year-old-a-new-milestone-in-canadian-whisky-excellence/",
+          "role": "July 18, 2024 describes the future twenty-four-year as upcoming; no invented precise launch date."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-decades-28-year-2024",
@@ -13229,17 +13254,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 28.0,
-      "age_information": "28 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
+      "proof": 96,
+      "abv": 48.0,
+      "age_statement_years": 28,
+      "age_information": "28 Years",
+      "grain_information": "Producer reports 90% double-column corn and just under 10% single-column rye; rounding is not a precise complete mash bill.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Four documented cask types; complete component schedule and any separate finishing sequence unestablished.",
       "release_year_or_era": "2024",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13250,13 +13275,46 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/collections/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "matched_verified",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": [
+          {
+            "reviewer": "IWSC 2024 panel",
+            "publisher": "IWSC",
+            "url": "https://iwsc.net/results/detail/156106/jp-wisers-28-yo-canadian-whiskey",
+            "summary": "The panel describes fruit-led aromas, a silky palate and lingering sweetness. The short note does not address enough execution dimensions for a numeric project Quality score.",
+            "scope": "Exact twenty-eight-year / 48% / 750 mL 2024 entry. One panel/publisher; a medal is not an additional tasting."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 176
+      "deterministic_order": 176,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-028",
+      "publication_sources": [
+        {
+          "title": "Producer exact Decades 28 record",
+          "url": "https://shop.jpwisers.com/products/jp-wisers-28-year-old-canadian-whisky",
+          "role": "Named label, twenty-eight years / 48% / 750 mL and Ontario CAD price."
+        },
+        {
+          "title": "Corby exact release announcement",
+          "url": "https://www.newswire.ca/news-releases/the-decades-series-by-j-p-wiser-s-continues-with-the-launch-of-28-year-old-whisky--878409683.html",
+          "role": "November 19, 2024 primary production account and October Canadian availability."
+        },
+        {
+          "title": "IWSC exact 2024 panel note",
+          "url": "https://iwsc.net/results/detail/156106/jp-wisers-28-yo-canadian-whiskey",
+          "role": "Twenty-eight years / 48% / 750 mL; named judges, brief tasting text and Bronze 2024 entry, not an assumed complete review."
+        },
+        {
+          "title": "Drams of Whisky statistics",
+          "url": "https://dramsofwhisky.com/stats.html",
+          "role": "Unelaborated numerical row is not converted into project Quality."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-decades-42-year-2024",
@@ -13266,17 +13324,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 104.0,
+      "proof": 104,
       "abv": 52.0,
-      "age_statement_years": 42.0,
-      "age_information": "42 years",
-      "grain_information": "Undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
+      "age_statement_years": 42,
+      "age_information": "42 Years",
+      "grain_information": "Producer: 90% double-column grain whisky and 10% single-column rye; the blog does not explicitly name the cereal of the 90% grain component.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Canadian-oak, ex-bourbon and ex-Speyside-malt maturation; complete component timing undisclosed.",
       "release_year_or_era": "2024",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13287,13 +13345,46 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/products/jp-wisers-42-year-old-canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "David Tao",
+            "publisher": "Drinkhacker",
+            "url": "https://www.drinkhacker.com/2024/11/13/review-j-p-wisers-canadian-whisky-42-years-old/",
+            "summary": "Tao finds a sharp smoky/savory nose, a sweeter tea-and-nut palate and a fruity, gently woody finish. He enjoys the development with time, but criticizes thin texture and a potentially divisive mismatch between aroma and palate.",
+            "scope": "November 13, 2024 exact forty-two-year / 104 proof; one substantive independent sample."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 177
+      "deterministic_order": 177,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-028",
+      "publication_sources": [
+        {
+          "title": "Producer exact named pack",
+          "url": "https://shop.jpwisers.com/products/jp-wisers-42-year-old-canadian-whisky",
+          "role": "Verified forty-two-year / 52% photograph; current Ontario price is CAD, not U.S."
+        },
+        {
+          "title": "Producer detailed series account",
+          "url": "https://www.jpwisers.com/en-ca/blog/meet-jp-wisers-42-year-old-a-new-milestone-in-canadian-whisky-excellence/",
+          "role": "July 18, 2024 grain-stream and cask account; grain whisky is not expanded into an unverified cereal identity."
+        },
+        {
+          "title": "Producer U.S. release via BevNET",
+          "url": "https://www.bevnet.com/pr/2024/10/22/jp-wisers-canadian-whisky-lands-in-america-with-42yearold-decade-series-release",
+          "role": "October 22, 2024 / 104 proof / USD 350 historical MSRP; marketing language is not independent tasting."
+        },
+        {
+          "title": "David Tao — Drinkhacker",
+          "url": "https://www.drinkhacker.com/2024/11/13/review-j-p-wisers-canadian-whisky-42-years-old/",
+          "role": "November 13, 2024 exact 104-proof release; qualitative findings rather than source grade used."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-deluxe",
@@ -13303,17 +13394,17 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed blend proportions",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "age_information": "NAS",
+      "grain_information": "Corn and rye reported; exact proportions undisclosed. Rye on a Canadian label does not mean 51% or 100% rye.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Oak/bourbon-cask involvement documented; exact Double Cask schedule and a separate finishing duration undisclosed.",
       "release_year_or_era": "Documented range; first release date to verify",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13324,13 +13415,63 @@
       ],
       "potential_image_source": "https://www.jpwisers.com/en-us/whisky-family/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/wisers-de-luxe/",
+            "summary": "Dykstra enjoys dry rye spice and moderate complexity with ice or ginger ale. Light astringency and alcohol heat neat qualify his favorable assessment.",
+            "scope": "September 26, 2016 revision of NAS / 40% Deluxe; same reviewer’s earlier version is not another independent voice."
+          },
+          {
+            "reviewer": "Whisky of the Week",
+            "publisher": "Whisky of the Week",
+            "url": "https://whiskyoftheweek.co.uk/jp-wisers-deluxe/",
+            "summary": "The writer finds a soft, simple nose followed by overwhelming spice and blunt edges, with a medium citrus-spice finish. Mixing works better than the balance does neat.",
+            "scope": "NAS / 40% Canadian travel bottle; source comparisons with American rye do not set Canadian Quality anchors."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 178
+      "deterministic_order": 178,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-028",
+      "publication_sources": [
+        {
+          "title": "Producer exact current Deluxe pack",
+          "url": "https://shop.jpwisers.com/products/jp-wisers-deluxe-canadian-whisky",
+          "role": "NAS / 40% recurring expression; photographed 750 mL pack distinguished from priced NC handle."
+        },
+        {
+          "title": "NC ABC exact 1.75 L listing",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/156190",
+          "role": "Latest displayed effective date August 1, 2026, code 37803 / 80 proof / retail USD 26.95; older 2024 USD 32.95 entry not used."
+        },
+        {
+          "title": "Chip Dykstra — The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/wisers-de-luxe/",
+          "role": "2010 review revised September 26, 2016, exact NAS / 40%; guessed ages are not label ages."
+        },
+        {
+          "title": "Whisky of the Week",
+          "url": "https://whiskyoftheweek.co.uk/jp-wisers-deluxe/",
+          "role": "July 2021 article with July 2026 update, exact NAS / 40%; Canadian travel and South African currency context retained."
+        },
+        {
+          "title": "Whiskey Lore — direct Livermore interview",
+          "url": "https://www.whiskeylore.org/interviews/ep-104-j-p-wisers-whisky-doc-deconstructing-and-constructing-canadian-whisky",
+          "role": "Episode 104 around 19–21 minutes: bourbon-barrel sourcing and rye balance, not sourced whisky."
+        },
+        {
+          "title": "Caskers exact Deluxe offer",
+          "url": "https://www.caskers.com/j-p-wiser-s-deluxe-blended-canadian-whisky/",
+          "role": "USD 23.99 / 750 mL / 80 proof consumer reference; older minimum-age copy not adopted as current label."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-dissertation-2017",
@@ -13339,18 +13480,18 @@
       "brand_family": "J.P. Wiser's",
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
-      "whisky_category": "Canadian Blended Whisky",
+      "whisky_category": "Canadian Rye Whisky",
       "proof": 92.2,
       "abv": 46.1,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Rye and corn; proportions to verify",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mixed oak regimes",
+      "age_information": "NAS",
+      "grain_information": "Contemporary technical accounts report 87% rye and 13% corn, with column-only and column/pot rye streams; not a single co-fermented mash.",
+      "grain_confidence": "Expression-matched grains; component ratios or age inferences remain attributed where not label-confirmed.",
+      "finishing_information": "Virgin-oak component/char regimes documented in the pre-release account; complete final blend schedule source-limited. No separate secondary finish authenticated.",
       "release_year_or_era": "2017",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct expression, recipe/age/release scope and matched evidence; limitations documented in the dossier and checkpoint.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -13361,13 +13502,53 @@
       ],
       "potential_image_source": "https://whiskyanalysis.com/index.php/2018/07/02/j-p-wisers-dissertation/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2018/07/02/j-p-wisers-dissertation/",
+            "summary": "Selfbuilt praises developed fruit, assertive spice and silky texture with remarkably little bitter oak. The medium-long finish still falls short of the persistence he wants.",
+            "scope": "July 2, 2018 exact NAS / 46.1% Dissertation; his aggregate review table is not additional inspected evidence."
+          },
+          {
+            "reviewer": "Whisky Lassie",
+            "publisher": "Whisky Lassie",
+            "url": "https://whiskylassie.blogspot.com/2017/08/into-light-once-more-lassie-writes.html",
+            "summary": "The purchased-bottle account finds a vivid rye/floral nose and creamy, complex palate, followed by a pleasant spicy ending that is shorter than expected.",
+            "scope": "August 11, 2017 review of bottles purchased May 30; final barrel-count claim conflicts with the pre-release account."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 179
+      "deterministic_order": 179,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-028",
+      "publication_sources": [
+        {
+          "title": "Davin de Kergommeaux — exact named record",
+          "url": "https://canadianwhisky.org/blog/reviews/wisers-dissertation-thesis-in-a-bottle.html",
+          "role": "June 6, 2017 identity, exact photograph, favorable tasting and historical CAD price."
+        },
+        {
+          "title": "Selfbuilt’s Whisky Analysis",
+          "url": "https://whiskyanalysis.com/index.php/2018/07/02/j-p-wisers-dissertation/",
+          "role": "July 2, 2018 exact 46.1% tasting and attributed grain/distillation account; stock age not a label statement."
+        },
+        {
+          "title": "TWS direct blender-context preview",
+          "url": "https://torontowhiskysociety.ca/2017/05/15/exclusive-pre-release-group-review-j-p-wisers-dissertation/",
+          "role": "May 15, 2017 supplied pre-release panel; final-blend cask account distinguished from study design and later barrel-count reporting."
+        },
+        {
+          "title": "Whisky Lassie purchased-bottle account",
+          "url": "https://whiskylassie.blogspot.com/2017/08/into-light-once-more-lassie-writes.html",
+          "role": "August 11, 2017 exact 46.1% review; shorter-finish reservation and conflicting seventy-eight-barrel count retained."
+        }
+      ]
     },
     {
       "id": "j-p-wiser-s-legacy",
