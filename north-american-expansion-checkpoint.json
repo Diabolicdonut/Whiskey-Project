@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 15,
+  "checkpoint": 16,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -950,11 +950,16 @@
     "crown-royal-vanilla.html",
     "crown-royal-xo.html",
     "crown-royal-xr-blue-lasalle.html",
-    "crown-royal-xr-red-waterloo.html"
+    "crown-royal-xr-red-waterloo.html",
+    "forty-creek-22-year-rye-2019.html",
+    "forty-creek-art-of-the-blend-2022.html",
+    "forty-creek-barrel-select.html",
+    "forty-creek-cherrywood-reserve-2023.html",
+    "forty-creek-chronology-2025.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 82,
-  "dossier_count": 935,
+  "canadian_added": 87,
+  "dossier_count": 940,
   "history": [
     {
       "checkpoint": 1,
@@ -1474,9 +1479,46 @@
         "Red XR has three substantive independent sensory accounts and provisional Quality. Historical U.S. USD 150 records lack an authenticated matching package size, so numeric Cost and Value remain N/A rather than borrowing the blue edition price.",
         "All numeric Canadian assessments retain the established universal execution rubric pending a defensible complete native anchor framework; no unrelated American endpoints imported. Categorical UI normalization remains deferred until ledger exhaustion."
       ]
+    },
+    {
+      "checkpoint": 16,
+      "files": [
+        "forty-creek-22-year-rye-2019.html",
+        "forty-creek-art-of-the-blend-2022.html",
+        "forty-creek-barrel-select.html",
+        "forty-creek-cherrywood-reserve-2023.html",
+        "forty-creek-chronology-2025.html"
+      ],
+      "parent_commit": "dccee4bb82b9b8d5efa456f85f206191a8c52459",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 7277,
+        "functional_cases_passed": 447,
+        "responsive_pages_rendered": 348,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 97,
+        "failures": 0
+      },
+      "additional_preservation": "All 110 earlier expansion dossiers and all 935 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Next five pending candidates 115–119 processed in unchanged ledger order; all five exact expression images visually inspected and embedded. No existing dossier or index row rebuilt.",
+        "22 Year Rye authenticated as the single 102-bottle 43% Lot 2018 release celebrated in 2019. Existing candidate ID and filename retained; 2018 bottling and 2019 awards distinguished. Conflicting 1989 versus 1996 distillation chronology remains attributed without inventing a vintage.",
+        "22 Year Rye uses substantive blind Hambrey evidence and multiple Québec Whisky accounts; shared awards-related provenance remains explicit. A Canadian award is not promoted to a native reference-class anchor.",
+        "Art of the Blend authenticated as 2022 Lot 16 / 90 proof, with Winter Harvest Wine blending influence. A grape/wine addition is not renamed an ice-wine-cask finish. Bradley’s favorable qualified sample and Dykstra’s integration/heat criticism both retained.",
+        "Barrel Select uses producer-confirmed 2000 introduction, individually aged corn/rye/barley and new/ex-bourbon oak. Secondary six-to-ten-year, specific char and sherry-finish descriptions are not asserted as verified current specifications. New Niagara packaging does not alone prove a reformulation.",
+        "Barrel Select U.S. USD 21.99 / 750 mL context comes from exact July 10, 2026 purchased-bottle review. The generic NC Forty Creek 1.75 L entry is not automatically assigned to this precise expression. Older blind sweetness/youth counterevidence remains scoped separately from newer samples.",
+        "Cherrywood Reserve producer launch confirms five-year pot-distilled whisky base, aged brandy and kiln-dried cherrywood staves. Brandy is a blending addition, not a brandy-cask finish. Exact final-label age and brandy age unresolved, so whole-blend numeric Age remains unknown.",
+        "Cherrywood uses one complete October 5, 2023 independent account with youthful/raw and thin-body criticisms; low confidence retained. The archive image upload year is not a new edition.",
+        "Chronology authenticated at 45%, 2,208 bottles and four displayed component years. October 2025 presale/review distinguished from November producer announcement. Component-year subtraction is not treated as proven continuous maturation; producer component ages remain attributed and numeric whole-blend age stays unknown.",
+        "Art, Cherrywood and Chronology Canadian-dollar references remain explicitly CAD without USD Cost or Value. 22 Year Rye also retains Value N/A absent a defensible U.S. quote. Canadian universal calibration and deferred final UI normalization remain unchanged."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: forty-creek-22-year-rye-2019",
+  "next_action": "Research next pending expression in deterministic order: forty-creek-confederation-oak",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -1484,24 +1526,24 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 15,
+      "checkpoint": 16,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 935,
-      "new_dossiers": 110,
-      "html_files_structurally_checked": 111,
+      "dossiers": 940,
+      "new_dossiers": 115,
+      "html_files_structurally_checked": 116,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 7102,
-      "local_references_checked": 1939,
-      "embedded_image_occurrences_decoded": 92,
-      "unique_image_payloads_decoded": 92,
-      "image_dossiers_added": 92,
+      "checks": 7277,
+      "local_references_checked": 1989,
+      "embedded_image_occurrences_decoded": 97,
+      "unique_image_payloads_decoded": 97,
+      "image_dossiers_added": 97,
       "numeric_counts": {
-        "quality": 100,
-        "value": 87,
-        "overall": 87
+        "quality": 105,
+        "value": 88,
+        "overall": 88
       },
       "failure_count": 0,
       "failures": []
@@ -1510,8 +1552,8 @@
       "status": "passed",
       "browser": "Chromium",
       "browser_version": "141.0.7390.0",
-      "functional_cases_passed": 444,
-      "responsive_cases": 333,
+      "functional_cases_passed": 447,
+      "responsive_cases": 348,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -1519,7 +1561,7 @@
     }
   },
   "updated_at": "2026-10-15",
-  "last_parent_commit": "c82ad21b805b3797d40a7febf1a68c15ae6db413",
+  "last_parent_commit": "dccee4bb82b9b8d5efa456f85f206191a8c52459",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",
