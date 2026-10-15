@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 29,
+  "checkpoint": 30,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -1019,11 +1019,16 @@
     "j-p-wiser-s-master-blender-series-2026.html",
     "j-p-wiser-s-one-fifty-2017.html",
     "j-p-wiser-s-red-letter-2007-release.html",
-    "j-p-wiser-s-red-letter-2013-release.html"
+    "j-p-wiser-s-red-letter-2013-release.html",
+    "j-p-wiser-s-red-letter-2025-edition.html",
+    "j-p-wiser-s-seasoned-oak-2018.html",
+    "j-p-wiser-s-special-blend.html",
+    "j-p-wiser-s-union-52-2017.html",
+    "j-p-wiser-s-vanilla.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 151,
-  "dossier_count": 1004,
+  "canadian_added": 156,
+  "dossier_count": 1009,
   "history": [
     {
       "checkpoint": 1,
@@ -2065,9 +2070,43 @@
         "Dated price contexts remain currency-correct: Legacy historical CAD 50 (2011), Master Blender producer current Ontario CAD 89.95 (October 15, 2026), One Fifty historical CAD 49.95 (July 2017), original Red Letter historical Canadian CAD 150 (2011), 2013 Red Letter CAD 115 (January 2014). Targeted U.S. research found no defensible regular exact offer; unavailable/backordered collector ask not a drinking-Value anchor. All five USD Cost/Value/Overall N/A.",
         "Five provisional Quality judgments retain seven universal dimensions within intended Canadian categories and average=5. No native Canadian endpoint claims or unrelated American edits. All baseline hashes/rows, completed ledgers, 174 previous expansion pages/data and 999 prior rows preserved; 238 immutable id/order pairs unchanged. Categorical normalization deferred until full ledger exhaustion."
       ]
+    },
+    {
+      "checkpoint": 30,
+      "files": [
+        "j-p-wiser-s-red-letter-2025-edition.html",
+        "j-p-wiser-s-seasoned-oak-2018.html",
+        "j-p-wiser-s-special-blend.html",
+        "j-p-wiser-s-union-52-2017.html",
+        "j-p-wiser-s-vanilla.html"
+      ],
+      "parent_commit": "07ac64f984174bbb1d378c8688810f1bd1e387b9",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 9676,
+        "functional_cases_passed": 459,
+        "responsive_pages_rendered": 555,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 166,
+        "failures": 0
+      },
+      "additional_preservation": "All 179 earlier expansion dossiers and all 1004 prior index rows byte-preserved; all 238 immutable candidate id/order pairs unchanged.",
+      "identity_resolutions": [
+        "Candidates 186–190 processed in exact pending order; Red Letter 2025, Seasoned Oak, Special Blend, Union 52 and Vanilla. Five exact photographs visually verified and embedded; no standalone assets. Wiser’s queue is exhausted after this acceptance; earlier exclusion 182 unchanged.",
+        "Red Letter 2025 producer pack/product verify twenty years, 45%, new-oak finish and May 27, 2025 catalogue publication. Complete grains and finish duration remain unknown. Older Red Letter sensory accounts excluded; indexed release discussion is not developed independent tasting. Quality/Value/Overall N/A. Ontario CAD 149.99 sold-out offer is not U.S. price.",
+        "Seasoned Oak primary verifies nineteen years / 48% / 2018. Matched specialists report eighteen years used-cask plus approximately one year new-oak marriage. More-than-four-year stave seasoning precedes cooperage, not extra whisky age. Corn/rye known without ratios. Creamy/distinctive favorable reviews weighed against Selfbuilt solvent-like aroma/bitterness and purchased-bottle heat/short finish. Provisional universal Quality 5.9; historical June 25, 2018 CAD 99.95 only.",
+        "Special Blend current producer 40% / NAS exact offer overrides Dykstra’s 2017 phase-out speculation. 2023 catalogue creation is not original launch. Complete grains and age remain unknown. Older substantive gentle-mixer account supports low-confidence Quality 5.0; no exact dated U.S. offer, CAD 31.15 kept separate.",
+        "Union 52 discovery era corrected from 2017 to November 2016 using contemporary November 14 TWS report and Winter 2016 Whisky Advocate. Canonical displayed name corrected while immutable id/order and filename preserved. Blender Livermore directly confirms 4% fifty-two-year Scotch; not a fifty-two-year whole blend or cask finish. Canadian base fifteen/sixteen-year reporting disagreement explicit; NAS retained, Scottish source and complete cereal ratios unknown. Eight-member TWS report is one platform; repeated Devoz tour review not counted twice. Smoke/must, body, sweetness and finish dissent retained. Universal Canadian-blend Quality 7.0. Header 48 versus CAD 65 body in magazine is insufficient current U.S. pricing; historical BC CAD 70 before tax retained.",
+        "Vanilla exact producer natural-flavor 35% / NAS pack authenticated. 2016 exact-name archive dates range before 2019 shop timestamp but does not certify current quality. Substantive July 14, 2021 purchased review supports provisional flavored-whiskey Quality 4.7 with limited finish and recipe-continuity evidence. Heavy sweetness is attributed sensory interpretation, not quantitative sugar formula. Prior Spiced/No. 5 reviews excluded; Gopuff 86-proof and DoorDash 80-proof offers rejected for this 70-proof identity. CAD 32.95 only; U.S. Value/Overall N/A.",
+        "All 825 baseline hashes and index rows, completed image/final ledgers, 179 prior expansion pages/data and 1004 prior rows preserved. All 238 id/order pairs unchanged. No categorical normalization until complete ledger exhaustion."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: j-p-wiser-s-red-letter-2025-edition",
+  "next_action": "Research next pending expression in deterministic order: lot-no-40-100-pot-still-rye",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -2075,22 +2114,22 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 29,
+      "checkpoint": 30,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 1004,
-      "new_dossiers": 179,
-      "html_files_structurally_checked": 180,
+      "dossiers": 1009,
+      "new_dossiers": 184,
+      "html_files_structurally_checked": 185,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 9504,
-      "local_references_checked": 2629,
-      "embedded_image_occurrences_decoded": 161,
-      "unique_image_payloads_decoded": 161,
-      "image_dossiers_added": 161,
+      "checks": 9676,
+      "local_references_checked": 2679,
+      "embedded_image_occurrences_decoded": 166,
+      "unique_image_payloads_decoded": 166,
+      "image_dossiers_added": 166,
       "numeric_counts": {
-        "quality": 164,
+        "quality": 168,
         "value": 101,
         "overall": 101
       },
@@ -2102,7 +2141,7 @@
       "browser": "Chromium",
       "browser_version": "140.0.7339.186",
       "functional_cases_passed": 459,
-      "responsive_cases": 540,
+      "responsive_cases": 555,
       "console_errors": 0,
       "page_errors": 0,
       "network_errors": 0,
@@ -2110,7 +2149,7 @@
     }
   },
   "updated_at": "2026-10-15",
-  "last_parent_commit": "d7a55f757bce20644ab25616b58d810ea77694b9",
+  "last_parent_commit": "07ac64f984174bbb1d378c8688810f1bd1e387b9",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",
