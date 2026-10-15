@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 71,
-    "accepted": 154
+    "pending": 66,
+    "accepted": 159
   },
   "entries": [
     {
@@ -12032,19 +12032,19 @@
       "filename": "j-p-wiser-s-12-year-overproof.html",
       "brand_family": "J.P. Wiser's",
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
-      "status": "limited",
+      "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 100.0,
+      "proof": 100,
       "abv": 50.0,
-      "age_statement_years": 12.0,
-      "age_information": "12 years",
-      "grain_information": "Undisclosed",
+      "age_statement_years": 12,
+      "age_information": "12 Years",
+      "grain_information": "Exact grain recipe and proportions not authenticated",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "PX and Madeira wine-cask involvement plus bourbon and used Canadian-whisky casks; sequence and durations undisclosed. Discovery’s no-separate-finish shorthand is superseded.",
       "release_year_or_era": "2026",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
-      "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
+      "decision": "include",
+      "inclusion_or_exclusion_reason": "Verified distinct twelve-year / 50% / PX and Madeira cask-involved expression; no finite edition authenticated.",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
         {
@@ -12055,13 +12055,34 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/",
       "independent_review_record": {
-        "status": "research_required",
+        "status": "insufficient",
         "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "reviews": []
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 160
+      "deterministic_order": 160,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-025",
+      "publication_sources": [
+        {
+          "title": "Producer exact Overproof catalogue",
+          "url": "https://shop.jpwisers.com/products/jp-wisers-12-years-old-overproof-double-750ml",
+          "role": "Twelve years, 50%, 750 mL; current exact photo and CAD 49.95. Producer sensory text is not scored independent evidence."
+        },
+        {
+          "title": "LCBO exact Overproof",
+          "url": "https://www.lcbo.com/en/j-p-wiser-s-12-year-old-overproof-53236",
+          "role": "Primary control-state record for PX, Madeira, bourbon and Canadian-whisky cask involvement."
+        },
+        {
+          "title": "ANBL exact twelve-year Overproof",
+          "url": "https://www.anbl.com/26-mp4-newspirits/j-p-wiser-s-canadian-whisky-overproof-double-12-yo-750ml-47871",
+          "role": "New Brunswick control-state 50% / 750 mL and UPC 048415000864 identity corroboration."
+        }
+      ],
+      "accepted_checkpoint": 25
     },
     {
       "id": "j-p-wiser-s-15-year",
@@ -12071,16 +12092,16 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 15.0,
-      "age_information": "15 years",
-      "grain_information": "Undisclosed",
+      "age_statement_years": 15,
+      "age_information": "15 Years",
+      "grain_information": "Corn-led blend with rye; exact proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "finishing_information": "Mixed maturation in new oak, ex-bourbon and used Canadian-whisky casks; no separate secondary finish authenticated.",
+      "release_year_or_era": "Documented by December 2017; exact first release date unverified",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -12092,13 +12113,76 @@
       ],
       "potential_image_source": "https://www.jpwisers.com/en-us/whisky-family/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-15-year-old-canadian-whisky/",
+            "summary": "Dykstra finds layered toffee, fruit and spice, favors ice for its chocolate-like development, and regards the fifteen-year as subtler than the eighteen. A grain-spice sting slightly limits the finish.",
+            "scope": "December 1, 2017, exact fifteen-year / 40%; his 2018 announcement repeats this review rather than adding another tasting."
+          },
+          {
+            "reviewer": "The Muskox",
+            "publisher": "Malt Runners",
+            "url": "https://maltrunners.com/2022/02/17/2845/",
+            "summary": "The Muskox appreciates the fragrant nose and sticky brown-sugar character but finds the body thin, the middle grainy and metallic-green, and the finish short. This is substantive counterevidence to uniformly smooth marketing.",
+            "scope": "February 17, 2022, official fifteen-year / 40% miniature; duplicate Reddit posting is not another reviewer."
+          },
+          {
+            "reviewer": "Stephen Beaumont",
+            "publisher": "Beaumont Drinks",
+            "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/tariff-times-jp-wisers-15-year-old-canadian-whisky",
+            "summary": "Beaumont values balance and gentle approachability, with caramel, dried fruit and a drying peppery ending. He finds it too soft for assertive mixing and recommends trying it neat.",
+            "scope": "Exact fifteen-year / 40%, reviewer-purchased bottle; article’s Canadian price range is separate from the dated U.S. offer."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 161
+      "deterministic_order": 161,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-025",
+      "publication_sources": [
+        {
+          "title": "Producer fifteen-year record",
+          "url": "https://www.jpwisers.com/en-us/product/jp-wisers-15-year-old-canadian-whisky/",
+          "role": "Primary 15 years / 40% / 750 mL; en-us URL does not make Ontario shop prices USD."
+        },
+        {
+          "title": "Producer master-blender interview",
+          "url": "https://www.jpwisers.com/en-ca/about-us/dr-don-livermore-master-blender/",
+          "role": "Primary evidence for rye and new oak in the fifteen-year; no undisclosed proportions invented."
+        },
+        {
+          "title": "Exact current producer pack",
+          "url": "https://shop.jpwisers.com/products/jp-wisers-15-year-old-canadian-whisky",
+          "role": "Visually verified fifteen-year / 40% identity."
+        },
+        {
+          "title": "Exact U.S. offer",
+          "url": "https://www.caskers.com/j-p-wiser-s-15-year-old-blended-canadian-whisky/",
+          "role": "Retrieved October 15, 2026 page shows USD 62.99 / 750 mL / 80 proof; retailer history is not used as primary chronology."
+        },
+        {
+          "title": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-15-year-old-canadian-whisky/",
+          "role": "December 1, 2017, exact fifteen-year / 40%; his 2018 announcement repeats this review rather than adding another tasting."
+        },
+        {
+          "title": "Malt Runners",
+          "url": "https://maltrunners.com/2022/02/17/2845/",
+          "role": "February 17, 2022, official fifteen-year / 40% miniature; duplicate Reddit posting is not another reviewer."
+        },
+        {
+          "title": "Beaumont Drinks",
+          "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/tariff-times-jp-wisers-15-year-old-canadian-whisky",
+          "role": "Exact fifteen-year / 40%, reviewer-purchased bottle; article’s Canadian price range is separate from the dated U.S. offer."
+        }
+      ],
+      "accepted_checkpoint": 25
     },
     {
       "id": "j-p-wiser-s-18-year",
@@ -12108,16 +12192,16 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 18.0,
-      "age_information": "18 years",
-      "grain_information": "Corn-led; proportions undisclosed",
+      "age_statement_years": 18,
+      "age_information": "18 Years",
+      "grain_information": "Corn-led; 2015 blender interview includes a little rye; current exact grain proportions and any recipe change unresolved",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
-      "release_year_or_era": "Documented range; first release date to verify",
+      "finishing_information": "Used Canadian-whisky cask maturation in the 2015 primary account; no separately authenticated secondary finish. Current batch cask proportions undisclosed.",
+      "release_year_or_era": "Documented by December 2017; exact first release date unverified",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -12129,13 +12213,64 @@
       ],
       "potential_image_source": "https://www.jpwisers.com/en-us/whisky-family/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-18-years-old-canadian-whisky-2017/",
+            "summary": "Dykstra finds an evolving mixture of grain and oak spice, citrus and sweet baking notes. He enjoys the peppery, tobacco-like exit and recommends a little ice, while noting more bite and a faint grassy trace.",
+            "scope": "December 5, 2017, modern-labelled eighteen-year; his 2010 numbered Limited Release review is historical context and is not counted here."
+          },
+          {
+            "reviewer": "The Scotch Noob",
+            "publisher": "The Scotch Noob",
+            "url": "https://scotchnoob.com/2017/08/21/j-p-wisers-canadian-whisky-18-year/",
+            "summary": "Scotch Noob reports persistent adhesive-like aroma, excessive syrupy sweetness, limited nuance and a very short finish across three attempts. He acknowledges the possibility of an atypical bottle but retains the negative buying experience. Sensory solvent language is not an analytical contamination finding.",
+            "scope": "August 21 / September 12, 2017, 750 mL / 40% purchased at K&L Redwood City for USD 55; his no-rye recipe claim is not primary-confirmed for all eras."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 162
+      "deterministic_order": 162,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-025",
+      "publication_sources": [
+        {
+          "title": "Producer eighteen-year record",
+          "url": "https://www.jpwisers.com/en-us/product/jp-wisers-18-year-old-canadian-whisky/",
+          "role": "Exact age and strength record; owner claims in comments do not establish grain identity."
+        },
+        {
+          "title": "Current producer catalogue and exact pack",
+          "url": "https://shop.jpwisers.com/products/jp-wisers-18-year-old-canadian-whisky",
+          "role": "Eighteen-year / 40% verified photograph and corn-whisky award wording, not evidence of a reformulation date."
+        },
+        {
+          "title": "Direct Livermore interview, K&L Spirits Journal",
+          "url": "https://spiritsjournal.klwines.com/klwinescom-spirits-blog/2015/3/12/more-on-canadian-whisky-hiram-walker.html",
+          "role": "March 12, 2015 primary interview: double-column corn, a little single-column rye, used Canadian-whisky barrels."
+        },
+        {
+          "title": "Exact U.S. offer",
+          "url": "https://www.caskers.com/j-p-wiser-s-18-year-old-canadian-whisky/",
+          "role": "Retrieved October 15, 2026: USD 71.99, 750 mL / 80 proof. Its 100%-corn copy conflicts with historical primary recipe evidence and is retained as a source-limited claim."
+        },
+        {
+          "title": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/j-p-wisers-18-years-old-canadian-whisky-2017/",
+          "role": "December 5, 2017, modern-labelled eighteen-year; his 2010 numbered Limited Release review is historical context and is not counted here."
+        },
+        {
+          "title": "The Scotch Noob",
+          "url": "https://scotchnoob.com/2017/08/21/j-p-wisers-canadian-whisky-18-year/",
+          "role": "August 21 / September 12, 2017, 750 mL / 40% purchased at K&L Redwood City for USD 55; his no-rye recipe claim is not primary-confirmed for all eras."
+        }
+      ],
+      "accepted_checkpoint": 25
     },
     {
       "id": "j-p-wiser-s-23-year-cask-strength",
@@ -12145,16 +12280,16 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 129.0,
-      "abv": 64.5,
-      "age_statement_years": 23.0,
-      "age_information": "23 years",
-      "grain_information": "Undisclosed",
+      "proof": 128.6,
+      "abv": 64.3,
+      "age_statement_years": 23,
+      "age_information": "23 Years",
+      "grain_information": "Corn and rye whiskies; exact proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separately verified secondary finish; exact cask proportions and char regime not authenticated.",
       "release_year_or_era": "2019",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -12166,13 +12301,54 @@
       ],
       "potential_image_source": "https://drammer.com/brand/j-p-wisers/official-bottlings",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Selfbuilt",
+            "publisher": "Selfbuilt’s Whisky Analysis",
+            "url": "https://whiskyanalysis.com/index.php/2019/12/10/j-p-wisers-23-year-old-cask-strength-blend-2019/",
+            "summary": "Selfbuilt finds luxurious texture, sweet spice and a relatively clean, lasting finish. Water exposes fruit but can increase bitterness, so he suggests restraint. He finds it excellent, though short of his highest complexity tier.",
+            "scope": "December 10, 2019, purchased final 64.3% / 23-year retail blend; preliminary higher-strength samples explicitly separated."
+          },
+          {
+            "reviewer": "talexander",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/j-p-wisers-23-year-old-cask-strength-blended-whisky-review-13407",
+            "summary": "talexander enjoys an elegant, forceful nose, thick mouthfeel and long finish, but finds the hot palate less balanced and somewhat one-note. Water brings more spice and wood. He favors the eighteen and earlier thirty-five for balance.",
+            "scope": "April 23, 2020, 23 years / 64.3%; independent matched final-blend dissent retained."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 163
+      "deterministic_order": 163,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-025",
+      "publication_sources": [
+        {
+          "title": "Final retail bottle and direct tasting",
+          "url": "https://whiskyanalysis.com/index.php/2019/12/10/j-p-wisers-23-year-old-cask-strength-blend-2019/",
+          "role": "2019 / 64.3% / 750 mL label, twenty-three-year identity, draft-sample distinction and CAD purchase context."
+        },
+        {
+          "title": "Matched final-blend independent review",
+          "url": "https://www.connosr.com/j-p-wisers-23-year-old-cask-strength-blended-whisky-review-13407",
+          "role": "Exact 64.3% corn/rye blend; balance and wood-dryness limitations."
+        },
+        {
+          "title": "Single-cask counterexample scope",
+          "url": "https://tomoderawhisky.wordpress.com/2020/12/03/j-p-wisers-23-cask-strength-blend/",
+          "role": "Explicitly a single cask sent for review, not standard retail blend; not counted in final-blend score."
+        },
+        {
+          "title": "Specialist exact bottle record",
+          "url": "https://www.whiskybase.com/whiskies/whisky/141383/jp-wisers-23-year-old",
+          "role": "2019 Rare Cask Series / 23 years / 64.3% / 750 mL corroboration; community average not used as scored evidence."
+        }
+      ],
+      "accepted_checkpoint": 25
     },
     {
       "id": "j-p-wiser-s-27-year-mizunara-oak",
@@ -12182,16 +12358,16 @@
       "producer": "Hiram Walker & Sons / Corby / Pernod Ricard",
       "status": "limited",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
-      "age_statement_years": 27.0,
-      "age_information": "27 years",
-      "grain_information": "Undisclosed",
+      "proof": 124.2,
+      "abv": 62.1,
+      "age_statement_years": 27,
+      "age_information": "27 Years",
+      "grain_information": "Exact grain composition and proportions undisclosed in matched producer documentation",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Mizunara",
+      "finishing_information": "Finished in full Japanese Mizunara oak casks; duration and preceding maturation regime undisclosed.",
       "release_year_or_era": "2025",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -12203,13 +12379,52 @@
       ],
       "potential_image_source": "https://shop.jpwisers.com/collections/canadian-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Stephen Beaumont",
+            "publisher": "Beaumont Drinks",
+            "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/j-p-wisers-27-year-old-mizunara-oak",
+            "summary": "Beaumont finds distinctive floral, fruit and chocolate-like layers. Neat, the mid-palate heat becomes too intense for sustained enjoyment; adding water opens further fruit and chocolate and makes the experience much more inviting.",
+            "scope": "December 17, 2025 metadata, exact 27-year Mizunara / 62.1%; small supplied sample disclosed, not a purchased full bottle."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 164
+      "deterministic_order": 164,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-025",
+      "publication_sources": [
+        {
+          "title": "Producer exact Mizunara catalogue",
+          "url": "https://shop.jpwisers.com/products/j-p-wiser-s-mizunara",
+          "role": "Primary 27 years / 62.1%, exact photograph and dated CAD 599.95 Ontario offer."
+        },
+        {
+          "title": "Producer launch article",
+          "url": "https://www.jpwisers.com/en-ca/blog/j-p-wisers-mizunara-oak-release-a-landmark-in-canadian-whisky/",
+          "role": "September 25, 2025; 1,000 bottles and full Mizunara casks; does not establish full-age Mizunara maturation."
+        },
+        {
+          "title": "Producer master-blender interview",
+          "url": "https://www.jpwisers.com/en-ca/about-us/dr-don-livermore-master-blender/",
+          "role": "Primary new-Mizunara-cask account; no finish duration disclosed."
+        },
+        {
+          "title": "Brand launch announcement reproduced by Bar & Beverage",
+          "url": "https://barandbeverage.com/news-releases/2450-j-p-wiser-s-releases-the-most-premium-canadian-whisky-expression-in-history",
+          "role": "October 2, 2025 issuer announcement: Canadian retail October 3, full-cask finish, CAD 599.95 and 1,000 bottles."
+        },
+        {
+          "title": "Matched Beaumont tasting",
+          "url": "https://www.beaumontdrinks.com/beers-spirits-reviews/j-p-wisers-27-year-old-mizunara-oak",
+          "role": "December 17, 2025 metadata, exact 27-year Mizunara / 62.1%; small supplied sample disclosed, not a purchased full bottle."
+        }
+      ],
+      "accepted_checkpoint": 25
     },
     {
       "id": "j-p-wiser-s-35-year-2017",
