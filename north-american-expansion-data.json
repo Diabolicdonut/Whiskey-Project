@@ -73323,5 +73323,2155 @@
       "image_source": "https://shop.jpwisers.com/products/pike-creek-22-year-old-canadian-whisky",
       "image_url": "https://cdn.shopify.com/s/files/1/2341/0803/files/JPW_Website_PDP_PikeCreek_22.png?v=1748439368"
     }
+  },
+  {
+    "slug": "royal-canadian-small-batch",
+    "filename": "royal-canadian-small-batch.html",
+    "name": "Royal Canadian Small Batch",
+    "family": "Royal Canadian",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Sazerac; Canadian whisky selected by Drew Mayville; U.S. blending/bottling reported, exact component distilleries undisclosed",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Reported four-grain Canadian blend; exact cereals, proportions and source mash bills undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 6.1,
+    "quality_score": 6.1,
+    "value": 6.0,
+    "value_score": 6.0,
+    "overall": 6.049793384901669,
+    "overall_score": 6.049793384901669,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-16",
+      "limitations": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "universal_dimensions": {
+        "integration": 6.0,
+        "flavor_development": 6.3,
+        "finish": 5.8,
+        "technical_cleanliness": 6.4,
+        "texture": 5.8,
+        "maturity_wood_management": 6.0,
+        "distinctiveness": 6.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.07,
+      "editorial_adjustment": 0.03,
+      "adjustment_reason": "Good flavor variety and generally successful sweet-spice integration support a good Canadian blend. Modest texture, occasional heat and disputed persistence limit the score. Neither source grades nor packaging are converted into Quality."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Good flavor variety and generally successful sweet-spice integration support a good Canadian blend. Modest texture, occasional heat and disputed persistence limit the score. Neither source grades nor packaging are converted into Quality.",
+    "quality_confidence": "Low–medium; several independent published samples across different years.",
+    "quality_na_reason": null,
+    "value_rationale": "At the observed USD 24.99, good but light execution is fairly priced for everyday Canadian mixing and casual sipping. The same retailer lists Crown Royal Deluxe at USD 26.99 and Lot No. 40 at USD 39.99; stronger all-rye character costs more. This is not an NC stock or price claim.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 24.99,
+    "price_basis": "Exact 750 mL catalogue offer at Alameda Liquor, Burbank, California, checked October 16, 2026; local availability and delivery terms vary.",
+    "price_url": "https://alamedaliquor.com/products/royal-canadian-small-batch-blended-canadian-whisky",
+    "price_period": "2026-10-16",
+    "price_effective": null,
+    "price_checked_date": "2026-10-16",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 24.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2010,
+    "release_scope": "Royal Canadian Small Batch Canadian Whisky, 40% ABV / 80 proof, NAS; the taller small-batch release introduced to the U.S. around 2010, distinct from the earlier inexpensive Royal Canadian blend.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-16",
+    "score_date": "2026-10-16",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/royal-canadian-small-batch-40-alcvol-80-proof-2.html",
+      "https://www.connosr.com/royal-canadian-small-batch-whisky-review-4855",
+      "https://thegentlemansflavor.com/canadian-whisky-reviews-royal-canadian-small-batch/"
+    ],
+    "review_publishers": [
+      "Canadian Whisky",
+      "Whisky Connosr",
+      "The Gentleman’s Flavor"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/royal-canadian-small-batch-40-alcvol-80-proof-2.html",
+        "summary": "Finds extensive fruit and spice, developing weight and a moderately persistent finish, but also cloying sweetness, pepper heat, bitterness and thin patches. A flavorful mixer rather than an especially refined neat pour.",
+        "scope": "Original small-batch era; archive dated November 28, 2011, with an earlier launch narrative."
+      },
+      {
+        "reviewer": "Victor",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/royal-canadian-small-batch-whisky-review-4855",
+        "summary": "Describes substantial sweetness, grain character and a fairly lasting finish. Praises the interplay of flavors while retaining excess alcohol bite, bitter wood and an untidy finish as limitations.",
+        "scope": "January 14, 2013; one bottle, not three independent reviews despite three scoring formats."
+      },
+      {
+        "reviewer": "Kurt Bradley",
+        "publisher": "The Gentleman’s Flavor",
+        "url": "https://thegentlemansflavor.com/canadian-whisky-reviews-royal-canadian-small-batch/",
+        "summary": "Finds a gentle, sweet baking-spice profile and a pleasant but brief finish; substantial dilution makes it too thin. This is a useful counterweight to older accounts of greater finish length.",
+        "scope": "Page updated May 16, 2023; sensory account only, not its inconsistent brand-origin claim."
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/reviews/royal-canadian-small-batch-40-alcvol-80-proof-2.html",
+      "https://www.sazerac.com/our-company/news-and-media/2020-san-francisco-world-spirits-competition-recognizes-four-saz.html",
+      "https://alamedaliquor.com/products/royal-canadian-small-batch-blended-canadian-whisky",
+      "https://www.connosr.com/royal-canadian-small-batch-whisky-review-4855",
+      "https://thegentlemansflavor.com/canadian-whisky-reviews-royal-canadian-small-batch/"
+    ],
+    "production_summary": "Canadian whiskies are selected and blended under Sazerac. Contemporary reporting describes a large acquired barrel inventory; this is not the size of a single batch. A four-grain description does not disclose the four cereals or percentages. Exact maturation casks, individual distilleries and any finishing duration remain unverified.",
+    "finishing_information": "No separate cask finish authenticated; wine-like tasting notes do not establish added wine or wine-cask finishing.",
+    "identity_note": null,
+    "history": [
+      "The original review describes a newly formulated, more expensive small-batch bottling and U.S. distribution before a planned Canadian introduction in 2011. The archive’s 2011 publication timestamp is retained separately from its earlier launch narrative.",
+      "Sazerac’s 2020 release associates its Canadian portfolio with Old Montreal. That portfolio statement does not establish where each component of the earlier Small Batch was distilled. A later reviewer’s suggestion that the brand began with the 2018 acquisition conflicts with the much earlier published record and is rejected."
+    ],
+    "comparables": [
+      {
+        "name": "Pendleton Original",
+        "url": "pendleton-original.html",
+        "reason": "Another light Canadian blend; compare sweetness and body, not supposed Canadian source identity."
+      },
+      {
+        "name": "Lot No. 40",
+        "url": "lot-no-40-100-pot-still-rye.html",
+        "reason": "A documented all-rye alternative for more focused grain character; it has a different Canadian category."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 20,
+        "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": 20,
+        "maximum_exclusive": 25,
+        "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 25,
+        "maximum_exclusive": 30,
+        "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 30,
+        "maximum_exclusive": 35,
+        "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": 35,
+        "maximum_exclusive": null,
+        "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to assess the light body before adding water."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "Use a small cube; the later review specifically finds heavy dilution weakens it."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained sugar so the natural sweetness does not dominate."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start at 2:1 whisky to sweet vermouth; reduce vermouth if the blend disappears."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Ginger ale suits the documented sweet-spice profile; keep the mixer short."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://alamedaliquor.com/products/royal-canadian-small-batch-blended-canadian-whisky",
+        "image_url": "https://d3gevp8yznwb3s.cloudfront.net/images/VTJGc2RHVmtYMS9wY3dCelBOL2RUUGdXcnlUNjJWQm1vYVpqQkZ0RVNGaz0%3D.png?format=webp&width=800",
+        "scope": "Royal Canadian Small Batch Canadian Whisky, 40% ABV / 80 proof, NAS; the taller small-batch release introduced to the U.S. around 2010, distinct from the earlier inexpensive Royal Canadian blend.",
+        "sha256": "bd7a227bb1ab47c791ff777ed9f840e7148e06de292f5717457979f5a0a2bbd7",
+        "image_embedded": true,
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Royal Canadian Small Batch Canadian Whisky, 40% ABV / 80 proof, NAS; the taller small-batch release introduced to the U.S. around 2010, distinct from the earlier inexpensive Royal Canadian blend.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-034",
+    "editorial": {
+      "id": "royal-canadian-small-batch",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2010,
+      "producer": "Sazerac; Canadian whisky selected by Drew Mayville; U.S. blending/bottling reported, exact component distilleries undisclosed",
+      "grain": "Reported four-grain Canadian blend; exact cereals, proportions and source mash bills undisclosed",
+      "identity": "Royal Canadian Small Batch Canadian Whisky, 40% ABV / 80 proof, NAS; the taller small-batch release introduced to the U.S. around 2010, distinct from the earlier inexpensive Royal Canadian blend.",
+      "short_version": "A sweet, spiced Canadian blend with more character than its delicate body suggests. The published record likes its mixing ability but disagrees about finish length and how well it tolerates dilution.",
+      "production": "Canadian whiskies are selected and blended under Sazerac. Contemporary reporting describes a large acquired barrel inventory; this is not the size of a single batch. A four-grain description does not disclose the four cereals or percentages. Exact maturation casks, individual distilleries and any finishing duration remain unverified.",
+      "finish": "No separate cask finish authenticated; wine-like tasting notes do not establish added wine or wine-cask finishing.",
+      "history": [
+        "The original review describes a newly formulated, more expensive small-batch bottling and U.S. distribution before a planned Canadian introduction in 2011. The archive’s 2011 publication timestamp is retained separately from its earlier launch narrative.",
+        "Sazerac’s 2020 release associates its Canadian portfolio with Old Montreal. That portfolio statement does not establish where each component of the earlier Small Batch was distilled. A later reviewer’s suggestion that the brand began with the 2018 acquisition conflicts with the much earlier published record and is rejected."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/royal-canadian-small-batch-40-alcvol-80-proof-2.html",
+          "summary": "Finds extensive fruit and spice, developing weight and a moderately persistent finish, but also cloying sweetness, pepper heat, bitterness and thin patches. A flavorful mixer rather than an especially refined neat pour.",
+          "scope": "Original small-batch era; archive dated November 28, 2011, with an earlier launch narrative."
+        },
+        {
+          "reviewer": "Victor",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/royal-canadian-small-batch-whisky-review-4855",
+          "summary": "Describes substantial sweetness, grain character and a fairly lasting finish. Praises the interplay of flavors while retaining excess alcohol bite, bitter wood and an untidy finish as limitations.",
+          "scope": "January 14, 2013; one bottle, not three independent reviews despite three scoring formats."
+        },
+        {
+          "reviewer": "Kurt Bradley",
+          "publisher": "The Gentleman’s Flavor",
+          "url": "https://thegentlemansflavor.com/canadian-whisky-reviews-royal-canadian-small-batch/",
+          "summary": "Finds a gentle, sweet baking-spice profile and a pleasant but brief finish; substantial dilution makes it too thin. This is a useful counterweight to older accounts of greater finish length.",
+          "scope": "Page updated May 16, 2023; sensory account only, not its inconsistent brand-origin claim."
+        }
+      ],
+      "quality": 6.1,
+      "dimensions": [
+        6.0,
+        6.3,
+        5.8,
+        6.4,
+        5.8,
+        6.0,
+        6.0
+      ],
+      "quality_rationale": "Good flavor variety and generally successful sweet-spice integration support a good Canadian blend. Modest texture, occasional heat and disputed persistence limit the score. Neither source grades nor packaging are converted into Quality.",
+      "quality_confidence": "Low–medium; several independent published samples across different years.",
+      "evidence_limit": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "pricing": {
+        "amount": 24.99,
+        "currency": "USD",
+        "url": "https://alamedaliquor.com/products/royal-canadian-small-batch-blended-canadian-whisky",
+        "basis": "Exact 750 mL catalogue offer at Alameda Liquor, Burbank, California, checked October 16, 2026; local availability and delivery terms vary.",
+        "date": "2026-10-16",
+        "size_ml": 750
+      },
+      "value": 6.0,
+      "value_rationale": "At the observed USD 24.99, good but light execution is fairly priced for everyday Canadian mixing and casual sipping. The same retailer lists Crown Royal Deluxe at USD 26.99 and Lot No. 40 at USD 39.99; stronger all-rye character costs more. This is not an NC stock or price claim.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 20,
+          "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": 20,
+          "maximum_exclusive": 25,
+          "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 25,
+          "maximum_exclusive": 30,
+          "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 30,
+          "maximum_exclusive": 35,
+          "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": 35,
+          "maximum_exclusive": null,
+          "reason": "Editorial USD / 750 mL guidance for this Small Batch: its main advantage is an approachable, moderately priced blend; above USD 35, compare better-supported richer Canadian alternatives.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to assess the light body before adding water."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "Use a small cube; the later review specifically finds heavy dilution weakens it."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained sugar so the natural sweetness does not dominate."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start at 2:1 whisky to sweet vermouth; reduce vermouth if the blend disappears."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Ginger ale suits the documented sweet-spice profile; keep the mixer short."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Pendleton Original",
+          "url": "pendleton-original.html",
+          "reason": "Another light Canadian blend; compare sweetness and body, not supposed Canadian source identity."
+        },
+        {
+          "name": "Lot No. 40",
+          "url": "lot-no-40-100-pot-still-rye.html",
+          "reason": "A documented all-rye alternative for more focused grain character; it has a different Canadian category."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Original Royal Canadian Small Batch review",
+          "url": "https://canadianwhisky.org/blog/reviews/royal-canadian-small-batch-40-alcvol-80-proof-2.html",
+          "role": "Independent sensory record and contemporary identity/history; archive date and launch narrative distinguished."
+        },
+        {
+          "title": "Royal Canadian: Sazerac 2020 release",
+          "url": "https://www.sazerac.com/our-company/news-and-media/2020-san-francisco-world-spirits-competition-recognizes-four-saz.html",
+          "role": "Primary ownership and Canadian portfolio context; award grade not used as a score."
+        },
+        {
+          "title": "Alameda exact retail offer",
+          "url": "https://alamedaliquor.com/products/royal-canadian-small-batch-blended-canadian-whisky",
+          "role": "Dated U.S. price, size and comparison offers, not independent tasting."
+        }
+      ],
+      "image_source": "https://alamedaliquor.com/products/royal-canadian-small-batch-blended-canadian-whisky",
+      "image_url": "https://d3gevp8yznwb3s.cloudfront.net/images/VTJGc2RHVmtYMS9wY3dCelBOL2RUUGdXcnlUNjJWQm1vYVpqQkZ0RVNGaz0%3D.png?format=webp&width=800"
+    }
+  },
+  {
+    "slug": "seagram-s-83",
+    "filename": "seagram-s-83.html",
+    "name": "Seagram's 83",
+    "family": "Seagram's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Sazerac; Quebec Canadian blend; exact current distillation/source allocation undisclosed",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian blend; complete cereals and proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 4.9,
+    "quality_score": 4.9,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-16",
+      "limitations": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "universal_dimensions": {
+        "integration": 4.8,
+        "flavor_development": 5.2,
+        "finish": 4.6,
+        "technical_cleanliness": 5.2,
+        "texture": 4.8,
+        "maturity_wood_management": 5.0,
+        "distinctiveness": 4.7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 4.925,
+      "editorial_adjustment": -0.025,
+      "adjustment_reason": "The two developed accounts support roughly competent execution with limited depth. Easy balance in one sample is weighed against sharpness and mixing dependence in the other; the modern recipe is not independently certified."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The two developed accounts support roughly competent execution with limited depth. Easy balance in one sample is weighed against sharpness and mixing dependence in the other; the modern recipe is not independently certified.",
+    "quality_confidence": "Low; matched older samples, current recipe continuity unverified.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: the authenticated Canadian offer is not a dated U.S. price, and an American Seagram’s 83 offer would refer to another product.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "New Brunswick control-board 750 mL offer checked October 16, 2026; Canadian context only.",
+    "price_url": "https://www.anbl.com/seagrams-canadian-83-750ml-10012",
+    "price_period": "2026-10-16",
+    "price_effective": null,
+    "price_checked_date": "2026-10-16",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 28.0,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Seagram’s 83 Canadian Whisky, 40% ABV / 80 proof, NAS. This is the Canadian brand associated with the 1883 lineage, not Seagram’s 83 American blended whiskey at 41.5% ABV.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-16",
+    "score_date": "2026-10-16",
+    "review_sources": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-83-canadian-whisky/",
+      "https://www.connosr.com/canadian-83-whisky-review-9209"
+    ],
+    "review_publishers": [
+      "The Rum Howler Blog",
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-83-canadian-whisky/",
+        "summary": "Finds lively spice and sweet grain-fruit notes, followed by a sharp, drying delivery. The flavors come together more successfully with ice and ginger ale than when tasted neat.",
+        "scope": "April 21, 2013, Diageo-era sample; its bottle-presentation points are excluded from Quality."
+      },
+      {
+        "reviewer": "Jason Hambrey",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/canadian-83-whisky-review-9209",
+        "summary": "Finds a simple but pleasant light blend with fruit, sweetness and a spicy grain backbone. Rates the balance and finish more favorably than Dykstra; a little bitterness remains.",
+        "scope": "January 7, 2015 posting of earlier notes; claimed Crown Royal barrels are not accepted as authenticated production evidence."
+      }
+    ],
+    "source_urls": [
+      "https://www.diageo.com/en/news-and-media/press-releases/2018/diageo-sells-portfolio-of-brands-to-sazerac",
+      "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+      "https://www.anbl.com/seagrams-canadian-83-750ml-10012",
+      "https://www.lcbo.com/en/seagrams-83-whisky-305607",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-83-canadian-whisky/",
+      "https://www.connosr.com/canadian-83-whisky-review-9209"
+    ],
+    "production_summary": "Current control-board listings establish Canadian origin, 40% ABV and 750 mL. Historical specialist reporting locates production at Diageo’s Valleyfield operation in 2013. Sazerac now owns the brand, but an exact current plant, mash recipe, cask schedule and component ages are not authenticated.",
+    "finishing_information": "No separate finishing treatment established.",
+    "identity_note": null,
+    "history": [
+      "LCBO connects the name to Joseph Seagram’s Original Rye of 1883. That is brand lineage, not a distillation date or the age of a modern bottle.",
+      "The Seagram name predates the current owner. The 2018 sale announcement and Sazerac’s subsequent account establish the ownership transition; neither proves that every modern component was distilled at a particular plant. Historical Valleyfield accounts are kept in their own era."
+    ],
+    "comparables": [
+      {
+        "name": "Seagram’s VO",
+        "url": "seagram-s-vo.html",
+        "reason": "Another Canadian blend in the same brand lineage; separate identity and tasting record."
+      },
+      {
+        "name": "Royal Canadian Small Batch",
+        "url": "royal-canadian-small-batch.html",
+        "reason": "A comparable budget Canadian mixer with a different sweet-spice profile."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "A small neat trial is enough to check tolerance for the documented sharpness."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A little ice may soften its spice; stop before its light body disappears."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep sugar low and use a short build."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a small 2:1 build; the modest body may be overwhelmed by richer vermouth."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Ginger ale is the most directly supported use in Dykstra’s account."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.anbl.com/seagrams-canadian-83-750ml-10012",
+        "image_url": "https://anbl-1.azureedge.net/img/product/10012-B.jpg?fv=310EDD729DC14BF25EB15119F7CB242D",
+        "scope": "Seagram’s 83 Canadian Whisky, 40% ABV / 80 proof, NAS. This is the Canadian brand associated with the 1883 lineage, not Seagram’s 83 American blended whiskey at 41.5% ABV.",
+        "sha256": "936c49483ca87853cf182dedfa0cfa096d80da8ea73ebbd42a377476f2edadb2",
+        "image_embedded": true,
+        "width": 400,
+        "height": 400
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Seagram’s 83 Canadian Whisky, 40% ABV / 80 proof, NAS. This is the Canadian brand associated with the 1883 lineage, not Seagram’s 83 American blended whiskey at 41.5% ABV.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-034",
+    "editorial": {
+      "id": "seagram-s-83",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS",
+      "producer": "Sazerac; Quebec Canadian blend; exact current distillation/source allocation undisclosed",
+      "grain": "Canadian blend; complete cereals and proportions undisclosed",
+      "identity": "Seagram’s 83 Canadian Whisky, 40% ABV / 80 proof, NAS. This is the Canadian brand associated with the 1883 lineage, not Seagram’s 83 American blended whiskey at 41.5% ABV.",
+      "short_version": "An inexpensive, lightly built Canadian blend with contrasting reviews: one favors its easy fruit and rye-spice balance, another finds it sharp and best mixed. Its name does not specify proof.",
+      "production": "Current control-board listings establish Canadian origin, 40% ABV and 750 mL. Historical specialist reporting locates production at Diageo’s Valleyfield operation in 2013. Sazerac now owns the brand, but an exact current plant, mash recipe, cask schedule and component ages are not authenticated.",
+      "finish": "No separate finishing treatment established.",
+      "history": [
+        "LCBO connects the name to Joseph Seagram’s Original Rye of 1883. That is brand lineage, not a distillation date or the age of a modern bottle.",
+        "The Seagram name predates the current owner. The 2018 sale announcement and Sazerac’s subsequent account establish the ownership transition; neither proves that every modern component was distilled at a particular plant. Historical Valleyfield accounts are kept in their own era."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-83-canadian-whisky/",
+          "summary": "Finds lively spice and sweet grain-fruit notes, followed by a sharp, drying delivery. The flavors come together more successfully with ice and ginger ale than when tasted neat.",
+          "scope": "April 21, 2013, Diageo-era sample; its bottle-presentation points are excluded from Quality."
+        },
+        {
+          "reviewer": "Jason Hambrey",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/canadian-83-whisky-review-9209",
+          "summary": "Finds a simple but pleasant light blend with fruit, sweetness and a spicy grain backbone. Rates the balance and finish more favorably than Dykstra; a little bitterness remains.",
+          "scope": "January 7, 2015 posting of earlier notes; claimed Crown Royal barrels are not accepted as authenticated production evidence."
+        }
+      ],
+      "quality": 4.9,
+      "dimensions": [
+        4.8,
+        5.2,
+        4.6,
+        5.2,
+        4.8,
+        5.0,
+        4.7
+      ],
+      "quality_rationale": "The two developed accounts support roughly competent execution with limited depth. Easy balance in one sample is weighed against sharpness and mixing dependence in the other; the modern recipe is not independently certified.",
+      "quality_confidence": "Low; matched older samples, current recipe continuity unverified.",
+      "evidence_limit": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "pricing": {
+        "amount": 28.0,
+        "currency": "CAD",
+        "url": "https://www.anbl.com/seagrams-canadian-83-750ml-10012",
+        "basis": "New Brunswick control-board 750 mL offer checked October 16, 2026; Canadian context only.",
+        "date": "2026-10-16",
+        "size_ml": 750
+      },
+      "value": null,
+      "value_rationale": "N/A: the authenticated Canadian offer is not a dated U.S. price, and an American Seagram’s 83 offer would refer to another product.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band follows from the CAD 28.00 reference. Prefer a small trial over a premium for the historic name.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "A small neat trial is enough to check tolerance for the documented sharpness."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A little ice may soften its spice; stop before its light body disappears."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep sugar low and use a short build."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a small 2:1 build; the modest body may be overwhelmed by richer vermouth."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Ginger ale is the most directly supported use in Dykstra’s account."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Seagram’s VO",
+          "url": "seagram-s-vo.html",
+          "reason": "Another Canadian blend in the same brand lineage; separate identity and tasting record."
+        },
+        {
+          "name": "Royal Canadian Small Batch",
+          "url": "royal-canadian-small-batch.html",
+          "reason": "A comparable budget Canadian mixer with a different sweet-spice profile."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Diageo: 2018 portfolio sale",
+          "url": "https://www.diageo.com/en/news-and-media/press-releases/2018/diageo-sells-portfolio-of-brands-to-sazerac",
+          "role": "Primary transaction announcement; ownership is distinguished from confidential supply arrangements."
+        },
+        {
+          "title": "Sazerac: former Seagram brands",
+          "url": "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+          "role": "Primary confirmation that VO, Five Star and 83 belong to Sazerac; not a recipe disclosure."
+        },
+        {
+          "title": "Seagram’s 83 control-board identity",
+          "url": "https://www.anbl.com/seagrams-canadian-83-750ml-10012",
+          "role": "Current 40% / 750 mL identity, Canadian price and exact bottle image."
+        },
+        {
+          "title": "LCBO: 83 brand lineage",
+          "url": "https://www.lcbo.com/en/seagrams-83-whisky-305607",
+          "role": "Indexed control-board description of 1883 lineage and Quebec origin; live fetch restricted."
+        },
+        {
+          "title": "Dykstra: Seagram’s 83",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-83-canadian-whisky/",
+          "role": "Independent tasting and explicitly historical Valleyfield attribution."
+        }
+      ],
+      "image_source": "https://www.anbl.com/seagrams-canadian-83-750ml-10012",
+      "image_url": "https://anbl-1.azureedge.net/img/product/10012-B.jpg?fv=310EDD729DC14BF25EB15119F7CB242D"
+    }
+  },
+  {
+    "slug": "seagram-s-five-star",
+    "filename": "seagram-s-five-star.html",
+    "name": "Seagram's Five Star",
+    "family": "Seagram's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Sazerac, current brand owner; Canadian source allocation undisclosed",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Undisclosed Canadian blend; sensory corn and rye descriptions are not a mash-bill disclosure",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 3.0,
+    "quality_score": 3.0,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-16",
+      "limitations": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "universal_dimensions": {
+        "integration": 2.8,
+        "flavor_development": 3.3,
+        "finish": 2.8,
+        "technical_cleanliness": 2.9,
+        "texture": 3.5,
+        "maturity_wood_management": 3.2,
+        "distinctiveness": 2.8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 3.025,
+      "editorial_adjustment": -0.025,
+      "adjustment_reason": "Developed evidence of harsh delivery, poor integration and failure in its intended mixing role supports bad/flawed execution for the documented sample. This is provisional and does not claim a catastrophic Canadian floor or convert the reviewer’s 70-point total."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Developed evidence of harsh delivery, poor integration and failure in its intended mixing role supports bad/flawed execution for the documented sample. This is provisional and does not claim a catastrophic Canadian floor or convert the reviewer’s 70-point total.",
+    "quality_confidence": "Low; one substantive 2013 sample, no matched modern independent retest.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: there is no matched dated U.S. offer. The older unfavorable sample also makes a bargain claim inappropriate without a fresh trial.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Current New Brunswick 750 mL catalogue price checked October 16, 2026; no U.S. conversion.",
+    "price_url": "https://www.anbl.com/seagrams-five-star-750ml-10002",
+    "price_period": "2026-10-16",
+    "price_effective": null,
+    "price_checked_date": "2026-10-16",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 27.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Seagram’s Canadian Five Star Whisky, 40% ABV / 80 proof, NAS; a continuing Canadian control-board listing with an independent 2013 sample record.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-16",
+    "score_date": "2026-10-16",
+    "review_sources": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-canadian-five-star-whisky/"
+    ],
+    "review_publishers": [
+      "The Rum Howler Blog"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-canadian-five-star-whisky/",
+        "summary": "Finds an increasingly sweet, sour and pithy flavor profile, coarse astringency and a burning finish. Ginger ale does little to rescue it and cola only partly helps; this is a clear unfavorable sensory account, not simply a low award grade.",
+        "scope": "August 20, 2013; one Diageo-era bottle. Current recipe continuity is not demonstrated."
+      }
+    ],
+    "source_urls": [
+      "https://www.diageo.com/en/news-and-media/press-releases/2018/diageo-sells-portfolio-of-brands-to-sazerac",
+      "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+      "https://www.anbl.com/seagrams-five-star-750ml-10002",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-canadian-five-star-whisky/"
+    ],
+    "production_summary": "ANBL verifies 40% ABV, Canadian origin and a 750 mL pack. The older tasting identifies Diageo-era Valleyfield production. That history does not authenticate the source of every current Sazerac component. Exact ages, grains, proportions and maturation casks remain unknown.",
+    "finishing_information": "No separate finish authenticated.",
+    "identity_note": null,
+    "history": [
+      "The 2013 reviewer remembers Five Star from decades earlier, but that recollection does not establish an exact launch year. The expression is currently listed by New Brunswick; the discovery ledger’s historical-only status is therefore corrected.",
+      "The Seagram name predates the current owner. The 2018 sale announcement and Sazerac’s subsequent account establish the ownership transition; neither proves that every modern component was distilled at a particular plant. Historical Valleyfield accounts are kept in their own era."
+    ],
+    "comparables": [
+      {
+        "name": "Seagram’s 83",
+        "url": "seagram-s-83.html",
+        "reason": "A related Canadian entry blend with a less uniformly unfavorable published record."
+      },
+      {
+        "name": "Canadian Club 1858",
+        "url": "canadian-club-1858-original.html",
+        "reason": "A category reference for ordinary Canadian mixing; verify its separate current offer."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Use a tiny diagnostic pour; the published sample is harsh."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "Ice may reduce perceived heat but cannot be assumed to cure its bitterness."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Trial only; use restrained bitters and sugar so an unbalanced base is apparent."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Not a confident recommendation from the available evidence; make a half-size trial first."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "The reviewer prefers cola to ginger ale, but still finds the result unsatisfactory."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.anbl.com/seagrams-five-star-750ml-10002",
+        "image_url": "https://anbl-1.azureedge.net/img/product/10002-B.jpg?fv=C70425677D3FF1F648DC3AA1C3505C80",
+        "scope": "Seagram’s Canadian Five Star Whisky, 40% ABV / 80 proof, NAS; a continuing Canadian control-board listing with an independent 2013 sample record.",
+        "sha256": "ace99699a66121247933670d21afea2fac2d71539b9a4ebc4ddcac4258c294cb",
+        "image_embedded": true,
+        "width": 400,
+        "height": 400
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Seagram’s Canadian Five Star Whisky, 40% ABV / 80 proof, NAS; a continuing Canadian control-board listing with an independent 2013 sample record.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-034",
+    "editorial": {
+      "id": "seagram-s-five-star",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS",
+      "producer": "Sazerac, current brand owner; Canadian source allocation undisclosed",
+      "grain": "Undisclosed Canadian blend; sensory corn and rye descriptions are not a mash-bill disclosure",
+      "identity": "Seagram’s Canadian Five Star Whisky, 40% ABV / 80 proof, NAS; a continuing Canadian control-board listing with an independent 2013 sample record.",
+      "short_version": "A budget Canadian blend whose documented sample performs poorly even for mixing: harshness, pithy bitterness and an unbalanced sweet-sour profile dominate the detailed review. The current recipe has not been independently re-certified.",
+      "production": "ANBL verifies 40% ABV, Canadian origin and a 750 mL pack. The older tasting identifies Diageo-era Valleyfield production. That history does not authenticate the source of every current Sazerac component. Exact ages, grains, proportions and maturation casks remain unknown.",
+      "finish": "No separate finish authenticated.",
+      "history": [
+        "The 2013 reviewer remembers Five Star from decades earlier, but that recollection does not establish an exact launch year. The expression is currently listed by New Brunswick; the discovery ledger’s historical-only status is therefore corrected.",
+        "The Seagram name predates the current owner. The 2018 sale announcement and Sazerac’s subsequent account establish the ownership transition; neither proves that every modern component was distilled at a particular plant. Historical Valleyfield accounts are kept in their own era."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-canadian-five-star-whisky/",
+          "summary": "Finds an increasingly sweet, sour and pithy flavor profile, coarse astringency and a burning finish. Ginger ale does little to rescue it and cola only partly helps; this is a clear unfavorable sensory account, not simply a low award grade.",
+          "scope": "August 20, 2013; one Diageo-era bottle. Current recipe continuity is not demonstrated."
+        }
+      ],
+      "quality": 3.0,
+      "dimensions": [
+        2.8,
+        3.3,
+        2.8,
+        2.9,
+        3.5,
+        3.2,
+        2.8
+      ],
+      "quality_rationale": "Developed evidence of harsh delivery, poor integration and failure in its intended mixing role supports bad/flawed execution for the documented sample. This is provisional and does not claim a catastrophic Canadian floor or convert the reviewer’s 70-point total.",
+      "quality_confidence": "Low; one substantive 2013 sample, no matched modern independent retest.",
+      "evidence_limit": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "pricing": {
+        "amount": 27.99,
+        "currency": "CAD",
+        "url": "https://www.anbl.com/seagrams-five-star-750ml-10002",
+        "basis": "Current New Brunswick 750 mL catalogue price checked October 16, 2026; no U.S. conversion.",
+        "date": "2026-10-16",
+        "size_ml": 750
+      },
+      "value": null,
+      "value_rationale": "N/A: there is no matched dated U.S. offer. The older unfavorable sample also makes a bargain claim inappropriate without a fresh trial.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "An older poor sample is a reason to sample first, not to assign a numeric current U.S. value threshold. No collectible premium is justified by the five-star name.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Use a tiny diagnostic pour; the published sample is harsh."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "Ice may reduce perceived heat but cannot be assumed to cure its bitterness."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Trial only; use restrained bitters and sugar so an unbalanced base is apparent."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Not a confident recommendation from the available evidence; make a half-size trial first."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "The reviewer prefers cola to ginger ale, but still finds the result unsatisfactory."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Seagram’s 83",
+          "url": "seagram-s-83.html",
+          "reason": "A related Canadian entry blend with a less uniformly unfavorable published record."
+        },
+        {
+          "name": "Canadian Club 1858",
+          "url": "canadian-club-1858-original.html",
+          "reason": "A category reference for ordinary Canadian mixing; verify its separate current offer."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Diageo: 2018 portfolio sale",
+          "url": "https://www.diageo.com/en/news-and-media/press-releases/2018/diageo-sells-portfolio-of-brands-to-sazerac",
+          "role": "Primary transaction announcement; ownership is distinguished from confidential supply arrangements."
+        },
+        {
+          "title": "Sazerac: former Seagram brands",
+          "url": "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+          "role": "Primary confirmation that VO, Five Star and 83 belong to Sazerac; not a recipe disclosure."
+        },
+        {
+          "title": "ANBL: Five Star",
+          "url": "https://www.anbl.com/seagrams-five-star-750ml-10002",
+          "role": "Current Canadian 40% identity, dated CAD price and exact pack photograph; sales notes are not independent tasting."
+        },
+        {
+          "title": "Dykstra: Five Star",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-canadian-five-star-whisky/",
+          "role": "Substantive unfavorable 2013 tasting; historical plant attribution only."
+        }
+      ],
+      "image_source": "https://www.anbl.com/seagrams-five-star-750ml-10002",
+      "image_url": "https://anbl-1.azureedge.net/img/product/10002-B.jpg?fv=C70425677D3FF1F648DC3AA1C3505C80"
+    }
+  },
+  {
+    "slug": "seagram-s-vo",
+    "filename": "seagram-s-vo.html",
+    "name": "Seagram's VO",
+    "family": "Seagram's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Sazerac; Canadian blend, exact current component sources undisclosed",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS on verified pack; six-year minimum reported in some accounts",
+    "age_display": "NAS on verified pack; six-year minimum reported in some accounts",
+    "age_sort_years": null,
+    "mash_bill_display": "Undisclosed Canadian grain blend; no authenticated current cereal percentages",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 4.2,
+    "quality_score": 4.2,
+    "value": 4.8,
+    "value_score": 4.8,
+    "overall": 4.48998886412873,
+    "overall_score": 4.48998886412873,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-16",
+      "limitations": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "universal_dimensions": {
+        "integration": 3.9,
+        "flavor_development": 4.3,
+        "finish": 3.9,
+        "technical_cleanliness": 4.0,
+        "texture": 4.2,
+        "maturity_wood_management": 4.4,
+        "distinctiveness": 4.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 4.09,
+      "editorial_adjustment": 0.11,
+      "adjustment_reason": "The recent severe defect account and older sharpness outweigh a favorable but modest 2022 sample. Limited body and inconsistent integration place the provisional assessment below average, with substantial sample uncertainty retained."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The recent severe defect account and older sharpness outweigh a favorable but modest 2022 sample. Limited body and inconsistent integration place the provisional assessment below average, with substantial sample uncertainty retained.",
+    "quality_confidence": "Low; several conflicting samples and incomplete recipe continuity.",
+    "quality_na_reason": null,
+    "value_rationale": "The USD 14.99 offer is inexpensive, but a low price cannot cancel documented poor integration and uncertain sample quality. It is a conditional mixing purchase; the exact eight-year Gold at USD 22.49 and Royal Canadian at USD 24.99 offer relevant upgrade comparisons.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 14.99,
+    "price_basis": "Observed U.S. 750 mL / 80-proof retail offer checked October 16, 2026; destination/store pricing varies, tax excluded.",
+    "price_url": "https://www.target.com/p/-/A-53661529",
+    "price_period": "2026-10-16",
+    "price_effective": null,
+    "price_checked_date": "2026-10-16",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 14.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Modern Seagram’s VO Canadian Whisky, 40% ABV / 80 proof. The inspected control-board photograph has no legible six-year statement; older six-year reporting is retained as context rather than a guaranteed current numeric age.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-16",
+    "score_date": "2026-10-16",
+    "review_sources": [
+      "https://reviews.whiskeyfellow.net/2025/02/seagrams-vo-canadian-whisky-review.html",
+      "https://www.reddit.com/r/worldwhisky/comments/x9lxm5/review_3_seagrams_vo/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-vo/"
+    ],
+    "review_publishers": [
+      "Whiskeyfellow",
+      "Reddit r/worldwhisky",
+      "The Rum Howler Blog"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Jeffrey Schwartz",
+        "publisher": "Whiskeyfellow",
+        "url": "https://reviews.whiskeyfellow.net/2025/02/seagrams-vo-canadian-whisky-review.html",
+        "summary": "Reports chemical/floral aromas, almost weightless body, little palate development and a persistent bitter finish. His purchased 2025 sample receives a strong rejection.",
+        "scope": "February 3, 2025; substantive indexed full review inspected after direct page fetch was blocked. Historical narrative and claimed new-charred-oak regime are not adopted as primary facts."
+      },
+      {
+        "reviewer": "passengerpigeon20",
+        "publisher": "Reddit r/worldwhisky",
+        "url": "https://www.reddit.com/r/worldwhisky/comments/x9lxm5/review_3_seagrams_vo/",
+        "summary": "Finds accessible fruit, modest sweetness, grain-spice development and no raw alcohol flavor, with a short but noticeable finish. This favorable counterexample shows why uniform agreement should not be claimed.",
+        "scope": "September 9, 2022 miniature; author lists NAS / 40%."
+      },
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-vo/",
+        "summary": "Finds useful spice and some buttery sweetness but also an intrusive aroma and astringency. Mixing with ginger ale or cola works better than neat sipping.",
+        "scope": "Revised September 21, 2017; older owner/recipe era."
+      }
+    ],
+    "source_urls": [
+      "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+      "https://www.sazerac.com/footer-pages/nutrition.html",
+      "https://reviews.whiskeyfellow.net/2025/02/seagrams-vo-canadian-whisky-review.html",
+      "https://www.target.com/p/-/A-53661529",
+      "https://www.abc.virginia.gov/products/whiskey/seagrams-vo",
+      "https://www.lcbo.com/en/seagrams-v-o-whisky-307",
+      "https://www.reddit.com/r/worldwhisky/comments/x9lxm5/review_3_seagrams_vo/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-vo/"
+    ],
+    "production_summary": "Sazerac’s nutrition table authenticates 80 proof / 40% ABV. The current recipe and source allocation are not disclosed. Six years appears in some contemporary reporting, but retail age metadata conflicts: Target says three years and Virginia VO copies an eight-year Gold description. None is substituted for a verified modern age statement. Initial cask type and a separate finish are unconfirmed.",
+    "finishing_information": "No separate finishing treatment verified; the precise current aging-cask regime is undisclosed.",
+    "identity_note": null,
+    "history": [
+      "The familiar family-wedding story is traditionally dated to 1913; accounts disagree on details and on the meaning of VO. These origin stories do not establish the modern recipe or its age.",
+      "The Seagram name predates the current owner. The 2018 sale announcement and Sazerac’s subsequent account establish the ownership transition; neither proves that every modern component was distilled at a particular plant. Historical Valleyfield accounts are kept in their own era.",
+      "The higher-strength six-year bottle with a 1974 tax stamp has its own dossier. Its favorable old-bottle review is not evidence for this modern 80-proof expression."
+    ],
+    "comparables": [
+      {
+        "name": "Seagram’s VO Gold",
+        "url": "seagram-s-vo-gold.html",
+        "reason": "The eight-year 40% sibling, with its own recipe and mixed but generally fuller sensory record."
+      },
+      {
+        "name": "Seagram’s VO — 1974 Tax Stamp",
+        "url": "seagram-s-vo-1974-tax-stamp.html",
+        "reason": "A distinct higher-strength historical sample; its Quality cannot be borrowed for modern VO."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 10,
+        "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": 10,
+        "maximum_exclusive": 13,
+        "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 13,
+        "maximum_exclusive": 16,
+        "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 16,
+        "maximum_exclusive": 20,
+        "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": 20,
+        "maximum_exclusive": null,
+        "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try a small pour before committing to a large bottle, given the conflicting reports."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A little ice can temper spice; a large dilution risks the already light body."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use limited syrup and confirm the bitter finish suits your bitters."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with a half-size 2:1 build; its light body may need less vermouth."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Ginger ale or cola has the strongest direct support in the older specialist account."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.abc.virginia.gov/products/whiskey/seagrams-vo",
+        "image_url": "https://www.abc.virginia.gov/library/product-images/whiskey/canadian/seagrams-vo.jpg",
+        "scope": "Modern Seagram’s VO Canadian Whisky, 40% ABV / 80 proof. The inspected control-board photograph has no legible six-year statement; older six-year reporting is retained as context rather than a guaranteed current numeric age.",
+        "sha256": "7b22705d8902a5b59d3077167c69e7d7aa977d8d7b64758272e0ce13b7316e45",
+        "image_embedded": true,
+        "width": 350,
+        "height": 450
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Modern Seagram’s VO Canadian Whisky, 40% ABV / 80 proof. The inspected control-board photograph has no legible six-year statement; older six-year reporting is retained as context rather than a guaranteed current numeric age.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-034",
+    "editorial": {
+      "id": "seagram-s-vo",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS on verified pack; six-year minimum reported in some accounts",
+      "producer": "Sazerac; Canadian blend, exact current component sources undisclosed",
+      "grain": "Undisclosed Canadian grain blend; no authenticated current cereal percentages",
+      "identity": "Modern Seagram’s VO Canadian Whisky, 40% ABV / 80 proof. The inspected control-board photograph has no legible six-year statement; older six-year reporting is retained as context rather than a guaranteed current numeric age.",
+      "short_version": "A familiar mixing whisky with sharply divided sample reports. An independent 2025 review finds industrial aromas, thin texture and bitter aftertaste, while a 2022 enthusiast finds a clean, agreeable everyday blend.",
+      "production": "Sazerac’s nutrition table authenticates 80 proof / 40% ABV. The current recipe and source allocation are not disclosed. Six years appears in some contemporary reporting, but retail age metadata conflicts: Target says three years and Virginia VO copies an eight-year Gold description. None is substituted for a verified modern age statement. Initial cask type and a separate finish are unconfirmed.",
+      "finish": "No separate finishing treatment verified; the precise current aging-cask regime is undisclosed.",
+      "history": [
+        "The familiar family-wedding story is traditionally dated to 1913; accounts disagree on details and on the meaning of VO. These origin stories do not establish the modern recipe or its age.",
+        "The Seagram name predates the current owner. The 2018 sale announcement and Sazerac’s subsequent account establish the ownership transition; neither proves that every modern component was distilled at a particular plant. Historical Valleyfield accounts are kept in their own era.",
+        "The higher-strength six-year bottle with a 1974 tax stamp has its own dossier. Its favorable old-bottle review is not evidence for this modern 80-proof expression."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Jeffrey Schwartz",
+          "publisher": "Whiskeyfellow",
+          "url": "https://reviews.whiskeyfellow.net/2025/02/seagrams-vo-canadian-whisky-review.html",
+          "summary": "Reports chemical/floral aromas, almost weightless body, little palate development and a persistent bitter finish. His purchased 2025 sample receives a strong rejection.",
+          "scope": "February 3, 2025; substantive indexed full review inspected after direct page fetch was blocked. Historical narrative and claimed new-charred-oak regime are not adopted as primary facts."
+        },
+        {
+          "reviewer": "passengerpigeon20",
+          "publisher": "Reddit r/worldwhisky",
+          "url": "https://www.reddit.com/r/worldwhisky/comments/x9lxm5/review_3_seagrams_vo/",
+          "summary": "Finds accessible fruit, modest sweetness, grain-spice development and no raw alcohol flavor, with a short but noticeable finish. This favorable counterexample shows why uniform agreement should not be claimed.",
+          "scope": "September 9, 2022 miniature; author lists NAS / 40%."
+        },
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-vo/",
+          "summary": "Finds useful spice and some buttery sweetness but also an intrusive aroma and astringency. Mixing with ginger ale or cola works better than neat sipping.",
+          "scope": "Revised September 21, 2017; older owner/recipe era."
+        }
+      ],
+      "quality": 4.2,
+      "dimensions": [
+        3.9,
+        4.3,
+        3.9,
+        4.0,
+        4.2,
+        4.4,
+        4.2
+      ],
+      "quality_rationale": "The recent severe defect account and older sharpness outweigh a favorable but modest 2022 sample. Limited body and inconsistent integration place the provisional assessment below average, with substantial sample uncertainty retained.",
+      "quality_confidence": "Low; several conflicting samples and incomplete recipe continuity.",
+      "evidence_limit": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "pricing": {
+        "amount": 14.99,
+        "currency": "USD",
+        "url": "https://www.target.com/p/-/A-53661529",
+        "basis": "Observed U.S. 750 mL / 80-proof retail offer checked October 16, 2026; destination/store pricing varies, tax excluded.",
+        "date": "2026-10-16",
+        "size_ml": 750
+      },
+      "value": 4.8,
+      "value_rationale": "The USD 14.99 offer is inexpensive, but a low price cannot cancel documented poor integration and uncertain sample quality. It is a conditional mixing purchase; the exact eight-year Gold at USD 22.49 and Royal Canadian at USD 24.99 offer relevant upgrade comparisons.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 10,
+          "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": 10,
+          "maximum_exclusive": 13,
+          "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 13,
+          "maximum_exclusive": 16,
+          "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 16,
+          "maximum_exclusive": 20,
+          "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": 20,
+          "maximum_exclusive": null,
+          "reason": "Editorial USD / 750 mL thresholds for a conditional mixer purchase. The poor recent sample makes sampling valuable; above USD 20 compare the exact Gold or other better-supported Canadian blends.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try a small pour before committing to a large bottle, given the conflicting reports."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A little ice can temper spice; a large dilution risks the already light body."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use limited syrup and confirm the bitter finish suits your bitters."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with a half-size 2:1 build; its light body may need less vermouth."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Ginger ale or cola has the strongest direct support in the older specialist account."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Seagram’s VO Gold",
+          "url": "seagram-s-vo-gold.html",
+          "reason": "The eight-year 40% sibling, with its own recipe and mixed but generally fuller sensory record."
+        },
+        {
+          "name": "Seagram’s VO — 1974 Tax Stamp",
+          "url": "seagram-s-vo-1974-tax-stamp.html",
+          "reason": "A distinct higher-strength historical sample; its Quality cannot be borrowed for modern VO."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sazerac: former Seagram brands",
+          "url": "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+          "role": "Primary confirmation that VO, Five Star and 83 belong to Sazerac; not a recipe disclosure."
+        },
+        {
+          "title": "Sazerac nutrition: VO",
+          "url": "https://www.sazerac.com/footer-pages/nutrition.html",
+          "role": "Primary 80-proof / 40% confirmation, not age or recipe disclosure."
+        },
+        {
+          "title": "Whiskeyfellow 2025 review",
+          "url": "https://reviews.whiskeyfellow.net/2025/02/seagrams-vo-canadian-whisky-review.html",
+          "role": "Substantive contemporary purchased-sample account; inspected through indexed content when direct fetch failed."
+        },
+        {
+          "title": "Target exact VO offer",
+          "url": "https://www.target.com/p/-/A-53661529",
+          "role": "Dated U.S. 750 mL / 80-proof price; generic three-year age field not accepted as a label statement."
+        },
+        {
+          "title": "Virginia ABC VO",
+          "url": "https://www.abc.virginia.gov/products/whiskey/seagrams-vo",
+          "role": "Exact 40% pack image; eight-year Gold wording on the regular VO page rejected as a product-description mismatch."
+        },
+        {
+          "title": "LCBO VO lineage",
+          "url": "https://www.lcbo.com/en/seagrams-v-o-whisky-307",
+          "role": "Control-board 1913 tradition; not a current age guarantee."
+        }
+      ],
+      "image_source": "https://www.abc.virginia.gov/products/whiskey/seagrams-vo",
+      "image_url": "https://www.abc.virginia.gov/library/product-images/whiskey/canadian/seagrams-vo.jpg"
+    }
+  },
+  {
+    "slug": "seagram-s-vo-gold",
+    "filename": "seagram-s-vo-gold.html",
+    "name": "Seagram's VO Gold",
+    "family": "Seagram's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Sazerac; Seagram’s Canadian blend; original development involved Art Peterson and Drew Mayville",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "8 Years",
+    "age_display": "8 Years",
+    "age_sort_years": 8,
+    "mash_bill_display": "Canadian blend including rye whisky in the original formulation; full current cereals and proportions undisclosed",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 5.1,
+    "quality_score": 5.1,
+    "value": 5.5,
+    "value_score": 5.5,
+    "overall": 5.296225070746144,
+    "overall_score": 5.296225070746144,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-16",
+      "limitations": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "universal_dimensions": {
+        "integration": 5.0,
+        "flavor_development": 5.3,
+        "finish": 4.6,
+        "technical_cleanliness": 5.3,
+        "texture": 5.4,
+        "maturity_wood_management": 5.2,
+        "distinctiveness": 5.0
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.105,
+      "editorial_adjustment": -0.005,
+      "adjustment_reason": "A roughly average blend: useful sweetness and body meet limited development, short persistence and a recent integration complaint. An eight-year label and elaborate packaging do not raise the drinking score by themselves."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "A roughly average blend: useful sweetness and body meet limited development, short persistence and a recent integration complaint. An eight-year label and elaborate packaging do not raise the drinking score by themselves.",
+    "quality_confidence": "Low–medium; multiple exact-expression reviews, with era and batch differences unresolved.",
+    "quality_na_reason": null,
+    "value_rationale": "At USD 22.49 the exact eight-year blend is a modestly attractive upgrade over the USD 14.99 regular VO offer. Its ordinary execution and recent heat complaint keep Value restrained; Royal Canadian at USD 24.99 is a close alternative. Virginia closeout wording is not treated as a national discontinuation.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 22.49,
+    "price_basis": "Exact eight-year / 40% / 750 mL offer at Topline Spirits, Macon, Georgia; checked October 16, 2026, excluding tax and delivery.",
+    "price_url": "https://www.topline-spirits.com/p/seagrams-vo-gold-8-year-old-canadian-whiskey/6208",
+    "price_period": "2026-10-16",
+    "price_effective": null,
+    "price_checked_date": "2026-10-16",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 22.49,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Seagram’s VO Gold eight-year Canadian blended whisky, 40% ABV / 80 proof; distinct from regular modern VO and historical 86.8-proof VO.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-16",
+    "score_date": "2026-10-16",
+    "review_sources": [
+      "https://distiller.com/spirits/seagram-s-vo-gold",
+      "https://whiskymag.com/tastings/seagrams-vo-gold-8-years-old-636740751535792530/",
+      "https://quebecwhisky.com/seagrams-vo-gold-8-ans/"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "Whisky Magazine",
+      "Québec Whisky"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/seagram-s-vo-gold",
+        "summary": "Finds creamy grain sweetness and fruit with peppery accents; the finish closes quickly with drying citrus-pith and oak-tannin impressions. Fuller than basic VO, but not a long or deeply developed pour.",
+        "scope": "Exact VO Gold / 40%; older undated expert entry, not the community star average."
+      },
+      {
+        "reviewer": "Dave Broom",
+        "publisher": "Whisky Magazine",
+        "url": "https://whiskymag.com/tastings/seagrams-vo-gold-8-years-old-636740751535792530/",
+        "summary": "Describes a grain-forward, initially aggressive aroma, a plain opening that develops some sweetness and fruit, and a clean short close. Finds it agreeable but insufficiently distinctive.",
+        "scope": "Exact eight-year / 40% entry; one visible reviewer tab, not two independently inspected accounts."
+      },
+      {
+        "reviewer": "Patrick",
+        "publisher": "Québec Whisky",
+        "url": "https://quebecwhisky.com/seagrams-vo-gold-8-ans/",
+        "summary": "Finds sweetness, pepper, nuts and charred wood, with alcohol that feels stronger than the stated strength. The finish is brief apart from lingering burn.",
+        "scope": "September 28, 2026, exact eight-year / 40% account; current dissent retained."
+      }
+    ],
+    "source_urls": [
+      "https://www.diageo.com/en/news-and-media/press-releases/2018/diageo-sells-portfolio-of-brands-to-sazerac",
+      "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+      "https://www.boozebusiness.com/the-seagram-vo-and-vo-gold-story",
+      "https://www.topline-spirits.com/p/seagrams-vo-gold-8-year-old-canadian-whiskey/6208",
+      "https://www.iwsc.net/results/detail/120716/seagrams-vo-8yo-gold-canadian-whisky",
+      "https://www.abc.virginia.gov/products/whiskey/seagrams-vo-gold?productSize=0",
+      "https://distiller.com/spirits/seagram-s-vo-gold",
+      "https://whiskymag.com/tastings/seagrams-vo-gold-8-years-old-636740751535792530/",
+      "https://quebecwhisky.com/seagrams-vo-gold-8-ans/"
+    ],
+    "production_summary": "The inspected Gold pack, exact eight-year retail offer and 2022 competition identity agree on eight years and 40% ABV. An original-development interview describes using older whiskies and selected fruity rye components. It does not disclose a complete modern mash bill, source-distillery allocation or finishing schedule.",
+    "finishing_information": "No separate cask finish authenticated; wine-like aromas are not proof of wine addition or a wine-cask finish.",
+    "identity_note": null,
+    "history": [
+      "A 2019 first-person industry history describes Gold as an upmarket answer to VO’s early-1990s decline and interviews people involved in its creation. That places its development in that period without inventing an exact launch day.",
+      "The Seagram name predates the current owner. The 2018 sale announcement and Sazerac’s subsequent account establish the ownership transition; neither proves that every modern component was distilled at a particular plant. Historical Valleyfield accounts are kept in their own era."
+    ],
+    "comparables": [
+      {
+        "name": "Seagram’s VO",
+        "url": "seagram-s-vo.html",
+        "reason": "A cheaper Canadian blend; its age and sample evidence are separately qualified."
+      },
+      {
+        "name": "Royal Canadian Small Batch",
+        "url": "royal-canadian-small-batch.html",
+        "reason": "A near-price Canadian blended alternative with a different body/finish tradeoff."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 16,
+        "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": 16,
+        "maximum_exclusive": 21,
+        "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 21,
+        "maximum_exclusive": 25,
+        "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 25,
+        "maximum_exclusive": 30,
+        "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": 30,
+        "maximum_exclusive": null,
+        "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Assess neat first; recent evidence warns that low bottling strength does not eliminate heat."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "Try one small cube if the alcohol seems prominent; avoid flattening the short finish."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a restrained sugar measure with the already sweet blend."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A small 2:1 build is a reasonable starting point; dry vermouth can counter its sweetness."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short ginger-ale highball is appropriate if the neat sample seems hot."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.abc.virginia.gov/products/whiskey/seagrams-vo-gold?productSize=0",
+        "image_url": "https://www.abc.virginia.gov/library/product-images/whiskey/canadian/seagrams-vo-gold.jpg",
+        "scope": "Seagram’s VO Gold eight-year Canadian blended whisky, 40% ABV / 80 proof; distinct from regular modern VO and historical 86.8-proof VO.",
+        "sha256": "8d73899312e9c2367e4baa80f0cfef4ef717c437a14bb79b4faf89dc834c892e",
+        "image_embedded": true,
+        "width": 350,
+        "height": 450
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "Seagram’s VO Gold eight-year Canadian blended whisky, 40% ABV / 80 proof; distinct from regular modern VO and historical 86.8-proof VO.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-034",
+    "editorial": {
+      "id": "seagram-s-vo-gold",
+      "proof": 80,
+      "age": 8,
+      "age_display": "8 Years",
+      "producer": "Sazerac; Seagram’s Canadian blend; original development involved Art Peterson and Drew Mayville",
+      "grain": "Canadian blend including rye whisky in the original formulation; full current cereals and proportions undisclosed",
+      "identity": "Seagram’s VO Gold eight-year Canadian blended whisky, 40% ABV / 80 proof; distinct from regular modern VO and historical 86.8-proof VO.",
+      "short_version": "An affordable eight-year Canadian blend whose fuller sweetness does not guarantee refinement. Some specialists enjoy the fruit and creaminess; the September 2026 account finds conspicuous heat and a short finish.",
+      "production": "The inspected Gold pack, exact eight-year retail offer and 2022 competition identity agree on eight years and 40% ABV. An original-development interview describes using older whiskies and selected fruity rye components. It does not disclose a complete modern mash bill, source-distillery allocation or finishing schedule.",
+      "finish": "No separate cask finish authenticated; wine-like aromas are not proof of wine addition or a wine-cask finish.",
+      "history": [
+        "A 2019 first-person industry history describes Gold as an upmarket answer to VO’s early-1990s decline and interviews people involved in its creation. That places its development in that period without inventing an exact launch day.",
+        "The Seagram name predates the current owner. The 2018 sale announcement and Sazerac’s subsequent account establish the ownership transition; neither proves that every modern component was distilled at a particular plant. Historical Valleyfield accounts are kept in their own era."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/seagram-s-vo-gold",
+          "summary": "Finds creamy grain sweetness and fruit with peppery accents; the finish closes quickly with drying citrus-pith and oak-tannin impressions. Fuller than basic VO, but not a long or deeply developed pour.",
+          "scope": "Exact VO Gold / 40%; older undated expert entry, not the community star average."
+        },
+        {
+          "reviewer": "Dave Broom",
+          "publisher": "Whisky Magazine",
+          "url": "https://whiskymag.com/tastings/seagrams-vo-gold-8-years-old-636740751535792530/",
+          "summary": "Describes a grain-forward, initially aggressive aroma, a plain opening that develops some sweetness and fruit, and a clean short close. Finds it agreeable but insufficiently distinctive.",
+          "scope": "Exact eight-year / 40% entry; one visible reviewer tab, not two independently inspected accounts."
+        },
+        {
+          "reviewer": "Patrick",
+          "publisher": "Québec Whisky",
+          "url": "https://quebecwhisky.com/seagrams-vo-gold-8-ans/",
+          "summary": "Finds sweetness, pepper, nuts and charred wood, with alcohol that feels stronger than the stated strength. The finish is brief apart from lingering burn.",
+          "scope": "September 28, 2026, exact eight-year / 40% account; current dissent retained."
+        }
+      ],
+      "quality": 5.1,
+      "dimensions": [
+        5.0,
+        5.3,
+        4.6,
+        5.3,
+        5.4,
+        5.2,
+        5.0
+      ],
+      "quality_rationale": "A roughly average blend: useful sweetness and body meet limited development, short persistence and a recent integration complaint. An eight-year label and elaborate packaging do not raise the drinking score by themselves.",
+      "quality_confidence": "Low–medium; multiple exact-expression reviews, with era and batch differences unresolved.",
+      "evidence_limit": "Published sample judgments are attributed, not first-person tasting. Recipes and batch continuity are not fully disclosed. Native Canadian 1/5/10 endpoints remain insufficiently established, so these provisional judgments use the universal execution rubric within Canadian blends.",
+      "pricing": {
+        "amount": 22.49,
+        "currency": "USD",
+        "url": "https://www.topline-spirits.com/p/seagrams-vo-gold-8-year-old-canadian-whiskey/6208",
+        "basis": "Exact eight-year / 40% / 750 mL offer at Topline Spirits, Macon, Georgia; checked October 16, 2026, excluding tax and delivery.",
+        "date": "2026-10-16",
+        "size_ml": 750
+      },
+      "value": 5.5,
+      "value_rationale": "At USD 22.49 the exact eight-year blend is a modestly attractive upgrade over the USD 14.99 regular VO offer. Its ordinary execution and recent heat complaint keep Value restrained; Royal Canadian at USD 24.99 is a close alternative. Virginia closeout wording is not treated as a national discontinuation.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 16,
+          "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": 16,
+          "maximum_exclusive": 21,
+          "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 21,
+          "maximum_exclusive": 25,
+          "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 25,
+          "maximum_exclusive": 30,
+          "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": 30,
+          "maximum_exclusive": null,
+          "reason": "Editorial USD / 750 mL guidance for the eight-year Gold. The age statement is unusual at this level, but a price above USD 30 is hard to defend against better-supported Canadian alternatives.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Assess neat first; recent evidence warns that low bottling strength does not eliminate heat."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "Try one small cube if the alcohol seems prominent; avoid flattening the short finish."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a restrained sugar measure with the already sweet blend."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A small 2:1 build is a reasonable starting point; dry vermouth can counter its sweetness."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short ginger-ale highball is appropriate if the neat sample seems hot."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Seagram’s VO",
+          "url": "seagram-s-vo.html",
+          "reason": "A cheaper Canadian blend; its age and sample evidence are separately qualified."
+        },
+        {
+          "name": "Royal Canadian Small Batch",
+          "url": "royal-canadian-small-batch.html",
+          "reason": "A near-price Canadian blended alternative with a different body/finish tradeoff."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Diageo: 2018 portfolio sale",
+          "url": "https://www.diageo.com/en/news-and-media/press-releases/2018/diageo-sells-portfolio-of-brands-to-sazerac",
+          "role": "Primary transaction announcement; ownership is distinguished from confidential supply arrangements."
+        },
+        {
+          "title": "Sazerac: former Seagram brands",
+          "url": "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+          "role": "Primary confirmation that VO, Five Star and 83 belong to Sazerac; not a recipe disclosure."
+        },
+        {
+          "title": "Gold development: Booze Business",
+          "url": "https://www.boozebusiness.com/the-seagram-vo-and-vo-gold-story",
+          "role": "April 11, 2019 first-person industry account with original blenders; historical recipe development, not current blind tasting."
+        },
+        {
+          "title": "Exact Gold U.S. offer",
+          "url": "https://www.topline-spirits.com/p/seagrams-vo-gold-8-year-old-canadian-whiskey/6208",
+          "role": "Dated USD 22.49 / 750 mL / 40% / eight-year offer."
+        },
+        {
+          "title": "IWSC 2022 exact identity",
+          "url": "https://www.iwsc.net/results/detail/120716/seagrams-vo-8yo-gold-canadian-whisky",
+          "role": "Independent submitted identity: eight years and 40%; award not translated into Quality."
+        },
+        {
+          "title": "Virginia Gold pack",
+          "url": "https://www.abc.virginia.gov/products/whiskey/seagrams-vo-gold?productSize=0",
+          "role": "Verified Gold photograph / 40%; regional closeout is not evidence of worldwide discontinuation."
+        }
+      ],
+      "image_source": "https://www.abc.virginia.gov/products/whiskey/seagrams-vo-gold?productSize=0",
+      "image_url": "https://www.abc.virginia.gov/library/product-images/whiskey/canadian/seagrams-vo-gold.jpg"
+    }
+  },
+  {
+    "slug": "seagram-s-vo-1974-tax-stamp",
+    "filename": "seagram-s-vo-1974-tax-stamp.html",
+    "name": "Seagram's VO — 1974 Tax Stamp",
+    "family": "Seagram's",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Joseph E. Seagram & Sons Limited, Canada; exact component distilleries unconfirmed",
+    "proof": 86.8,
+    "abv": 43.4,
+    "age": "6 Years; 1974 tax stamp, bottling date unconfirmed",
+    "age_display": "6 Years; 1974 tax stamp, bottling date unconfirmed",
+    "age_sort_years": 6,
+    "mash_bill_display": "Undisclosed historical Canadian blend; rye-flavor notes do not disclose percentages",
+    "mash_bill_confidence": "Matched expression documentation; no undisclosed ratios inferred.",
+    "quality": 8.0,
+    "quality_score": 8.0,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-16",
+      "limitations": "One substantive independent account with the actual bottle photograph supports a provisional universal assessment inside Canadian blends. The page’s broken ABV field, uncertain tax-date interpretation and modern VO reviews do not override the inspected label. No current market consensus is claimed.",
+      "universal_dimensions": {
+        "integration": 8.1,
+        "flavor_development": 8.0,
+        "finish": 8.2,
+        "technical_cleanliness": 7.8,
+        "texture": 8.5,
+        "maturity_wood_management": 8.0,
+        "distinctiveness": 7.5
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 8.05,
+      "editorial_adjustment": -0.05,
+      "adjustment_reason": "Excellent texture, developed flavor and persistent finish support an excellent provisional assessment of this specific historical sample. One enthusiastic account is insufficient to make it a Canadian top anchor or certify every surviving bottle."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Excellent texture, developed flavor and persistent finish support an excellent provisional assessment of this specific historical sample. One enthusiastic account is insufficient to make it a Canadian top anchor or certify every surviving bottle.",
+    "quality_confidence": "Low; one developed, exact-bottle review, storage-dependent historical sample.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: a commenter’s approximately $25 auction purchase has no secure currency, bottle-price accounting or current availability. A defensible U.S. 750 mL value reference is not established.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Price not established",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-16",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "The exact one-litre Seagram’s VO bottle reviewed June 19, 2017: six-year label, 43.4% ABV / 86.8 proof and 1974 Canadian tax stamp. An approximately 1980 bottling is the reviewer’s inference, not a verified bottling date.",
+    "availability_note": "Dated listings and original prices do not guarantee stock; collector premiums do not improve drinking Value.",
+    "research_date": "2026-10-16",
+    "score_date": "2026-10-16",
+    "review_sources": [
+      "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367"
+    ],
+    "review_publishers": [
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "talexander",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367",
+        "summary": "Finds a buttery, substantial palate, developed sweetness and wood, and a warming long finish. Water increases the creamy impression. The enthusiasm is specific to this old bottle and explicitly contrasts with the author’s much less favorable modern VO.",
+        "scope": "June 19, 2017; exact photographed one-litre / six-year / 1974-stamp sample, not a general vintage average."
+      }
+    ],
+    "source_urls": [
+      "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367"
+    ],
+    "production_summary": "The actual reviewed-bottle photograph shows one litre, a six-year age statement and 43.4% ABV. The page’s machine ABV field is an invalid minus one and is rejected in favor of the label. Grains, ratios, component distilleries, distillation methods and exact cask history are not established. A Taiwan duty-free stamp is reported by the reviewer, not proof of a separate recipe.",
+    "finishing_information": "No separate finish documented; smoky, buttery and woody descriptions are sensory observations, not a cask specification.",
+    "identity_note": null,
+    "history": [
+      "The review calls out the auction house’s 1974 bottling claim, interpreting the tax year as the youngest spirit’s entry into oak and suggesting bottling about six years later. The dossier therefore keeps “1974 Tax Stamp” as the identity and leaves the bottling year unresolved.",
+      "Storage and closure condition can strongly affect old bottles. A favorable sample is useful historical evidence, but does not establish how another surviving bottle will taste or what modern VO should score."
+    ],
+    "comparables": [
+      {
+        "name": "Modern Seagram’s VO",
+        "url": "seagram-s-vo.html",
+        "reason": "A distinct 80-proof contemporary expression; the comparison demonstrates why era cannot be collapsed."
+      },
+      {
+        "name": "Seagram’s VO Gold",
+        "url": "seagram-s-vo-gold.html",
+        "reason": "An eight-year / 40% sibling; neither extra labeled age nor brand name makes it the same historical liquid."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Begin with a small neat pour to assess the actual surviving bottle."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "The reviewer favors a little water for texture; avoid heavy ice in an irreplaceable sample."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Consider only after confirming condition; a small build preserves the historical sample."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use a half-size trial and modest vermouth if choosing to mix it."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Neat or a few drops of water is better supported than a long highball for this specific sample."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [
+      {
+        "source_url": "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367",
+        "image_url": "https://www.connosr.com/image/2/750/750/5/uploads/community/images/reviews/228321-zoom-1497838356864.jpg",
+        "scope": "The exact one-litre Seagram’s VO bottle reviewed June 19, 2017: six-year label, 43.4% ABV / 86.8 proof and 1974 Canadian tax stamp. An approximately 1980 bottling is the reviewer’s inference, not a verified bottling date.",
+        "sha256": "f8469f66f9b0fae29d608bece797b03957a7876ef9db148e06ac027ff50526b9",
+        "image_embedded": true,
+        "width": 750,
+        "height": 750
+      }
+    ],
+    "exact_bottle_image_status": "verified",
+    "exact_bottle_image_scope": "The exact one-litre Seagram’s VO bottle reviewed June 19, 2017: six-year label, 43.4% ABV / 86.8 proof and 1974 Canadian tax stamp. An approximately 1980 bottling is the reviewer’s inference, not a verified bottling date.",
+    "image_limitation": null,
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-034",
+    "editorial": {
+      "id": "seagram-s-vo-1974-tax-stamp",
+      "proof": 86.8,
+      "age": 6,
+      "age_display": "6 Years; 1974 tax stamp, bottling date unconfirmed",
+      "producer": "Joseph E. Seagram & Sons Limited, Canada; exact component distilleries unconfirmed",
+      "grain": "Undisclosed historical Canadian blend; rye-flavor notes do not disclose percentages",
+      "identity": "The exact one-litre Seagram’s VO bottle reviewed June 19, 2017: six-year label, 43.4% ABV / 86.8 proof and 1974 Canadian tax stamp. An approximately 1980 bottling is the reviewer’s inference, not a verified bottling date.",
+      "short_version": "A rich, creamy historical VO sample with an enthusiastic developed review and a long finish. Its precise tax-stamp identity matters: neither the score nor the strength belongs to current 80-proof VO.",
+      "production": "The actual reviewed-bottle photograph shows one litre, a six-year age statement and 43.4% ABV. The page’s machine ABV field is an invalid minus one and is rejected in favor of the label. Grains, ratios, component distilleries, distillation methods and exact cask history are not established. A Taiwan duty-free stamp is reported by the reviewer, not proof of a separate recipe.",
+      "finish": "No separate finish documented; smoky, buttery and woody descriptions are sensory observations, not a cask specification.",
+      "history": [
+        "The review calls out the auction house’s 1974 bottling claim, interpreting the tax year as the youngest spirit’s entry into oak and suggesting bottling about six years later. The dossier therefore keeps “1974 Tax Stamp” as the identity and leaves the bottling year unresolved.",
+        "Storage and closure condition can strongly affect old bottles. A favorable sample is useful historical evidence, but does not establish how another surviving bottle will taste or what modern VO should score."
+      ],
+      "reviews": [
+        {
+          "reviewer": "talexander",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367",
+          "summary": "Finds a buttery, substantial palate, developed sweetness and wood, and a warming long finish. Water increases the creamy impression. The enthusiasm is specific to this old bottle and explicitly contrasts with the author’s much less favorable modern VO.",
+          "scope": "June 19, 2017; exact photographed one-litre / six-year / 1974-stamp sample, not a general vintage average."
+        }
+      ],
+      "quality": 8.0,
+      "dimensions": [
+        8.1,
+        8.0,
+        8.2,
+        7.8,
+        8.5,
+        8.0,
+        7.5
+      ],
+      "quality_rationale": "Excellent texture, developed flavor and persistent finish support an excellent provisional assessment of this specific historical sample. One enthusiastic account is insufficient to make it a Canadian top anchor or certify every surviving bottle.",
+      "quality_confidence": "Low; one developed, exact-bottle review, storage-dependent historical sample.",
+      "evidence_limit": "One substantive independent account with the actual bottle photograph supports a provisional universal assessment inside Canadian blends. The page’s broken ABV field, uncertain tax-date interpretation and modern VO reviews do not override the inspected label. No current market consensus is claimed.",
+      "pricing": null,
+      "value": null,
+      "value_rationale": "N/A: a commenter’s approximately $25 auction purchase has no secure currency, bottle-price accounting or current availability. A defensible U.S. 750 mL value reference is not established.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numerical buy threshold can be defended for this storage-dependent historical one-litre bottle. Require exact label, fill and closure evidence; collector premiums do not improve drinking Quality.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Begin with a small neat pour to assess the actual surviving bottle."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "The reviewer favors a little water for texture; avoid heavy ice in an irreplaceable sample."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Consider only after confirming condition; a small build preserves the historical sample."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use a half-size trial and modest vermouth if choosing to mix it."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Neat or a few drops of water is better supported than a long highball for this specific sample."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Modern Seagram’s VO",
+          "url": "seagram-s-vo.html",
+          "reason": "A distinct 80-proof contemporary expression; the comparison demonstrates why era cannot be collapsed."
+        },
+        {
+          "name": "Seagram’s VO Gold",
+          "url": "seagram-s-vo-gold.html",
+          "reason": "An eight-year / 40% sibling; neither extra labeled age nor brand name makes it the same historical liquid."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Exact 1974-stamp VO review and photograph",
+          "url": "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367",
+          "role": "Independent sample, label evidence and explicitly qualified date inference; auction cost not accepted as current USD value."
+        }
+      ],
+      "image_source": "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367",
+      "image_url": "https://www.connosr.com/image/2/750/750/5/uploads/community/images/reviews/228321-zoom-1497838356864.jpg"
+    }
   }
 ]

@@ -2,7 +2,7 @@
   "schema": "old-oak-north-american-expression-ledger-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
   "created_date": "2026-10-14",
-  "updated_date": "2026-10-15",
+  "updated_date": "2026-10-16",
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
   "discovery_scope": "Producer catalogues, archived producer releases, specialist reviews, control-state listings, historical museum material and archival retail/auction identity records. This ledger is a defensible selection, not a count-maximizing catalogue of all bottle variants.",
   "ordering": "Widow Jane first, then Canadian family alphabetically, canonical expression alphabetically. Immutable deterministic_order for this discovery set; append later authenticated discoveries.",
@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 22,
-    "accepted": 203
+    "pending": 16,
+    "accepted": 209
   },
   "entries": [
     {
@@ -15899,16 +15899,16 @@
       "producer": "Sazerac; Canadian sourcing",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed Canadian blend",
+      "age_information": "NAS",
+      "grain_information": "Reported four-grain Canadian blend; exact cereals, proportions and source mash bills undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate cask finish authenticated; wine-like tasting notes do not establish added wine or wine-cask finishing.",
       "release_year_or_era": "Historic export identity; modern bottling",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -15920,13 +15920,55 @@
       ],
       "potential_image_source": "https://www.sazerac.com/content/dam/sazerac/corporate/news/press-releases/archive/2020/sazerac/2020-05-06-SFWSC-Canadian-Brands--awards.pdf",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Canadian Whisky",
+            "url": "https://canadianwhisky.org/blog/reviews/royal-canadian-small-batch-40-alcvol-80-proof-2.html",
+            "summary": "Finds extensive fruit and spice, developing weight and a moderately persistent finish, but also cloying sweetness, pepper heat, bitterness and thin patches. A flavorful mixer rather than an especially refined neat pour.",
+            "scope": "Original small-batch era; archive dated November 28, 2011, with an earlier launch narrative."
+          },
+          {
+            "reviewer": "Victor",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/royal-canadian-small-batch-whisky-review-4855",
+            "summary": "Describes substantial sweetness, grain character and a fairly lasting finish. Praises the interplay of flavors while retaining excess alcohol bite, bitter wood and an untidy finish as limitations.",
+            "scope": "January 14, 2013; one bottle, not three independent reviews despite three scoring formats."
+          },
+          {
+            "reviewer": "Kurt Bradley",
+            "publisher": "The Gentleman’s Flavor",
+            "url": "https://thegentlemansflavor.com/canadian-whisky-reviews-royal-canadian-small-batch/",
+            "summary": "Finds a gentle, sweet baking-spice profile and a pleasant but brief finish; substantial dilution makes it too thin. This is a useful counterweight to older accounts of greater finish length.",
+            "scope": "Page updated May 16, 2023; sensory account only, not its inconsistent brand-origin claim."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 213
+      "deterministic_order": 213,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-034",
+      "publication_sources": [
+        {
+          "title": "Original Royal Canadian Small Batch review",
+          "url": "https://canadianwhisky.org/blog/reviews/royal-canadian-small-batch-40-alcvol-80-proof-2.html",
+          "role": "Independent sensory record and contemporary identity/history; archive date and launch narrative distinguished."
+        },
+        {
+          "title": "Royal Canadian: Sazerac 2020 release",
+          "url": "https://www.sazerac.com/our-company/news-and-media/2020-san-francisco-world-spirits-competition-recognizes-four-saz.html",
+          "role": "Primary ownership and Canadian portfolio context; award grade not used as a score."
+        },
+        {
+          "title": "Alameda exact retail offer",
+          "url": "https://alamedaliquor.com/products/royal-canadian-small-batch-blended-canadian-whisky",
+          "role": "Dated U.S. price, size and comparison offers, not independent tasting."
+        }
+      ]
     },
     {
       "id": "seagram-s-83",
@@ -15936,16 +15978,16 @@
       "producer": "Historic Seagram lineage; modern ownership varies by marque",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed Canadian blend",
+      "age_information": "NAS",
+      "grain_information": "Canadian blend; complete cereals and proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish established",
+      "finishing_information": "No separate finishing treatment established.",
       "release_year_or_era": "1883 lineage; modern bottle distinguished",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -15957,13 +15999,58 @@
       ],
       "potential_image_source": "https://www.lcbo.com/en/seagrams-83-whisky-192922",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-83-canadian-whisky/",
+            "summary": "Finds lively spice and sweet grain-fruit notes, followed by a sharp, drying delivery. The flavors come together more successfully with ice and ginger ale than when tasted neat.",
+            "scope": "April 21, 2013, Diageo-era sample; its bottle-presentation points are excluded from Quality."
+          },
+          {
+            "reviewer": "Jason Hambrey",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/canadian-83-whisky-review-9209",
+            "summary": "Finds a simple but pleasant light blend with fruit, sweetness and a spicy grain backbone. Rates the balance and finish more favorably than Dykstra; a little bitterness remains.",
+            "scope": "January 7, 2015 posting of earlier notes; claimed Crown Royal barrels are not accepted as authenticated production evidence."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 214
+      "deterministic_order": 214,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-034",
+      "publication_sources": [
+        {
+          "title": "Diageo: 2018 portfolio sale",
+          "url": "https://www.diageo.com/en/news-and-media/press-releases/2018/diageo-sells-portfolio-of-brands-to-sazerac",
+          "role": "Primary transaction announcement; ownership is distinguished from confidential supply arrangements."
+        },
+        {
+          "title": "Sazerac: former Seagram brands",
+          "url": "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+          "role": "Primary confirmation that VO, Five Star and 83 belong to Sazerac; not a recipe disclosure."
+        },
+        {
+          "title": "Seagram’s 83 control-board identity",
+          "url": "https://www.anbl.com/seagrams-canadian-83-750ml-10012",
+          "role": "Current 40% / 750 mL identity, Canadian price and exact bottle image."
+        },
+        {
+          "title": "LCBO: 83 brand lineage",
+          "url": "https://www.lcbo.com/en/seagrams-83-whisky-305607",
+          "role": "Indexed control-board description of 1883 lineage and Quebec origin; live fetch restricted."
+        },
+        {
+          "title": "Dykstra: Seagram’s 83",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-83-canadian-whisky/",
+          "role": "Independent tasting and explicitly historical Valleyfield attribution."
+        }
+      ]
     },
     {
       "id": "seagram-s-five-star",
@@ -15971,18 +16058,18 @@
       "filename": "seagram-s-five-star.html",
       "brand_family": "Seagram's",
       "producer": "Historic Seagram lineage; modern ownership varies by marque",
-      "status": "historical",
+      "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": null,
-      "abv": null,
+      "proof": 80,
+      "abv": 40.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Undisclosed Canadian blend",
+      "age_information": "NAS",
+      "grain_information": "Undisclosed Canadian blend; sensory corn and rye descriptions are not a mash-bill disclosure",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish authenticated.",
       "release_year_or_era": "Historical Canadian brand",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -15994,13 +16081,47 @@
       ],
       "potential_image_source": "https://www.waterloo.ca/museum/explore-the-collection/seagrams-vo-whiskey-bottles/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-canadian-five-star-whisky/",
+            "summary": "Finds an increasingly sweet, sour and pithy flavor profile, coarse astringency and a burning finish. Ginger ale does little to rescue it and cola only partly helps; this is a clear unfavorable sensory account, not simply a low award grade.",
+            "scope": "August 20, 2013; one Diageo-era bottle. Current recipe continuity is not demonstrated."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 215
+      "deterministic_order": 215,
+      "identity_correction": "Current ANBL 40% offer verified; historical-only discovery status corrected. Scored sensory evidence remains explicitly 2013-era.",
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-034",
+      "publication_sources": [
+        {
+          "title": "Diageo: 2018 portfolio sale",
+          "url": "https://www.diageo.com/en/news-and-media/press-releases/2018/diageo-sells-portfolio-of-brands-to-sazerac",
+          "role": "Primary transaction announcement; ownership is distinguished from confidential supply arrangements."
+        },
+        {
+          "title": "Sazerac: former Seagram brands",
+          "url": "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+          "role": "Primary confirmation that VO, Five Star and 83 belong to Sazerac; not a recipe disclosure."
+        },
+        {
+          "title": "ANBL: Five Star",
+          "url": "https://www.anbl.com/seagrams-five-star-750ml-10002",
+          "role": "Current Canadian 40% identity, dated CAD price and exact pack photograph; sales notes are not independent tasting."
+        },
+        {
+          "title": "Dykstra: Five Star",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-canadian-five-star-whisky/",
+          "role": "Substantive unfavorable 2013 tasting; historical plant attribution only."
+        }
+      ]
     },
     {
       "id": "seagram-s-seagram-7-crown",
@@ -16041,16 +16162,16 @@
       "producer": "Historic Seagram lineage; modern ownership varies by marque",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 6.0,
-      "age_information": "6 years",
-      "grain_information": "Undisclosed Canadian blend",
+      "age_statement_years": null,
+      "age_information": "NAS on verified pack; six-year minimum reported in some accounts",
+      "grain_information": "Undisclosed Canadian grain blend; no authenticated current cereal percentages",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finishing treatment verified; the precise current aging-cask regime is undisclosed.",
       "release_year_or_era": "1913 brand lineage; modern bottle distinguished",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16062,13 +16183,71 @@
       ],
       "potential_image_source": "https://reviews.whiskeyfellow.net/2025/02/seagrams-vo-canadian-whisky-review.html",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Jeffrey Schwartz",
+            "publisher": "Whiskeyfellow",
+            "url": "https://reviews.whiskeyfellow.net/2025/02/seagrams-vo-canadian-whisky-review.html",
+            "summary": "Reports chemical/floral aromas, almost weightless body, little palate development and a persistent bitter finish. His purchased 2025 sample receives a strong rejection.",
+            "scope": "February 3, 2025; substantive indexed full review inspected after direct page fetch was blocked. Historical narrative and claimed new-charred-oak regime are not adopted as primary facts."
+          },
+          {
+            "reviewer": "passengerpigeon20",
+            "publisher": "Reddit r/worldwhisky",
+            "url": "https://www.reddit.com/r/worldwhisky/comments/x9lxm5/review_3_seagrams_vo/",
+            "summary": "Finds accessible fruit, modest sweetness, grain-spice development and no raw alcohol flavor, with a short but noticeable finish. This favorable counterexample shows why uniform agreement should not be claimed.",
+            "scope": "September 9, 2022 miniature; author lists NAS / 40%."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/seagrams-vo/",
+            "summary": "Finds useful spice and some buttery sweetness but also an intrusive aroma and astringency. Mixing with ginger ale or cola works better than neat sipping.",
+            "scope": "Revised September 21, 2017; older owner/recipe era."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 217
+      "deterministic_order": 217,
+      "identity_correction": "NAS on inspected modern pack; conflicting three/six/eight-year retail/reporting claims retained as qualified context, not numeric age.",
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-034",
+      "publication_sources": [
+        {
+          "title": "Sazerac: former Seagram brands",
+          "url": "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+          "role": "Primary confirmation that VO, Five Star and 83 belong to Sazerac; not a recipe disclosure."
+        },
+        {
+          "title": "Sazerac nutrition: VO",
+          "url": "https://www.sazerac.com/footer-pages/nutrition.html",
+          "role": "Primary 80-proof / 40% confirmation, not age or recipe disclosure."
+        },
+        {
+          "title": "Whiskeyfellow 2025 review",
+          "url": "https://reviews.whiskeyfellow.net/2025/02/seagrams-vo-canadian-whisky-review.html",
+          "role": "Substantive contemporary purchased-sample account; inspected through indexed content when direct fetch failed."
+        },
+        {
+          "title": "Target exact VO offer",
+          "url": "https://www.target.com/p/-/A-53661529",
+          "role": "Dated U.S. 750 mL / 80-proof price; generic three-year age field not accepted as a label statement."
+        },
+        {
+          "title": "Virginia ABC VO",
+          "url": "https://www.abc.virginia.gov/products/whiskey/seagrams-vo",
+          "role": "Exact 40% pack image; eight-year Gold wording on the regular VO page rejected as a product-description mismatch."
+        },
+        {
+          "title": "LCBO VO lineage",
+          "url": "https://www.lcbo.com/en/seagrams-v-o-whisky-307",
+          "role": "Control-board 1913 tradition; not a current age guarantee."
+        }
+      ]
     },
     {
       "id": "seagram-s-vo-gold",
@@ -16078,16 +16257,16 @@
       "producer": "Historic Seagram lineage; modern ownership varies by marque",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
+      "proof": 80,
       "abv": 40.0,
-      "age_statement_years": 8.0,
-      "age_information": "8 years",
-      "grain_information": "Undisclosed Canadian blend",
+      "age_statement_years": 8,
+      "age_information": "8 Years",
+      "grain_information": "Canadian blend including rye whisky in the original formulation; full current cereals and proportions undisclosed",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate cask finish authenticated; wine-like aromas are not proof of wine addition or a wine-cask finish.",
       "release_year_or_era": "1990s lineage",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16104,13 +16283,70 @@
       ],
       "potential_image_source": "https://www.boozebusiness.com/the-seagram-vo-and-vo-gold-story",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/seagram-s-vo-gold",
+            "summary": "Finds creamy grain sweetness and fruit with peppery accents; the finish closes quickly with drying citrus-pith and oak-tannin impressions. Fuller than basic VO, but not a long or deeply developed pour.",
+            "scope": "Exact VO Gold / 40%; older undated expert entry, not the community star average."
+          },
+          {
+            "reviewer": "Dave Broom",
+            "publisher": "Whisky Magazine",
+            "url": "https://whiskymag.com/tastings/seagrams-vo-gold-8-years-old-636740751535792530/",
+            "summary": "Describes a grain-forward, initially aggressive aroma, a plain opening that develops some sweetness and fruit, and a clean short close. Finds it agreeable but insufficiently distinctive.",
+            "scope": "Exact eight-year / 40% entry; one visible reviewer tab, not two independently inspected accounts."
+          },
+          {
+            "reviewer": "Patrick",
+            "publisher": "Québec Whisky",
+            "url": "https://quebecwhisky.com/seagrams-vo-gold-8-ans/",
+            "summary": "Finds sweetness, pepper, nuts and charred wood, with alcohol that feels stronger than the stated strength. The finish is brief apart from lingering burn.",
+            "scope": "September 28, 2026, exact eight-year / 40% account; current dissent retained."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 218
+      "deterministic_order": 218,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-034",
+      "publication_sources": [
+        {
+          "title": "Diageo: 2018 portfolio sale",
+          "url": "https://www.diageo.com/en/news-and-media/press-releases/2018/diageo-sells-portfolio-of-brands-to-sazerac",
+          "role": "Primary transaction announcement; ownership is distinguished from confidential supply arrangements."
+        },
+        {
+          "title": "Sazerac: former Seagram brands",
+          "url": "https://www.sazerac.com/news-and-media/mister-sam-blended-whiskey-releasing-this-fall/",
+          "role": "Primary confirmation that VO, Five Star and 83 belong to Sazerac; not a recipe disclosure."
+        },
+        {
+          "title": "Gold development: Booze Business",
+          "url": "https://www.boozebusiness.com/the-seagram-vo-and-vo-gold-story",
+          "role": "April 11, 2019 first-person industry account with original blenders; historical recipe development, not current blind tasting."
+        },
+        {
+          "title": "Exact Gold U.S. offer",
+          "url": "https://www.topline-spirits.com/p/seagrams-vo-gold-8-year-old-canadian-whiskey/6208",
+          "role": "Dated USD 22.49 / 750 mL / 40% / eight-year offer."
+        },
+        {
+          "title": "IWSC 2022 exact identity",
+          "url": "https://www.iwsc.net/results/detail/120716/seagrams-vo-8yo-gold-canadian-whisky",
+          "role": "Independent submitted identity: eight years and 40%; award not translated into Quality."
+        },
+        {
+          "title": "Virginia Gold pack",
+          "url": "https://www.abc.virginia.gov/products/whiskey/seagrams-vo-gold?productSize=0",
+          "role": "Verified Gold photograph / 40%; regional closeout is not evidence of worldwide discontinuation."
+        }
+      ]
     },
     {
       "id": "seagram-s-vo-1974-tax-stamp",
@@ -16122,14 +16358,14 @@
       "whisky_category": "Canadian Blended Whisky",
       "proof": 86.8,
       "abv": 43.4,
-      "age_statement_years": 6.0,
-      "age_information": "6 years",
-      "grain_information": "Undisclosed Canadian blend",
+      "age_statement_years": 6,
+      "age_information": "6 Years; 1974 tax stamp, bottling date unconfirmed",
+      "grain_information": "Undisclosed historical Canadian blend; rye-flavor notes do not disclose percentages",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "finishing_information": "No separate finish documented; smoky, buttery and woody descriptions are sensory observations, not a cask specification.",
       "release_year_or_era": "1974 tax stamp; bottling date separately treated",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16141,13 +16377,31 @@
       ],
       "potential_image_source": "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "talexander",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367",
+            "summary": "Finds a buttery, substantial palate, developed sweetness and wood, and a warming long finish. Water increases the creamy impression. The enthusiasm is specific to this old bottle and explicitly contrasts with the author’s much less favorable modern VO.",
+            "scope": "June 19, 2017; exact photographed one-litre / six-year / 1974-stamp sample, not a general vintage average."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 219
+      "deterministic_order": 219,
+      "exact_image_status": "verified",
+      "image_limitation": null,
+      "assessment_checkpoint": "NA-034",
+      "publication_sources": [
+        {
+          "title": "Exact 1974-stamp VO review and photograph",
+          "url": "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367",
+          "role": "Independent sample, label evidence and explicitly qualified date inference; auction cost not accepted as current USD value."
+        }
+      ]
     },
     {
       "id": "shelter-point-classic-single-malt",
