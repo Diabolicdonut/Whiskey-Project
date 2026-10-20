@@ -75473,5 +75473,1325 @@
       "image_source": "https://www.connosr.com/1974-seagrams-v-o-whisky-review-11367",
       "image_url": "https://www.connosr.com/image/2/750/750/5/uploads/community/images/reviews/228321-zoom-1497838356864.jpg"
     }
+  },
+  {
+    "slug": "shelter-point-classic-single-malt",
+    "filename": "shelter-point-classic-single-malt.html",
+    "name": "Shelter Point Classic Single Malt",
+    "family": "Shelter Point",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Shelter Point Distillery, Campbell River, Vancouver Island",
+    "proof": 92,
+    "abv": 46.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% malted barley; current producer identifies a pot-distilled single malt and reviewed bottles use Canadian/BC barley",
+    "mash_bill_confidence": "Matched current identity and independent review scope; no undisclosed cereal proportions are inferred.",
+    "quality": 6.2,
+    "quality_score": 6.2,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-20",
+      "limitations": "Published sensory judgments are attributed rather than treated as first-person Old Oak tasting. Native Canadian single-malt/single-grain 1/5/10 endpoints remain incomplete, so the universal execution rubric is used within the Canadian category while batch and production-era limits stay explicit.",
+      "universal_dimensions": {
+        "integration": 6.3,
+        "flavor_development": 6.4,
+        "finish": 5.9,
+        "technical_cleanliness": 6.4,
+        "texture": 6.2,
+        "maturity_wood_management": 6,
+        "distinctiveness": 6.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.23,
+      "editorial_adjustment": -0.03,
+      "adjustment_reason": "The exact NAS review supports good execution: coherent honey, vanilla and toasted-grain flavor, moderate texture and no major fault, while a lighter aroma and tannic edges hold it below very-good territory."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The exact NAS review supports good execution: coherent honey, vanilla and toasted-grain flavor, moderate texture and no major fault, while a lighter aroma and tannic edges hold it below very-good territory.",
+    "quality_confidence": "Medium-low; one detailed exact NAS review plus current identity documentation, with cask-vatting continuity not fully disclosed.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: Quality is supportable, but an exact dated U.S. 750 mL retail reference for this expression was not authenticated.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No exact dated U.S. 750 mL retail offer was authenticated for this exact expression as of October 20, 2026; Canadian prices are retained only as context and are not converted into Value.",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-20",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC listing for this exact expression.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Shelter Point Classic Single Malt, core NAS expression at 46% ABV / 92 proof; the exact early-2023 NAS review is kept distinct from the separately age-stated 7 Year Classic.",
+    "availability_note": "Canadian control-board and review purchase prices establish market context only; they are not converted into a U.S. Value score.",
+    "research_date": "2026-10-20",
+    "score_date": "2026-10-20",
+    "review_sources": [
+      "https://www.dramface.com/all-reviews/2024/shelter-point-classic-single-malt-nas-7yo-duo"
+    ],
+    "review_publishers": [
+      "Dramface"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Broddy Balfour",
+        "publisher": "Dramface",
+        "url": "https://www.dramface.com/all-reviews/2024/shelter-point-classic-single-malt-nas-7yo-duo",
+        "summary": "Finds honey, apple, graham cracker, barley and vanilla leading to a moderately thick palate with tannin, black pepper and toasted-grain character; the nose is somewhat light.",
+        "scope": "Exact Classic NAS, estimated early-2023 bottle, 46% ABV; the separately reviewed 7 Year is excluded from this score."
+      }
+    ],
+    "source_urls": [
+      "https://shelterpoint.ca/",
+      "https://www.lcbo.com/en/shelter-point-classic-single-malt-46232",
+      "https://www.dramface.com/all-reviews/2024/shelter-point-classic-single-malt-nas-7yo-duo"
+    ],
+    "production_summary": "The current producer describes slow fermentation, copper pot stills, aquifer water and double distillation. LCBO confirms the current Classic at 46% ABV. The exact current cask mix is not fully disclosed, so older recipe descriptions are treated as era-specific rather than permanent facts.",
+    "finishing_information": "Matured in select casks; the exact current vatting proportions are undisclosed, and older ex-bourbon/American-oak descriptions are not forced onto every current bottle.",
+    "identity_note": null,
+    "history": [
+      "Shelter Point began distilling on Vancouver Island in 2011 and now operates Forsyths wash and spirit copper pot stills on the coastal farm.",
+      "The Classic name continues the distillery’s core single-malt lineage; the exact NAS bottle reviewed by Dramface is not merged with the later 7 Year Classic."
+    ],
+    "comparables": [
+      {
+        "name": "Shelter Point Ripple Rock — Batch 2",
+        "url": "shelter-point-ripple-rock-batch-2.html",
+        "reason": "A batch-specific Shelter Point single malt with more assertive active-oak and finishing influence."
+      },
+      {
+        "name": "Shelter Point Smoke Point Single Malt",
+        "url": "shelter-point-smoke-point-single-malt.html",
+        "reason": "The core smoky counterpart, using smoked barrels rather than peated malt."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat at room temperature to assess the honeyed malt and tannin balance."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One small cube can soften pepper and tannin without erasing the grain character."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A restrained soda highball should preserve the bright malt and coastal freshness."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use very little sugar; the whisky already carries honeyed and vanilla sweetness."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Choose a lighter vermouth so the malt is not buried."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Shelter Point Classic Single Malt, core NAS expression at 46% ABV / 92 proof; the exact early-2023 NAS review is kept distinct from the separately age-stated 7 Year Classic.",
+    "image_limitation": "No exact-expression image bytes were authenticated for safe self-contained embedding; no related Shelter Point bottle is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-035",
+    "editorial": {
+      "id": "shelter-point-classic-single-malt",
+      "identity": "Shelter Point Classic Single Malt, core NAS expression at 46% ABV / 92 proof; the exact early-2023 NAS review is kept distinct from the separately age-stated 7 Year Classic.",
+      "short_version": "A solid Vancouver Island single malt: honey, vanilla, grain and toasted sweetness with enough tannin and pepper to stay structured, but less refinement than the separate age-stated release.",
+      "producer": "Shelter Point Distillery, Campbell River, Vancouver Island",
+      "category": "Canadian Single Malt",
+      "proof": 92,
+      "age": null,
+      "age_display": "NAS",
+      "grain": "100% malted barley; current producer identifies a pot-distilled single malt and reviewed bottles use Canadian/BC barley",
+      "grain_confidence": "Matched current identity and independent review scope; no undisclosed cereal proportions are inferred.",
+      "finish": "Matured in select casks; the exact current vatting proportions are undisclosed, and older ex-bourbon/American-oak descriptions are not forced onto every current bottle.",
+      "production": "The current producer describes slow fermentation, copper pot stills, aquifer water and double distillation. LCBO confirms the current Classic at 46% ABV. The exact current cask mix is not fully disclosed, so older recipe descriptions are treated as era-specific rather than permanent facts.",
+      "history": [
+        "Shelter Point began distilling on Vancouver Island in 2011 and now operates Forsyths wash and spirit copper pot stills on the coastal farm.",
+        "The Classic name continues the distillery’s core single-malt lineage; the exact NAS bottle reviewed by Dramface is not merged with the later 7 Year Classic."
+      ],
+      "quality": 6.2,
+      "dimensions": [
+        6.3,
+        6.4,
+        5.9,
+        6.4,
+        6.2,
+        6,
+        6.2
+      ],
+      "quality_rationale": "The exact NAS review supports good execution: coherent honey, vanilla and toasted-grain flavor, moderate texture and no major fault, while a lighter aroma and tannic edges hold it below very-good territory.",
+      "quality_confidence": "Medium-low; one detailed exact NAS review plus current identity documentation, with cask-vatting continuity not fully disclosed.",
+      "evidence_limit": "Published sensory judgments are attributed rather than treated as first-person Old Oak tasting. Native Canadian single-malt/single-grain 1/5/10 endpoints remain incomplete, so the universal execution rubric is used within the Canadian category while batch and production-era limits stay explicit.",
+      "value": null,
+      "value_rationale": "N/A: Quality is supportable, but an exact dated U.S. 750 mL retail reference for this expression was not authenticated.",
+      "pricing": {
+        "currency": "USD",
+        "size_ml": 750,
+        "basis": "No exact dated U.S. 750 mL retail offer was authenticated for this exact expression as of October 20, 2026; Canadian prices are retained only as context and are not converted into Value.",
+        "nc_status": "No authenticated current NC ABC listing for this exact expression."
+      },
+      "availability": "Canadian control-board and review purchase prices establish market context only; they are not converted into a U.S. Value score.",
+      "image_limitation": "No exact-expression image bytes were authenticated for safe self-contained embedding; no related Shelter Point bottle is substituted.",
+      "reviews": [
+        {
+          "reviewer": "Broddy Balfour",
+          "publisher": "Dramface",
+          "url": "https://www.dramface.com/all-reviews/2024/shelter-point-classic-single-malt-nas-7yo-duo",
+          "summary": "Finds honey, apple, graham cracker, barley and vanilla leading to a moderately thick palate with tannin, black pepper and toasted-grain character; the nose is somewhat light.",
+          "scope": "Exact Classic NAS, estimated early-2023 bottle, 46% ABV; the separately reviewed 7 Year is excluded from this score."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Shelter Point Distillery — current range and production",
+          "url": "https://shelterpoint.ca/",
+          "role": "Primary current producer source for Classic lineage, pot stills, select-cask maturation and double-distillation context."
+        },
+        {
+          "title": "LCBO — Shelter Point Classic Single Malt",
+          "url": "https://www.lcbo.com/en/shelter-point-classic-single-malt-46232",
+          "role": "Control-board identity for current 750 mL Classic at 46% ABV; CAD price is not converted into U.S. Value."
+        },
+        {
+          "title": "Dramface — Classic NAS vs 7 Year",
+          "url": "https://www.dramface.com/all-reviews/2024/shelter-point-classic-single-malt-nas-7yo-duo",
+          "role": "Independent exact-NAS tasting; the 7 Year is kept separate."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Shelter Point Ripple Rock — Batch 2",
+          "url": "shelter-point-ripple-rock-batch-2.html",
+          "reason": "A batch-specific Shelter Point single malt with more assertive active-oak and finishing influence."
+        },
+        {
+          "name": "Shelter Point Smoke Point Single Malt",
+          "url": "shelter-point-smoke-point-single-malt.html",
+          "reason": "The core smoky counterpart, using smoked barrels rather than peated malt."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat at room temperature to assess the honeyed malt and tannin balance."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One small cube can soften pepper and tannin without erasing the grain character."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A restrained soda highball should preserve the bright malt and coastal freshness."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use very little sugar; the whisky already carries honeyed and vanilla sweetness."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Choose a lighter vermouth so the malt is not buried."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "shelter-point-montfort-single-grain",
+    "filename": "shelter-point-montfort-single-grain.html",
+    "name": "Shelter Point Montfort Single Grain",
+    "family": "Shelter Point",
+    "portfolio": null,
+    "category": "Canadian Single Grain",
+    "subcategory": "Canadian Single Grain",
+    "producer": "Shelter Point Distillery, Campbell River, Vancouver Island",
+    "proof": 92,
+    "abv": 46.0,
+    "age": "NAS; lot-specific ages not stated on the reviewed bottles",
+    "age_display": "NAS; lot-specific ages not stated on the reviewed bottles",
+    "age_sort_years": null,
+    "mash_bill_display": "100% unmalted barley in the reviewed Montfort Lot 141 and Lot 151 field-to-flask releases",
+    "mash_bill_confidence": "Exact reviewed lots document unmalted barley; later production changes are retained rather than generalized.",
+    "quality": 5.8,
+    "quality_score": 5.8,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-20",
+      "limitations": "Published sensory judgments are attributed rather than treated as first-person Old Oak tasting. Native Canadian single-malt/single-grain 1/5/10 endpoints remain incomplete, so the universal execution rubric is used within the Canadian category while batch and production-era limits stay explicit.",
+      "universal_dimensions": {
+        "integration": 5.8,
+        "flavor_development": 5.8,
+        "finish": 5.5,
+        "technical_cleanliness": 5.9,
+        "texture": 5.8,
+        "maturity_wood_management": 5.4,
+        "distinctiveness": 6.2
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.75,
+      "editorial_adjustment": 0.05,
+      "adjustment_reason": "Across two independently tasted lots, Montfort is consistently drinkable and distinctive, with fruit, nuts, honey, spice and useful texture. Lot-to-lot variation, modest finish development and occasional craft-spirit notes keep it in the upper-average/good range."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Across two independently tasted lots, Montfort is consistently drinkable and distinctive, with fruit, nuts, honey, spice and useful texture. Lot-to-lot variation, modest finish development and occasional craft-spirit notes keep it in the upper-average/good range.",
+    "quality_confidence": "Medium; four detailed tastings across two authenticated 46% lots, but the canonical dossier spans a programme whose distillation and oak details changed.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: Quality is supportable, but an exact dated U.S. 750 mL retail reference for this expression was not authenticated.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No exact dated U.S. 750 mL retail offer was authenticated for this exact expression as of October 20, 2026; Canadian prices are retained only as context and are not converted into Value.",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-20",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC listing for this exact expression.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Shelter Point Montfort field-to-flask single-grain programme, represented by independently reviewed Lot 141 (2018 batch) and Lot 151 at 46%; lot differences are retained rather than collapsed into a fictitious invariant recipe.",
+    "availability_note": "Canadian release pricing is context only; no unsourced currency conversion is used for Value.",
+    "research_date": "2026-10-20",
+    "score_date": "2026-10-20",
+    "review_sources": [
+      "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151",
+      "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151"
+    ],
+    "review_publishers": [
+      "Dramface"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Broddy Balfour",
+        "publisher": "Dramface",
+        "url": "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151",
+        "summary": "Lot 141 is dense and oily with vanilla, clove, hazelnut, berries and chocolate; Lot 151 is brighter and lighter with honey, vanilla, citrus and fruit, with a shorter peppery finish.",
+        "scope": "Montfort Lot 141 2018 batch and Lot 151, both 46%, 100% unmalted barley."
+      },
+      {
+        "reviewer": "Aengus",
+        "publisher": "Dramface",
+        "url": "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151",
+        "summary": "Lot 141 is fruity, woody and nutty with baking spice and a slight craft note; Lot 151 is fresh and fruit-led with apple juice and cinnamon. Both are agreeable rather than exciting.",
+        "scope": "Second independent taster on the authenticated Lot 141 and Lot 151 comparison."
+      }
+    ],
+    "source_urls": [
+      "https://shelterpoint.ca/wp-content/uploads/ShelterPoint_Montfort-district-lot-141-19.pdf",
+      "https://shelterpoint.ca/wp-content/uploads/Shelter-Point_product-sheet_montfort-151.pdf",
+      "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151"
+    ],
+    "production_summary": "Producer sheets and the independent lot comparison identify 100% unmalted barley and 46% ABV. Lot 141 and Lot 151 reviewed samples were triple-distilled in copper pot stills; later programme material reports double distillation. American and French oak appear in the documented lot programme, but exact proportions and ages remain undisclosed.",
+    "finishing_information": "American and French oak are documented for reviewed Montfort lots; no separate finishing interval is authenticated, and the oak programme varied by lot.",
+    "identity_note": null,
+    "history": [
+      "Montfort is named for Barrett Montfort and was conceived as a field-to-flask whisky from barley grown, distilled and bottled at Shelter Point.",
+      "Reviewed Lot 141 and Lot 151 show meaningful production and sensory variation. Older reviewed lots were triple-distilled; later producer material reports double distillation, so the dossier does not claim one invariant still regime."
+    ],
+    "comparables": [
+      {
+        "name": "Shelter Point Classic Single Malt",
+        "url": "shelter-point-classic-single-malt.html",
+        "reason": "The malted-barley core release shows how Montfort’s unmalted barley changes texture and fruit character."
+      },
+      {
+        "name": "Shelter Point Ripple Rock — Batch 2",
+        "url": "shelter-point-ripple-rock-batch-2.html",
+        "reason": "A single-malt contrast using a more assertive active-oak programme."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat is the best way to compare the dense Lot 141 style with the brighter Lot 151 character."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A few drops of water are preferable to heavy ice if the oak or pepper feels prominent."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "The bright fruit and grain profile can support a dry, lightly carbonated highball."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a very restrained sweetener to avoid masking the unusual unmalted-barley profile."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A lighter vermouth and modest pour are safer than a rich, sweet build."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Shelter Point Montfort field-to-flask single-grain programme, represented by independently reviewed Lot 141 (2018 batch) and Lot 151 at 46%; lot differences are retained rather than collapsed into a fictitious invariant recipe.",
+    "image_limitation": "No exact-expression image bytes were authenticated for safe self-contained embedding; no related Shelter Point bottle is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-035",
+    "editorial": {
+      "id": "shelter-point-montfort-single-grain",
+      "identity": "Shelter Point Montfort field-to-flask single-grain programme, represented by independently reviewed Lot 141 (2018 batch) and Lot 151 at 46%; lot differences are retained rather than collapsed into a fictitious invariant recipe.",
+      "short_version": "An unusual unmalted-barley single grain with real distillery character: fruity, nutty and sweet-spiced, sometimes dense and oily, sometimes lighter and brighter. The evidence supports good but not exceptional programme-level execution.",
+      "producer": "Shelter Point Distillery, Campbell River, Vancouver Island",
+      "category": "Canadian Single Grain",
+      "proof": 92,
+      "age": null,
+      "age_display": "NAS; lot-specific ages not stated on the reviewed bottles",
+      "grain": "100% unmalted barley in the reviewed Montfort Lot 141 and Lot 151 field-to-flask releases",
+      "grain_confidence": "Exact reviewed lots document unmalted barley; later production changes are retained rather than generalized.",
+      "finish": "American and French oak are documented for reviewed Montfort lots; no separate finishing interval is authenticated, and the oak programme varied by lot.",
+      "production": "Producer sheets and the independent lot comparison identify 100% unmalted barley and 46% ABV. Lot 141 and Lot 151 reviewed samples were triple-distilled in copper pot stills; later programme material reports double distillation. American and French oak appear in the documented lot programme, but exact proportions and ages remain undisclosed.",
+      "history": [
+        "Montfort is named for Barrett Montfort and was conceived as a field-to-flask whisky from barley grown, distilled and bottled at Shelter Point.",
+        "Reviewed Lot 141 and Lot 151 show meaningful production and sensory variation. Older reviewed lots were triple-distilled; later producer material reports double distillation, so the dossier does not claim one invariant still regime."
+      ],
+      "quality": 5.8,
+      "dimensions": [
+        5.8,
+        5.8,
+        5.5,
+        5.9,
+        5.8,
+        5.4,
+        6.2
+      ],
+      "quality_rationale": "Across two independently tasted lots, Montfort is consistently drinkable and distinctive, with fruit, nuts, honey, spice and useful texture. Lot-to-lot variation, modest finish development and occasional craft-spirit notes keep it in the upper-average/good range.",
+      "quality_confidence": "Medium; four detailed tastings across two authenticated 46% lots, but the canonical dossier spans a programme whose distillation and oak details changed.",
+      "evidence_limit": "Published sensory judgments are attributed rather than treated as first-person Old Oak tasting. Native Canadian single-malt/single-grain 1/5/10 endpoints remain incomplete, so the universal execution rubric is used within the Canadian category while batch and production-era limits stay explicit.",
+      "value": null,
+      "value_rationale": "N/A: Quality is supportable, but an exact dated U.S. 750 mL retail reference for this expression was not authenticated.",
+      "pricing": {
+        "currency": "USD",
+        "size_ml": 750,
+        "basis": "No exact dated U.S. 750 mL retail offer was authenticated for this exact expression as of October 20, 2026; Canadian prices are retained only as context and are not converted into Value.",
+        "nc_status": "No authenticated current NC ABC listing for this exact expression."
+      },
+      "availability": "Canadian release pricing is context only; no unsourced currency conversion is used for Value.",
+      "image_limitation": "No exact-expression image bytes were authenticated for safe self-contained embedding; no related Shelter Point bottle is substituted.",
+      "reviews": [
+        {
+          "reviewer": "Broddy Balfour",
+          "publisher": "Dramface",
+          "url": "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151",
+          "summary": "Lot 141 is dense and oily with vanilla, clove, hazelnut, berries and chocolate; Lot 151 is brighter and lighter with honey, vanilla, citrus and fruit, with a shorter peppery finish.",
+          "scope": "Montfort Lot 141 2018 batch and Lot 151, both 46%, 100% unmalted barley."
+        },
+        {
+          "reviewer": "Aengus",
+          "publisher": "Dramface",
+          "url": "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151",
+          "summary": "Lot 141 is fruity, woody and nutty with baking spice and a slight craft note; Lot 151 is fresh and fruit-led with apple juice and cinnamon. Both are agreeable rather than exciting.",
+          "scope": "Second independent taster on the authenticated Lot 141 and Lot 151 comparison."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Shelter Point — Montfort District Lot 141 producer sheet",
+          "url": "https://shelterpoint.ca/wp-content/uploads/ShelterPoint_Montfort-district-lot-141-19.pdf",
+          "role": "Primary lot documentation for field-to-flask identity, unmalted barley, 46% ABV and American/French oak context."
+        },
+        {
+          "title": "Shelter Point — Montfort 151 producer sheet",
+          "url": "https://shelterpoint.ca/wp-content/uploads/Shelter-Point_product-sheet_montfort-151.pdf",
+          "role": "Primary later-lot documentation for 100% unmalted barley, 46% ABV and natural presentation."
+        },
+        {
+          "title": "Dramface — Montfort Lot 141 and Lot 151",
+          "url": "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151",
+          "role": "Four substantive independent tastings and explicit production-change caution."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Shelter Point Classic Single Malt",
+          "url": "shelter-point-classic-single-malt.html",
+          "reason": "The malted-barley core release shows how Montfort’s unmalted barley changes texture and fruit character."
+        },
+        {
+          "name": "Shelter Point Ripple Rock — Batch 2",
+          "url": "shelter-point-ripple-rock-batch-2.html",
+          "reason": "A single-malt contrast using a more assertive active-oak programme."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat is the best way to compare the dense Lot 141 style with the brighter Lot 151 character."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A few drops of water are preferable to heavy ice if the oak or pepper feels prominent."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "The bright fruit and grain profile can support a dry, lightly carbonated highball."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a very restrained sweetener to avoid masking the unusual unmalted-barley profile."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A lighter vermouth and modest pour are safer than a rich, sweet build."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "shelter-point-ripple-rock-batch-2",
+    "filename": "shelter-point-ripple-rock-batch-2.html",
+    "name": "Shelter Point Ripple Rock — Batch 2",
+    "family": "Shelter Point",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Shelter Point Distillery, Campbell River, Vancouver Island",
+    "proof": 93,
+    "abv": 46.5,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% malted barley",
+    "mash_bill_confidence": "Exact Batch 2 review and producer lineage support single-malt identity; no undisclosed grain proportions are inferred.",
+    "quality": 6.2,
+    "quality_score": 6.2,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-20",
+      "limitations": "Published sensory judgments are attributed rather than treated as first-person Old Oak tasting. Native Canadian single-malt/single-grain 1/5/10 endpoints remain incomplete, so the universal execution rubric is used within the Canadian category while batch and production-era limits stay explicit.",
+      "universal_dimensions": {
+        "integration": 6.3,
+        "flavor_development": 6.4,
+        "finish": 5.8,
+        "technical_cleanliness": 6.4,
+        "texture": 5.9,
+        "maturity_wood_management": 6.2,
+        "distinctiveness": 6.4
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.215,
+      "editorial_adjustment": -0.015,
+      "adjustment_reason": "The exact Batch 2 account describes high-quality distillate and harmonious cask work with strong baking-spice, nut and sweet-wine flavor. Slight thinness and a short finish cap an otherwise good, distinctive result."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The exact Batch 2 account describes high-quality distillate and harmonious cask work with strong baking-spice, nut and sweet-wine flavor. Slight thinness and a short finish cap an otherwise good, distinctive result.",
+    "quality_confidence": "Low-medium; one long-form exact-batch tasting with clear identity details, supported by producer lineage but without a second independent Batch 2 review.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: Quality is supportable, but an exact dated U.S. 750 mL retail reference for Batch 2 was not authenticated.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No exact dated U.S. 750 mL retail offer was authenticated for this exact expression as of October 20, 2026; Canadian prices are retained only as context and are not converted into Value.",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-20",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC listing for this exact expression.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2021,
+    "release_scope": "Shelter Point Ripple Rock Batch 2, 46.5% ABV / 93 proof, NAS; kept distinct from the later/current 46% Ripple Rock vatting.",
+    "availability_note": "A current generic Ripple Rock U.S. offer is not treated as Batch 2 pricing; Canadian Batch 2 context is not converted into Value.",
+    "research_date": "2026-10-20",
+    "score_date": "2026-10-20",
+    "review_sources": [
+      "https://www.reddit.com/r/whiskey/comments/v6p1as"
+    ],
+    "review_publishers": [
+      "Reddit r/whiskey"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Independent r/whiskey reviewer",
+        "publisher": "Reddit r/whiskey",
+        "url": "https://www.reddit.com/r/whiskey/comments/v6p1as",
+        "summary": "Finds banana bread, vanilla, cinnamon-butter and nuts on the nose; sweet wine-like fruit and baking spice on a somewhat thin palate; and a grapey, brown-sugar, toffee and vanilla finish that is flavorful but not long. The conclusion is a solid whisky with high-quality distillate and harmonious cask work.",
+        "scope": "Exact Ripple Rock Batch 2, 46.5% ABV, NAS, reviewed June 2022."
+      }
+    ],
+    "source_urls": [
+      "https://shelterpoint.ca/",
+      "https://www.reddit.com/r/whiskey/comments/v6p1as"
+    ],
+    "production_summary": "The exact Batch 2 independent record identifies 46.5% ABV, NAS, non-chill filtration and no added colour, with ex-bourbon, alligator-charred virgin American oak and a French-oak finishing component. The current producer confirms Ripple Rock’s single-malt, pot-stilled lineage but is not used to overwrite Batch 2 details.",
+    "finishing_information": "Batch 2 is documented as ex-bourbon plus alligator-charred virgin American oak, with a French-oak finishing component in the exact independent review.",
+    "identity_note": null,
+    "history": [
+      "Ripple Rock is named for the 1958 explosion that removed the Vancouver Island navigation hazard of the same name.",
+      "Batch 2 is a distinct 46.5% release. The current producer describes later Ripple Rock at a different strength and a simpler bourbon/virgin-oak vatting, so the current core bottle is not substituted for this batch."
+    ],
+    "comparables": [
+      {
+        "name": "Shelter Point Classic Single Malt",
+        "url": "shelter-point-classic-single-malt.html",
+        "reason": "The cleaner core malt offers a less active-oak comparison."
+      },
+      {
+        "name": "Shelter Point Smoke Point Single Malt",
+        "url": "shelter-point-smoke-point-single-malt.html",
+        "reason": "Another distinctive Shelter Point malt, but with smoke introduced through treated barrels."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Drink neat first; the sweet-wine and baking-spice profile is the reason to choose this specific batch."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "Use minimal ice because the published tasting already finds the palate slightly thin."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short highball can emphasize vanilla and spice, but it sacrifices batch-specific texture."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep added sugar very low; Batch 2 is already notably sweet."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A drier vermouth is the safer match for the wine-like sweetness."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Shelter Point Ripple Rock Batch 2, 46.5% ABV / 93 proof, NAS; kept distinct from the later/current 46% Ripple Rock vatting.",
+    "image_limitation": "No exact Batch 2 image bytes were authenticated for safe self-contained embedding; no later Ripple Rock bottle is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-035",
+    "editorial": {
+      "id": "shelter-point-ripple-rock-batch-2",
+      "identity": "Shelter Point Ripple Rock Batch 2, 46.5% ABV / 93 proof, NAS; kept distinct from the later/current 46% Ripple Rock vatting.",
+      "short_version": "A sweet, baking-spice-driven Batch 2 with banana bread, vanilla, nuts and wine-like fruit. The distillate and casks work together, though the palate is a little thin and the finish shorter than the flavor intensity suggests.",
+      "producer": "Shelter Point Distillery, Campbell River, Vancouver Island",
+      "category": "Canadian Single Malt",
+      "proof": 93,
+      "age": null,
+      "age_display": "NAS",
+      "release_year": 2021,
+      "grain": "100% malted barley",
+      "grain_confidence": "Exact Batch 2 review and producer lineage support single-malt identity; no undisclosed grain proportions are inferred.",
+      "finish": "Batch 2 is documented as ex-bourbon plus alligator-charred virgin American oak, with a French-oak finishing component in the exact independent review.",
+      "production": "The exact Batch 2 independent record identifies 46.5% ABV, NAS, non-chill filtration and no added colour, with ex-bourbon, alligator-charred virgin American oak and a French-oak finishing component. The current producer confirms Ripple Rock’s single-malt, pot-stilled lineage but is not used to overwrite Batch 2 details.",
+      "history": [
+        "Ripple Rock is named for the 1958 explosion that removed the Vancouver Island navigation hazard of the same name.",
+        "Batch 2 is a distinct 46.5% release. The current producer describes later Ripple Rock at a different strength and a simpler bourbon/virgin-oak vatting, so the current core bottle is not substituted for this batch."
+      ],
+      "quality": 6.2,
+      "dimensions": [
+        6.3,
+        6.4,
+        5.8,
+        6.4,
+        5.9,
+        6.2,
+        6.4
+      ],
+      "quality_rationale": "The exact Batch 2 account describes high-quality distillate and harmonious cask work with strong baking-spice, nut and sweet-wine flavor. Slight thinness and a short finish cap an otherwise good, distinctive result.",
+      "quality_confidence": "Low-medium; one long-form exact-batch tasting with clear identity details, supported by producer lineage but without a second independent Batch 2 review.",
+      "evidence_limit": "Published sensory judgments are attributed rather than treated as first-person Old Oak tasting. Native Canadian single-malt/single-grain 1/5/10 endpoints remain incomplete, so the universal execution rubric is used within the Canadian category while batch and production-era limits stay explicit.",
+      "value": null,
+      "value_rationale": "N/A: Quality is supportable, but an exact dated U.S. 750 mL retail reference for Batch 2 was not authenticated.",
+      "pricing": {
+        "currency": "USD",
+        "size_ml": 750,
+        "basis": "No exact dated U.S. 750 mL retail offer was authenticated for this exact expression as of October 20, 2026; Canadian prices are retained only as context and are not converted into Value.",
+        "nc_status": "No authenticated current NC ABC listing for this exact expression."
+      },
+      "availability": "A current generic Ripple Rock U.S. offer is not treated as Batch 2 pricing; Canadian Batch 2 context is not converted into Value.",
+      "image_limitation": "No exact Batch 2 image bytes were authenticated for safe self-contained embedding; no later Ripple Rock bottle is substituted.",
+      "reviews": [
+        {
+          "reviewer": "Independent r/whiskey reviewer",
+          "publisher": "Reddit r/whiskey",
+          "url": "https://www.reddit.com/r/whiskey/comments/v6p1as",
+          "summary": "Finds banana bread, vanilla, cinnamon-butter and nuts on the nose; sweet wine-like fruit and baking spice on a somewhat thin palate; and a grapey, brown-sugar, toffee and vanilla finish that is flavorful but not long. The conclusion is a solid whisky with high-quality distillate and harmonious cask work.",
+          "scope": "Exact Ripple Rock Batch 2, 46.5% ABV, NAS, reviewed June 2022."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Shelter Point — Ripple Rock current lineage",
+          "url": "https://shelterpoint.ca/",
+          "role": "Primary producer source for single-malt identity, pot distillation and bourbon/alligator-char American-oak lineage; current strength is not substituted for Batch 2."
+        },
+        {
+          "title": "Exact Batch 2 independent review",
+          "url": "https://www.reddit.com/r/whiskey/comments/v6p1as",
+          "role": "Exact Batch 2 proof, cask/finish description, natural-presentation details and substantive tasting."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Shelter Point Classic Single Malt",
+          "url": "shelter-point-classic-single-malt.html",
+          "reason": "The cleaner core malt offers a less active-oak comparison."
+        },
+        {
+          "name": "Shelter Point Smoke Point Single Malt",
+          "url": "shelter-point-smoke-point-single-malt.html",
+          "reason": "Another distinctive Shelter Point malt, but with smoke introduced through treated barrels."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Drink neat first; the sweet-wine and baking-spice profile is the reason to choose this specific batch."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "Use minimal ice because the published tasting already finds the palate slightly thin."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short highball can emphasize vanilla and spice, but it sacrifices batch-specific texture."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep added sugar very low; Batch 2 is already notably sweet."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A drier vermouth is the safer match for the wine-like sweetness."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "shelter-point-smoke-point-single-malt",
+    "filename": "shelter-point-smoke-point-single-malt.html",
+    "name": "Shelter Point Smoke Point Single Malt",
+    "family": "Shelter Point",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Shelter Point Distillery, Campbell River, Vancouver Island",
+    "proof": 106,
+    "abv": 53.0,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "100% malted barley; smoke is introduced through barrel treatment rather than peated malt in the current Smoke Point method",
+    "mash_bill_confidence": "Current single-malt identity and exact Batch 3 review support malted barley; no peated-malt claim is inferred.",
+    "quality": 7.1,
+    "quality_score": 7.1,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-20",
+      "limitations": "Published sensory judgments are attributed rather than treated as first-person Old Oak tasting. Native Canadian single-malt/single-grain 1/5/10 endpoints remain incomplete, so the universal execution rubric is used within the Canadian category while batch and production-era limits stay explicit.",
+      "universal_dimensions": {
+        "integration": 7.1,
+        "flavor_development": 7.2,
+        "finish": 7,
+        "technical_cleanliness": 7.1,
+        "texture": 7.3,
+        "maturity_wood_management": 6.9,
+        "distinctiveness": 7.4
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.12,
+      "editorial_adjustment": -0.02,
+      "adjustment_reason": "Two independent 53% single-malt accounts support very-good execution: dense texture, integrated smoke, sweet malt, saline and tobacco-like complexity, and a persistent finish. Its distinctiveness is a strength without treating smoke intensity itself as quality."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Two independent 53% single-malt accounts support very-good execution: dense texture, integrated smoke, sweet malt, saline and tobacco-like complexity, and a persistent finish. Its distinctiveness is a strength without treating smoke intensity itself as quality.",
+    "quality_confidence": "Medium; a detailed exact Batch 3 review plus a separate 53% Whisky Magazine tasting, with current producer language matching the same locally smoked-barrel method.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: Quality is supportable, but an exact dated U.S. 750 mL retail reference for this expression was not authenticated.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No exact dated U.S. 750 mL retail offer was authenticated for this exact expression as of October 20, 2026; Canadian prices are retained only as context and are not converted into Value.",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-20",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC listing for this exact expression.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Shelter Point Smoke Point Single Malt in the current locally smoked-barrel regime, represented by Batch 3 at 53% ABV / 106 proof; older ex-Islay-cask Smoke Point and Smoke and Oak bottles are excluded.",
+    "availability_note": "SAQ confirms exact 53% identity and Canadian availability; the CAD price is not converted into U.S. Value.",
+    "research_date": "2026-10-20",
+    "score_date": "2026-10-20",
+    "review_sources": [
+      "https://www.dramface.com/all-reviews/shelter-point-smoke-point-ripple-rock",
+      "https://whiskymag.com/tastings/shelter-point-smoke-point/"
+    ],
+    "review_publishers": [
+      "Dramface",
+      "Whisky Magazine"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Broddy Balfour",
+        "publisher": "Dramface",
+        "url": "https://www.dramface.com/all-reviews/shelter-point-smoke-point-ripple-rock",
+        "summary": "Batch 3 is dense, thick and sticky, combining salted caramel, iodine, graham cracker, vanilla, pipe-tobacco and wet-wood smoke with a salty fruit-backed finish. The review finds the smoked-barrel method more integrated than the earlier ex-Islay approach.",
+        "scope": "Exact Smoke Point Batch 3, 53% ABV, current driftwood/native-wood smoked-barrel method."
+      },
+      {
+        "reviewer": "Whisky Magazine tasting panel",
+        "publisher": "Whisky Magazine",
+        "url": "https://whiskymag.com/tastings/shelter-point-smoke-point/",
+        "summary": "The 53% single malt shows apple, cracker, coconut, lemon, honey and fresh wood on the nose, then restrained sweet smoke with roasted fruit, jam, herbs and a long ginger-tea finish; the tasting calls it nicely put together.",
+        "scope": "Smoke Point Single Malt, 53% ABV, NAS; batch number not stated."
+      }
+    ],
+    "source_urls": [
+      "https://shelterpoint.ca/",
+      "https://www.dramface.com/all-reviews/shelter-point-smoke-point-ripple-rock",
+      "https://whiskymag.com/tastings/shelter-point-smoke-point/",
+      "https://www.saq.com/en/15321974"
+    ],
+    "production_summary": "The current producer identifies single malt matured in barrels smoked with local driftwood and native woods. Dramface’s exact Batch 3 review records 53% ABV and distinguishes it from the discontinued ex-Islay-cask regime; the SAQ independently lists Smoke Point Single Malt at 53%. No peat-malted-barley claim is made.",
+    "finishing_information": "Current Smoke Point / Batch 3 uses barrels smoked with Vancouver Island driftwood and native woods; it is distinct from the discontinued ex-Islay-cask Smoke and Oak / earlier Smoke Point regime.",
+    "identity_note": null,
+    "history": [
+      "Shelter Point previously used ex-Islay casks for smoky releases. Independent review evidence explicitly says that line was discontinued before the locally smoked-barrel Smoke Point method.",
+      "The current producer describes a proprietary vatting aged in barrels smoked with shoreline driftwood and native woods, preserving the island-smoke identity documented in Batch 3."
+    ],
+    "comparables": [
+      {
+        "name": "Shelter Point Classic Single Malt",
+        "url": "shelter-point-classic-single-malt.html",
+        "reason": "The un-smoked core malt isolates the effect of Smoke Point’s barrel treatment."
+      },
+      {
+        "name": "Shelter Point Ripple Rock — Batch 2",
+        "url": "shelter-point-ripple-rock-batch-2.html",
+        "reason": "Another active-cask Shelter Point malt, emphasizing char and sweet oak rather than smoke."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat is the priority; the dense texture and integrated smoke are the expression’s main strengths."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A small cube can tame 53% ABV, but avoid over-diluting the long smoky finish."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A short soda highball will brighten salt and smoke while keeping the whisky recognizable."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained sugar and aromatic bitters so the barrel smoke stays central."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A drier, herbal vermouth can work with tobacco and smoke; keep the vermouth portion modest."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Shelter Point Smoke Point Single Malt in the current locally smoked-barrel regime, represented by Batch 3 at 53% ABV / 106 proof; older ex-Islay-cask Smoke Point and Smoke and Oak bottles are excluded.",
+    "image_limitation": "No exact current locally smoked-barrel image bytes were authenticated for safe self-contained embedding; no older ex-Islay Shelter Point bottle is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-035",
+    "editorial": {
+      "id": "shelter-point-smoke-point-single-malt",
+      "identity": "Shelter Point Smoke Point Single Malt in the current locally smoked-barrel regime, represented by Batch 3 at 53% ABV / 106 proof; older ex-Islay-cask Smoke Point and Smoke and Oak bottles are excluded.",
+      "short_version": "A genuinely distinctive smoky malt: salted caramel, iodine, graham cracker, tobacco and wood smoke over a dense sweet texture. The smoke comes from treated barrels, not peated malt, and independent reviews find the result integrated rather than gimmicky.",
+      "producer": "Shelter Point Distillery, Campbell River, Vancouver Island",
+      "category": "Canadian Single Malt",
+      "proof": 106,
+      "age": null,
+      "age_display": "NAS",
+      "grain": "100% malted barley; smoke is introduced through barrel treatment rather than peated malt in the current Smoke Point method",
+      "grain_confidence": "Current single-malt identity and exact Batch 3 review support malted barley; no peated-malt claim is inferred.",
+      "finish": "Current Smoke Point / Batch 3 uses barrels smoked with Vancouver Island driftwood and native woods; it is distinct from the discontinued ex-Islay-cask Smoke and Oak / earlier Smoke Point regime.",
+      "production": "The current producer identifies single malt matured in barrels smoked with local driftwood and native woods. Dramface’s exact Batch 3 review records 53% ABV and distinguishes it from the discontinued ex-Islay-cask regime; the SAQ independently lists Smoke Point Single Malt at 53%. No peat-malted-barley claim is made.",
+      "history": [
+        "Shelter Point previously used ex-Islay casks for smoky releases. Independent review evidence explicitly says that line was discontinued before the locally smoked-barrel Smoke Point method.",
+        "The current producer describes a proprietary vatting aged in barrels smoked with shoreline driftwood and native woods, preserving the island-smoke identity documented in Batch 3."
+      ],
+      "quality": 7.1,
+      "dimensions": [
+        7.1,
+        7.2,
+        7,
+        7.1,
+        7.3,
+        6.9,
+        7.4
+      ],
+      "quality_rationale": "Two independent 53% single-malt accounts support very-good execution: dense texture, integrated smoke, sweet malt, saline and tobacco-like complexity, and a persistent finish. Its distinctiveness is a strength without treating smoke intensity itself as quality.",
+      "quality_confidence": "Medium; a detailed exact Batch 3 review plus a separate 53% Whisky Magazine tasting, with current producer language matching the same locally smoked-barrel method.",
+      "evidence_limit": "Published sensory judgments are attributed rather than treated as first-person Old Oak tasting. Native Canadian single-malt/single-grain 1/5/10 endpoints remain incomplete, so the universal execution rubric is used within the Canadian category while batch and production-era limits stay explicit.",
+      "value": null,
+      "value_rationale": "N/A: Quality is supportable, but an exact dated U.S. 750 mL retail reference for this expression was not authenticated.",
+      "pricing": {
+        "currency": "USD",
+        "size_ml": 750,
+        "basis": "No exact dated U.S. 750 mL retail offer was authenticated for this exact expression as of October 20, 2026; Canadian prices are retained only as context and are not converted into Value.",
+        "nc_status": "No authenticated current NC ABC listing for this exact expression."
+      },
+      "availability": "SAQ confirms exact 53% identity and Canadian availability; the CAD price is not converted into U.S. Value.",
+      "image_limitation": "No exact current locally smoked-barrel image bytes were authenticated for safe self-contained embedding; no older ex-Islay Shelter Point bottle is substituted.",
+      "reviews": [
+        {
+          "reviewer": "Broddy Balfour",
+          "publisher": "Dramface",
+          "url": "https://www.dramface.com/all-reviews/shelter-point-smoke-point-ripple-rock",
+          "summary": "Batch 3 is dense, thick and sticky, combining salted caramel, iodine, graham cracker, vanilla, pipe-tobacco and wet-wood smoke with a salty fruit-backed finish. The review finds the smoked-barrel method more integrated than the earlier ex-Islay approach.",
+          "scope": "Exact Smoke Point Batch 3, 53% ABV, current driftwood/native-wood smoked-barrel method."
+        },
+        {
+          "reviewer": "Whisky Magazine tasting panel",
+          "publisher": "Whisky Magazine",
+          "url": "https://whiskymag.com/tastings/shelter-point-smoke-point/",
+          "summary": "The 53% single malt shows apple, cracker, coconut, lemon, honey and fresh wood on the nose, then restrained sweet smoke with roasted fruit, jam, herbs and a long ginger-tea finish; the tasting calls it nicely put together.",
+          "scope": "Smoke Point Single Malt, 53% ABV, NAS; batch number not stated."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Shelter Point — Smoke Point current producer description",
+          "url": "https://shelterpoint.ca/",
+          "role": "Primary current source for the proprietary locally smoked-barrel method and its single-malt identity."
+        },
+        {
+          "title": "Dramface — Smoke Point Batch 3",
+          "url": "https://www.dramface.com/all-reviews/shelter-point-smoke-point-ripple-rock",
+          "role": "Exact Batch 3 53% identity, regime-change explanation and substantive independent tasting."
+        },
+        {
+          "title": "Whisky Magazine — Smoke Point",
+          "url": "https://whiskymag.com/tastings/shelter-point-smoke-point/",
+          "role": "Second independent 53% single-malt tasting."
+        },
+        {
+          "title": "SAQ — Smoke Point Single Malt",
+          "url": "https://www.saq.com/en/15321974",
+          "role": "Control-board confirmation of 750 mL, 53% ABV and Shelter Point producer identity; CAD price is not used for U.S. Value."
+        }
+      ],
+      "comparables": [
+        {
+          "name": "Shelter Point Classic Single Malt",
+          "url": "shelter-point-classic-single-malt.html",
+          "reason": "The un-smoked core malt isolates the effect of Smoke Point’s barrel treatment."
+        },
+        {
+          "name": "Shelter Point Ripple Rock — Batch 2",
+          "url": "shelter-point-ripple-rock-batch-2.html",
+          "reason": "Another active-cask Shelter Point malt, emphasizing char and sweet oak rather than smoke."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible U.S. buy band is published because an exact dated U.S. 750 mL offer was not authenticated. Canadian shelf prices are not currency-converted into project Value.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat is the priority; the dense texture and integrated smoke are the expression’s main strengths."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A small cube can tame 53% ABV, but avoid over-diluting the long smoky finish."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A short soda highball will brighten salt and smoke while keeping the whisky recognizable."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained sugar and aromatic bitters so the barrel smoke stays central."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A drier, herbal vermouth can work with tobacco and smoke; keep the vermouth portion modest."
+        }
+      ]
+    }
   }
 ]

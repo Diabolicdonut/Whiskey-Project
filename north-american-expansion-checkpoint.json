@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 34,
+  "checkpoint": 35,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -1049,11 +1049,15 @@
     "seagram-s-five-star.html",
     "seagram-s-vo.html",
     "seagram-s-vo-gold.html",
-    "seagram-s-vo-1974-tax-stamp.html"
+    "seagram-s-vo-1974-tax-stamp.html",
+    "shelter-point-classic-single-malt.html",
+    "shelter-point-montfort-single-grain.html",
+    "shelter-point-ripple-rock-batch-2.html",
+    "shelter-point-smoke-point-single-malt.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 181,
-  "dossier_count": 1034,
+  "canadian_added": 185,
+  "dossier_count": 1038,
   "history": [
     {
       "checkpoint": 1,
@@ -2275,9 +2279,41 @@
         "Historical VO photograph visibly verifies one litre, six years, 43.4% / 86.8 proof and 1974 stamp; page machine ABV minus one rejected. Approximately 1980 bottling remains reviewer inference, not certified date. Exact independent buttery/long-finish sample supports provisional Quality 8.0 only for this historical identity. Unspecified-currency auction comment does not support USD Value. Current VO and Gold cannot inherit this sample’s score.",
         "All 825 original dossier hashes/index rows and completed image/final controllers preserved. All 203 prior expansion dossiers/data, 1,028 prior raw index rows and 238 immutable candidate id/order pairs preserved. One new comparable link repaired to the existing canadian-club-1858-original.html filename. Categorical normalization deferred until zero pending entries."
       ]
+    },
+    {
+      "checkpoint": 35,
+      "files": [
+        "shelter-point-classic-single-malt.html",
+        "shelter-point-montfort-single-grain.html",
+        "shelter-point-ripple-rock-batch-2.html",
+        "shelter-point-smoke-point-single-malt.html"
+      ],
+      "parent_commit": "2c4d8781c119838678818cf7b1e7649c7920f338",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 10687,
+        "functional_cases_passed": 477,
+        "responsive_pages_rendered": 642,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 191,
+        "failures": 0
+      },
+      "additional_preservation": "All 209 earlier expansion dossiers/data and 1,034 prior index rows preserved; all 238 immutable candidate id/order pairs unchanged. Original 825 dossier hashes and index rows verified by the checkpoint validator.",
+      "identity_resolutions": [
+        "Candidates 220–223 processed in exact deterministic order; no Stalk & Barrel work included.",
+        "Classic verified as NAS / 46% core single malt and kept distinct from the 7 Year; provisional Quality 6.2, Value N/A.",
+        "Montfort corrected to Canadian Single Grain: reviewed Lot 141 and 151 are 46% field-to-flask whiskies from 100% unmalted barley; production-regime changes retained; provisional Quality 5.8, Value N/A.",
+        "Ripple Rock Batch 2 corrected to 46.5% / 93 proof and kept distinct from later/current Ripple Rock; exact Batch 2 cask/finish evidence retained; provisional Quality 6.2, Value N/A.",
+        "Smoke Point current locally smoked-barrel regime represented by Batch 3 at 53% / 106 proof; discontinued ex-Islay-cask releases and peated-malt assumptions excluded; provisional Quality 7.1, Value N/A.",
+        "No exact-expression image bytes were authenticated, so no related Shelter Point bottle was substituted. No standalone image assets were added."
+      ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: shelter-point-classic-single-malt",
+  "next_action": "Research next pending expression in deterministic order: stalk-barrel-100-rye-46",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -2285,22 +2321,22 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 34,
+      "checkpoint": 35,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 1034,
-      "new_dossiers": 209,
-      "html_files_structurally_checked": 210,
+      "dossiers": 1038,
+      "new_dossiers": 213,
+      "html_files_structurally_checked": 214,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 10551,
-      "local_references_checked": 2929,
+      "checks": 10687,
+      "local_references_checked": 2969,
       "embedded_image_occurrences_decoded": 191,
       "unique_image_payloads_decoded": 191,
       "image_dossiers_added": 191,
       "numeric_counts": {
-        "quality": 193,
+        "quality": 197,
         "value": 110,
         "overall": 110
       },
@@ -2308,19 +2344,1934 @@
       "failures": []
     },
     "runtime": {
-      "status": "passed",
-      "browser": "Chromium",
+      "schema": "old-oak-runtime-validation-v1",
+      "functional_cases": [
+        {
+          "case": "1038 unique dossier rows and dossier targets",
+          "status": "passed"
+        },
+        {
+          "case": "Old Oak title and application metadata",
+          "status": "passed"
+        },
+        {
+          "case": "Sort name descending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort name ascending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort category ascending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort category descending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort mash ascending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort mash descending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort proof ascending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort proof descending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort cost ascending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort cost descending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort age ascending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort age descending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort quality descending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort quality ascending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort value descending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort value ascending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort overall descending",
+          "status": "passed"
+        },
+        {
+          "case": "Sort overall ascending",
+          "status": "passed"
+        },
+        {
+          "case": "OGD alias returns the canonical and named 114 single-barrel expressions",
+          "status": "passed"
+        },
+        {
+          "case": "Canonical Quality Value Overall displays",
+          "status": "passed"
+        },
+        {
+          "case": "Empty state visible and zero rows",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category American single malt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category American single malt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category American whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category American whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category American whiskey blend",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category American whiskey blend",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Bourbon",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Bourbon",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian rye",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian rye",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian single malt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian single malt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Corn whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Corn whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Flavored whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Flavored whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Light whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Light whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Malt whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Malt whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Rye",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Rye",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Tennessee whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Tennessee whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Wheat whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Wheat whiskey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Whiskey blend",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Whiskey blend",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Whiskey · type unconfirmed",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Whiskey · type unconfirmed",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Blended Whisky",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Blended Whisky",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Rye Whisky / Rye-forward",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Rye Whisky / Rye-forward",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Single Grain / 100% Rye",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Single Grain / 100% Rye",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Single Grain",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Single Grain",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Rye Whisky",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Rye Whisky",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Single Malt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Single Malt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Barton1792",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Barton1792",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Barton1792",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Bowman",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Bowman",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Bowman",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family AncientAge",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family AncientAge",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family AncientAge",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family AngelsEnvy",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family AngelsEnvy",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family AngelsEnvy",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Bakers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Bakers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Bakers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Balcones",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Balcones",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Balcones",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family BardstownBourbonCompany",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family BardstownBourbonCompany",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family BardstownBourbonCompany",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Barrell",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Barrell",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Barrell",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family BasilHayden",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family BasilHayden",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family BasilHayden",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family BelleMeade",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family BelleMeade",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family BelleMeade",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Benchmark",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Benchmark",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Benchmark",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Bernheim",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Bernheim",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Bernheim",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Blantons",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Blantons",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Blantons",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family BlaumBros",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family BlaumBros",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family BlaumBros",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Bombergers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Bombergers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Bombergers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Bookers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Bookers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Bookers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family BuffaloTraceBrand",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family BuffaloTraceBrand",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family BuffaloTraceBrand",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family BuffaloTraceCollections",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family BuffaloTraceCollections",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family BuffaloTraceCollections",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family BuffaloTrace",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family BuffaloTrace",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family BuffaloTrace",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Bulleit",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Bulleit",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Bulleit",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family CabinStill",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CabinStill",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CabinStill",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Calumet",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Calumet",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Calumet",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family CastleKey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CastleKey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CastleKey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Chattanooga",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Chattanooga",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Chattanooga",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Cleveland",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Cleveland",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Cleveland",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family EHTaylor",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family EHTaylor",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family EHTaylor",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family EagleRare",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family EagleRare",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family EagleRare",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family ElijahCraig",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family ElijahCraig",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family ElijahCraig",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family ElmerTLee",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family ElmerTLee",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family ElmerTLee",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family EvanWilliams",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family EvanWilliams",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family EvanWilliams",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family EzraBrooks",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family EzraBrooks",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family EzraBrooks",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family FourRoses",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family FourRoses",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family FourRoses",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family FreyRanch",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family FreyRanch",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family FreyRanch",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GarrisonBrothers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GarrisonBrothers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GarrisonBrothers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GeorgeDickel",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GeorgeDickel",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GeorgeDickel",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GeorgeTStagg",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GeorgeTStagg",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GeorgeTStagg",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GraySkies",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GraySkies",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GraySkies",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GreenRiver",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GreenRiver",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GreenRiver",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family HardinsCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family HardinsCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family HardinsCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family HeavenHill",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family HeavenHill",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family HeavenHill",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family HenryMcKenna",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family HenryMcKenna",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family HenryMcKenna",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family HighWest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family HighWest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family HighWest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Hudson",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Hudson",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Hudson",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family JackDaniels",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family JackDaniels",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family JackDaniels",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Jeffersons",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Jeffersons",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Jeffersons",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Jeptha",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Jeptha",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Jeptha",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family JimBeam",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family JimBeam",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family JimBeam",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family JosephMagnus",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family JosephMagnus",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family JosephMagnus",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family KentuckyOwl",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family KentuckyOwl",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family KentuckyOwl",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Kings",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Kings",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Kings",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family KnobCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family KnobCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family KnobCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Larceny",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Larceny",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Larceny",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Laws",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Laws",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Laws",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family LittleBook",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family LittleBook",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family LittleBook",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Makers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Makers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Makers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family McCarthys",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family McCarthys",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family McCarthys",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family MellowCorn",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family MellowCorn",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family MellowCorn",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Michters",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Michters",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Michters",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family NelsonBrothers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family NelsonBrothers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family NelsonBrothers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family NelsonsGreenBrier",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family NelsonsGreenBrier",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family NelsonsGreenBrier",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family NewRiff",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family NewRiff",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family NewRiff",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family OldCharter",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family OldCharter",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family OldCharter",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family OldElk",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family OldElk",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family OldElk",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family OldEzra",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family OldEzra",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family OldEzra",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family OldForester",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family OldForester",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family OldForester",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family OldGrandDad",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family OldGrandDad",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family OldGrandDad",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family OldOverholt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family OldOverholt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family OldOverholt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Peerless",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Peerless",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Peerless",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Penelope",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Penelope",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Penelope",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Pikesville",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Pikesville",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Pikesville",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Prichards",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Prichards",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Prichards",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family ProhibitionCollection",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family ProhibitionCollection",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family ProhibitionCollection",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family RabbitHole",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family RabbitHole",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family RabbitHole",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Redemption",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Redemption",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Redemption",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family RedwoodEmpire",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family RedwoodEmpire",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family RedwoodEmpire",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Rittenhouse",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Rittenhouse",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Rittenhouse",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family RockHillFarms",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family RockHillFarms",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family RockHillFarms",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family RussellsReserve",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family RussellsReserve",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family RussellsReserve",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family SagamoreSpirit",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family SagamoreSpirit",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family SagamoreSpirit",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Sazerac",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Sazerac",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Sazerac",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Shenks",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Shenks",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Shenks",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family SmokeWagon",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family SmokeWagon",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family SmokeWagon",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family StGeorge",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family StGeorge",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family StGeorge",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Stagg",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Stagg",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Stagg",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family StillAustin",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family StillAustin",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family StillAustin",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Stranahans",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Stranahans",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Stranahans",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Templeton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Templeton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Templeton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Traveller",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Traveller",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Traveller",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family UncleNearest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family UncleNearest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family UncleNearest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family VanWinkle",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family VanWinkle",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family VanWinkle",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family VeryOldBarton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family VeryOldBarton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family VeryOldBarton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family VirginiaDistillery",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family VirginiaDistillery",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family VirginiaDistillery",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Weller",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Weller",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Weller",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Westland",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Westland",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Westland",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Westward",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Westward",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Westward",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family WhistlePig",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family WhistlePig",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family WhistlePig",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family WidowJane",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family WidowJane",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family WidowJane",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family WildTurkey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family WildTurkey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family WildTurkey",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family WildernessTrail",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family WildernessTrail",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family WildernessTrail",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family WillettKBD",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family WillettKBD",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family WillettKBD",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Woodford",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Woodford",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Woodford",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Yellowstone",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Yellowstone",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Yellowstone",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family AlbertaDistillers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family AlbertaDistillers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family AlbertaDistillers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family AlbertaPremium",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family AlbertaPremium",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family AlbertaPremium",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Bearface",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Bearface",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Bearface",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family BlackVelvet",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family BlackVelvet",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family BlackVelvet",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family CanadianClub",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CanadianClub",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CanadianClub",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family CanadianMist",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CanadianMist",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CanadianMist",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family CaribouCrossing",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CaribouCrossing",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CaribouCrossing",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Collingwood",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Collingwood",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Collingwood",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family CrownRoyal",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CrownRoyal",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CrownRoyal",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family FortyCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family FortyCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family FortyCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GibsonsFinest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GibsonsFinest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GibsonsFinest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GlenBreton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GlenBreton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GlenBreton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GooderhamWorts",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GooderhamWorts",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GooderhamWorts",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family JPWisers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family JPWisers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family JPWisers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family LotNo40",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family LotNo40",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family LotNo40",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Pendleton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Pendleton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Pendleton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family PikeCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family PikeCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family PikeCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family RoyalCanadian",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family RoyalCanadian",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family RoyalCanadian",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Seagrams",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Seagrams",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Seagrams",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family ShelterPoint",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family ShelterPoint",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family ShelterPoint",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #basis all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #basis all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #basis nc",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #basis nc",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #basis alternate",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #basis alternate",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #period all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #period all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #period all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #period current",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #period current",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #period current",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #period historical",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #period historical",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #period historical",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #period sample",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #period sample",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #period sample",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #calibration all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #calibration all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #calibration all",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #calibration native_anchored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #calibration native_anchored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #calibration native_anchored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #calibration parent_anchored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #calibration parent_anchored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #calibration parent_anchored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #calibration universal_rubric",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #calibration universal_rubric",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #calibration universal_rubric",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #calibration evidence_limited_provisional",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #calibration evidence_limited_provisional",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #calibration evidence_limited_provisional",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #calibration unscored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #calibration unscored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #calibration unscored",
+          "status": "passed"
+        },
+        {
+          "case": "Family filter membership survives URL reload",
+          "status": "passed"
+        },
+        {
+          "case": "Combined family and alias query",
+          "status": "passed"
+        },
+        {
+          "case": "Dossier navigation reaches canonical title",
+          "status": "passed"
+        },
+        {
+          "case": "Canonical return navigation exists",
+          "status": "passed"
+        },
+        {
+          "case": "Browser back returns to family catalogue",
+          "status": "passed"
+        }
+      ],
+      "responsive_cases": 642,
+      "dossiers_rendered": 213,
+      "index_rendered": true,
+      "console_errors": [],
+      "page_errors": [],
+      "network_errors": [],
+      "failures": [],
+      "limitations": [
+        "Chromium headless validation against an HTTP server serving exact checked-out repository bytes; external editorial/source websites are outside this rendering test.",
+        "Representative viewport widths tested: 390, 768 and 1440 CSS pixels. No physical-device, Safari or Firefox run."
+      ],
       "browser_version": "141.0.7390.37",
-      "functional_cases_passed": 474,
-      "responsive_cases": 630,
-      "console_errors": 0,
-      "page_errors": 0,
-      "network_errors": 0,
-      "failures": 0
+      "status": "passed"
     }
   },
-  "updated_at": "2026-10-16",
-  "last_parent_commit": "aa6e0f2380726aad96529ab50ada01a6e2335ea0",
+  "updated_at": "2026-10-20",
+  "last_parent_commit": "2c4d8781c119838678818cf7b1e7649c7920f338",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",

@@ -2,7 +2,7 @@
   "schema": "old-oak-north-american-expression-ledger-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
   "created_date": "2026-10-14",
-  "updated_date": "2026-10-16",
+  "updated_date": "2026-10-20",
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
   "discovery_scope": "Producer catalogues, archived producer releases, specialist reviews, control-state listings, historical museum material and archival retail/auction identity records. This ledger is a defensible selection, not a count-maximizing catalogue of all bottle variants.",
   "ordering": "Widow Jane first, then Canadian family alphabetically, canonical expression alphabetically. Immutable deterministic_order for this discovery set; append later authenticated discoveries.",
@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 16,
-    "accepted": 209
+    "pending": 12,
+    "accepted": 213
   },
   "entries": [
     {
@@ -16411,16 +16411,16 @@
       "producer": "Shelter Point Distillery, Vancouver Island",
       "status": "current",
       "whisky_category": "Canadian Single Malt",
-      "proof": 92.0,
+      "proof": 92,
       "abv": 46.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% malted barley",
+      "age_information": "NAS",
+      "grain_information": "100% malted barley; current producer identifies a pot-distilled single malt and reviewed bottles use Canadian/BC barley",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Ex-bourbon and American oak",
+      "finishing_information": "Matured in select casks; the exact current vatting proportions are undisclosed, and older ex-bourbon/American-oak descriptions are not forced onto every current bottle.",
       "release_year_or_era": "Core range",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16432,13 +16432,41 @@
       ],
       "potential_image_source": "https://www.lcbo.com/en/shelter-point-classic-single-malt-46232",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Broddy Balfour",
+            "publisher": "Dramface",
+            "url": "https://www.dramface.com/all-reviews/2024/shelter-point-classic-single-malt-nas-7yo-duo",
+            "summary": "Finds honey, apple, graham cracker, barley and vanilla leading to a moderately thick palate with tannin, black pepper and toasted-grain character; the nose is somewhat light.",
+            "scope": "Exact Classic NAS, estimated early-2023 bottle, 46% ABV; the separately reviewed 7 Year is excluded from this score."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 220
+      "deterministic_order": 220,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image bytes were authenticated for safe self-contained embedding; no related Shelter Point bottle is substituted.",
+      "assessment_checkpoint": "NA-035",
+      "publication_sources": [
+        {
+          "title": "Shelter Point Distillery — current range and production",
+          "url": "https://shelterpoint.ca/",
+          "role": "Primary current producer source for Classic lineage, pot stills, select-cask maturation and double-distillation context."
+        },
+        {
+          "title": "LCBO — Shelter Point Classic Single Malt",
+          "url": "https://www.lcbo.com/en/shelter-point-classic-single-malt-46232",
+          "role": "Control-board identity for current 750 mL Classic at 46% ABV; CAD price is not converted into U.S. Value."
+        },
+        {
+          "title": "Dramface — Classic NAS vs 7 Year",
+          "url": "https://www.dramface.com/all-reviews/2024/shelter-point-classic-single-malt-nas-7yo-duo",
+          "role": "Independent exact-NAS tasting; the 7 Year is kept separate."
+        }
+      ]
     },
     {
       "id": "shelter-point-montfort-single-grain",
@@ -16447,17 +16475,17 @@
       "brand_family": "Shelter Point",
       "producer": "Shelter Point Distillery, Vancouver Island",
       "status": "historical",
-      "whisky_category": "Canadian Single Malt",
-      "proof": null,
-      "abv": null,
+      "whisky_category": "Canadian Single Grain",
+      "proof": 92,
+      "abv": 46.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Barley; exact malt status to verify",
+      "age_information": "NAS; lot-specific ages not stated on the reviewed bottles",
+      "grain_information": "100% unmalted barley in the reviewed Montfort Lot 141 and Lot 151 field-to-flask releases",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Oak; exact regime to verify",
+      "finishing_information": "American and French oak are documented for reviewed Montfort lots; no separate finishing interval is authenticated, and the oak programme varied by lot.",
       "release_year_or_era": "Craft range",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16469,13 +16497,48 @@
       ],
       "potential_image_source": "https://prtl.liquorconnect.com/Agents/Pages/3210-30218300.aspx",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Broddy Balfour",
+            "publisher": "Dramface",
+            "url": "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151",
+            "summary": "Lot 141 is dense and oily with vanilla, clove, hazelnut, berries and chocolate; Lot 151 is brighter and lighter with honey, vanilla, citrus and fruit, with a shorter peppery finish.",
+            "scope": "Montfort Lot 141 2018 batch and Lot 151, both 46%, 100% unmalted barley."
+          },
+          {
+            "reviewer": "Aengus",
+            "publisher": "Dramface",
+            "url": "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151",
+            "summary": "Lot 141 is fruity, woody and nutty with baking spice and a slight craft note; Lot 151 is fresh and fruit-led with apple juice and cinnamon. Both are agreeable rather than exciting.",
+            "scope": "Second independent taster on the authenticated Lot 141 and Lot 151 comparison."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 221
+      "deterministic_order": 221,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact-expression image bytes were authenticated for safe self-contained embedding; no related Shelter Point bottle is substituted.",
+      "assessment_checkpoint": "NA-035",
+      "publication_sources": [
+        {
+          "title": "Shelter Point — Montfort District Lot 141 producer sheet",
+          "url": "https://shelterpoint.ca/wp-content/uploads/ShelterPoint_Montfort-district-lot-141-19.pdf",
+          "role": "Primary lot documentation for field-to-flask identity, unmalted barley, 46% ABV and American/French oak context."
+        },
+        {
+          "title": "Shelter Point — Montfort 151 producer sheet",
+          "url": "https://shelterpoint.ca/wp-content/uploads/Shelter-Point_product-sheet_montfort-151.pdf",
+          "role": "Primary later-lot documentation for 100% unmalted barley, 46% ABV and natural presentation."
+        },
+        {
+          "title": "Dramface — Montfort Lot 141 and Lot 151",
+          "url": "https://www.dramface.com/all-reviews/2024/shelter-point-montfort-field-to-flask-141-151",
+          "role": "Four substantive independent tastings and explicit production-change caution."
+        }
+      ]
     },
     {
       "id": "shelter-point-ripple-rock-batch-2",
@@ -16485,16 +16548,16 @@
       "producer": "Shelter Point Distillery, Vancouver Island",
       "status": "batch",
       "whisky_category": "Canadian Single Malt",
-      "proof": 92.0,
-      "abv": 46.0,
+      "proof": 93,
+      "abv": 46.5,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
+      "age_information": "NAS",
       "grain_information": "100% malted barley",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Virgin alligator-char oak and bourbon barrels",
+      "finishing_information": "Batch 2 is documented as ex-bourbon plus alligator-charred virgin American oak, with a French-oak finishing component in the exact independent review.",
       "release_year_or_era": "2022 review scope",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16506,13 +16569,36 @@
       ],
       "potential_image_source": "https://www.reddit.com/r/whiskey/comments/v6p1as",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Independent r/whiskey reviewer",
+            "publisher": "Reddit r/whiskey",
+            "url": "https://www.reddit.com/r/whiskey/comments/v6p1as",
+            "summary": "Finds banana bread, vanilla, cinnamon-butter and nuts on the nose; sweet wine-like fruit and baking spice on a somewhat thin palate; and a grapey, brown-sugar, toffee and vanilla finish that is flavorful but not long. The conclusion is a solid whisky with high-quality distillate and harmonious cask work.",
+            "scope": "Exact Ripple Rock Batch 2, 46.5% ABV, NAS, reviewed June 2022."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 222
+      "deterministic_order": 222,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact Batch 2 image bytes were authenticated for safe self-contained embedding; no later Ripple Rock bottle is substituted.",
+      "assessment_checkpoint": "NA-035",
+      "publication_sources": [
+        {
+          "title": "Shelter Point — Ripple Rock current lineage",
+          "url": "https://shelterpoint.ca/",
+          "role": "Primary producer source for single-malt identity, pot distillation and bourbon/alligator-char American-oak lineage; current strength is not substituted for Batch 2."
+        },
+        {
+          "title": "Exact Batch 2 independent review",
+          "url": "https://www.reddit.com/r/whiskey/comments/v6p1as",
+          "role": "Exact Batch 2 proof, cask/finish description, natural-presentation details and substantive tasting."
+        }
+      ]
     },
     {
       "id": "shelter-point-smoke-point-single-malt",
@@ -16522,16 +16608,16 @@
       "producer": "Shelter Point Distillery, Vancouver Island",
       "status": "current",
       "whisky_category": "Canadian Single Malt",
-      "proof": null,
-      "abv": null,
+      "proof": 106,
+      "abv": 53.0,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% malted barley",
+      "age_information": "NAS",
+      "grain_information": "100% malted barley; smoke is introduced through barrel treatment rather than peated malt in the current Smoke Point method",
       "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Wood-smoked barrels; not assumed peat-malted",
+      "finishing_information": "Current Smoke Point / Batch 3 uses barrels smoked with Vancouver Island driftwood and native woods; it is distinct from the discontinued ex-Islay-cask Smoke and Oak / earlier Smoke Point regime.",
       "release_year_or_era": "Core range",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16543,13 +16629,53 @@
       ],
       "potential_image_source": "https://shelterpoint.ca/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Broddy Balfour",
+            "publisher": "Dramface",
+            "url": "https://www.dramface.com/all-reviews/shelter-point-smoke-point-ripple-rock",
+            "summary": "Batch 3 is dense, thick and sticky, combining salted caramel, iodine, graham cracker, vanilla, pipe-tobacco and wet-wood smoke with a salty fruit-backed finish. The review finds the smoked-barrel method more integrated than the earlier ex-Islay approach.",
+            "scope": "Exact Smoke Point Batch 3, 53% ABV, current driftwood/native-wood smoked-barrel method."
+          },
+          {
+            "reviewer": "Whisky Magazine tasting panel",
+            "publisher": "Whisky Magazine",
+            "url": "https://whiskymag.com/tastings/shelter-point-smoke-point/",
+            "summary": "The 53% single malt shows apple, cracker, coconut, lemon, honey and fresh wood on the nose, then restrained sweet smoke with roasted fruit, jam, herbs and a long ginger-tea finish; the tasting calls it nicely put together.",
+            "scope": "Smoke Point Single Malt, 53% ABV, NAS; batch number not stated."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 223
+      "deterministic_order": 223,
+      "exact_image_status": "unavailable",
+      "image_limitation": "No exact current locally smoked-barrel image bytes were authenticated for safe self-contained embedding; no older ex-Islay Shelter Point bottle is substituted.",
+      "assessment_checkpoint": "NA-035",
+      "publication_sources": [
+        {
+          "title": "Shelter Point — Smoke Point current producer description",
+          "url": "https://shelterpoint.ca/",
+          "role": "Primary current source for the proprietary locally smoked-barrel method and its single-malt identity."
+        },
+        {
+          "title": "Dramface — Smoke Point Batch 3",
+          "url": "https://www.dramface.com/all-reviews/shelter-point-smoke-point-ripple-rock",
+          "role": "Exact Batch 3 53% identity, regime-change explanation and substantive independent tasting."
+        },
+        {
+          "title": "Whisky Magazine — Smoke Point",
+          "url": "https://whiskymag.com/tastings/shelter-point-smoke-point/",
+          "role": "Second independent 53% single-malt tasting."
+        },
+        {
+          "title": "SAQ — Smoke Point Single Malt",
+          "url": "https://www.saq.com/en/15321974",
+          "role": "Control-board confirmation of 750 mL, 53% ABV and Shelter Point producer identity; CAD price is not used for U.S. Value."
+        }
+      ]
     },
     {
       "id": "stalk-barrel-100-rye-46",
