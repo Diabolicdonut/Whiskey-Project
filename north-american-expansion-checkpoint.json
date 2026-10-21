@@ -2352,7 +2352,7 @@
       ]
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: two-brewers-yukon-single-malt-release-22",
+  "next_action": "Publish the seven prepared NA-037 dossiers from research/na-037-authored.json using scripts/north_american_build.py; run full structural checks and three-viewport Chromium runtime; accept only after zero failures. Then normalize alphabetic category/family selectors. Never replay checkpoints 001–036.",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -4328,5 +4328,22 @@
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",
     "instruction_date": "2026-10-14"
+  },
+  "prepared_batch_037": {
+    "status": "authored_validated_not_published",
+    "source": "research/na-037-authored.json",
+    "source_research": "research/na-037-remaining-canadian-expressions.md",
+    "prepared_date": "2026-10-21",
+    "ids": [
+      "two-brewers-yukon-single-malt-release-22",
+      "two-brewers-yukon-single-malt-release-33",
+      "two-brewers-yukon-single-malt-release-35",
+      "windsor-canadian-original",
+      "windsor-canadian-reserve",
+      "alberta-premium-20-year-2019",
+      "alberta-springs-10-year"
+    ],
+    "inputs_validation": "passed",
+    "validation_report": "research/na-037-input-validation.json"
   }
 }
