@@ -2,7 +2,7 @@
   "schema": "old-oak-north-american-expression-ledger-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
   "created_date": "2026-10-14",
-  "updated_date": "2026-10-20",
+  "updated_date": "2026-10-21",
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
   "discovery_scope": "Producer catalogues, archived producer releases, specialist reviews, control-state listings, historical museum material and archival retail/auction identity records. This ledger is a defensible selection, not a count-maximizing catalogue of all bottle variants.",
   "ordering": "Widow Jane first, then Canadian family alphabetically, canonical expression alphabetically. Immutable deterministic_order for this discovery set; append later authenticated discoveries.",
@@ -11,8 +11,8 @@
     "candidates": 238,
     "baseline_preserved": 2,
     "excluded": 11,
-    "pending": 12,
-    "accepted": 213
+    "pending": 7,
+    "accepted": 218
   },
   "entries": [
     {
@@ -16685,16 +16685,16 @@
       "producer": "Still Waters Distillery, Ontario; sourced blends distinguished",
       "status": "historical",
       "whisky_category": "Canadian Single Grain / 100% Rye",
-      "proof": 92.0,
-      "abv": 46.0,
+      "proof": 92,
+      "abv": 46,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% rye",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "New oak",
+      "age_information": "NAS; reviewed 46% single-cask releases were at least 3 years old",
+      "grain_information": "100% locally grown Ontario rye",
+      "grain_confidence": "Producer-attributed and independently repeated for the 46% rye; no other grain is inferred.",
+      "finishing_information": "No separate finish documented; matured in ex-bourbon casks.",
       "release_year_or_era": "Craft range",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16706,13 +16706,48 @@
       ],
       "potential_image_source": "https://irp-cdn.multiscreensite.com/17fab611/files/uploaded/Summer%202019.pdf",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-rye/",
+            "summary": "Finds dusty grain, wood and rye spice, grassy tobacco and butterscotch, with enough complexity to be enjoyable but clear youthful roughness.",
+            "scope": "October 19, 2017; exact 46% sample, explicitly distinguished from cask strength."
+          },
+          {
+            "reviewer": "talexander",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/still-waters-stalk-and-barrel-rye-whisky-review-10950",
+            "summary": "Finds complex herbs, pepper, toasted rye and citrus, followed by substantial heat, drying oak and a chalky off-citrus finish; concludes it needs more cask time.",
+            "scope": "November 7, 2016; exact 46% version."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted_pending_validation",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 224
+      "deterministic_order": 224,
+      "exact_image_status": "unavailable",
+      "image_limitation": "Exact-expression bottle imagery was identified in matched review records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no related Stalk & Barrel bottle is substituted.",
+      "assessment_checkpoint": "NA-036",
+      "publication_sources": [
+        {
+          "title": "The Rum Howler — Stalk & Barrel Rye",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-rye/",
+          "role": "Exact 46% independent tasting plus producer-attributed 100% rye, copper-pot and ex-bourbon maturation details."
+        },
+        {
+          "title": "Whisky Connosr — Still Waters Stalk & Barrel Rye",
+          "url": "https://www.connosr.com/still-waters-stalk-and-barrel-rye-whisky-review-10950",
+          "role": "Second exact 46% tasting and important youthful/finish counterevidence."
+        },
+        {
+          "title": "The Whisky Shop San Francisco — Canada",
+          "url": "https://www.whiskyshopusa.com/canada/",
+          "role": "Dated U.S. 750 mL regular MSRP and sale context for the exact 46% rye."
+        }
+      ]
     },
     {
       "id": "stalk-barrel-blue-blend",
@@ -16722,16 +16757,16 @@
       "producer": "Still Waters Distillery, Ontario; sourced blends distinguished",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
-      "abv": 40.0,
+      "proof": 80,
+      "abv": 40,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian grain, malt and rye blend; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "age_information": "NAS",
+      "grain_information": "Blend of corn, rye and malt whiskies; component ratios undisclosed",
+      "grain_confidence": "Exact-expression independent and specialist records identify corn, rye and malt; no component percentages are inferred.",
+      "finishing_information": "No separate finish documented; specialist records identify ex-bourbon maturation for the component whiskies.",
       "release_year_or_era": "2016 lineage",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16743,13 +16778,48 @@
       ],
       "potential_image_source": "https://www.lcbo.com/en/stalk-barrel-blue-blend-whisky-479923",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-and-barrel-blue-blend/",
+            "summary": "Finds rye, corn, vanilla, almond and fruit but persistent youth, sharp alcohol and limited depth; recommends it mainly as a mixer.",
+            "scope": "September 16, 2017; exact Blue Blend at 40% ABV."
+          },
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/stalk-barrel-blue-label",
+            "summary": "Treats Blue as a skillfully blended mixer, emphasizing vanilla, almond, fruit grain, mild rye spice and a toasty finish.",
+            "scope": "Exact Blue Blend editorial tasting at 40% ABV."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted_pending_validation",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 225
+      "deterministic_order": 225,
+      "exact_image_status": "unavailable",
+      "image_limitation": "Exact-expression imagery is present in matched review/specialist records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Red Blend or other sibling bottle is substituted.",
+      "assessment_checkpoint": "NA-036",
+      "publication_sources": [
+        {
+          "title": "The Rum Howler — Stalk & Barrel Blue Blend",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-and-barrel-blue-blend/",
+          "role": "Exact 40% review, grain identities and explicit mixer positioning."
+        },
+        {
+          "title": "Distiller — Stalk & Barrel Blue Blend",
+          "url": "https://distiller.com/spirits/stalk-barrel-blue-label",
+          "role": "Exact expression specialist identity and editorial tasting."
+        },
+        {
+          "title": "Distiller community price record",
+          "url": "https://distiller.com/spirits/stalk-barrel-blue-label/tastes",
+          "role": "Historical November 2021 U.S. $31.99 / 750 mL context; not used for current Value."
+        }
+      ]
     },
     {
       "id": "stalk-barrel-red-blend",
@@ -16759,16 +16829,16 @@
       "producer": "Still Waters Distillery, Ontario; sourced blends distinguished",
       "status": "historical",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 86.0,
-      "abv": 43.0,
+      "proof": 86,
+      "abv": 43,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian grain, malt and rye blend; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "age_information": "NAS",
+      "grain_information": "High proportion of aged single malt and rye blended with selected aged corn whisky; exact ratios undisclosed",
+      "grain_confidence": "Producer-attributed recipe repeated by multiple exact-expression specialist reviews; ratios remain undisclosed.",
+      "finishing_information": "No separate finish documented; component whiskies are described as ex-bourbon matured.",
       "release_year_or_era": "2016 lineage",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16780,13 +16850,60 @@
       ],
       "potential_image_source": "https://distiller.com/spirits/stalk-barrel-red-label",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Mark Gillespie",
+            "publisher": "WhiskyCast",
+            "url": "https://whiskycast.com/ratings/stalk-barrel-red-blend/",
+            "summary": "Finds a strong balance of malt, rye spice, honey, vanilla, dried fruit and citrus with a long spicy finish; scores it very highly.",
+            "scope": "July 2018; exact Red Blend at 43% ABV."
+          },
+          {
+            "reviewer": "Chip Dykstra",
+            "publisher": "The Rum Howler Blog",
+            "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-red-blend/",
+            "summary": "Finds wood and dusty rye spice, grain and malt sweetness in an interesting, delicious blend, while noting youthful astringency and room for more barrel time.",
+            "scope": "October 30, 2017; exact 43% sample."
+          },
+          {
+            "reviewer": "Blair Phillips",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/stalk-barrel-red-label",
+            "summary": "Praises the symmetry between sweet barley and floral rye, with rye spice, oak and citrus pith; Distiller's score is strongly positive.",
+            "scope": "Exact Red Blend editorial tasting at 43% ABV."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted_pending_validation",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 226
+      "deterministic_order": 226,
+      "exact_image_status": "unavailable",
+      "image_limitation": "Exact-expression bottle imagery was identified in matched sources, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Blue or Three Barrel bottle is substituted.",
+      "assessment_checkpoint": "NA-036",
+      "publication_sources": [
+        {
+          "title": "WhiskyCast — Stalk & Barrel Red Blend",
+          "url": "https://whiskycast.com/ratings/stalk-barrel-red-blend/",
+          "role": "Strong exact-expression independent tasting at 43% ABV."
+        },
+        {
+          "title": "The Rum Howler — Stalk & Barrel Red Blend",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-red-blend/",
+          "role": "Second exact review with producer-attributed recipe and youthful counterevidence."
+        },
+        {
+          "title": "Distiller — Stalk & Barrel Red Blend",
+          "url": "https://distiller.com/spirits/stalk-barrel-red-label",
+          "role": "Exact-expression recipe context and specialist tasting."
+        },
+        {
+          "title": "The Whisky Shop San Francisco — Canada",
+          "url": "https://www.whiskyshopusa.com/canada/",
+          "role": "Dated U.S. regular MSRP and sale context."
+        }
+      ]
     },
     {
       "id": "stalk-barrel-single-malt-46",
@@ -16796,16 +16913,16 @@
       "producer": "Still Waters Distillery, Ontario; sourced blends distinguished",
       "status": "historical",
       "whisky_category": "Canadian Single Malt",
-      "proof": 92.0,
-      "abv": 46.0,
+      "proof": 92,
+      "abv": 46,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "100% malted barley",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "Oak; exact regime to verify",
+      "age_information": "NAS; reviewed early casks were about 3 years old",
+      "grain_information": "100% locally sourced two-row malted barley",
+      "grain_confidence": "Exact 46% records identify 100% malted barley; early single-cask oak regimes varied, so cask history is kept separate from grain identity.",
+      "finishing_information": "No separate finish documented. Ex-bourbon maturation is documented for the later 46% expression, while early single casks had cask-specific oak histories.",
       "release_year_or_era": "Craft range",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16817,13 +16934,60 @@
       ],
       "potential_image_source": "https://sipologyblog.com/2018/06/01/",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux",
+            "publisher": "Whisky Advocate",
+            "url": "https://whiskyadvocate.com/Stalk-Barrel-Single-Malt-Cask-52-46",
+            "summary": "Finds halva, hay, pear and apple-pie aromas, then sweet fruit, cereal, ginger and cinnamon with a creamy medium finish; calls the three-year whisky already tasty while clearly anticipating improvement with age.",
+            "scope": "Spring 2016; exact Stalk & Barrel Single Malt Cask 52 at 46%."
+          },
+          {
+            "reviewer": "The Whisky Knights",
+            "publisher": "The Whisky Knights",
+            "url": "https://thewhiskyknights.com/stalk-barrel-single-malt/",
+            "summary": "Finds grass, cereal and honey on a light nose, then a youthful profile that lacks sufficient time in barrel; confirms 46%, 100% malted barley and ex-bourbon maturation for the reviewed bottle.",
+            "scope": "August 8, 2023; exact named 46% Stalk & Barrel Single Malt."
+          },
+          {
+            "reviewer": "Distiller editorial",
+            "publisher": "Distiller",
+            "url": "https://distiller.com/spirits/stalk-barrel-single-malt",
+            "summary": "Documents the exact 46% single malt identity and provides specialist tasting context; community notes on the same page show substantial bottle-to-bottle and palate disagreement.",
+            "scope": "Exact Stalk & Barrel Single Malt, 46% ABV."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted_pending_validation",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 227
+      "deterministic_order": 227,
+      "exact_image_status": "unavailable",
+      "image_limitation": "Exact 46% bottle imagery was identified in current/specialist records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no cask-strength or related bottle is substituted.",
+      "assessment_checkpoint": "NA-036",
+      "publication_sources": [
+        {
+          "title": "Whisky Advocate — Stalk & Barrel Single Malt Cask 52, 46%",
+          "url": "https://whiskyadvocate.com/Stalk-Barrel-Single-Malt-Cask-52-46",
+          "role": "Named early 46% single-cask tasting with score, price and age context."
+        },
+        {
+          "title": "The Whisky Knights — Stalk & Barrel Single Malt",
+          "url": "https://thewhiskyknights.com/stalk-barrel-single-malt/",
+          "role": "Later exact 46% tasting and production identity; useful youth counterevidence."
+        },
+        {
+          "title": "Distiller — Stalk & Barrel Single Malt",
+          "url": "https://distiller.com/spirits/stalk-barrel-single-malt",
+          "role": "Exact-expression specialist identity and broader tasting context."
+        },
+        {
+          "title": "The Whisky Shop San Francisco — Canada",
+          "url": "https://www.whiskyshopusa.com/canada/",
+          "role": "Dated U.S. 750 mL regular MSRP and sale context."
+        }
+      ]
     },
     {
       "id": "stalk-barrel-three-barrel",
@@ -16833,16 +16997,16 @@
       "producer": "Still Waters Distillery, Ontario; sourced blends distinguished",
       "status": "current",
       "whisky_category": "Canadian Blended Whisky",
-      "proof": 80.0,
-      "abv": 40.0,
+      "proof": 86,
+      "abv": 43,
       "age_statement_years": null,
-      "age_information": "Not established in discovery; do not infer a label age from brand age or legal minimum",
-      "grain_information": "Canadian grain, malt and rye blend; ratios undisclosed",
-      "grain_confidence": "documented grain identity; unknown proportions retained",
-      "finishing_information": "No separate finish",
+      "age_information": "NAS",
+      "grain_information": "Blend of Still Waters rye, Still Waters single malt and traditional corn whisky; exact ratios undisclosed",
+      "grain_confidence": "The exact Three Barrel launch-era account names the three components; no percentages are inferred.",
+      "finishing_information": "No separate finish documented; the three component whiskies were separately matured in ex-bourbon casks before blending.",
       "release_year_or_era": "2020",
       "warrants_own_dossier": true,
-      "decision": "include_pending_expression_verification",
+      "decision": "include",
       "inclusion_or_exclusion_reason": "Distinct documented release, recipe, age or finish; useful family or historical reference",
       "available_evidence_level": "Producer/control-state documentation and/or independent specialist record",
       "discovery_sources": [
@@ -16854,13 +17018,48 @@
       ],
       "potential_image_source": "https://canadiandistilleries.com/blog/stalk-amp-barrel-three-barrel-whisky",
       "independent_review_record": {
-        "status": "research_required",
-        "scoring_allowed": false,
-        "notes": "A matched substantive independent sensory record must be inspected before a numeric score; producer notes are not review evidence."
+        "status": "matched_verified",
+        "scoring_allowed": true,
+        "reviews": [
+          {
+            "reviewer": "Davin de Kergommeaux & Blair Phillips",
+            "publisher": "The Definitive Guide to Canadian Distilleries",
+            "url": "https://canadiandistilleries.com/blog/stalk-amp-barrel-three-barrel-whisky",
+            "summary": "Find creamy vanilla, barley sugar, chocolate, cocoa, citrus and warming clove/spice, presenting the blend as a successful step forward for the distillery.",
+            "scope": "May 23, 2020; exact Three Barrel launch-era whisky."
+          },
+          {
+            "reviewer": "Megawatt",
+            "publisher": "Whisky Connosr",
+            "url": "https://www.connosr.com/stillwaters-stalk-and-barrel-three-barrel-whisky-whisky-review-13501",
+            "summary": "Finds vanilla and cocoa on the nose but a hot, spirity palate that turns bitter and fades quickly, judging it disappointing and immature.",
+            "scope": "June 28, 2020; exact Three Barrel at 43% ABV."
+          }
+        ]
       },
-      "implementation_status": "pending_research",
+      "implementation_status": "accepted_pending_validation",
       "discovered_date": "2026-10-14",
-      "deterministic_order": 228
+      "deterministic_order": 228,
+      "exact_image_status": "unavailable",
+      "image_limitation": "Exact Three Barrel imagery was identified in matched launch/review records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Red or Blue bottle is substituted.",
+      "assessment_checkpoint": "NA-036",
+      "publication_sources": [
+        {
+          "title": "The Definitive Guide to Canadian Distilleries — Stalk & Barrel Three Barrel",
+          "url": "https://canadiandistilleries.com/blog/stalk-amp-barrel-three-barrel-whisky",
+          "role": "Launch-era exact recipe, batch-size and positive tasting account."
+        },
+        {
+          "title": "Whisky Connosr — Still Waters Stalk & Barrel Three Barrel",
+          "url": "https://www.connosr.com/stillwaters-stalk-and-barrel-three-barrel-whisky-whisky-review-13501",
+          "role": "Exact 43% negative counter-review, essential to the provisional score."
+        },
+        {
+          "title": "Canadian whisky holiday guide — Three Barrel 43%",
+          "url": "https://canadiandistilleries.com/blog/12-drammers-dramming-whisky",
+          "role": "Launch-era 43% identity and CAD $34.95 / 750 mL context."
+        }
+      ]
     },
     {
       "id": "two-brewers-yukon-single-malt-release-22",

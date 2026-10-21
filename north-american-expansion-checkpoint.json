@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 35,
+  "checkpoint": 36,
   "status": "implementation_in_progress",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
@@ -1053,11 +1053,16 @@
     "shelter-point-classic-single-malt.html",
     "shelter-point-montfort-single-grain.html",
     "shelter-point-ripple-rock-batch-2.html",
-    "shelter-point-smoke-point-single-malt.html"
+    "shelter-point-smoke-point-single-malt.html",
+    "stalk-barrel-100-rye-46.html",
+    "stalk-barrel-blue-blend.html",
+    "stalk-barrel-red-blend.html",
+    "stalk-barrel-single-malt-46.html",
+    "stalk-barrel-three-barrel.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 185,
-  "dossier_count": 1038,
+  "canadian_added": 190,
+  "dossier_count": 1043,
   "history": [
     {
       "checkpoint": 1,
@@ -2311,9 +2316,21 @@
         "Smoke Point current locally smoked-barrel regime represented by Batch 3 at 53% / 106 proof; discontinued ex-Islay-cask releases and peated-malt assumptions excluded; provisional Quality 7.1, Value N/A.",
         "No exact-expression image bytes were authenticated, so no related Shelter Point bottle was substituted. No standalone image assets were added."
       ]
+    },
+    {
+      "checkpoint": 36,
+      "files": [
+        "stalk-barrel-100-rye-46.html",
+        "stalk-barrel-blue-blend.html",
+        "stalk-barrel-red-blend.html",
+        "stalk-barrel-single-malt-46.html",
+        "stalk-barrel-three-barrel.html"
+      ],
+      "parent_commit": "36b5df23421a2fba5dd906ea21ae3d883f2b9511",
+      "status": "awaiting_validation"
     }
   ],
-  "next_action": "Research next pending expression in deterministic order: stalk-barrel-100-rye-46",
+  "next_action": "Validate current Stalk & Barrel batch, record acceptance and push immediately; then research next pending entries in deterministic order.",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -4270,8 +4287,8 @@
       "status": "passed"
     }
   },
-  "updated_at": "2026-10-20",
-  "last_parent_commit": "2c4d8781c119838678818cf7b1e7649c7920f338",
+  "updated_at": "2026-10-21",
+  "last_parent_commit": "36b5df23421a2fba5dd906ea21ae3d883f2b9511",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",

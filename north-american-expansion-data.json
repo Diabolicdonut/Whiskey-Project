@@ -76793,5 +76793,1759 @@
         }
       ]
     }
+  },
+  {
+    "slug": "stalk-barrel-100-rye-46",
+    "filename": "stalk-barrel-100-rye-46.html",
+    "name": "Stalk & Barrel 100% Rye — 46%",
+    "family": "Stalk & Barrel",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Still Waters Distillery, Concord, Ontario",
+    "proof": 92,
+    "abv": 46,
+    "age": "NAS; reviewed 46% single-cask releases were at least 3 years old",
+    "age_display": "NAS; reviewed 46% single-cask releases were at least 3 years old",
+    "age_sort_years": null,
+    "mash_bill_display": "100% locally grown Ontario rye",
+    "mash_bill_confidence": "Producer-attributed and independently repeated for the 46% rye; no other grain is inferred.",
+    "quality": 6.4,
+    "quality_score": 6.4,
+    "value": 4.7,
+    "value_score": 4.7,
+    "overall": 5.4845236803208355,
+    "overall_score": 5.4845236803208355,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "The score represents the documented 46% single-cask release family, not every cask and not the cask-strength bottling. Cask variation and the whisky's youth remain material.",
+      "universal_dimensions": {
+        "integration": 6.4,
+        "flavor_development": 6.6,
+        "finish": 6,
+        "technical_cleanliness": 6.5,
+        "texture": 6.2,
+        "maturity_wood_management": 5.7,
+        "distinctiveness": 7
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.335,
+      "editorial_adjustment": 0.065,
+      "adjustment_reason": "Two exact 46% reviews support a genuinely distinctive rye profile with strong spice and herbal definition, while both leave room for more maturity and one identifies a flawed chalky/citrus finish. That is good rather than very-good execution."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Two exact 46% reviews support a genuinely distinctive rye profile with strong spice and herbal definition, while both leave room for more maturity and one identifies a flawed chalky/citrus finish. That is good rather than very-good execution.",
+    "quality_confidence": "Medium; two substantive exact-strength independent reviews, with single-cask variation explicitly retained.",
+    "quality_na_reason": null,
+    "value_rationale": "At a regular U.S. $69.99 / 750 mL, the unusual all-rye character is interesting but the documented youth and rough edges make the bottle expensive for its execution. The temporary $59.99 sale improves the proposition but does not redefine the regular-price score.",
+    "value_confidence": "Dated U.S. price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 69.99,
+    "price_basis": "Current U.S. retailer regular MSRP checked October 21, 2026; the same listing showed a temporary $59.99 sale price.",
+    "price_url": "https://www.whiskyshopusa.com/canada/",
+    "price_period": "2026-10-21",
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 69.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC listing for this exact expression.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": null,
+    "release_scope": "Stalk & Barrel 100% Rye at 46% ABV / 92 proof, the individually bottled single-cask strength-reduced release; cask-strength Stalk & Barrel Rye is a different expression.",
+    "availability_note": "Current retailer availability is a dated observation, not a claim that every U.S. market has stock or that production is ongoing.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-rye/",
+      "https://www.connosr.com/still-waters-stalk-and-barrel-rye-whisky-review-10950"
+    ],
+    "review_publishers": [
+      "The Rum Howler Blog",
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-rye/",
+        "summary": "Finds dusty grain, wood and rye spice, grassy tobacco and butterscotch, with enough complexity to be enjoyable but clear youthful roughness.",
+        "scope": "October 19, 2017; exact 46% sample, explicitly distinguished from cask strength."
+      },
+      {
+        "reviewer": "talexander",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/still-waters-stalk-and-barrel-rye-whisky-review-10950",
+        "summary": "Finds complex herbs, pepper, toasted rye and citrus, followed by substantial heat, drying oak and a chalky off-citrus finish; concludes it needs more cask time.",
+        "scope": "November 7, 2016; exact 46% version."
+      }
+    ],
+    "source_urls": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-rye/",
+      "https://www.connosr.com/still-waters-stalk-and-barrel-rye-whisky-review-10950",
+      "https://www.whiskyshopusa.com/canada/"
+    ],
+    "production_summary": "Independent reviews quoting the producer identify 100% locally grown Ontario rye, hand-distilled in small batches on a copper pot still and matured in ex-bourbon casks for a minimum of three years. The 46% release was bottled as individual single casks; cask-to-cask variation therefore matters.",
+    "finishing_information": "No separate finish documented; matured in ex-bourbon casks.",
+    "identity_note": null,
+    "history": [
+      "Still Waters was founded in 2009 and built its Stalk & Barrel craft range around in-house malt and rye distillates rather than treating Canadian rye as only a flavoring component.",
+      "The 46% rye sits beside separately bottled cask-strength rye. Reviews of the latter are not imported into this dossier."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium 100% Rye",
+        "url": "alberta-premium-100-rye.html",
+        "reason": "Another Canadian 100% rye, useful for separating mature column-distilled rye character from this small-pot-still craft style."
+      },
+      {
+        "name": "Stalk & Barrel Single Malt — 46%",
+        "url": "stalk-barrel-single-malt-46.html",
+        "reason": "The malted-barley counterpart from the same distillery and proof point."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 50,
+        "reason": "Below $50, its unusual 100% rye pot-still profile outweighs the documented youth.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": 50,
+        "maximum_exclusive": 60,
+        "reason": "$50–59.99 is an attractive exploratory price for a distinctive Canadian craft rye.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 60,
+        "maximum_exclusive": 72,
+        "reason": "$60–71.99 is fair if the all-rye profile is the point; compare mature ryes first.",
+        "current_band": true
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 72,
+        "maximum_exclusive": 85,
+        "reason": "$72–84.99 asks too much of a whisky whose independent reviews still show heat and immature edges.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": 85,
+        "maximum_exclusive": null,
+        "reason": "$85 and above moves beyond the drinking value supported by the evidence.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat, then add a few drops of water to separate rye herbs from alcohol heat."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A small cube can tame the hot, drying side, but too much dilution will flatten the grain."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Its pepper, herbs and citrus should carry well in a dry highball."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained sugar and aromatic bitters; the rye already supplies plenty of spice."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use a moderately rich vermouth and keep the whisky-forward ratio."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Stalk & Barrel 100% Rye at 46% ABV / 92 proof, the individually bottled single-cask strength-reduced release; cask-strength Stalk & Barrel Rye is a different expression.",
+    "image_limitation": "Exact-expression bottle imagery was identified in matched review records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no related Stalk & Barrel bottle is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-036",
+    "editorial": {
+      "id": "stalk-barrel-100-rye-46",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 92,
+      "age": null,
+      "age_display": "NAS; reviewed 46% single-cask releases were at least 3 years old",
+      "grain": "100% locally grown Ontario rye",
+      "grain_confidence": "Producer-attributed and independently repeated for the 46% rye; no other grain is inferred.",
+      "identity": "Stalk & Barrel 100% Rye at 46% ABV / 92 proof, the individually bottled single-cask strength-reduced release; cask-strength Stalk & Barrel Rye is a different expression.",
+      "short_version": "A distinctive all-rye craft whisky with real herbal and pepper complexity, but youth shows through as heat, drying oak and an awkward citrus edge.",
+      "producer": "Still Waters Distillery, Concord, Ontario",
+      "production": "Independent reviews quoting the producer identify 100% locally grown Ontario rye, hand-distilled in small batches on a copper pot still and matured in ex-bourbon casks for a minimum of three years. The 46% release was bottled as individual single casks; cask-to-cask variation therefore matters.",
+      "finish": "No separate finish documented; matured in ex-bourbon casks.",
+      "history": [
+        "Still Waters was founded in 2009 and built its Stalk & Barrel craft range around in-house malt and rye distillates rather than treating Canadian rye as only a flavoring component.",
+        "The 46% rye sits beside separately bottled cask-strength rye. Reviews of the latter are not imported into this dossier."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-rye/",
+          "summary": "Finds dusty grain, wood and rye spice, grassy tobacco and butterscotch, with enough complexity to be enjoyable but clear youthful roughness.",
+          "scope": "October 19, 2017; exact 46% sample, explicitly distinguished from cask strength."
+        },
+        {
+          "reviewer": "talexander",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/still-waters-stalk-and-barrel-rye-whisky-review-10950",
+          "summary": "Finds complex herbs, pepper, toasted rye and citrus, followed by substantial heat, drying oak and a chalky off-citrus finish; concludes it needs more cask time.",
+          "scope": "November 7, 2016; exact 46% version."
+        }
+      ],
+      "quality": 6.4,
+      "dimensions": [
+        6.4,
+        6.6,
+        6,
+        6.5,
+        6.2,
+        5.7,
+        7
+      ],
+      "quality_rationale": "Two exact 46% reviews support a genuinely distinctive rye profile with strong spice and herbal definition, while both leave room for more maturity and one identifies a flawed chalky/citrus finish. That is good rather than very-good execution.",
+      "quality_confidence": "Medium; two substantive exact-strength independent reviews, with single-cask variation explicitly retained.",
+      "evidence_limit": "The score represents the documented 46% single-cask release family, not every cask and not the cask-strength bottling. Cask variation and the whisky's youth remain material.",
+      "pricing": {
+        "amount": 69.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-21",
+        "url": "https://www.whiskyshopusa.com/canada/",
+        "basis": "Current U.S. retailer regular MSRP checked October 21, 2026; the same listing showed a temporary $59.99 sale price.",
+        "nc_status": "No authenticated current NC ABC listing for this exact expression."
+      },
+      "value": 4.7,
+      "value_rationale": "At a regular U.S. $69.99 / 750 mL, the unusual all-rye character is interesting but the documented youth and rough edges make the bottle expensive for its execution. The temporary $59.99 sale improves the proposition but does not redefine the regular-price score.",
+      "availability": "Current retailer availability is a dated observation, not a claim that every U.S. market has stock or that production is ongoing.",
+      "release_year": null,
+      "comparables": [
+        {
+          "name": "Alberta Premium 100% Rye",
+          "url": "alberta-premium-100-rye.html",
+          "reason": "Another Canadian 100% rye, useful for separating mature column-distilled rye character from this small-pot-still craft style."
+        },
+        {
+          "name": "Stalk & Barrel Single Malt — 46%",
+          "url": "stalk-barrel-single-malt-46.html",
+          "reason": "The malted-barley counterpart from the same distillery and proof point."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 50,
+          "reason": "Below $50, its unusual 100% rye pot-still profile outweighs the documented youth.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": 50,
+          "maximum_exclusive": 60,
+          "reason": "$50–59.99 is an attractive exploratory price for a distinctive Canadian craft rye.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 60,
+          "maximum_exclusive": 72,
+          "reason": "$60–71.99 is fair if the all-rye profile is the point; compare mature ryes first.",
+          "current_band": true
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 72,
+          "maximum_exclusive": 85,
+          "reason": "$72–84.99 asks too much of a whisky whose independent reviews still show heat and immature edges.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": 85,
+          "maximum_exclusive": null,
+          "reason": "$85 and above moves beyond the drinking value supported by the evidence.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat, then add a few drops of water to separate rye herbs from alcohol heat."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A small cube can tame the hot, drying side, but too much dilution will flatten the grain."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Its pepper, herbs and citrus should carry well in a dry highball."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained sugar and aromatic bitters; the rye already supplies plenty of spice."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use a moderately rich vermouth and keep the whisky-forward ratio."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Rum Howler — Stalk & Barrel Rye",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-rye/",
+          "role": "Exact 46% independent tasting plus producer-attributed 100% rye, copper-pot and ex-bourbon maturation details."
+        },
+        {
+          "title": "Whisky Connosr — Still Waters Stalk & Barrel Rye",
+          "url": "https://www.connosr.com/still-waters-stalk-and-barrel-rye-whisky-review-10950",
+          "role": "Second exact 46% tasting and important youthful/finish counterevidence."
+        },
+        {
+          "title": "The Whisky Shop San Francisco — Canada",
+          "url": "https://www.whiskyshopusa.com/canada/",
+          "role": "Dated U.S. 750 mL regular MSRP and sale context for the exact 46% rye."
+        }
+      ],
+      "image_limitation": "Exact-expression bottle imagery was identified in matched review records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no related Stalk & Barrel bottle is substituted."
+    }
+  },
+  {
+    "slug": "stalk-barrel-blue-blend",
+    "filename": "stalk-barrel-blue-blend.html",
+    "name": "Stalk & Barrel Blue Blend",
+    "family": "Stalk & Barrel",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Still Waters Distillery, Concord, Ontario",
+    "proof": 80,
+    "abv": 40,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Blend of corn, rye and malt whiskies; component ratios undisclosed",
+    "mash_bill_confidence": "Exact-expression independent and specialist records identify corn, rye and malt; no component percentages are inferred.",
+    "quality": 5.2,
+    "quality_score": 5.2,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "Quality is judged as Canadian blended whisky execution, not rewarded merely for low-price mixer positioning. Community reactions are mixed and are context rather than a separate scored review.",
+      "universal_dimensions": {
+        "integration": 5.2,
+        "flavor_development": 5.2,
+        "finish": 4.8,
+        "technical_cleanliness": 5.1,
+        "texture": 5.4,
+        "maturity_wood_management": 4.6,
+        "distinctiveness": 5.4
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.095,
+      "editorial_adjustment": 0.105,
+      "adjustment_reason": "The evidence agrees that Blue works as intended in mixed drinks and has a coherent vanilla-nut-grain profile, but the fuller review finds sharp youth and insufficient depth neat. That lands just above competent average rather than in good sipping-whisky territory."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The evidence agrees that Blue works as intended in mixed drinks and has a coherent vanilla-nut-grain profile, but the fuller review finds sharp youth and insufficient depth neat. That lands just above competent average rather than in good sipping-whisky territory.",
+    "quality_confidence": "Medium; two exact-expression professional/specialist tastings with clear intended-style context.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: exact-expression Quality is supportable, but the available U.S. dollar price evidence is too old to represent a 2026 buying decision.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No sufficiently current dated U.S. 750 mL retail offer was authenticated for the exact Blue Blend; a November 2021 Distiller user record at $31.99 is retained only as historical context.",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC listing for this exact expression.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2016,
+    "release_scope": "Stalk & Barrel Blue Blend at 40% ABV / 80 proof, the lower-priced companion to Red Blend and successor-era companion to the retired 1+11 blend.",
+    "availability_note": "Ontario and specialist records establish the expression identity; they do not establish a current U.S. shelf price.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-and-barrel-blue-blend/",
+      "https://distiller.com/spirits/stalk-barrel-blue-label"
+    ],
+    "review_publishers": [
+      "The Rum Howler Blog",
+      "Distiller"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-and-barrel-blue-blend/",
+        "summary": "Finds rye, corn, vanilla, almond and fruit but persistent youth, sharp alcohol and limited depth; recommends it mainly as a mixer.",
+        "scope": "September 16, 2017; exact Blue Blend at 40% ABV."
+      },
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/stalk-barrel-blue-label",
+        "summary": "Treats Blue as a skillfully blended mixer, emphasizing vanilla, almond, fruit grain, mild rye spice and a toasty finish.",
+        "scope": "Exact Blue Blend editorial tasting at 40% ABV."
+      }
+    ],
+    "source_urls": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-and-barrel-blue-blend/",
+      "https://distiller.com/spirits/stalk-barrel-blue-label",
+      "https://distiller.com/spirits/stalk-barrel-blue-label/tastes"
+    ],
+    "production_summary": "Independent and specialist records identify Blue as a blend of corn, rye and malt whiskies bottled at 40% ABV. It was deliberately positioned as the value/mixing member of the Blue/Red pair. Exact component ages and ratios are undisclosed.",
+    "finishing_information": "No separate finish documented; specialist records identify ex-bourbon maturation for the component whiskies.",
+    "identity_note": null,
+    "history": [
+      "Blue and Red replaced the earlier 1+11 blended-whisky position in the Stalk & Barrel range, with Blue intended as the more accessible mixing whisky.",
+      "Blue should not inherit the higher malt/rye concentration or 43% strength of Red merely because the labels share a design."
+    ],
+    "comparables": [
+      {
+        "name": "Stalk & Barrel Red Blend",
+        "url": "stalk-barrel-red-blend.html",
+        "reason": "The richer 43% sibling with more malt and rye influence."
+      },
+      {
+        "name": "Stalk & Barrel Three Barrel",
+        "url": "stalk-barrel-three-barrel.html",
+        "reason": "A later Still Waters blend that raises the malt/rye contribution and moves to 43%."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Useful for checking the vanilla, almond and grain profile, but the reviews do not favor neat as its best role."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "Ice softens the youthful bite; keep dilution modest."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A strong use case: soda or ginger ale gives the blend space without demanding much depth."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep the build simple and light on sugar; this is more mixer than contemplative base."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Not the first choice for a Manhattan; a richer blend or rye will better survive vermouth."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Stalk & Barrel Blue Blend at 40% ABV / 80 proof, the lower-priced companion to Red Blend and successor-era companion to the retired 1+11 blend.",
+    "image_limitation": "Exact-expression imagery is present in matched review/specialist records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Red Blend or other sibling bottle is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-036",
+    "editorial": {
+      "id": "stalk-barrel-blue-blend",
+      "category": "Canadian Blended Whisky",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS",
+      "grain": "Blend of corn, rye and malt whiskies; component ratios undisclosed",
+      "grain_confidence": "Exact-expression independent and specialist records identify corn, rye and malt; no component percentages are inferred.",
+      "identity": "Stalk & Barrel Blue Blend at 40% ABV / 80 proof, the lower-priced companion to Red Blend and successor-era companion to the retired 1+11 blend.",
+      "short_version": "A competent cocktail-oriented Canadian blend with vanilla, nuts, fruit and light rye spice, but too much youthful bite and too little depth to become a convincing neat pour.",
+      "producer": "Still Waters Distillery, Concord, Ontario",
+      "production": "Independent and specialist records identify Blue as a blend of corn, rye and malt whiskies bottled at 40% ABV. It was deliberately positioned as the value/mixing member of the Blue/Red pair. Exact component ages and ratios are undisclosed.",
+      "finish": "No separate finish documented; specialist records identify ex-bourbon maturation for the component whiskies.",
+      "history": [
+        "Blue and Red replaced the earlier 1+11 blended-whisky position in the Stalk & Barrel range, with Blue intended as the more accessible mixing whisky.",
+        "Blue should not inherit the higher malt/rye concentration or 43% strength of Red merely because the labels share a design."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-and-barrel-blue-blend/",
+          "summary": "Finds rye, corn, vanilla, almond and fruit but persistent youth, sharp alcohol and limited depth; recommends it mainly as a mixer.",
+          "scope": "September 16, 2017; exact Blue Blend at 40% ABV."
+        },
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/stalk-barrel-blue-label",
+          "summary": "Treats Blue as a skillfully blended mixer, emphasizing vanilla, almond, fruit grain, mild rye spice and a toasty finish.",
+          "scope": "Exact Blue Blend editorial tasting at 40% ABV."
+        }
+      ],
+      "quality": 5.2,
+      "dimensions": [
+        5.2,
+        5.2,
+        4.8,
+        5.1,
+        5.4,
+        4.6,
+        5.4
+      ],
+      "quality_rationale": "The evidence agrees that Blue works as intended in mixed drinks and has a coherent vanilla-nut-grain profile, but the fuller review finds sharp youth and insufficient depth neat. That lands just above competent average rather than in good sipping-whisky territory.",
+      "quality_confidence": "Medium; two exact-expression professional/specialist tastings with clear intended-style context.",
+      "evidence_limit": "Quality is judged as Canadian blended whisky execution, not rewarded merely for low-price mixer positioning. Community reactions are mixed and are context rather than a separate scored review.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": null,
+        "url": null,
+        "basis": "No sufficiently current dated U.S. 750 mL retail offer was authenticated for the exact Blue Blend; a November 2021 Distiller user record at $31.99 is retained only as historical context.",
+        "nc_status": "No authenticated current NC ABC listing for this exact expression."
+      },
+      "value": null,
+      "value_rationale": "N/A: exact-expression Quality is supportable, but the available U.S. dollar price evidence is too old to represent a 2026 buying decision.",
+      "availability": "Ontario and specialist records establish the expression identity; they do not establish a current U.S. shelf price.",
+      "release_year": 2016,
+      "comparables": [
+        {
+          "name": "Stalk & Barrel Red Blend",
+          "url": "stalk-barrel-red-blend.html",
+          "reason": "The richer 43% sibling with more malt and rye influence."
+        },
+        {
+          "name": "Stalk & Barrel Three Barrel",
+          "url": "stalk-barrel-three-barrel.html",
+          "reason": "A later Still Waters blend that raises the malt/rye contribution and moves to 43%."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Useful for checking the vanilla, almond and grain profile, but the reviews do not favor neat as its best role."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "Ice softens the youthful bite; keep dilution modest."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A strong use case: soda or ginger ale gives the blend space without demanding much depth."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep the build simple and light on sugar; this is more mixer than contemplative base."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Not the first choice for a Manhattan; a richer blend or rye will better survive vermouth."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Rum Howler — Stalk & Barrel Blue Blend",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-and-barrel-blue-blend/",
+          "role": "Exact 40% review, grain identities and explicit mixer positioning."
+        },
+        {
+          "title": "Distiller — Stalk & Barrel Blue Blend",
+          "url": "https://distiller.com/spirits/stalk-barrel-blue-label",
+          "role": "Exact expression specialist identity and editorial tasting."
+        },
+        {
+          "title": "Distiller community price record",
+          "url": "https://distiller.com/spirits/stalk-barrel-blue-label/tastes",
+          "role": "Historical November 2021 U.S. $31.99 / 750 mL context; not used for current Value."
+        }
+      ],
+      "image_limitation": "Exact-expression imagery is present in matched review/specialist records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Red Blend or other sibling bottle is substituted."
+    }
+  },
+  {
+    "slug": "stalk-barrel-red-blend",
+    "filename": "stalk-barrel-red-blend.html",
+    "name": "Stalk & Barrel Red Blend",
+    "family": "Stalk & Barrel",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Still Waters Distillery, Concord, Ontario",
+    "proof": 86,
+    "abv": 43,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "High proportion of aged single malt and rye blended with selected aged corn whisky; exact ratios undisclosed",
+    "mash_bill_confidence": "Producer-attributed recipe repeated by multiple exact-expression specialist reviews; ratios remain undisclosed.",
+    "quality": 6.7,
+    "quality_score": 6.7,
+    "value": 5.9,
+    "value_score": 5.9,
+    "overall": 6.287288763847259,
+    "overall_score": 6.287288763847259,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "Professional reviews are notably stronger than some community tastings. The score preserves that disagreement rather than treating the highest published score as dispositive.",
+      "universal_dimensions": {
+        "integration": 6.8,
+        "flavor_development": 6.9,
+        "finish": 6.7,
+        "technical_cleanliness": 6.8,
+        "texture": 6.6,
+        "maturity_wood_management": 6.3,
+        "distinctiveness": 7.1
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.75,
+      "editorial_adjustment": -0.05,
+      "adjustment_reason": "Three exact professional/specialist accounts support a well-integrated and distinctive malt-plus-rye blend, but independent community counterevidence and the Rum Howler review keep the youthful oak/astringency visible. It is strong good whisky, just shy of a confident very-good 7."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Three exact professional/specialist accounts support a well-integrated and distinctive malt-plus-rye blend, but independent community counterevidence and the Rum Howler review keep the youthful oak/astringency visible. It is strong good whisky, just shy of a confident very-good 7.",
+    "quality_confidence": "Medium-high for this expansion: three exact-expression critical records plus broader community counterevidence.",
+    "quality_na_reason": null,
+    "value_rationale": "At a regular U.S. $44.99 / 750 mL, Red's distinctive malt-and-rye complexity is respectable but not an obvious bargain in a crowded whiskey market. The temporary $39.99 sale moves it into a more attractive band.",
+    "value_confidence": "Dated U.S. price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 44.99,
+    "price_basis": "Current U.S. retailer regular MSRP checked October 21, 2026; the same listing showed a temporary $39.99 sale price.",
+    "price_url": "https://www.whiskyshopusa.com/canada/",
+    "price_period": "2026-10-21",
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 44.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC listing for this exact expression.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2016,
+    "release_scope": "Stalk & Barrel Red Blend at 43% ABV / 86 proof, the higher-tier Blue/Red blend built around a high proportion of Still Waters single malt and rye plus corn whisky.",
+    "availability_note": "Current retailer stock is a dated market observation and may represent remaining inventory; it does not by itself establish ongoing production.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://whiskycast.com/ratings/stalk-barrel-red-blend/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-red-blend/",
+      "https://distiller.com/spirits/stalk-barrel-red-label"
+    ],
+    "review_publishers": [
+      "WhiskyCast",
+      "The Rum Howler Blog",
+      "Distiller"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Mark Gillespie",
+        "publisher": "WhiskyCast",
+        "url": "https://whiskycast.com/ratings/stalk-barrel-red-blend/",
+        "summary": "Finds a strong balance of malt, rye spice, honey, vanilla, dried fruit and citrus with a long spicy finish; scores it very highly.",
+        "scope": "July 2018; exact Red Blend at 43% ABV."
+      },
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-red-blend/",
+        "summary": "Finds wood and dusty rye spice, grain and malt sweetness in an interesting, delicious blend, while noting youthful astringency and room for more barrel time.",
+        "scope": "October 30, 2017; exact 43% sample."
+      },
+      {
+        "reviewer": "Blair Phillips",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/stalk-barrel-red-label",
+        "summary": "Praises the symmetry between sweet barley and floral rye, with rye spice, oak and citrus pith; Distiller's score is strongly positive.",
+        "scope": "Exact Red Blend editorial tasting at 43% ABV."
+      }
+    ],
+    "source_urls": [
+      "https://whiskycast.com/ratings/stalk-barrel-red-blend/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-red-blend/",
+      "https://distiller.com/spirits/stalk-barrel-red-label",
+      "https://www.whiskyshopusa.com/canada/"
+    ],
+    "production_summary": "Exact-expression records describe a high proportion of Still Waters single malt and rye blended with selected aged corn whisky, bottled at 43% ABV. Distiller identifies ex-bourbon cask maturation; component percentages and individual ages are not disclosed.",
+    "finishing_information": "No separate finish documented; component whiskies are described as ex-bourbon matured.",
+    "identity_note": null,
+    "history": [
+      "Red launched alongside Blue as the more complex, higher-strength member of the pair, replacing the earlier 1+11 era with a blend that more prominently showcases Still Waters' own malt and rye.",
+      "Later shelf presence does not make Red interchangeable with Three Barrel; Three Barrel is a separate 2020-era recipe and dossier."
+    ],
+    "comparables": [
+      {
+        "name": "Stalk & Barrel Blue Blend",
+        "url": "stalk-barrel-blue-blend.html",
+        "reason": "The lower-strength, more mixer-oriented sibling."
+      },
+      {
+        "name": "Stalk & Barrel Three Barrel",
+        "url": "stalk-barrel-three-barrel.html",
+        "reason": "A later 43% blend with a separately documented corn/rye/malt construction."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 32,
+        "reason": "Below $32 is a strong buy for this level of distinctive malt-and-rye character.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": 32,
+        "maximum_exclusive": 40,
+        "reason": "$32–39.99 is a good buy and includes the retailer's observed sale neighborhood.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 40,
+        "maximum_exclusive": 50,
+        "reason": "$40–49.99 is fair: interesting and well reviewed, but no longer a category bargain.",
+        "current_band": true
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 50,
+        "maximum_exclusive": 60,
+        "reason": "$50–59.99 invites comparison with stronger or older alternatives.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": 60,
+        "maximum_exclusive": null,
+        "reason": "$60 and above outruns the drinking value supported by the current evidence.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Best starting point; let the malt sweetness and rye spice open before adding water."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One small cube should soften youthful oak without erasing the rye."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Works well as a robust Canadian highball, especially if kept only lightly diluted."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "A natural fit: its rye spice and malt sweetness need little additional sugar."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use a balanced sweet vermouth; the 43% strength has enough structure to stay present."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Stalk & Barrel Red Blend at 43% ABV / 86 proof, the higher-tier Blue/Red blend built around a high proportion of Still Waters single malt and rye plus corn whisky.",
+    "image_limitation": "Exact-expression bottle imagery was identified in matched sources, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Blue or Three Barrel bottle is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-036",
+    "editorial": {
+      "id": "stalk-barrel-red-blend",
+      "category": "Canadian Blended Whisky",
+      "proof": 86,
+      "age": null,
+      "age_display": "NAS",
+      "grain": "High proportion of aged single malt and rye blended with selected aged corn whisky; exact ratios undisclosed",
+      "grain_confidence": "Producer-attributed recipe repeated by multiple exact-expression specialist reviews; ratios remain undisclosed.",
+      "identity": "Stalk & Barrel Red Blend at 43% ABV / 86 proof, the higher-tier Blue/Red blend built around a high proportion of Still Waters single malt and rye plus corn whisky.",
+      "short_version": "The most convincing conventional Stalk & Barrel blend here: malty sweetness and rye spice work together with citrus, vanilla and dried fruit, though some tasters still find youthful oak and a short or rough edge.",
+      "producer": "Still Waters Distillery, Concord, Ontario",
+      "production": "Exact-expression records describe a high proportion of Still Waters single malt and rye blended with selected aged corn whisky, bottled at 43% ABV. Distiller identifies ex-bourbon cask maturation; component percentages and individual ages are not disclosed.",
+      "finish": "No separate finish documented; component whiskies are described as ex-bourbon matured.",
+      "history": [
+        "Red launched alongside Blue as the more complex, higher-strength member of the pair, replacing the earlier 1+11 era with a blend that more prominently showcases Still Waters' own malt and rye.",
+        "Later shelf presence does not make Red interchangeable with Three Barrel; Three Barrel is a separate 2020-era recipe and dossier."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Mark Gillespie",
+          "publisher": "WhiskyCast",
+          "url": "https://whiskycast.com/ratings/stalk-barrel-red-blend/",
+          "summary": "Finds a strong balance of malt, rye spice, honey, vanilla, dried fruit and citrus with a long spicy finish; scores it very highly.",
+          "scope": "July 2018; exact Red Blend at 43% ABV."
+        },
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-red-blend/",
+          "summary": "Finds wood and dusty rye spice, grain and malt sweetness in an interesting, delicious blend, while noting youthful astringency and room for more barrel time.",
+          "scope": "October 30, 2017; exact 43% sample."
+        },
+        {
+          "reviewer": "Blair Phillips",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/stalk-barrel-red-label",
+          "summary": "Praises the symmetry between sweet barley and floral rye, with rye spice, oak and citrus pith; Distiller's score is strongly positive.",
+          "scope": "Exact Red Blend editorial tasting at 43% ABV."
+        }
+      ],
+      "quality": 6.7,
+      "dimensions": [
+        6.8,
+        6.9,
+        6.7,
+        6.8,
+        6.6,
+        6.3,
+        7.1
+      ],
+      "quality_rationale": "Three exact professional/specialist accounts support a well-integrated and distinctive malt-plus-rye blend, but independent community counterevidence and the Rum Howler review keep the youthful oak/astringency visible. It is strong good whisky, just shy of a confident very-good 7.",
+      "quality_confidence": "Medium-high for this expansion: three exact-expression critical records plus broader community counterevidence.",
+      "evidence_limit": "Professional reviews are notably stronger than some community tastings. The score preserves that disagreement rather than treating the highest published score as dispositive.",
+      "pricing": {
+        "amount": 44.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-21",
+        "url": "https://www.whiskyshopusa.com/canada/",
+        "basis": "Current U.S. retailer regular MSRP checked October 21, 2026; the same listing showed a temporary $39.99 sale price.",
+        "nc_status": "No authenticated current NC ABC listing for this exact expression."
+      },
+      "value": 5.9,
+      "value_rationale": "At a regular U.S. $44.99 / 750 mL, Red's distinctive malt-and-rye complexity is respectable but not an obvious bargain in a crowded whiskey market. The temporary $39.99 sale moves it into a more attractive band.",
+      "availability": "Current retailer stock is a dated market observation and may represent remaining inventory; it does not by itself establish ongoing production.",
+      "release_year": 2016,
+      "comparables": [
+        {
+          "name": "Stalk & Barrel Blue Blend",
+          "url": "stalk-barrel-blue-blend.html",
+          "reason": "The lower-strength, more mixer-oriented sibling."
+        },
+        {
+          "name": "Stalk & Barrel Three Barrel",
+          "url": "stalk-barrel-three-barrel.html",
+          "reason": "A later 43% blend with a separately documented corn/rye/malt construction."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 32,
+          "reason": "Below $32 is a strong buy for this level of distinctive malt-and-rye character.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": 32,
+          "maximum_exclusive": 40,
+          "reason": "$32–39.99 is a good buy and includes the retailer's observed sale neighborhood.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 40,
+          "maximum_exclusive": 50,
+          "reason": "$40–49.99 is fair: interesting and well reviewed, but no longer a category bargain.",
+          "current_band": true
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 50,
+          "maximum_exclusive": 60,
+          "reason": "$50–59.99 invites comparison with stronger or older alternatives.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": 60,
+          "maximum_exclusive": null,
+          "reason": "$60 and above outruns the drinking value supported by the current evidence.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Best starting point; let the malt sweetness and rye spice open before adding water."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One small cube should soften youthful oak without erasing the rye."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Works well as a robust Canadian highball, especially if kept only lightly diluted."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "A natural fit: its rye spice and malt sweetness need little additional sugar."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use a balanced sweet vermouth; the 43% strength has enough structure to stay present."
+        }
+      ],
+      "sources": [
+        {
+          "title": "WhiskyCast — Stalk & Barrel Red Blend",
+          "url": "https://whiskycast.com/ratings/stalk-barrel-red-blend/",
+          "role": "Strong exact-expression independent tasting at 43% ABV."
+        },
+        {
+          "title": "The Rum Howler — Stalk & Barrel Red Blend",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/stalk-barrel-red-blend/",
+          "role": "Second exact review with producer-attributed recipe and youthful counterevidence."
+        },
+        {
+          "title": "Distiller — Stalk & Barrel Red Blend",
+          "url": "https://distiller.com/spirits/stalk-barrel-red-label",
+          "role": "Exact-expression recipe context and specialist tasting."
+        },
+        {
+          "title": "The Whisky Shop San Francisco — Canada",
+          "url": "https://www.whiskyshopusa.com/canada/",
+          "role": "Dated U.S. regular MSRP and sale context."
+        }
+      ],
+      "image_limitation": "Exact-expression bottle imagery was identified in matched sources, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Blue or Three Barrel bottle is substituted."
+    }
+  },
+  {
+    "slug": "stalk-barrel-single-malt-46",
+    "filename": "stalk-barrel-single-malt-46.html",
+    "name": "Stalk & Barrel Single Malt — 46%",
+    "family": "Stalk & Barrel",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Still Waters Distillery, Concord, Ontario",
+    "proof": 92,
+    "abv": 46,
+    "age": "NAS; reviewed early casks were about 3 years old",
+    "age_display": "NAS; reviewed early casks were about 3 years old",
+    "age_sort_years": null,
+    "mash_bill_display": "100% locally sourced two-row malted barley",
+    "mash_bill_confidence": "Exact 46% records identify 100% malted barley; early single-cask oak regimes varied, so cask history is kept separate from grain identity.",
+    "quality": 6.2,
+    "quality_score": 6.2,
+    "value": 4.7,
+    "value_score": 4.7,
+    "overall": 5.3981478305063115,
+    "overall_score": 5.3981478305063115,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "The dossier spans the 46% expression across casks/eras, so the score reflects recurring execution rather than claiming Cask 52 and every later retail bottle are identical.",
+      "universal_dimensions": {
+        "integration": 6.2,
+        "flavor_development": 6.5,
+        "finish": 6,
+        "technical_cleanliness": 6.4,
+        "texture": 6.3,
+        "maturity_wood_management": 5.8,
+        "distinctiveness": 6.8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.26,
+      "editorial_adjustment": -0.06,
+      "adjustment_reason": "The 46% malt has appealing cereal, fruit and spice character and enough distinctiveness to clear average comfortably, but both historical and recent evidence center its youth. Good execution with incomplete maturity is a 6.2, not a maturity-premium score."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The 46% malt has appealing cereal, fruit and spice character and enough distinctiveness to clear average comfortably, but both historical and recent evidence center its youth. Good execution with incomplete maturity is a 6.2, not a maturity-premium score.",
+    "quality_confidence": "Medium; multiple exact-name/strength sources across eras, with cask variation and youth explicitly limiting precision.",
+    "quality_na_reason": null,
+    "value_rationale": "At a regular U.S. $69.99 / 750 mL, this is priced like a more mature single malt than the independent evidence supports. The temporary $59.99 sale is easier to justify for exploration, but the regular shelf proposition remains below average.",
+    "value_confidence": "Dated U.S. price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 69.99,
+    "price_basis": "Current U.S. retailer regular MSRP checked October 21, 2026; the same listing showed a temporary $59.99 sale price.",
+    "price_url": "https://www.whiskyshopusa.com/canada/",
+    "price_period": "2026-10-21",
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 69.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC listing for this exact expression.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2013,
+    "release_scope": "Stalk & Barrel Single Malt at 46% ABV / 92 proof. The dossier synthesizes the named 46% expression while retaining early single-cask variation; cask-strength bottlings are excluded.",
+    "availability_note": "A current retailer offer establishes dated U.S. purchase context; it does not prove every cask-era bottle or production regime remains current.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://whiskyadvocate.com/Stalk-Barrel-Single-Malt-Cask-52-46",
+      "https://thewhiskyknights.com/stalk-barrel-single-malt/",
+      "https://distiller.com/spirits/stalk-barrel-single-malt"
+    ],
+    "review_publishers": [
+      "Whisky Advocate",
+      "The Whisky Knights",
+      "Distiller"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Whisky Advocate",
+        "url": "https://whiskyadvocate.com/Stalk-Barrel-Single-Malt-Cask-52-46",
+        "summary": "Finds halva, hay, pear and apple-pie aromas, then sweet fruit, cereal, ginger and cinnamon with a creamy medium finish; calls the three-year whisky already tasty while clearly anticipating improvement with age.",
+        "scope": "Spring 2016; exact Stalk & Barrel Single Malt Cask 52 at 46%."
+      },
+      {
+        "reviewer": "The Whisky Knights",
+        "publisher": "The Whisky Knights",
+        "url": "https://thewhiskyknights.com/stalk-barrel-single-malt/",
+        "summary": "Finds grass, cereal and honey on a light nose, then a youthful profile that lacks sufficient time in barrel; confirms 46%, 100% malted barley and ex-bourbon maturation for the reviewed bottle.",
+        "scope": "August 8, 2023; exact named 46% Stalk & Barrel Single Malt."
+      },
+      {
+        "reviewer": "Distiller editorial",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/stalk-barrel-single-malt",
+        "summary": "Documents the exact 46% single malt identity and provides specialist tasting context; community notes on the same page show substantial bottle-to-bottle and palate disagreement.",
+        "scope": "Exact Stalk & Barrel Single Malt, 46% ABV."
+      }
+    ],
+    "source_urls": [
+      "https://whiskyadvocate.com/Stalk-Barrel-Single-Malt-Cask-52-46",
+      "https://thewhiskyknights.com/stalk-barrel-single-malt/",
+      "https://distiller.com/spirits/stalk-barrel-single-malt",
+      "https://www.whiskyshopusa.com/canada/"
+    ],
+    "production_summary": "The 46% single malt is made from locally sourced two-row malted barley and pot-distilled at Still Waters. Later exact-expression records identify ex-bourbon maturation, while early numbered casks demonstrate that oak treatment varied across the programme. No universal age beyond the legally matured reviewed releases is invented.",
+    "finishing_information": "No separate finish documented. Ex-bourbon maturation is documented for the later 46% expression, while early single casks had cask-specific oak histories.",
+    "identity_note": null,
+    "history": [
+      "Still Waters released Stalk & Barrel single malt in the early 2010s as one of the defining products of Ontario's modern microdistilling wave.",
+      "The 46% expression has appeared as single-cask and broader retail presentations. This dossier keeps the common proof/name together but does not pretend every numbered cask had identical wood treatment."
+    ],
+    "comparables": [
+      {
+        "name": "Shelter Point Classic Single Malt",
+        "url": "shelter-point-classic-single-malt.html",
+        "reason": "A Canadian single-malt reference at the same 46% proof point with a more settled core-expression profile."
+      },
+      {
+        "name": "Stalk & Barrel 100% Rye — 46%",
+        "url": "stalk-barrel-100-rye-46.html",
+        "reason": "The rye counterpart from Still Waters, useful for isolating house distillation/wood character from grain character."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 50,
+        "reason": "Below $50 compensates well for the documented youth while preserving an interesting Canadian malt experience.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": 50,
+        "maximum_exclusive": 60,
+        "reason": "$50–59.99 is a good exploratory buy and roughly matches the observed sale level.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 60,
+        "maximum_exclusive": 72,
+        "reason": "$60–71.99 is fair only if the Still Waters craft story and profile are specifically appealing.",
+        "current_band": true
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 72,
+        "maximum_exclusive": 85,
+        "reason": "$72–84.99 competes with more mature single malts and is difficult to justify.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": 85,
+        "maximum_exclusive": null,
+        "reason": "$85 and above exceeds the evidence-supported drinking value.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat to evaluate cereal, honey and fruit before deciding whether the young edges need water."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A small cube can round grassy heat but may also mute the delicate orchard-fruit notes."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A clean soda highball suits the cereal and honey profile."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use minimal sugar and orange oil; let malt sweetness do most of the work."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Possible, but use a lighter vermouth so the youthful malt is not buried."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Stalk & Barrel Single Malt at 46% ABV / 92 proof. The dossier synthesizes the named 46% expression while retaining early single-cask variation; cask-strength bottlings are excluded.",
+    "image_limitation": "Exact 46% bottle imagery was identified in current/specialist records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no cask-strength or related bottle is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-036",
+    "editorial": {
+      "id": "stalk-barrel-single-malt-46",
+      "category": "Canadian Single Malt",
+      "proof": 92,
+      "age": null,
+      "age_display": "NAS; reviewed early casks were about 3 years old",
+      "grain": "100% locally sourced two-row malted barley",
+      "grain_confidence": "Exact 46% records identify 100% malted barley; early single-cask oak regimes varied, so cask history is kept separate from grain identity.",
+      "identity": "Stalk & Barrel Single Malt at 46% ABV / 92 proof. The dossier synthesizes the named 46% expression while retaining early single-cask variation; cask-strength bottlings are excluded.",
+      "short_version": "A flavorful but plainly youthful Canadian single malt: cereal, honey, orchard fruit and baking spice are attractive, yet grassy/raw notes and active oak keep it from full maturity.",
+      "producer": "Still Waters Distillery, Concord, Ontario",
+      "production": "The 46% single malt is made from locally sourced two-row malted barley and pot-distilled at Still Waters. Later exact-expression records identify ex-bourbon maturation, while early numbered casks demonstrate that oak treatment varied across the programme. No universal age beyond the legally matured reviewed releases is invented.",
+      "finish": "No separate finish documented. Ex-bourbon maturation is documented for the later 46% expression, while early single casks had cask-specific oak histories.",
+      "history": [
+        "Still Waters released Stalk & Barrel single malt in the early 2010s as one of the defining products of Ontario's modern microdistilling wave.",
+        "The 46% expression has appeared as single-cask and broader retail presentations. This dossier keeps the common proof/name together but does not pretend every numbered cask had identical wood treatment."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Whisky Advocate",
+          "url": "https://whiskyadvocate.com/Stalk-Barrel-Single-Malt-Cask-52-46",
+          "summary": "Finds halva, hay, pear and apple-pie aromas, then sweet fruit, cereal, ginger and cinnamon with a creamy medium finish; calls the three-year whisky already tasty while clearly anticipating improvement with age.",
+          "scope": "Spring 2016; exact Stalk & Barrel Single Malt Cask 52 at 46%."
+        },
+        {
+          "reviewer": "The Whisky Knights",
+          "publisher": "The Whisky Knights",
+          "url": "https://thewhiskyknights.com/stalk-barrel-single-malt/",
+          "summary": "Finds grass, cereal and honey on a light nose, then a youthful profile that lacks sufficient time in barrel; confirms 46%, 100% malted barley and ex-bourbon maturation for the reviewed bottle.",
+          "scope": "August 8, 2023; exact named 46% Stalk & Barrel Single Malt."
+        },
+        {
+          "reviewer": "Distiller editorial",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/stalk-barrel-single-malt",
+          "summary": "Documents the exact 46% single malt identity and provides specialist tasting context; community notes on the same page show substantial bottle-to-bottle and palate disagreement.",
+          "scope": "Exact Stalk & Barrel Single Malt, 46% ABV."
+        }
+      ],
+      "quality": 6.2,
+      "dimensions": [
+        6.2,
+        6.5,
+        6,
+        6.4,
+        6.3,
+        5.8,
+        6.8
+      ],
+      "quality_rationale": "The 46% malt has appealing cereal, fruit and spice character and enough distinctiveness to clear average comfortably, but both historical and recent evidence center its youth. Good execution with incomplete maturity is a 6.2, not a maturity-premium score.",
+      "quality_confidence": "Medium; multiple exact-name/strength sources across eras, with cask variation and youth explicitly limiting precision.",
+      "evidence_limit": "The dossier spans the 46% expression across casks/eras, so the score reflects recurring execution rather than claiming Cask 52 and every later retail bottle are identical.",
+      "pricing": {
+        "amount": 69.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-21",
+        "url": "https://www.whiskyshopusa.com/canada/",
+        "basis": "Current U.S. retailer regular MSRP checked October 21, 2026; the same listing showed a temporary $59.99 sale price.",
+        "nc_status": "No authenticated current NC ABC listing for this exact expression."
+      },
+      "value": 4.7,
+      "value_rationale": "At a regular U.S. $69.99 / 750 mL, this is priced like a more mature single malt than the independent evidence supports. The temporary $59.99 sale is easier to justify for exploration, but the regular shelf proposition remains below average.",
+      "availability": "A current retailer offer establishes dated U.S. purchase context; it does not prove every cask-era bottle or production regime remains current.",
+      "release_year": 2013,
+      "comparables": [
+        {
+          "name": "Shelter Point Classic Single Malt",
+          "url": "shelter-point-classic-single-malt.html",
+          "reason": "A Canadian single-malt reference at the same 46% proof point with a more settled core-expression profile."
+        },
+        {
+          "name": "Stalk & Barrel 100% Rye — 46%",
+          "url": "stalk-barrel-100-rye-46.html",
+          "reason": "The rye counterpart from Still Waters, useful for isolating house distillation/wood character from grain character."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 50,
+          "reason": "Below $50 compensates well for the documented youth while preserving an interesting Canadian malt experience.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": 50,
+          "maximum_exclusive": 60,
+          "reason": "$50–59.99 is a good exploratory buy and roughly matches the observed sale level.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 60,
+          "maximum_exclusive": 72,
+          "reason": "$60–71.99 is fair only if the Still Waters craft story and profile are specifically appealing.",
+          "current_band": true
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 72,
+          "maximum_exclusive": 85,
+          "reason": "$72–84.99 competes with more mature single malts and is difficult to justify.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": 85,
+          "maximum_exclusive": null,
+          "reason": "$85 and above exceeds the evidence-supported drinking value.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat to evaluate cereal, honey and fruit before deciding whether the young edges need water."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A small cube can round grassy heat but may also mute the delicate orchard-fruit notes."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A clean soda highball suits the cereal and honey profile."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use minimal sugar and orange oil; let malt sweetness do most of the work."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Possible, but use a lighter vermouth so the youthful malt is not buried."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Whisky Advocate — Stalk & Barrel Single Malt Cask 52, 46%",
+          "url": "https://whiskyadvocate.com/Stalk-Barrel-Single-Malt-Cask-52-46",
+          "role": "Named early 46% single-cask tasting with score, price and age context."
+        },
+        {
+          "title": "The Whisky Knights — Stalk & Barrel Single Malt",
+          "url": "https://thewhiskyknights.com/stalk-barrel-single-malt/",
+          "role": "Later exact 46% tasting and production identity; useful youth counterevidence."
+        },
+        {
+          "title": "Distiller — Stalk & Barrel Single Malt",
+          "url": "https://distiller.com/spirits/stalk-barrel-single-malt",
+          "role": "Exact-expression specialist identity and broader tasting context."
+        },
+        {
+          "title": "The Whisky Shop San Francisco — Canada",
+          "url": "https://www.whiskyshopusa.com/canada/",
+          "role": "Dated U.S. 750 mL regular MSRP and sale context."
+        }
+      ],
+      "image_limitation": "Exact 46% bottle imagery was identified in current/specialist records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no cask-strength or related bottle is substituted."
+    }
+  },
+  {
+    "slug": "stalk-barrel-three-barrel",
+    "filename": "stalk-barrel-three-barrel.html",
+    "name": "Stalk & Barrel Three Barrel",
+    "family": "Stalk & Barrel",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Still Waters Distillery, Concord, Ontario",
+    "proof": 86,
+    "abv": 43,
+    "age": "NAS",
+    "age_display": "NAS",
+    "age_sort_years": null,
+    "mash_bill_display": "Blend of Still Waters rye, Still Waters single malt and traditional corn whisky; exact ratios undisclosed",
+    "mash_bill_confidence": "The exact Three Barrel launch-era account names the three components; no percentages are inferred.",
+    "quality": 5.8,
+    "quality_score": 5.8,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "The 5.8 score deliberately preserves the conflict between a positive specialist account and a negative full independent review. Neither is treated as universally representative of every batch.",
+      "universal_dimensions": {
+        "integration": 5.8,
+        "flavor_development": 6,
+        "finish": 5.4,
+        "technical_cleanliness": 5.7,
+        "texture": 6,
+        "maturity_wood_management": 5.5,
+        "distinctiveness": 6.4
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 5.785,
+      "editorial_adjustment": 0.015,
+      "adjustment_reason": "The exact evidence is unusually polarized: one expert launch-era account describes a complex, well-balanced blend, while an independent full review finds severe heat, bitterness and poor development. The sensible category-relative result is modestly above average with low confidence, not a forced consensus."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The exact evidence is unusually polarized: one expert launch-era account describes a complex, well-balanced blend, while an independent full review finds severe heat, bitterness and poor development. The sensible category-relative result is modestly above average with low confidence, not a forced consensus.",
+    "quality_confidence": "Low-medium; two substantive exact-expression accounts sharply disagree on integration and maturity.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: exact-expression Quality is supportable, but no defensible dated U.S. retail reference was authenticated for a current value judgment.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No defensible current U.S. 750 mL retail offer was authenticated. The launch-era Canadian context was CAD $34.95 / 750 mL in 2020 and is not converted into U.S. Value.",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC listing for this exact expression.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2020,
+    "release_scope": "Stalk & Barrel Three Barrel at 43% ABV / 86 proof, the 2020-era small-batch blend of separately ex-bourbon-aged rye, single malt and corn whisky. The 40% discovery seed is corrected.",
+    "availability_note": "Historical Canadian price and release records establish context only; they are not converted into a current U.S. price.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://canadiandistilleries.com/blog/stalk-amp-barrel-three-barrel-whisky",
+      "https://www.connosr.com/stillwaters-stalk-and-barrel-three-barrel-whisky-whisky-review-13501"
+    ],
+    "review_publishers": [
+      "The Definitive Guide to Canadian Distilleries",
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux & Blair Phillips",
+        "publisher": "The Definitive Guide to Canadian Distilleries",
+        "url": "https://canadiandistilleries.com/blog/stalk-amp-barrel-three-barrel-whisky",
+        "summary": "Find creamy vanilla, barley sugar, chocolate, cocoa, citrus and warming clove/spice, presenting the blend as a successful step forward for the distillery.",
+        "scope": "May 23, 2020; exact Three Barrel launch-era whisky."
+      },
+      {
+        "reviewer": "Megawatt",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/stillwaters-stalk-and-barrel-three-barrel-whisky-whisky-review-13501",
+        "summary": "Finds vanilla and cocoa on the nose but a hot, spirity palate that turns bitter and fades quickly, judging it disappointing and immature.",
+        "scope": "June 28, 2020; exact Three Barrel at 43% ABV."
+      }
+    ],
+    "source_urls": [
+      "https://canadiandistilleries.com/blog/stalk-amp-barrel-three-barrel-whisky",
+      "https://www.connosr.com/stillwaters-stalk-and-barrel-three-barrel-whisky-whisky-review-13501",
+      "https://canadiandistilleries.com/blog/12-drammers-dramming-whisky"
+    ],
+    "production_summary": "Launch-era reporting by Canadian whisky writers Davin de Kergommeaux and Blair Phillips identifies Still Waters rye and single malt blended with traditional corn whisky, each component aged separately in ex-bourbon casks. Batches were made at under 1,000 litres. The exact reviewed expression is 43% ABV / 86 proof.",
+    "finishing_information": "No separate finish documented; the three component whiskies were separately matured in ex-bourbon casks before blending.",
+    "identity_note": null,
+    "history": [
+      "Three Barrel arrived around Still Waters' tenth-anniversary period in 2020 as a later blended-whisky development rather than a relabeling of Blue or Red.",
+      "Its name refers to the three whisky components/barrel streams in the blend, not to three sequential finishing casks."
+    ],
+    "comparables": [
+      {
+        "name": "Stalk & Barrel Red Blend",
+        "url": "stalk-barrel-red-blend.html",
+        "reason": "The preceding higher-tier blend, also 43%, but with a different documented component balance."
+      },
+      {
+        "name": "Stalk & Barrel Blue Blend",
+        "url": "stalk-barrel-blue-blend.html",
+        "reason": "The lighter 40% mixer-oriented sibling, useful for seeing what Three Barrel was trying to add."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Try neat first because the disagreement centers on integration, heat and bitterness."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A small cube may improve the harsher showing, though over-dilution risks flattening the cocoa and spice."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A soda highball is a sensible fallback if the batch presents hot or bitter."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use modest sugar; cocoa, vanilla and spice can make an interesting build if the sample is balanced."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use a lighter vermouth and test a half-size build before committing a full pour."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Stalk & Barrel Three Barrel at 43% ABV / 86 proof, the 2020-era small-batch blend of separately ex-bourbon-aged rye, single malt and corn whisky. The 40% discovery seed is corrected.",
+    "image_limitation": "Exact Three Barrel imagery was identified in matched launch/review records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Red or Blue bottle is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-036",
+    "editorial": {
+      "id": "stalk-barrel-three-barrel",
+      "category": "Canadian Blended Whisky",
+      "proof": 86,
+      "age": null,
+      "age_display": "NAS",
+      "grain": "Blend of Still Waters rye, Still Waters single malt and traditional corn whisky; exact ratios undisclosed",
+      "grain_confidence": "The exact Three Barrel launch-era account names the three components; no percentages are inferred.",
+      "identity": "Stalk & Barrel Three Barrel at 43% ABV / 86 proof, the 2020-era small-batch blend of separately ex-bourbon-aged rye, single malt and corn whisky. The 40% discovery seed is corrected.",
+      "short_version": "An ambitious 43% blend with creamy malt, cocoa, citrus and warming spice in its best showing, but another exact review finds it hot, bitter and underdeveloped; the split evidence caps confidence and score.",
+      "producer": "Still Waters Distillery, Concord, Ontario",
+      "production": "Launch-era reporting by Canadian whisky writers Davin de Kergommeaux and Blair Phillips identifies Still Waters rye and single malt blended with traditional corn whisky, each component aged separately in ex-bourbon casks. Batches were made at under 1,000 litres. The exact reviewed expression is 43% ABV / 86 proof.",
+      "finish": "No separate finish documented; the three component whiskies were separately matured in ex-bourbon casks before blending.",
+      "history": [
+        "Three Barrel arrived around Still Waters' tenth-anniversary period in 2020 as a later blended-whisky development rather than a relabeling of Blue or Red.",
+        "Its name refers to the three whisky components/barrel streams in the blend, not to three sequential finishing casks."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux & Blair Phillips",
+          "publisher": "The Definitive Guide to Canadian Distilleries",
+          "url": "https://canadiandistilleries.com/blog/stalk-amp-barrel-three-barrel-whisky",
+          "summary": "Find creamy vanilla, barley sugar, chocolate, cocoa, citrus and warming clove/spice, presenting the blend as a successful step forward for the distillery.",
+          "scope": "May 23, 2020; exact Three Barrel launch-era whisky."
+        },
+        {
+          "reviewer": "Megawatt",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/stillwaters-stalk-and-barrel-three-barrel-whisky-whisky-review-13501",
+          "summary": "Finds vanilla and cocoa on the nose but a hot, spirity palate that turns bitter and fades quickly, judging it disappointing and immature.",
+          "scope": "June 28, 2020; exact Three Barrel at 43% ABV."
+        }
+      ],
+      "quality": 5.8,
+      "dimensions": [
+        5.8,
+        6,
+        5.4,
+        5.7,
+        6,
+        5.5,
+        6.4
+      ],
+      "quality_rationale": "The exact evidence is unusually polarized: one expert launch-era account describes a complex, well-balanced blend, while an independent full review finds severe heat, bitterness and poor development. The sensible category-relative result is modestly above average with low confidence, not a forced consensus.",
+      "quality_confidence": "Low-medium; two substantive exact-expression accounts sharply disagree on integration and maturity.",
+      "evidence_limit": "The 5.8 score deliberately preserves the conflict between a positive specialist account and a negative full independent review. Neither is treated as universally representative of every batch.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": null,
+        "url": null,
+        "basis": "No defensible current U.S. 750 mL retail offer was authenticated. The launch-era Canadian context was CAD $34.95 / 750 mL in 2020 and is not converted into U.S. Value.",
+        "nc_status": "No authenticated current NC ABC listing for this exact expression."
+      },
+      "value": null,
+      "value_rationale": "N/A: exact-expression Quality is supportable, but no defensible dated U.S. retail reference was authenticated for a current value judgment.",
+      "availability": "Historical Canadian price and release records establish context only; they are not converted into a current U.S. price.",
+      "release_year": 2020,
+      "comparables": [
+        {
+          "name": "Stalk & Barrel Red Blend",
+          "url": "stalk-barrel-red-blend.html",
+          "reason": "The preceding higher-tier blend, also 43%, but with a different documented component balance."
+        },
+        {
+          "name": "Stalk & Barrel Blue Blend",
+          "url": "stalk-barrel-blue-blend.html",
+          "reason": "The lighter 40% mixer-oriented sibling, useful for seeing what Three Barrel was trying to add."
+        }
+      ],
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No numeric U.S. buy band is published because a current dated U.S. 750 mL offer was not authenticated.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Try neat first because the disagreement centers on integration, heat and bitterness."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A small cube may improve the harsher showing, though over-dilution risks flattening the cocoa and spice."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A soda highball is a sensible fallback if the batch presents hot or bitter."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use modest sugar; cocoa, vanilla and spice can make an interesting build if the sample is balanced."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use a lighter vermouth and test a half-size build before committing a full pour."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Definitive Guide to Canadian Distilleries — Stalk & Barrel Three Barrel",
+          "url": "https://canadiandistilleries.com/blog/stalk-amp-barrel-three-barrel-whisky",
+          "role": "Launch-era exact recipe, batch-size and positive tasting account."
+        },
+        {
+          "title": "Whisky Connosr — Still Waters Stalk & Barrel Three Barrel",
+          "url": "https://www.connosr.com/stillwaters-stalk-and-barrel-three-barrel-whisky-whisky-review-13501",
+          "role": "Exact 43% negative counter-review, essential to the provisional score."
+        },
+        {
+          "title": "Canadian whisky holiday guide — Three Barrel 43%",
+          "url": "https://canadiandistilleries.com/blog/12-drammers-dramming-whisky",
+          "role": "Launch-era 43% identity and CAD $34.95 / 750 mL context."
+        }
+      ],
+      "image_limitation": "Exact Three Barrel imagery was identified in matched launch/review records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Red or Blue bottle is substituted."
+    }
   }
 ]
