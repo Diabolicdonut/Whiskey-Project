@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Render explicitly authored expansion records; never rebuild a baseline dossier."""
-import base64, csv, hashlib, html, io, json, math, pathlib, re, subprocess, sys
+import base64, csv, hashlib, html, io, json, math, pathlib, re, subprocess, sys, os, datetime
 from decimal import Decimal, ROUND_HALF_UP
 ROOT=pathlib.Path(__file__).resolve().parent.parent
 DATA=ROOT/'north-american-expansion-data.json'
-DATE='2026-10-14'
+DATE=os.environ.get('OLD_OAK_RESEARCH_DATE',datetime.date.today().isoformat())
 esc=lambda s:html.escape(str(s),quote=True)
 def dump(o):return json.dumps(o,ensure_ascii=False,indent=2)+'\n'
 def half(x):return float(Decimal(str(x)).quantize(Decimal('.1'),rounding=ROUND_HALF_UP))
