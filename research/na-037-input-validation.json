@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-21",
+  "status": "authored_validated_not_published",
+  "repository_head": "714113387f41ec6d28d601956989656587fb81d8",
+  "accepted_site_checkpoint": 36,
+  "accepted_site_dossiers": 1043,
+  "authored_dossiers": 7,
+  "record_ids": [
+    "two-brewers-yukon-single-malt-release-22",
+    "two-brewers-yukon-single-malt-release-33",
+    "two-brewers-yukon-single-malt-release-35",
+    "windsor-canadian-original",
+    "windsor-canadian-reserve",
+    "alberta-premium-20-year-2019",
+    "alberta-springs-10-year"
+  ],
+  "independent_scored_count": 6,
+  "unscored_for_insufficient_independent_evidence": [
+    "windsor-canadian-reserve"
+  ],
+  "source_links": 21,
+  "unique_source_links": 21,
+  "checks": [
+    "Distinct ledger candidate IDs",
+    "Every candidate remains pending on authoritative ledger",
+    "Mandatory dossier fields supplied",
+    "Minimum two comparable links",
+    "Exactly five buying guidance bands",
+    "At least four serving recommendations",
+    "Published-source HTTPS URL shape",
+    "Numeric Quality guarded by matching independent reviews",
+    "Numeric Value guarded by Quality and USD price",
+    "Original accepted checkpoint unchanged"
+  ],
+  "caveats": [
+    "Source URLs were not fetched during this structural input check.",
+    "Original 825 baseline and 1,043 published pages not re-rendered or revalidated in this step.",
+    "The seven candidate HTML pages and catalogue projections have NOT been published.",
+    "Full static validator and three-viewport headless Chromium runtime must run after publishing."
+  ]
+}
