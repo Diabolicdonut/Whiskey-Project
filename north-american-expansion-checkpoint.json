@@ -2327,10 +2327,32 @@
         "stalk-barrel-three-barrel.html"
       ],
       "parent_commit": "36b5df23421a2fba5dd906ea21ae3d883f2b9511",
-      "status": "awaiting_validation"
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 10857,
+        "functional_cases_passed": 480,
+        "responsive_pages_rendered": 657,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "embedded_image_dossiers_added_total": 191,
+        "failures": 0
+      },
+      "additional_preservation": "All 213 earlier expansion dossiers/data and 1,038 prior index rows preserved; all 238 immutable candidate id/order pairs unchanged. Original 825 dossier hashes and original 825 index rows verified by the checkpoint validator.",
+      "identity_resolutions": [
+        "Candidates 224–228 processed in exact deterministic order; no Two Brewers work included.",
+        "Stalk & Barrel 100% Rye corrected to ex-bourbon maturation (not new oak): exact 46% / 92-proof single-cask release, 100% Ontario rye, minimum three-year reviewed regime; provisional Quality 6.4 and Value 4.7 against the dated U.S. $69.99 regular MSRP.",
+        "Blue Blend verified at 40% / 80 proof as the corn-rye-malt mixer-oriented blend; provisional Quality 5.2. Value remains N/A because the matched U.S. dollar price evidence is historical rather than a defensible 2026 reference.",
+        "Red Blend verified at 43% / 86 proof with a high proportion of aged single malt and rye plus selected corn; professional evidence is strong but youthful/community counterevidence is retained. Provisional Quality 6.7 and Value 5.9 against the dated U.S. $44.99 regular MSRP.",
+        "Single Malt 46% verified at 92 proof from 100% malted barley, with cask/era variation explicitly preserved; provisional Quality 6.2 and Value 4.7 against the dated U.S. $69.99 regular MSRP.",
+        "Three Barrel discovery proof corrected from 80 to 86: exact 43% blend of separately ex-bourbon-aged rye, single malt and corn whisky in sub-1,000-litre batches. Strongly conflicting exact reviews support provisional Quality 5.8; Value remains N/A without a defensible current U.S. price.",
+        "Exact-expression imagery was identified for the family, but exact image bytes were not authenticated for self-contained embedding; no sibling bottle was substituted and no standalone image assets were added."
+      ]
     }
   ],
-  "next_action": "Validate current Stalk & Barrel batch, record acceptance and push immediately; then research next pending entries in deterministic order.",
+  "next_action": "Research next pending expression in deterministic order: two-brewers-yukon-single-malt-release-22",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -2338,33 +2360,34 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 35,
+      "checkpoint": 36,
       "status": "passed",
       "full_repository_validation": false,
-      "dossiers": 1038,
-      "new_dossiers": 213,
-      "html_files_structurally_checked": 214,
+      "dossiers": 1043,
+      "new_dossiers": 218,
+      "html_files_structurally_checked": 219,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 10687,
-      "local_references_checked": 2969,
+      "checks": 10857,
+      "local_references_checked": 3019,
       "embedded_image_occurrences_decoded": 191,
       "unique_image_payloads_decoded": 191,
       "image_dossiers_added": 191,
       "numeric_counts": {
-        "quality": 197,
-        "value": 110,
-        "overall": 110
+        "quality": 202,
+        "value": 113,
+        "overall": 113
       },
       "failure_count": 0,
       "failures": []
     },
     "runtime": {
       "schema": "old-oak-runtime-validation-v1",
+      "accepted_content_commit": "08aabea554f0a11ec9f73663d8a4768ffa4396d8",
       "functional_cases": [
         {
-          "case": "1038 unique dossier rows and dossier targets",
+          "case": "1043 unique dossier rows and dossier targets",
           "status": "passed"
         },
         {
@@ -4108,6 +4131,18 @@
           "status": "passed"
         },
         {
+          "case": "Filter #family StalkBarrel",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family StalkBarrel",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family StalkBarrel",
+          "status": "passed"
+        },
+        {
           "case": "Filter #basis all",
           "status": "passed"
         },
@@ -4272,8 +4307,8 @@
           "status": "passed"
         }
       ],
-      "responsive_cases": 642,
-      "dossiers_rendered": 213,
+      "responsive_cases": 657,
+      "dossiers_rendered": 218,
       "index_rendered": true,
       "console_errors": [],
       "page_errors": [],
@@ -4288,7 +4323,7 @@
     }
   },
   "updated_at": "2026-10-21",
-  "last_parent_commit": "36b5df23421a2fba5dd906ea21ae3d883f2b9511",
+  "last_parent_commit": "08aabea554f0a11ec9f73663d8a4768ffa4396d8",
   "final_ui_normalization": {
     "status": "pending_until_ledger_exhausted",
     "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",
