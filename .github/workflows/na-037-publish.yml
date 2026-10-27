@@ -1,0 +1,80 @@
+name: NA-037 guarded publication and final Canadian expansion signoff
+on:
+  push:
+    branches: [main]
+    paths:
+      - research/NA-037-RELEASE-REQUEST.md
+permissions:
+  contents: write
+concurrency:
+  group: old-oak-na-037-release
+  cancel-in-progress: false
+jobs:
+  publish:
+    name: Validate before committing seven Canadian dossiers
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install static and Chromium verification dependencies
+        run: |
+          python -m pip install html5lib==1.1 Pillow==11.3.0 lxml==6.0.1
+          npm install --no-save --package-lock=false playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Assert deterministic preflight and publish seven authored dossiers locally
+        env:
+          OLD_OAK_RESEARCH_DATE: '2026-10-21'
+        run: |
+          set -euo pipefail
+          python scripts/na_037_release.py preflight
+          python scripts/north_american_build.py research/na-037-authored.json
+          python scripts/na_037_release.py normalize
+      - name: Full static baseline and expansion preservation audit
+        run: python scripts/north_american_validate.py --full
+      - name: Chromium functional and responsive audit at 390, 768, 1440
+        run: node scripts/north_american_runtime.cjs --focused
+      - name: Accept only zero-failure gates; close the expansion and update roadmap R002
+        run: |
+          set -euo pipefail
+          python scripts/na_037_release.py finalize
+          python scripts/roadmap_validate.py
+          python scripts/north_american_validate.py --full
+      - name: Verify expected files and publish as one fast-forward checkpoint
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- index.html north-american-expansion-data.json \
+            north-american-expansion-checkpoint.json north-american-expression-ledger.json \
+            DEVELOPMENT-ROADMAP.md site-progress.json \
+            two-brewers-yukon-single-malt-release-22.html \
+            two-brewers-yukon-single-malt-release-33.html \
+            two-brewers-yukon-single-malt-release-35.html \
+            windsor-canadian-original.html windsor-canadian-reserve.html \
+            alberta-premium-20-year-2019.html alberta-springs-10-year.html
+          test "$(git diff --cached --name-only | wc -l)" -eq 13
+          git diff --cached --check
+          git commit -m 'NA-037: accept seven Canadian dossiers, complete expansion and roadmap R002'
+          git push origin HEAD:main
+      - name: Record prepublication verification summary
+        if: always()
+        run: |
+          mkdir -p .na-037-release-report
+          if [ -f ../expansion-research/static-report.json ]; then cp ../expansion-research/static-report.json .na-037-release-report/; fi
+          if [ -f ../expansion-research/runtime-output/runtime-report.json ]; then cp ../expansion-research/runtime-output/runtime-report.json .na-037-release-report/; fi
+      - name: Upload proof of release verification
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: old-oak-na-037-precommit-validation
+          path: .na-037-release-report/
+          retention-days: 30
