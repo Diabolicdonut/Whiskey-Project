@@ -27,6 +27,8 @@ jobs:
           python -m pip install html5lib==1.1 Pillow==11.3.0 lxml==6.0.1
           npm install --no-save --package-lock=false playwright@1.56.1
           npx playwright install --with-deps chromium
+      - name: Verify authoritative development roadmap and homepage status
+        run: python scripts/roadmap_validate.py
       - name: Static repository validation
         id: static
         continue-on-error: true
