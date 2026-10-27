@@ -116,7 +116,7 @@ def finalize():
 
     text=ROADMAP.read_text(encoding='utf-8')
     assert_eq(text.count('**Roadmap revision:** R001'),1,'roadmap revision marker')
-    text=text.replace('**Roadmap revision:** R001','**Roadmap revision:** R002',1)
+    text=text.replace('**Roadmap revision:** R001  ','**Roadmap revision:** R002',1)
     old='| na-expansion | Close all 238 Widow Jane/Canadian expression decisions and publish validated dossiers | 11 | partial |'
     if old not in text:raise ValueError('Roadmap gate missing')
     text=text.replace(old,old.replace(' | partial |',' | accepted |'),1)
