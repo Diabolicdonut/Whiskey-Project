@@ -138,6 +138,7 @@
         "status": "partial",
         "evidence": "DEVELOPMENT-ROADMAP.md; site-progress.json; scripts/roadmap_validate.py"
       }
-    ]
+    ],
+    "documentUrl": "https://github.com/Diabolicdonut/Whiskey-Project/blob/main/DEVELOPMENT-ROADMAP.md"
   }
 }
