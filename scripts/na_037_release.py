@@ -52,21 +52,21 @@ def normalize():
     text=INDEX.read_text(encoding='utf-8')
     report={}
     for field in ('category','family','basis','period','calibration'):
-        pat=re.compile(r'(<select\\b[^>]*\\bid="'+re.escape(field)+r'"[^>]*>)(.*?)(</select>)',re.S)
+        pat=re.compile(r'(<select\b[^>]*\bid="'+re.escape(field)+r'"[^>]*>)(.*?)(</select>)',re.S)
         match=pat.search(text)
         if not match:raise ValueError('Selector not found: '+field)
         body=match.group(2)
-        found=list(re.finditer(r'<option\\b[^>]*value="([^"]*)"[^>]*>.*?</option>',body,re.S))
+        found=list(re.finditer(r'<option\b[^>]*value="([^"]*)"[^>]*>.*?</option>',body,re.S))
         if not found:raise ValueError('Options missing: '+field)
         values=[x.group(1) for x in found]
         if len(values)!=len(set(values)):raise ValueError('Duplicate filter values: '+field)
         if values.count('all')!=1:raise ValueError('Expected exactly one All option: '+field)
         # Require the body to contain only option tags and whitespace.
-        residual=re.sub(r'<option\\b[^>]*>.*?</option>','',body,flags=re.S)
+        residual=re.sub(r'<option\b[^>]*>.*?</option>','',body,flags=re.S)
         if residual.strip():raise ValueError('Unexpected selector markup: '+field)
         entries=[(x.group(1),x.group(0)) for x in found]
         def name(option):
-            return re.sub(r'\\s*\\(\\d+\\)\\s*$','',unescape(re.sub(r'<[^>]+>','',option[1]))).strip().casefold()
+            return re.sub(r'\s*\(\d+\)\s*$','',unescape(re.sub(r'<[^>]+>','',option[1]))).strip().casefold()
         entries.sort(key=lambda pair:(pair[0]!='all',name(pair),pair[0]))
         normalized='\n'.join('  '+raw for _,raw in entries)
         text=text[:match.start(2)]+normalized+text[match.end(2):]
@@ -123,7 +123,7 @@ def finalize():
     oldpct='**Current baseline: 30% accepted (30/100 weighted points).**'
     if oldpct not in text:raise ValueError('Roadmap progress sentence missing')
     text=text.replace(oldpct,'**Current baseline: 41% accepted (41/100 weighted points).**',1)
-    pattern=r'\\*\\*Stage A — Preserve and finish current commitments\\.\\*\\*[^\\n]+'
+    pattern=r'\*\*Stage A — Preserve and finish current commitments\.\*\*[^\n]+'
     newstage=("**Stage A — Preserve and finish current commitments.** Original 825 dossiers remain immutable. "
        "As of 2026-10-27, **NA-037, 1,050 dossiers** = 825 baseline + 28 Widow Jane + 197 Canadian; "
        "ledger **225 accepted, 11 excluded, 2 baseline-preserved, 0 pending** "
@@ -149,7 +149,7 @@ def finalize():
     print(json.dumps({'phase':'finalize','checkpoint':37,'published_dossiers':1050,'expansion_dispositions':'238/238','roadmap_revision':'R002','accepted_roadmap_points':41}))
 
 def read_roadmap_gates(text):
-    lines=[x for x in text.splitlines() if re.match(r'^\\| [a-z][a-z0-9-]+ \\|',x)]
+    lines=[x for x in text.splitlines() if re.match(r'^\| [a-z][a-z0-9-]+ \|',x)]
     gates=[]
     for line in lines:
         columns=[x.strip() for x in line.split('|')[1:-1]]
