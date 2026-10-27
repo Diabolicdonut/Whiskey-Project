@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "project": "Whiskey-Project",
   "asOf": "2026-10-27",
-  "revision": "NA-036",
+  "revision": "R001",
   "revisionSource": {
     "type": "json",
     "file": "north-american-expansion-checkpoint.json",
@@ -10,7 +10,7 @@
     "prefix": "NA-"
   },
   "progress": {
-    "label": "North American expansion decisions",
+    "label": "North American expansion candidate decisions",
     "completed": 231,
     "total": 238,
     "source": {
@@ -24,91 +24,119 @@
       ],
       "totalField": "candidates"
     },
-    "basis": "Accepted + excluded + baseline-preserved decisions out of 238 documented expression candidates (7 pending at checkpoint 036).",
-    "note": "Not the completion percentage of an unlimited whiskey catalogue."
+    "basis": "Resolved expression identities (accepted + excluded + baseline-preserved) divided by the authoritative discovery ledger candidate count; counts refresh from the ledger on page load.",
+    "note": "A phase-specific count, not the total-project completion percentage."
   },
   "roadmap": {
-    "label": "Approved Old Oak Omnibus delivery roadmap",
-    "scope": "Finite editorial/platform delivery scope: verified dossiers and image baseline, category-relative scoring/value, catalogue browsing, bounded 238-candidate Canadian/Widow Jane expansion, source quality and future authorized families. Infinite possible whiskey releases are explicitly out of scope.",
-    "document": "ROADMAP-COVERAGE.md",
-    "note": "Accepted weighted gates only; the separate 231/238 expansion decision count continues to refresh from the authoritative expression ledger.",
+    "label": "Full Old Oak Omnibus development vision",
+    "scope": "15 finite accepted-or-planned delivery gates spanning the article corpus, category-wide scoring and NC value, future families/world styles, provenance, UI, QA and living maintenance; possible future releases are not used as a fictional denominator.",
+    "document": "DEVELOPMENT-ROADMAP.md",
+    "note": "Only fully accepted gates earn weighted points. The 30% baseline replaces the older, narrower 44% metric because more of the known long-term vision is included.",
     "gates": [
       {
-        "id": "validated-core",
-        "label": "Recovered and accepted 825-dossier North American baseline",
-        "weight": 16,
+        "id": "foundation",
+        "label": "Preserve accepted 825-dossier baseline and authoritative recovery records",
+        "weight": 8,
+        "status": "accepted",
+        "evidence": "final-validation-checkpoint.json; north-american-expansion-checkpoint.json"
+      },
+      {
+        "id": "initial-corpus",
+        "label": "Establish the initial researched 825-expression dossier corpus",
+        "weight": 10,
         "status": "accepted",
         "evidence": "final-validation-checkpoint.json; audit.md"
       },
       {
-        "id": "scoring-framework",
-        "label": "Quality/Value rubric, category anchors and audit framework documented",
-        "weight": 12,
-        "status": "accepted",
-        "evidence": "calibration-hierarchy-v6.2.md; score-audit.json"
-      },
-      {
-        "id": "image-embeds",
-        "label": "Initial 825-dossier image inspection and verified embedding audit",
-        "weight": 8,
+        "id": "image-audit",
+        "label": "Finish the initial 825-image inspection and verified embedding pass",
+        "weight": 5,
         "status": "accepted",
         "evidence": "image-embedding-checkpoint.json"
       },
       {
-        "id": "landing-catalog",
-        "label": "Searchable/sortable expression landing list and metadata catalog",
-        "weight": 8,
+        "id": "catalogue-core",
+        "label": "Deliver searchable, compact, nine-column sortable catalogue and score model",
+        "weight": 7,
         "status": "accepted",
-        "evidence": "index.html; whiskey-data.json"
+        "evidence": "index.html; whiskey-data.json; scripts/north_american_validate.py"
       },
       {
-        "id": "price-bands",
-        "label": "Auditable current NC ABC prices and value/buy band consistency",
+        "id": "na-expansion",
+        "label": "Close all 238 Widow Jane/Canadian expression decisions and publish validated dossiers",
+        "weight": 11,
+        "status": "partial",
+        "evidence": "north-american-expansion-checkpoint.json; north-american-expression-ledger.json; research/na-037-authored.json"
+      },
+      {
+        "id": "sagamore",
+        "label": "Complete separately researched Sagamore Spirit expression family",
+        "weight": 8,
+        "status": "planned",
+        "evidence": "future Sagamore discovery ledger"
+      },
+      {
+        "id": "priority-families",
+        "label": "Close approved North American family gaps (Weller, Kings, Jeptha Creed, Canadian Club and others)",
+        "weight": 5,
+        "status": "planned",
+        "evidence": "family-catalog-v6.7.md; future family ledgers"
+      },
+      {
+        "id": "world-families",
+        "label": "Expand major international and underserved whiskey styles in approved finite batches",
+        "weight": 5,
+        "status": "planned",
+        "evidence": "future approved discovery ledgers"
+      },
+      {
+        "id": "quality-calibration",
+        "label": "Recalibrate all dossiers with category-specific 1–10 anchors and reviewer-supported evidence",
         "weight": 9,
         "status": "partial",
-        "evidence": "value-review-audit.json; site-progress.json"
+        "evidence": "calibration-hierarchy-v6.2.md; score-audit.json; north-american-calibration.md"
       },
       {
-        "id": "north-america-discovery",
-        "label": "Complete 238-candidate Widow Jane/Canadian disposition decisions",
-        "weight": 13,
-        "status": "partial",
-        "evidence": "north-american-expression-ledger.json (231/238 decided)"
-      },
-      {
-        "id": "north-america-signoff",
-        "label": "Fully validated expansion publication, provenance and final audit",
-        "weight": 7,
-        "status": "partial",
-        "evidence": "north-american-expansion-checkpoint.json (implementation_in_progress)"
-      },
-      {
-        "id": "next-family-expansion",
-        "label": "Next approved Sagamore and post-North-American producer families",
-        "weight": 6,
-        "status": "planned",
-        "evidence": "north-american-expansion-checkpoint.json; README.md"
-      },
-      {
-        "id": "dossier-depth",
-        "label": "Consistent full reviews, technical/source distinctions and cross-comparisons",
+        "id": "price-value",
+        "label": "Maintain trustworthy NC ABC-oriented pricing, Value, and five evidence-based buy bands",
         "weight": 8,
         "status": "partial",
-        "evidence": "incomplete-dossier-review-v5.1.md; audit.md"
+        "evidence": "value-review-audit.json; north-american-expansion-data.json"
       },
       {
-        "id": "editorial-quality",
-        "label": "Source refresh, year/edition normalization, price provenance and crosslinks",
+        "id": "dossier-standard",
+        "label": "Enforce complete canonical articles, serving comparisons and traceable reviewer synthesis",
+        "weight": 7,
+        "status": "partial",
+        "evidence": "incomplete-dossier-review-v5.1.md; scripts/north_american_validate.py"
+      },
+      {
+        "id": "media-provenance",
+        "label": "Complete expression-exact bottle imagery and public source/link provenance checks",
         "weight": 6,
         "status": "partial",
-        "evidence": "family-catalog-v6.7.md; calibration-hierarchy-v6.2.md"
+        "evidence": "image-embedding-checkpoint.json; north-american-expression-ledger.json"
+      },
+      {
+        "id": "ux-accessibility",
+        "label": "Finish family/alphabetical filter normalization, responsive design and accessibility",
+        "weight": 5,
+        "status": "partial",
+        "evidence": "index.html; scripts/north_american_runtime.cjs"
       },
       {
         "id": "release-qa",
-        "label": "Responsive/accessibility, mobile usage and automated publish acceptance",
-        "weight": 7,
+        "label": "Apply full-repository static, browser and preservation acceptance on every release",
+        "weight": 4,
         "status": "partial",
-        "evidence": "scripts/; .github/workflows/completion-validation.yml"
+        "evidence": "scripts/north_american_validate.py; .github/workflows/completion-validation.yml"
+      },
+      {
+        "id": "project-governance",
+        "label": "Maintain single source-of-truth roadmap, revision and forward maintenance workflow",
+        "weight": 2,
+        "status": "partial",
+        "evidence": "DEVELOPMENT-ROADMAP.md; site-progress.json; scripts/roadmap_validate.py"
       }
     ]
   }
