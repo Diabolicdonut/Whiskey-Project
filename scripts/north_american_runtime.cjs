@@ -23,7 +23,21 @@ function observe(page){
 }
 async function functional(page,BASE){
   await page.goto(BASE,{waitUntil:'load'});
-  const original=await page.locator('#bottles tr').evaluateAll(rs=>rs.map(r=>({id:r.id,dataset:{...r.dataset},text:r.textContent,mash:r.querySelector('td.mash').textContent,href:r.querySelector('a').getAttribute('href')})));
+  // The badge is part of the published reader experience, not just JSON metadata.
+  // Its primary percentage must represent the entire accepted development roadmap.
+  const manifest=JSON.parse(fs.readFileSync(path.join(ROOT,'site-progress.json'),'utf8'));
+  const overall=manifest.roadmap.gates.filter(g=>g.status==='accepted').reduce((n,g)=>n+g.weight,0);
+  await page.locator('#project-progress-status summary').waitFor({state:'visible',timeout:20000});
+  const badge=await page.locator('#project-progress-status summary').innerText();
+  check('Homepage revision matches roadmap',()=>assert.ok(badge.includes('Rev '+manifest.revision),badge));
+  check('Homepage overall progress is roadmap-weighted, not phase-only',()=>assert.ok(badge.includes('Roadmap '+overall+'%'),badge));
+  await page.locator('#project-progress-status summary').click();
+  const roadmapHref=await page.locator('#project-progress-status .p-detail a').getAttribute('href');
+  check('Expanded status links authoritative development roadmap',()=>assert.ok(roadmapHref.endsWith('/DEVELOPMENT-ROADMAP.md'),roadmapHref));
+  const expandedStatus=await page.locator('#project-progress-status .p-detail').innerText();
+  const phase=JSON.parse(fs.readFileSync(path.join(ROOT,'north-american-expansion-checkpoint.json'),'utf8'));
+  check('Expanded status distinguishes editorial checkpoint',()=>assert.ok(expandedStatus.includes('NA-'+phase.checkpoint),expandedStatus));
+  const original=await page.locator('#bottles tr' ).evaluateAll(rs=>rs.map(r=>({id:r.id,dataset:{...r.dataset},text:r.textContent,mash:r.querySelector('td.mash').textContent,href:r.querySelector('a').getAttribute('href')})));
   check(total+' unique dossier rows and dossier targets',()=>{assert.equal(original.length,total);assert.equal(new Set(original.map(r=>r.id)).size,total);assert.equal(new Set(original.map(r=>r.href)).size,total);});
   check('Old Oak title and application metadata',()=>{assert.equal(fs.readFileSync(path.join(ROOT,'index.html'),'utf8').includes('<title>Old Oak Omnibus</title>'),true);});
   const visible=()=>page.locator('#bottles tr').evaluateAll(rs=>rs.filter(r=>!r.hidden).map(r=>r.id));
