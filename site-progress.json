@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "Whiskey-Project",
-  "asOf": "2026-10-26",
+  "asOf": "2026-10-27",
   "revision": "NA-036",
   "revisionSource": {
     "type": "json",
@@ -26,5 +26,90 @@
     },
     "basis": "Accepted + excluded + baseline-preserved decisions out of 238 documented expression candidates (7 pending at checkpoint 036).",
     "note": "Not the completion percentage of an unlimited whiskey catalogue."
+  },
+  "roadmap": {
+    "label": "Approved Old Oak Omnibus delivery roadmap",
+    "scope": "Finite editorial/platform delivery scope: verified dossiers and image baseline, category-relative scoring/value, catalogue browsing, bounded 238-candidate Canadian/Widow Jane expansion, source quality and future authorized families. Infinite possible whiskey releases are explicitly out of scope.",
+    "document": "ROADMAP-COVERAGE.md",
+    "note": "Accepted weighted gates only; the separate 231/238 expansion decision count continues to refresh from the authoritative expression ledger.",
+    "gates": [
+      {
+        "id": "validated-core",
+        "label": "Recovered and accepted 825-dossier North American baseline",
+        "weight": 16,
+        "status": "accepted",
+        "evidence": "final-validation-checkpoint.json; audit.md"
+      },
+      {
+        "id": "scoring-framework",
+        "label": "Quality/Value rubric, category anchors and audit framework documented",
+        "weight": 12,
+        "status": "accepted",
+        "evidence": "calibration-hierarchy-v6.2.md; score-audit.json"
+      },
+      {
+        "id": "image-embeds",
+        "label": "Initial 825-dossier image inspection and verified embedding audit",
+        "weight": 8,
+        "status": "accepted",
+        "evidence": "image-embedding-checkpoint.json"
+      },
+      {
+        "id": "landing-catalog",
+        "label": "Searchable/sortable expression landing list and metadata catalog",
+        "weight": 8,
+        "status": "accepted",
+        "evidence": "index.html; whiskey-data.json"
+      },
+      {
+        "id": "price-bands",
+        "label": "Auditable current NC ABC prices and value/buy band consistency",
+        "weight": 9,
+        "status": "partial",
+        "evidence": "value-review-audit.json; site-progress.json"
+      },
+      {
+        "id": "north-america-discovery",
+        "label": "Complete 238-candidate Widow Jane/Canadian disposition decisions",
+        "weight": 13,
+        "status": "partial",
+        "evidence": "north-american-expression-ledger.json (231/238 decided)"
+      },
+      {
+        "id": "north-america-signoff",
+        "label": "Fully validated expansion publication, provenance and final audit",
+        "weight": 7,
+        "status": "partial",
+        "evidence": "north-american-expansion-checkpoint.json (implementation_in_progress)"
+      },
+      {
+        "id": "next-family-expansion",
+        "label": "Next approved Sagamore and post-North-American producer families",
+        "weight": 6,
+        "status": "planned",
+        "evidence": "north-american-expansion-checkpoint.json; README.md"
+      },
+      {
+        "id": "dossier-depth",
+        "label": "Consistent full reviews, technical/source distinctions and cross-comparisons",
+        "weight": 8,
+        "status": "partial",
+        "evidence": "incomplete-dossier-review-v5.1.md; audit.md"
+      },
+      {
+        "id": "editorial-quality",
+        "label": "Source refresh, year/edition normalization, price provenance and crosslinks",
+        "weight": 6,
+        "status": "partial",
+        "evidence": "family-catalog-v6.7.md; calibration-hierarchy-v6.2.md"
+      },
+      {
+        "id": "release-qa",
+        "label": "Responsive/accessibility, mobile usage and automated publish acceptance",
+        "weight": 7,
+        "status": "partial",
+        "evidence": "scripts/; .github/workflows/completion-validation.yml"
+      }
+    ]
   }
 }
