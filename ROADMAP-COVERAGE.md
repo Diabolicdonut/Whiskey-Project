@@ -1,5 +1,7 @@
 # Old Oak Omnibus — Current Full Editorial and Site Roadmap
 
+> **Superseded 2026-10-27 by [DEVELOPMENT-ROADMAP.md](DEVELOPMENT-ROADMAP.md).** This page preserves the narrower 11-gate, 44% historical planning snapshot; it is **not** the current authoritative scope or completion percentage. The expanded R001 full-vision roadmap starts at **30%**, with the previously accepted 825 baseline and NA-036 checkpoint still intact. The homepage and `site-progress.json` now use the expanded roadmap. Do not update this archived coverage sketch instead of the authoritative development roadmap.
+
 **Reviewed:** 2026-10-27, exact GitHub `main` `17797f7de54a0f0766fff86afaf4516547329b38` and accepted North American Expansion **checkpoint 036**. No expression prose, scores, prices, identities, images, or historical accepted files are modified in this accounting pass.
 
 **Product goal:** An approachable but evidence-driven whiskey research site with complete expression dossiers, reliable categorization, category-relative Quality and North Carolina price-based Value scores, sortable navigation, reviewer synthesis, comparisons, buy bands, and preservation of accepted editorial research. The catalogue can grow indefinitely; the **percentage measures only the finite currently approved delivery commitments below**, not all whiskey expressions that may ever exist.
