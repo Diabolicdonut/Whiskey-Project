@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "project": "Whiskey-Project",
+  "asOf": "2026-10-26",
+  "revision": "NA-036",
+  "revisionSource": {
+    "type": "json",
+    "file": "north-american-expansion-checkpoint.json",
+    "path": "checkpoint",
+    "prefix": "NA-"
+  },
+  "progress": {
+    "label": "North American expansion decisions",
+    "completed": 231,
+    "total": 238,
+    "source": {
+      "file": "north-american-expression-ledger.json",
+      "path": "counts",
+      "kind": "sum-fields",
+      "fields": [
+        "accepted",
+        "excluded",
+        "baseline_preserved"
+      ],
+      "totalField": "candidates"
+    },
+    "basis": "Accepted + excluded + baseline-preserved decisions out of 238 documented expression candidates (7 pending at checkpoint 036).",
+    "note": "Not the completion percentage of an unlimited whiskey catalogue."
+  }
+}
