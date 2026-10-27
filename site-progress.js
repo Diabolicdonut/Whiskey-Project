@@ -1,4 +1,4 @@
-/* Project-wide published revision and scoped completion indicator.
+/* Project-wide roadmap revision and full-vision completion indicator.
    Safe to reuse on static GitHub Pages sites; no credentials or external services. */
 (function () {
   'use strict';
@@ -86,9 +86,11 @@
     try { config = JSON.parse(await getText('site-progress.json')); }
     catch (_) { return; }
     if (!config || config.schemaVersion !== 1) return;
-    const [revision, count] = await Promise.all([
+    const [editorialCheckpoint, count] = await Promise.all([
       revisionFor(config), countFor(config)
     ]);
+    // Roadmap release revision is distinct from the North American editorial checkpoint.
+    const revision = String(config.revision || editorialCheckpoint);
     const roadmap = roadmapFor(config);
     const style = document.createElement('style');
     style.textContent = `
@@ -174,6 +176,7 @@
     if (config.progress?.basis) phase.append(make('p', '', config.progress.basis));
     if (config.progress?.note) phase.append(make('p', '', config.progress.note));
     body.append(phase);
+    if (config.revisionSource) body.append(make('p', '', 'Editorial expansion checkpoint: ' + editorialCheckpoint));
     if (config.asOf) body.append(make('p', '', 'Progress reviewed: ' + config.asOf));
     details.append(body); frame.append(details);
     document.body.appendChild(frame);
