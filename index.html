@@ -234,4 +234,5 @@ search.addEventListener('input',update);category.addEventListener('change',updat
 function filterURL(){const u=new URL(location.href);for(const [key,control] of [['family',family],['period',period],['calibration',calibration]]){if(control.value==='all')u.searchParams.delete(key);else u.searchParams.set(key,control.value);}history.replaceState(null,'',u);update();}
 for(const control of [family,period,calibration])control.addEventListener('change',filterURL);
 const params=new URLSearchParams(location.search);for(const [key,control] of [['family',family],['period',period],['calibration',calibration]]){const initial=params.get(key);if([...control.options].some(o=>o.value===initial))control.value=initial;}update();
-</script></body></html>
+</script><script defer src="./site-progress.js" data-site-progress></script>
+</body></html>
