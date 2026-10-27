@@ -14,3 +14,7 @@ Publish only after static preservation, source/data checks, and Chromium
 390/768/1440 browser checks pass. After acceptance update the expansion
 controller, ledger, authoritative development roadmap revision R002, and the
 homepage full-vision progress indicator.
+
+## Retry authorization — 2026-10-27
+
+Re-run once against unchanged checkpoint NA-036 after fixing the Markdown revision-line trailing-whitespace release-gate failure. All seven generated dossier HTML pages, full structural checks, and Chromium 390/768/1440 passed in the first attempt; no publication was committed. Do not bypass validation, and do not publish twice.
