@@ -37,6 +37,8 @@ async function functional(page,BASE){
   const expandedStatus=await page.locator('#project-progress-status .p-detail').innerText();
   const phase=JSON.parse(fs.readFileSync(path.join(ROOT,'north-american-expansion-checkpoint.json'),'utf8'));
   check('Expanded status distinguishes editorial checkpoint',()=>assert.ok(expandedStatus.includes('NA-'+phase.checkpoint),expandedStatus));
+  // Close the fixed overlay before testing controls underneath it.
+  await page.locator('#project-progress-status summary').click();
   const original=await page.locator('#bottles tr' ).evaluateAll(rs=>rs.map(r=>({id:r.id,dataset:{...r.dataset},text:r.textContent,mash:r.querySelector('td.mash').textContent,href:r.querySelector('a').getAttribute('href')})));
   check(total+' unique dossier rows and dossier targets',()=>{assert.equal(original.length,total);assert.equal(new Set(original.map(r=>r.id)).size,total);assert.equal(new Set(original.map(r=>r.href)).size,total);});
   check('Old Oak title and application metadata',()=>{assert.equal(fs.readFileSync(path.join(ROOT,'index.html'),'utf8').includes('<title>Old Oak Omnibus</title>'),true);});
