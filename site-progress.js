@@ -157,7 +157,10 @@
       if (roadmap.data.document && /^[a-zA-Z0-9_./-]+$/.test(roadmap.data.document) &&
           !roadmap.data.document.includes('..')) {
         const link = make('a', '', 'Read roadmap and acceptance evidence');
-        link.href = new URL(roadmap.data.document, root).href;
+        // GitHub renders Markdown more reliably than its optional Pages .md URL.
+        link.href = (typeof roadmap.data.documentUrl === 'string' &&
+          /^https:\/\/github\.com\/Diabolicdonut\/Whiskey-Project\/blob\/main\//.test(roadmap.data.documentUrl)) ?
+          roadmap.data.documentUrl : new URL(roadmap.data.document, root).href;
         link.target = '_blank'; link.rel = 'noopener noreferrer';
         body.append(link);
       }
