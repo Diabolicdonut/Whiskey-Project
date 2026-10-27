@@ -99,6 +99,9 @@
   "Segoe UI",sans-serif;color:#f1f4f4;text-align:left;isolation:isolate}
 #project-progress-status details{background:rgba(18,26,29,.96);border:1px solid #5c6b70;
   border-radius:11px;box-shadow:0 6px 22px #0005;overflow:hidden;backdrop-filter:blur(8px)}
+#project-progress-status details[open]{display:flex;flex-direction:column;max-height:min(75vh,650px)}
+#project-progress-status details[open] summary{flex:0 0 auto}
+#project-progress-status details[open] .p-detail{overflow-y:auto;min-height:0;overscroll-behavior:contain}
 #project-progress-status summary{display:flex;gap:10px;align-items:center;
   list-style:none;cursor:pointer;padding:8px 10px;white-space:normal;font-weight:650}
 #project-progress-status summary::-webkit-details-marker{display:none}
