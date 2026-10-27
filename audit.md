@@ -1,6 +1,6 @@
 # Old Oak Omnibus — recovered accepted-state audit
 
-> **Current project-wide roadmap review (2026-10-27):** [Read the complete Old Oak Omnibus delivery roadmap](ROADMAP-COVERAGE.md). Its accepted weighted overall completion is **44/100 (44%)**, distinctly separate from the North American ledger's **231/238 decisions** at checkpoint 036. This older recovered 825-dossier audit is a historical baseline, not the whole expanded catalogue. The two authoritative JSON ledgers control the live expansion state.
+> **Authoritative long-term roadmap (2026-10-27):** [DEVELOPMENT-ROADMAP.md](DEVELOPMENT-ROADMAP.md), revision R001. Its broader 15-gate scope has **30/100 accepted points (30%)**; the prior 44% figure came from a narrower historical sketch and is not comparable. North American ledger decisions remain **231/238** at the accepted NA-036 checkpoint. This 825-dossier audit is a historical baseline, not the expanded catalogue. Current controller and ledger JSON remain authoritative for content counts.
 
 
 This missing download target is reconstructed from the current accepted repository. It is a validation snapshot, not the historical batch audit and not a new research pass.
