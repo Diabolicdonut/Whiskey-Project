@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "project": "Whiskey-Project",
   "asOf": "2026-10-27",
-  "revision": "R001",
+  "revision": "R002",
   "revisionSource": {
     "type": "json",
     "file": "north-american-expansion-checkpoint.json",
@@ -11,7 +11,7 @@
   },
   "progress": {
     "label": "North American expansion candidate decisions",
-    "completed": 231,
+    "completed": 238,
     "total": 238,
     "source": {
       "file": "north-american-expression-ledger.json",
@@ -24,14 +24,14 @@
       ],
       "totalField": "candidates"
     },
-    "basis": "Resolved expression identities (accepted + excluded + baseline-preserved) divided by the authoritative discovery ledger candidate count; counts refresh from the ledger on page load.",
+    "basis": "All 238 finite North American candidates disposed: 225 accepted, 11 excluded, 2 baseline-preserved; 0 pending.",
     "note": "A phase-specific count, not the total-project completion percentage."
   },
   "roadmap": {
     "label": "Full Old Oak Omnibus development vision",
     "scope": "15 finite accepted-or-planned delivery gates spanning the article corpus, category-wide scoring and NC value, future families/world styles, provenance, UI, QA and living maintenance; possible future releases are not used as a fictional denominator.",
     "document": "DEVELOPMENT-ROADMAP.md",
-    "note": "Only fully accepted gates earn weighted points. The 30% baseline replaces the older, narrower 44% metric because more of the known long-term vision is included.",
+    "note": "R002: final seven Canadian dossiers accepted; 41/100 full-vision delivery points earned. North American 238/238 is only one finished workstream.",
     "gates": [
       {
         "id": "foundation",
@@ -65,7 +65,7 @@
         "id": "na-expansion",
         "label": "Close all 238 Widow Jane/Canadian expression decisions and publish validated dossiers",
         "weight": 11,
-        "status": "partial",
+        "status": "accepted",
         "evidence": "north-american-expansion-checkpoint.json; north-american-expression-ledger.json; research/na-037-authored.json"
       },
       {

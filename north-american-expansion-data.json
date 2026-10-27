@@ -78547,5 +78547,2320 @@
       ],
       "image_limitation": "Exact Three Barrel imagery was identified in matched launch/review records, but exact image bytes were not authenticated for self-contained embedding in this checkpoint; no Red or Blue bottle is substituted."
     }
+  },
+  {
+    "slug": "two-brewers-yukon-single-malt-release-22",
+    "filename": "two-brewers-yukon-single-malt-release-22.html",
+    "name": "Two Brewers Yukon Single Malt — Release 22",
+    "family": "Two Brewers",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Yukon Brewing / Two Brewers, Whitehorse, Yukon",
+    "proof": 102,
+    "abv": 51.0,
+    "age": "NAS / no verified label age",
+    "age_display": "NAS / no verified label age",
+    "age_sort_years": null,
+    "mash_bill_display": "100% malted barley; kettle-soured mash and sour-fermented whisky",
+    "mash_bill_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+    "quality": 7.4,
+    "quality_score": 7.4,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "Exact 2020 numbered release; producer tasting notes excluded from independent score.",
+      "universal_dimensions": {
+        "integration": 7.4,
+        "flavor_development": 7.6,
+        "finish": 7.1,
+        "technical_cleanliness": 7.3,
+        "texture": 7.5,
+        "maturity_wood_management": 7.2,
+        "distinctiveness": 8.1
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.405,
+      "editorial_adjustment": -0.005,
+      "adjustment_reason": "Independent exact-release notes indicate clean, distinctive sour-fermentation complexity and a pleasant peppery finish, while the very small review pool caps confidence at a provisional very-good level."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Independent exact-release notes indicate clean, distinctive sour-fermentation complexity and a pleasant peppery finish, while the very small review pool caps confidence at a provisional very-good level.",
+    "quality_confidence": "Low-medium; only a limited exact-bottle member review record.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no authenticated current comparable U.S. retail price for the exact numbered release.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No defensible dated U.S. 750 mL retail offer authenticated; historical or Canadian listings are not treated as current USD value.",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact current NC ABC listing verified.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2020,
+    "release_scope": "Two Brewers Innovative Release No. 22, bottled in 2020 at 51% ABV. Unique numbered release rather than the permanent Classic or Peated expression.",
+    "availability_note": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://www.whiskybase.com/whiskies/whisky/165506/two-brewers-innovative-release-22"
+    ],
+    "review_publishers": [
+      "Whiskybase"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Independent Release 22 tasting members",
+        "publisher": "Whiskybase",
+        "url": "https://www.whiskybase.com/whiskies/whisky/165506/two-brewers-innovative-release-22",
+        "summary": "Matched member tasting descriptions praise aromatic fruit, sweetness and peppery spice; the extra strength is seen as beneficial. A small number of ratings is not a broad consensus.",
+        "scope": "2020 numbered Innovative Release 22, 51% ABV"
+      }
+    ],
+    "source_urls": [
+      "https://www.twobrewerswhisky.com/bottles/release-no-22",
+      "https://www.whiskybase.com/whiskies/whisky/165506/two-brewers-innovative-release-22"
+    ],
+    "production_summary": "The producer documents a blend of kettle-soured and sour-fermented malt whisky. Exact 2020 Release 22 was bottled at 51% ABV; Whiskybase lists 820 bottles and a 750 mL sample. No specific label age has been independently verified.",
+    "finishing_information": "Fermentation-led production distinction; no separate finishing-cask statement verified.",
+    "identity_note": null,
+    "history": [
+      "Two Brewers whisky grew from Yukon Brewing in Whitehorse, with numbered releases grouped into styles.",
+      "Release 22 was produced as an Innovative series malt; sour fermentation is the identity distinction, not an assumed cask finish."
+    ],
+    "comparables": [
+      {
+        "name": "Two Brewers Yukon Single Malt — Release 33",
+        "url": "two-brewers-yukon-single-malt-release-33.html",
+        "reason": "A separately numbered, much stronger peat/PX-finished release."
+      },
+      {
+        "name": "Two Brewers Yukon Single Malt — Release 35",
+        "url": "two-brewers-yukon-single-malt-release-35.html",
+        "reason": "Classic eight-plus-year expression, not an Innovative sour-fermentation batch."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Two Brewers Innovative Release No. 22, bottled in 2020 at 51% ABV. Unique numbered release rather than the permanent Classic or Peated expression.",
+    "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-037",
+    "editorial": {
+      "id": "two-brewers-yukon-single-malt-release-22",
+      "category": "Canadian Single Malt",
+      "proof": 102,
+      "age": null,
+      "age_display": "NAS / no verified label age",
+      "grain": "100% malted barley; kettle-soured mash and sour-fermented whisky",
+      "identity": "Two Brewers Innovative Release No. 22, bottled in 2020 at 51% ABV. Unique numbered release rather than the permanent Classic or Peated expression.",
+      "short_version": "A distinct sour-fermented Yukon malt, with lively fruit, aromatic spice and a dry peppery edge; the small independent review sample limits scoring confidence.",
+      "producer": "Yukon Brewing / Two Brewers, Whitehorse, Yukon",
+      "production": "The producer documents a blend of kettle-soured and sour-fermented malt whisky. Exact 2020 Release 22 was bottled at 51% ABV; Whiskybase lists 820 bottles and a 750 mL sample. No specific label age has been independently verified.",
+      "finish": "Fermentation-led production distinction; no separate finishing-cask statement verified.",
+      "history": [
+        "Two Brewers whisky grew from Yukon Brewing in Whitehorse, with numbered releases grouped into styles.",
+        "Release 22 was produced as an Innovative series malt; sour fermentation is the identity distinction, not an assumed cask finish."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Independent Release 22 tasting members",
+          "publisher": "Whiskybase",
+          "url": "https://www.whiskybase.com/whiskies/whisky/165506/two-brewers-innovative-release-22",
+          "summary": "Matched member tasting descriptions praise aromatic fruit, sweetness and peppery spice; the extra strength is seen as beneficial. A small number of ratings is not a broad consensus.",
+          "scope": "2020 numbered Innovative Release 22, 51% ABV"
+        }
+      ],
+      "quality": 7.4,
+      "dimensions": [
+        7.4,
+        7.6,
+        7.1,
+        7.3,
+        7.5,
+        7.2,
+        8.1
+      ],
+      "quality_rationale": "Independent exact-release notes indicate clean, distinctive sour-fermentation complexity and a pleasant peppery finish, while the very small review pool caps confidence at a provisional very-good level.",
+      "quality_confidence": "Low-medium; only a limited exact-bottle member review record.",
+      "evidence_limit": "Exact 2020 numbered release; producer tasting notes excluded from independent score.",
+      "release_year": 2020,
+      "comparables": [
+        {
+          "name": "Two Brewers Yukon Single Malt — Release 33",
+          "url": "two-brewers-yukon-single-malt-release-33.html",
+          "reason": "A separately numbered, much stronger peat/PX-finished release."
+        },
+        {
+          "name": "Two Brewers Yukon Single Malt — Release 35",
+          "url": "two-brewers-yukon-single-malt-release-35.html",
+          "reason": "Classic eight-plus-year expression, not an Innovative sour-fermentation batch."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Two Brewers Release 22",
+          "url": "https://www.twobrewerswhisky.com/bottles/release-no-22",
+          "role": "Official Innovative release and sour-fermentation method."
+        },
+        {
+          "title": "Whiskybase 2020 Release 22",
+          "url": "https://www.whiskybase.com/whiskies/whisky/165506/two-brewers-innovative-release-22",
+          "role": "51% ABV, release and independent exact-bottling notes."
+        }
+      ],
+      "grain_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+      "calibration_mode": "evidence_limited_provisional",
+      "availability": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": null,
+        "url": null,
+        "basis": "No defensible dated U.S. 750 mL retail offer authenticated; historical or Canadian listings are not treated as current USD value.",
+        "nc_status": "No exact current NC ABC listing verified."
+      },
+      "value": null,
+      "value_rationale": "N/A: no authenticated current comparable U.S. retail price for the exact numbered release.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+        }
+      ],
+      "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted."
+    }
+  },
+  {
+    "slug": "two-brewers-yukon-single-malt-release-33",
+    "filename": "two-brewers-yukon-single-malt-release-33.html",
+    "name": "Two Brewers Yukon Single Malt — Release 33",
+    "family": "Two Brewers",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Yukon Brewing / Two Brewers, Whitehorse, Yukon",
+    "proof": 116,
+    "abv": 58.0,
+    "age": "9 Years",
+    "age_display": "9 Years",
+    "age_sort_years": 9,
+    "mash_bill_display": "100% malted barley with peated-malt component; exact peat proportion undisclosed",
+    "mash_bill_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+    "quality": 7.8,
+    "quality_score": 7.8,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "Individual enthusiast enthusiasm is not counted as widespread consensus.",
+      "universal_dimensions": {
+        "integration": 7.9,
+        "flavor_development": 8.1,
+        "finish": 7.6,
+        "technical_cleanliness": 7.7,
+        "texture": 7.8,
+        "maturity_wood_management": 7.5,
+        "distinctiveness": 8.1
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.825,
+      "editorial_adjustment": -0.025,
+      "adjustment_reason": "The matched independent comparison strongly praises integration of sherry fruit, peat and strength. One substantive reviewer is insufficient to extrapolate a 9/10 category consensus, so the provisional score stays excellent-to-very-good."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "The matched independent comparison strongly praises integration of sherry fruit, peat and strength. One substantive reviewer is insufficient to extrapolate a 9/10 category consensus, so the provisional score stays excellent-to-very-good.",
+    "quality_confidence": "Low-medium; a substantive head-to-head but narrow tasting sample.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no authenticated current comparable U.S. retail price for the exact numbered release.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No defensible dated U.S. 750 mL retail offer authenticated; historical or Canadian listings are not treated as current USD value.",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact current NC ABC listing verified.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2022,
+    "release_scope": "Two Brewers Special Finishes Release No. 33, 2022, 58% ABV, nine years old; approximately three years of PX sherry influence across two casks.",
+    "availability_note": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://www.reddit.com/r/canadawhisky/comments/10mfi25"
+    ],
+    "review_publishers": [
+      "r/canadawhisky"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Release 33 versus Release 37 head-to-head author",
+        "publisher": "r/canadawhisky",
+        "url": "https://www.reddit.com/r/canadawhisky/comments/10mfi25",
+        "summary": "Direct comparison describes especially good fruit-peat integration, rich sweetness and well-managed wood, with a strongly favorable personal assessment.",
+        "scope": "January 2023 exact-release comparison"
+      }
+    ],
+    "source_urls": [
+      "https://www.twobrewerswhisky.com/bottles/release-no-33",
+      "https://www.whiskyintelligence.com/2022/06/page/2/",
+      "https://www.reddit.com/r/canadawhisky/comments/10mfi25"
+    ],
+    "production_summary": "Contemporaneous Canadian trade material reports 299 bottles, nine-year age, 58% strength and approximately three years in Pedro Ximénez sherry casks. Two casks were necessary when a stave failed in the first. A peated-malt component is documented, without an exact proportion.",
+    "finishing_information": "About three years of Pedro Ximénez sherry influence including transfer between casks after a failed stave.",
+    "identity_note": null,
+    "history": [
+      "The Two Brewers numbered programme varies in recipe and age; Release 33 is a Special Finishes release rather than a standard Classic bottle.",
+      "The unusual cask-transfer history is material to the exact Release 33, not a generic property of every PX release."
+    ],
+    "comparables": [
+      {
+        "name": "Two Brewers Yukon Single Malt — Release 22",
+        "url": "two-brewers-yukon-single-malt-release-22.html",
+        "reason": "Innovative sour-fermented malt without the same documented peat/PX finish."
+      },
+      {
+        "name": "Two Brewers Yukon Single Malt — Release 35",
+        "url": "two-brewers-yukon-single-malt-release-35.html",
+        "reason": "Lower-proof Classic, matured in different casks."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Two Brewers Special Finishes Release No. 33, 2022, 58% ABV, nine years old; approximately three years of PX sherry influence across two casks.",
+    "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-037",
+    "editorial": {
+      "id": "two-brewers-yukon-single-malt-release-33",
+      "category": "Canadian Single Malt",
+      "proof": 116,
+      "age": 9,
+      "age_display": "9 Years",
+      "grain": "100% malted barley with peated-malt component; exact peat proportion undisclosed",
+      "identity": "Two Brewers Special Finishes Release No. 33, 2022, 58% ABV, nine years old; approximately three years of PX sherry influence across two casks.",
+      "short_version": "Powerful, fruity PX-finished nine-year Yukon malt whose peat stays surprisingly well integrated in the best independent account; limited review breadth remains a concern.",
+      "producer": "Yukon Brewing / Two Brewers, Whitehorse, Yukon",
+      "production": "Contemporaneous Canadian trade material reports 299 bottles, nine-year age, 58% strength and approximately three years in Pedro Ximénez sherry casks. Two casks were necessary when a stave failed in the first. A peated-malt component is documented, without an exact proportion.",
+      "finish": "About three years of Pedro Ximénez sherry influence including transfer between casks after a failed stave.",
+      "history": [
+        "The Two Brewers numbered programme varies in recipe and age; Release 33 is a Special Finishes release rather than a standard Classic bottle.",
+        "The unusual cask-transfer history is material to the exact Release 33, not a generic property of every PX release."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Release 33 versus Release 37 head-to-head author",
+          "publisher": "r/canadawhisky",
+          "url": "https://www.reddit.com/r/canadawhisky/comments/10mfi25",
+          "summary": "Direct comparison describes especially good fruit-peat integration, rich sweetness and well-managed wood, with a strongly favorable personal assessment.",
+          "scope": "January 2023 exact-release comparison"
+        }
+      ],
+      "quality": 7.8,
+      "dimensions": [
+        7.9,
+        8.1,
+        7.6,
+        7.7,
+        7.8,
+        7.5,
+        8.1
+      ],
+      "quality_rationale": "The matched independent comparison strongly praises integration of sherry fruit, peat and strength. One substantive reviewer is insufficient to extrapolate a 9/10 category consensus, so the provisional score stays excellent-to-very-good.",
+      "quality_confidence": "Low-medium; a substantive head-to-head but narrow tasting sample.",
+      "evidence_limit": "Individual enthusiast enthusiasm is not counted as widespread consensus.",
+      "release_year": 2022,
+      "comparables": [
+        {
+          "name": "Two Brewers Yukon Single Malt — Release 22",
+          "url": "two-brewers-yukon-single-malt-release-22.html",
+          "reason": "Innovative sour-fermented malt without the same documented peat/PX finish."
+        },
+        {
+          "name": "Two Brewers Yukon Single Malt — Release 35",
+          "url": "two-brewers-yukon-single-malt-release-35.html",
+          "reason": "Lower-proof Classic, matured in different casks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Two Brewers Release 33",
+          "url": "https://www.twobrewerswhisky.com/bottles/release-no-33",
+          "role": "Official numbered special-finish expression."
+        },
+        {
+          "title": "Whisky Intelligence June 2022",
+          "url": "https://www.whiskyintelligence.com/2022/06/page/2/",
+          "role": "Period age, ABV, peat, cask transfer, 299-bottle detail."
+        },
+        {
+          "title": "Canadian whisky enthusiast comparison",
+          "url": "https://www.reddit.com/r/canadawhisky/comments/10mfi25",
+          "role": "Independent sensory comparison against Release 37."
+        }
+      ],
+      "grain_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+      "calibration_mode": "evidence_limited_provisional",
+      "availability": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": null,
+        "url": null,
+        "basis": "No defensible dated U.S. 750 mL retail offer authenticated; historical or Canadian listings are not treated as current USD value.",
+        "nc_status": "No exact current NC ABC listing verified."
+      },
+      "value": null,
+      "value_rationale": "N/A: no authenticated current comparable U.S. retail price for the exact numbered release.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+        }
+      ],
+      "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted."
+    }
+  },
+  {
+    "slug": "two-brewers-yukon-single-malt-release-35",
+    "filename": "two-brewers-yukon-single-malt-release-35.html",
+    "name": "Two Brewers Yukon Single Malt — Release 35",
+    "family": "Two Brewers",
+    "portfolio": null,
+    "category": "Canadian Single Malt",
+    "subcategory": "Canadian Single Malt",
+    "producer": "Yukon Brewing / Two Brewers, Whitehorse, Yukon",
+    "proof": 92,
+    "abv": 46.0,
+    "age": "At least 8 Years",
+    "age_display": "At least 8 Years",
+    "age_sort_years": 8,
+    "mash_bill_display": "100% malted barley, selected from fourteen mashes",
+    "mash_bill_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+    "quality": 7,
+    "quality_score": 7,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "Do not count producer prizes or notes as independently measured quality.",
+      "universal_dimensions": {
+        "integration": 6.9,
+        "flavor_development": 7.2,
+        "finish": 6.8,
+        "technical_cleanliness": 6.9,
+        "texture": 7.1,
+        "maturity_wood_management": 7.1,
+        "distinctiveness": 7.1
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.995,
+      "editorial_adjustment": 0.005,
+      "adjustment_reason": "A positive independent tasting identifies creamy integration and spicy persistence; exact-release consumer and blog counterpoints find sharper and tart notes. The balanced category-relative result is very good but evidence-limited."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "A positive independent tasting identifies creamy integration and spicy persistence; exact-release consumer and blog counterpoints find sharper and tart notes. The balanced category-relative result is very good but evidence-limited.",
+    "quality_confidence": "Medium; several independent sources with substantial disagreement.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no authenticated current comparable U.S. retail price for the exact numbered release.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No defensible dated U.S. 750 mL retail offer authenticated; historical or Canadian listings are not treated as current USD value.",
+    "price_url": null,
+    "price_period": null,
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No exact current NC ABC listing verified.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2022,
+    "release_scope": "Two Brewers Classic Release No. 35, 46% ABV, issued in 2022; Canadian and export packaging sizes vary.",
+    "availability_note": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://www.malthound.co.uk/2023/03/sampling-two-brewers-yukon-single-malt-whisky-a-no-nonsense-dram-that-your-senses-will-say-yes-too/",
+      "https://www.whiskybase.com/whiskies/whisky/223685/two-brewers-classic-release-35",
+      "https://adventuresinwhisky.blogspot.com/2026/05/two-brewers-classic-release-35.html"
+    ],
+    "review_publishers": [
+      "Malthound",
+      "Whiskybase",
+      "Adventures in Whisky"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Gary",
+        "publisher": "Malthound",
+        "url": "https://www.malthound.co.uk/2023/03/sampling-two-brewers-yukon-single-malt-whisky-a-no-nonsense-dram-that-your-senses-will-say-yes-too/",
+        "summary": "Rich sweet toffee, fruit and cream with peppery spice, framed as well-integrated.",
+        "scope": "March 2023 46% Release 35"
+      },
+      {
+        "reviewer": "WhiskyGourou",
+        "publisher": "Whiskybase",
+        "url": "https://www.whiskybase.com/whiskies/whisky/223685/two-brewers-classic-release-35",
+        "summary": "Some enjoyable fruit but greater wood sharpness and less flavor development than expected.",
+        "scope": "Exact 46% Release 35 review"
+      },
+      {
+        "reviewer": "Red Hare",
+        "publisher": "Adventures in Whisky",
+        "url": "https://adventuresinwhisky.blogspot.com/2026/05/two-brewers-classic-release-35.html",
+        "summary": "Finds citrus/tartness and some feinty grain character; a more reserved assessment.",
+        "scope": "May 2026 Release 35 tasting"
+      }
+    ],
+    "source_urls": [
+      "https://www.twobrewerswhisky.com/bottles/release-no-35",
+      "https://www.malthound.co.uk/2023/03/sampling-two-brewers-yukon-single-malt-whisky-a-no-nonsense-dram-that-your-senses-will-say-yes-too/",
+      "https://www.whiskybase.com/whiskies/whisky/223685/two-brewers-classic-release-35",
+      "https://adventuresinwhisky.blogspot.com/2026/05/two-brewers-classic-release-35.html"
+    ],
+    "production_summary": "A detailed independent review describes fourteen malted-barley mashes aged eight years or longer, combined from ex-bourbon and virgin-oak maturation. Exact reviewed Release 35 appears as a 46% 2022 Canadian/export bottling.",
+    "finishing_information": "Ex-bourbon and virgin oak maturation; no separately authenticated finishing stage.",
+    "identity_note": null,
+    "history": [
+      "Two Brewers' numbered Classic series includes release-by-release differences in maturity and assembly.",
+      "Release 35 is distinguished from the heavily PX-influenced Release 33 and Innovative sour-fermented Release 22."
+    ],
+    "comparables": [
+      {
+        "name": "Two Brewers Yukon Single Malt — Release 22",
+        "url": "two-brewers-yukon-single-malt-release-22.html",
+        "reason": "Innovative sour-fermented programme, younger age unspecified."
+      },
+      {
+        "name": "Two Brewers Yukon Single Malt — Release 33",
+        "url": "two-brewers-yukon-single-malt-release-33.html",
+        "reason": "Stronger nine-year PX/peat release."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Two Brewers Classic Release No. 35, 46% ABV, issued in 2022; Canadian and export packaging sizes vary.",
+    "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-037",
+    "editorial": {
+      "id": "two-brewers-yukon-single-malt-release-35",
+      "category": "Canadian Single Malt",
+      "proof": 92,
+      "age": 8,
+      "age_display": "At least 8 Years",
+      "grain": "100% malted barley, selected from fourteen mashes",
+      "identity": "Two Brewers Classic Release No. 35, 46% ABV, issued in 2022; Canadian and export packaging sizes vary.",
+      "short_version": "An eight-plus-year Classic Yukon malt with fruit, caramel and persistent spice in positive reviews, but sharper grain and tartness in independent counterpoints.",
+      "producer": "Yukon Brewing / Two Brewers, Whitehorse, Yukon",
+      "production": "A detailed independent review describes fourteen malted-barley mashes aged eight years or longer, combined from ex-bourbon and virgin-oak maturation. Exact reviewed Release 35 appears as a 46% 2022 Canadian/export bottling.",
+      "finish": "Ex-bourbon and virgin oak maturation; no separately authenticated finishing stage.",
+      "history": [
+        "Two Brewers' numbered Classic series includes release-by-release differences in maturity and assembly.",
+        "Release 35 is distinguished from the heavily PX-influenced Release 33 and Innovative sour-fermented Release 22."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Gary",
+          "publisher": "Malthound",
+          "url": "https://www.malthound.co.uk/2023/03/sampling-two-brewers-yukon-single-malt-whisky-a-no-nonsense-dram-that-your-senses-will-say-yes-too/",
+          "summary": "Rich sweet toffee, fruit and cream with peppery spice, framed as well-integrated.",
+          "scope": "March 2023 46% Release 35"
+        },
+        {
+          "reviewer": "WhiskyGourou",
+          "publisher": "Whiskybase",
+          "url": "https://www.whiskybase.com/whiskies/whisky/223685/two-brewers-classic-release-35",
+          "summary": "Some enjoyable fruit but greater wood sharpness and less flavor development than expected.",
+          "scope": "Exact 46% Release 35 review"
+        },
+        {
+          "reviewer": "Red Hare",
+          "publisher": "Adventures in Whisky",
+          "url": "https://adventuresinwhisky.blogspot.com/2026/05/two-brewers-classic-release-35.html",
+          "summary": "Finds citrus/tartness and some feinty grain character; a more reserved assessment.",
+          "scope": "May 2026 Release 35 tasting"
+        }
+      ],
+      "quality": 7,
+      "dimensions": [
+        6.9,
+        7.2,
+        6.8,
+        6.9,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "quality_rationale": "A positive independent tasting identifies creamy integration and spicy persistence; exact-release consumer and blog counterpoints find sharper and tart notes. The balanced category-relative result is very good but evidence-limited.",
+      "quality_confidence": "Medium; several independent sources with substantial disagreement.",
+      "evidence_limit": "Do not count producer prizes or notes as independently measured quality.",
+      "release_year": 2022,
+      "comparables": [
+        {
+          "name": "Two Brewers Yukon Single Malt — Release 22",
+          "url": "two-brewers-yukon-single-malt-release-22.html",
+          "reason": "Innovative sour-fermented programme, younger age unspecified."
+        },
+        {
+          "name": "Two Brewers Yukon Single Malt — Release 33",
+          "url": "two-brewers-yukon-single-malt-release-33.html",
+          "reason": "Stronger nine-year PX/peat release."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Two Brewers Release 35",
+          "url": "https://www.twobrewerswhisky.com/bottles/release-no-35",
+          "role": "Official Classic release specification."
+        },
+        {
+          "title": "Malthound Release 35",
+          "url": "https://www.malthound.co.uk/2023/03/sampling-two-brewers-yukon-single-malt-whisky-a-no-nonsense-dram-that-your-senses-will-say-yes-too/",
+          "role": "Independent multi-mash history and positive tasting."
+        },
+        {
+          "title": "Whiskybase Release 35",
+          "url": "https://www.whiskybase.com/whiskies/whisky/223685/two-brewers-classic-release-35",
+          "role": "Exact 2022 bottling and critical tasting."
+        },
+        {
+          "title": "Red Hare Release 35",
+          "url": "https://adventuresinwhisky.blogspot.com/2026/05/two-brewers-classic-release-35.html",
+          "role": "Contrasting 2026 exact tasting."
+        }
+      ],
+      "grain_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+      "calibration_mode": "evidence_limited_provisional",
+      "availability": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": null,
+        "url": null,
+        "basis": "No defensible dated U.S. 750 mL retail offer authenticated; historical or Canadian listings are not treated as current USD value.",
+        "nc_status": "No exact current NC ABC listing verified."
+      },
+      "value": null,
+      "value_rationale": "N/A: no authenticated current comparable U.S. retail price for the exact numbered release.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+        }
+      ],
+      "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted."
+    }
+  },
+  {
+    "slug": "windsor-canadian-original",
+    "filename": "windsor-canadian-original.html",
+    "name": "Windsor Canadian Original",
+    "family": "Windsor Canadian",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Alberta Distillers / Suntory Global Spirits; current brand marketing by Prestige Beverage Group",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "NAS / label age not established",
+    "age_display": "NAS / label age not established",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian blended grain whisky with rye character; proportions not independently published",
+    "mash_bill_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+    "quality": 6,
+    "quality_score": 6,
+    "value": 8.3,
+    "value_score": 8.3,
+    "overall": 7.05691150575094,
+    "overall_score": 7.05691150575094,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "2011 tasting does not guarantee the same recipe in contemporary stock.",
+      "universal_dimensions": {
+        "integration": 6.1,
+        "flavor_development": 6,
+        "finish": 5.8,
+        "technical_cleanliness": 6.2,
+        "texture": 6.1,
+        "maturity_wood_management": 5.9,
+        "distinctiveness": 5.8
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 6.015,
+      "editorial_adjustment": -0.015,
+      "adjustment_reason": "A dated but substantial independent review indicates a smooth and functional inexpensive Canadian whisky, with limited complexity and shorter finish. Quality is category-relative and flagged historical-sample provisional."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "A dated but substantial independent review indicates a smooth and functional inexpensive Canadian whisky, with limited complexity and shorter finish. Quality is category-relative and flagged historical-sample provisional.",
+    "quality_confidence": "Low-medium; one comprehensive historical review, no proof of unchanged 2026 formula.",
+    "quality_na_reason": null,
+    "value_rationale": "At an observed U.S. $10.99/750 mL, the competent Canadian mixer is exceptional budget value; price varies by location and may not apply in NC.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 10.99,
+    "price_basis": "Observed U.S. 750 mL Target listing; location-sensitive and not guaranteed nationwide.",
+    "price_url": "https://www.target.com/p/-/A-47137357",
+    "price_period": "2026-10-21 listing review",
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 10.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No verified current NC ABC code or price for this expression.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Windsor Canadian Original, standard 80-proof blended Canadian whisky, distinguished from the 93.2-proof Windsor Reserve.",
+    "availability_note": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/windsor-canadian-whisky/"
+    ],
+    "review_publishers": [
+      "The Rum Howler Blog"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Chip Dykstra",
+        "publisher": "The Rum Howler Blog",
+        "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/windsor-canadian-whisky/",
+        "summary": "Detailed historical assessment of rye-forward fruit, sweet grain, butterscotch, maple, light spice and a relatively short finish; judged solid for affordable mixing.",
+        "scope": "2011 sample, retrospective score updated 2015"
+      }
+    ],
+    "source_urls": [
+      "https://windsorcanadianwhisky.com/product/windsor-canadian/",
+      "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/windsor-canadian-whisky/",
+      "https://www.target.com/p/-/A-47137357"
+    ],
+    "production_summary": "The standard 40% Windsor Canadian is a lighter Canadian blend with documented rye influence but no authenticated exact mash percentages. Published historical tasting emphasizes mixed citrus, caramel and spice.",
+    "finishing_information": "No separately verified finishing regimen; oak-aged Canadian blend.",
+    "identity_note": null,
+    "history": [
+      "Introduced in the 1960s as Windsor Supreme, the brand passed through several corporate owners.",
+      "The principal independent tasting was based on a 2011 sample and later rescored; formulation stability through 2026 is not assumed."
+    ],
+    "comparables": [
+      {
+        "name": "Windsor Canadian Reserve",
+        "url": "windsor-canadian-reserve.html",
+        "reason": "Higher-proof sherry-influenced family bottling, independently unscored."
+      },
+      {
+        "name": "Alberta Springs 10 Year",
+        "url": "alberta-springs-10-year.html",
+        "reason": "Older rye-forward Canadian option with fuller structure."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Windsor Canadian Original, standard 80-proof blended Canadian whisky, distinguished from the 93.2-proof Windsor Reserve.",
+    "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-037",
+    "editorial": {
+      "id": "windsor-canadian-original",
+      "category": "Canadian Blended Whisky",
+      "proof": 80,
+      "age": null,
+      "age_display": "NAS / label age not established",
+      "grain": "Canadian blended grain whisky with rye character; proportions not independently published",
+      "identity": "Windsor Canadian Original, standard 80-proof blended Canadian whisky, distinguished from the 93.2-proof Windsor Reserve.",
+      "short_version": "A gentle, fruity, rye-spiced Canadian mixer with modest body and a short, pleasant finish, supported by a detailed historical rather than current-production tasting.",
+      "producer": "Alberta Distillers / Suntory Global Spirits; current brand marketing by Prestige Beverage Group",
+      "production": "The standard 40% Windsor Canadian is a lighter Canadian blend with documented rye influence but no authenticated exact mash percentages. Published historical tasting emphasizes mixed citrus, caramel and spice.",
+      "finish": "No separately verified finishing regimen; oak-aged Canadian blend.",
+      "history": [
+        "Introduced in the 1960s as Windsor Supreme, the brand passed through several corporate owners.",
+        "The principal independent tasting was based on a 2011 sample and later rescored; formulation stability through 2026 is not assumed."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Chip Dykstra",
+          "publisher": "The Rum Howler Blog",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/windsor-canadian-whisky/",
+          "summary": "Detailed historical assessment of rye-forward fruit, sweet grain, butterscotch, maple, light spice and a relatively short finish; judged solid for affordable mixing.",
+          "scope": "2011 sample, retrospective score updated 2015"
+        }
+      ],
+      "quality": 6,
+      "dimensions": [
+        6.1,
+        6,
+        5.8,
+        6.2,
+        6.1,
+        5.9,
+        5.8
+      ],
+      "quality_rationale": "A dated but substantial independent review indicates a smooth and functional inexpensive Canadian whisky, with limited complexity and shorter finish. Quality is category-relative and flagged historical-sample provisional.",
+      "quality_confidence": "Low-medium; one comprehensive historical review, no proof of unchanged 2026 formula.",
+      "evidence_limit": "2011 tasting does not guarantee the same recipe in contemporary stock.",
+      "release_year": null,
+      "pricing": {
+        "amount": 10.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-21 listing review",
+        "url": "https://www.target.com/p/-/A-47137357",
+        "basis": "Observed U.S. 750 mL Target listing; location-sensitive and not guaranteed nationwide.",
+        "nc_status": "No verified current NC ABC code or price for this expression."
+      },
+      "value": 8.3,
+      "value_rationale": "At an observed U.S. $10.99/750 mL, the competent Canadian mixer is exceptional budget value; price varies by location and may not apply in NC.",
+      "comparables": [
+        {
+          "name": "Windsor Canadian Reserve",
+          "url": "windsor-canadian-reserve.html",
+          "reason": "Higher-proof sherry-influenced family bottling, independently unscored."
+        },
+        {
+          "name": "Alberta Springs 10 Year",
+          "url": "alberta-springs-10-year.html",
+          "reason": "Older rye-forward Canadian option with fuller structure."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Windsor Canadian official",
+          "url": "https://windsorcanadianwhisky.com/product/windsor-canadian/",
+          "role": "Official 80-proof expression identity."
+        },
+        {
+          "title": "The Rum Howler Windsor Canadian",
+          "url": "https://therumhowlerblog.com/whisky-reviews/canadian-whisky/windsor-canadian-whisky/",
+          "role": "Independent historical sensory review."
+        },
+        {
+          "title": "Target Windsor Canadian 750 mL",
+          "url": "https://www.target.com/p/-/A-47137357",
+          "role": "U.S. advertised price reference, local and time dependent."
+        }
+      ],
+      "grain_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+      "calibration_mode": "evidence_limited_provisional",
+      "availability": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+        }
+      ],
+      "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted."
+    }
+  },
+  {
+    "slug": "windsor-canadian-reserve",
+    "filename": "windsor-canadian-reserve.html",
+    "name": "Windsor Canadian Reserve",
+    "family": "Windsor Canadian",
+    "portfolio": null,
+    "category": "Canadian Blended Whisky",
+    "subcategory": "Canadian Blended Whisky",
+    "producer": "Windsor / Prestige Beverage Group",
+    "proof": 93.2,
+    "abv": 46.6,
+    "age": "NAS / no label age verified",
+    "age_display": "NAS / no label age verified",
+    "age_sort_years": null,
+    "mash_bill_display": "Canadian rye and other grains; undisclosed proportions",
+    "mash_bill_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "No credible independent exact-expression quality consensus authenticated."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "N/A: no sufficiently independent full expression-matched tasting record authenticated; marketing descriptions cannot justify a score.",
+    "quality_confidence": "Unscored; producer and announcement evidence only.",
+    "quality_na_reason": "Genuinely insufficient exact-expression independent sensory evidence.",
+    "value_rationale": "N/A: despite historic $19.99 U.S. launch MSRP, independent sensory evidence and a comparable dated current offer are missing.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": 19.99,
+    "price_basis": "U.S. launch MSRP, not a verified 2026 retail offer.",
+    "price_url": "https://thedailypour.com/whiskey/canadian-whisky/windsor-canadian-whisky-reserve-sherry/",
+    "price_period": "2024-11 historical release MSRP",
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 19.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2024,
+    "release_scope": "Windsor Canadian Reserve, announced November 2024, 46.6% ABV with sherry influence; not the 40% Original.",
+    "availability_note": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [],
+    "review_publishers": [],
+    "critical_source_count": 0,
+    "review_evidence": [],
+    "source_urls": [
+      "https://windsorcanadianwhisky.com/product/windsor-reserve/",
+      "https://thedailypour.com/whiskey/canadian-whisky/windsor-canadian-whisky-reserve-sherry/"
+    ],
+    "production_summary": "Producer identifies 46.6% ABV / 93.2 proof and rye with other Canadian cereal grains. Exact component blend, age and maturation timing are unpublished; producer notes alone do not prove sensory quality.",
+    "finishing_information": "Producer describes sherry-cask influence; precise cask regimen and duration are not verified.",
+    "identity_note": null,
+    "history": [
+      "The Reserve expression was publicly introduced in November 2024, not as a mere new label of Original.",
+      "The launch premium positions it above regular Windsor while maintaining the Canadian blended-whisky category."
+    ],
+    "comparables": [
+      {
+        "name": "Windsor Canadian Original",
+        "url": "windsor-canadian-original.html",
+        "reason": "Original 40% blend with its own independent historical review."
+      },
+      {
+        "name": "Alberta Springs 10 Year",
+        "url": "alberta-springs-10-year.html",
+        "reason": "Ten-year rye-forward benchmark, not interchangeable with Reserve."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Windsor Canadian Reserve, announced November 2024, 46.6% ABV with sherry influence; not the 40% Original.",
+    "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-037",
+    "editorial": {
+      "id": "windsor-canadian-reserve",
+      "category": "Canadian Blended Whisky",
+      "proof": 93.2,
+      "age": null,
+      "age_display": "NAS / no label age verified",
+      "grain": "Canadian rye and other grains; undisclosed proportions",
+      "identity": "Windsor Canadian Reserve, announced November 2024, 46.6% ABV with sherry influence; not the 40% Original.",
+      "short_version": "A distinctly stronger, sherry-influenced premium Windsor; identity is documented, but quality cannot responsibly be assigned without matched independent tasting evidence.",
+      "producer": "Windsor / Prestige Beverage Group",
+      "production": "Producer identifies 46.6% ABV / 93.2 proof and rye with other Canadian cereal grains. Exact component blend, age and maturation timing are unpublished; producer notes alone do not prove sensory quality.",
+      "finish": "Producer describes sherry-cask influence; precise cask regimen and duration are not verified.",
+      "history": [
+        "The Reserve expression was publicly introduced in November 2024, not as a mere new label of Original.",
+        "The launch premium positions it above regular Windsor while maintaining the Canadian blended-whisky category."
+      ],
+      "reviews": [],
+      "quality": null,
+      "quality_rationale": "N/A: no sufficiently independent full expression-matched tasting record authenticated; marketing descriptions cannot justify a score.",
+      "quality_confidence": "Unscored; producer and announcement evidence only.",
+      "evidence_limit": "No credible independent exact-expression quality consensus authenticated.",
+      "release_year": 2024,
+      "pricing": {
+        "amount": 19.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2024-11 historical release MSRP",
+        "url": "https://thedailypour.com/whiskey/canadian-whisky/windsor-canadian-whisky-reserve-sherry/",
+        "basis": "U.S. launch MSRP, not a verified 2026 retail offer."
+      },
+      "value": null,
+      "value_rationale": "N/A: despite historic $19.99 U.S. launch MSRP, independent sensory evidence and a comparable dated current offer are missing.",
+      "comparables": [
+        {
+          "name": "Windsor Canadian Original",
+          "url": "windsor-canadian-original.html",
+          "reason": "Original 40% blend with its own independent historical review."
+        },
+        {
+          "name": "Alberta Springs 10 Year",
+          "url": "alberta-springs-10-year.html",
+          "reason": "Ten-year rye-forward benchmark, not interchangeable with Reserve."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Windsor Reserve official",
+          "url": "https://windsorcanadianwhisky.com/product/windsor-reserve/",
+          "role": "Manufacturer description, 46.6% ABV."
+        },
+        {
+          "title": "The Daily Pour Windsor Reserve",
+          "url": "https://thedailypour.com/whiskey/canadian-whisky/windsor-canadian-whisky-reserve-sherry/",
+          "role": "Nov 2024 release and historical $19.99 MSRP."
+        }
+      ],
+      "grain_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+      "calibration_mode": "unscored",
+      "availability": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+        }
+      ],
+      "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted."
+    }
+  },
+  {
+    "slug": "alberta-premium-20-year-2019",
+    "filename": "alberta-premium-20-year-2019.html",
+    "name": "Alberta Premium 20 Year (2019)",
+    "family": "Alberta Premium",
+    "portfolio": null,
+    "category": "Canadian Single Grain / 100% Rye",
+    "subcategory": "Canadian Single Grain / 100% Rye",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 84,
+    "abv": 42.0,
+    "age": "20 Years",
+    "age_display": "20 Years",
+    "age_sort_years": 20,
+    "mash_bill_display": "100% Canadian prairie rye",
+    "mash_bill_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+    "quality": 7.3,
+    "quality_score": 7.3,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "Score deliberately reflects conflicting samples and does not infer universal satisfaction.",
+      "universal_dimensions": {
+        "integration": 7.3,
+        "flavor_development": 7.5,
+        "finish": 7.2,
+        "technical_cleanliness": 7,
+        "texture": 7.2,
+        "maturity_wood_management": 7.6,
+        "distinctiveness": 7.6
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.315,
+      "editorial_adjustment": -0.015,
+      "adjustment_reason": "Positive independent accounts value mature rye complexity and oak integration, while a sharply negative exact-release tasting flags solvent-like and thin qualities. These conflicts support only provisional very-good quality."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Positive independent accounts value mature rye complexity and oak integration, while a sharply negative exact-release tasting flags solvent-like and thin qualities. These conflicts support only provisional very-good quality.",
+    "quality_confidence": "Medium; several exact-identity in-depth reviews conflict.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: historical Canadian MSRP cannot be treated as a current USD NC ABC price.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical Canadian MSRP; no comparable current USD price established.",
+    "price_url": "https://canadianwhisky.org/blog/the-best-alberta-premium-ever",
+    "price_period": "2019 original Canadian MSRP",
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 89.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2019,
+    "release_scope": "Alberta Premium 20 Year, 2019 limited 42% ABV release, not the 25/30-year editions or 2019 Cask Strength edition.",
+    "availability_note": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://torontowhiskysociety.ca/2019/11/20/alberta-premium-cask-strength-20yr-limited-editions/",
+      "https://www.connosr.com/alberta-distillers-alberta-premium-aged-20-years-whisky-review-13146",
+      "https://www.connosr.com/alberta-distillers-alberta-premium-20-year-old-whisky-review-13575"
+    ],
+    "review_publishers": [
+      "Toronto Whisky Society",
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Toronto Whisky Society",
+        "publisher": "Toronto Whisky Society",
+        "url": "https://torontowhiskysociety.ca/2019/11/20/alberta-premium-cask-strength-20yr-limited-editions/",
+        "summary": "Finds developed oak, banana bread, citrus and surprisingly forceful rye spice for the bottling proof.",
+        "scope": "November 2019 matching release"
+      },
+      {
+        "reviewer": "talexander",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/alberta-distillers-alberta-premium-aged-20-years-whisky-review-13146",
+        "summary": "Reports silky caramel, spice and raisin sweetness with a layered and long woody finish; favorable 87/100.",
+        "scope": "December 2019 42% exact whisky"
+      },
+      {
+        "reviewer": "OdysseusUnbound",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/alberta-distillers-alberta-premium-20-year-old-whisky-review-13575",
+        "summary": "Finds an intrusive industrial/solvent nose, thin texture and much shorter finish; strongly dissenting evidence.",
+        "scope": "August 2020 42% exact whisky"
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/the-best-alberta-premium-ever",
+      "https://torontowhiskysociety.ca/2019/11/20/alberta-premium-cask-strength-20yr-limited-editions/",
+      "https://www.connosr.com/alberta-distillers-alberta-premium-aged-20-years-whisky-review-13146",
+      "https://www.connosr.com/alberta-distillers-alberta-premium-20-year-old-whisky-review-13575"
+    ],
+    "production_summary": "The 2019 limited edition was produced from 100% Canadian rye matured for 20 years, bottled at 42% ABV. The launch circulated a CAD $89.95/750 mL price which is not a current USD value reference.",
+    "finishing_information": "Extended oak maturation; no verified discrete finishing stage.",
+    "identity_note": null,
+    "history": [
+      "The limited 20-year release was marketed in 2019 alongside the separate first Alberta Premium Cask Strength edition.",
+      "The 20-year expression is not the brand's historically older 25- or 30-year standard bottles."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium 25 Year",
+        "url": "alberta-premium-25-year.html",
+        "reason": "Different older age-stated rye expression."
+      },
+      {
+        "name": "Alberta Premium Cask Strength First Edition",
+        "url": "alberta-premium-cask-strength-first-edition-2019.html",
+        "reason": "Contemporaneous higher-proof 2019 launch, distinct release."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Alberta Premium 20 Year, 2019 limited 42% ABV release, not the 25/30-year editions or 2019 Cask Strength edition.",
+    "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-037",
+    "editorial": {
+      "id": "alberta-premium-20-year-2019",
+      "category": "Canadian Single Grain / 100% Rye",
+      "proof": 84,
+      "age": 20,
+      "age_display": "20 Years",
+      "grain": "100% Canadian prairie rye",
+      "identity": "Alberta Premium 20 Year, 2019 limited 42% ABV release, not the 25/30-year editions or 2019 Cask Strength edition.",
+      "short_version": "Unusually mature all-rye Canadian whisky with deep spice and supple oak in its best showings, complicated by conflicting evidence about solvent-like off-notes and low-proof texture.",
+      "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+      "production": "The 2019 limited edition was produced from 100% Canadian rye matured for 20 years, bottled at 42% ABV. The launch circulated a CAD $89.95/750 mL price which is not a current USD value reference.",
+      "finish": "Extended oak maturation; no verified discrete finishing stage.",
+      "history": [
+        "The limited 20-year release was marketed in 2019 alongside the separate first Alberta Premium Cask Strength edition.",
+        "The 20-year expression is not the brand's historically older 25- or 30-year standard bottles."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Toronto Whisky Society",
+          "publisher": "Toronto Whisky Society",
+          "url": "https://torontowhiskysociety.ca/2019/11/20/alberta-premium-cask-strength-20yr-limited-editions/",
+          "summary": "Finds developed oak, banana bread, citrus and surprisingly forceful rye spice for the bottling proof.",
+          "scope": "November 2019 matching release"
+        },
+        {
+          "reviewer": "talexander",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/alberta-distillers-alberta-premium-aged-20-years-whisky-review-13146",
+          "summary": "Reports silky caramel, spice and raisin sweetness with a layered and long woody finish; favorable 87/100.",
+          "scope": "December 2019 42% exact whisky"
+        },
+        {
+          "reviewer": "OdysseusUnbound",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/alberta-distillers-alberta-premium-20-year-old-whisky-review-13575",
+          "summary": "Finds an intrusive industrial/solvent nose, thin texture and much shorter finish; strongly dissenting evidence.",
+          "scope": "August 2020 42% exact whisky"
+        }
+      ],
+      "quality": 7.3,
+      "dimensions": [
+        7.3,
+        7.5,
+        7.2,
+        7,
+        7.2,
+        7.6,
+        7.6
+      ],
+      "quality_rationale": "Positive independent accounts value mature rye complexity and oak integration, while a sharply negative exact-release tasting flags solvent-like and thin qualities. These conflicts support only provisional very-good quality.",
+      "quality_confidence": "Medium; several exact-identity in-depth reviews conflict.",
+      "evidence_limit": "Score deliberately reflects conflicting samples and does not infer universal satisfaction.",
+      "release_year": 2019,
+      "pricing": {
+        "amount": 89.95,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2019 original Canadian MSRP",
+        "url": "https://canadianwhisky.org/blog/the-best-alberta-premium-ever",
+        "basis": "Historical Canadian MSRP; no comparable current USD price established."
+      },
+      "value": null,
+      "value_rationale": "N/A: historical Canadian MSRP cannot be treated as a current USD NC ABC price.",
+      "comparables": [
+        {
+          "name": "Alberta Premium 25 Year",
+          "url": "alberta-premium-25-year.html",
+          "reason": "Different older age-stated rye expression."
+        },
+        {
+          "name": "Alberta Premium Cask Strength First Edition",
+          "url": "alberta-premium-cask-strength-first-edition-2019.html",
+          "reason": "Contemporaneous higher-proof 2019 launch, distinct release."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Canadian Whisky Alberta Premium 20 launch",
+          "url": "https://canadianwhisky.org/blog/the-best-alberta-premium-ever",
+          "role": "20-year 42% exact identity, 2019 launch CAD price."
+        },
+        {
+          "title": "Toronto Whisky Society comparative",
+          "url": "https://torontowhiskysociety.ca/2019/11/20/alberta-premium-cask-strength-20yr-limited-editions/",
+          "role": "Independent sensory comparison."
+        },
+        {
+          "title": "Whisky Connosr 2019 positive",
+          "url": "https://www.connosr.com/alberta-distillers-alberta-premium-aged-20-years-whisky-review-13146",
+          "role": "Exact age, proof, positive review."
+        },
+        {
+          "title": "Whisky Connosr 2020 negative",
+          "url": "https://www.connosr.com/alberta-distillers-alberta-premium-20-year-old-whisky-review-13575",
+          "role": "Independent strongly negative counterpoint."
+        }
+      ],
+      "grain_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+      "calibration_mode": "evidence_limited_provisional",
+      "availability": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+        }
+      ],
+      "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted."
+    }
+  },
+  {
+    "slug": "alberta-springs-10-year",
+    "filename": "alberta-springs-10-year.html",
+    "name": "Alberta Springs 10 Year",
+    "family": "Alberta Springs",
+    "portfolio": null,
+    "category": "Canadian Rye Whisky / Rye-forward",
+    "subcategory": "Canadian Rye Whisky / Rye-forward",
+    "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+    "proof": 80,
+    "abv": 40.0,
+    "age": "10 Years",
+    "age_display": "10 Years",
+    "age_sort_years": 10,
+    "mash_bill_display": "Rye-forward Canadian whisky blend; grain ratios may vary by batch and are not always 100% rye",
+    "mash_bill_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+    "quality": 7,
+    "quality_score": 7,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "universal_rubric",
+      "reviewed_date": "2026-10-21",
+      "limitations": "Release formulation variability means score is provisional across bottle years.",
+      "universal_dimensions": {
+        "integration": 7,
+        "flavor_development": 7.1,
+        "finish": 6.8,
+        "technical_cleanliness": 6.9,
+        "texture": 7,
+        "maturity_wood_management": 7.1,
+        "distinctiveness": 7.3
+      },
+      "weights": [
+        25,
+        20,
+        15,
+        15,
+        10,
+        10,
+        5
+      ],
+      "diagnostic_baseline": 7.0,
+      "editorial_adjustment": 0.0,
+      "adjustment_reason": "Independent reviewers agree on spicy toffee and mature rye character but differ on off-notes, depth and texture. The balanced category-relative rating is very good with batch caveats."
+    },
+    "quality_calibration_basis": "Canadian execution within its intended category, using the universal rubric; American bourbon and straight-rye endpoints are not applied.",
+    "quality_rationale": "Independent reviewers agree on spicy toffee and mature rye character but differ on off-notes, depth and texture. The balanced category-relative rating is very good with batch caveats.",
+    "quality_confidence": "Medium; independent detailed tastings with differing impressions.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: Canadian 2017 price is insufficient to calculate contemporary U.S. drinking Value.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "Historical 2017 Canadian review price; no verified current USD 750 mL reference.",
+    "price_url": "https://canadianwhisky.org/blog/reviews/alberta-springs-aged-10-years-40-alc-vol.html",
+    "price_period": "2017 British Columbia regional retail",
+    "price_effective": null,
+    "price_checked_date": "2026-10-21",
+    "price_currency": "CAD",
+    "bottle_size_ml": 750,
+    "bottle_price": 21.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC listing for this exact historical identity.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Alberta Springs aged 10 years at 40% ABV; documented historical expression, not a guarantee that every modern batch has identical grains.",
+    "availability_note": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+    "research_date": "2026-10-21",
+    "score_date": "2026-10-21",
+    "review_sources": [
+      "https://canadianwhisky.org/blog/reviews/alberta-springs-aged-10-years-40-alc-vol.html",
+      "https://www.connosr.com/alberta-springs-10-year-old-whisky-review-8767"
+    ],
+    "review_publishers": [
+      "Canadian Whisky",
+      "Whisky Connosr"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Davin de Kergommeaux",
+        "publisher": "Canadian Whisky",
+        "url": "https://canadianwhisky.org/blog/reviews/alberta-springs-aged-10-years-40-alc-vol.html",
+        "summary": "Highlights creamy body, toffee sweetness, ginger, citrus and pepper, with substantial oak and aromatic complexity.",
+        "scope": "2017 ten-year 40% sample"
+      },
+      {
+        "reviewer": "Jason Hambrey",
+        "publisher": "Whisky Connosr",
+        "url": "https://www.connosr.com/alberta-springs-10-year-old-whisky-review-8767",
+        "summary": "Appreciates sugar and rye spice but reports medicinal or rubbery notes and more restrained finish.",
+        "scope": "2014 ten-year 40% sample"
+      }
+    ],
+    "source_urls": [
+      "https://canadianwhisky.org/blog/reviews/alberta-springs-aged-10-years-40-alc-vol.html",
+      "https://www.connosr.com/alberta-springs-10-year-old-whisky-review-8767",
+      "https://distiller.com/spirits/alberta-springs-10"
+    ],
+    "production_summary": "Reviewers document a taste-selected rye-led blend that can vary in its grain mix; 100% rye is not guaranteed. The age-stated whisky is 40% ABV, with reported blending/rebarreling practices, but exact cask sequence can vary.",
+    "finishing_information": "Ten-year maturation; no separate finishing process independently established.",
+    "identity_note": null,
+    "history": [
+      "Alberta Springs has long been positioned as an age-stated Alberta Distillers rye-forward Canadian whisky.",
+      "Different batches have reportedly used a varying rye/blended grain balance, so sweeping 100%-rye assertions are unreliable."
+    ],
+    "comparables": [
+      {
+        "name": "Alberta Premium 100% Rye",
+        "url": "alberta-premium-100-rye.html",
+        "reason": "Younger all-rye family comparison where supported."
+      },
+      {
+        "name": "Alberta Premium 20 Year (2019)",
+        "url": "alberta-premium-20-year-2019.html",
+        "reason": "Older 42% mature rye release with a different bottle scope."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Good buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Fair buy",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      },
+      {
+        "label": "No longer worth it",
+        "minimum": null,
+        "maximum_exclusive": null,
+        "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+        "current_band": false
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Alberta Springs aged 10 years at 40% ABV; documented historical expression, not a guarantee that every modern batch has identical grains.",
+    "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "north-american-expansion-v1",
+    "assessment_checkpoint": "NA-037",
+    "editorial": {
+      "id": "alberta-springs-10-year",
+      "category": "Canadian Rye Whisky / Rye-forward",
+      "proof": 80,
+      "age": 10,
+      "age_display": "10 Years",
+      "grain": "Rye-forward Canadian whisky blend; grain ratios may vary by batch and are not always 100% rye",
+      "identity": "Alberta Springs aged 10 years at 40% ABV; documented historical expression, not a guarantee that every modern batch has identical grains.",
+      "short_version": "A toffee-rich ten-year Canadian rye-forward blend with bright pepper, citrus and sweet grain notes, sometimes countered by herbal or rubbery edges.",
+      "producer": "Alberta Distillers, Calgary / Suntory Global Spirits",
+      "production": "Reviewers document a taste-selected rye-led blend that can vary in its grain mix; 100% rye is not guaranteed. The age-stated whisky is 40% ABV, with reported blending/rebarreling practices, but exact cask sequence can vary.",
+      "finish": "Ten-year maturation; no separate finishing process independently established.",
+      "history": [
+        "Alberta Springs has long been positioned as an age-stated Alberta Distillers rye-forward Canadian whisky.",
+        "Different batches have reportedly used a varying rye/blended grain balance, so sweeping 100%-rye assertions are unreliable."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Davin de Kergommeaux",
+          "publisher": "Canadian Whisky",
+          "url": "https://canadianwhisky.org/blog/reviews/alberta-springs-aged-10-years-40-alc-vol.html",
+          "summary": "Highlights creamy body, toffee sweetness, ginger, citrus and pepper, with substantial oak and aromatic complexity.",
+          "scope": "2017 ten-year 40% sample"
+        },
+        {
+          "reviewer": "Jason Hambrey",
+          "publisher": "Whisky Connosr",
+          "url": "https://www.connosr.com/alberta-springs-10-year-old-whisky-review-8767",
+          "summary": "Appreciates sugar and rye spice but reports medicinal or rubbery notes and more restrained finish.",
+          "scope": "2014 ten-year 40% sample"
+        }
+      ],
+      "quality": 7,
+      "dimensions": [
+        7,
+        7.1,
+        6.8,
+        6.9,
+        7,
+        7.1,
+        7.3
+      ],
+      "quality_rationale": "Independent reviewers agree on spicy toffee and mature rye character but differ on off-notes, depth and texture. The balanced category-relative rating is very good with batch caveats.",
+      "quality_confidence": "Medium; independent detailed tastings with differing impressions.",
+      "evidence_limit": "Release formulation variability means score is provisional across bottle years.",
+      "release_year": null,
+      "pricing": {
+        "amount": 21.99,
+        "currency": "CAD",
+        "size_ml": 750,
+        "date": "2017 British Columbia regional retail",
+        "url": "https://canadianwhisky.org/blog/reviews/alberta-springs-aged-10-years-40-alc-vol.html",
+        "basis": "Historical 2017 Canadian review price; no verified current USD 750 mL reference."
+      },
+      "value": null,
+      "value_rationale": "N/A: Canadian 2017 price is insufficient to calculate contemporary U.S. drinking Value.",
+      "comparables": [
+        {
+          "name": "Alberta Premium 100% Rye",
+          "url": "alberta-premium-100-rye.html",
+          "reason": "Younger all-rye family comparison where supported."
+        },
+        {
+          "name": "Alberta Premium 20 Year (2019)",
+          "url": "alberta-premium-20-year-2019.html",
+          "reason": "Older 42% mature rye release with a different bottle scope."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Canadian Whisky Alberta Springs 10",
+          "url": "https://canadianwhisky.org/blog/reviews/alberta-springs-aged-10-years-40-alc-vol.html",
+          "role": "Age, rye variability, sensory tasting and dated CAD price."
+        },
+        {
+          "title": "Whisky Connosr Alberta Springs",
+          "url": "https://www.connosr.com/alberta-springs-10-year-old-whisky-review-8767",
+          "role": "Independent tasting with dissenting impressions."
+        },
+        {
+          "title": "Distiller Alberta Springs 10",
+          "url": "https://distiller.com/spirits/alberta-springs-10",
+          "role": "Secondary expression identity."
+        }
+      ],
+      "grain_confidence": "Matched published identity; undisclosed percentages are not inferred.",
+      "calibration_mode": "evidence_limited_provisional",
+      "availability": "Historical price and review publication do not imply current U.S. inventory; no CAD-to-USD conversion is made.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Good buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Fair buy",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        },
+        {
+          "label": "No longer worth it",
+          "minimum": null,
+          "maximum_exclusive": null,
+          "reason": "No defensible numeric U.S. price threshold is assigned without a reliable exact-release comparable offer.",
+          "current_band": false
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Start neat at room temperature to assess the documented malt/rye character, oak and spirit integration."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One large cube can soften alcohol intensity; compare before and after to avoid masking release-specific flavors."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Use restrained soda and fresh citrus to explore its grain and spice."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a minimal sugar dose so its distinguishing character remains perceptible."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try a half-size vermouth build to judge whether the whisky retains sufficient spice and structure."
+        }
+      ],
+      "image_limitation": "Exact-expression image bytes could not be authenticated for direct embedding; no sibling or generic bottle image is substituted."
+    }
   }
 ]

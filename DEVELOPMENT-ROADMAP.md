@@ -1,6 +1,6 @@
 # Old Oak Omnibus — Authoritative Development Roadmap
 
-**Roadmap revision:** R001  
+**Roadmap revision:** R002
 **Updated:** 2026-10-27  
 **Project:** Old Oak Omnibus / Whiskey Project  
 **Production site:** https://diabolicdonut.github.io/Whiskey-Project/  
@@ -56,7 +56,7 @@ Status meanings: **accepted** = explicitly validated full gate criteria; **parti
 | initial-corpus | Establish the initial researched 825-expression dossier corpus | 10 | accepted | final-validation-checkpoint.json; audit.md |
 | image-audit | Finish the initial 825-image inspection and verified embedding pass | 5 | accepted | image-embedding-checkpoint.json |
 | catalogue-core | Deliver searchable, compact, nine-column sortable catalogue and score model | 7 | accepted | index.html; whiskey-data.json; scripts/north_american_validate.py |
-| na-expansion | Close all 238 Widow Jane/Canadian expression decisions and publish validated dossiers | 11 | partial | north-american-expansion-checkpoint.json; north-american-expression-ledger.json; research/na-037-authored.json |
+| na-expansion | Close all 238 Widow Jane/Canadian expression decisions and publish validated dossiers | 11 | accepted | north-american-expansion-checkpoint.json; north-american-expression-ledger.json; research/na-037-authored.json |
 | sagamore | Complete separately researched Sagamore Spirit expression family | 8 | planned | future Sagamore discovery ledger |
 | priority-families | Close approved North American family gaps (Weller, Kings, Jeptha Creed, Canadian Club and others) | 5 | planned | family-catalog-v6.7.md; future family ledgers |
 | world-families | Expand major international and underserved whiskey styles in approved finite batches | 5 | planned | future approved discovery ledgers |
@@ -68,11 +68,11 @@ Status meanings: **accepted** = explicitly validated full gate criteria; **parti
 | release-qa | Apply full-repository static, browser and preservation acceptance on every release | 4 | partial | scripts/north_american_validate.py; .github/workflows/completion-validation.yml |
 | project-governance | Maintain single source-of-truth roadmap, revision and forward maintenance workflow | 2 | partial | DEVELOPMENT-ROADMAP.md; site-progress.json; scripts/roadmap_validate.py |
 
-**Current baseline: 30% accepted (30/100 weighted points).** This intentionally replaces the earlier **44%** shorter delivery-plan metric because the denominator now covers the *broader known long-term vision*. A drop in displayed percentage here is **scope rebasing, not loss of accepted work**. The initial 30 points are earned by the 825-dossier accepted baseline, initial image verification, and functioning comparison catalogue. Numeric progress beyond these gates requires documented acceptance; claiming the broader project is “nearly done” based on 231/238 expansion decisions would be misleading.
+**Current baseline: 41% accepted (41/100 weighted points).** This intentionally replaces the earlier **44%** shorter delivery-plan metric because the denominator now covers the *broader known long-term vision*. A drop in displayed percentage here is **scope rebasing, not loss of accepted work**. The initial 30 points are earned by the 825-dossier accepted baseline, initial image verification, and functioning comparison catalogue. Numeric progress beyond these gates requires documented acceptance; claiming the broader project is “nearly done” based on 231/238 expansion decisions would be misleading.
 
 ### Detailed stage sequence and acceptance checkpoints
 
-**Stage A — Preserve and finish current commitments.** The validated original 825 is immutable. Current accepted North American expansion state on 2026-10-27 is **NA-036, 1,043 dossiers** = 825 baseline + 28 Widow Jane + 190 Canadian; ledger **218 accepted, 11 excluded, 2 baseline-preserved, 7 pending** (231 of 238 decisions). Research and structured inputs for the final seven are staged in `research/na-037-remaining-canadian-expressions.md` and `research/na-037-authored.json` but *not yet published or accepted*. Next: generate seven dossiers, integrate index and expansion data atomically, run full static and Chromium 390/768/1440 checks, record zero-failure acceptance, and close the expansion only when the controller warrants it. Do not begin Sagamore while this controller says `implementation_in_progress`. After completion, finish alphabetical filters, canonical deduplication and full site consistency.
+**Stage A — Preserve and finish current commitments.** Original 825 dossiers remain immutable. As of 2026-10-27, **NA-037, 1,050 dossiers** = 825 baseline + 28 Widow Jane + 197 Canadian; ledger **225 accepted, 11 excluded, 2 baseline-preserved, 0 pending** (238 of 238 decisions). The final seven Canadian dossiers are published and were tested with zero failures using full structural checking and focused Chromium at 390/768/1440. North American Expansion is complete; categorical filters have been alphabetized with All first. Do not replay accepted checkpoints 001–037. Advance to approved Sagamore research as Stage B.
 
 **Stage B — Extend expression coverage deliberately.** Move to Sagamore Spirit as the next named family, then prioritize requested gaps (Weller, Kings, Jeptha Creed, Canadian Club and other substantive Canadian/North American families) and approved international styles. Publish in bounded 5–10-dossier recoverable batches (or smaller when risk demands), with own discovery ledger/acceptance evidence. Research flagship and notable variants first; distinguish true expressions from bottle-size/packaging variations. Reprioritize only through a roadmap revision rather than opportunistic count maximization.
 
@@ -104,4 +104,5 @@ Do not count partial gate weight toward accepted completion, and do not change w
 
 ## 9. Revision history
 
+- **2026-10-27 — R002:** Accepted and validated NA-037: seven remaining Canadian dossiers; total 1,050, 238/238 decisions, all original 825 preserved. Normalized catalogue filters alphabetically. North American gate accepted (+11 weighted points); overall **41%**. Next authorized family: Sagamore.
 - **2026-10-27 — R001:** Expanded the existing 11-gate/44% coverage sketch into a holistic, 15-gate, 100-point roadmap covering platform, world-category coverage, source/price accuracy, complete dossier and calibration standards, maintenance and AI-worker procedures. Rebased accepted percentage to **30%** without changing accepted dossiers, scoring or expansion checkpoint. Wired the site-visible revision and roadmap to this governing document.

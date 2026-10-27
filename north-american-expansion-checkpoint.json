@@ -1,8 +1,8 @@
 {
   "schema": "old-oak-north-american-expansion-v1",
   "phase": "North American Expansion — Widow Jane + Canadian Whisky",
-  "checkpoint": 36,
-  "status": "implementation_in_progress",
+  "checkpoint": 37,
+  "status": "complete",
   "original_dossier_count": 825,
   "baseline_commit": "484c4c249990254c48736700327db1c36bc74018",
   "final_accepted_baseline_content_commit": "b1d6aad3cd646a22a2b4ffae6a0be074786a7d17",
@@ -1058,11 +1058,18 @@
     "stalk-barrel-blue-blend.html",
     "stalk-barrel-red-blend.html",
     "stalk-barrel-single-malt-46.html",
-    "stalk-barrel-three-barrel.html"
+    "stalk-barrel-three-barrel.html",
+    "two-brewers-yukon-single-malt-release-22.html",
+    "two-brewers-yukon-single-malt-release-33.html",
+    "two-brewers-yukon-single-malt-release-35.html",
+    "windsor-canadian-original.html",
+    "windsor-canadian-reserve.html",
+    "alberta-premium-20-year-2019.html",
+    "alberta-springs-10-year.html"
   ],
   "widow_jane_added": 28,
-  "canadian_added": 190,
-  "dossier_count": 1043,
+  "canadian_added": 197,
+  "dossier_count": 1050,
   "history": [
     {
       "checkpoint": 1,
@@ -2350,9 +2357,34 @@
         "Three Barrel discovery proof corrected from 80 to 86: exact 43% blend of separately ex-bourbon-aged rye, single malt and corn whisky in sub-1,000-litre batches. Strongly conflicting exact reviews support provisional Quality 5.8; Value remains N/A without a defensible current U.S. price.",
         "Exact-expression imagery was identified for the family, but exact image bytes were not authenticated for self-contained embedding; no sibling bottle was substituted and no standalone image assets were added."
       ]
+    },
+    {
+      "checkpoint": 37,
+      "files": [
+        "two-brewers-yukon-single-malt-release-22.html",
+        "two-brewers-yukon-single-malt-release-33.html",
+        "two-brewers-yukon-single-malt-release-35.html",
+        "windsor-canadian-original.html",
+        "windsor-canadian-reserve.html",
+        "alberta-premium-20-year-2019.html",
+        "alberta-springs-10-year.html"
+      ],
+      "parent_commit": "88d4ef785dcd67f22233fddde98c3fab12de9d2a",
+      "status": "accepted",
+      "validation": {
+        "structural_data_link_image_checks": 34900,
+        "functional_cases_passed": 493,
+        "responsive_pages_rendered": 678,
+        "viewports": [
+          390,
+          768,
+          1440
+        ],
+        "failures": 0
+      }
     }
   ],
-  "next_action": "Publish the seven prepared NA-037 dossiers from research/na-037-authored.json using scripts/north_american_build.py; run full structural checks and three-viewport Chromium runtime; accept only after zero failures. Then normalize alphabetic category/family selectors. Never replay checkpoints 001–036.",
+  "next_action": "North American Expansion NA-037 complete (all 238 decisions). Next: approved Sagamore Spirit discovery and finite expression inventory before implementation; honor DEVELOPMENT-ROADMAP.md R002. Preserve 825 baseline.",
   "validation": {
     "recovery_head_verified": true,
     "baseline_dossier_count": 825,
@@ -2360,34 +2392,50 @@
     "baseline_preservation_manifest_recorded": true,
     "static": {
       "schema": "old-oak-north-american-static-validation-v1",
-      "checkpoint": 36,
+      "checkpoint": 37,
       "status": "passed",
-      "full_repository_validation": false,
-      "dossiers": 1043,
-      "new_dossiers": 218,
-      "html_files_structurally_checked": 219,
+      "full_repository_validation": true,
+      "dossiers": 1050,
+      "new_dossiers": 225,
+      "html_files_structurally_checked": 1051,
       "original_dossier_hashes_verified": 825,
       "original_index_rows_byte_preserved": 825,
       "completed_ledgers_unchanged": true,
-      "checks": 10857,
-      "local_references_checked": 3019,
-      "embedded_image_occurrences_decoded": 191,
-      "unique_image_payloads_decoded": 191,
+      "checks": 34900,
+      "local_references_checked": 20305,
+      "embedded_image_occurrences_decoded": 1233,
+      "unique_image_payloads_decoded": 990,
       "image_dossiers_added": 191,
       "numeric_counts": {
-        "quality": 202,
-        "value": 113,
-        "overall": 113
+        "quality": 208,
+        "value": 114,
+        "overall": 114
       },
       "failure_count": 0,
       "failures": []
     },
     "runtime": {
       "schema": "old-oak-runtime-validation-v1",
-      "accepted_content_commit": "08aabea554f0a11ec9f73663d8a4768ffa4396d8",
+      "accepted_content_commit": "88d4ef785dcd67f22233fddde98c3fab12de9d2a",
       "functional_cases": [
         {
-          "case": "1043 unique dossier rows and dossier targets",
+          "case": "Homepage revision matches roadmap",
+          "status": "passed"
+        },
+        {
+          "case": "Homepage overall progress is roadmap-weighted, not phase-only",
+          "status": "passed"
+        },
+        {
+          "case": "Expanded status links authoritative development roadmap",
+          "status": "passed"
+        },
+        {
+          "case": "Expanded status distinguishes editorial checkpoint",
+          "status": "passed"
+        },
+        {
+          "case": "1050 unique dossier rows and dossier targets",
           "status": "passed"
         },
         {
@@ -2519,11 +2567,59 @@
           "status": "passed"
         },
         {
+          "case": "Filter #category Canadian Blended Whisky",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Blended Whisky",
+          "status": "passed"
+        },
+        {
           "case": "Filter #category Canadian rye",
           "status": "passed"
         },
         {
           "case": "Filter count #category Canadian rye",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Rye Whisky",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Rye Whisky",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Rye Whisky / Rye-forward",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Rye Whisky / Rye-forward",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Single Grain",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Single Grain",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Single Grain / 100% Rye",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Single Grain / 100% Rye",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #category Canadian Single Malt",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #category Canadian Single Malt",
           "status": "passed"
         },
         {
@@ -2607,54 +2703,6 @@
           "status": "passed"
         },
         {
-          "case": "Filter #category Canadian Blended Whisky",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #category Canadian Blended Whisky",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #category Canadian Rye Whisky / Rye-forward",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #category Canadian Rye Whisky / Rye-forward",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #category Canadian Single Grain / 100% Rye",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #category Canadian Single Grain / 100% Rye",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #category Canadian Single Grain",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #category Canadian Single Grain",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #category Canadian Rye Whisky",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #category Canadian Rye Whisky",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #category Canadian Single Malt",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #category Canadian Single Malt",
-          "status": "passed"
-        },
-        {
           "case": "Filter #family all",
           "status": "passed"
         },
@@ -2688,6 +2736,42 @@
         },
         {
           "case": "Filter URL #family Bowman",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family AlbertaDistillers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family AlbertaDistillers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family AlbertaDistillers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family AlbertaPremium",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family AlbertaPremium",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family AlbertaPremium",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family AlbertaSprings",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family AlbertaSprings",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family AlbertaSprings",
           "status": "passed"
         },
         {
@@ -2775,6 +2859,18 @@
           "status": "passed"
         },
         {
+          "case": "Filter #family Bearface",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Bearface",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Bearface",
+          "status": "passed"
+        },
+        {
           "case": "Filter #family BelleMeade",
           "status": "passed"
         },
@@ -2808,6 +2904,18 @@
         },
         {
           "case": "Filter URL #family Bernheim",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family BlackVelvet",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family BlackVelvet",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family BlackVelvet",
           "status": "passed"
         },
         {
@@ -2931,6 +3039,42 @@
           "status": "passed"
         },
         {
+          "case": "Filter #family CanadianClub",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CanadianClub",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CanadianClub",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family CanadianMist",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CanadianMist",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CanadianMist",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family CaribouCrossing",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CaribouCrossing",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CaribouCrossing",
+          "status": "passed"
+        },
+        {
           "case": "Filter #family CastleKey",
           "status": "passed"
         },
@@ -2964,6 +3108,30 @@
         },
         {
           "case": "Filter URL #family Cleveland",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Collingwood",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Collingwood",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Collingwood",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family CrownRoyal",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family CrownRoyal",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family CrownRoyal",
           "status": "passed"
         },
         {
@@ -3039,6 +3207,18 @@
           "status": "passed"
         },
         {
+          "case": "Filter #family FortyCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family FortyCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family FortyCreek",
+          "status": "passed"
+        },
+        {
           "case": "Filter #family FourRoses",
           "status": "passed"
         },
@@ -3096,6 +3276,42 @@
         },
         {
           "case": "Filter URL #family GeorgeTStagg",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GibsonsFinest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GibsonsFinest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GibsonsFinest",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GlenBreton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GlenBreton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GlenBreton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family GooderhamWorts",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family GooderhamWorts",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family GooderhamWorts",
           "status": "passed"
         },
         {
@@ -3180,6 +3396,18 @@
         },
         {
           "case": "Filter URL #family Hudson",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family JPWisers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family JPWisers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family JPWisers",
           "status": "passed"
         },
         {
@@ -3312,6 +3540,18 @@
         },
         {
           "case": "Filter URL #family LittleBook",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family LotNo40",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family LotNo40",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family LotNo40",
           "status": "passed"
         },
         {
@@ -3483,6 +3723,18 @@
           "status": "passed"
         },
         {
+          "case": "Filter #family Pendleton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Pendleton",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Pendleton",
+          "status": "passed"
+        },
+        {
           "case": "Filter #family Penelope",
           "status": "passed"
         },
@@ -3492,6 +3744,18 @@
         },
         {
           "case": "Filter URL #family Penelope",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family PikeCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family PikeCreek",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family PikeCreek",
           "status": "passed"
         },
         {
@@ -3591,6 +3855,18 @@
           "status": "passed"
         },
         {
+          "case": "Filter #family RoyalCanadian",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family RoyalCanadian",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family RoyalCanadian",
+          "status": "passed"
+        },
+        {
           "case": "Filter #family RussellsReserve",
           "status": "passed"
         },
@@ -3624,6 +3900,30 @@
         },
         {
           "case": "Filter URL #family Sazerac",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family Seagrams",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family Seagrams",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family Seagrams",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family ShelterPoint",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family ShelterPoint",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family ShelterPoint",
           "status": "passed"
         },
         {
@@ -3675,6 +3975,18 @@
           "status": "passed"
         },
         {
+          "case": "Filter #family StalkBarrel",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family StalkBarrel",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family StalkBarrel",
+          "status": "passed"
+        },
+        {
           "case": "Filter #family StillAustin",
           "status": "passed"
         },
@@ -3720,6 +4032,18 @@
         },
         {
           "case": "Filter URL #family Traveller",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #family TwoBrewers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family TwoBrewers",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family TwoBrewers",
           "status": "passed"
         },
         {
@@ -3867,6 +4191,18 @@
           "status": "passed"
         },
         {
+          "case": "Filter #family WindsorCanadian",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #family WindsorCanadian",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #family WindsorCanadian",
+          "status": "passed"
+        },
+        {
           "case": "Filter #family Woodford",
           "status": "passed"
         },
@@ -3888,258 +4224,6 @@
         },
         {
           "case": "Filter URL #family Yellowstone",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family AlbertaDistillers",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family AlbertaDistillers",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family AlbertaDistillers",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family AlbertaPremium",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family AlbertaPremium",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family AlbertaPremium",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family Bearface",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family Bearface",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family Bearface",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family BlackVelvet",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family BlackVelvet",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family BlackVelvet",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family CanadianClub",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family CanadianClub",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family CanadianClub",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family CanadianMist",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family CanadianMist",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family CanadianMist",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family CaribouCrossing",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family CaribouCrossing",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family CaribouCrossing",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family Collingwood",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family Collingwood",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family Collingwood",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family CrownRoyal",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family CrownRoyal",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family CrownRoyal",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family FortyCreek",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family FortyCreek",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family FortyCreek",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family GibsonsFinest",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family GibsonsFinest",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family GibsonsFinest",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family GlenBreton",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family GlenBreton",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family GlenBreton",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family GooderhamWorts",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family GooderhamWorts",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family GooderhamWorts",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family JPWisers",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family JPWisers",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family JPWisers",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family LotNo40",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family LotNo40",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family LotNo40",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family Pendleton",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family Pendleton",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family Pendleton",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family PikeCreek",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family PikeCreek",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family PikeCreek",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family RoyalCanadian",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family RoyalCanadian",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family RoyalCanadian",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family Seagrams",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family Seagrams",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family Seagrams",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family ShelterPoint",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family ShelterPoint",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family ShelterPoint",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #family StalkBarrel",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #family StalkBarrel",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #family StalkBarrel",
           "status": "passed"
         },
         {
@@ -4191,18 +4275,6 @@
           "status": "passed"
         },
         {
-          "case": "Filter #period historical",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #period historical",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #period historical",
-          "status": "passed"
-        },
-        {
           "case": "Filter #period sample",
           "status": "passed"
         },
@@ -4212,6 +4284,18 @@
         },
         {
           "case": "Filter URL #period sample",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #period historical",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #period historical",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #period historical",
           "status": "passed"
         },
         {
@@ -4227,6 +4311,18 @@
           "status": "passed"
         },
         {
+          "case": "Filter #calibration unscored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #calibration unscored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #calibration unscored",
+          "status": "passed"
+        },
+        {
           "case": "Filter #calibration native_anchored",
           "status": "passed"
         },
@@ -4236,6 +4332,18 @@
         },
         {
           "case": "Filter URL #calibration native_anchored",
+          "status": "passed"
+        },
+        {
+          "case": "Filter #calibration evidence_limited_provisional",
+          "status": "passed"
+        },
+        {
+          "case": "Filter count #calibration evidence_limited_provisional",
+          "status": "passed"
+        },
+        {
+          "case": "Filter URL #calibration evidence_limited_provisional",
           "status": "passed"
         },
         {
@@ -4263,30 +4371,6 @@
           "status": "passed"
         },
         {
-          "case": "Filter #calibration evidence_limited_provisional",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #calibration evidence_limited_provisional",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #calibration evidence_limited_provisional",
-          "status": "passed"
-        },
-        {
-          "case": "Filter #calibration unscored",
-          "status": "passed"
-        },
-        {
-          "case": "Filter count #calibration unscored",
-          "status": "passed"
-        },
-        {
-          "case": "Filter URL #calibration unscored",
-          "status": "passed"
-        },
-        {
           "case": "Family filter membership survives URL reload",
           "status": "passed"
         },
@@ -4307,8 +4391,8 @@
           "status": "passed"
         }
       ],
-      "responsive_cases": 657,
-      "dossiers_rendered": 218,
+      "responsive_cases": 678,
+      "dossiers_rendered": 225,
       "index_rendered": true,
       "console_errors": [],
       "page_errors": [],
@@ -4322,15 +4406,16 @@
       "status": "passed"
     }
   },
-  "updated_at": "2026-10-21",
-  "last_parent_commit": "08aabea554f0a11ec9f73663d8a4768ffa4396d8",
+  "updated_at": "2026-10-27",
+  "last_parent_commit": "88d4ef785dcd67f22233fddde98c3fab12de9d2a",
   "final_ui_normalization": {
-    "status": "pending_until_ledger_exhausted",
-    "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates.",
-    "instruction_date": "2026-10-14"
+    "status": "accepted",
+    "scope": "Alphabetize every user-facing categorical option list by displayed label, keeping All first; verify option counts, uniqueness, completeness and filtering at 390, 768 and 1440 widths. Preserve numeric sorts and full-precision Overall sorting; consolidate only genuine canonical duplicates. Completed by scripts/na_037_release.py and browser filter regression validation.",
+    "instruction_date": "2026-10-14",
+    "accepted_date": "2026-10-27"
   },
   "prepared_batch_037": {
-    "status": "authored_validated_not_published",
+    "status": "published_accepted",
     "source": "research/na-037-authored.json",
     "source_research": "research/na-037-remaining-canadian-expressions.md",
     "prepared_date": "2026-10-21",
@@ -4344,6 +4429,7 @@
       "alberta-springs-10-year"
     ],
     "inputs_validation": "passed",
-    "validation_report": "research/na-037-input-validation.json"
+    "validation_report": "research/na-037-input-validation.json",
+    "accepted_date": "2026-10-27"
   }
 }
