@@ -84,10 +84,10 @@ def finalize():
     req('**Roadmap revision:** R007' in md and '**Updated:** 2026-10-28' in md,'Expected R007 authority')
     md=md.replace('**Roadmap revision:** R007','**Roadmap revision:** R008',1)
     anchor='## 9. Revision history\n\n';req(anchor in md,'Revision history missing')
-    md=md.replace(anchor,anchor+'- **2026-10-28 — R008:** Sagamore S005 accepted individually sourced 2022 Rum Cask, 2020 Sierra Nevada Rye Ale and 2018 Vintner’s Finish dossiers. The Vintner's exact price is not verified and its Value and Overall remain N/A. Full 1,062 dossier static sweep and 714 responsive Chromium cases passed, 825 originals unchanged. **27 Sagamore published**, **30/39** dispositions (9 pending), roadmap strict **41%**.\\n',1)
+    md=md.replace(anchor,anchor+'- **2026-10-28 — R008:** Sagamore S005 accepted individually sourced 2022 Rum Cask, 2020 Sierra Nevada Rye Ale and 2018 Vintner’s Finish dossiers. The Vintner's exact price is not verified and its Value and Overall remain N/A. Full 1,062 dossier static sweep and 714 responsive Chromium cases passed, 825 originals unchanged. **27 Sagamore published**, **30/39** dispositions (9 pending), roadmap strict **41%**.\n',1)
     previous='**S004 accepted publication (2026-10-28):**'
     req(previous in md,'S004 history missing')
-    md=md.replace(previous,'**S005 accepted publication (2026-10-28):** Three historical cask-finish dossiers with authentic release differences: 2022 two-region rum instead of 2019 single-rum; 2020 Sierra Nevada 90-proof Rye Ale instead of 98-proof Ale Cask; 2018 98.4-proof Vintner’s with no unsupported Value score. Validated catalogue **1,062**, Sagamore **30/39** resolved, nine pending; NA-037 and all 825 originals preserved. Strict roadmap remains **41/100** until whole family gate acceptance.\\n\\n'+previous,1)
+    md=md.replace(previous,'**S005 accepted publication (2026-10-28):** Three historical cask-finish dossiers with authentic release differences: 2022 two-region rum instead of 2019 single-rum; 2020 Sierra Nevada 90-proof Rye Ale instead of 98-proof Ale Cask; 2018 98.4-proof Vintner’s with no unsupported Value score. Validated catalogue **1,062**, Sagamore **30/39** resolved, nine pending; NA-037 and all 825 originals preserved. Strict roadmap remains **41/100** until whole family gate acceptance.\n\n'+previous,1)
     ROADMAP.write_text(md,encoding='utf-8')
     p=read(PROGRESS);req(p['revision']=='R007','R007 progress needed')
     p['revision']='R008';p['asOf']=DATE;p['progress']['completed']=30;p['progress']['total']=39
