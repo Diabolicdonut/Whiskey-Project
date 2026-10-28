@@ -131,6 +131,9 @@ def finalize():
     md=ROADMAP.read_text(encoding='utf-8')
     req('**Roadmap revision:** R005' in md,'R005 roadmap required')
     md=md.replace('**Roadmap revision:** R005','**Roadmap revision:** R006',1)
+    # Date and revision must advance together; strip Markdown hard-break spaces on changed line.
+    req('**Updated:** 2026-10-27' in md,'Expected roadmap review date 2026-10-27')
+    md=md.replace('**Updated:** 2026-10-27  ','**Updated:** 2026-10-28',1)
     h='## 9. Revision history\n\n'
     req(h in md,'Roadmap revision history missing')
     md=md.replace(h,h+
