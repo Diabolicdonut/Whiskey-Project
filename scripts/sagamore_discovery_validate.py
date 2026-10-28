@@ -9,16 +9,16 @@ def main():
     if data.get('schema')!='old-oak-sagamore-discovery-ledger-v1':errors.append('Unknown inventory schema')
     if len({e['id'] for e in entries})!=len(entries):errors.append('Duplicate expression IDs')
     if [e['order'] for e in entries]!=list(range(1,len(entries)+1)):errors.append('Non-deterministic ordering')
-    for key in ('existing_published','pending_research','excluded_pending_liquid_distinction'):
+    for key in ('existing_published','accepted_published','pending_research','excluded_pending_liquid_distinction'):
         if sum(e['decision']==key for e in entries)!=counts.get(key):errors.append('Wrong '+key+' count')
     if len(entries)!=counts['total']:errors.append('Wrong total')
     if data['baseline_publication']['north_american_checkpoint']!=37:errors.append('Expected accepted NA-037')
-    if len(list(ROOT.glob('sagamore-*.html')))!=counts['existing_published']:
+    if len(list(ROOT.glob('sagamore-*.html')))!=counts['existing_published']+counts.get('accepted_published',0):
         errors.append('Unexpected Sagamore article count: review this new batch and update inventory')
     for e in entries:
         if not e['producer_source'].startswith('https://'):
             errors.append('No source URL: '+e['id'])
-        if e['decision']=='existing_published' and not (ROOT/e['filename']).is_file():
+        if e['decision'] in ('existing_published','accepted_published') and not (ROOT/e['filename']).is_file():
             errors.append('Missing preserved article: '+e['filename'])
         if e['decision']=='pending_research' and (ROOT/e['filename']).exists():
             errors.append('Unaccepted candidate file exists: '+e['filename'])
@@ -28,6 +28,7 @@ def main():
     if current['checkpoint']!=37 or current['status']!='complete':
         errors.append('Sagamore phase requires accepted NA-037 closure')
     report={'schema':'sagamore-discovery-validation-v1','existing':counts['existing_published'],
+            'accepted_new':counts.get('accepted_published',0),
             'pending':counts['pending_research'],'excluded':counts['excluded_pending_liquid_distinction'],
             'status':'passed' if not errors else 'failed','errors':errors}
     print(json.dumps(report))

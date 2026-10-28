@@ -10,7 +10,7 @@ import completion_validate as cv
 def digest(b):return hashlib.sha256(b).hexdigest()
 def projection(text):return json.loads(re.search(r'<script[^>]*id="whiskey-index-data"[^>]*>(.*?)</script>',text,re.S)[1])
 def validate(full=False):
-    ctl=json.loads((ROOT/'north-american-expansion-checkpoint.json').read_text());ledger=json.loads((ROOT/'north-american-expression-ledger.json').read_text());new=json.loads((ROOT/'north-american-expansion-data.json').read_text()) if (ROOT/'north-american-expansion-data.json').exists() else []
+    ctl=json.loads((ROOT/'north-american-expansion-checkpoint.json').read_text());ledger=json.loads((ROOT/'north-american-expression-ledger.json').read_text());na_new=json.loads((ROOT/'north-american-expansion-data.json').read_text()) if (ROOT/'north-american-expansion-data.json').exists() else [];sag_new=json.loads((ROOT/'sagamore-expansion-data.json').read_text()) if (ROOT/'sagamore-expansion-data.json').exists() else [];new=na_new+sag_new
     errors=[];checks=0
     def check(ok,kind,detail):
         nonlocal checks;checks+=1
@@ -28,10 +28,11 @@ def validate(full=False):
     check(len(oldrows)==len(baseline['rows'])==ctl['original_dossier_count'],'baseline_index_row_count',{'raw_rows':len(oldrows),'metadata_rows':len(baseline['rows'])})
     for r in oldrows:check(r in text,'baseline_index_row_bytes',{'id':re.search('id="([^"]*)"',r)[1]})
     dom=lh.fromstring(text);rows=dom.xpath('//tbody[@id="bottles"]/tr');targets=[r.xpath('.//a/@href')[0] for r in rows];files={p.name for p in ROOT.glob('*.html') if p.name!='index.html'}
-    check(len(files)==825+len(new)==ctl['dossier_count'],'counts',{'files':len(files),'records':len(new),'controller':ctl['dossier_count']})
+    check(len(files)==825+len(new)==ctl['dossier_count']+len(sag_new),'counts',{'files':len(files),'records':len(new),'controller':ctl['dossier_count']})
     check(len(targets)==len(set(targets)) and set(targets)==files,'dossier_targets',{'duplicates':len(targets)-len(set(targets)),'missing':sorted(set(targets)-files),'orphans':sorted(files-set(targets))})
     check(len(by)==len(current['rows'])==len(files),'projection_count',{'count':len(by)})
-    check({m['filename'] for m in new}==set(ctl['added_dossiers']),'controller_parity',{})
+    check({m['filename'] for m in na_new}==set(ctl['added_dossiers']),'controller_parity',{})
+    check(not ({m['filename'] for m in na_new}&{m['filename'] for m in sag_new}),'phase_dossier_separation',{})
     check(not any(p.suffix.lower() in {'.png','.jpg','.jpeg','.webp','.gif','.svg','.avif'} for p in ROOT.rglob('*') if not ({'.git','node_modules','__pycache__'} & set(p.parts))),'standalone_image_assets',{})
     checks_columns={'name','category','proof','cost','mash','age','quality','value','overall'}
     check(set(dom.xpath('//th[@data-key]/@data-key'))==checks_columns,'all_nine_sort_columns',{})

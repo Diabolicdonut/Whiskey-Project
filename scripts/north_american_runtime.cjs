@@ -163,7 +163,9 @@ async function responsive(context,BASE,files,width,height){
   try{await functional(page,BASE);}catch(e){failures.push({kind:'runtime',case:'Functional sequence',error:e.message});}
   await page.close();
   const allfiles=fs.readdirSync(ROOT).filter(f=>f.endsWith('.html')).sort();
-  const files=focused?['index.html',...JSON.parse(fs.readFileSync(path.join(ROOT,'north-american-expansion-checkpoint.json'))).added_dossiers]:allfiles;
+  const sagamorePath=path.join(ROOT,'sagamore-expansion-data.json');
+  const sagamoreFiles=fs.existsSync(sagamorePath)?JSON.parse(fs.readFileSync(sagamorePath,'utf8')).map(m=>m.filename):[];
+  const files=focused?['index.html',...JSON.parse(fs.readFileSync(path.join(ROOT,'north-american-expansion-checkpoint.json'))).added_dossiers,...sagamoreFiles]:allfiles;
   assert.equal(allfiles.length,total+1);
   for(const [width,height] of [[390,844],[768,1024],[1440,900]])await responsive(context,BASE,files,width,height);
   report.dossiers_rendered=report.responsive_cases===(files.length*3)?files.length-1:Math.min(total,Math.floor(report.responsive_cases/3));

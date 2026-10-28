@@ -100,7 +100,7 @@ def main(sync=False):
     if checkpoint["status"] == "complete" and SAGAMORE.is_file():
         sc = json.loads(SAGAMORE.read_text(encoding="utf-8"))["counts"]
         phase_source = "sagamore-expression-ledger.json"
-        phase_done = sc["existing_published"] + sc["excluded_pending_liquid_distinction"]
+        phase_done = sc["existing_published"] + sc.get("accepted_published", 0) + sc["excluded_pending_liquid_distinction"]
         phase_total = sc["total"]
         if phase_done + sc["pending_research"] != phase_total:
             errors.append("Sagamore disposition counts do not reconcile")
