@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "project": "Whiskey-Project",
   "asOf": "2026-10-28",
-  "revision": "R007",
+  "revision": "R008",
   "revisionSource": {
     "type": "json",
     "file": "north-american-expansion-checkpoint.json",
@@ -11,7 +11,7 @@
   },
   "progress": {
     "label": "Sagamore expression inventory dispositions",
-    "completed": 27,
+    "completed": 30,
     "total": 39,
     "source": {
       "file": "sagamore-expression-ledger.json",
@@ -24,14 +24,14 @@
       ],
       "totalField": "total"
     },
-    "basis": "15 existing Sagamore dossiers + 9 accepted new expressions + 3 excluded or held; 12 pending.",
-    "note": "Family disposition progress, not full roadmap percentage. 24 Sagamore dossiers published."
+    "basis": "15 existing Sagamore dossiers + 12 accepted new expressions + 3 excluded or held; 9 pending.",
+    "note": "Family disposition progress, not full roadmap percentage. 27 Sagamore dossiers published."
   },
   "roadmap": {
     "label": "Full Old Oak Omnibus development vision",
     "scope": "15 finite accepted-or-planned delivery gates spanning the article corpus, category-wide scoring and NC value, future families/world styles, provenance, UI, QA and living maintenance; possible future releases are not used as a fictional denominator.",
     "document": "DEVELOPMENT-ROADMAP.md",
-    "note": "R007: 1,059 dossiers and 27/39 Sagamore dispositions; whole family remains partial and 41% accepted full-roadmap weight.",
+    "note": "R008: 1,062 dossiers and 30/39 Sagamore dispositions; whole family remains partial and 41% accepted full-roadmap weight.",
     "gates": [
       {
         "id": "foundation",

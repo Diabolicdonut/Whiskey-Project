@@ -2941,5 +2941,1015 @@
       ],
       "image_limitation": "No bottle image authenticated specifically to the 2025 30-month label; no other year's label image is borrowed."
     }
+  },
+  {
+    "slug": "sagamore-rum-cask-finish",
+    "filename": "sagamore-rum-cask-finish.html",
+    "name": "Sagamore Rum Cask Finish Rye (2022 Reserve Series)",
+    "family": "Sagamore Spirit",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Sagamore Spirit, Baltimore, Maryland",
+    "proof": 98,
+    "abv": 49.0,
+    "age": "5- and 6-year rye blend + 10 months in separate rum casks (2022)",
+    "age_display": "5- and 6-year rye blend + 10 months in separate rum casks (2022)",
+    "age_sort_years": 5,
+    "mash_bill_display": "Blend of 5- and 6-year straight rye whiskeys from Sagamore's then-contract era; exact proportions for this bottling unverified.",
+    "mash_bill_confidence": "A matched critic attributes MGP-era whiskey to the 2022 edition, but the high/low rye recipe proportions in the final vat are not disclosed.",
+    "quality": 7.6,
+    "quality_score": 7.6,
+    "value": 7,
+    "value_score": 7,
+    "overall": 7.293833011524187,
+    "overall_score": 7.293833011524187,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-28",
+      "limitations": "2022 exact Batch 1A impressions are not necessarily the sensations in every bottle. No score or tasting is imported from the separate 2019 single-Jamaican-barrel experiment.",
+      "anchor_references": {
+        "worst": [
+          "hudson-maple-cask-rye-2014-batch-1-bottle-2338"
+        ],
+        "average": [
+          "old-overholt-bottled-in-bond",
+          "high-west-double-rye-current"
+        ],
+        "best": [
+          "redemption-ancients-18-year-rye-2017"
+        ]
+      },
+      "native_anchor_status": "provisional; unresolved floor retained"
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Very good category-relative rye on well-attested 2022-style sensory: lively rum-sweet tropical and chocolate notes coexist with rye herb/spice. The initially unsettled nose reported for named Batch 1A and bottle variation cap confidence below a firmly excellent assessment.",
+    "quality_confidence": "Medium for exact 2022 Rum Reserve identity, but the strongest critic source is specific Batch 1A; independent corroborating review does not state a full year.",
+    "quality_na_reason": null,
+    "value_rationale": "At the period $79 per 750 mL price, a distinctive ten-month two-rum finish and above-average integration offer reasonable value for lovers of sweet/complex rye, while readily available 90–110 proof ryes compete strongly.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 79.0,
+    "price_basis": "March 2022 U.S. launch MSRP $79 / 750mL, not a present NC ABC retail quote.",
+    "price_url": "https://distiller.com/articles/new-spirits-roundup-march-4-2022",
+    "price_period": "2022-03-01",
+    "price_effective": null,
+    "price_checked_date": "2026-10-28",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 79,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No 2026 NC ABC shelf availability verified; 2022 MSRP is dated historical value reference.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2022,
+    "release_scope": "Nationwide March 2022 Rum Cask Finish Reserve Series, 98 proof, 5- and 6-year straight ryes divided into Jamaican and South American rum casks for 10 months, then reblended. Not the 2019 one-cask distillery-exclusive rum edition.",
+    "availability_note": "Historical national 2022 launch; no evidence of current NC availability or unchanged 2026 shelf price.",
+    "research_date": "2026-10-28",
+    "score_date": "2026-10-28",
+    "review_sources": [
+      "https://www.drinkhacker.com/2022/10/26/review-sagamore-spirit-rye-rum-cask-finish/",
+      "https://www.coffeeblackwhiskeyneat.com/tastings/sagamore-spirits-rum-cask-finish"
+    ],
+    "review_publishers": [
+      "Drinkhacker",
+      "Coffee Black Whiskey Neat"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Christopher Null",
+        "publisher": "Drinkhacker",
+        "url": "https://www.drinkhacker.com/2022/10/26/review-sagamore-spirit-rye-rum-cask-finish/",
+        "summary": "Reviews precisely identified October 2022 Batch 1A: finds the nose somewhat erratic and grassy, with pepper and wood overtaking early rum esters; praises a more deftly integrated palate of buttery sweetness, cocoa, vanilla, cherry, toast and late orange peel. The sample improved with time.",
+        "scope": "2022 98-proof Reserve Series, identified reviewer bottle Batch 1A. Not the 2019 release."
+      },
+      {
+        "reviewer": "Danielle",
+        "publisher": "Coffee Black Whiskey Neat",
+        "url": "https://www.coffeeblackwhiskeyneat.com/tastings/sagamore-spirits-rum-cask-finish",
+        "summary": "Describes rich cinnamon loaf, molasses and coconut on the nose, tropical punch, coconut and starfruit on the palate, then banana and cayenne. Enthusiastic but does not provide unambiguous full publication year; identity supported by 98 proof and the two-region 10-month finish.",
+        "scope": "Two-region rum-finishing version at 98 proof; archive does not show exact calendar year of sample; secondary supporting source only."
+      }
+    ],
+    "source_urls": [
+      "https://sagamorespirit.com/spirits/rum-cask-finish-rye-whiskey/",
+      "https://www.prnewswire.com/news-releases/sagamore-spirit-releases-rum-cask-finish-rye-whiskey-latest-offering-from-the-distillerys-reserve-series-301491888.html",
+      "https://distiller.com/articles/new-spirits-roundup-march-4-2022",
+      "https://www.drinkhacker.com/2022/10/26/review-sagamore-spirit-rye-rum-cask-finish/",
+      "https://www.coffeeblackwhiskeyneat.com/tastings/sagamore-spirits-rum-cask-finish"
+    ],
+    "production_summary": "The 2022 edition was built from separately matured 5- and 6-year-old straight rye whiskey, then transferred to Jamaican and South American rum barrels for a further ten months. It was blended back at 98 proof and released nationally, unlike the 2019 distillery-only Jamaican high-ester rum cask experiment.",
+    "finishing_information": "10 months in distinct Jamaican and South American ex-rum casks following at least 5 years of new oak maturation; 2019 release was not the same recipe.",
+    "identity_note": null,
+    "history": [
+      "Sagamore had made a limited 2019 Jamaican rum cask whiskey at its Baltimore distillery; its reception prompted the more broadly distributed 2022 two-rum-region edition.",
+      "The March 2022 launch was a Reserve Series product, not necessarily found in present 2026 state-control retail stock."
+    ],
+    "comparables": [
+      {
+        "name": "Sagamore Manhattan Finish 2024",
+        "url": "sagamore-manhattan-finish-2024.html",
+        "reason": "Three cocktail barrels rather than tropical rum oak; both are proofed mid-range rye finishes."
+      },
+      {
+        "name": "Sagamore Small Batch Rye",
+        "url": "sagamore-small-batch-current.html",
+        "reason": "A more direct, unfancied rye reference without the rum-derived sweetness."
+      },
+      {
+        "name": "Sagamore Tequila Finish 2021",
+        "url": "sagamore-tequila-finish-2021.html",
+        "reason": "A differently finished rye with herbal or agave cues rather than rum fruit."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 56,
+        "current_band": false,
+        "reason": "Strong conditional value if the original release is verified; historical bottles require provenance and storage checks."
+      },
+      {
+        "label": "Good buy",
+        "minimum": 56,
+        "maximum_exclusive": 69,
+        "current_band": false,
+        "reason": "A reasonable premium for this distinct finish if its documented sensory profile suits the drinker."
+      },
+      {
+        "label": "Historical reference band",
+        "minimum": 69,
+        "maximum_exclusive": 89,
+        "current_band": true,
+        "reason": "This includes the period release MSRP and does not imply an available NC shelf price."
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 89,
+        "maximum_exclusive": 105,
+        "current_band": false,
+        "reason": "Other mature or better-documented rye expressions should be compared before paying a higher premium."
+      },
+      {
+        "label": "No collector premium",
+        "minimum": 105,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The tasting evidence does not establish a meaningful quality advantage justifying this premium."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Highly recommended neat with a rested second sip; note whether the fruity rum nose gives way to grassy rye while the palate remains complex."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A large cube calms herbal heat but may soften the intricate brown-sugar and coconut flavors."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Minimal syrup, orange peel and bitters emphasize caramel and rye without burying the natural rum sweetness."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A spirit-heavy Manhattan with dry-ish vermouth can work, but rich sweet vermouth may compound rum molasses notes."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Possible for mixing, but the limited bottle's special finishing deserves an initial neat comparison before dilution."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Nationwide March 2022 Rum Cask Finish Reserve Series, 98 proof, 5- and 6-year straight ryes divided into Jamaican and South American rum casks for 10 months, then reblended. Not the 2019 one-cask distillery-exclusive rum edition.",
+    "image_limitation": "No verified 2022 nationwide two-region Rum Cask image bytes available for exact embedding; 2019 limited label must not be substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "sagamore-expansion-v1",
+    "assessment_checkpoint": "S005",
+    "editorial": {
+      "category": "Rye",
+      "producer": "Sagamore Spirit, Baltimore, Maryland",
+      "id": "sagamore-rum-cask-finish",
+      "proof": 98,
+      "age": 5,
+      "age_display": "5- and 6-year rye blend + 10 months in separate rum casks (2022)",
+      "grain": "Blend of 5- and 6-year straight rye whiskeys from Sagamore's then-contract era; exact proportions for this bottling unverified.",
+      "grain_confidence": "A matched critic attributes MGP-era whiskey to the 2022 edition, but the high/low rye recipe proportions in the final vat are not disclosed.",
+      "identity": "Nationwide March 2022 Rum Cask Finish Reserve Series, 98 proof, 5- and 6-year straight ryes divided into Jamaican and South American rum casks for 10 months, then reblended. Not the 2019 one-cask distillery-exclusive rum edition.",
+      "short_version": "An expressive 98-proof rum-finished rye combining molasses, dark fruit and toasted coconut with fresh herbal rye spice. Independent critics find it fun and layered, although the rum lifts off the nose faster than the palate.",
+      "production": "The 2022 edition was built from separately matured 5- and 6-year-old straight rye whiskey, then transferred to Jamaican and South American rum barrels for a further ten months. It was blended back at 98 proof and released nationally, unlike the 2019 distillery-only Jamaican high-ester rum cask experiment.",
+      "finish": "10 months in distinct Jamaican and South American ex-rum casks following at least 5 years of new oak maturation; 2019 release was not the same recipe.",
+      "history": [
+        "Sagamore had made a limited 2019 Jamaican rum cask whiskey at its Baltimore distillery; its reception prompted the more broadly distributed 2022 two-rum-region edition.",
+        "The March 2022 launch was a Reserve Series product, not necessarily found in present 2026 state-control retail stock."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Christopher Null",
+          "publisher": "Drinkhacker",
+          "url": "https://www.drinkhacker.com/2022/10/26/review-sagamore-spirit-rye-rum-cask-finish/",
+          "summary": "Reviews precisely identified October 2022 Batch 1A: finds the nose somewhat erratic and grassy, with pepper and wood overtaking early rum esters; praises a more deftly integrated palate of buttery sweetness, cocoa, vanilla, cherry, toast and late orange peel. The sample improved with time.",
+          "scope": "2022 98-proof Reserve Series, identified reviewer bottle Batch 1A. Not the 2019 release."
+        },
+        {
+          "reviewer": "Danielle",
+          "publisher": "Coffee Black Whiskey Neat",
+          "url": "https://www.coffeeblackwhiskeyneat.com/tastings/sagamore-spirits-rum-cask-finish",
+          "summary": "Describes rich cinnamon loaf, molasses and coconut on the nose, tropical punch, coconut and starfruit on the palate, then banana and cayenne. Enthusiastic but does not provide unambiguous full publication year; identity supported by 98 proof and the two-region 10-month finish.",
+          "scope": "Two-region rum-finishing version at 98 proof; archive does not show exact calendar year of sample; secondary supporting source only."
+        }
+      ],
+      "quality": 7.6,
+      "value": 7,
+      "calibration_mode": "evidence_limited_provisional",
+      "quality_rationale": "Very good category-relative rye on well-attested 2022-style sensory: lively rum-sweet tropical and chocolate notes coexist with rye herb/spice. The initially unsettled nose reported for named Batch 1A and bottle variation cap confidence below a firmly excellent assessment.",
+      "quality_confidence": "Medium for exact 2022 Rum Reserve identity, but the strongest critic source is specific Batch 1A; independent corroborating review does not state a full year.",
+      "evidence_limit": "2022 exact Batch 1A impressions are not necessarily the sensations in every bottle. No score or tasting is imported from the separate 2019 single-Jamaican-barrel experiment.",
+      "release_year": 2022,
+      "comparables": [
+        {
+          "name": "Sagamore Manhattan Finish 2024",
+          "url": "sagamore-manhattan-finish-2024.html",
+          "reason": "Three cocktail barrels rather than tropical rum oak; both are proofed mid-range rye finishes."
+        },
+        {
+          "name": "Sagamore Small Batch Rye",
+          "url": "sagamore-small-batch-current.html",
+          "reason": "A more direct, unfancied rye reference without the rum-derived sweetness."
+        },
+        {
+          "name": "Sagamore Tequila Finish 2021",
+          "url": "sagamore-tequila-finish-2021.html",
+          "reason": "A differently finished rye with herbal or agave cues rather than rum fruit."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sagamore archived 2022 Rum Cask technical listing",
+          "url": "https://sagamorespirit.com/spirits/rum-cask-finish-rye-whiskey/",
+          "role": "2022 second iteration 98 proof, ages and 10-month casks."
+        },
+        {
+          "title": "March 1 2022 producer edition announcement",
+          "url": "https://www.prnewswire.com/news-releases/sagamore-spirit-releases-rum-cask-finish-rye-whiskey-latest-offering-from-the-distillerys-reserve-series-301491888.html",
+          "role": "Exact 2022 release date, regional barrel distinction and 2019 historical predecessor."
+        },
+        {
+          "title": "Distiller March 4 2022 price summary",
+          "url": "https://distiller.com/articles/new-spirits-roundup-march-4-2022",
+          "role": "98 proof, 750mL historical U.S. $79 MSRP and independent release recap."
+        },
+        {
+          "title": "October 26 2022 Drinkhacker Batch 1A tasting",
+          "url": "https://www.drinkhacker.com/2022/10/26/review-sagamore-spirit-rye-rum-cask-finish/",
+          "role": "Exact independently sampled 2022-era Batch 1A, nuanced assessment and $79 historical price."
+        },
+        {
+          "title": "Coffee Black Whiskey Neat 98-proof rum-cask review",
+          "url": "https://www.coffeeblackwhiskeyneat.com/tastings/sagamore-spirits-rum-cask-finish",
+          "role": "Matching two-region finish flavor counterpoint, publication year not fully proven."
+        }
+      ],
+      "pricing": {
+        "amount": 79,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2022-03-01",
+        "url": "https://distiller.com/articles/new-spirits-roundup-march-4-2022",
+        "basis": "March 2022 U.S. launch MSRP $79 / 750mL, not a present NC ABC retail quote.",
+        "nc_status": "No 2026 NC ABC shelf availability verified; 2022 MSRP is dated historical value reference."
+      },
+      "value_rationale": "At the period $79 per 750 mL price, a distinctive ten-month two-rum finish and above-average integration offer reasonable value for lovers of sweet/complex rye, while readily available 90–110 proof ryes compete strongly.",
+      "availability": "Historical national 2022 launch; no evidence of current NC availability or unchanged 2026 shelf price.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 56,
+          "current_band": false,
+          "reason": "Strong conditional value if the original release is verified; historical bottles require provenance and storage checks."
+        },
+        {
+          "label": "Good buy",
+          "minimum": 56,
+          "maximum_exclusive": 69,
+          "current_band": false,
+          "reason": "A reasonable premium for this distinct finish if its documented sensory profile suits the drinker."
+        },
+        {
+          "label": "Historical reference band",
+          "minimum": 69,
+          "maximum_exclusive": 89,
+          "current_band": true,
+          "reason": "This includes the period release MSRP and does not imply an available NC shelf price."
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 89,
+          "maximum_exclusive": 105,
+          "current_band": false,
+          "reason": "Other mature or better-documented rye expressions should be compared before paying a higher premium."
+        },
+        {
+          "label": "No collector premium",
+          "minimum": 105,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The tasting evidence does not establish a meaningful quality advantage justifying this premium."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Highly recommended neat with a rested second sip; note whether the fruity rum nose gives way to grassy rye while the palate remains complex."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A large cube calms herbal heat but may soften the intricate brown-sugar and coconut flavors."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Minimal syrup, orange peel and bitters emphasize caramel and rye without burying the natural rum sweetness."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A spirit-heavy Manhattan with dry-ish vermouth can work, but rich sweet vermouth may compound rum molasses notes."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Possible for mixing, but the limited bottle's special finishing deserves an initial neat comparison before dilution."
+        }
+      ],
+      "image_limitation": "No verified 2022 nationwide two-region Rum Cask image bytes available for exact embedding; 2019 limited label must not be substituted."
+    }
+  },
+  {
+    "slug": "sagamore-rye-ale-finish",
+    "filename": "sagamore-rye-ale-finish.html",
+    "name": "Sagamore Brewer's Select Rye Ale Finish (2020)",
+    "family": "Sagamore Spirit",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Sagamore Spirit, Baltimore, Maryland",
+    "proof": 90,
+    "abv": 45.0,
+    "age": "4- and 6-year rye blend + 10 months in Sierra Nevada red ale casks (2020)",
+    "age_display": "4- and 6-year rye blend + 10 months in Sierra Nevada red ale casks (2020)",
+    "age_sort_years": 4,
+    "mash_bill_display": "Blend of 4- and 6-year straight rye whiskeys; precise high/low mash bill fractions are not established for this exact 2020 edition.",
+    "mash_bill_confidence": "2020 launch describes two ages and the finishing casks, not exact rye/corn/barley component percentages.",
+    "quality": 7.1,
+    "quality_score": 7.1,
+    "value": 6.5,
+    "value_score": 6.5,
+    "overall": 6.793379129711516,
+    "overall_score": 6.793379129711516,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-28",
+      "limitations": "Do not convert the reviewer's separate numerical scale into the project's 1–10 scale. Do not assume 98-proof Ale Cask is the same bottle or claim wide contemporary availability.",
+      "anchor_references": {
+        "worst": [
+          "hudson-maple-cask-rye-2014-batch-1-bottle-2338"
+        ],
+        "average": [
+          "old-overholt-bottled-in-bond",
+          "high-west-double-rye-current"
+        ],
+        "best": [
+          "redemption-ancients-18-year-rye-2017"
+        ]
+      },
+      "native_anchor_status": "provisional; unresolved floor retained"
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "A good-to-very-good rye expressing a successful unusual red-ale barrel experiment: approachable floral fruit, caramel and mild grain spice. Only one exact independent long-form critic review supports the estimate, and 90 proof and short finish limit depth; clearly provisional.",
+    "quality_confidence": "Low-to-medium; one matched 2020 independent review plus independently verified producer collaboration specs; no additional independently corroborated bottle-specific critic sample.",
+    "quality_na_reason": null,
+    "value_rationale": "At historical $69.99 per 750 mL, this gentle, flavorful and technically distinctive Sierra Nevada collaboration offers some novelty and balance but less concentration than older or higher-proof rye alternatives.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 69.99,
+    "price_basis": "Historical nationwide May 2020 750mL MSRP $69.99, not 2026 NC ABC price.",
+    "price_url": "https://www.bevnet.com/spirits/2020/sagamore-spirit-sierra-nevada-release-brewers-select-rye-ale-barrel-finish/",
+    "price_period": "2020-05-04",
+    "price_effective": null,
+    "price_checked_date": "2026-10-28",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 69.99,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated current NC ABC price or inventory for the historical 2020 Brewer's Select Rye Ale.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2020,
+    "release_scope": "Sagamore Brewer's Select Sierra Nevada Rye Ale Barrel Finish, 2020, 90 proof: 4- and 6-year ryes rested an additional 10 months in former Sagamore rye barrels that had first been used by Sierra Nevada for rye red ale. Distinct from 98-proof Ale Cask Finish.",
+    "availability_note": "Historical 2020 release; no evidence of current NC shelf access or retailer-equivalent pricing.",
+    "research_date": "2026-10-28",
+    "score_date": "2026-10-28",
+    "review_sources": [
+      "https://thewhiskeywash.com/american-whiskey/whiskey-review-sagamore-spirit-rye-ale-finish/"
+    ],
+    "review_publishers": [
+      "The Whiskey Wash"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Melissa Jones",
+        "publisher": "The Whiskey Wash",
+        "url": "https://thewhiskeywash.com/american-whiskey/whiskey-review-sagamore-spirit-rye-ale-finish/",
+        "summary": "June 15 2020 appraisal describes a fragrant dill/herbal and flower-like nose, then a softer, tropical-citrus and sweet fruit palate with subtle ale influence, mild finish and good drinkability. Publication discloses sample might have been supplied or purchased, without claiming which.",
+        "scope": "Exact 2020 90-proof Brewer's Select Rye Ale with Sierra Nevada; matched to spring 2020 launch."
+      }
+    ],
+    "source_urls": [
+      "https://sagamorespirit.com/spirits/rye-ale-finish/",
+      "https://www.bevnet.com/spirits/2020/sagamore-spirit-sierra-nevada-release-brewers-select-rye-ale-barrel-finish/",
+      "https://thewhiskeywash.com/american-whiskey/whiskey-review-sagamore-spirit-rye-ale-finish/"
+    ],
+    "production_summary": "The initial rye barrels traveled to Sierra Nevada where a rye-enriched red ale matured in them; returned to Sagamore, those same beer-soaked barrels held a blend of four- and six-year straight ryes for a further 10 months. Bottled at 90 proof in May 2020.",
+    "finishing_information": "10 months in reclaimed Sierra Nevada red-ale barrels that had previously held Sagamore rye. Barrel provenance is part of the unique 2020 Brewer's Select identity.",
+    "identity_note": null,
+    "history": [
+      "The cross-industry Sagamore/Sierra Nevada partnership recycled barrel influence in both directions: red ale first into old rye casks, then finished rye whiskey back into the former ale casks.",
+      "This 2020 Brewer's Select is not the separately listed 98-proof Ale Cask Finish with a different secondary age and provenance."
+    ],
+    "comparables": [
+      {
+        "name": "Sagamore Small Batch Rye",
+        "url": "sagamore-small-batch-current.html",
+        "reason": "A 93-proof later standard release with less overt beer-barrel character."
+      },
+      {
+        "name": "Sagamore Vintner’s Finish 2018",
+        "url": "sagamore-vintners-finish.html",
+        "reason": "Another early finishing experiment, but red-wine and port rather than ale barrels."
+      },
+      {
+        "name": "Sagamore Sherry Finish 2023",
+        "url": "sagamore-sherry-finish-reviewed-2023.html",
+        "reason": "Fortified-wine influence provides more intense dried fruit than this delicate beer finish."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 50,
+        "current_band": false,
+        "reason": "Strong conditional value if the original release is verified; historical bottles require provenance and storage checks."
+      },
+      {
+        "label": "Good buy",
+        "minimum": 50,
+        "maximum_exclusive": 61,
+        "current_band": false,
+        "reason": "A reasonable premium for this distinct finish if its documented sensory profile suits the drinker."
+      },
+      {
+        "label": "Historical reference band",
+        "minimum": 61,
+        "maximum_exclusive": 78,
+        "current_band": true,
+        "reason": "This includes the period release MSRP and does not imply an available NC shelf price."
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 78,
+        "maximum_exclusive": 94,
+        "current_band": false,
+        "reason": "Other mature or better-documented rye expressions should be compared before paying a higher premium."
+      },
+      {
+        "label": "No collector premium",
+        "minimum": 94,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The tasting evidence does not establish a meaningful quality advantage justifying this premium."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Enjoy neat as a light aromatic rye, judging dill, flowers, tropical citrus and slightly malty sweetness."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "Ice is acceptable but may blunt an already gentle 90-proof finish."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Works with light syrup and citrus peel; avoid intense bitters that dominate its subtle ale character."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use modest sweet vermouth, or choose a dry style, so the delicate malt/fruit accents are not obscured."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Possible for mixing, but the limited bottle's special finishing deserves an initial neat comparison before dilution."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Sagamore Brewer's Select Sierra Nevada Rye Ale Barrel Finish, 2020, 90 proof: 4- and 6-year ryes rested an additional 10 months in former Sagamore rye barrels that had first been used by Sierra Nevada for rye red ale. Distinct from 98-proof Ale Cask Finish.",
+    "image_limitation": "No authenticated exact 2020 Sierra Nevada Brewer's Select bottle photo bytes; unrelated beer or Ale Cask Finish art is not used.",
+    "canonical_complete": true,
+    "canonical_format_version": "sagamore-expansion-v1",
+    "assessment_checkpoint": "S005",
+    "editorial": {
+      "category": "Rye",
+      "producer": "Sagamore Spirit, Baltimore, Maryland",
+      "id": "sagamore-rye-ale-finish",
+      "proof": 90,
+      "age": 4,
+      "age_display": "4- and 6-year rye blend + 10 months in Sierra Nevada red ale casks (2020)",
+      "grain": "Blend of 4- and 6-year straight rye whiskeys; precise high/low mash bill fractions are not established for this exact 2020 edition.",
+      "grain_confidence": "2020 launch describes two ages and the finishing casks, not exact rye/corn/barley component percentages.",
+      "identity": "Sagamore Brewer's Select Sierra Nevada Rye Ale Barrel Finish, 2020, 90 proof: 4- and 6-year ryes rested an additional 10 months in former Sagamore rye barrels that had first been used by Sierra Nevada for rye red ale. Distinct from 98-proof Ale Cask Finish.",
+      "short_version": "A lighter, distinctive 90-proof 2020 rye with herbal dill, citrus, floral and caramel notes from a Sierra Nevada red-ale-cask cycle; a matched critic finds it surprisingly fruity, sweet and pleasant.",
+      "production": "The initial rye barrels traveled to Sierra Nevada where a rye-enriched red ale matured in them; returned to Sagamore, those same beer-soaked barrels held a blend of four- and six-year straight ryes for a further 10 months. Bottled at 90 proof in May 2020.",
+      "finish": "10 months in reclaimed Sierra Nevada red-ale barrels that had previously held Sagamore rye. Barrel provenance is part of the unique 2020 Brewer's Select identity.",
+      "history": [
+        "The cross-industry Sagamore/Sierra Nevada partnership recycled barrel influence in both directions: red ale first into old rye casks, then finished rye whiskey back into the former ale casks.",
+        "This 2020 Brewer's Select is not the separately listed 98-proof Ale Cask Finish with a different secondary age and provenance."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Melissa Jones",
+          "publisher": "The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/american-whiskey/whiskey-review-sagamore-spirit-rye-ale-finish/",
+          "summary": "June 15 2020 appraisal describes a fragrant dill/herbal and flower-like nose, then a softer, tropical-citrus and sweet fruit palate with subtle ale influence, mild finish and good drinkability. Publication discloses sample might have been supplied or purchased, without claiming which.",
+          "scope": "Exact 2020 90-proof Brewer's Select Rye Ale with Sierra Nevada; matched to spring 2020 launch."
+        }
+      ],
+      "quality": 7.1,
+      "value": 6.5,
+      "calibration_mode": "evidence_limited_provisional",
+      "quality_rationale": "A good-to-very-good rye expressing a successful unusual red-ale barrel experiment: approachable floral fruit, caramel and mild grain spice. Only one exact independent long-form critic review supports the estimate, and 90 proof and short finish limit depth; clearly provisional.",
+      "quality_confidence": "Low-to-medium; one matched 2020 independent review plus independently verified producer collaboration specs; no additional independently corroborated bottle-specific critic sample.",
+      "evidence_limit": "Do not convert the reviewer's separate numerical scale into the project's 1–10 scale. Do not assume 98-proof Ale Cask is the same bottle or claim wide contemporary availability.",
+      "release_year": 2020,
+      "comparables": [
+        {
+          "name": "Sagamore Small Batch Rye",
+          "url": "sagamore-small-batch-current.html",
+          "reason": "A 93-proof later standard release with less overt beer-barrel character."
+        },
+        {
+          "name": "Sagamore Vintner’s Finish 2018",
+          "url": "sagamore-vintners-finish.html",
+          "reason": "Another early finishing experiment, but red-wine and port rather than ale barrels."
+        },
+        {
+          "name": "Sagamore Sherry Finish 2023",
+          "url": "sagamore-sherry-finish-reviewed-2023.html",
+          "reason": "Fortified-wine influence provides more intense dried fruit than this delicate beer finish."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sagamore historic Rye Ale Finish specifications",
+          "url": "https://sagamorespirit.com/spirits/rye-ale-finish/",
+          "role": "90 proof and brand/distillery collaboration identity."
+        },
+        {
+          "title": "May 4 2020 Brewer's Select announcement",
+          "url": "https://www.bevnet.com/spirits/2020/sagamore-spirit-sierra-nevada-release-brewers-select-rye-ale-barrel-finish/",
+          "role": "4 and 6-year stocks, 10 months beer barrel return, 750 mL MSRP $69.99."
+        },
+        {
+          "title": "The Whiskey Wash June 2020 independent tasting",
+          "url": "https://thewhiskeywash.com/american-whiskey/whiskey-review-sagamore-spirit-rye-ale-finish/",
+          "role": "Exact release review of 90-proof spirit, dated $69 period market context."
+        }
+      ],
+      "pricing": {
+        "amount": 69.99,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2020-05-04",
+        "url": "https://www.bevnet.com/spirits/2020/sagamore-spirit-sierra-nevada-release-brewers-select-rye-ale-barrel-finish/",
+        "basis": "Historical nationwide May 2020 750mL MSRP $69.99, not 2026 NC ABC price.",
+        "nc_status": "No authenticated current NC ABC price or inventory for the historical 2020 Brewer's Select Rye Ale."
+      },
+      "value_rationale": "At historical $69.99 per 750 mL, this gentle, flavorful and technically distinctive Sierra Nevada collaboration offers some novelty and balance but less concentration than older or higher-proof rye alternatives.",
+      "availability": "Historical 2020 release; no evidence of current NC shelf access or retailer-equivalent pricing.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 50,
+          "current_band": false,
+          "reason": "Strong conditional value if the original release is verified; historical bottles require provenance and storage checks."
+        },
+        {
+          "label": "Good buy",
+          "minimum": 50,
+          "maximum_exclusive": 61,
+          "current_band": false,
+          "reason": "A reasonable premium for this distinct finish if its documented sensory profile suits the drinker."
+        },
+        {
+          "label": "Historical reference band",
+          "minimum": 61,
+          "maximum_exclusive": 78,
+          "current_band": true,
+          "reason": "This includes the period release MSRP and does not imply an available NC shelf price."
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 78,
+          "maximum_exclusive": 94,
+          "current_band": false,
+          "reason": "Other mature or better-documented rye expressions should be compared before paying a higher premium."
+        },
+        {
+          "label": "No collector premium",
+          "minimum": 94,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The tasting evidence does not establish a meaningful quality advantage justifying this premium."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Enjoy neat as a light aromatic rye, judging dill, flowers, tropical citrus and slightly malty sweetness."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "Ice is acceptable but may blunt an already gentle 90-proof finish."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Works with light syrup and citrus peel; avoid intense bitters that dominate its subtle ale character."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use modest sweet vermouth, or choose a dry style, so the delicate malt/fruit accents are not obscured."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Possible for mixing, but the limited bottle's special finishing deserves an initial neat comparison before dilution."
+        }
+      ],
+      "image_limitation": "No authenticated exact 2020 Sierra Nevada Brewer's Select bottle photo bytes; unrelated beer or Ale Cask Finish art is not used."
+    }
+  },
+  {
+    "slug": "sagamore-vintners-finish",
+    "filename": "sagamore-vintners-finish.html",
+    "name": "Sagamore Vintner's Finish Rye (2018)",
+    "family": "Sagamore Spirit",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Sagamore Spirit, Baltimore, Maryland",
+    "proof": 98.4,
+    "abv": 49.2,
+    "age": "Four-year straight rye + 7 months in pinot noir, shiraz and port casks (2018)",
+    "age_display": "Four-year straight rye + 7 months in pinot noir, shiraz and port casks (2018)",
+    "age_sort_years": 4,
+    "mash_bill_display": "Blend of straight rye whiskeys used for the 2018 limited release; precise mash bill percentages unpublished for this bottling.",
+    "mash_bill_confidence": "Producer details original 4-year maturation and 7-month finishing, but not exact proportions of high- and low-rye components.",
+    "quality": 7.4,
+    "quality_score": 7.4,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-28",
+      "limitations": "Historical press wording rounds proof to 98; use producer-confirmed 98.4. The Fifty Best award is a judging context, not proof of universal preference.",
+      "anchor_references": {
+        "worst": [
+          "hudson-maple-cask-rye-2014-batch-1-bottle-2338"
+        ],
+        "average": [
+          "old-overholt-bottled-in-bond",
+          "high-west-double-rye-current"
+        ],
+        "best": [
+          "redemption-ancients-18-year-rye-2017"
+        ]
+      },
+      "native_anchor_status": "provisional; unresolved floor retained"
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Provisional very good rye: matched independent critic finds convincing sour cherry, dried wine fruit and spice layers, with mild tannic/dryness limitations. A second 2018 judging source corroborates style, but the evidence does not establish exceptional integration or justify a higher precise score.",
+    "quality_confidence": "Low-to-medium; one exact independent expert sensory record and a 2018 tasting panel, with no authenticated release-specific current availability.",
+    "quality_na_reason": null,
+    "value_rationale": "N/A: no defensible dated USD/750mL retail quote for this exact 2018 Vintner's release; Quality can still be conservatively assessed.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No substantiated $/750mL USD historical MSRP or NC ABC quote for the exact 2018 Vintner's release.",
+    "price_url": "https://sagamorespirit.com/spirits/vintners-finish/",
+    "price_period": "2026-10-28",
+    "price_effective": null,
+    "price_checked_date": "2026-10-28",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No authenticated NC ABC listing or 2018 750mL price.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2018,
+    "release_scope": "Sagamore Reserve Vintner's Finish Rye, spring 2018 Maryland/DC-only edition, 98.4 proof and 7 months in different pinot noir, shiraz, and port casks after four years in new oak. Different from 2019/2023 Port Finish rye.",
+    "availability_note": "Historical limited Maryland/DC release, no 2026 NC stock or accurate same-edition retail price established.",
+    "research_date": "2026-10-28",
+    "score_date": "2026-10-28",
+    "review_sources": [
+      "https://distiller.com/spirits/sagamore-spirit-vintner-s-finish",
+      "https://www.thefiftybest.com/spirits_archive/best_rye_whiskey_2018/"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "The Fifty Best"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Jake Emen",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/sagamore-spirit-vintner-s-finish",
+        "summary": "Independent expert record notes tart cherry and green apple on the nose, then wine, mulled spices, cocoa-rich cherries, butterscotch and dry oak on the palate. Describes a peppery medium-length finish with woody/tannic cedar aspects.",
+        "scope": "Exact 2018 Vintner's Finish, 98.4 proof, limited Maryland/DC edition."
+      },
+      {
+        "reviewer": "The Fifty Best 2018 judging panel",
+        "publisher": "The Fifty Best",
+        "url": "https://www.thefiftybest.com/spirits_archive/best_rye_whiskey_2018/",
+        "summary": "2018 double-gold tasting assessment reports layered brown sugar, apricot and cocoa with woody and peppery spice; competition panel is not treated as an independent second first-person bottle reviewer.",
+        "scope": "2018 competition category includes Sagamore Vintner's 98.4 proof, supporting historical identity and general flavor direction."
+      }
+    ],
+    "source_urls": [
+      "https://sagamorespirit.com/spirits/vintners-finish/",
+      "https://www.bevnet.com/spirits/2018/sagamore-spirit-releases-vintners-finish-rye-whiskey/",
+      "https://distiller.com/spirits/sagamore-spirit-vintner-s-finish",
+      "https://www.thefiftybest.com/spirits_archive/best_rye_whiskey_2018/"
+    ],
+    "production_summary": "The early Sagamore finishing experiment used a four-year straight rye blend, separately rested in pinot noir, shiraz and port casks for seven months, and reblended before bottling at a documented 98.4 proof. The 2018 public release targeted Maryland and Washington DC.",
+    "finishing_information": "Seven months in three separate red-wine and fortified-wine cask styles: pinot noir, shiraz, port; do not confuse with Port Finish rye.",
+    "identity_note": null,
+    "history": [
+      "Released as a limited 2018 reserve project shortly after Sagamore's Baltimore distillery opened, when sourced rye still underpinned much of the brand.",
+      "One contemporaneous release article rounded the proof to 98, but the producer and matched Distiller identity both list 98.4; preserve exact 98.4 specification."
+    ],
+    "comparables": [
+      {
+        "name": "Sagamore Port Finish 2023",
+        "url": "sagamore-port-finish-2023.html",
+        "reason": "Single fortified-wine focus versus 2018 Vintner's three-wine experiment."
+      },
+      {
+        "name": "Sagamore Sherry Finish 2023",
+        "url": "sagamore-sherry-finish-reviewed-2023.html",
+        "reason": "A second wine-cask approach with dried fruit and structure."
+      },
+      {
+        "name": "Sagamore Calvados Finish 2020",
+        "url": "sagamore-calvados-finish-2020.html",
+        "reason": "French apple brandy casks instead of red wine/port, both offering fruit-led rye variants."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 45,
+        "current_band": false,
+        "reason": "Strong conditional value if the original release is verified; historical bottles require provenance and storage checks."
+      },
+      {
+        "label": "Good buy",
+        "minimum": 45,
+        "maximum_exclusive": 60,
+        "current_band": false,
+        "reason": "A reasonable premium for this distinct finish if its documented sensory profile suits the drinker."
+      },
+      {
+        "label": "Illustrative comparison band; price unverified",
+        "minimum": 60,
+        "maximum_exclusive": 80,
+        "current_band": true,
+        "reason": "Not a documented historical or current offer. This band is a comparison prompt only, not a price assessment."
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 80,
+        "maximum_exclusive": 100,
+        "current_band": false,
+        "reason": "Other mature or better-documented rye expressions should be compared before paying a higher premium."
+      },
+      {
+        "label": "No collector premium",
+        "minimum": 100,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The tasting evidence does not establish a meaningful quality advantage justifying this premium."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat is most informative for the interplay between sour cherry wine aromatics, red fruit and rye spice."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A large cube may reduce tannic oak but soften the complex fruit and cocoa contrasts."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Keep sweetener minimal to avoid overloading the dark fruit. Use aromatic bitters for structure."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use relatively dry vermouth with restrained bitters; sweet vermouth can compound red-wine fruit."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "Possible for mixing, but the limited bottle's special finishing deserves an initial neat comparison before dilution."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Sagamore Reserve Vintner's Finish Rye, spring 2018 Maryland/DC-only edition, 98.4 proof and 7 months in different pinot noir, shiraz, and port casks after four years in new oak. Different from 2019/2023 Port Finish rye.",
+    "image_limitation": "No verified original 2018 98.4-proof Vintner's Finish label image bytes authenticated; other Port Finish photos are not substitutes.",
+    "canonical_complete": true,
+    "canonical_format_version": "sagamore-expansion-v1",
+    "assessment_checkpoint": "S005",
+    "editorial": {
+      "category": "Rye",
+      "producer": "Sagamore Spirit, Baltimore, Maryland",
+      "id": "sagamore-vintners-finish",
+      "proof": 98.4,
+      "age": 4,
+      "age_display": "Four-year straight rye + 7 months in pinot noir, shiraz and port casks (2018)",
+      "grain": "Blend of straight rye whiskeys used for the 2018 limited release; precise mash bill percentages unpublished for this bottling.",
+      "grain_confidence": "Producer details original 4-year maturation and 7-month finishing, but not exact proportions of high- and low-rye components.",
+      "identity": "Sagamore Reserve Vintner's Finish Rye, spring 2018 Maryland/DC-only edition, 98.4 proof and 7 months in different pinot noir, shiraz, and port casks after four years in new oak. Different from 2019/2023 Port Finish rye.",
+      "short_version": "A 98.4-proof limited 2018 rye with dark cherry, spiced red wine, cocoa and dry wood notes supported by matched independent tasting. No trustworthy 2018 bottle-size-specific USD price has been verified, so Value and Overall remain N/A.",
+      "production": "The early Sagamore finishing experiment used a four-year straight rye blend, separately rested in pinot noir, shiraz and port casks for seven months, and reblended before bottling at a documented 98.4 proof. The 2018 public release targeted Maryland and Washington DC.",
+      "finish": "Seven months in three separate red-wine and fortified-wine cask styles: pinot noir, shiraz, port; do not confuse with Port Finish rye.",
+      "history": [
+        "Released as a limited 2018 reserve project shortly after Sagamore's Baltimore distillery opened, when sourced rye still underpinned much of the brand.",
+        "One contemporaneous release article rounded the proof to 98, but the producer and matched Distiller identity both list 98.4; preserve exact 98.4 specification."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Jake Emen",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/sagamore-spirit-vintner-s-finish",
+          "summary": "Independent expert record notes tart cherry and green apple on the nose, then wine, mulled spices, cocoa-rich cherries, butterscotch and dry oak on the palate. Describes a peppery medium-length finish with woody/tannic cedar aspects.",
+          "scope": "Exact 2018 Vintner's Finish, 98.4 proof, limited Maryland/DC edition."
+        },
+        {
+          "reviewer": "The Fifty Best 2018 judging panel",
+          "publisher": "The Fifty Best",
+          "url": "https://www.thefiftybest.com/spirits_archive/best_rye_whiskey_2018/",
+          "summary": "2018 double-gold tasting assessment reports layered brown sugar, apricot and cocoa with woody and peppery spice; competition panel is not treated as an independent second first-person bottle reviewer.",
+          "scope": "2018 competition category includes Sagamore Vintner's 98.4 proof, supporting historical identity and general flavor direction."
+        }
+      ],
+      "quality": 7.4,
+      "value": null,
+      "calibration_mode": "evidence_limited_provisional",
+      "quality_rationale": "Provisional very good rye: matched independent critic finds convincing sour cherry, dried wine fruit and spice layers, with mild tannic/dryness limitations. A second 2018 judging source corroborates style, but the evidence does not establish exceptional integration or justify a higher precise score.",
+      "quality_confidence": "Low-to-medium; one exact independent expert sensory record and a 2018 tasting panel, with no authenticated release-specific current availability.",
+      "evidence_limit": "Historical press wording rounds proof to 98; use producer-confirmed 98.4. The Fifty Best award is a judging context, not proof of universal preference.",
+      "release_year": 2018,
+      "comparables": [
+        {
+          "name": "Sagamore Port Finish 2023",
+          "url": "sagamore-port-finish-2023.html",
+          "reason": "Single fortified-wine focus versus 2018 Vintner's three-wine experiment."
+        },
+        {
+          "name": "Sagamore Sherry Finish 2023",
+          "url": "sagamore-sherry-finish-reviewed-2023.html",
+          "reason": "A second wine-cask approach with dried fruit and structure."
+        },
+        {
+          "name": "Sagamore Calvados Finish 2020",
+          "url": "sagamore-calvados-finish-2020.html",
+          "reason": "French apple brandy casks instead of red wine/port, both offering fruit-led rye variants."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sagamore official Vintner's archive",
+          "url": "https://sagamorespirit.com/spirits/vintners-finish/",
+          "role": "4-year base, 7-month pinot/shiraz/port cask finishing, 98.4 proof."
+        },
+        {
+          "title": "May 2018 limited release announcement",
+          "url": "https://www.bevnet.com/spirits/2018/sagamore-spirit-releases-vintners-finish-rye-whiskey/",
+          "role": "Dates original MD/DC-only release, with rounded 98-proof press copy; not source of exact proof."
+        },
+        {
+          "title": "Distiller Jake Emen Vintner's expert notes",
+          "url": "https://distiller.com/spirits/sagamore-spirit-vintner-s-finish",
+          "role": "Exact 98.4 proof, independent notes and dry wood counterpoint."
+        },
+        {
+          "title": "The Fifty Best Rye 2018 contest notes",
+          "url": "https://www.thefiftybest.com/spirits_archive/best_rye_whiskey_2018/",
+          "role": "2018 Vintner's panel tasting and historical proof identity."
+        }
+      ],
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-28",
+        "url": "https://sagamorespirit.com/spirits/vintners-finish/",
+        "basis": "No substantiated $/750mL USD historical MSRP or NC ABC quote for the exact 2018 Vintner's release.",
+        "nc_status": "No authenticated NC ABC listing or 2018 750mL price."
+      },
+      "value_rationale": "N/A: no defensible dated USD/750mL retail quote for this exact 2018 Vintner's release; Quality can still be conservatively assessed.",
+      "availability": "Historical limited Maryland/DC release, no 2026 NC stock or accurate same-edition retail price established.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 45,
+          "current_band": false,
+          "reason": "Strong conditional value if the original release is verified; historical bottles require provenance and storage checks."
+        },
+        {
+          "label": "Good buy",
+          "minimum": 45,
+          "maximum_exclusive": 60,
+          "current_band": false,
+          "reason": "A reasonable premium for this distinct finish if its documented sensory profile suits the drinker."
+        },
+        {
+          "label": "Illustrative comparison band; price unverified",
+          "minimum": 60,
+          "maximum_exclusive": 80,
+          "current_band": true,
+          "reason": "Not a documented historical or current offer. This band is a comparison prompt only, not a price assessment."
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 80,
+          "maximum_exclusive": 100,
+          "current_band": false,
+          "reason": "Other mature or better-documented rye expressions should be compared before paying a higher premium."
+        },
+        {
+          "label": "No collector premium",
+          "minimum": 100,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The tasting evidence does not establish a meaningful quality advantage justifying this premium."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat is most informative for the interplay between sour cherry wine aromatics, red fruit and rye spice."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A large cube may reduce tannic oak but soften the complex fruit and cocoa contrasts."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Keep sweetener minimal to avoid overloading the dark fruit. Use aromatic bitters for structure."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use relatively dry vermouth with restrained bitters; sweet vermouth can compound red-wine fruit."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "Possible for mixing, but the limited bottle's special finishing deserves an initial neat comparison before dilution."
+        }
+      ],
+      "image_limitation": "No verified original 2018 98.4-proof Vintner's Finish label image bytes authenticated; other Port Finish photos are not substitutes."
+    }
   }
 ]

@@ -14,8 +14,8 @@
   "source_index": "https://sagamorespirit.com/spirits/",
   "counts": {
     "existing_published": 15,
-    "accepted_published": 9,
-    "pending_research": 12,
+    "accepted_published": 12,
+    "pending_research": 9,
     "excluded_pending_liquid_distinction": 3,
     "total": 39
   },
@@ -267,11 +267,13 @@
       "order": 25,
       "id": "sagamore-rum-cask-finish",
       "expression": "Rum Cask Finish Rye",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-rum-cask-finish.html",
       "producer_source": "https://sagamorespirit.com/spirits/rum-cask-finish-rye-whiskey/",
       "identity_guard": "Separate finishing cask; historical release",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-28",
+      "validation": "Full static 1062 dossiers; Chromium 714 responsive views; zero failures"
     },
     {
       "order": 26,
@@ -297,21 +299,25 @@
       "order": 28,
       "id": "sagamore-rye-ale-finish",
       "expression": "Rye Ale Finish",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-rye-ale-finish.html",
       "producer_source": "https://sagamorespirit.com/spirits/rye-ale-finish/",
       "identity_guard": "Distinct historical finish; verify exact age/proof",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-28",
+      "validation": "Full static 1062 dossiers; Chromium 714 responsive views; zero failures"
     },
     {
       "order": 29,
       "id": "sagamore-vintners-finish",
       "expression": "Vintner's Finish Rye",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-vintners-finish.html",
       "producer_source": "https://sagamorespirit.com/spirits/vintners-finish/",
       "identity_guard": "Verify blend and which wine barrels; do not merge all wine finishes",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-28",
+      "validation": "Full static 1062 dossiers; Chromium 714 responsive views; zero failures"
     },
     {
       "order": 30,
@@ -411,7 +417,7 @@
       "identity_guard": "A flavored amaro, not a whiskey expression; exclude from whiskey dossier expansion"
     }
   ],
-  "next_action": "S005: verify Rum Cask, Barleywine, Ale, Rye Ale, Vintner and Moscatel finish identities with dated independent evidence; preserve original 15 and nine newly accepted Sagamore pages. The 2025 Manhattan remains unscored until edition-matched review is authenticated.",
+  "next_action": "S006: research remaining Barleywine, standard Ale Cask and Moscatel finished releases; preserve 15 original and 12 newly accepted Sagamore dossiers. Do not conflate 90-proof Rye Ale with 98-proof Ale Cask or invent historical price and review evidence.",
   "updated_at": "2026-10-28",
-  "last_accepted_checkpoint": "S004"
+  "last_accepted_checkpoint": "S005"
 }

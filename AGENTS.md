@@ -13,7 +13,7 @@
 
 - Read `sagamore-expression-ledger.json` and `research/sagamore-2026-discovery.md` after NA-037 closure before adding Sagamore entries. Preserve all 15 preexisting Sagamore pages, differentiate label and batch identities, and do not count the 21 research candidates as published.
 - Accepted S002 and S003 cover the 2024 7-year bonded, 2026 8-year bonded, 2024 9-year reserve, 2023 6-year bonded (unscored), 2023 8-year reserve and current standard Small Batch. Never replay these. All changes must pass Chromium and original 825 preservation checks.
-- The accepted project scope remains governed by `DEVELOPMENT-ROADMAP.md` R007, not the historical NA-036 line above. S004 accepted three further editions (Double Oak core, 2024 and unscored 2025 Manhattan); S005 is next. Keep the strict roadmap percentage at 41 until a whole gate is accepted.
+- The accepted project scope remains governed by `DEVELOPMENT-ROADMAP.md` R008, not the historical NA-036 line above. S004 accepted three further editions (Double Oak core, 2024 and unscored 2025 Manhattan); S005 is next. S005 accepted three historical finishes (2022 Rum, 2020 Rye Ale, 2018 Vintner); S006 is next. Keep the strict roadmap percentage at 41 until a whole gate is accepted.
 
 ## Implementation and editorial rules
 
