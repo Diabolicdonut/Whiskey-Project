@@ -1,7 +1,7 @@
 {
   "schema": "old-oak-sagamore-discovery-ledger-v1",
   "as_of": "2026-10-27",
-  "status": "discovery_inventory_accepted_implementation_pending",
+  "status": "implementation_in_progress",
   "basis_commit": "be396f4c7f31c46fea0386de988b999c40031b9e",
   "baseline_publication": {
     "total_dossiers": 1050,
@@ -14,7 +14,8 @@
   "source_index": "https://sagamorespirit.com/spirits/",
   "counts": {
     "existing_published": 15,
-    "pending_research": 21,
+    "accepted_published": 3,
+    "pending_research": 18,
     "excluded_pending_liquid_distinction": 3,
     "total": 39
   },
@@ -188,31 +189,37 @@
       "order": 19,
       "id": "sagamore-bib-7-year-2024",
       "expression": "Bottled in Bond Straight Rye, 7-year 2024 release",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-bib-7-year-2024.html",
       "producer_source": "https://shop.sagamorespirit.com/products/sagamore-2024-bottled-in-bond-straight-rye-whiskey",
       "identity_guard": "100 proof; fall 2017 distillation; independent reviews matched; $59 distillery price context",
-      "independent_evidence_status": "matched_lead_available"
+      "independent_evidence_status": "matched_lead_available",
+      "accepted_date": "2026-10-27",
+      "validation": "Full static 1053 dossiers; Chromium 687 responsive views; zero failures"
     },
     {
       "order": 20,
       "id": "sagamore-bib-8-year-2026",
       "expression": "Bottled in Bond Straight Rye, 8-year 2026 release",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-bib-8-year-2026.html",
       "producer_source": "https://sagamorespirit.com/spirits/sagamore-bottled-in-bond-straight-rye-whiskey/",
       "identity_guard": "100 proof, September 2026; 2018 spring distilled; independent review by Breaking Bourbon",
-      "independent_evidence_status": "matched_lead_available"
+      "independent_evidence_status": "matched_lead_available",
+      "accepted_date": "2026-10-27",
+      "validation": "Full static 1053 dossiers; Chromium 687 responsive views; zero failures"
     },
     {
       "order": 21,
       "id": "sagamore-rye-9-year-2024",
       "expression": "9-Year Straight Rye Reserve Series, 2024 Batch 1A",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-rye-9-year-2024.html",
       "producer_source": "https://sagamorespirit.com/spirits/sagamore-9-year-old-rye-whiskey/",
       "identity_guard": "112.6 proof, 9 years; distinct from 10 year",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-27",
+      "validation": "Full static 1053 dossiers; Chromium 687 responsive views; zero failures"
     },
     {
       "order": 22,
@@ -392,5 +399,7 @@
       "identity_guard": "A flavored amaro, not a whiskey expression; exclude from whiskey dossier expansion"
     }
   ],
-  "next_action": "Research and author a bounded 3-expression batch beginning with 7-year Bottled in Bond (2024), 8-year Bottled in Bond (2026), 9-year Straight Rye (2024); verify price/independent sensory evidence, then implement indexed articles and Chromium validation without touching 825 baseline or previously published 225 NA expansion dossiers."
+  "next_action": "Research next priority Sagamore gaps from deterministic ledger; prefer the 6-year BiB 2023, 8-year rye reserve, current Small Batch and Double Oak. Do not replay S002 or regenerate preserved articles.",
+  "updated_at": "2026-10-27",
+  "last_accepted_checkpoint": "S002"
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "project": "Whiskey-Project",
   "asOf": "2026-10-27",
-  "revision": "R004",
+  "revision": "R005",
   "revisionSource": {
     "type": "json",
     "file": "north-american-expansion-checkpoint.json",
@@ -11,7 +11,7 @@
   },
   "progress": {
     "label": "Sagamore expression inventory dispositions",
-    "completed": 18,
+    "completed": 21,
     "total": 39,
     "source": {
       "file": "sagamore-expression-ledger.json",
@@ -19,18 +19,19 @@
       "kind": "sum-fields",
       "fields": [
         "existing_published",
+        "accepted_published",
         "excluded_pending_liquid_distinction"
       ],
       "totalField": "total"
     },
-    "basis": "15 published Sagamore dossiers preserved and 3 exclusion/holds; 21 distinct or conditional releases still need verified research and publication.",
-    "note": "This 18/39 is discovery disposition, not 18 finished new articles; overall strict roadmap progress stays at 41%."
+    "basis": "15 preexisting published Sagamore dossiers plus 3 new accepted published expressions and 3 exclusion/holds; 18 further candidates pending research.",
+    "note": "21/39 discovery decisions resolved, including only 3 newly published dossiers; strict full-vision gate acceptance remains 41/100."
   },
   "roadmap": {
     "label": "Full Old Oak Omnibus development vision",
     "scope": "15 finite accepted-or-planned delivery gates spanning the article corpus, category-wide scoring and NC value, future families/world styles, provenance, UI, QA and living maintenance; possible future releases are not used as a fictional denominator.",
     "document": "DEVELOPMENT-ROADMAP.md",
-    "note": "R003: 41/100 fully accepted long-term points. Sagamore discovery S001: 15 existing, 21 pending candidates, three excluded/held. Partial milestones earn zero until complete; North American 238/238 is finished.",
+    "note": "R005: 1,053 published dossiers and accepted S002 three-release Sagamore batch. Sagamore full-family gate remains partial; strict overall stays 41%.",
     "gates": [
       {
         "id": "foundation",

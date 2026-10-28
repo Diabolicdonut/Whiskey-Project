@@ -13,7 +13,7 @@
 
 - Read `sagamore-expression-ledger.json` and `research/sagamore-2026-discovery.md` after NA-037 closure before adding Sagamore entries. Preserve all 15 preexisting Sagamore pages, differentiate label and batch identities, and do not count the 21 research candidates as published.
 - First bounded target: 7-year BiB 2024, 8-year BiB 2026, and 9-year Reserve 2024; verify exact sources, independent tasting scope, time/currency/size of prices and calibrated scores. All changes must pass Chromium and original 825 preservation checks.
-- The accepted project scope remains governed by `DEVELOPMENT-ROADMAP.md` R003, not the historical NA-036 line above. Keep the strict roadmap percentage at 41 until a whole gate is accepted.
+- The accepted project scope remains governed by `DEVELOPMENT-ROADMAP.md` R005, not the historical NA-036 line above. Keep the strict roadmap percentage at 41 until a whole gate is accepted.
 
 ## Implementation and editorial rules
 

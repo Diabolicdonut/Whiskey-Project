@@ -1,0 +1,970 @@
+[
+  {
+    "slug": "sagamore-bib-7-year-2024",
+    "filename": "sagamore-bib-7-year-2024.html",
+    "name": "Sagamore Bottled in Bond Straight Rye 7 Year (2024)",
+    "family": "Sagamore Spirit",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Sagamore Spirit / Sagamore Whiskey, Baltimore, Maryland",
+    "proof": 100,
+    "abv": 50.0,
+    "age": "7 Years",
+    "age_display": "7 Years",
+    "age_sort_years": 7,
+    "mash_bill_display": "Blend of high-rye and low-rye mash bills; exact ratios not disclosed",
+    "mash_bill_confidence": "The producer documents high-/low-rye blending without exact mash bill proportions in the cited material.",
+    "quality": 7.6,
+    "quality_score": 7.6,
+    "value": 7.5,
+    "value_score": 7.5,
+    "overall": 7.54983443527075,
+    "overall_score": 7.54983443527075,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-27",
+      "limitations": "Two matched independent reviewers and clear proof/age identity; they differ on finish dryness, so scoring remains provisional. The original reviewer scores are not treated as direct category-relative scores.",
+      "anchor_references": {
+        "worst": [
+          "hudson-maple-cask-rye-2014-batch-1-bottle-2338"
+        ],
+        "average": [
+          "old-overholt-bottled-in-bond",
+          "high-west-double-rye-current"
+        ],
+        "best": [
+          "redemption-ancients-18-year-rye-2017"
+        ]
+      },
+      "native_anchor_status": "provisional; unresolved floor retained"
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Two matched independent reviewers and clear proof/age identity; they differ on finish dryness, so scoring remains provisional. Composite notes: An approachable but complex seven-year Maryland-made bonded rye: dessert-like aromatics, sweet spice and a more drying midpalate in the independent accounts.",
+    "quality_confidence": "Two matched independent reviewers and clear proof/age identity; they differ on finish dryness, so scoring remains provisional.",
+    "quality_na_reason": null,
+    "value_rationale": "Provisional category-relative value for a $59 dated U.S. reference only, not confirmed NC shelf price. Producer sale listing does not establish statewide NC ABC inventory or the same tax/shipping; $59 is a provisional U.S. purchase comparator; 750 mL size should be reconfirmed on the SKU.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 59.0,
+    "price_basis": "Sagamore's listed $59 USD distillery-pickup offer for 2024 BiB 7-Year; size must be confirmed before treating as an exact 750 mL NC comparable.",
+    "price_url": "https://shop.sagamorespirit.com/products/sagamore-2024-bottled-in-bond-straight-rye-whiskey",
+    "price_period": "2026-10-27",
+    "price_effective": null,
+    "price_checked_date": "2026-10-27",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 59,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No verified North Carolina ABC current listing for the exact edition; benchmark uses dated manufacturer/reviewer USD reference.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2024,
+    "release_scope": "Sagamore 2024 Bottled-in-Bond Straight Rye, 7-year, distilled fall 2017, 100 proof, distinct from earlier 5-/6-year and later 8-year releases.",
+    "availability_note": "Release dates, distillery pickup, and historic MSRP do not confirm current NC ABC stock. Check price and proof on the exact bottle.",
+    "research_date": "2026-10-27",
+    "score_date": "2026-10-27",
+    "review_sources": [
+      "https://www.drinkhacker.com/2025/10/28/review-sagamore-rye-bottled-in-bond-7-years-old/",
+      "https://bourbonlens.com/7-year-bottled-in-bond-rye-whiskey/"
+    ],
+    "review_publishers": [
+      "Drinkhacker",
+      "Bourbon Lens"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Drew Beard",
+        "publisher": "Drinkhacker",
+        "url": "https://www.drinkhacker.com/2025/10/28/review-sagamore-rye-bottled-in-bond-7-years-old/",
+        "summary": "Finds a layered but approachable rye with brown sugar, vanilla, cake, ginger and cherry, tempered by oak spice and an abbreviated tannic finish.",
+        "scope": "Sagamore 7-year BiB, 100 proof, reviewed 2025"
+      },
+      {
+        "reviewer": "Bourbon Lens tasting writer",
+        "publisher": "Bourbon Lens",
+        "url": "https://bourbonlens.com/7-year-bottled-in-bond-rye-whiskey/",
+        "summary": "Reports a chocolate-forward nose, substantial mouthfeel, citrus bitterness and a relatively drying finish; considers the seven-year bottle a worthwhile rye purchase.",
+        "scope": "Sagamore 7-year BiB, 100 proof; price lead $59.99"
+      }
+    ],
+    "source_urls": [
+      "https://shop.sagamorespirit.com/products/sagamore-2024-bottled-in-bond-straight-rye-whiskey",
+      "https://www.drinkhacker.com/2025/10/28/review-sagamore-rye-bottled-in-bond-7-years-old/",
+      "https://bourbonlens.com/7-year-bottled-in-bond-rye-whiskey/"
+    ],
+    "production_summary": "Sagamore's distillery describes a fall-2017 Maryland distillation, aging for seven years and 100 proof bottled-in-bond rye made from a high-rye and a low-rye mash bill; source identity not the same as 5-year review.",
+    "finishing_information": "New charred oak maturation; no separate secondary cask finishing claim confirmed.",
+    "identity_note": null,
+    "history": [
+      "Sagamore Spirit revived the Maryland-style rye tradition, using blends of two rye mash bill profiles and gradually transitioning from sourced to Maryland-distilled stock.",
+      "Sagamore 2024 Bottled-in-Bond Straight Rye, 7-year, distilled fall 2017, 100 proof, distinct from earlier 5-/6-year and later 8-year releases."
+    ],
+    "comparables": [
+      {
+        "name": "Sagamore Bottled-in-Bond 5-Year",
+        "url": "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
+        "reason": "Same heritage and 100-proof standard, but different distilling season and maturity."
+      },
+      {
+        "name": "Sagamore 10-Year Rye",
+        "url": "sagamore-10-year-rye.html",
+        "reason": "Older reserve benchmark to test whether extra age adds texture and depth rather than drying oak."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 45,
+        "current_band": false,
+        "reason": "Buy well below normal asking price if you prefer this exact release and have matched the bottle/size."
+      },
+      {
+        "label": "Good buy",
+        "minimum": 45,
+        "maximum_exclusive": 55,
+        "current_band": false,
+        "reason": "Excellent value against comparably aged or proofed ryes at this price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 55,
+        "maximum_exclusive": 68,
+        "current_band": true,
+        "reason": "Reasonable for its age, sensory performance and alternate availability if the bottle matches."
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 68,
+        "maximum_exclusive": 80,
+        "current_band": false,
+        "reason": "Compare against Knob Creek 7 Rye, Sagamore 10-Year and other rye age statements before paying more."
+      },
+      {
+        "label": "Not worth it",
+        "minimum": 80,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Price exceeds supported drinking-value premium; scarcity alone is not a reason to pay collector markup."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Best starting point: explore dessert aromatics and whether the tannic finish is balanced."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One large cube can reduce drying heat but may suppress lighter fruit notes."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "A restrained Old Fashioned should preserve bonded rye structure and sweet spice."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A rye-forward Manhattan complements cocoa/cherry notes; use moderate vermouth sweetness."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A tall rye highball is plausible, but this relatively mature/limited bottle is most informative neat before mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Sagamore 2024 Bottled-in-Bond Straight Rye, 7-year, distilled fall 2017, 100 proof, distinct from earlier 5-/6-year and later 8-year releases.",
+    "image_limitation": "No exact-release photo bytes have been authenticated for self-contained embedding; unrelated sibling images must not be substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "sagamore-expansion-v1",
+    "assessment_checkpoint": "S002",
+    "editorial": {
+      "id": "sagamore-bib-7-year-2024",
+      "category": "Rye",
+      "proof": 100,
+      "age": 7,
+      "age_display": "7 Years",
+      "grain": "Blend of high-rye and low-rye mash bills; exact ratios not disclosed",
+      "identity": "Sagamore 2024 Bottled-in-Bond Straight Rye, 7-year, distilled fall 2017, 100 proof, distinct from earlier 5-/6-year and later 8-year releases.",
+      "short_version": "An approachable but complex seven-year Maryland-made bonded rye: dessert-like aromatics, sweet spice and a more drying midpalate in the independent accounts.",
+      "producer": "Sagamore Spirit / Sagamore Whiskey, Baltimore, Maryland",
+      "production": "Sagamore's distillery describes a fall-2017 Maryland distillation, aging for seven years and 100 proof bottled-in-bond rye made from a high-rye and a low-rye mash bill; source identity not the same as 5-year review.",
+      "finish": "New charred oak maturation; no separate secondary cask finishing claim confirmed.",
+      "history": [
+        "Sagamore Spirit revived the Maryland-style rye tradition, using blends of two rye mash bill profiles and gradually transitioning from sourced to Maryland-distilled stock.",
+        "Sagamore 2024 Bottled-in-Bond Straight Rye, 7-year, distilled fall 2017, 100 proof, distinct from earlier 5-/6-year and later 8-year releases."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Drew Beard",
+          "publisher": "Drinkhacker",
+          "url": "https://www.drinkhacker.com/2025/10/28/review-sagamore-rye-bottled-in-bond-7-years-old/",
+          "summary": "Finds a layered but approachable rye with brown sugar, vanilla, cake, ginger and cherry, tempered by oak spice and an abbreviated tannic finish.",
+          "scope": "Sagamore 7-year BiB, 100 proof, reviewed 2025"
+        },
+        {
+          "reviewer": "Bourbon Lens tasting writer",
+          "publisher": "Bourbon Lens",
+          "url": "https://bourbonlens.com/7-year-bottled-in-bond-rye-whiskey/",
+          "summary": "Reports a chocolate-forward nose, substantial mouthfeel, citrus bitterness and a relatively drying finish; considers the seven-year bottle a worthwhile rye purchase.",
+          "scope": "Sagamore 7-year BiB, 100 proof; price lead $59.99"
+        }
+      ],
+      "quality": 7.6,
+      "quality_rationale": "Two matched independent reviewers and clear proof/age identity; they differ on finish dryness, so scoring remains provisional. Composite notes: An approachable but complex seven-year Maryland-made bonded rye: dessert-like aromatics, sweet spice and a more drying midpalate in the independent accounts.",
+      "quality_confidence": "Two matched independent reviewers and clear proof/age identity; they differ on finish dryness, so scoring remains provisional.",
+      "evidence_limit": "Two matched independent reviewers and clear proof/age identity; they differ on finish dryness, so scoring remains provisional. The original reviewer scores are not treated as direct category-relative scores.",
+      "calibration_mode": "evidence_limited_provisional",
+      "release_year": 2024,
+      "comparables": [
+        {
+          "name": "Sagamore Bottled-in-Bond 5-Year",
+          "url": "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
+          "reason": "Same heritage and 100-proof standard, but different distilling season and maturity."
+        },
+        {
+          "name": "Sagamore 10-Year Rye",
+          "url": "sagamore-10-year-rye.html",
+          "reason": "Older reserve benchmark to test whether extra age adds texture and depth rather than drying oak."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sagamore 2024 7-Year BiB producer listing",
+          "url": "https://shop.sagamorespirit.com/products/sagamore-2024-bottled-in-bond-straight-rye-whiskey",
+          "role": "Distillery age, proof, release identity, $59 sale context; local pickup."
+        },
+        {
+          "title": "Drinkhacker 7-Year BiB review",
+          "url": "https://www.drinkhacker.com/2025/10/28/review-sagamore-rye-bottled-in-bond-7-years-old/",
+          "role": "Independent sample-specific sensory and price commentary."
+        },
+        {
+          "title": "Bourbon Lens 7-Year BiB review",
+          "url": "https://bourbonlens.com/7-year-bottled-in-bond-rye-whiskey/",
+          "role": "Independent sample-specific tasting; notes dryness and bitterness."
+        }
+      ],
+      "grain_confidence": "The producer documents high-/low-rye blending without exact mash bill proportions in the cited material.",
+      "availability": "Release dates, distillery pickup, and historic MSRP do not confirm current NC ABC stock. Check price and proof on the exact bottle.",
+      "pricing": {
+        "amount": 59,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-27",
+        "url": "https://shop.sagamorespirit.com/products/sagamore-2024-bottled-in-bond-straight-rye-whiskey",
+        "basis": "Sagamore's listed $59 USD distillery-pickup offer for 2024 BiB 7-Year; size must be confirmed before treating as an exact 750 mL NC comparable.",
+        "nc_status": "No verified North Carolina ABC current listing for the exact edition; benchmark uses dated manufacturer/reviewer USD reference."
+      },
+      "value": 7.5,
+      "value_rationale": "Provisional category-relative value for a $59 dated U.S. reference only, not confirmed NC shelf price. Producer sale listing does not establish statewide NC ABC inventory or the same tax/shipping; $59 is a provisional U.S. purchase comparator; 750 mL size should be reconfirmed on the SKU.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 45,
+          "current_band": false,
+          "reason": "Buy well below normal asking price if you prefer this exact release and have matched the bottle/size."
+        },
+        {
+          "label": "Good buy",
+          "minimum": 45,
+          "maximum_exclusive": 55,
+          "current_band": false,
+          "reason": "Excellent value against comparably aged or proofed ryes at this price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 55,
+          "maximum_exclusive": 68,
+          "current_band": true,
+          "reason": "Reasonable for its age, sensory performance and alternate availability if the bottle matches."
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 68,
+          "maximum_exclusive": 80,
+          "current_band": false,
+          "reason": "Compare against Knob Creek 7 Rye, Sagamore 10-Year and other rye age statements before paying more."
+        },
+        {
+          "label": "Not worth it",
+          "minimum": 80,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Price exceeds supported drinking-value premium; scarcity alone is not a reason to pay collector markup."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Best starting point: explore dessert aromatics and whether the tannic finish is balanced."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One large cube can reduce drying heat but may suppress lighter fruit notes."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "A restrained Old Fashioned should preserve bonded rye structure and sweet spice."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A rye-forward Manhattan complements cocoa/cherry notes; use moderate vermouth sweetness."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A tall rye highball is plausible, but this relatively mature/limited bottle is most informative neat before mixing."
+        }
+      ],
+      "image_limitation": "No exact-release photo bytes have been authenticated for self-contained embedding; unrelated sibling images must not be substituted."
+    }
+  },
+  {
+    "slug": "sagamore-bib-8-year-2026",
+    "filename": "sagamore-bib-8-year-2026.html",
+    "name": "Sagamore Bottled in Bond Straight Rye 8 Year (2026)",
+    "family": "Sagamore Spirit",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Sagamore Spirit / Sagamore Whiskey, Baltimore, Maryland",
+    "proof": 100,
+    "abv": 50.0,
+    "age": "8 Years",
+    "age_display": "8 Years",
+    "age_sort_years": 8,
+    "mash_bill_display": "Two distinct Maryland high-rye and low-rye mash bills; proportions proprietary",
+    "mash_bill_confidence": "The producer documents high-/low-rye blending without exact mash bill proportions in the cited material.",
+    "quality": 7.8,
+    "quality_score": 7.8,
+    "value": 8,
+    "value_score": 8,
+    "overall": 7.899367063252599,
+    "overall_score": 7.899367063252599,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-27",
+      "limitations": "Single detailed matched independent 2026 sample; review explicitly disclosed a no-cost producer sample, so broader confirmation is desirable. The original reviewer scores are not treated as direct category-relative scores.",
+      "anchor_references": {
+        "worst": [
+          "hudson-maple-cask-rye-2014-batch-1-bottle-2338"
+        ],
+        "average": [
+          "old-overholt-bottled-in-bond",
+          "high-west-double-rye-current"
+        ],
+        "best": [
+          "redemption-ancients-18-year-rye-2017"
+        ]
+      },
+      "native_anchor_status": "provisional; unresolved floor retained"
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Single detailed matched independent 2026 sample; review explicitly disclosed a no-cost producer sample, so broader confirmation is desirable. Composite notes: Bright fruit, baking spice and a surprisingly creamy turn make this approachable eight-year bonded Maryland rye more expressive than its restrained proof suggests.",
+    "quality_confidence": "Single detailed matched independent 2026 sample; review explicitly disclosed a no-cost producer sample, so broader confirmation is desirable.",
+    "quality_na_reason": null,
+    "value_rationale": "Provisional category-relative value for a $60 dated U.S. reference only, not confirmed NC shelf price. Independent 2026 review's $60 MSRP is used as a provisional benchmark, not represented as currently stocked or NC-listed; sample provided by producer disclosed.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 60.0,
+    "price_basis": "Breaking Bourbon 2026 capsule review cites $60 U.S. MSRP for 750 mL; a reviewer-reported MSRP is not a verified NC ABC shelf price.",
+    "price_url": "https://sagamorespirit.com/spirits/sagamore-bottled-in-bond-straight-rye-whiskey/",
+    "price_period": "2026-10-27",
+    "price_effective": null,
+    "price_checked_date": "2026-10-27",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 60,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No verified North Carolina ABC current listing for the exact edition; benchmark uses dated manufacturer/reviewer USD reference.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": 2026,
+    "release_scope": "September 1, 2026 annual 8-year Bottled-in-Bond Straight Rye, distilled spring 2018, Maryland-made, 100 proof; not the branded Ravens commemorative packaging nor 2024 7-year BiB.",
+    "availability_note": "Release dates, distillery pickup, and historic MSRP do not confirm current NC ABC stock. Check price and proof on the exact bottle.",
+    "research_date": "2026-10-27",
+    "score_date": "2026-10-27",
+    "review_sources": [
+      "https://www.breakingbourbon.com/review/sagamore-bottled-in-bond-8-year-old-straight-rye-2026"
+    ],
+    "review_publishers": [
+      "Breaking Bourbon"
+    ],
+    "critical_source_count": 1,
+    "review_evidence": [
+      {
+        "reviewer": "Eric Hasman",
+        "publisher": "Breaking Bourbon",
+        "url": "https://www.breakingbourbon.com/review/sagamore-bottled-in-bond-8-year-old-straight-rye-2026",
+        "summary": "Finds summer-fruit and confection notes, floral rose-tea/white pepper palate with initially thin then creamy body, followed by cherry, cinnamon and moderate charred oak; judges the $60 MSRP particularly attractive.",
+        "scope": "Exact 8-year Bottled-in-Bond 2026, 100 proof, 750 mL; producer-provided no-cost sample disclosed"
+      }
+    ],
+    "source_urls": [
+      "https://sagamorespirit.com/spirits/sagamore-bottled-in-bond-straight-rye-whiskey/",
+      "https://www.breakingbourbon.com/review/sagamore-bottled-in-bond-8-year-old-straight-rye-2026",
+      "https://www.themanual.com/food-and-drink/sagamores-bottled-in-bond-rye-marks-a-milestone-for-the-brand/"
+    ],
+    "production_summary": "The official 2026 release is spring-2018 distilled, aged eight years, blended from high- and low-rye mash bills, triple distilled, bottled at 100 proof and non-chill filtered. Independent exact-release review supports a bright, friendly sensory profile.",
+    "finishing_information": "New charred oak bonded maturation; no alternative finishing cask claimed for this release.",
+    "identity_note": null,
+    "history": [
+      "Sagamore Spirit revived the Maryland-style rye tradition, using blends of two rye mash bill profiles and gradually transitioning from sourced to Maryland-distilled stock.",
+      "September 1, 2026 annual 8-year Bottled-in-Bond Straight Rye, distilled spring 2018, Maryland-made, 100 proof; not the branded Ravens commemorative packaging nor 2024 7-year BiB."
+    ],
+    "comparables": [
+      {
+        "name": "Sagamore Bottled-in-Bond 5-Year",
+        "url": "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
+        "reason": "Earlier annual age state; note differences in maturity and independent tasting."
+      },
+      {
+        "name": "Sagamore 10-Year Rye",
+        "url": "sagamore-10-year-rye.html",
+        "reason": "Higher age and proof but less youthfully bright; benchmark for complexity versus accessibility."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 52,
+        "current_band": false,
+        "reason": "Buy well below normal asking price if you prefer this exact release and have matched the bottle/size."
+      },
+      {
+        "label": "Good buy",
+        "minimum": 52,
+        "maximum_exclusive": 65,
+        "current_band": true,
+        "reason": "Excellent value against comparably aged or proofed ryes at this price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 65,
+        "maximum_exclusive": 80,
+        "current_band": false,
+        "reason": "Reasonable for its age, sensory performance and alternate availability if the bottle matches."
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 80,
+        "maximum_exclusive": 95,
+        "current_band": false,
+        "reason": "Compare against Knob Creek 7 Rye, Sagamore 10-Year and other rye age statements before paying more."
+      },
+      {
+        "label": "Not worth it",
+        "minimum": 95,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Price exceeds supported drinking-value premium; scarcity alone is not a reason to pay collector markup."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "The best first test for fruit, floral spice, and surprising creamy progression."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "Use a little dilution only after tasting neat; the fruit may become quieter."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Excellent plausible fit for a restrained Old Fashioned—pepper and cherry should remain visible."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Balanced spice and approachable proof support a classic Manhattan with limited sweet vermouth."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A tall rye highball is plausible, but this relatively mature/limited bottle is most informative neat before mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "September 1, 2026 annual 8-year Bottled-in-Bond Straight Rye, distilled spring 2018, Maryland-made, 100 proof; not the branded Ravens commemorative packaging nor 2024 7-year BiB.",
+    "image_limitation": "No exact-release photo bytes have been authenticated for self-contained embedding; unrelated sibling images must not be substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "sagamore-expansion-v1",
+    "assessment_checkpoint": "S002",
+    "editorial": {
+      "id": "sagamore-bib-8-year-2026",
+      "category": "Rye",
+      "proof": 100,
+      "age": 8,
+      "age_display": "8 Years",
+      "grain": "Two distinct Maryland high-rye and low-rye mash bills; proportions proprietary",
+      "identity": "September 1, 2026 annual 8-year Bottled-in-Bond Straight Rye, distilled spring 2018, Maryland-made, 100 proof; not the branded Ravens commemorative packaging nor 2024 7-year BiB.",
+      "short_version": "Bright fruit, baking spice and a surprisingly creamy turn make this approachable eight-year bonded Maryland rye more expressive than its restrained proof suggests.",
+      "producer": "Sagamore Spirit / Sagamore Whiskey, Baltimore, Maryland",
+      "production": "The official 2026 release is spring-2018 distilled, aged eight years, blended from high- and low-rye mash bills, triple distilled, bottled at 100 proof and non-chill filtered. Independent exact-release review supports a bright, friendly sensory profile.",
+      "finish": "New charred oak bonded maturation; no alternative finishing cask claimed for this release.",
+      "history": [
+        "Sagamore Spirit revived the Maryland-style rye tradition, using blends of two rye mash bill profiles and gradually transitioning from sourced to Maryland-distilled stock.",
+        "September 1, 2026 annual 8-year Bottled-in-Bond Straight Rye, distilled spring 2018, Maryland-made, 100 proof; not the branded Ravens commemorative packaging nor 2024 7-year BiB."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Eric Hasman",
+          "publisher": "Breaking Bourbon",
+          "url": "https://www.breakingbourbon.com/review/sagamore-bottled-in-bond-8-year-old-straight-rye-2026",
+          "summary": "Finds summer-fruit and confection notes, floral rose-tea/white pepper palate with initially thin then creamy body, followed by cherry, cinnamon and moderate charred oak; judges the $60 MSRP particularly attractive.",
+          "scope": "Exact 8-year Bottled-in-Bond 2026, 100 proof, 750 mL; producer-provided no-cost sample disclosed"
+        }
+      ],
+      "quality": 7.8,
+      "quality_rationale": "Single detailed matched independent 2026 sample; review explicitly disclosed a no-cost producer sample, so broader confirmation is desirable. Composite notes: Bright fruit, baking spice and a surprisingly creamy turn make this approachable eight-year bonded Maryland rye more expressive than its restrained proof suggests.",
+      "quality_confidence": "Single detailed matched independent 2026 sample; review explicitly disclosed a no-cost producer sample, so broader confirmation is desirable.",
+      "evidence_limit": "Single detailed matched independent 2026 sample; review explicitly disclosed a no-cost producer sample, so broader confirmation is desirable. The original reviewer scores are not treated as direct category-relative scores.",
+      "calibration_mode": "evidence_limited_provisional",
+      "release_year": 2026,
+      "comparables": [
+        {
+          "name": "Sagamore Bottled-in-Bond 5-Year",
+          "url": "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
+          "reason": "Earlier annual age state; note differences in maturity and independent tasting."
+        },
+        {
+          "name": "Sagamore 10-Year Rye",
+          "url": "sagamore-10-year-rye.html",
+          "reason": "Higher age and proof but less youthfully bright; benchmark for complexity versus accessibility."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sagamore official 8-Year 2026 BiB",
+          "url": "https://sagamorespirit.com/spirits/sagamore-bottled-in-bond-straight-rye-whiskey/",
+          "role": "Spring 2018 vintage, 2026 release, age, proof, maturation and production."
+        },
+        {
+          "title": "Breaking Bourbon 8-Year BiB 2026",
+          "url": "https://www.breakingbourbon.com/review/sagamore-bottled-in-bond-8-year-old-straight-rye-2026",
+          "role": "Matched independent sensory account, disclosure and dated U.S. 750 mL MSRP."
+        },
+        {
+          "title": "The Manual 2026 Sagamore BiB release",
+          "url": "https://www.themanual.com/food-and-drink/sagamores-bottled-in-bond-rye-marks-a-milestone-for-the-brand/",
+          "role": "Contemporaneous account of spring 2018 distillation and 2026 launch."
+        }
+      ],
+      "grain_confidence": "The producer documents high-/low-rye blending without exact mash bill proportions in the cited material.",
+      "availability": "Release dates, distillery pickup, and historic MSRP do not confirm current NC ABC stock. Check price and proof on the exact bottle.",
+      "pricing": {
+        "amount": 60,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-27",
+        "url": "https://sagamorespirit.com/spirits/sagamore-bottled-in-bond-straight-rye-whiskey/",
+        "basis": "Breaking Bourbon 2026 capsule review cites $60 U.S. MSRP for 750 mL; a reviewer-reported MSRP is not a verified NC ABC shelf price.",
+        "nc_status": "No verified North Carolina ABC current listing for the exact edition; benchmark uses dated manufacturer/reviewer USD reference."
+      },
+      "value": 8,
+      "value_rationale": "Provisional category-relative value for a $60 dated U.S. reference only, not confirmed NC shelf price. Independent 2026 review's $60 MSRP is used as a provisional benchmark, not represented as currently stocked or NC-listed; sample provided by producer disclosed.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 52,
+          "current_band": false,
+          "reason": "Buy well below normal asking price if you prefer this exact release and have matched the bottle/size."
+        },
+        {
+          "label": "Good buy",
+          "minimum": 52,
+          "maximum_exclusive": 65,
+          "current_band": true,
+          "reason": "Excellent value against comparably aged or proofed ryes at this price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 65,
+          "maximum_exclusive": 80,
+          "current_band": false,
+          "reason": "Reasonable for its age, sensory performance and alternate availability if the bottle matches."
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 80,
+          "maximum_exclusive": 95,
+          "current_band": false,
+          "reason": "Compare against Knob Creek 7 Rye, Sagamore 10-Year and other rye age statements before paying more."
+        },
+        {
+          "label": "Not worth it",
+          "minimum": 95,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Price exceeds supported drinking-value premium; scarcity alone is not a reason to pay collector markup."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "The best first test for fruit, floral spice, and surprising creamy progression."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "Use a little dilution only after tasting neat; the fruit may become quieter."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Excellent plausible fit for a restrained Old Fashioned—pepper and cherry should remain visible."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Balanced spice and approachable proof support a classic Manhattan with limited sweet vermouth."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A tall rye highball is plausible, but this relatively mature/limited bottle is most informative neat before mixing."
+        }
+      ],
+      "image_limitation": "No exact-release photo bytes have been authenticated for self-contained embedding; unrelated sibling images must not be substituted."
+    }
+  },
+  {
+    "slug": "sagamore-rye-9-year-2024",
+    "filename": "sagamore-rye-9-year-2024.html",
+    "name": "Sagamore 9 Year Straight Rye Reserve Batch 1A (2024)",
+    "family": "Sagamore Spirit",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Sagamore Spirit / Sagamore Whiskey, Baltimore, Maryland",
+    "proof": 112.6,
+    "abv": 56.3,
+    "age": "9 Years",
+    "age_display": "9 Years",
+    "age_sort_years": 9,
+    "mash_bill_display": "Sagamore's Maryland-style rye blending; precise high/low percentages and underlying source details are not asserted",
+    "mash_bill_confidence": "The producer documents high-/low-rye blending without exact mash bill proportions in the cited material.",
+    "quality": 8.1,
+    "quality_score": 8.1,
+    "value": 7.4,
+    "value_score": 7.4,
+    "overall": 7.742092740338364,
+    "overall_score": 7.742092740338364,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-27",
+      "limitations": "Two favorable independent exact-batch accounts; both examine a 2024-release/2025-era bottle, so longevity of quality across batches cannot be assumed. The original reviewer scores are not treated as direct category-relative scores.",
+      "anchor_references": {
+        "worst": [
+          "hudson-maple-cask-rye-2014-batch-1-bottle-2338"
+        ],
+        "average": [
+          "old-overholt-bottled-in-bond",
+          "high-west-double-rye-current"
+        ],
+        "best": [
+          "redemption-ancients-18-year-rye-2017"
+        ]
+      },
+      "native_anchor_status": "provisional; unresolved floor retained"
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Two favorable independent exact-batch accounts; both examine a 2024-release/2025-era bottle, so longevity of quality across batches cannot be assumed. Composite notes: A richer nine-year rye with citrus, toasted grain, chocolate and long spice-to-mint development; independent tasting is favorable but relatively concentrated in one released batch.",
+    "quality_confidence": "Two favorable independent exact-batch accounts; both examine a 2024-release/2025-era bottle, so longevity of quality across batches cannot be assumed.",
+    "quality_na_reason": null,
+    "value_rationale": "Provisional category-relative value for a $79 dated U.S. reference only, not confirmed NC shelf price. This $79 is a period independent-review price reference. No fresh NC ABC listing has been verified; current scarcity/aftermarket prices are not used to inflate Value.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 79.0,
+    "price_basis": "The Whiskey Reviewer publication's period $79 U.S. bottle reference (2025, approximate article date); historic price context only, not current NC ABC retail.",
+    "price_url": "https://sagamorespirit.com/spirits/sagamore-9-year-old-rye-whiskey/",
+    "price_period": "2025-04-01",
+    "price_effective": null,
+    "price_checked_date": "2026-10-27",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 79,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "No verified North Carolina ABC current listing for the exact edition; benchmark uses dated manufacturer/reviewer USD reference.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2024,
+    "release_scope": "2024 Reserve Series 9-Year Straight Rye, Batch 1A, 112.6 proof (56.3% ABV), matured at least nine years in new charred American oak; distinct from 2025 10-year release.",
+    "availability_note": "Release dates, distillery pickup, and historic MSRP do not confirm current NC ABC stock. Check price and proof on the exact bottle.",
+    "research_date": "2026-10-27",
+    "score_date": "2026-10-27",
+    "review_sources": [
+      "https://whiskeyreviewer.com/2025/04/sagamore-9-year-old-rye-reserve-series-review-batch-1a/",
+      "https://the-right-spirit.com/2024/12/20/sagamore-9-year-cask-strength-rye/"
+    ],
+    "review_publishers": [
+      "The Whiskey Reviewer",
+      "The Right Spirit"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Douglas Fraser",
+        "publisher": "The Whiskey Reviewer",
+        "url": "https://whiskeyreviewer.com/2025/04/sagamore-9-year-old-rye-reserve-series-review-batch-1a/",
+        "summary": "Rates Batch 1A favorably, with rye spice, citrus peel, chocolate and graham-cracker aroma, cinnamon/nutty oak palate and a notably long pepper, mint and spice finish.",
+        "scope": "2024 9-year Reserve Series Batch 1A, 112.6 proof; $79 period U.S. price lead"
+      },
+      {
+        "reviewer": "The Right Spirit tasting author",
+        "publisher": "The Right Spirit",
+        "url": "https://the-right-spirit.com/2024/12/20/sagamore-9-year-cask-strength-rye/",
+        "summary": "Reports a highly positive nine-year Batch 1A tasting and historical price context, while noting the blend's possible relationship to sourced Indiana rye (unverified grain percentages not adopted here).",
+        "scope": "2024 9-year Batch 1A, 112.6 proof; the review's $89 included shipping and is not normalized as NC retail"
+      }
+    ],
+    "source_urls": [
+      "https://sagamorespirit.com/spirits/sagamore-9-year-old-rye-whiskey/",
+      "https://whiskeyreviewer.com/2025/04/sagamore-9-year-old-rye-reserve-series-review-batch-1a/",
+      "https://the-right-spirit.com/2024/12/20/sagamore-9-year-cask-strength-rye/",
+      "https://www.whiskybase.com/whiskies/whisky/264453/sagamore-spirit-09-year-old"
+    ],
+    "production_summary": "Sagamore's official Reserve Series identifies a minimum of nine years in new charred American white oak, bottled at 112.6 proof. Exact matched Batch 1A is documented separately by critics; do not assume this age indicates its liquid was wholly Maryland-distilled.",
+    "finishing_information": "New charred American white oak for nine years; no secondary finishing barrel established.",
+    "identity_note": null,
+    "history": [
+      "Sagamore Spirit revived the Maryland-style rye tradition, using blends of two rye mash bill profiles and gradually transitioning from sourced to Maryland-distilled stock.",
+      "2024 Reserve Series 9-Year Straight Rye, Batch 1A, 112.6 proof (56.3% ABV), matured at least nine years in new charred American oak; distinct from 2025 10-year release."
+    ],
+    "comparables": [
+      {
+        "name": "Sagamore 10-Year Rye",
+        "url": "sagamore-10-year-rye.html",
+        "reason": "One year older and separate proof/release; compares maturity, mouthfeel and finish."
+      },
+      {
+        "name": "Sagamore Cask Strength Rye",
+        "url": "sagamore-rye-cask-strength.html",
+        "reason": "Alternative strong Maryland-style rye without assuming the same aging stock or batch."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 70,
+        "current_band": false,
+        "reason": "Buy well below normal asking price if you prefer this exact release and have matched the bottle/size."
+      },
+      {
+        "label": "Good buy",
+        "minimum": 70,
+        "maximum_exclusive": 85,
+        "current_band": true,
+        "reason": "Excellent value against comparably aged or proofed ryes at this price."
+      },
+      {
+        "label": "Fair buy",
+        "minimum": 85,
+        "maximum_exclusive": 100,
+        "current_band": false,
+        "reason": "Reasonable for its age, sensory performance and alternate availability if the bottle matches."
+      },
+      {
+        "label": "Wait / compare",
+        "minimum": 100,
+        "maximum_exclusive": 125,
+        "current_band": false,
+        "reason": "Compare against Knob Creek 7 Rye, Sagamore 10-Year and other rye age statements before paying more."
+      },
+      {
+        "label": "Not worth it",
+        "minimum": 125,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Price exceeds supported drinking-value premium; scarcity alone is not a reason to pay collector markup."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Preferred way to evaluate the long pepper, citrus and mint finish at 112.6 proof."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "Add a few drops rather than a large cube first; high proof can support some dilution."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use a notably light sugar dose to avoid wasting layered aged rye."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "A spirit-forward Manhattan works; choose vermouth that does not overwhelm citrus and oak."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A tall rye highball is plausible, but this relatively mature/limited bottle is most informative neat before mixing."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "2024 Reserve Series 9-Year Straight Rye, Batch 1A, 112.6 proof (56.3% ABV), matured at least nine years in new charred American oak; distinct from 2025 10-year release.",
+    "image_limitation": "No exact-release photo bytes have been authenticated for self-contained embedding; unrelated sibling images must not be substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "sagamore-expansion-v1",
+    "assessment_checkpoint": "S002",
+    "editorial": {
+      "id": "sagamore-rye-9-year-2024",
+      "category": "Rye",
+      "proof": 112.6,
+      "age": 9,
+      "age_display": "9 Years",
+      "grain": "Sagamore's Maryland-style rye blending; precise high/low percentages and underlying source details are not asserted",
+      "identity": "2024 Reserve Series 9-Year Straight Rye, Batch 1A, 112.6 proof (56.3% ABV), matured at least nine years in new charred American oak; distinct from 2025 10-year release.",
+      "short_version": "A richer nine-year rye with citrus, toasted grain, chocolate and long spice-to-mint development; independent tasting is favorable but relatively concentrated in one released batch.",
+      "producer": "Sagamore Spirit / Sagamore Whiskey, Baltimore, Maryland",
+      "production": "Sagamore's official Reserve Series identifies a minimum of nine years in new charred American white oak, bottled at 112.6 proof. Exact matched Batch 1A is documented separately by critics; do not assume this age indicates its liquid was wholly Maryland-distilled.",
+      "finish": "New charred American white oak for nine years; no secondary finishing barrel established.",
+      "history": [
+        "Sagamore Spirit revived the Maryland-style rye tradition, using blends of two rye mash bill profiles and gradually transitioning from sourced to Maryland-distilled stock.",
+        "2024 Reserve Series 9-Year Straight Rye, Batch 1A, 112.6 proof (56.3% ABV), matured at least nine years in new charred American oak; distinct from 2025 10-year release."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Douglas Fraser",
+          "publisher": "The Whiskey Reviewer",
+          "url": "https://whiskeyreviewer.com/2025/04/sagamore-9-year-old-rye-reserve-series-review-batch-1a/",
+          "summary": "Rates Batch 1A favorably, with rye spice, citrus peel, chocolate and graham-cracker aroma, cinnamon/nutty oak palate and a notably long pepper, mint and spice finish.",
+          "scope": "2024 9-year Reserve Series Batch 1A, 112.6 proof; $79 period U.S. price lead"
+        },
+        {
+          "reviewer": "The Right Spirit tasting author",
+          "publisher": "The Right Spirit",
+          "url": "https://the-right-spirit.com/2024/12/20/sagamore-9-year-cask-strength-rye/",
+          "summary": "Reports a highly positive nine-year Batch 1A tasting and historical price context, while noting the blend's possible relationship to sourced Indiana rye (unverified grain percentages not adopted here).",
+          "scope": "2024 9-year Batch 1A, 112.6 proof; the review's $89 included shipping and is not normalized as NC retail"
+        }
+      ],
+      "quality": 8.1,
+      "quality_rationale": "Two favorable independent exact-batch accounts; both examine a 2024-release/2025-era bottle, so longevity of quality across batches cannot be assumed. Composite notes: A richer nine-year rye with citrus, toasted grain, chocolate and long spice-to-mint development; independent tasting is favorable but relatively concentrated in one released batch.",
+      "quality_confidence": "Two favorable independent exact-batch accounts; both examine a 2024-release/2025-era bottle, so longevity of quality across batches cannot be assumed.",
+      "evidence_limit": "Two favorable independent exact-batch accounts; both examine a 2024-release/2025-era bottle, so longevity of quality across batches cannot be assumed. The original reviewer scores are not treated as direct category-relative scores.",
+      "calibration_mode": "evidence_limited_provisional",
+      "release_year": 2024,
+      "comparables": [
+        {
+          "name": "Sagamore 10-Year Rye",
+          "url": "sagamore-10-year-rye.html",
+          "reason": "One year older and separate proof/release; compares maturity, mouthfeel and finish."
+        },
+        {
+          "name": "Sagamore Cask Strength Rye",
+          "url": "sagamore-rye-cask-strength.html",
+          "reason": "Alternative strong Maryland-style rye without assuming the same aging stock or batch."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sagamore 9-Year Official Reserve",
+          "url": "https://sagamorespirit.com/spirits/sagamore-9-year-old-rye-whiskey/",
+          "role": "Official 9-year new oak maturation, 112.6 proof and release identity."
+        },
+        {
+          "title": "The Whiskey Reviewer Batch 1A tasting",
+          "url": "https://whiskeyreviewer.com/2025/04/sagamore-9-year-old-rye-reserve-series-review-batch-1a/",
+          "role": "Independent sample identity, reviewer notes and period price."
+        },
+        {
+          "title": "The Right Spirit Batch 1A",
+          "url": "https://the-right-spirit.com/2024/12/20/sagamore-9-year-cask-strength-rye/",
+          "role": "Independent historical exact-batch review and distinct delivered-price context."
+        },
+        {
+          "title": "Whiskybase nine-year release index",
+          "url": "https://www.whiskybase.com/whiskies/whisky/264453/sagamore-spirit-09-year-old",
+          "role": "2024 Batch 1A release identity, 56.3% ABV, 750 mL size and limited rating count."
+        }
+      ],
+      "grain_confidence": "The producer documents high-/low-rye blending without exact mash bill proportions in the cited material.",
+      "availability": "Release dates, distillery pickup, and historic MSRP do not confirm current NC ABC stock. Check price and proof on the exact bottle.",
+      "pricing": {
+        "amount": 79,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2025-04-01",
+        "url": "https://sagamorespirit.com/spirits/sagamore-9-year-old-rye-whiskey/",
+        "basis": "The Whiskey Reviewer publication's period $79 U.S. bottle reference (2025, approximate article date); historic price context only, not current NC ABC retail.",
+        "nc_status": "No verified North Carolina ABC current listing for the exact edition; benchmark uses dated manufacturer/reviewer USD reference."
+      },
+      "value": 7.4,
+      "value_rationale": "Provisional category-relative value for a $79 dated U.S. reference only, not confirmed NC shelf price. This $79 is a period independent-review price reference. No fresh NC ABC listing has been verified; current scarcity/aftermarket prices are not used to inflate Value.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 70,
+          "current_band": false,
+          "reason": "Buy well below normal asking price if you prefer this exact release and have matched the bottle/size."
+        },
+        {
+          "label": "Good buy",
+          "minimum": 70,
+          "maximum_exclusive": 85,
+          "current_band": true,
+          "reason": "Excellent value against comparably aged or proofed ryes at this price."
+        },
+        {
+          "label": "Fair buy",
+          "minimum": 85,
+          "maximum_exclusive": 100,
+          "current_band": false,
+          "reason": "Reasonable for its age, sensory performance and alternate availability if the bottle matches."
+        },
+        {
+          "label": "Wait / compare",
+          "minimum": 100,
+          "maximum_exclusive": 125,
+          "current_band": false,
+          "reason": "Compare against Knob Creek 7 Rye, Sagamore 10-Year and other rye age statements before paying more."
+        },
+        {
+          "label": "Not worth it",
+          "minimum": 125,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Price exceeds supported drinking-value premium; scarcity alone is not a reason to pay collector markup."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Preferred way to evaluate the long pepper, citrus and mint finish at 112.6 proof."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "Add a few drops rather than a large cube first; high proof can support some dilution."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use a notably light sugar dose to avoid wasting layered aged rye."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "A spirit-forward Manhattan works; choose vermouth that does not overwhelm citrus and oak."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A tall rye highball is plausible, but this relatively mature/limited bottle is most informative neat before mixing."
+        }
+      ],
+      "image_limitation": "No exact-release photo bytes have been authenticated for self-contained embedding; unrelated sibling images must not be substituted."
+    }
+  }
+]
