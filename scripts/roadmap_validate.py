@@ -19,6 +19,7 @@ ROADMAP = ROOT / "DEVELOPMENT-ROADMAP.md"
 STATUS = ROOT / "site-progress.json"
 LEDGER = ROOT / "north-american-expression-ledger.json"
 CONTROLLER = ROOT / "north-american-expansion-checkpoint.json"
+SAGAMORE = ROOT / "sagamore-expression-ledger.json"
 VALID_STATUS = {"accepted", "partial", "planned"}
 ID_PATTERN = re.compile(r"^[a-z0-9-]{2,64}$")
 
@@ -92,11 +93,23 @@ def main(sync=False):
     if not disposition or (int(disposition.group(1)), int(disposition.group(2))) != (resolved, total):
         errors.append("Roadmap Stage A is stale relative to ledger disposition count")
 
+    # Switch the visible secondary counter when NA-037 closes, but continue
+    # validating the immutable North American controller above.
+    phase_source = "north-american-expression-ledger.json"
+    phase_done, phase_total = resolved, total
+    if checkpoint["status"] == "complete" and SAGAMORE.is_file():
+        sc = json.loads(SAGAMORE.read_text(encoding="utf-8"))["counts"]
+        phase_source = "sagamore-expression-ledger.json"
+        phase_done = sc["existing_published"] + sc["excluded_pending_liquid_distinction"]
+        phase_total = sc["total"]
+        if phase_done + sc["pending_research"] != phase_total:
+            errors.append("Sagamore disposition counts do not reconcile")
+
     if sync:
         status["asOf"] = updated
         status["revision"] = revision
-        status["progress"]["completed"] = resolved
-        status["progress"]["total"] = total
+        status["progress"]["completed"] = phase_done
+        status["progress"]["total"] = phase_total
         status["roadmap"]["document"] = "DEVELOPMENT-ROADMAP.md"
         status["roadmap"]["gates"] = gates
         STATUS.write_text(json.dumps(status, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -110,10 +123,12 @@ def main(sync=False):
         errors.append("Site status does not link to authoritative roadmap")
     if status.get("roadmap", {}).get("gates") != gates:
         errors.append("Site milestone definitions differ from authoritative roadmap table")
-    if status.get("progress", {}).get("completed") != resolved:
-        errors.append("Site's offline expansion completed fallback differs from ledger")
-    if status.get("progress", {}).get("total") != total:
-        errors.append("Site's offline expansion total fallback differs from ledger")
+    if status.get("progress", {}).get("completed") != phase_done:
+        errors.append("Displayed active-phase completed count differs from source ledger")
+    if status.get("progress", {}).get("total") != phase_total:
+        errors.append("Displayed active-phase total differs from source ledger")
+    if status.get("progress", {}).get("source", {}).get("file") != phase_source:
+        errors.append("Displayed active-phase source differs from current workflow")
     if not (ROOT / "AGENTS.md").is_file():
         errors.append("AI-worker recovery instruction AGENTS.md missing")
     if '<script defer src="./site-progress.js"' not in (ROOT / "index.html").read_text(encoding="utf-8"):
@@ -126,7 +141,8 @@ def main(sync=False):
               "project_percent": accepted, "gate_count": len(gates),
               "editorial_checkpoint": checkpoint["checkpoint"],
               "published_dossiers": checkpoint["dossier_count"],
-              "phase_resolved": resolved, "phase_total": total,
+              "north_american_resolved": resolved, "north_american_total": total,
+              "active_phase": phase_source, "phase_resolved": phase_done, "phase_total": phase_total,
               "status": "passed" if not errors else "failed", "errors": errors}
     print(json.dumps(result, ensure_ascii=False))
     return 0 if not errors else 1

@@ -1,6 +1,6 @@
 # Old Oak Omnibus — Authoritative Development Roadmap
 
-**Roadmap revision:** R003
+**Roadmap revision:** R004
 **Updated:** 2026-10-27  
 **Project:** Old Oak Omnibus / Whiskey Project  
 **Production site:** https://diabolicdonut.github.io/Whiskey-Project/  
@@ -96,6 +96,8 @@ A field-specific metric such as `231/238` means **North American candidate dispo
 
 A new AI worker must not rewrite prior accepted articles, inflate completion by converting partial work to accepted without evidence, or silently edit only `site-progress.json` while leaving this document stale.
 
+**S001 active-phase display:** After NA-037 completion, the secondary homepage metric tracks **Sagamore 18/39 discovery dispositions** (15 existing published expressions and 3 excluded/held, with 21 pending exact-release research). It is not the number of new articles completed or a substitute for the **41/100** accepted full-vision points.
+
 ## 8. Revision, governance and completion rules
 
 The project-wide **roadmap revision** uses `R001`, `R002`, etc., independently of technical implementation commit SHA and the North American **NA-036** editorial checkpoint. Every material change to roadmap vision, weights, statuses, milestone priorities, acceptance evidence or an accepted milestone **increments the R-number**, updates the heading above and `site-progress.json.revision`, and adds a dated change-log entry. Cosmetic spelling-only corrections may retain the revision. The homepage badge shows this **roadmap/project revision**; the expansion checkpoint remains separately identified in expanded detail.
@@ -104,6 +106,7 @@ Do not count partial gate weight toward accepted completion, and do not change w
 
 ## 9. Revision history
 
+- **2026-10-27 — R004:** Show Sagamore's 18/39 discovery dispositions as the homepage's active secondary counter instead of completed North American 238/238. Preserve overall **41%** accepted points, 1,050 published dossiers and NA-037; validate active ledger parity.
 - **2026-10-27 — R003:** Started Sagamore Spirit S001 with a source-linked, finite ledger: 15 protected existing dossiers, 21 edition-gated research candidates and 3 exclusions/holds. Marked Sagamore gate partial without claiming publication; overall strict accepted weight remains **41%**. Added discovery validation to CI; next S002 is three individual evidence-led dossiers.
 - **2026-10-27 — R002:** Accepted and validated NA-037: seven remaining Canadian dossiers; total 1,050, 238/238 decisions, all original 825 preserved. Normalized catalogue filters alphabetically. North American gate accepted (+11 weighted points); overall **41%**. Next authorized family: Sagamore.
 - **2026-10-27 — R001:** Expanded the existing 11-gate/44% coverage sketch into a holistic, 15-gate, 100-point roadmap covering platform, world-category coverage, source/price accuracy, complete dossier and calibration standards, maintenance and AI-worker procedures. Rebased accepted percentage to **30%** without changing accepted dossiers, scoring or expansion checkpoint. Wired the site-visible revision and roadmap to this governing document.

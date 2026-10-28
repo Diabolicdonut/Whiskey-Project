@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "project": "Whiskey-Project",
   "asOf": "2026-10-27",
-  "revision": "R003",
+  "revision": "R004",
   "revisionSource": {
     "type": "json",
     "file": "north-american-expansion-checkpoint.json",
@@ -10,22 +10,21 @@
     "prefix": "NA-"
   },
   "progress": {
-    "label": "North American expansion candidate decisions",
-    "completed": 238,
-    "total": 238,
+    "label": "Sagamore expression inventory dispositions",
+    "completed": 18,
+    "total": 39,
     "source": {
-      "file": "north-american-expression-ledger.json",
+      "file": "sagamore-expression-ledger.json",
       "path": "counts",
       "kind": "sum-fields",
       "fields": [
-        "accepted",
-        "excluded",
-        "baseline_preserved"
+        "existing_published",
+        "excluded_pending_liquid_distinction"
       ],
-      "totalField": "candidates"
+      "totalField": "total"
     },
-    "basis": "All 238 finite North American candidates disposed: 225 accepted, 11 excluded, 2 baseline-preserved; 0 pending.",
-    "note": "A phase-specific count, not the total-project completion percentage."
+    "basis": "15 published Sagamore dossiers preserved and 3 exclusion/holds; 21 distinct or conditional releases still need verified research and publication.",
+    "note": "This 18/39 is discovery disposition, not 18 finished new articles; overall strict roadmap progress stays at 41%."
   },
   "roadmap": {
     "label": "Full Old Oak Omnibus development vision",
