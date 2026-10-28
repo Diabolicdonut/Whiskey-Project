@@ -73,12 +73,29 @@ def publish():
         m['assessment_checkpoint']='S002'
         m['canonical_format_version']='sagamore-expansion-v1'
         m['image_limitation']=a['image_limitation']
-        (ROOT/e['filename']).write_text(builder.render(m,None),encoding='utf-8')
+        content=builder.render(m,None)
+        # The shared renderer was originally Canadian-focused: suppress its
+        # Canada-specific editorial aside on these American straight ryes.
+        canadian_note=('For the shared historical context, read <a href="north-american-history.md">'
+             'Canadian whisky, cross-border trade and the American market</a>. '
+             'The release chronology above distinguishes the current bottle from its brand’s earlier history.')
+        content=content.replace(canadian_note,'')
+        content=content.replace('Old Oak Omnibus · North American Expansion ·',
+                                'Old Oak Omnibus · Sagamore Spirit Expansion ·')
+        (ROOT/e['filename']).write_text(content,encoding='utf-8')
         new.append(m)
     # Reuses the canonical NA index integrator but does not mutate its
     # 225-record metadata array, NA-037 controller, or 825 baseline dossiers.
     builder.integrate(new)
     na_037_release.normalize()
+    idx=ROOT/'index.html'
+    catalog=idx.read_text(encoding='utf-8')
+    canadian=('The North American expansion adds Widow Jane and individually '
+              'selectable Canadian families.')
+    if canadian in catalog:
+        catalog=catalog.replace(canadian,canadian+' Three additional Sagamore rye '
+             'editions have been researched separately.',1)
+        idx.write_text(catalog,encoding='utf-8')
     write(DATA,new)
     print(json.dumps({'phase':'publication_staged_locally','new_pages':[x['filename'] for x in new],
                       'total_preview':1053}))
@@ -131,6 +148,12 @@ def finalize():
     p['progress']['note']='21/39 discovery decisions resolved, including only 3 newly published dossiers; strict full-vision gate acceptance remains 41/100.'
     p['roadmap']['note']='R005: 1,053 published dossiers and accepted S002 three-release Sagamore batch. Sagamore full-family gate remains partial; strict overall stays 41%.'
     write(PROGRESS,p)
+    agents=ROOT/'AGENTS.md'
+    rules=agents.read_text(encoding='utf-8')
+    rules=rules.replace('DEVELOPMENT-ROADMAP.md` R003','DEVELOPMENT-ROADMAP.md` R005',1)
+    if 'R003' in rules:
+        rules=rules.replace('R003','R005')
+    agents.write_text(rules,encoding='utf-8')
     print(json.dumps({'checkpoint':'S002','published_dossiers':1053,
                       'sagamore_published':18,'sagamore_decisions':'21/39',
                       'roadmap_revision':'R005','accepted_points':41}))
