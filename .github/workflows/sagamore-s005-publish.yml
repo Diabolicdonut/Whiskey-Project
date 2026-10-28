@@ -25,7 +25,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Prove R008 and S004 accepted; no replay
+      - name: Prove R007 and S004 accepted; no replay
         run: python scripts/sagamore_s005_release.py preflight
       - name: Install pinned static and Chromium tools
         run: |
