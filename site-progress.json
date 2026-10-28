@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "project": "Whiskey-Project",
-  "asOf": "2026-10-27",
-  "revision": "R005",
+  "asOf": "2026-10-28",
+  "revision": "R006",
   "revisionSource": {
     "type": "json",
     "file": "north-american-expansion-checkpoint.json",
@@ -11,7 +11,7 @@
   },
   "progress": {
     "label": "Sagamore expression inventory dispositions",
-    "completed": 21,
+    "completed": 24,
     "total": 39,
     "source": {
       "file": "sagamore-expression-ledger.json",
@@ -24,14 +24,14 @@
       ],
       "totalField": "total"
     },
-    "basis": "15 preexisting published Sagamore dossiers plus 3 new accepted published expressions and 3 exclusion/holds; 18 further candidates pending research.",
-    "note": "21/39 discovery decisions resolved, including only 3 newly published dossiers; strict full-vision gate acceptance remains 41/100."
+    "basis": "15 existing Sagamore dossiers + 6 accepted new editions + 3 exclusion/hold decisions; 15 pending.",
+    "note": "Sagamore family disposition count, not percent of full-vision development. 21 Sagamore dossiers published."
   },
   "roadmap": {
     "label": "Full Old Oak Omnibus development vision",
     "scope": "15 finite accepted-or-planned delivery gates spanning the article corpus, category-wide scoring and NC value, future families/world styles, provenance, UI, QA and living maintenance; possible future releases are not used as a fictional denominator.",
     "document": "DEVELOPMENT-ROADMAP.md",
-    "note": "R005: 1,053 published dossiers and accepted S002 three-release Sagamore batch. Sagamore full-family gate remains partial; strict overall stays 41%.",
+    "note": "R006: Sagamore S003 accepted, 1,056 total dossiers; 24/39 family dispositions; overall 41% until the full family gate is accepted.",
     "gates": [
       {
         "id": "foundation",

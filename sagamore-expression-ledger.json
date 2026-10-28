@@ -14,8 +14,8 @@
   "source_index": "https://sagamorespirit.com/spirits/",
   "counts": {
     "existing_published": 15,
-    "accepted_published": 3,
-    "pending_research": 18,
+    "accepted_published": 6,
+    "pending_research": 15,
     "excluded_pending_liquid_distinction": 3,
     "total": 39
   },
@@ -159,11 +159,13 @@
       "order": 16,
       "id": "sagamore-small-batch-current",
       "expression": "Small Batch Rye, standard Maryland-made flagship (2024 onward)",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-small-batch-current.html",
       "producer_source": "https://sagamorespirit.com/spirits/",
       "identity_guard": "Confirm core standard vs individually identified Batch 2R; do not silently merge source notes",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-28",
+      "validation": "Full static 1056 dossiers; Chromium 696 responsive views; zero failures"
     },
     {
       "order": 17,
@@ -179,11 +181,13 @@
       "order": 18,
       "id": "sagamore-bib-6-year-2023",
       "expression": "Bottled in Bond Straight Rye, 6-year annual 2023 release",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-bib-6-year-2023.html",
       "producer_source": "https://sagamorespirit.com/spirits/bottled-in-bond-straight-rye-whiskey/",
       "identity_guard": "Distinguish 6-year 2023 from already published 5-year and newer 7-/8-year",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-28",
+      "validation": "Full static 1056 dossiers; Chromium 696 responsive views; zero failures"
     },
     {
       "order": 19,
@@ -225,11 +229,13 @@
       "order": 22,
       "id": "sagamore-rye-8-year",
       "expression": "8-Year Straight Rye older Reserve Series",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-rye-8-year.html",
       "producer_source": "https://sagamorespirit.com/spirits/8-year-old-rye-whiskey/",
       "identity_guard": "Age-statement distinct from the Bottled in Bond 8-year; verify proof and release",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-28",
+      "validation": "Full static 1056 dossiers; Chromium 696 responsive views; zero failures"
     },
     {
       "order": 23,
@@ -399,7 +405,7 @@
       "identity_guard": "A flavored amaro, not a whiskey expression; exclude from whiskey dossier expansion"
     }
   ],
-  "next_action": "Research next priority Sagamore gaps from deterministic ledger; prefer the 6-year BiB 2023, 8-year rye reserve, current Small Batch and Double Oak. Do not replay S002 or regenerate preserved articles.",
-  "updated_at": "2026-10-27",
-  "last_accepted_checkpoint": "S002"
+  "next_action": "Proceed with S004 in bounded independently sourced expressions; prioritize current Double Oak 96.6, 2024/2025 Manhattan finish and named cask-finish releases. Preserve 15 baseline and six accepted Sagamore files. Do not relabel 2023 six-year BiB as independently scored without matched evidence.",
+  "updated_at": "2026-10-28",
+  "last_accepted_checkpoint": "S003"
 }
