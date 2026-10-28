@@ -9,3 +9,7 @@ This marker triggers `.github/workflows/sagamore-s003-publish.yml` on `main`.
 Commit nothing if preflight, all original 825 image/hash protections, full static checking, a 390/768/1440 browser run or roadmap consistency fails.
 
 After acceptance only, publish exactly three new dossiers, update the separately maintained Sagamore expansion dataset, advance the Sagamore ledger to **S003** (24/39 resolved; 15 pending), advance roadmap/project revision to **R006** with strict 41% overall, and leave the closed North American expansion controller NA-037 unchanged.
+
+## Retry 1 — 2026-10-28
+
+Previous guarded run passed 1,056-article static validation and 696 Chromium views; publication was blocked solely by `site-progress.json` date differing from the roadmap's unchanged review date. The release helper now advances both the R006 revision and reviewed date. Re-run against the still-accepted S002 state; never bypass the validator or replay if already accepted.
