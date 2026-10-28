@@ -12,3 +12,7 @@ Publish precisely three historical, independent, nonduplicated dossiers:
 3. Sagamore Vintner's Finish **2018**, 98.4 proof, four-year rye plus 7 months in distinct pinot noir, shiraz and port casks. Quality provisional, but **Value and Overall N/A** because historical retail price has not been proven.
 
 The Action shall preflight the accepted state, stage only 3 pages plus existing index and separate Sagamore metadata, perform full 1,062-article static and original 825-preservation checks, execute 714 responsive Chromium acceptance cases and only then advance ledger to S005 30/39 (9 pending), roadmap to **R008**, total dossiers to **1,062**, published Sagamore articles to 27. The strict full-product percentage stays at **41%** until its whole gate is accepted. If any check fails, DO NOT accept or push staged files; diagnose the failure first.
+
+## Retry 1 — October 28, 2026
+
+Previous S005 Action stopped before staging because a roadmap-history prose string used an unescaped straight apostrophe, causing a Python syntax error during module parse. The guarded helper now uses a typographic apostrophe and the workflow preflight correctly labels the accepted R007 base. No S005 pages were published and S004 R007 remains accepted. Re-run the same guarded validation and refuse acceptance if any check fails.
