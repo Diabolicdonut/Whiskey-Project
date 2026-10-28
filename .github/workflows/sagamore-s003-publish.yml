@@ -1,0 +1,75 @@
+name: Sagamore S003 guarded three-dossier release
+on:
+  push:
+    branches: [main]
+    paths:
+      - research/SAGAMORE-S003-RELEASE-REQUEST.md
+permissions:
+  contents: write
+concurrency:
+  group: old-oak-sagamore-s003
+  cancel-in-progress: false
+jobs:
+  publish:
+    name: Guarded S003 publication from accepted S002
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Confirm S002 accepted and three new records cannot be replayed
+        run: python scripts/sagamore_s003_release.py preflight
+      - name: Install reproducible static and Chromium dependencies
+        run: |
+          python -m pip install html5lib==1.1 Pillow==11.3.0 lxml==6.0.1
+          npm install --no-save --package-lock=false playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Stage precisely three article HTML pages, index, metadata and filters
+        env:
+          OLD_OAK_RESEARCH_DATE: '2026-10-28'
+        run: python scripts/sagamore_s003_release.py stage
+      - name: Full static preservation and structural audit of 1056 dossiers
+        run: python scripts/north_american_validate.py --full
+      - name: Chromium three-viewport functional and responsive audit
+        run: node scripts/north_american_runtime.cjs --focused
+      - name: Accept only after both checks pass and align ledger roadmap R006
+        run: |
+          set -euo pipefail
+          python scripts/sagamore_s003_release.py finalize
+          python scripts/sagamore_discovery_validate.py
+          python scripts/roadmap_validate.py
+          python scripts/north_american_validate.py --full
+      - name: Commit only 9 intended files, no unrelated baseline changes
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- index.html sagamore-expansion-data.json sagamore-expression-ledger.json \
+            DEVELOPMENT-ROADMAP.md site-progress.json AGENTS.md \
+            sagamore-bib-6-year-2023.html sagamore-rye-8-year.html \
+            sagamore-small-batch-current.html
+          test "$(git diff --cached --name-only | wc -l)" -eq 9
+          git diff --cached --check
+          git commit -m 'Sagamore S003: accept three verified editions and roadmap R006'
+          git push origin HEAD:main
+      - name: Collect validation evidence regardless of publication result
+        if: always()
+        run: |
+          mkdir -p .sagamore-s003-report
+          if [ -f ../expansion-research/static-report.json ]; then cp ../expansion-research/static-report.json .sagamore-s003-report/; fi
+          if [ -f ../expansion-research/runtime-output/runtime-report.json ]; then cp ../expansion-research/runtime-output/runtime-report.json .sagamore-s003-report/; fi
+      - name: Upload release verification reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: old-oak-sagamore-s003-validation
+          path: .sagamore-s003-report/
+          retention-days: 30
