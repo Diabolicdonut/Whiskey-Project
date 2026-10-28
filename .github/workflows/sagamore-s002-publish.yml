@@ -1,0 +1,78 @@
+name: Sagamore S002 guarded three-dossier release
+on:
+  push:
+    branches: [main]
+    paths:
+      - research/SAGAMORE-S002-RELEASE-REQUEST.md
+permissions:
+  contents: write
+concurrency:
+  group: old-oak-sagamore-s002
+  cancel-in-progress: false
+jobs:
+  publish:
+    name: Verify three Sagamore dossiers and original 1050 before accepting
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Recover S001, check exact three author records and prevent replay
+        run: python scripts/sagamore_s002_release.py preflight
+      - name: Install Python static and Chromium test dependencies
+        run: |
+          python -m pip install html5lib==1.1 Pillow==11.3.0 lxml==6.0.1
+          npm install --no-save --package-lock=false playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Build S002 three source-matched pages, index and separate metadata in working tree
+        env:
+          OLD_OAK_RESEARCH_DATE: '2026-10-27'
+        run: python scripts/sagamore_s002_release.py publish
+      - name: Full static preservation and structural audit — 1053 dossiers
+        run: python scripts/north_american_validate.py --full
+      - name: Chromium 390, 768, 1440 responsive/sort/filter audit — 687 views
+        run: node scripts/north_american_runtime.cjs --focused
+      - name: Accept only on zero failures; update Sagamore ledger and roadmap R005
+        run: |
+          python scripts/sagamore_s002_release.py finalize
+          python scripts/sagamore_discovery_validate.py
+          python scripts/roadmap_validate.py
+          python scripts/north_american_validate.py --full
+      - name: Commit exactly nine verified changed paths without overwriting newer work
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- index.html sagamore-expansion-data.json sagamore-expression-ledger.json \
+            DEVELOPMENT-ROADMAP.md site-progress.json AGENTS.md \
+            sagamore-bib-7-year-2024.html sagamore-bib-8-year-2026.html \
+            sagamore-rye-9-year-2024.html
+          test "$(git diff --cached --name-only | wc -l)" -eq 9
+          git diff --cached --check
+          git commit -m 'Sagamore S002: publish three proven editions with full QA and roadmap R005'
+          git push origin HEAD:main
+      - name: Copy verification evidence from runner
+        if: always()
+        run: |
+          mkdir -p .sagamore-s002-report
+          if [ -f ../expansion-research/static-report.json ]; then
+            cp ../expansion-research/static-report.json .sagamore-s002-report/
+          fi
+          if [ -f ../expansion-research/runtime-output/runtime-report.json ]; then
+            cp ../expansion-research/runtime-output/runtime-report.json .sagamore-s002-report/
+          fi
+      - name: Upload evidence even if release fails closed
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: old-oak-sagamore-s002-validation
+          path: .sagamore-s002-report/
+          retention-days: 30
