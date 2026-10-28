@@ -1944,5 +1944,1002 @@
       ],
       "image_limitation": "No exact verified general Small Batch label photo bytes available for safe embedding; preserved Batch 2R photo is not silently reused."
     }
+  },
+  {
+    "slug": "sagamore-double-oak-current",
+    "filename": "sagamore-double-oak-current.html",
+    "name": "Sagamore Double Oak Rye (current 96.6 proof)",
+    "family": "Sagamore Spirit",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Sagamore Spirit, Baltimore, Maryland",
+    "proof": 96.6,
+    "abv": 48.3,
+    "age": "4–5 years initial maturation + 18 months toasted secondary oak (6+ years total)",
+    "age_display": "4–5 years initial maturation + 18 months toasted secondary oak (6+ years total)",
+    "age_sort_years": 4,
+    "mash_bill_display": "Blend of straight rye mash bills; producer does not disclose precise grain percentages for this ongoing bottle.",
+    "mash_bill_confidence": "The documented two-part Maryland-style rye family does not establish fixed mash percentages or uniform source for every batch.",
+    "quality": 7,
+    "quality_score": 7,
+    "value": 6.6,
+    "value_score": 6.6,
+    "overall": 6.797058187186571,
+    "overall_score": 6.797058187186571,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-28",
+      "limitations": "Critical views legitimately conflict. Batch 8AF and Batch 9A are not automatically equal to an unnumbered bottle; no fresh firsthand tasting or inferred exact mash bill is claimed.",
+      "anchor_references": {
+        "worst": [
+          "hudson-maple-cask-rye-2014-batch-1-bottle-2338"
+        ],
+        "average": [
+          "old-overholt-bottled-in-bond",
+          "high-west-double-rye-current"
+        ],
+        "best": [
+          "redemption-ancients-18-year-rye-2017"
+        ]
+      },
+      "native_anchor_status": "provisional; unresolved floor retained"
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Provisional very good-category rye with a polarized balance: persistent caramel, walnut and toasted coconut offer real body while multiple reviewers note the toast can crowd out distinctive grain spice. Reconciles disagreement across distinct core batches instead of copying the existing Batch 9A score.",
+    "quality_confidence": "Moderate-to-low for the ongoing core SKU: three independent assessments, some of specific 8-series samples, show important batch and palate divergence.",
+    "quality_na_reason": null,
+    "value_rationale": "At the NC ABC February 2026 $59.95 retail benchmark, six-plus years and an 18-month second-oak finish are substantive upgrades, but enough drinkers find the wood overwhelming that the premium over plain rye is only conditionally worthwhile.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 59.95,
+    "price_basis": "North Carolina ABC price, code 22-547, 750 mL effective February 1, 2026; check current quarterly and local shelf availability.",
+    "price_url": "https://abc2.nc.gov/Pricing/ViewItemDetails/149348",
+    "price_period": "2026-02-01",
+    "price_effective": null,
+    "price_checked_date": "2026-10-28",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 59.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 59.95,
+    "nc_code": "22-547",
+    "nc_listing_status": "NC ABC listed 2026-02-01 at $59.95 / 750mL; no individual store stock verified.",
+    "current_or_historical": "current",
+    "period_filter": "current",
+    "release_year": null,
+    "release_scope": "Standard ongoing Sagamore Double Oak Rye at 96.6 proof, finished 18 months in toasted wave-stave barrels; distinct from the published specific Batch 9A tasting dossier and individual Batch 8AF/8AP reviews.",
+    "availability_note": "Current producer core release; NC ABC 2026-02 listing does not prove local bottle availability on 2026-10-28.",
+    "research_date": "2026-10-28",
+    "score_date": "2026-10-28",
+    "review_sources": [
+      "https://secretwhiskeysociety.com/sagamore-spirit-rye-double-oak-review/",
+      "https://openpourwhiskey.com/reviews/sagamore-double-oak-rye/",
+      "https://thewhiskeywash.com/whiskey-reviews/review-sagamore-spirit-double-oak-straight-rye-2025/"
+    ],
+    "review_publishers": [
+      "Secret Whiskey Society",
+      "Open Pour",
+      "The Whiskey Wash"
+    ],
+    "critical_source_count": 3,
+    "review_evidence": [
+      {
+        "reviewer": "Brad",
+        "publisher": "Secret Whiskey Society",
+        "url": "https://secretwhiskeysociety.com/sagamore-spirit-rye-double-oak-review/",
+        "summary": "In a specifically identified Batch 8AF 2024 bottle, describes caramel and vanilla with prominent charred oak, but criticizes one-dimensional texture and wood that hides rye's natural character.",
+        "scope": "Batch 8AF at 96.6 proof; not treated as sensory proof for every core bottle."
+      },
+      {
+        "reviewer": "Open Pour editorial",
+        "publisher": "Open Pour",
+        "url": "https://openpourwhiskey.com/reviews/sagamore-double-oak-rye/",
+        "summary": "In a general 96.6-proof review, identifies figs, cocoa and maple-sweet oak; finds clove and black pepper return on the finish, concluding that the second oak is well integrated.",
+        "scope": "General Double Oak expression; exact batch number not published."
+      },
+      {
+        "reviewer": "Phil Dwyer",
+        "publisher": "The Whiskey Wash",
+        "url": "https://thewhiskeywash.com/whiskey-reviews/review-sagamore-spirit-double-oak-straight-rye-2025/",
+        "summary": "Notes rich pecan-like and sweet toasted-cask aroma with more recognizable spicy rye on the palate. Its retailer-style dollar figure is not used for the North Carolina Value benchmark.",
+        "scope": "September 2025 review of standard Double Oak, bottle/batch not independently matched to today's shelf stock."
+      }
+    ],
+    "source_urls": [
+      "https://sagamorespirit.com/spirits/double-oak-rye-whiskey/",
+      "https://abc2.nc.gov/Pricing/ViewItemDetails/149348",
+      "https://shop.sagamorespirit.com/products/sagamore-spirit-double-oak",
+      "https://secretwhiskeysociety.com/sagamore-spirit-rye-double-oak-review/",
+      "https://openpourwhiskey.com/reviews/sagamore-double-oak-rye/",
+      "https://thewhiskeywash.com/whiskey-reviews/review-sagamore-spirit-double-oak-straight-rye-2025/"
+    ],
+    "production_summary": "The producer matures straight rye for four to five years in highly charred new American oak, then transfers it for 18 additional months to low-char, medium-plus toasted wave-stave oak with increased wood-contact area. The official 96.6-proof core label is distinct from a separately identified single batch.",
+    "finishing_information": "Additional 18 months of toasted wave-stave barrel contact after original new-oak maturation; do not state 4–5 years as total age.",
+    "identity_note": null,
+    "history": [
+      "Double Oak is an ongoing core Sagamore release, not simply the exact Breaking Bourbon Batch 9A bottle already catalogued.",
+      "The producer's age description and current $59 distillery pickup offer distinguish the standing product from historical batch reviews and promotional award mentions."
+    ],
+    "comparables": [
+      {
+        "name": "Sagamore Double Oak Batch 9A",
+        "url": "sagamore-rye-double-oak-batch-9a.html",
+        "reason": "Specific reviewed 96.6-proof batch; preserve its distinct evidence and score."
+      },
+      {
+        "name": "Sagamore Small Batch Rye (current)",
+        "url": "sagamore-small-batch-current.html",
+        "reason": "More straightforward house rye with less second-oak influence and a lower price."
+      },
+      {
+        "name": "Sagamore 10 Year Rye",
+        "url": "sagamore-10-year-rye.html",
+        "reason": "Maturation-driven complexity and texture rather than toast-led sweetness."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 44,
+        "current_band": false,
+        "reason": "Strong value relative to the authenticated expression's dated benchmark, if the correct bottle and source are verified."
+      },
+      {
+        "label": "Good buy",
+        "minimum": 44,
+        "maximum_exclusive": 52,
+        "current_band": false,
+        "reason": "A worthwhile alternative to other rye releases when the intended wood and spice balance suits the drinker."
+      },
+      {
+        "label": "Fair / retail benchmark",
+        "minimum": 52,
+        "maximum_exclusive": 68,
+        "current_band": true,
+        "reason": "This band includes the dated price reference, but is not a guarantee of store inventory."
+      },
+      {
+        "label": "Wait and compare",
+        "minimum": 68,
+        "maximum_exclusive": 80,
+        "current_band": false,
+        "reason": "Compare older, more rye-forward or higher-proof alternatives before paying an added premium."
+      },
+      {
+        "label": "Premium not justified",
+        "minimum": 80,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The documented performance and price context do not establish an extra collector or scarcity premium."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "First assess neat: sweetness, rich wood and grain-spice interplay can be tested without dilution."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "A large cube softens wood and proof, but the heavier toast may remain dominant."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Use restrained syrup and aromatic bitters; this is a strong dessert-like Old Fashioned option only if more oak sweetness is desired."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Use a dryer vermouth and reduce cherry garnish sweetness; the finish can overwhelm lighter vermouths."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A highball is viable, but less efficient than a less expensive, unfancied rye if the finish is what warrants the premium."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Standard ongoing Sagamore Double Oak Rye at 96.6 proof, finished 18 months in toasted wave-stave barrels; distinct from the published specific Batch 9A tasting dossier and individual Batch 8AF/8AP reviews.",
+    "image_limitation": "No expression-exact standard current bottle image bytes authenticated for safe embedding; Batch 9A's image is not reused.",
+    "canonical_complete": true,
+    "canonical_format_version": "sagamore-expansion-v1",
+    "assessment_checkpoint": "S004",
+    "editorial": {
+      "id": "sagamore-double-oak-current",
+      "category": "Rye",
+      "proof": 96.6,
+      "age": 4,
+      "age_display": "4–5 years initial maturation + 18 months toasted secondary oak (6+ years total)",
+      "grain": "Blend of straight rye mash bills; producer does not disclose precise grain percentages for this ongoing bottle.",
+      "grain_confidence": "The documented two-part Maryland-style rye family does not establish fixed mash percentages or uniform source for every batch.",
+      "identity": "Standard ongoing Sagamore Double Oak Rye at 96.6 proof, finished 18 months in toasted wave-stave barrels; distinct from the published specific Batch 9A tasting dossier and individual Batch 8AF/8AP reviews.",
+      "short_version": "A sweet, heavily oak-influenced Maryland-style rye, with caramel, toasted coconut and nutty depth; independent reviewers disagree whether the second oak adds satisfying richness or obscures rye spice.",
+      "producer": "Sagamore Spirit, Baltimore, Maryland",
+      "production": "The producer matures straight rye for four to five years in highly charred new American oak, then transfers it for 18 additional months to low-char, medium-plus toasted wave-stave oak with increased wood-contact area. The official 96.6-proof core label is distinct from a separately identified single batch.",
+      "finish": "Additional 18 months of toasted wave-stave barrel contact after original new-oak maturation; do not state 4–5 years as total age.",
+      "history": [
+        "Double Oak is an ongoing core Sagamore release, not simply the exact Breaking Bourbon Batch 9A bottle already catalogued.",
+        "The producer's age description and current $59 distillery pickup offer distinguish the standing product from historical batch reviews and promotional award mentions."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Brad",
+          "publisher": "Secret Whiskey Society",
+          "url": "https://secretwhiskeysociety.com/sagamore-spirit-rye-double-oak-review/",
+          "summary": "In a specifically identified Batch 8AF 2024 bottle, describes caramel and vanilla with prominent charred oak, but criticizes one-dimensional texture and wood that hides rye's natural character.",
+          "scope": "Batch 8AF at 96.6 proof; not treated as sensory proof for every core bottle."
+        },
+        {
+          "reviewer": "Open Pour editorial",
+          "publisher": "Open Pour",
+          "url": "https://openpourwhiskey.com/reviews/sagamore-double-oak-rye/",
+          "summary": "In a general 96.6-proof review, identifies figs, cocoa and maple-sweet oak; finds clove and black pepper return on the finish, concluding that the second oak is well integrated.",
+          "scope": "General Double Oak expression; exact batch number not published."
+        },
+        {
+          "reviewer": "Phil Dwyer",
+          "publisher": "The Whiskey Wash",
+          "url": "https://thewhiskeywash.com/whiskey-reviews/review-sagamore-spirit-double-oak-straight-rye-2025/",
+          "summary": "Notes rich pecan-like and sweet toasted-cask aroma with more recognizable spicy rye on the palate. Its retailer-style dollar figure is not used for the North Carolina Value benchmark.",
+          "scope": "September 2025 review of standard Double Oak, bottle/batch not independently matched to today's shelf stock."
+        }
+      ],
+      "quality": 7,
+      "value": 6.6,
+      "calibration_mode": "evidence_limited_provisional",
+      "quality_rationale": "Provisional very good-category rye with a polarized balance: persistent caramel, walnut and toasted coconut offer real body while multiple reviewers note the toast can crowd out distinctive grain spice. Reconciles disagreement across distinct core batches instead of copying the existing Batch 9A score.",
+      "quality_confidence": "Moderate-to-low for the ongoing core SKU: three independent assessments, some of specific 8-series samples, show important batch and palate divergence.",
+      "evidence_limit": "Critical views legitimately conflict. Batch 8AF and Batch 9A are not automatically equal to an unnumbered bottle; no fresh firsthand tasting or inferred exact mash bill is claimed.",
+      "release_year": null,
+      "comparables": [
+        {
+          "name": "Sagamore Double Oak Batch 9A",
+          "url": "sagamore-rye-double-oak-batch-9a.html",
+          "reason": "Specific reviewed 96.6-proof batch; preserve its distinct evidence and score."
+        },
+        {
+          "name": "Sagamore Small Batch Rye (current)",
+          "url": "sagamore-small-batch-current.html",
+          "reason": "More straightforward house rye with less second-oak influence and a lower price."
+        },
+        {
+          "name": "Sagamore 10 Year Rye",
+          "url": "sagamore-10-year-rye.html",
+          "reason": "Maturation-driven complexity and texture rather than toast-led sweetness."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Producer Double Oak technical sheet",
+          "url": "https://sagamorespirit.com/spirits/double-oak-rye-whiskey/",
+          "role": "Current 96.6-proof release, 4–5-year first aging and 18-month wave-stave finish."
+        },
+        {
+          "title": "NC ABC February 2026 price details",
+          "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/149348",
+          "role": "Product 22-547, 750 mL, 96.6 proof; state price $59.95 effective February 2026."
+        },
+        {
+          "title": "Distillery pickup listing",
+          "url": "https://shop.sagamorespirit.com/products/sagamore-spirit-double-oak",
+          "role": "Separate $59 producer pickup quote; not NC shelf retail."
+        },
+        {
+          "title": "Secret Whiskey Society Batch 8AF 2024 review",
+          "url": "https://secretwhiskeysociety.com/sagamore-spirit-rye-double-oak-review/",
+          "role": "Independent critical counterpoint, exact older batch scope."
+        },
+        {
+          "title": "Open Pour independent general review",
+          "url": "https://openpourwhiskey.com/reviews/sagamore-double-oak-rye/",
+          "role": "Independent favorable general-expression account; precise batch not stated."
+        }
+      ],
+      "pricing": {
+        "amount": 59.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-02-01",
+        "url": "https://abc2.nc.gov/Pricing/ViewItemDetails/149348",
+        "basis": "North Carolina ABC price, code 22-547, 750 mL effective February 1, 2026; check current quarterly and local shelf availability.",
+        "nc_code": "22-547",
+        "nc_status": "NC ABC listed 2026-02-01 at $59.95 / 750mL; no individual store stock verified."
+      },
+      "value_rationale": "At the NC ABC February 2026 $59.95 retail benchmark, six-plus years and an 18-month second-oak finish are substantive upgrades, but enough drinkers find the wood overwhelming that the premium over plain rye is only conditionally worthwhile.",
+      "availability": "Current producer core release; NC ABC 2026-02 listing does not prove local bottle availability on 2026-10-28.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 44,
+          "current_band": false,
+          "reason": "Strong value relative to the authenticated expression's dated benchmark, if the correct bottle and source are verified."
+        },
+        {
+          "label": "Good buy",
+          "minimum": 44,
+          "maximum_exclusive": 52,
+          "current_band": false,
+          "reason": "A worthwhile alternative to other rye releases when the intended wood and spice balance suits the drinker."
+        },
+        {
+          "label": "Fair / retail benchmark",
+          "minimum": 52,
+          "maximum_exclusive": 68,
+          "current_band": true,
+          "reason": "This band includes the dated price reference, but is not a guarantee of store inventory."
+        },
+        {
+          "label": "Wait and compare",
+          "minimum": 68,
+          "maximum_exclusive": 80,
+          "current_band": false,
+          "reason": "Compare older, more rye-forward or higher-proof alternatives before paying an added premium."
+        },
+        {
+          "label": "Premium not justified",
+          "minimum": 80,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The documented performance and price context do not establish an extra collector or scarcity premium."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "First assess neat: sweetness, rich wood and grain-spice interplay can be tested without dilution."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "A large cube softens wood and proof, but the heavier toast may remain dominant."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Use restrained syrup and aromatic bitters; this is a strong dessert-like Old Fashioned option only if more oak sweetness is desired."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Use a dryer vermouth and reduce cherry garnish sweetness; the finish can overwhelm lighter vermouths."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A highball is viable, but less efficient than a less expensive, unfancied rye if the finish is what warrants the premium."
+        }
+      ],
+      "image_limitation": "No expression-exact standard current bottle image bytes authenticated for safe embedding; Batch 9A's image is not reused."
+    }
+  },
+  {
+    "slug": "sagamore-manhattan-finish-2024",
+    "filename": "sagamore-manhattan-finish-2024.html",
+    "name": "Sagamore Manhattan Finish Rye (2024 second release)",
+    "family": "Sagamore Spirit",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Sagamore Spirit, Baltimore, Maryland",
+    "proof": 103,
+    "abv": 51.5,
+    "age": "Four-year rye + at least 20 months separately in cocktail casks",
+    "age_display": "Four-year rye + at least 20 months separately in cocktail casks",
+    "age_sort_years": 4,
+    "mash_bill_display": "Straight rye base; precise high/low rye mash percentages not authenticated for the March 2024 release.",
+    "mash_bill_confidence": "Sagamore's release identifies four-year straight rye but not exact recipe percentages.",
+    "quality": 7.2,
+    "quality_score": 7.2,
+    "value": 6.1,
+    "value_score": 6.1,
+    "overall": 6.627216610312357,
+    "overall_score": 6.627216610312357,
+    "quality_calibration_mode": "evidence_limited_provisional",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-28",
+      "limitations": "The Distiller critic is less impressed by finish integration than The Daily Pour. Preserve this disagreement; no 2025 30-month review is imported.",
+      "anchor_references": {
+        "worst": [
+          "hudson-maple-cask-rye-2014-batch-1-bottle-2338"
+        ],
+        "average": [
+          "old-overholt-bottled-in-bond",
+          "high-west-double-rye-current"
+        ],
+        "best": [
+          "redemption-ancients-18-year-rye-2017"
+        ]
+      },
+      "native_anchor_status": "provisional; unresolved floor retained"
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "Very good category-relative rye on identity-specific but divergent published tasting. The finishing scheme brings distinctive cherry and herbal notes; one critic finds tannic restraint where another finds cohesive cocktail character. Its novelty is not automatically proof of superior integration.",
+    "quality_confidence": "Moderate for exact 2024 release identity, limited by two divergent appraisals and one disclosed producer-provided review sample.",
+    "quality_na_reason": null,
+    "value_rationale": "The documented November 2024 $79.95/750 mL price buys an unusually elaborate finishing method and distinctive rye-cocktail notes. The mixed critical reception and much cheaper excellent rye alternatives keep the drinking-value verdict moderate rather than exceptional.",
+    "value_confidence": "Dated price context and exact sensory scope",
+    "value_na_reason": null,
+    "price": 79.95,
+    "price_basis": "Historical November 2024 NC ABC quarterly retail price, $79.95 / 750 mL for 103-proof Manhattan Finish; historical 2024 edition context, not current shelf price.",
+    "price_url": "https://www.abc.nc.gov/pricing/november-2024-quarterly-price-list/open",
+    "price_period": "2024-11-01",
+    "price_effective": null,
+    "price_checked_date": "2026-10-28",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": 79.95,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": 79.95,
+    "nc_code": "18-490",
+    "nc_listing_status": "Matched NC ABC 2024 price listing, not evidence of 2026 local inventory or 2025 version.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2024,
+    "release_scope": "The second Sagamore Manhattan Finish release, announced March 26, 2024; 103 proof and at least 20 months in separately used vermouth, bitters and cherry-brandy barrels. Distinct from 2020 and the 2025 30-month version.",
+    "availability_note": "Limited 2024 release; dated 2024 list cannot establish present local stock and must not be used as a 2025 edition quote.",
+    "research_date": "2026-10-28",
+    "score_date": "2026-10-28",
+    "review_sources": [
+      "https://distiller.com/spirits/sagamore-spirit-manhattan-finish-rye-whiskey",
+      "https://thedailypour.com/spirit/sagamore-spirit-manhattan-finish-rye-whiskey-2024/"
+    ],
+    "review_publishers": [
+      "Distiller",
+      "The Daily Pour"
+    ],
+    "critical_source_count": 2,
+    "review_evidence": [
+      {
+        "reviewer": "Stephanie Moreno",
+        "publisher": "Distiller",
+        "url": "https://distiller.com/spirits/sagamore-spirit-manhattan-finish-rye-whiskey",
+        "summary": "Finds candied vanilla, cherry and orange on the nose but a more peppery, tight and somewhat tannic palate; vermouth/cherry influence is restrained against assertive grain spice.",
+        "scope": "Distiller expert notes explicitly associated with the March 2024 second release."
+      },
+      {
+        "reviewer": "David Morrow",
+        "publisher": "The Daily Pour",
+        "url": "https://thedailypour.com/spirit/sagamore-spirit-manhattan-finish-rye-whiskey-2024/",
+        "summary": "Finds a more favorable balance of cherry, herbaceous vermouth and spice and reviews this specifically identified 2024 release. Publisher discloses a producer-provided sample.",
+        "scope": "Exact March 2024 103-proof release; producer-provided sample disclosed."
+      }
+    ],
+    "source_urls": [
+      "https://www.prweb.com/releases/sagamore-spirit-launches-second-release-of-manhattan-finish-rye-whiskey-302098547.html",
+      "https://distiller.com/spirits/sagamore-spirit-manhattan-finish-rye-whiskey",
+      "https://thedailypour.com/spirit/sagamore-spirit-manhattan-finish-rye-whiskey-2024/",
+      "https://www.abc.nc.gov/pricing/november-2024-quarterly-price-list/open"
+    ],
+    "production_summary": "Sagamore used four-year-old straight rye and divided finishing among separate vermouth, bitters, and cherry-brandy barrels for at least 20 additional months before reblending and bottling at 103 proof.",
+    "finishing_information": "At least 20 months in separate vermouth, bitters and cherry-brandy barrels; the 2025 release's 30-month claim does not apply.",
+    "identity_note": null,
+    "history": [
+      "The inaugural Manhattan Finish arrived as a 2020 Distiller's Select; the producer announced a second separately dated release on March 26, 2024.",
+      "A 2025 reserve edition used 30 months of finishing and deserves its own identity. Packaging and a generic Manhattan Finish review should not erase that distinction."
+    ],
+    "comparables": [
+      {
+        "name": "Sagamore Manhattan Finish 2020",
+        "url": "sagamore-manhattan-finish-2020.html",
+        "reason": "Historical first edition, not identical to the 2024 20-month release."
+      },
+      {
+        "name": "Sagamore Small Batch Rye (current)",
+        "url": "sagamore-small-batch-current.html",
+        "reason": "Clean rye and cocktail flexibility without barrel-steeped cocktail flavor."
+      },
+      {
+        "name": "Sagamore Tequila Finish 2021",
+        "url": "sagamore-tequila-finish-2021.html",
+        "reason": "Another distinctly finished historical rye, with different finishing influence."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 58,
+        "current_band": false,
+        "reason": "Strong value relative to the authenticated expression's dated benchmark, if the correct bottle and source are verified."
+      },
+      {
+        "label": "Good buy",
+        "minimum": 58,
+        "maximum_exclusive": 70,
+        "current_band": false,
+        "reason": "A worthwhile alternative to other rye releases when the intended wood and spice balance suits the drinker."
+      },
+      {
+        "label": "Fair / retail benchmark",
+        "minimum": 70,
+        "maximum_exclusive": 88,
+        "current_band": true,
+        "reason": "This band includes the dated price reference, but is not a guarantee of store inventory."
+      },
+      {
+        "label": "Wait and compare",
+        "minimum": 88,
+        "maximum_exclusive": 105,
+        "current_band": false,
+        "reason": "Compare older, more rye-forward or higher-proof alternatives before paying an added premium."
+      },
+      {
+        "label": "Premium not justified",
+        "minimum": 105,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "The documented performance and price context do not establish an extra collector or scarcity premium."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Best first enjoyed neat to understand the actual cask-supplied bitters and cherry-brandy flavors rather than masking them with cocktail ingredients."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One large cube tempers rye pepper and dryness but may diminish nuanced cherry/brandy finish."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Go easy on sweetener: this rye already brings cherry-brandy and bitters cask impressions."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Try neat first, then a reduced-vermouth Manhattan; a full conventional cocktail can duplicate the finish components and become muddled."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A highball is viable, but less efficient than a less expensive, unfancied rye if the finish is what warrants the premium."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "The second Sagamore Manhattan Finish release, announced March 26, 2024; 103 proof and at least 20 months in separately used vermouth, bitters and cherry-brandy barrels. Distinct from 2020 and the 2025 30-month version.",
+    "image_limitation": "No image bytes proven to represent the March 2024 second release; 2020 or 2025 marketing art is not substituted.",
+    "canonical_complete": true,
+    "canonical_format_version": "sagamore-expansion-v1",
+    "assessment_checkpoint": "S004",
+    "editorial": {
+      "id": "sagamore-manhattan-finish-2024",
+      "category": "Rye",
+      "proof": 103,
+      "age": 4,
+      "age_display": "Four-year rye + at least 20 months separately in cocktail casks",
+      "grain": "Straight rye base; precise high/low rye mash percentages not authenticated for the March 2024 release.",
+      "grain_confidence": "Sagamore's release identifies four-year straight rye but not exact recipe percentages.",
+      "identity": "The second Sagamore Manhattan Finish release, announced March 26, 2024; 103 proof and at least 20 months in separately used vermouth, bitters and cherry-brandy barrels. Distinct from 2020 and the 2025 30-month version.",
+      "short_version": "A 103-proof rye reinterpreting a Manhattan cocktail through three finishing cask types: herbal, cherry-tinged and baking-spicy, though critics disagree on how generously cocktail-like sweetness survives its drying rye finish.",
+      "producer": "Sagamore Spirit, Baltimore, Maryland",
+      "production": "Sagamore used four-year-old straight rye and divided finishing among separate vermouth, bitters, and cherry-brandy barrels for at least 20 additional months before reblending and bottling at 103 proof.",
+      "finish": "At least 20 months in separate vermouth, bitters and cherry-brandy barrels; the 2025 release's 30-month claim does not apply.",
+      "history": [
+        "The inaugural Manhattan Finish arrived as a 2020 Distiller's Select; the producer announced a second separately dated release on March 26, 2024.",
+        "A 2025 reserve edition used 30 months of finishing and deserves its own identity. Packaging and a generic Manhattan Finish review should not erase that distinction."
+      ],
+      "reviews": [
+        {
+          "reviewer": "Stephanie Moreno",
+          "publisher": "Distiller",
+          "url": "https://distiller.com/spirits/sagamore-spirit-manhattan-finish-rye-whiskey",
+          "summary": "Finds candied vanilla, cherry and orange on the nose but a more peppery, tight and somewhat tannic palate; vermouth/cherry influence is restrained against assertive grain spice.",
+          "scope": "Distiller expert notes explicitly associated with the March 2024 second release."
+        },
+        {
+          "reviewer": "David Morrow",
+          "publisher": "The Daily Pour",
+          "url": "https://thedailypour.com/spirit/sagamore-spirit-manhattan-finish-rye-whiskey-2024/",
+          "summary": "Finds a more favorable balance of cherry, herbaceous vermouth and spice and reviews this specifically identified 2024 release. Publisher discloses a producer-provided sample.",
+          "scope": "Exact March 2024 103-proof release; producer-provided sample disclosed."
+        }
+      ],
+      "quality": 7.2,
+      "value": 6.1,
+      "calibration_mode": "evidence_limited_provisional",
+      "quality_rationale": "Very good category-relative rye on identity-specific but divergent published tasting. The finishing scheme brings distinctive cherry and herbal notes; one critic finds tannic restraint where another finds cohesive cocktail character. Its novelty is not automatically proof of superior integration.",
+      "quality_confidence": "Moderate for exact 2024 release identity, limited by two divergent appraisals and one disclosed producer-provided review sample.",
+      "evidence_limit": "The Distiller critic is less impressed by finish integration than The Daily Pour. Preserve this disagreement; no 2025 30-month review is imported.",
+      "release_year": 2024,
+      "comparables": [
+        {
+          "name": "Sagamore Manhattan Finish 2020",
+          "url": "sagamore-manhattan-finish-2020.html",
+          "reason": "Historical first edition, not identical to the 2024 20-month release."
+        },
+        {
+          "name": "Sagamore Small Batch Rye (current)",
+          "url": "sagamore-small-batch-current.html",
+          "reason": "Clean rye and cocktail flexibility without barrel-steeped cocktail flavor."
+        },
+        {
+          "name": "Sagamore Tequila Finish 2021",
+          "url": "sagamore-tequila-finish-2021.html",
+          "reason": "Another distinctly finished historical rye, with different finishing influence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "March 2024 company announcement",
+          "url": "https://www.prweb.com/releases/sagamore-spirit-launches-second-release-of-manhattan-finish-rye-whiskey-302098547.html",
+          "role": "Exact second release date, 103 proof, 4-year base and 20-month minimum finishing."
+        },
+        {
+          "title": "Distiller exact 2024 expert review",
+          "url": "https://distiller.com/spirits/sagamore-spirit-manhattan-finish-rye-whiskey",
+          "role": "Expert sensory and $79.99 2024 SRP; not 2025."
+        },
+        {
+          "title": "The Daily Pour 2024 tasting",
+          "url": "https://thedailypour.com/spirit/sagamore-spirit-manhattan-finish-rye-whiskey-2024/",
+          "role": "Second independent critic; discloses provided sample."
+        },
+        {
+          "title": "NC ABC November 2024 quarterly list",
+          "url": "https://www.abc.nc.gov/pricing/november-2024-quarterly-price-list/open",
+          "role": "Sagamore Rye Manhattan Finish NC item 18-490, 103 proof 750 mL, $79.95 in November 2024; dated historical benchmark."
+        }
+      ],
+      "pricing": {
+        "amount": 79.95,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2024-11-01",
+        "url": "https://www.abc.nc.gov/pricing/november-2024-quarterly-price-list/open",
+        "basis": "Historical November 2024 NC ABC quarterly retail price, $79.95 / 750 mL for 103-proof Manhattan Finish; historical 2024 edition context, not current shelf price.",
+        "nc_code": "18-490",
+        "nc_status": "Matched NC ABC 2024 price listing, not evidence of 2026 local inventory or 2025 version."
+      },
+      "value_rationale": "The documented November 2024 $79.95/750 mL price buys an unusually elaborate finishing method and distinctive rye-cocktail notes. The mixed critical reception and much cheaper excellent rye alternatives keep the drinking-value verdict moderate rather than exceptional.",
+      "availability": "Limited 2024 release; dated 2024 list cannot establish present local stock and must not be used as a 2025 edition quote.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 58,
+          "current_band": false,
+          "reason": "Strong value relative to the authenticated expression's dated benchmark, if the correct bottle and source are verified."
+        },
+        {
+          "label": "Good buy",
+          "minimum": 58,
+          "maximum_exclusive": 70,
+          "current_band": false,
+          "reason": "A worthwhile alternative to other rye releases when the intended wood and spice balance suits the drinker."
+        },
+        {
+          "label": "Fair / retail benchmark",
+          "minimum": 70,
+          "maximum_exclusive": 88,
+          "current_band": true,
+          "reason": "This band includes the dated price reference, but is not a guarantee of store inventory."
+        },
+        {
+          "label": "Wait and compare",
+          "minimum": 88,
+          "maximum_exclusive": 105,
+          "current_band": false,
+          "reason": "Compare older, more rye-forward or higher-proof alternatives before paying an added premium."
+        },
+        {
+          "label": "Premium not justified",
+          "minimum": 105,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "The documented performance and price context do not establish an extra collector or scarcity premium."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Best first enjoyed neat to understand the actual cask-supplied bitters and cherry-brandy flavors rather than masking them with cocktail ingredients."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One large cube tempers rye pepper and dryness but may diminish nuanced cherry/brandy finish."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Go easy on sweetener: this rye already brings cherry-brandy and bitters cask impressions."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Try neat first, then a reduced-vermouth Manhattan; a full conventional cocktail can duplicate the finish components and become muddled."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A highball is viable, but less efficient than a less expensive, unfancied rye if the finish is what warrants the premium."
+        }
+      ],
+      "image_limitation": "No image bytes proven to represent the March 2024 second release; 2020 or 2025 marketing art is not substituted."
+    }
+  },
+  {
+    "slug": "sagamore-manhattan-finish-2025",
+    "filename": "sagamore-manhattan-finish-2025.html",
+    "name": "Sagamore Manhattan Finish Rye (2025 30-month release)",
+    "family": "Sagamore Spirit",
+    "portfolio": null,
+    "category": "Rye",
+    "subcategory": "Rye",
+    "producer": "Sagamore Spirit, Baltimore, Maryland",
+    "proof": 103,
+    "abv": 51.5,
+    "age": "Four-year straight rye + 30 months in finishing casks (producer 2025 release)",
+    "age_display": "Four-year straight rye + 30 months in finishing casks (producer 2025 release)",
+    "age_sort_years": 4,
+    "mash_bill_display": "Four-year-old straight rye whiskey; exact mash bill percentages for the 2025 release not publicly confirmed.",
+    "mash_bill_confidence": "Producer identifies the age of the base whiskey, finishing vessels and bottling proof; precise recipe ratios remain undisclosed.",
+    "quality": null,
+    "quality_score": null,
+    "value": null,
+    "value_score": null,
+    "overall": null,
+    "overall_score": null,
+    "quality_calibration_mode": "unscored",
+    "quality_calibration_details": {
+      "underlying_mode": "native_anchored",
+      "reviewed_date": "2026-10-28",
+      "limitations": "Herbal, cherry, honey and vanilla notes are producer descriptors; do not present them as a reviewer consensus or convert 2024 critical scores to this release."
+    },
+    "quality_calibration_basis": "The established project hierarchy applies to the exact expression category.",
+    "quality_rationale": "N/A: producer palate copy is not independent critical review, and the existing 2024 Manhattan expert tastings assess a materially different 20-month finish, not this 30-month 2025 bottle.",
+    "quality_confidence": "Unscored: no authenticated 2025-release independent first-person critic sampling matched to the 30-month revision.",
+    "quality_na_reason": "A distinct liquid process and 103 proof are confirmed, but an exact-edition independent sensory record is not securely available.",
+    "value_rationale": "N/A: 2025 release-specific independent Quality evidence and a defensible same-edition 750mL price are both missing.",
+    "value_confidence": "Unscored",
+    "value_na_reason": "Insufficient matched sensory evidence and/or defensible price context.",
+    "price": null,
+    "price_basis": "No securely matched $/750mL price for the exact 2025 30-month edition; 2024 NC ABC or MSRP listings are not transferred.",
+    "price_url": "https://sagamorespirit.com/spirits/manhattan-finish/",
+    "price_period": "2026-10-28",
+    "price_effective": null,
+    "price_checked_date": "2026-10-28",
+    "price_currency": "USD",
+    "bottle_size_ml": 750,
+    "bottle_price": null,
+    "price_normalized_to_ml": 750,
+    "nc_abc_price": null,
+    "nc_code": null,
+    "nc_listing_status": "2025 exact-edition price and current NC ABC availability not verified.",
+    "current_or_historical": "historical",
+    "period_filter": "historical",
+    "release_year": 2025,
+    "release_scope": "Sagamore Manhattan Finish 2025 limited release, 103 proof, finished 30 months in separate vermouth, bitters and cherry-brandy barrels; longer than the March 2024 minimum-20-month batch.",
+    "availability_note": "Distillery/MD limited 2025 listing is producer information, not evidence of 2026 NC ABC shelf stock.",
+    "research_date": "2026-10-28",
+    "score_date": "2026-10-28",
+    "review_sources": [],
+    "review_publishers": [],
+    "critical_source_count": 0,
+    "review_evidence": [],
+    "source_urls": [
+      "https://sagamorespirit.com/spirits/manhattan-finish/",
+      "https://www.prweb.com/releases/sagamore-spirit-launches-second-release-of-manhattan-finish-rye-whiskey-302098547.html",
+      "https://distiller.com/spirits/sagamore-spirit-manhattan-finish-rye-whiskey"
+    ],
+    "production_summary": "Sagamore's 2025 limited release begins with four-year-old straight rye and separately finishes it for 30 months in vermouth, bitters and cherry-brandy barrels before reblending; official listing identifies 103 proof and distribution around the Maryland distillery.",
+    "finishing_information": "30-month separate vermouth, bitters and cherry-brandy finishing documented for 2025; do not substitute 2024's 20 months.",
+    "identity_note": null,
+    "history": [
+      "The 2020 original and 2024 second release are separately documented; the 2025 edition explicitly lengthens the three-barrel finishing period.",
+      "The producer currently calls this a limited 2025 release. A generic statewide Manhattan listing without a confirmed 2025 bottle identifier cannot establish this edition's MSRP or shelf availability."
+    ],
+    "comparables": [
+      {
+        "name": "Sagamore Manhattan Finish 2024",
+        "url": "sagamore-manhattan-finish-2024.html",
+        "reason": "The edition this 30-month 2025 release supersedes; minimum 20-month finish in 2024."
+      },
+      {
+        "name": "Sagamore Manhattan Finish 2020",
+        "url": "sagamore-manhattan-finish-2020.html",
+        "reason": "Original limited distillery-series release, not a verified matching formulation."
+      },
+      {
+        "name": "Sagamore Small Batch Rye (current)",
+        "url": "sagamore-small-batch-current.html",
+        "reason": "Widely distributed 93-proof un-finished house rye for a clearer price/sensory baseline."
+      }
+    ],
+    "buy_price_thresholds": [
+      {
+        "label": "Strong buy",
+        "minimum": 0,
+        "maximum_exclusive": 60,
+        "current_band": false,
+        "reason": "Conditional bargain only if bottle is authenticated; no supported 2025 retail benchmark exists."
+      },
+      {
+        "label": "Good buy",
+        "minimum": 60,
+        "maximum_exclusive": 75,
+        "current_band": false,
+        "reason": "Consider only if the exact year and 30-month finish can be confirmed; no release-specific appraisal is claimed."
+      },
+      {
+        "label": "Fair / retail benchmark",
+        "minimum": 75,
+        "maximum_exclusive": 95,
+        "current_band": true,
+        "reason": "Illustrative decision interval, NOT a verified 2025 price or an assertion that $75–95 is fair market value."
+      },
+      {
+        "label": "Wait and compare",
+        "minimum": 95,
+        "maximum_exclusive": 110,
+        "current_band": false,
+        "reason": "A price in this interval merits comparison with available higher-aged ryes because sensory evidence for this exact bottle is sparse."
+      },
+      {
+        "label": "Premium not justified",
+        "minimum": 110,
+        "maximum_exclusive": null,
+        "current_band": false,
+        "reason": "Avoid collector premiums without a matched tasting and historical invoice; rarity is not taste."
+      }
+    ],
+    "serving_recommendations": [
+      {
+        "name": "Neat",
+        "recommendation": "Neat is the best way to learn if extended cask contact improves the old release; the 2025 version is not independently appraised."
+      },
+      {
+        "name": "Rocks",
+        "recommendation": "One cube can soften 103-proof spice, but the precise 2025 textural result is unverified."
+      },
+      {
+        "name": "Old Fashioned",
+        "recommendation": "Very cautious sugar addition avoids doubling the producer-described cherry and bitters cues."
+      },
+      {
+        "name": "Manhattan",
+        "recommendation": "Start with half the usual vermouth and bitters, then adjust; a finished-for-Manhattan rye can be overwhelmed by a fully flavored cocktail."
+      },
+      {
+        "name": "Highball",
+        "recommendation": "A highball is viable, but less efficient than a less expensive, unfancied rye if the finish is what warrants the premium."
+      }
+    ],
+    "review_video_sources": [],
+    "image_credits": [],
+    "exact_bottle_image_status": "unavailable",
+    "exact_bottle_image_scope": "Sagamore Manhattan Finish 2025 limited release, 103 proof, finished 30 months in separate vermouth, bitters and cherry-brandy barrels; longer than the March 2024 minimum-20-month batch.",
+    "image_limitation": "No bottle image authenticated specifically to the 2025 30-month label; no other year's label image is borrowed.",
+    "canonical_complete": true,
+    "canonical_format_version": "sagamore-expansion-v1",
+    "assessment_checkpoint": "S004",
+    "editorial": {
+      "id": "sagamore-manhattan-finish-2025",
+      "category": "Rye",
+      "proof": 103,
+      "age": 4,
+      "age_display": "Four-year straight rye + 30 months in finishing casks (producer 2025 release)",
+      "grain": "Four-year-old straight rye whiskey; exact mash bill percentages for the 2025 release not publicly confirmed.",
+      "grain_confidence": "Producer identifies the age of the base whiskey, finishing vessels and bottling proof; precise recipe ratios remain undisclosed.",
+      "identity": "Sagamore Manhattan Finish 2025 limited release, 103 proof, finished 30 months in separate vermouth, bitters and cherry-brandy barrels; longer than the March 2024 minimum-20-month batch.",
+      "short_version": "A clearly distinct 2025, 30-month Manhattan-cask-finished rye with producer-described spice, herbs and dark cherry, but no authenticated release-specific independent critic tasting or 2025-edition retail quote; scores remain N/A.",
+      "producer": "Sagamore Spirit, Baltimore, Maryland",
+      "production": "Sagamore's 2025 limited release begins with four-year-old straight rye and separately finishes it for 30 months in vermouth, bitters and cherry-brandy barrels before reblending; official listing identifies 103 proof and distribution around the Maryland distillery.",
+      "finish": "30-month separate vermouth, bitters and cherry-brandy finishing documented for 2025; do not substitute 2024's 20 months.",
+      "history": [
+        "The 2020 original and 2024 second release are separately documented; the 2025 edition explicitly lengthens the three-barrel finishing period.",
+        "The producer currently calls this a limited 2025 release. A generic statewide Manhattan listing without a confirmed 2025 bottle identifier cannot establish this edition's MSRP or shelf availability."
+      ],
+      "reviews": [],
+      "quality": null,
+      "value": null,
+      "calibration_mode": "unscored",
+      "quality_rationale": "N/A: producer palate copy is not independent critical review, and the existing 2024 Manhattan expert tastings assess a materially different 20-month finish, not this 30-month 2025 bottle.",
+      "quality_confidence": "Unscored: no authenticated 2025-release independent first-person critic sampling matched to the 30-month revision.",
+      "na_reason": "A distinct liquid process and 103 proof are confirmed, but an exact-edition independent sensory record is not securely available.",
+      "evidence_limit": "Herbal, cherry, honey and vanilla notes are producer descriptors; do not present them as a reviewer consensus or convert 2024 critical scores to this release.",
+      "release_year": 2025,
+      "comparables": [
+        {
+          "name": "Sagamore Manhattan Finish 2024",
+          "url": "sagamore-manhattan-finish-2024.html",
+          "reason": "The edition this 30-month 2025 release supersedes; minimum 20-month finish in 2024."
+        },
+        {
+          "name": "Sagamore Manhattan Finish 2020",
+          "url": "sagamore-manhattan-finish-2020.html",
+          "reason": "Original limited distillery-series release, not a verified matching formulation."
+        },
+        {
+          "name": "Sagamore Small Batch Rye (current)",
+          "url": "sagamore-small-batch-current.html",
+          "reason": "Widely distributed 93-proof un-finished house rye for a clearer price/sensory baseline."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sagamore official 2025 Manhattan Finish",
+          "url": "https://sagamorespirit.com/spirits/manhattan-finish/",
+          "role": "Exact 2025 release, 103 proof, 30-month finishing, distillery/Maryland distribution and producer tasting notes."
+        },
+        {
+          "title": "Sagamore official March 2024 second-release announcement",
+          "url": "https://www.prweb.com/releases/sagamore-spirit-launches-second-release-of-manhattan-finish-rye-whiskey-302098547.html",
+          "role": "Demonstrates 2024 version uses only minimum 20 months finishing and is a separate liquid iteration."
+        },
+        {
+          "title": "Distiller 2024 edition review (not 2025 evidence)",
+          "url": "https://distiller.com/spirits/sagamore-spirit-manhattan-finish-rye-whiskey",
+          "role": "Shows why an expert rating for 2024 must not be transplanted to 2025."
+        }
+      ],
+      "pricing": {
+        "amount": null,
+        "currency": "USD",
+        "size_ml": 750,
+        "date": "2026-10-28",
+        "url": "https://sagamorespirit.com/spirits/manhattan-finish/",
+        "basis": "No securely matched $/750mL price for the exact 2025 30-month edition; 2024 NC ABC or MSRP listings are not transferred.",
+        "nc_status": "2025 exact-edition price and current NC ABC availability not verified."
+      },
+      "value_rationale": "N/A: 2025 release-specific independent Quality evidence and a defensible same-edition 750mL price are both missing.",
+      "availability": "Distillery/MD limited 2025 listing is producer information, not evidence of 2026 NC ABC shelf stock.",
+      "bands": [
+        {
+          "label": "Strong buy",
+          "minimum": 0,
+          "maximum_exclusive": 60,
+          "current_band": false,
+          "reason": "Conditional bargain only if bottle is authenticated; no supported 2025 retail benchmark exists."
+        },
+        {
+          "label": "Good buy",
+          "minimum": 60,
+          "maximum_exclusive": 75,
+          "current_band": false,
+          "reason": "Consider only if the exact year and 30-month finish can be confirmed; no release-specific appraisal is claimed."
+        },
+        {
+          "label": "Fair / retail benchmark",
+          "minimum": 75,
+          "maximum_exclusive": 95,
+          "current_band": true,
+          "reason": "Illustrative decision interval, NOT a verified 2025 price or an assertion that $75–95 is fair market value."
+        },
+        {
+          "label": "Wait and compare",
+          "minimum": 95,
+          "maximum_exclusive": 110,
+          "current_band": false,
+          "reason": "A price in this interval merits comparison with available higher-aged ryes because sensory evidence for this exact bottle is sparse."
+        },
+        {
+          "label": "Premium not justified",
+          "minimum": 110,
+          "maximum_exclusive": null,
+          "current_band": false,
+          "reason": "Avoid collector premiums without a matched tasting and historical invoice; rarity is not taste."
+        }
+      ],
+      "serving": [
+        {
+          "name": "Neat",
+          "recommendation": "Neat is the best way to learn if extended cask contact improves the old release; the 2025 version is not independently appraised."
+        },
+        {
+          "name": "Rocks",
+          "recommendation": "One cube can soften 103-proof spice, but the precise 2025 textural result is unverified."
+        },
+        {
+          "name": "Old Fashioned",
+          "recommendation": "Very cautious sugar addition avoids doubling the producer-described cherry and bitters cues."
+        },
+        {
+          "name": "Manhattan",
+          "recommendation": "Start with half the usual vermouth and bitters, then adjust; a finished-for-Manhattan rye can be overwhelmed by a fully flavored cocktail."
+        },
+        {
+          "name": "Highball",
+          "recommendation": "A highball is viable, but less efficient than a less expensive, unfancied rye if the finish is what warrants the premium."
+        }
+      ],
+      "image_limitation": "No bottle image authenticated specifically to the 2025 30-month label; no other year's label image is borrowed."
+    }
   }
 ]

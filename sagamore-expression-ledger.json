@@ -14,8 +14,8 @@
   "source_index": "https://sagamorespirit.com/spirits/",
   "counts": {
     "existing_published": 15,
-    "accepted_published": 6,
-    "pending_research": 15,
+    "accepted_published": 9,
+    "pending_research": 12,
     "excluded_pending_liquid_distinction": 3,
     "total": 39
   },
@@ -171,11 +171,13 @@
       "order": 17,
       "id": "sagamore-double-oak-current",
       "expression": "Double Oak Rye, standard current 96.6 proof",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-double-oak-current.html",
       "producer_source": "https://sagamorespirit.com/spirits/double-oak-rye-whiskey/",
       "identity_guard": "Existing Batch 9A is not the entire ongoing release; audit actual age and 18-month finish",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-28",
+      "validation": "Full static 1059 dossiers; Chromium 705 responsive views; zero failures"
     },
     {
       "order": 18,
@@ -241,21 +243,25 @@
       "order": 23,
       "id": "sagamore-manhattan-finish-2024",
       "expression": "Manhattan Finish 2024 reserve release",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-manhattan-finish-2024.html",
       "producer_source": "https://www.prweb.com/releases/sagamore-spirit-launches-second-release-of-manhattan-finish-rye-whiskey-302098547.html",
       "identity_guard": "103 proof; separate release after 2020; minimum 20-month finish",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-28",
+      "validation": "Full static 1059 dossiers; Chromium 705 responsive views; zero failures"
     },
     {
       "order": 24,
       "id": "sagamore-manhattan-finish-2025",
       "expression": "Manhattan Finish 2025 reserve release",
-      "decision": "pending_research",
+      "decision": "accepted_published",
       "filename": "sagamore-manhattan-finish-2025.html",
       "producer_source": "https://sagamorespirit.com/spirits/manhattan-finish/",
       "identity_guard": "103 proof; distinct 30-month finish documented, do not assume 2020 equivalence",
-      "independent_evidence_status": "needs_exact_release_check"
+      "independent_evidence_status": "needs_exact_release_check",
+      "accepted_date": "2026-10-28",
+      "validation": "Full static 1059 dossiers; Chromium 705 responsive views; zero failures"
     },
     {
       "order": 25,
@@ -405,7 +411,7 @@
       "identity_guard": "A flavored amaro, not a whiskey expression; exclude from whiskey dossier expansion"
     }
   ],
-  "next_action": "Proceed with S004 in bounded independently sourced expressions; prioritize current Double Oak 96.6, 2024/2025 Manhattan finish and named cask-finish releases. Preserve 15 baseline and six accepted Sagamore files. Do not relabel 2023 six-year BiB as independently scored without matched evidence.",
+  "next_action": "S005: verify Rum Cask, Barleywine, Ale, Rye Ale, Vintner and Moscatel finish identities with dated independent evidence; preserve original 15 and nine newly accepted Sagamore pages. The 2025 Manhattan remains unscored until edition-matched review is authenticated.",
   "updated_at": "2026-10-28",
-  "last_accepted_checkpoint": "S003"
+  "last_accepted_checkpoint": "S004"
 }

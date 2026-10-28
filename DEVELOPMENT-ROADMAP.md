@@ -1,6 +1,6 @@
 # Old Oak Omnibus — Authoritative Development Roadmap
 
-**Roadmap revision:** R006
+**Roadmap revision:** R007
 **Updated:** 2026-10-28
 **Project:** Old Oak Omnibus / Whiskey Project  
 **Production site:** https://diabolicdonut.github.io/Whiskey-Project/  
@@ -96,6 +96,8 @@ A field-specific metric such as `231/238` means **North American candidate dispo
 
 A new AI worker must not rewrite prior accepted articles, inflate completion by converting partial work to accepted without evidence, or silently edit only `site-progress.json` while leaving this document stale.
 
+**S004 accepted publication (2026-10-28):** Three canonical expression-specific articles; standard Double Oak is not Batch 9A, 2024 Manhattan is not 2025 Manhattan, and unsupported 2025 Quality/Value remain N/A. Catalogue **1,059** and Sagamore **27/39** resolved, 12 pending; NA-037 and 825 original dossiers preserved. Roadmap **41/100** until full Sagamore gate acceptance.
+
 **S003 accepted publication (2026-10-28):** Three additional Sagamore expressions added: a conservatively unscored 2023 six-year bonded edition, the independently reviewed 2023 111.4-proof Reserve 8-year, and the ongoing 93-proof Maryland Small Batch core. This brings the catalogue to **1,056** and Sagamore to **21 published** (15 existing + 6 new), with **24/39** discovery dispositions resolved and 15 still pending. **41%** overall strict accepted gates until the whole Sagamore gate is validated complete.
 
 **S002 accepted publication (2026-10-27):** Three source-matched Sagamore dossiers added without altering the previously accepted 1,050; 15 preexisting and 3 newly published (18 total Sagamore articles), 3 exclusions/holds and 18 pending. Active disposition display **21/39**; no entire Sagamore gate acceptance yet. Validation: full structural sweep of 1,053 dossiers and focused Chromium 687 page/viewport renders.
@@ -110,6 +112,7 @@ Do not count partial gate weight toward accepted completion, and do not change w
 
 ## 9. Revision history
 
+- **2026-10-28 — R007:** Sagamore S004 accepted current 96.6-proof Double Oak and distinct 2024 20-month and 2025 30-month Manhattan Finish dossiers. The latter is deliberately unscored pending matching independent criticism. Full static and 705 Chromium responsive cases passed; original 825 preserved. **1,059 dossiers**, **24 Sagamore published**, **27/39** dispositions (12 pending); strict vision completion **41%**, Sagamore gate partial.
 - **2026-10-28 — R006:** Sagamore S003 accepted three further dossiers (2023 bonded 6-year unscored, 2023 Reserve 8-year, current Maryland Small Batch) without changing 825 baseline or NA-037. Now **1,056 dossiers**, **24/39** Sagamore dispositions (15 pending), full static plus Chromium 696 responsive views zero failures; Sagamore gate remains partial and strict overall **41%**.
 - **2026-10-27 — R005:** Sagamore S002 published three independently researched editions (2024 7-year BiB, 2026 8-year BiB, 2024 9-year Rye), reaching **1,053 published dossiers**. Preserved accepted NA-037 and initial 825, full static and 390/768/1440 Chromium acceptance zero failures; Sagamore 21/39 dispositions (18 pending). The whole Sagamore family gate stays partial and overall strict roadmap completion **41%**.
 - **2026-10-27 — R004:** Show Sagamore's 18/39 discovery dispositions as the homepage's active secondary counter instead of completed North American 238/238. Preserve overall **41%** accepted points, 1,050 published dossiers and NA-037; validate active ledger parity.
