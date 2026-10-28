@@ -1,0 +1,396 @@
+{
+  "schema": "old-oak-sagamore-discovery-ledger-v1",
+  "as_of": "2026-10-27",
+  "status": "discovery_inventory_accepted_implementation_pending",
+  "basis_commit": "be396f4c7f31c46fea0386de988b999c40031b9e",
+  "baseline_publication": {
+    "total_dossiers": 1050,
+    "existing_sagamore_dossiers": 15,
+    "north_american_checkpoint": 37,
+    "quality_rule": "category-relative 1..10; N/A when exact independent tasting is insufficient",
+    "no_duplicate_rule": "Never regenerate or re-score preexisting 15 Sagamore dossiers merely to increase count"
+  },
+  "scope_rule": "Finite verified candidate slate; a pending row is NOT a published or validated dossier. Add releases only after source authentication and explicit roadmap revision. Exclusions require a material liquid difference to reverse.",
+  "source_index": "https://sagamorespirit.com/spirits/",
+  "counts": {
+    "existing_published": 15,
+    "pending_research": 21,
+    "excluded_pending_liquid_distinction": 3,
+    "total": 39
+  },
+  "entries": [
+    {
+      "order": 1,
+      "id": "sagamore-10-year-rye",
+      "expression": "Sagamore 10-Year Rye (2025)",
+      "decision": "existing_published",
+      "filename": "sagamore-10-year-rye.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 2,
+      "id": "sagamore-bottled-in-bond-5-year-reviewed-2023",
+      "expression": "Bottled in Bond 5-Year reviewed sample",
+      "decision": "existing_published",
+      "filename": "sagamore-bottled-in-bond-5-year-reviewed-2023.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 3,
+      "id": "sagamore-calvados-finish-2020",
+      "expression": "Calvados Finish (2020)",
+      "decision": "existing_published",
+      "filename": "sagamore-calvados-finish-2020.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 4,
+      "id": "sagamore-cask-strength-7-year-batch-1a",
+      "expression": "Cask Strength 7-Year Batch 1A",
+      "decision": "existing_published",
+      "filename": "sagamore-cask-strength-7-year-batch-1a.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 5,
+      "id": "sagamore-cognac-finish-2026-catalogue",
+      "expression": "Cognac Cask Finish (2026)",
+      "decision": "existing_published",
+      "filename": "sagamore-cognac-finish-2026-catalogue.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 6,
+      "id": "sagamore-high-rye-bourbon-2026",
+      "expression": "High Rye Bourbon (2026)",
+      "decision": "existing_published",
+      "filename": "sagamore-high-rye-bourbon-2026.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 7,
+      "id": "sagamore-high-rye-bourbon",
+      "expression": "High Rye Bourbon (2025)",
+      "decision": "existing_published",
+      "filename": "sagamore-high-rye-bourbon.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 8,
+      "id": "sagamore-manhattan-finish-2020",
+      "expression": "Manhattan Finish (2020)",
+      "decision": "existing_published",
+      "filename": "sagamore-manhattan-finish-2020.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 9,
+      "id": "sagamore-port-finish-2023",
+      "expression": "Port Finish (2023)",
+      "decision": "existing_published",
+      "filename": "sagamore-port-finish-2023.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 10,
+      "id": "sagamore-pot-still-rye-malt-catalogue",
+      "expression": "Pot Still Rye Malt 2026",
+      "decision": "existing_published",
+      "filename": "sagamore-pot-still-rye-malt-catalogue.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 11,
+      "id": "sagamore-rye-cask-strength",
+      "expression": "Cask Strength Rye (general)",
+      "decision": "existing_published",
+      "filename": "sagamore-rye-cask-strength.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 12,
+      "id": "sagamore-rye-double-oak-batch-9a",
+      "expression": "Double Oak Batch 9A",
+      "decision": "existing_published",
+      "filename": "sagamore-rye-double-oak-batch-9a.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 13,
+      "id": "sagamore-rye-small-batch-batch-2r",
+      "expression": "Small Batch (Batch 2R)",
+      "decision": "existing_published",
+      "filename": "sagamore-rye-small-batch-batch-2r.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 14,
+      "id": "sagamore-sherry-finish-reviewed-2023",
+      "expression": "Sherry Finish reviewed 2023",
+      "decision": "existing_published",
+      "filename": "sagamore-sherry-finish-reviewed-2023.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 15,
+      "id": "sagamore-tequila-finish-2021",
+      "expression": "Tequila Finish (2021)",
+      "decision": "existing_published",
+      "filename": "sagamore-tequila-finish-2021.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Preserve existing accepted article; audit technical/editorial mismatches separately; not a new dossier."
+    },
+    {
+      "order": 16,
+      "id": "sagamore-small-batch-current",
+      "expression": "Small Batch Rye, standard Maryland-made flagship (2024 onward)",
+      "decision": "pending_research",
+      "filename": "sagamore-small-batch-current.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Confirm core standard vs individually identified Batch 2R; do not silently merge source notes",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 17,
+      "id": "sagamore-double-oak-current",
+      "expression": "Double Oak Rye, standard current 96.6 proof",
+      "decision": "pending_research",
+      "filename": "sagamore-double-oak-current.html",
+      "producer_source": "https://sagamorespirit.com/spirits/double-oak-rye-whiskey/",
+      "identity_guard": "Existing Batch 9A is not the entire ongoing release; audit actual age and 18-month finish",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 18,
+      "id": "sagamore-bib-6-year-2023",
+      "expression": "Bottled in Bond Straight Rye, 6-year annual 2023 release",
+      "decision": "pending_research",
+      "filename": "sagamore-bib-6-year-2023.html",
+      "producer_source": "https://sagamorespirit.com/spirits/bottled-in-bond-straight-rye-whiskey/",
+      "identity_guard": "Distinguish 6-year 2023 from already published 5-year and newer 7-/8-year",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 19,
+      "id": "sagamore-bib-7-year-2024",
+      "expression": "Bottled in Bond Straight Rye, 7-year 2024 release",
+      "decision": "pending_research",
+      "filename": "sagamore-bib-7-year-2024.html",
+      "producer_source": "https://shop.sagamorespirit.com/products/sagamore-2024-bottled-in-bond-straight-rye-whiskey",
+      "identity_guard": "100 proof; fall 2017 distillation; independent reviews matched; $59 distillery price context",
+      "independent_evidence_status": "matched_lead_available"
+    },
+    {
+      "order": 20,
+      "id": "sagamore-bib-8-year-2026",
+      "expression": "Bottled in Bond Straight Rye, 8-year 2026 release",
+      "decision": "pending_research",
+      "filename": "sagamore-bib-8-year-2026.html",
+      "producer_source": "https://sagamorespirit.com/spirits/sagamore-bottled-in-bond-straight-rye-whiskey/",
+      "identity_guard": "100 proof, September 2026; 2018 spring distilled; independent review by Breaking Bourbon",
+      "independent_evidence_status": "matched_lead_available"
+    },
+    {
+      "order": 21,
+      "id": "sagamore-rye-9-year-2024",
+      "expression": "9-Year Straight Rye Reserve Series, 2024 Batch 1A",
+      "decision": "pending_research",
+      "filename": "sagamore-rye-9-year-2024.html",
+      "producer_source": "https://sagamorespirit.com/spirits/sagamore-9-year-old-rye-whiskey/",
+      "identity_guard": "112.6 proof, 9 years; distinct from 10 year",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 22,
+      "id": "sagamore-rye-8-year",
+      "expression": "8-Year Straight Rye older Reserve Series",
+      "decision": "pending_research",
+      "filename": "sagamore-rye-8-year.html",
+      "producer_source": "https://sagamorespirit.com/spirits/8-year-old-rye-whiskey/",
+      "identity_guard": "Age-statement distinct from the Bottled in Bond 8-year; verify proof and release",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 23,
+      "id": "sagamore-manhattan-finish-2024",
+      "expression": "Manhattan Finish 2024 reserve release",
+      "decision": "pending_research",
+      "filename": "sagamore-manhattan-finish-2024.html",
+      "producer_source": "https://www.prweb.com/releases/sagamore-spirit-launches-second-release-of-manhattan-finish-rye-whiskey-302098547.html",
+      "identity_guard": "103 proof; separate release after 2020; minimum 20-month finish",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 24,
+      "id": "sagamore-manhattan-finish-2025",
+      "expression": "Manhattan Finish 2025 reserve release",
+      "decision": "pending_research",
+      "filename": "sagamore-manhattan-finish-2025.html",
+      "producer_source": "https://sagamorespirit.com/spirits/manhattan-finish/",
+      "identity_guard": "103 proof; distinct 30-month finish documented, do not assume 2020 equivalence",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 25,
+      "id": "sagamore-rum-cask-finish",
+      "expression": "Rum Cask Finish Rye",
+      "decision": "pending_research",
+      "filename": "sagamore-rum-cask-finish.html",
+      "producer_source": "https://sagamorespirit.com/spirits/rum-cask-finish-rye-whiskey/",
+      "identity_guard": "Separate finishing cask; historical release",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 26,
+      "id": "sagamore-barleywine-cask-finish",
+      "expression": "Barleywine Cask Finish Rye",
+      "decision": "pending_research",
+      "filename": "sagamore-barleywine-cask-finish.html",
+      "producer_source": "https://sagamorespirit.com/spirits/barleywine-cask-finish-rye-whiskey/",
+      "identity_guard": "Separate beer-wine cask type; distinguish Ale Finish and Rye Ale",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 27,
+      "id": "sagamore-ale-cask-finish",
+      "expression": "Ale Cask Finish Rye",
+      "decision": "pending_research",
+      "filename": "sagamore-ale-cask-finish.html",
+      "producer_source": "https://sagamorespirit.com/spirits/ale-cask-finish-rye-whiskey/",
+      "identity_guard": "Verify dated release and differentiate from Barleywine and Rye Ale",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 28,
+      "id": "sagamore-rye-ale-finish",
+      "expression": "Rye Ale Finish",
+      "decision": "pending_research",
+      "filename": "sagamore-rye-ale-finish.html",
+      "producer_source": "https://sagamorespirit.com/spirits/rye-ale-finish/",
+      "identity_guard": "Distinct historical finish; verify exact age/proof",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 29,
+      "id": "sagamore-vintners-finish",
+      "expression": "Vintner's Finish Rye",
+      "decision": "pending_research",
+      "filename": "sagamore-vintners-finish.html",
+      "producer_source": "https://sagamorespirit.com/spirits/vintners-finish/",
+      "identity_guard": "Verify blend and which wine barrels; do not merge all wine finishes",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 30,
+      "id": "sagamore-moscatel-finish",
+      "expression": "Moscatel Barrel Finish Rye",
+      "decision": "pending_research",
+      "filename": "sagamore-moscatel-finish.html",
+      "producer_source": "https://sagamorespirit.com/spirits/moscatel-barrel-finish-whiskey/",
+      "identity_guard": "Verify release year, strength and cask type",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 31,
+      "id": "sagamore-port-finish-2019",
+      "expression": "Port Finish 2019 World’s Best Rye historical expression",
+      "decision": "pending_research",
+      "filename": "sagamore-port-finish-2019.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Separate 2019 competition-era release from published 2023 Port if liquid or batch specs differ; otherwise mark canonical baseline",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 32,
+      "id": "sagamore-mezcal-finish-2026",
+      "expression": "Mezcal Cask Finish, distillery exclusive",
+      "decision": "pending_research",
+      "filename": "sagamore-mezcal-finish-2026.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Exact producer listing; date/proof independent review still needed",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 33,
+      "id": "sagamore-kingston-cider-finish-2026",
+      "expression": "Kingston Hard Cider Cask Finish, distillery exclusive",
+      "decision": "pending_research",
+      "filename": "sagamore-kingston-cider-finish-2026.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Exact producer listing; distinguish apple-cider casks from Calvados",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 34,
+      "id": "sagamore-amontillado-finish-2026",
+      "expression": "Amontillado Cask Finish 2026",
+      "decision": "pending_research",
+      "filename": "sagamore-amontillado-finish-2026.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Sherry identity distinct from published Sherry Finish 2023 if confirmed",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 35,
+      "id": "sagamore-america-250-2026",
+      "expression": "America 250 Straight Rye, 2026 limited distillery exclusive",
+      "decision": "pending_research",
+      "filename": "sagamore-america-250-2026.html",
+      "producer_source": "https://sagamorespirit.com/spirits/america-250-straight-rye-whiskey/",
+      "identity_guard": "8 years, 110 proof, 250 numbered bottles, producer listed $125; no price halo on quality",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 36,
+      "id": "sagamore-cask-strength-2025",
+      "expression": "7-Year Cask Strength Rye, 2025 123-proof batch",
+      "decision": "pending_research",
+      "filename": "sagamore-cask-strength-2025.html",
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Verify exact 2025 batch is distinct from published general Cask Strength and named 7 Year Batch 1A; only add when edition-specific tasting warrants separate page",
+      "independent_evidence_status": "needs_exact_release_check"
+    },
+    {
+      "order": 37,
+      "id": "sagamore-ravens-purple-rising",
+      "expression": "Ravens Purple Rising Small Batch packaging",
+      "decision": "excluded_pending_liquid_distinction",
+      "filename": null,
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Do not publish new dossier merely for Ravens artwork; research whether liquid differs from standard before reclassifying"
+    },
+    {
+      "order": 38,
+      "id": "sagamore-ravens-darkness-falls",
+      "expression": "Ravens Darkness Falls 8-Year Bottled-in-Bond presentation",
+      "decision": "excluded_pending_liquid_distinction",
+      "filename": null,
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "Commemorative helmet packaging alone is not a separate liquid; verify batch differences before inclusion"
+    },
+    {
+      "order": 39,
+      "id": "sagamore-spirit-amaro",
+      "expression": "Sagamore Spirit Amaro",
+      "decision": "excluded_pending_liquid_distinction",
+      "filename": null,
+      "producer_source": "https://sagamorespirit.com/spirits/",
+      "identity_guard": "A flavored amaro, not a whiskey expression; exclude from whiskey dossier expansion"
+    }
+  ],
+  "next_action": "Research and author a bounded 3-expression batch beginning with 7-year Bottled in Bond (2024), 8-year Bottled in Bond (2026), 9-year Straight Rye (2024); verify price/independent sensory evidence, then implement indexed articles and Chromium validation without touching 825 baseline or previously published 225 NA expansion dossiers."
+}
