@@ -29,6 +29,8 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Verify authoritative development roadmap and homepage status
         run: python scripts/roadmap_validate.py
+      - name: Verify source-linked Sagamore finite discovery and no duplicate dossiers
+        run: python scripts/sagamore_discovery_validate.py
       - name: Static repository validation
         id: static
         continue-on-error: true

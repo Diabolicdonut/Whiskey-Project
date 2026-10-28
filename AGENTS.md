@@ -9,6 +9,12 @@
 3. At roadmap R001 (2026-10-27), accepted North American checkpoint is **NA-036**, **1,043 dossiers**, **218 accepted expansion additions** and **7 pending**. Research and structured input for the seven are committed under `research/na-037-*.{md,json}` but NOT published. **This paragraph is a dated historical reference, not an alternative to the current controller.**
 4. Resume from the controller's **next_action** and deterministic ledger order. Do not begin Sagamore or later families until the expansion controller has actually completed with validation and signoff.
 
+## Current Sagamore discovery workstream (S001)
+
+- Read `sagamore-expression-ledger.json` and `research/sagamore-2026-discovery.md` after NA-037 closure before adding Sagamore entries. Preserve all 15 preexisting Sagamore pages, differentiate label and batch identities, and do not count the 21 research candidates as published.
+- First bounded target: 7-year BiB 2024, 8-year BiB 2026, and 9-year Reserve 2024; verify exact sources, independent tasting scope, time/currency/size of prices and calibrated scores. All changes must pass Chromium and original 825 preservation checks.
+- The accepted project scope remains governed by `DEVELOPMENT-ROADMAP.md` R003, not the historical NA-036 line above. Keep the strict roadmap percentage at 41 until a whole gate is accepted.
+
 ## Implementation and editorial rules
 
 - Make bounded, recoverable, small checkpoints; never promise an unverified bulk implementation. Use expected Git ref/parent SHA to avoid clobbering concurrent workers.

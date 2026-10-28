@@ -1,6 +1,6 @@
 # Old Oak Omnibus — Authoritative Development Roadmap
 
-**Roadmap revision:** R002
+**Roadmap revision:** R003
 **Updated:** 2026-10-27  
 **Project:** Old Oak Omnibus / Whiskey Project  
 **Production site:** https://diabolicdonut.github.io/Whiskey-Project/  
@@ -57,7 +57,7 @@ Status meanings: **accepted** = explicitly validated full gate criteria; **parti
 | image-audit | Finish the initial 825-image inspection and verified embedding pass | 5 | accepted | image-embedding-checkpoint.json |
 | catalogue-core | Deliver searchable, compact, nine-column sortable catalogue and score model | 7 | accepted | index.html; whiskey-data.json; scripts/north_american_validate.py |
 | na-expansion | Close all 238 Widow Jane/Canadian expression decisions and publish validated dossiers | 11 | accepted | north-american-expansion-checkpoint.json; north-american-expression-ledger.json; research/na-037-authored.json |
-| sagamore | Complete separately researched Sagamore Spirit expression family | 8 | planned | future Sagamore discovery ledger |
+| sagamore | Complete separately researched Sagamore Spirit expression family | 8 | partial | sagamore-expression-ledger.json; research/sagamore-2026-discovery.md |
 | priority-families | Close approved North American family gaps (Weller, Kings, Jeptha Creed, Canadian Club and others) | 5 | planned | family-catalog-v6.7.md; future family ledgers |
 | world-families | Expand major international and underserved whiskey styles in approved finite batches | 5 | planned | future approved discovery ledgers |
 | quality-calibration | Recalibrate all dossiers with category-specific 1–10 anchors and reviewer-supported evidence | 9 | partial | calibration-hierarchy-v6.2.md; score-audit.json; north-american-calibration.md |
@@ -74,7 +74,7 @@ Status meanings: **accepted** = explicitly validated full gate criteria; **parti
 
 **Stage A — Preserve and finish current commitments.** Original 825 dossiers remain immutable. As of 2026-10-27, **NA-037, 1,050 dossiers** = 825 baseline + 28 Widow Jane + 197 Canadian; ledger **225 accepted, 11 excluded, 2 baseline-preserved, 0 pending** (238 of 238 decisions). The final seven Canadian dossiers are published and were tested with zero failures using full structural checking and focused Chromium at 390/768/1440. North American Expansion is complete; categorical filters have been alphabetized with All first. Do not replay accepted checkpoints 001–037. Advance to approved Sagamore research as Stage B.
 
-**Stage B — Extend expression coverage deliberately.** Move to Sagamore Spirit as the next named family, then prioritize requested gaps (Weller, Kings, Jeptha Creed, Canadian Club and other substantive Canadian/North American families) and approved international styles. Publish in bounded 5–10-dossier recoverable batches (or smaller when risk demands), with own discovery ledger/acceptance evidence. Research flagship and notable variants first; distinguish true expressions from bottle-size/packaging variations. Reprioritize only through a roadmap revision rather than opportunistic count maximization.
+**Stage B — Extend expression coverage deliberately.** **Sagamore S001 discovery accepted 2026-10-27:** 15 existing dossiers preserved, 21 distinct or conditional expression candidates recorded for independent evidence review, three presentation/non-whiskey exclusions/holds. Source-linked finite ledger: `sagamore-expression-ledger.json`; audit: `research/sagamore-2026-discovery.md`. Start with the separately sourced 2024 7-year BiB, 2026 8-year BiB and 2024 9-year rye, publishing only after verified full dossier, index, source/score, pricing and Chromium acceptance. This is a *partial* Sagamore milestone; no new dossiers are accepted by discovery alone. Move to Sagamore Spirit as the next named family, then prioritize requested gaps (Weller, Kings, Jeptha Creed, Canadian Club and other substantive Canadian/North American families) and approved international styles. Publish in bounded 5–10-dossier recoverable batches (or smaller when risk demands), with own discovery ledger/acceptance evidence. Research flagship and notable variants first; distinguish true expressions from bottle-size/packaging variations. Reprioritize only through a roadmap revision rather than opportunistic count maximization.
 
 **Stage C — Audit quality, value and article depth across *all* published dossiers.** Establish well-supported worst, midpoint and best anchors *per* like-for-like style; review scores across the original and expansion cohorts; audit discrepancies such as same-family spelling duplicates, provisional/unsupported scores, major price/value outliers and inconsistent bottle sizes. Complete reviewer synthesis, five price bands, where-to-use serving guidance, technically honest recipes and contextual comparables without rewriting validated prose gratuitously.
 
@@ -104,5 +104,6 @@ Do not count partial gate weight toward accepted completion, and do not change w
 
 ## 9. Revision history
 
+- **2026-10-27 — R003:** Started Sagamore Spirit S001 with a source-linked, finite ledger: 15 protected existing dossiers, 21 edition-gated research candidates and 3 exclusions/holds. Marked Sagamore gate partial without claiming publication; overall strict accepted weight remains **41%**. Added discovery validation to CI; next S002 is three individual evidence-led dossiers.
 - **2026-10-27 — R002:** Accepted and validated NA-037: seven remaining Canadian dossiers; total 1,050, 238/238 decisions, all original 825 preserved. Normalized catalogue filters alphabetically. North American gate accepted (+11 weighted points); overall **41%**. Next authorized family: Sagamore.
 - **2026-10-27 — R001:** Expanded the existing 11-gate/44% coverage sketch into a holistic, 15-gate, 100-point roadmap covering platform, world-category coverage, source/price accuracy, complete dossier and calibration standards, maintenance and AI-worker procedures. Rebased accepted percentage to **30%** without changing accepted dossiers, scoring or expansion checkpoint. Wired the site-visible revision and roadmap to this governing document.

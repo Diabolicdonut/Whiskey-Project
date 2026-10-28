@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "project": "Whiskey-Project",
   "asOf": "2026-10-27",
-  "revision": "R002",
+  "revision": "R003",
   "revisionSource": {
     "type": "json",
     "file": "north-american-expansion-checkpoint.json",
@@ -31,7 +31,7 @@
     "label": "Full Old Oak Omnibus development vision",
     "scope": "15 finite accepted-or-planned delivery gates spanning the article corpus, category-wide scoring and NC value, future families/world styles, provenance, UI, QA and living maintenance; possible future releases are not used as a fictional denominator.",
     "document": "DEVELOPMENT-ROADMAP.md",
-    "note": "R002: final seven Canadian dossiers accepted; 41/100 full-vision delivery points earned. North American 238/238 is only one finished workstream.",
+    "note": "R003: 41/100 fully accepted long-term points. Sagamore discovery S001: 15 existing, 21 pending candidates, three excluded/held. Partial milestones earn zero until complete; North American 238/238 is finished.",
     "gates": [
       {
         "id": "foundation",
@@ -72,8 +72,8 @@
         "id": "sagamore",
         "label": "Complete separately researched Sagamore Spirit expression family",
         "weight": 8,
-        "status": "planned",
-        "evidence": "future Sagamore discovery ledger"
+        "status": "partial",
+        "evidence": "sagamore-expression-ledger.json; research/sagamore-2026-discovery.md"
       },
       {
         "id": "priority-families",
